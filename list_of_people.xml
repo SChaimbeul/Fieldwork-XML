@@ -20,7 +20,7 @@
     <body>
       <listPerson>
         <person xml:id="A_MacLennan_Harris_Gobhaig">
-          <persName  xml:lang="en">
+          <persName xml:lang="en">
             <forename>A.</forename>
             <surname>MacLennan</surname>
           </persName>
@@ -238,6 +238,21 @@
             <location corresp="Perthshire_Loch_Rannoch"/>
           </birth>
         </person>
+        <person xml:id="Donald_Fraser_West_Achiltibuie">
+          <persName xml:lang="en">
+            <forename>Donald</forename>
+            <surname>Fraser</surname>
+          </persName>
+          <age>~70</age>
+        </person>
+        <person xml:id="John_MacLeod_Achiltibuie">
+          <persName xml:lang="en">
+            <forename>John</forename>
+            <surname>MacLeod</surname>
+          </persName>
+          <persName>Shonnie Ali Bhig</persName>
+          <age>80s</age>
+        </person>
 
         <!-- Fieldworkers -->
         <person xml:id="A_J_Smith">
@@ -247,7 +262,7 @@
         <person xml:id="Tony_Dilworth">
           <persName xml:lang="en">Tony Dilworth</persName>
         </person>
-        
+
 
         <!-- Editors -->
         <person xml:id="OSz">

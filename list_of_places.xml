@@ -145,6 +145,15 @@
             <placeName xml:lang="en">Loch Rannoch</placeName>
           </place>
         </place>
+        <place xml:id="Ross-shire">
+          <placeName xml:lang="en">Ross-shire</placeName>
+          <place xml:id="Ross-shire_Achiltibuie">
+            <placeName xml:lang="en">Achiltibuie</placeName>
+            <place xml:id="Ross-shire_West_Achiltibuie">
+              <placeName xml:lang="en">West Achiltibuie</placeName>
+            </place>
+          </place>
+        </place>
         
         
       </listPlace>

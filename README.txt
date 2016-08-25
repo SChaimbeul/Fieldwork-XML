@@ -171,6 +171,11 @@ Note:
 
 2. The 'corresp' attributes within particDesc>person are IDREFs which must point to a valid 'person' in the file 'list_of_people.xml'.
 
+3. Where a question mark is used in the original to indiciate uncertainty, use the attribute cert="medium", e.g.
+
+<person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+
+
 The 'body' of each document is typically a sequence of 'entry' elements:
 
 <body>

@@ -1,55 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_AchiltibuieDFraserslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>10/1969</date>
-            <location>
-               <placeName>Ross-shire, West Achiltibuie</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[AJ Smith?]</persName>
-            </person>
-            <person role="informant">
-               <persName>Donald Fraser</persName>
-               <age>c. 70</age>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Miscellaneous</term>
-               <term xml:lang="gd">Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_AchiltibuieDFraserslips-idp115473704">
-            <form>
-               <orth>muileann-tóin-ri-làir</orth>
-            </form>
-            <def>Notes: old type of mill with water wheel in a horizontal position.</def>
-         </entry>
-         <entry xml:id="Slips_AchiltibuieDFraserslips-idp115464344">
-            <form>
-               <orth>buicean</orth>
-            </form>
-            <def>Notes: a pimple.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>10/1969</date>
+        <location corresp="Ross-shire_West_Achiltibuie"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="Donald_Fraser_West_Achiltibuie"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_AchiltibuieDFraserslips-idp115473704">
+        <form>
+          <orth>muileann-tóin-ri-làir</orth>
+        </form>
+        <def>Notes: old type of mill with water wheel in a horizontal position.</def>
+      </entry>
+      <entry xml:id="Slips_AchiltibuieDFraserslips-idp115464344">
+        <form>
+          <orth>buicean</orth>
+        </form>
+        <def>Notes: a pimple.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>
