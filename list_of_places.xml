@@ -134,10 +134,19 @@
                 <geo>57.898567 -7.072051</geo>
               </location>
             </place>
-
-
           </place>
         </place>
+        <place xml:id="Perthshire">
+          <placeName xml:lang="en">Perthshire</placeName>
+          <place xml:id="Perthshire_Aberfeldy">
+            <placeName xml:lang="en">Aberfeldy</placeName>
+          </place>
+          <place xml:id="Perthshire_Loch_Rannoch">
+            <placeName xml:lang="en">Loch Rannoch</placeName>
+          </place>
+        </place>
+        
+        
       </listPlace>
     </body>
   </text>

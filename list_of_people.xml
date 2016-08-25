@@ -228,12 +228,26 @@
           </persName>
           <age>60</age>
         </person>
+        <person xml:id="Petrine_Stewart_Perthshire_Aberfeldy">
+          <persName xml:lang="en">
+            <forename>Petrine</forename>
+            <surname>Stewart</surname>
+          </persName>
+          <age>~70</age>
+          <birth>
+            <location corresp="Perthshire_Loch_Rannoch"/>
+          </birth>
+        </person>
 
         <!-- Fieldworkers -->
         <person xml:id="A_J_Smith">
           <persName xml:lang="en">A. J. Smith</persName>
         </person>
         <person xml:id="anonymous_D"/>
+        <person xml:id="Tony_Dilworth">
+          <persName xml:lang="en">Tony Dilworth</persName>
+        </person>
+        
 
         <!-- Editors -->
         <person xml:id="OSz">
