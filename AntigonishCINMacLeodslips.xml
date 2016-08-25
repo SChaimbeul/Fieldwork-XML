@@ -1,148 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="Slips_AntigonishCINMacLeodslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>05/1971</date>
-            <location>
-               <placeName>Canada, Antigonish</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[AJ Smith?]</persName>
-            </person>
-            <person role="informant">
-               <persName>C.I.N. MacLeod</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167418392">
-            <form>
-               <orth>làgaraid</orth>
-            </form>
-            <def>Notes: turmoil of the sea.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167416592">
-            <form>
-               <orth>math</orth>
-            </form>
-            <def>Quotation: math dh’fhaoidte. Notes: perhaps.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167414936">
-            <form>
-               <orth>ribheid</orth>
-            </form>
-            <def>Quotation: Bha ribheid na dhà aige. Notes: He had a drink or two in him.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167413280">
-            <form>
-               <orth>intervale</orth>
-            </form>
-            <def>Notes: open area beside a river (in Eng. Gaelic).</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167411336">
-            <form>
-               <orth>pultach</orth>
-               <pron>[pu̜ɫt̪ɑx]</pron>
-            </form>
-            <def>[pu̜ɫt̪ɑx] Notes: stocky, short.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167410184">
-            <form>
-               <orth>aotraman</orth>
-            </form>
-            <def>Notes: light-headed person.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167408096">
-            <form>
-               <orth>bàirlinn</orth>
-            </form>
-            <def>Notes: ultimate warning, threat.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167356328">
-            <form>
-               <orth>barrens</orth>
-            </form>
-            <def>Quotation: as na barrens. Notes: cleanings in the forest (barennes [?]). (French – used in Eng and Gaelic speech.)</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167355392">
-            <form>
-               <orth>bigean</orth>
-               <pron>[bıɡʹɑṉ]</pron>
-            </form>
-            <def>[bıɡʹɑṉ] Notes: penis.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167352368">
-            <form>
-               <orth>cuglaidh</orth>
-            </form>
-            <def>Quotation: gnothaich cuglaidh. Notes: dicey matter.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167357840">
-            <form>
-               <orth>eataras</orth>
-               <pron>[ɛt̪əɾəs]</pron>
-            </form>
-            <def>[ɛt̪əɾəs] Quotation: “Ciamar a tha thu?” “O, tha an eataras.” Notes: so-so.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167359496">
-            <form>
-               <orth>éisdeachd</orth>
-            </form>
-            <def>Notes: confession.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167361440">
-            <form>
-               <orth>fleachdag</orth>
-            </form>
-            <def>Quotation: fleachdag shneachd. Notes: flake of snow.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167362016">
-            <form>
-               <orth>gàbhaidh</orth>
-            </form>
-            <def>Quotation: ’S e gnothaich gàbhaidh a th’ann. Tha e gàbhaidh math. Notes: awful; awfully.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167364464">
-            <form>
-               <orth>gaothan</orth>
-            </form>
-            <def>Notes: light-headed person.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167366264">
-            <form>
-               <orth>gomag</orth>
-            </form>
-            <def>Notes: idiot.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167367488">
-            <form>
-               <orth>gròic</orth>
-            </form>
-            <def>Notes: fool, dunderhead.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_AntigonishCINMacLeodslips">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>05/1971</date>
+        <location corresp="Nova_Scotia_Antigonish"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="C_I_N_MacLeod_Nova_Scotia_Antigonish"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167418392">
+        <form>
+          <orth>làgaraid</orth>
+        </form>
+        <def>Notes: turmoil of the sea.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167416592">
+        <form>
+          <orth>math</orth>
+        </form>
+        <def>Quotation: math dh’fhaoidte. Notes: perhaps.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167414936">
+        <form>
+          <orth>ribheid</orth>
+        </form>
+        <def>Quotation: Bha ribheid na dhà aige. Notes: He had a drink or two in him.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167413280">
+        <form>
+          <orth>intervale</orth>
+        </form>
+        <def>Notes: open area beside a river (in Eng. Gaelic).</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167411336">
+        <form>
+          <orth>pultach</orth>
+          <pron>[pu̜ɫt̪ɑx]</pron>
+        </form>
+        <def>Notes: stocky, short.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167410184">
+        <form>
+          <orth>aotraman</orth>
+        </form>
+        <def>Notes: light-headed person.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167408096">
+        <form>
+          <orth>bàirlinn</orth>
+        </form>
+        <def>Notes: ultimate warning, threat.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167356328">
+        <form>
+          <orth>barrens</orth>
+        </form>
+        <def>Quotation: as na barrens. Notes: cleanings in the forest (barennes [?]). (French – used in Eng and Gaelic speech.)</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167355392">
+        <form>
+          <orth>bigean</orth>
+          <pron>[bıɡʹɑṉ]</pron>
+        </form>
+        <def>Notes: penis.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167352368">
+        <form>
+          <orth>cuglaidh</orth>
+        </form>
+        <def>Quotation: gnothaich cuglaidh. Notes: dicey matter.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167357840">
+        <form>
+          <orth>eataras</orth>
+          <pron>[ɛt̪əɾəs]</pron>
+        </form>
+        <def>Quotation: “Ciamar a tha thu?” “O, tha an eataras.” Notes: so-so.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167359496">
+        <form>
+          <orth>éisdeachd</orth>
+        </form>
+        <def>Notes: confession.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167361440">
+        <form>
+          <orth>fleachdag</orth>
+        </form>
+        <def>Quotation: fleachdag shneachd. Notes: flake of snow.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167362016">
+        <form>
+          <orth>gàbhaidh</orth>
+        </form>
+        <def>Quotation: ’S e gnothaich gàbhaidh a th’ann. Tha e gàbhaidh math. Notes: awful; awfully.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167364464">
+        <form>
+          <orth>gaothan</orth>
+        </form>
+        <def>Notes: light-headed person.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167366264">
+        <form>
+          <orth>gomag</orth>
+        </form>
+        <def>Notes: idiot.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishCINMacLeodslips-idp167367488">
+        <form>
+          <orth>gròic</orth>
+        </form>
+        <def>Notes: fool, dunderhead.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

@@ -187,7 +187,13 @@
             <placeName xml:lang="en">Achlyness</placeName>
           </place>
         </place>
-        
+        <place xml:id="Nova_Scotia">
+          <placeName>Alba Nuadh</placeName>
+          <placeName xml:lang="en">Nova Scotia</placeName>
+          <place xml:id="Nova_Scotia_Antigonish">
+            <placeName xml:lang="en">Antigonish</placeName>
+          </place>
+        </place>
       </listPlace>
     </body>
   </text>

@@ -313,6 +313,17 @@
           <persName>Shonnie Ruadh</persName>
           <age>&gt;80</age>
         </person>
+        <person xml:id="C_I_N_MacLeod_Nova_Scotia_Antigonish">
+          <persName>
+            <forename>C.</forename>
+            <forename>I.</forename>
+            <forename>N.</forename>
+            <surname>MacLeod</surname>
+          </persName>
+        </person>
+        <person xml:id="SMK_Nova_Scotia_Antigonish">
+          <persName xml:lang="en">SMK</persName>
+        </person>
 
         <!-- Fieldworkers -->
         <person xml:id="A_J_Smith">

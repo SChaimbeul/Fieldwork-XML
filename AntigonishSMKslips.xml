@@ -1,428 +1,422 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_AntigonishSMKslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>05/1971</date>
-            <location>
-               <placeName>Canada, Cape Breton, Antigonish</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[AJ Smith?]</persName>
-            </person>
-            <person role="informant">
-               <persName>SMK</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_AntigonishSMKslips-idp167398248">
-            <form>
-               <orth>làmhan a’ chruinn</orth>
-            </form>
-            <def>Notes: used for plough handles.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp167345112">
-            <form>
-               <orth>maighdean</orth>
-            </form>
-            <def>Quotation: na maighdeanan. Notes: uprights supporting the flyer axle in a spinning wheel.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp167435400">
-            <form>
-               <orth>mèipil</orth>
-               <pron>[mɛ̃:pəl]</pron>
-            </form>
-            <def>[mɛ̃:pəl] Notes: maple.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp167342304">
-            <form>
-               <orth>mial</orth>
-            </form>
-            <def>Quotation: mialan a’ bhuntàta. Notes: worms in potatoes.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp167327400">
-            <form>
-               <orth>milearach</orth>
-               <pron>[mĩlɑɾɑx]</pron>
-            </form>
-            <def>[mĩlɑɾɑx] Notes: seaweed used for manure in some parts.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp167455488">
-            <form>
-               <orth>mór-roinn</orth>
-            </form>
-            <def>Notes: province.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp167454840">
-            <form>
-               <orth>rùda</orth>
-            </form>
-            <def>Quotation: uan-rùda. Notes: tup lamb or young ram.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp167453328">
-            <form>
-               <orth>rùda</orth>
-            </form>
-            <def>Notes: ram.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp167451672">
-            <form>
-               <orth>ruigein</orth>
-               <pron>[rwɡʹɛ̃nʹ]</pron>
-            </form>
-            <def>[rwɡʹɛ̃nʹ] [sic] Notes: ridgeling.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp167449872">
-            <form>
-               <orth>athairle</orth>
-               <pron>[ɑhəʴɫə]</pron>
-            </form>
-            <def>[ɑhəʴɫə] Notes: a beast a little older than a heifer. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp167447136">
-            <form>
-               <orth>sitig</orth>
-            </form>
-            <def>Notes: area outside the kitchen where dirty water was thrown.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp167445840">
-            <form>
-               <orth>siug</orth>
-               <pron>[ʃu̟ɡ]</pron>
-            </form>
-            <def>[ʃu̟ɡ] Quotation: siug, siug! siugan! Notes: call to a calf.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp167443968">
-            <form>
-               <orth>siugan</orth>
-               <pron>[ʃu̟ɡɑ̃ṉ]</pron>
-            </form>
-            <def>[ʃu̟ɡɑ̃ṉ] Quotation: siug, siug! siugan! Notes: call to a calf.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp167442528">
-            <form>
-               <orth>pairce</orth>
-            </form>
-            <def>Notes: a field (didn’t use terms achadh, feannag).</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp167440584">
-            <form>
-               <orth>póc</orth>
-               <pron>[po:k]</pron>
-            </form>
-            <def>[po:k] Notes: cockroach.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp167439432">
-            <form>
-               <orth>pràiseach</orth>
-            </form>
-            <def>Notes: cast-iron.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp167437344">
-            <form>
-               <orth>saighdear</orth>
-            </form>
-            <def>Quotation: na saighdearan. Notes: uprights which supported the wheel axle in the spinning wheel.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp167340720">
-            <form>
-               <orth>sgrìoban</orth>
-            </form>
-            <def>Notes: commonly used for rake.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp167339280">
-            <form>
-               <orth>sinnteachan</orth>
-            </form>
-            <def>Notes: older term for drag-chains.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp167336832">
-            <form>
-               <orth>siosar</orth>
-            </form>
-            <def>Notes: sheep shears.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp167333808">
-            <form>
-               <orth>spagh</orth>
-            </form>
-            <def>Notes: swathe.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp167328696">
-            <form>
-               <orth>speal</orth>
-            </form>
-            <def>Notes: blade of scythe.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp167428704">
-            <form>
-               <orth>spùt</orth>
-            </form>
-            <def>Notes: the scours.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp167432232">
-            <form>
-               <orth>steinseal</orth>
-               <pron>[sṯɛ̃ṉʃɑɫ]</pron>
-            </form>
-            <def>[sṯɛ̃ṉʃɑɫ] Notes: stanchion (for tying cows in byre).</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119549048">
-            <form>
-               <orth>stràbh</orth>
-            </form>
-            <def>Notes: trail or scatter of hay on the field after bulk had been removed.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119550560">
-            <form>
-               <orth>suamp</orth>
-               <pron>[su̜ɑmp]</pron>
-            </form>
-            <def>[su̜ɑmp] Notes: swamp.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119552288">
-            <form>
-               <orth>tir-mór</orth>
-            </form>
-            <def>Notes: mainland of Nova Scotia.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119553800">
-            <form>
-               <orth>tlèim</orth>
-               <pron>[t̪ɫɛ̃:m]</pron>
-            </form>
-            <def>[t̪ɫɛ̃:m] Notes: handful of hay or grain. (Dw. handful of wool.)</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119555528">
-            <form>
-               <orth>treasachan</orth>
-            </form>
-            <def>Notes: traces, drag-chains.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119557040">
-            <form>
-               <orth>treasadach</orth>
-            </form>
-            <def>Notes: ground in which grain was sown the previous year.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119558624">
-            <form>
-               <orth>uan</orth>
-            </form>
-            <def>Quotation: uan-rùda. Notes: young ram or tup lamb.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119560280">
-            <form>
-               <orth>amall</orth>
-            </form>
-            <def>Quotation: amall beag, amall mór. Notes: swingle-tree.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119561936">
-            <form>
-               <orth>barag</orth>
-               <pron>[bɑɾɑɡ]</pron>
-            </form>
-            <def>[bɑɾɑɡ] Notes: a place where hay or corn was stored, as the hay or corn was removed from below – the top could be slid down. </def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119563664">
-            <form>
-               <orth>blianag</orth>
-            </form>
-            <def>Notes: a green, level patch of ground.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119565176">
-            <form>
-               <orth>bogaich</orth>
-            </form>
-            <def>Notes: soft, muddy area.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119566688">
-            <form>
-               <orth>boitean</orth>
-            </form>
-            <def>Notes: a bundle of hay or straw carried on the back.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119568200">
-            <form>
-               <orth>buailtean</orth>
-            </form>
-            <def>Notes: often used for sùisd.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119569712">
-            <form>
-               <orth>calc</orth>
-            </form>
-            <def>Quotation: a’ calcadh a’ bhalla le còineach is creadh. Notes: caulk (packing in between the logs).</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119571440">
-            <form>
-               <orth>càthadh</orth>
-            </form>
-            <def>Notes: winnowing.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119572952">
-            <form>
-               <orth>ceathramh-dubh</orth>
-            </form>
-            <def>Notes: “Blackleg” in cattle. Would have to burn the carcase and bury it.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119574464">
-            <form>
-               <orth>cire</orth>
-            </form>
-            <def>Quotation: cire, cire! Notes: call to a sheep.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119576120">
-            <form>
-               <orth>cliath</orth>
-            </form>
-            <def>Notes: a panel in a log or board fence.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119577632">
-            <form>
-               <orth>coille-dhubh</orth>
-            </form>
-            <def>Notes: area of burnt forest.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119579144">
-            <form>
-               <orth>colaidh</orth>
-               <pron>[koɫi]</pron>
-            </form>
-            <def>[koɫi] Quotation: Tha a’ mhart ann an deagh cholaidh. Notes: for culaidh. She is in fine condition, of good appearance.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119581016">
-            <form>
-               <orth>còpadh</orth>
-            </form>
-            <def>Quotation: a’ còpadh a’ chairt. Notes: coping.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119582672">
-            <form>
-               <orth>corrag</orth>
-            </form>
-            <def>Quotation: na corragan. Notes: heard this term used for plough handles.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119584328">
-            <form>
-               <orth>corrag</orth>
-            </form>
-            <def>Notes: grip on a scythe.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119585840">
-            <form>
-               <orth>crann-deilbh</orth>
-            </form>
-            <def>Notes: warping frame.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119587352">
-            <form>
-               <orth>crann-speal</orth>
-            </form>
-            <def>Notes: wooden frame of scythe.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119588864">
-            <form>
-               <orth>cuilean</orth>
-            </form>
-            <def>Quotation: mathan is cuilean. Notes: bear cub.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119590520">
-            <form>
-               <orth>deoghal</orth>
-            </form>
-            <def>Quotation: a’ deoghal a’ bhoin; a’ deoghal sweetie. Notes: suckling or sucking.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119592248">
-            <form>
-               <orth>dlòth</orth>
-            </form>
-            <def>Quotation: air a dhlòth. Notes: e.g. grain laid in an orderly swathe after the mower.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119593976">
-            <form>
-               <orth>dromanach</orth>
-            </form>
-            <def>Notes: back-band.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119595488">
-            <form>
-               <orth>dubhadh</orth>
-            </form>
-            <def>Notes: blight.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119597000">
-            <form>
-               <orth>faod</orth>
-            </form>
-            <def>Quotation: math dh’fhaoidte. Notes: perhaps.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119598656">
-            <form>
-               <orth>feurslan</orth>
-               <pron>[fe:sᵊɫɑ̃nʹ]</pron>
-            </form>
-            <def>[fe:sᵊɫɑ̃nʹ] Notes: warble-fly (in cattle).</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119600384">
-            <form>
-               <orth>fiachadh</orth>
-            </form>
-            <def>Notes: inviting.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119601896">
-            <form>
-               <orth>gamhnach</orth>
-            </form>
-            <def>Notes: farrow cow.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119603408">
-            <form>
-               <orth>giort</orth>
-            </form>
-            <def>Notes: belly band.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119604920">
-            <form>
-               <orth>glan</orth>
-            </form>
-            <def>Quotation: Na ghlan a’ bhó fhathast. Notes: Did she deposit the placenta.</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119606576">
-            <form>
-               <orth>gorm-glas</orth>
-            </form>
-            <def>Notes: dapple-grey (horses).</def>
-         </entry>
-         <entry xml:id="Slips_AntigonishSMKslips-idp119608088">
-            <form>
-               <orth>grìneas</orth>
-               <pron>[ɡɾĩ:ṉəs]</pron>
-            </form>
-            <def>[ɡɾĩ:ṉəs] Notes: potato-pit.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>05/1971</date>
+        <location corresp="Nova_Scotia_Antigonish"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="SMK_Nova_Scotia_Antigonish"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_AntigonishSMKslips-idp167398248">
+        <form>
+          <orth>làmhan a’ chruinn</orth>
+        </form>
+        <def>Notes: used for plough handles.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp167345112">
+        <form>
+          <orth>maighdean</orth>
+        </form>
+        <def>Quotation: na maighdeanan. Notes: uprights supporting the flyer axle in a spinning wheel.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp167435400">
+        <form>
+          <orth>mèipil</orth>
+          <pron>[mɛ̃:pəl]</pron>
+        </form>
+        <def>Notes: maple.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp167342304">
+        <form>
+          <orth>mial</orth>
+        </form>
+        <def>Quotation: mialan a’ bhuntàta. Notes: worms in potatoes.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp167327400">
+        <form>
+          <orth>milearach</orth>
+          <pron>[mĩlɑɾɑx]</pron>
+        </form>
+        <def>Notes: seaweed used for manure in some parts.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp167455488">
+        <form>
+          <orth>mór-roinn</orth>
+        </form>
+        <def>Notes: province.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp167454840">
+        <form>
+          <orth>rùda</orth>
+        </form>
+        <def>Quotation: uan-rùda. Notes: tup lamb or young ram.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp167453328">
+        <form>
+          <orth>rùda</orth>
+        </form>
+        <def>Notes: ram.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp167451672">
+        <form>
+          <orth>ruigein</orth>
+          <pron>[rwɡʹɛ̃nʹ]</pron>
+        </form>
+        <def>[sic] Notes: ridgeling.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp167449872">
+        <form>
+          <orth>athairle</orth>
+          <pron>[ɑhəʴɫə]</pron>
+        </form>
+        <def>Notes: a beast a little older than a heifer. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp167447136">
+        <form>
+          <orth>sitig</orth>
+        </form>
+        <def>Notes: area outside the kitchen where dirty water was thrown.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp167445840">
+        <form>
+          <orth>siug</orth>
+          <pron>[ʃu̟ɡ]</pron>
+        </form>
+        <def>Quotation: siug, siug! siugan! Notes: call to a calf.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp167443968">
+        <form>
+          <orth>siugan</orth>
+          <pron>[ʃu̟ɡɑ̃ṉ]</pron>
+        </form>
+        <def>Quotation: siug, siug! siugan! Notes: call to a calf.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp167442528">
+        <form>
+          <orth>pairce</orth>
+        </form>
+        <def>Notes: a field (didn’t use terms achadh, feannag).</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp167440584">
+        <form>
+          <orth>póc</orth>
+          <pron>[po:k]</pron>
+        </form>
+        <def>Notes: cockroach.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp167439432">
+        <form>
+          <orth>pràiseach</orth>
+        </form>
+        <def>Notes: cast-iron.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp167437344">
+        <form>
+          <orth>saighdear</orth>
+        </form>
+        <def>Quotation: na saighdearan. Notes: uprights which supported the wheel axle in the spinning wheel.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp167340720">
+        <form>
+          <orth>sgrìoban</orth>
+        </form>
+        <def>Notes: commonly used for rake.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp167339280">
+        <form>
+          <orth>sinnteachan</orth>
+        </form>
+        <def>Notes: older term for drag-chains.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp167336832">
+        <form>
+          <orth>siosar</orth>
+        </form>
+        <def>Notes: sheep shears.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp167333808">
+        <form>
+          <orth>spagh</orth>
+        </form>
+        <def>Notes: swathe.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp167328696">
+        <form>
+          <orth>speal</orth>
+        </form>
+        <def>Notes: blade of scythe.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp167428704">
+        <form>
+          <orth>spùt</orth>
+        </form>
+        <def>Notes: the scours.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp167432232">
+        <form>
+          <orth>steinseal</orth>
+          <pron>[sṯɛ̃ṉʃɑɫ]</pron>
+        </form>
+        <def>Notes: stanchion (for tying cows in byre).</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119549048">
+        <form>
+          <orth>stràbh</orth>
+        </form>
+        <def>Notes: trail or scatter of hay on the field after bulk had been removed.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119550560">
+        <form>
+          <orth>suamp</orth>
+          <pron>[su̜ɑmp]</pron>
+        </form>
+        <def>Notes: swamp.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119552288">
+        <form>
+          <orth>tir-mór</orth>
+        </form>
+        <def>Notes: mainland of Nova Scotia.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119553800">
+        <form>
+          <orth>tlèim</orth>
+          <pron>[t̪ɫɛ̃:m]</pron>
+        </form>
+        <def>Notes: handful of hay or grain. (Dw. handful of wool.)</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119555528">
+        <form>
+          <orth>treasachan</orth>
+        </form>
+        <def>Notes: traces, drag-chains.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119557040">
+        <form>
+          <orth>treasadach</orth>
+        </form>
+        <def>Notes: ground in which grain was sown the previous year.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119558624">
+        <form>
+          <orth>uan</orth>
+        </form>
+        <def>Quotation: uan-rùda. Notes: young ram or tup lamb.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119560280">
+        <form>
+          <orth>amall</orth>
+        </form>
+        <def>Quotation: amall beag, amall mór. Notes: swingle-tree.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119561936">
+        <form>
+          <orth>barag</orth>
+          <pron>[bɑɾɑɡ]</pron>
+        </form>
+        <def>Notes: a place where hay or corn was stored, as the hay or corn was removed from below – the top could be slid down. </def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119563664">
+        <form>
+          <orth>blianag</orth>
+        </form>
+        <def>Notes: a green, level patch of ground.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119565176">
+        <form>
+          <orth>bogaich</orth>
+        </form>
+        <def>Notes: soft, muddy area.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119566688">
+        <form>
+          <orth>boitean</orth>
+        </form>
+        <def>Notes: a bundle of hay or straw carried on the back.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119568200">
+        <form>
+          <orth>buailtean</orth>
+        </form>
+        <def>Notes: often used for sùisd.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119569712">
+        <form>
+          <orth>calc</orth>
+        </form>
+        <def>Quotation: a’ calcadh a’ bhalla le còineach is creadh. Notes: caulk (packing in between the logs).</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119571440">
+        <form>
+          <orth>càthadh</orth>
+        </form>
+        <def>Notes: winnowing.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119572952">
+        <form>
+          <orth>ceathramh-dubh</orth>
+        </form>
+        <def>Notes: “Blackleg” in cattle. Would have to burn the carcase and bury it.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119574464">
+        <form>
+          <orth>cire</orth>
+        </form>
+        <def>Quotation: cire, cire! Notes: call to a sheep.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119576120">
+        <form>
+          <orth>cliath</orth>
+        </form>
+        <def>Notes: a panel in a log or board fence.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119577632">
+        <form>
+          <orth>coille-dhubh</orth>
+        </form>
+        <def>Notes: area of burnt forest.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119579144">
+        <form>
+          <orth>colaidh</orth>
+          <pron>[koɫi]</pron>
+        </form>
+        <def>Quotation: Tha a’ mhart ann an deagh cholaidh. Notes: for culaidh. She is in fine condition, of good appearance.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119581016">
+        <form>
+          <orth>còpadh</orth>
+        </form>
+        <def>Quotation: a’ còpadh a’ chairt. Notes: coping.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119582672">
+        <form>
+          <orth>corrag</orth>
+        </form>
+        <def>Quotation: na corragan. Notes: heard this term used for plough handles.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119584328">
+        <form>
+          <orth>corrag</orth>
+        </form>
+        <def>Notes: grip on a scythe.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119585840">
+        <form>
+          <orth>crann-deilbh</orth>
+        </form>
+        <def>Notes: warping frame.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119587352">
+        <form>
+          <orth>crann-speal</orth>
+        </form>
+        <def>Notes: wooden frame of scythe.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119588864">
+        <form>
+          <orth>cuilean</orth>
+        </form>
+        <def>Quotation: mathan is cuilean. Notes: bear cub.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119590520">
+        <form>
+          <orth>deoghal</orth>
+        </form>
+        <def>Quotation: a’ deoghal a’ bhoin; a’ deoghal sweetie. Notes: suckling or sucking.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119592248">
+        <form>
+          <orth>dlòth</orth>
+        </form>
+        <def>Quotation: air a dhlòth. Notes: e.g. grain laid in an orderly swathe after the mower.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119593976">
+        <form>
+          <orth>dromanach</orth>
+        </form>
+        <def>Notes: back-band.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119595488">
+        <form>
+          <orth>dubhadh</orth>
+        </form>
+        <def>Notes: blight.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119597000">
+        <form>
+          <orth>faod</orth>
+        </form>
+        <def>Quotation: math dh’fhaoidte. Notes: perhaps.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119598656">
+        <form>
+          <orth>feurslan</orth>
+          <pron>[fe:sᵊɫɑ̃nʹ]</pron>
+        </form>
+        <def>Notes: warble-fly (in cattle).</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119600384">
+        <form>
+          <orth>fiachadh</orth>
+        </form>
+        <def>Notes: inviting.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119601896">
+        <form>
+          <orth>gamhnach</orth>
+        </form>
+        <def>Notes: farrow cow.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119603408">
+        <form>
+          <orth>giort</orth>
+        </form>
+        <def>Notes: belly band.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119604920">
+        <form>
+          <orth>glan</orth>
+        </form>
+        <def>Quotation: Na ghlan a’ bhó fhathast. Notes: Did she deposit the placenta.</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119606576">
+        <form>
+          <orth>gorm-glas</orth>
+        </form>
+        <def>Notes: dapple-grey (horses).</def>
+      </entry>
+      <entry xml:id="Slips_AntigonishSMKslips-idp119608088">
+        <form>
+          <orth>grìneas</orth>
+          <pron>[ɡɾĩ:ṉəs]</pron>
+        </form>
+        <def>Notes: potato-pit.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>
