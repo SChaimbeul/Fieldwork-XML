@@ -167,9 +167,18 @@
             <place xml:id="Ross-shire_West_Achiltibuie">
               <placeName xml:lang="en">West Achiltibuie</placeName>
             </place>
+            <place xml:id="Ross-shire_Achiltibuie_Alltan_Dubh">
+              <placeName>Alltan Dubh</placeName>
+            </place>
           </place>
           <place xml:id="Ross-shire_Achnahaird">
             <placeName xml:lang="en">Achnahaird</placeName>
+          </place>
+          <place xml:id="Ross-shire_Torridon">
+            <placeName xml:lang="en">Torridon</placeName>
+            <place xml:id="Ross-shire_Torridon_Alligin">
+              <placeName xml:lang="en">Alligin</placeName>
+            </place>
           </place>
         </place>
         <place xml:id="Sutherland">

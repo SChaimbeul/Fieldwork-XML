@@ -1,88 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_AlliginJMacDonaldslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>12/1969</date>
-            <location>
-               <placeName>Ross-shire, Torridon, Alligin</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[AJ Smith]</persName>
-            </person>
-            <person role="informant">
-               <persName>Rev. John MacDonald</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_AlliginJMacDonaldslips-idp117937960">
-            <form>
-               <orth>mineadh</orth>
-            </form>
-            <def>Quotation: Mineadh ort! Notes: term of endearment towards a child.</def>
-         </entry>
-         <entry xml:id="Slips_AlliginJMacDonaldslips-idp117939616">
-            <form>
-               <orth>sonasan</orth>
-               <pron>[sɔ̃ṉəsɑ̃ṉ]</pron>
-            </form>
-            <def>[sɔ̃ṉəsɑ̃ṉ] Notes: frog.</def>
-         </entry>
-         <entry xml:id="Slips_AlliginJMacDonaldslips-idp117941344">
-            <form>
-               <orth>tallainde</orth>
-               <pron>[t̪ɑɫɑ̃nʹdʹə]</pron>
-            </form>
-            <def>[t̪ɑɫɑ̃nʹdʹə] Notes: a partition or dividing wall.</def>
-         </entry>
-         <entry xml:id="Slips_AlliginJMacDonaldslips-idp117943072">
-            <form>
-               <orth>ainneamh (?)</orth>
-               <pron>[ɑ̃nʹi]</pron>
-            </form>
-            <def>[ɑ̃nʹi] Quotation: (1) Tha e [ɑ̃nʹi] math. (2) Ni sin an gnothach [ɑ̃nʹi]. Notes: (1) It is unusually good. (2) That will do splendidly.</def>
-         </entry>
-         <entry xml:id="Slips_AlliginJMacDonaldslips-idp117945592">
-            <form>
-               <orth>cailbhe</orth>
-               <pron>[kɑlɑvə]</pron>
-            </form>
-            <def>[kɑlɑvə] Notes: Barra – dividing wall, partition.</def>
-         </entry>
-         <entry xml:id="Slips_AlliginJMacDonaldslips-idp117947320">
-            <form>
-               <orth>corra-sgritheach</orth>
-            </form>
-            <def>Notes: heron.</def>
-         </entry>
-         <entry xml:id="Slips_AlliginJMacDonaldslips-idp117948832">
-            <form>
-               <orth>gibeach</orth>
-            </form>
-            <def>Quotation: latha gibeach. Notes: a wet, squally day.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>12/1969</date>
+        <location corresp="Ross-shire_Torridon_Alligin"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="A_J_Smith"/>
+        <person role="informant" corresp="Rev_John_MacDonald_Ross-shire_Torridon_Alligin"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_AlliginJMacDonaldslips-idp117937960">
+        <form>
+          <orth>mineadh</orth>
+        </form>
+        <def>Quotation: Mineadh ort! Notes: term of endearment towards a child.</def>
+      </entry>
+      <entry xml:id="Slips_AlliginJMacDonaldslips-idp117939616">
+        <form>
+          <orth>sonasan</orth>
+          <pron>[sɔ̃ṉəsɑ̃ṉ]</pron>
+        </form>
+        <def>Notes: frog.</def>
+      </entry>
+      <entry xml:id="Slips_AlliginJMacDonaldslips-idp117941344">
+        <form>
+          <orth>tallainde</orth>
+          <pron>[t̪ɑɫɑ̃nʹdʹə]</pron>
+        </form>
+        <def>Notes: a partition or dividing wall.</def>
+      </entry>
+      <entry xml:id="Slips_AlliginJMacDonaldslips-idp117943072">
+        <form>
+          <orth>ainneamh (?)</orth>
+          <pron>[ɑ̃nʹi]</pron>
+        </form>
+        <def>Quotation: (1) Tha e [ɑ̃nʹi] math. (2) Ni sin an gnothach [ɑ̃nʹi]. Notes: (1) It is unusually good. (2) That will do splendidly.</def>
+      </entry>
+      <entry xml:id="Slips_AlliginJMacDonaldslips-idp117945592">
+        <form>
+          <orth>cailbhe</orth>
+          <pron>[kɑlɑvə]</pron>
+        </form>
+        <def>Notes: Barra – dividing wall, partition.</def>
+      </entry>
+      <entry xml:id="Slips_AlliginJMacDonaldslips-idp117947320">
+        <form>
+          <orth>corra-sgritheach</orth>
+        </form>
+        <def>Notes: heron.</def>
+      </entry>
+      <entry xml:id="Slips_AlliginJMacDonaldslips-idp117948832">
+        <form>
+          <orth>gibeach</orth>
+        </form>
+        <def>Quotation: latha gibeach. Notes: a wet, squally day.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

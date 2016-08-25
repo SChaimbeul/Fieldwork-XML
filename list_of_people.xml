@@ -286,11 +286,32 @@
           <note>[NOTES: the informant’s name appears as MacEachern on one of the slips.]</note>
         </person>
         <person xml:id="Archie_MacDonald_Barra_Allasdale">
-          <persName>
+          <persName xml:lang="en">
             <forename>Archie</forename>
             <surname>MacDonald</surname>
           </persName>
           <age>~70</age>
+        </person>
+        <person xml:id="Angus_MacDonald_Ross-shire_Torridon_Alligin">
+          <persName xml:lang="en">
+            <forename>Angus</forename>
+            <surname>MacDonald</surname>
+          </persName>
+        </person>
+        <person xml:id="Rev_John_MacDonald_Ross-shire_Torridon_Alligin">
+          <persName xml:lang="en">
+            <roleName>Rev.</roleName>
+            <forename>John</forename>
+            <surname>MacDonald</surname>
+          </persName>
+        </person>
+        <person xml:id="John_MacLean_Ross-shire_Achiltibuie_Alltan_Dubh">
+          <persName xml:lang="en">
+            <forename>John</forename>
+            <surname>MacLean</surname>
+          </persName>
+          <persName>Shonnie Ruadh</persName>
+          <age>&gt;80</age>
         </person>
 
         <!-- Fieldworkers -->
