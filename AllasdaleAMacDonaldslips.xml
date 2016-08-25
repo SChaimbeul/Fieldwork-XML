@@ -1,99 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_AllasdaleAMacDonaldslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>02/1969</date>
-            <location>
-               <placeName>Barra, Allasdale</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>AJ Smith</persName>
-            </person>
-            <person role="informant">
-               <persName>Archie MacDonald</persName>
-               <age>c. 70</age>
-               <birth>
-                  <placeName>[?]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_AllasdaleAMacDonaldslips-idp167338544">
-            <form>
-               <orth>spearrach</orth>
-            </form>
-            <def>Notes: hobble on sheep and cattle.</def>
-         </entry>
-         <entry xml:id="Slips_AllasdaleAMacDonaldslips-idp167340056">
-            <form>
-               <orth>tearb</orth>
-               <pron>[tʹɛɾɑb]</pron>
-            </form>
-            <def>[tʹɛɾɑb] Quotation: A’ tearbadh nan uan. Notes: wean.</def>
-         </entry>
-         <entry xml:id="Slips_AllasdaleAMacDonaldslips-idp167341928">
-            <form>
-               <orth>balg</orth>
-            </form>
-            <def>Quotation: Balg maide. Notes: wooden beater used in the tanning of leather. <graphic url="AllasdaleAMacDonaldslipsillust1.jpg" width="300px"/>
-            </def>
-         </entry>
-         <entry xml:id="Slips_AllasdaleAMacDonaldslips-idp167343584">
-            <form>
-               <orth>beireag</orth>
-               <pron>[beðɑɡ]</pron>
-            </form>
-            <def>[beðɑɡ] Notes: a piece of rope put round tongue and lower jaw of calves and lambs.</def>
-         </entry>
-         <entry xml:id="Slips_AllasdaleAMacDonaldslips-idp167345312">
-            <form>
-               <orth>cròcach</orth>
-               <pron>[kɾɔ:kɔx]</pron>
-            </form>
-            <def>[kɾɔ:kɔx] Notes: arrangement put on mouths of calves and young horses to prevent them suckling.</def>
-         </entry>
-         <entry xml:id="Slips_AllasdaleAMacDonaldslips-idp167347040">
-            <form>
-               <orth>deadhann</orth>
-               <pron>[dʹeə̃n̪]</pron>
-            </form>
-            <def>[dʹeə̃n̪] Notes: hobble put on horses.</def>
-         </entry>
-         <entry xml:id="Slips_AllasdaleAMacDonaldslips-idp167348768">
-            <form>
-               <orth>drabhailte</orth>
-            </form>
-            <def>Quotation: an drabhailte. Notes: the hopper in the mill.</def>
-         </entry>
-         <entry xml:id="Slips_AllasdaleAMacDonaldslips-idp167350424">
-            <form>
-               <orth>grop</orth>
-            </form>
-            <def>Quotation: a’ gropadh [ɡɾɔpəɣ]. Notes: tanning leather.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>02/1969</date>
+        <location corresp="Barra_Allasdale"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="A_J_Smith"/>
+        <person role="informant" corresp="Archie_MacDonald_Barra_Allasdale"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_AllasdaleAMacDonaldslips-idp167338544">
+        <form>
+          <orth>spearrach</orth>
+        </form>
+        <def>Notes: hobble on sheep and cattle.</def>
+      </entry>
+      <entry xml:id="Slips_AllasdaleAMacDonaldslips-idp167340056">
+        <form>
+          <orth>tearb</orth>
+          <pron>[tʹɛɾɑb]</pron>
+        </form>
+        <def>Quotation: A’ tearbadh nan uan. Notes: wean.</def>
+      </entry>
+      <entry xml:id="Slips_AllasdaleAMacDonaldslips-idp167341928">
+        <form>
+          <orth>balg</orth>
+        </form>
+        <def>Quotation: Balg maide. Notes: wooden beater used in the tanning of leather. <graphic url="AllasdaleAMacDonaldslipsillust1.jpg" width="300px"/>
+        </def>
+      </entry>
+      <entry xml:id="Slips_AllasdaleAMacDonaldslips-idp167343584">
+        <form>
+          <orth>beireag</orth>
+          <pron>[beðɑɡ]</pron>
+        </form>
+        <def>Notes: a piece of rope put round tongue and lower jaw of calves and lambs.</def>
+      </entry>
+      <entry xml:id="Slips_AllasdaleAMacDonaldslips-idp167345312">
+        <form>
+          <orth>cròcach</orth>
+          <pron>[kɾɔ:kɔx]</pron>
+        </form>
+        <def>Notes: arrangement put on mouths of calves and young horses to prevent them suckling.</def>
+      </entry>
+      <entry xml:id="Slips_AllasdaleAMacDonaldslips-idp167347040">
+        <form>
+          <orth>deadhann</orth>
+          <pron>[dʹeə̃n̪]</pron>
+        </form>
+        <def>Notes: hobble put on horses.</def>
+      </entry>
+      <entry xml:id="Slips_AllasdaleAMacDonaldslips-idp167348768">
+        <form>
+          <orth>drabhailte</orth>
+        </form>
+        <def>Quotation: an drabhailte. Notes: the hopper in the mill.</def>
+      </entry>
+      <entry xml:id="Slips_AllasdaleAMacDonaldslips-idp167350424">
+        <form>
+          <orth>grop</orth>
+        </form>
+        <def>Quotation: a’ gropadh [ɡɾɔpəɣ]. Notes: tanning leather.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

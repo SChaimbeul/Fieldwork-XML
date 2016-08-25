@@ -273,6 +273,25 @@
           </persName>
           <age>80s</age>
         </person>
+        <person xml:id="Donald_Alex_MacEachen_Benbecula_Airdbheag">
+          <persName xml:lang="en">
+            <forename>Donald</forename>
+            <forename>Alex</forename>
+            <surname>MacEachen</surname>
+          </persName>
+          <age>~60</age>
+          <birth>
+            <location corresp="Benbecula"/>
+          </birth>
+          <note>[NOTES: the informant’s name appears as MacEachern on one of the slips.]</note>
+        </person>
+        <person xml:id="Archie_MacDonald_Barra_Allasdale">
+          <persName>
+            <forename>Archie</forename>
+            <surname>MacDonald</surname>
+          </persName>
+          <age>~70</age>
+        </person>
 
         <!-- Fieldworkers -->
         <person xml:id="A_J_Smith">

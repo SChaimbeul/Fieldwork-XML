@@ -1,62 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="Slips_AirdbheagDAMacEachenslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: the informant’s name appears as MacEachern on one of the slips.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>02/1969</date>
-            <location>
-               <placeName>Benbecula, Airdbheag</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[AJ Smith?]</persName>
-            </person>
-            <person role="informant">
-               <persName>Donald Alex MacEachen</persName>
-               <age>c. 60</age>
-               <birth>
-                  <placeName>Benbecula</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_AirdbheagDAMacEachenslips-idp167335320">
-            <form>
-               <orth>bonaid</orth>
-            </form>
-            <def>Quotation: “Bonaid an fhodair”. Notes: Said of a person who went from house to collect fodder in the spring. They would say, “Tha bonaid an fhodair air.”</def>
-         </entry>
-         <entry xml:id="Slips_AirdbheagDAMacEachenslips-idp167336976">
-            <form>
-               <orth>fodair</orth>
-            </form>
-            <def>Quotation: bonaid an fhodair. Notes: Said of a person who went from house to house in the spring to collect fodder. They would say “Tha bonaid an fhodair air.”</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_AirdbheagDAMacEachenslips">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: the informant’s name appears as MacEachern on one of the slips.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>02/1969</date>
+        <location corresp="Benbecula_Airdbheag"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="A_J_Smith"/>
+        <person role="informant" corresp="Donald_Alex_MacEachen_Benbecula_Airdbheag"/>  
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_AirdbheagDAMacEachenslips-idp167335320">
+        <form>
+          <orth>bonaid</orth>
+        </form>
+        <def>Quotation: “Bonaid an fhodair”. Notes: Said of a person who went from house to collect fodder in the spring. They would say, “Tha bonaid an fhodair air.”</def>
+      </entry>
+      <entry xml:id="Slips_AirdbheagDAMacEachenslips-idp167336976">
+        <form>
+          <orth>fodair</orth>
+        </form>
+        <def>Quotation: bonaid an fhodair. Notes: Said of a person who went from house to house in the spring to collect fodder. They would say “Tha bonaid an fhodair air.”</def>
+      </entry>
+    </body>
+  </text>
 </TEI>
