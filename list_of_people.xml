@@ -253,6 +253,26 @@
           <persName>Shonnie Ali Bhig</persName>
           <age>80s</age>
         </person>
+        <person xml:id="W_Fraser_Sutherland_Achlyness">
+          <persName>
+            <forename>W.</forename>
+            <surname>Fraser</surname>
+          </persName>
+        </person>
+        <person xml:id="Donald_MacLeod_Ross-shire_Achnahaird">
+          <persName xml:lang="en">
+            <forename>Donald</forename>
+            <surname>MacLeod</surname>
+          </persName>
+          <persName>Domhnall Shìm</persName>
+        </person>
+        <person xml:id="Murdo_MacLeod_Ross-shire_Achnahaird">
+          <persName xml:lang="en">
+            <forename>Murdo</forename>
+            <surname>MacLeod</surname>
+          </persName>
+          <age>80s</age>
+        </person>
 
         <!-- Fieldworkers -->
         <person xml:id="A_J_Smith">

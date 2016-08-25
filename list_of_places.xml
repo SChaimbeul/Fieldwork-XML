@@ -153,8 +153,16 @@
               <placeName xml:lang="en">West Achiltibuie</placeName>
             </place>
           </place>
+          <place xml:id="Ross-shire_Achnahaird">
+            <placeName xml:lang="en">Achnahaird</placeName>
+          </place>
         </place>
-        
+        <place xml:id="Sutherland">
+          <placeName xml:lang="en">Sutherland</placeName>
+          <place xml:id="Sutherland_Achlyness">
+            <placeName xml:lang="en">Achlyness</placeName>
+          </place>
+        </place>
         
       </listPlace>
     </body>
