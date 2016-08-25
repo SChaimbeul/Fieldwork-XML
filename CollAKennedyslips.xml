@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_CollAKennedyslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>10/1970</date>
+            <location>
+               <placeName>Coll, Beu?</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Angus Kennedy</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_CollAKennedyslips-idp115454656">
+            <form>
+               <orth>leac</orth>
+            </form>
+            <def>Quotation: leac-an-teinnich.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

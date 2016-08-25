@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="DRMorrisonetal_ScalpayDRMorrisonpostcard">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: a postcard containing one bird name.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Harris, Scalpay</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>D.R. Morrison</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonpostcard-idp163552880">
+            <form>
+               <orth>graidleachan</orth>
+            </form>
+            <def>Tha ainmeannan eòin agaibh a cheana. Tha aon fhacail (ainm) agam ann an daimh ri eoin is e sin. It may have originated from graibheal – gravel. That is a bird confined to the gravel shore, where he disperses gravel with his feet (perhaps I have already noted same).</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

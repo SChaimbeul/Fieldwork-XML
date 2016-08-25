@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Slips_ChristmasIslandJMacKenzieslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>05/1971</date>
+            <location>
+               <placeName>Canada, Christmas Island</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>J. MacKenzie</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_ChristmasIslandJMacKenzieslips-idp166273104">
+            <form>
+               <orth>spleog</orth>
+               <pron>[splɛɔɡ]</pron>
+            </form>
+            <def>[splɛɔɡ] Notes: big, untidy woman.</def>
+         </entry>
+         <entry xml:id="Slips_ChristmasIslandJMacKenzieslips-idp166275048">
+            <form>
+               <orth>àmhainn</orth>
+               <pron>[ɑ̃:hĩnʹ]</pron>
+            </form>
+            <def>[ɑ̃:hĩnʹ] Notes: flat cast-iron vessel on which bannocks were baked.</def>
+         </entry>
+         <entry xml:id="Slips_ChristmasIslandJMacKenzieslips-idp166276848">
+            <form>
+               <orth>bonnach-buidhe</orth>
+            </form>
+            <def>Notes: cornmeal bannock.</def>
+         </entry>
+         <entry xml:id="Slips_ChristmasIslandJMacKenzieslips-idp166278360">
+            <form>
+               <orth>bonnach-dorcha</orth>
+            </form>
+            <def>Notes: wheat-bread.</def>
+         </entry>
+         <entry xml:id="Slips_ChristmasIslandJMacKenzieslips-idp166279872">
+            <form>
+               <orth>ceileag</orth>
+               <pron>[celɑɡ]</pron>
+            </form>
+            <def>[celɑɡ] Notes: home-made wooden anchor. Stone weight in centre. </def>
+         </entry>
+         <entry xml:id="Slips_ChristmasIslandJMacKenzieslips-idp166281600">
+            <form>
+               <orth>clàr</orth>
+            </form>
+            <def>Notes: barrel stave.</def>
+         </entry>
+         <entry xml:id="Slips_ChristmasIslandJMacKenzieslips-idp166283112">
+            <form>
+               <orth>éisdeachd</orth>
+            </form>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Peat_SirEScottJuniorSecondarymoine">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Harris, Tarbert</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[school]</persName>
+            </person>
+            <person role="informant">
+               <persName>Sir E. Scott Junior Secondary School</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Peat-Working</term>
+               <term xml:lang="gd">Mòine</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Peat_SirEScottJuniorSecondarymoine-d0e23"
+             subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e28">
+            <form>
+               <orth>mòinteach</orth>
+            </form>
+            <def>general area, moorland, where peat is found.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e37">
+            <form>
+               <orth>blàr-mònadh</orth>
+            </form>
+            <def>area comprising several peat-banks.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e46">
+            <form>
+               <orth>poll-mònadh</orth>
+            </form>
+            <def>peat bank.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e55">
+            <form>
+               <orth>sgaoilteach</orth>
+            </form>
+            <def>area over which peat is spread to dry (sgaoilteach mhath, droch sgaoilteach, etc.)</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e64">
+            <form>
+               <orth>feanntach</orth>
+            </form>
+            <def>turf covering the peat (riasg) which is removed when turfing (a’ feannadh).</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e73">
+            <form>
+               <orth>rùsg</orth>
+            </form>
+            <def>ditto [i.e. feanntach], but not commonly used.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e82">
+            <form>
+               <orth>a’ fosgladh puill (ùr)</orth>
+            </form>
+            <def>opening a new bank.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e91">
+            <form>
+               <orth>a’ taomadh a’ phuill</orth>
+            </form>
+            <def>draining a bank.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e100">
+            <form>
+               <orth>a’ glanadh nam poll</orth>
+            </form>
+            <def>taking home the peats left on the banks through the winter, ready for the new season’s cutting.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e109">
+            <form>
+               <orth>a’ sussadh</orth>
+            </form>
+            <def>(‘u’ pron. as in English ‘cutting’) undercutting the turf (feanntach [q.v.]), esp. when turf is difficult to cut. “Sus romhad e.”</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e118">
+            <form>
+               <orth>a’ striachdadh</orth>
+            </form>
+            <def>cutting a line parallel with edge of bank about 2' in, as the first operation in ‘feannadh’ [q.v.].</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e127">
+            <form>
+               <orth>a’ feannadh</orth>
+            </form>
+            <def>turfing.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e136">
+            <form>
+               <orth>a’ rùsgadh</orth>
+            </form>
+            <def>turfing.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e145">
+            <form>
+               <orth>a’ glanadh a’ charcaire</orth>
+            </form>
+            <def>cleaning up the turfed peat (riasg) before cutting.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e154">
+            <form>
+               <orth>a’ càradh na feanntaich</orth>
+            </form>
+            <def>replacing turfs neatly inside the bank (broinn a’ phuill) when turfing.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e163">
+            <form>
+               <orth>an carcaire</orth>
+            </form>
+            <def>the peat (riasg) exposed by the ‘feannadh’ [q.v.].</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e172">
+            <form>
+               <orth>grabhag</orth>
+            </form>
+            <def>(grabhag mònadh) a small peat-bank (common in Harris where peat is running out).</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e181">
+            <form>
+               <orth>làrach cruaiche</orth>
+            </form>
+            <def>site of a previous stack.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e190">
+            <form>
+               <orth>beul ( bial) a’ phuill</orth>
+               <pron>[pron.]</pron>
+            </form>
+            <def>[pron.] the face of the bank.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e199">
+            <form>
+               <orth>aghaidh a’ phuill</orth>
+            </form>
+            <def>the face of the bank.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e208">
+            <form>
+               <orth>aodann a’ phuill</orth>
+            </form>
+            <def>the face of the bank.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e217">
+            <form>
+               <orth>iochdar a’ phuill</orth>
+            </form>
+            <def>lower end of the bank.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e226">
+            <form>
+               <orth>broinn a’ phuill</orth>
+            </form>
+            <def>inside of the bank.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e235">
+            <form>
+               <orth>druim a’ phuill</orth>
+            </form>
+            <def>top of the bank, to which the ‘face’ is at right angles.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e244">
+            <form>
+               <orth>ceann a’ phuill</orth>
+            </form>
+            <def>end (usually upper) of the bank.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_SirEScottJuniorSecondarymoine-d0e252"
+             subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e257">
+            <form>
+               <orth>iarunn mònadh</orth>
+            </form>
+            <def>peat iron or cutter.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e266">
+            <form>
+               <orth>taraisgeir</orth>
+            </form>
+            <def>peat iron or cutter (not commonly used).</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e275">
+            <form>
+               <orth>cas an iaruinn</orth>
+            </form>
+            <def>the handle [of the peat iron].</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e284">
+            <form>
+               <orth>stehp (Eng. ‘step’)</orth>
+            </form>
+            <def>step of the peat iron.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e293">
+            <form>
+               <orth>casachan</orth>
+            </form>
+            <def>step of the peat iron.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e302">
+            <form>
+               <orth>smeachan</orth>
+            </form>
+            <def>step of the peat iron (not in common use – probably a Lewis importation).</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e311">
+            <form>
+               <orth>sàil an iaruinn</orth>
+            </form>
+            <def>the ‘heel’ of the [peat] iron into which the ‘cas’ [q.v.] fits.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e320">
+            <form>
+               <orth>sgian</orth>
+            </form>
+            <def>the cutting blade, the lower edge (faobhar) of which cuts the inner and larger plane of the individual peat, while the ‘sàil’ [q.v.] (at right angles to the ‘sgian’) cuts the narrower edge.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e329">
+            <form>
+               <orth>sgiath</orth>
+               <pron>[See sgian]</pron>
+            </form>
+            <def>[See sgian]</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e338">
+            <form>
+               <orth>eighe</orth>
+            </form>
+            <def>peat-iron (given by only one pupil – probably from a dictionary!).</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e347">
+            <form>
+               <orth>spaid</orth>
+            </form>
+            <def>spade – used for turfing.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e356">
+            <form>
+               <orth>mòine chruaidh, dhubh</orth>
+            </form>
+            <def>hard, black type of peat.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e365">
+            <form>
+               <orth>mòine bhàn</orth>
+            </form>
+            <def>spongy type of peat.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e374">
+            <form>
+               <orth>mòine chòsach</orth>
+            </form>
+            <def>spongy type of peat.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e383">
+            <form>
+               <orth>mòine chailceach</orth>
+            </form>
+            <def>peat mixed with clay.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e392">
+            <form>
+               <orth>mòine phrann</orth>
+            </form>
+            <def>crumbly, brittle, black type of peat.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e401">
+            <form>
+               <orth>riasg</orth>
+            </form>
+            <def>sedge or peat-moss, which is cut and dried for fuel.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e410">
+            <form>
+               <orth>barrad (barr-fhàd)</orth>
+            </form>
+            <def>the first layer or tier of peat cut from a peat bank.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e419">
+            <form>
+               <orth>a’ chiad fhàd</orth>
+            </form>
+            <def>the first layer or tier of peat cut from a peat bank.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e428">
+            <form>
+               <orth>an dara fàd</orth>
+            </form>
+            <def>the 2nd layer [of peat cut from a peat bank].</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e437">
+            <form>
+               <orth>an treas fàd</orth>
+            </form>
+            <def>the 3rd layer [of peat cut from a peat bank].</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e446">
+            <form>
+               <orth>an corrad (corr-fhàd)</orth>
+            </form>
+            <def>the outside or first peat cut in each layer.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e455">
+            <form>
+               <orth>an caoran</orth>
+            </form>
+            <def>the lowest layer cut [from a peat bank].</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e464">
+            <form>
+               <orth>fàd a’ chaorain</orth>
+               <pron>[See an caoran]</pron>
+            </form>
+            <def>[See an caoran]</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e473">
+            <form>
+               <orth>fàd a’ mhorghain</orth>
+            </form>
+            <def>where the last layer [of peat] lies on gravel.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e482">
+            <form>
+               <orth>fàd morghain</orth>
+               <pron>[See fàd a’ mhorghain]</pron>
+            </form>
+            <def>[See fàd a’ mhorghain]</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e491">
+            <form>
+               <orth>fàd feanntaich</orth>
+            </form>
+            <def>where a bank has been opened on the site of a previous bank; such a ‘fàd’ is usually crumbly or spongy in the middle, where it often breaks.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e500">
+            <form>
+               <orth>gearradh eadar bhun is bhàrr</orth>
+            </form>
+            <def>cutting without previous turfing, where turf is very thin or non-existent.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e509">
+            <form>
+               <orth>fear an iaruinn (fear air an iaruinn)</orth>
+            </form>
+            <def>man operating the cutter.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e518">
+            <form>
+               <orth>fear a’ phuill (fear anns a’ pholl)</orth>
+            </form>
+            <def>man taking and throwing out peat as cut.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e527">
+            <form>
+               <orth>(fear air an iarunn ’s fear anns a’ pholl )</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e533">
+            <form>
+               <orth>a’ leagail (an iaruinn)</orth>
+            </form>
+            <def>cutting (i.e. operating the ‘iarunn-mònadh’ [q.v.]).</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e542">
+            <form>
+               <orth>a’ cur a mach</orth>
+            </form>
+            <def>throwing out and spreading the peat.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e551">
+            <form>
+               <orth>a’ cath</orth>
+            </form>
+            <def>throwing out and spreading the peat.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e560">
+            <form>
+               <orth>gàrradh</orth>
+            </form>
+            <def>peats arranged along edge of bank in a kind of dyke.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e569">
+            <form>
+               <orth>fàd a’ ghàrraidh</orth>
+            </form>
+            <def>the tier of peat which is put in the ‘dyke’ – usually the second, but this varies according to the number of tiers.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e578">
+            <form>
+               <orth>[fàd]</orth>
+            </form>
+            <def>“Fàd na mo làimh, fàd air mo bhròig, ’s fàd air an iarunn”. Used by the person throwing out when the person cutting is going too fast.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e587">
+            <form>
+               <orth>feitheamh an fhòid</orth>
+            </form>
+            <def>said when the cutter is too slow.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_SirEScottJuniorSecondarymoine-d0e595"
+             subtype="h1">3. A’ tiormachadh na mònach</ab>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e600">
+            <form>
+               <orth>a’ togail (na mònadh)</orth>
+            </form>
+            <def>lifting, i.e. setting peat up to dry (general term).</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e609">
+            <form>
+               <orth>coilleag</orth>
+            </form>
+            <def>three or four peats on end, leaning against each other, with another placed flat on the top to form a small stack – in the initial lifting. (Tha i fhathast anns a’ choilleig.)</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e618">
+            <form>
+               <orth>a’ coilleagachadh</orth>
+            </form>
+            <def>lifting (i.e. into “coilleag”s).</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e627">
+            <form>
+               <orth>rùdhan (plural rùdhain)</orth>
+            </form>
+            <def>larger stack than ‘coilleag’ – 2nd stage in the drying process: perhaps 3 to 4 ‘coilleags’ heaped together.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e636">
+            <form>
+               <orth>ag ath-rudhadh</orth>
+            </form>
+            <def>either re-forming the original ‘rùdhain’, or putting two or more together to make a still larger heap.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e645">
+            <form>
+               <orth>a’ cruachadh</orth>
+            </form>
+            <def>making medium-sized stacks on the banks and ‘slating’ the peats to throw off the rain, if the peats are being left on the banks for some time. Such stacks may sometimes be ‘thatched’ (air an tughadh) with turf (‘sgrathan’).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_SirEScottJuniorSecondarymoine-d0e653"
+             subtype="h1">4. A’ cruachadh na mònach</ab>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e658">
+            <form>
+               <orth>a’ grìomhadh</orth>
+            </form>
+            <def>building the outside of the peat-stack.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e667">
+            <form>
+               <orth>an grìomhadh</orth>
+            </form>
+            <def>the outside ‘wall’ so build [sic].</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e676">
+            <form>
+               <orth>a’ tughadh</orth>
+            </form>
+            <def>thatching the top of the stack (with ‘sgrathan’).</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e685">
+            <form>
+               <orth>cruach ghrìomhaigh</orth>
+            </form>
+            <def>a stack with the outside built (air a grìomhadh).</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e694">
+            <form>
+               <orth>sgoran</orth>
+            </form>
+            <def>buttress of turfs or divots (ceapan) usually placed one on each corner of a stack. “Cuir sgoran rithe.”</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_SirEScottJuniorSecondarymoine-d0e702"
+             subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e707">
+            <form>
+               <orth>ag aiseag</orth>
+            </form>
+            <def>where peats are cut on an island, ferrying them to the mainland.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e716">
+            <form>
+               <orth>a’ cur chun an rathaid</orth>
+            </form>
+            <def>carrying peat from banks to road for transportation home.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e725">
+            <form>
+               <orth>a’ cur gu rathad</orth>
+            </form>
+            <def>carrying peat from banks to road for transportation home.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e734">
+            <form>
+               <orth>a’ lìonadh</orth>
+            </form>
+            <def>filling peat-bags ready for carrying to the road.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e743">
+            <form>
+               <orth>a’ tarruing (tarrainn) na mònadh</orth>
+            </form>
+            <def>getting the peat home (by lorry etc.).</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e752">
+            <form>
+               <orth>gàdag</orth>
+            </form>
+            <def>rope used to support bag of peats being carried on the back. (cf. “gàdag ’s a dhà cheann sgaoilte”, metaphorically of assumptions based on dubious premises. Probably a rope of heather originally and if the two ends were ‘loose’ i.e. free to run, the rope would be unsafe.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_SirEScottJuniorSecondarymoine-d0e760"
+             subtype="h1">6. Seòrsachan mònach</ab>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e765">
+            <form>
+               <orth>mòine chruaidh dhubh etc.</orth>
+            </form>
+            <def>already given in Section 2.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e774">
+            <form>
+               <orth>ath-mhoin (ath-mhoine)</orth>
+            </form>
+            <def>(pronounced ‘amhoinn’) last year’s peat still on the bank.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e783">
+            <form>
+               <orth>mòine thaiseallach</orth>
+            </form>
+            <def>slow-burning or long-lasting peat.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e792">
+            <form>
+               <orth>mòine gharbh</orth>
+            </form>
+            <def>peat cut very big.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e801">
+            <form>
+               <orth>[urpull]</orth>
+            </form>
+            <def>Tha a’ mhòine air a dhol ’na h-urpuill (leis an uisge). When peat is swollen with rain. Geàrr ’na h-urpuill i – cut it big. (Cf. urpull de bhalach – a big lump of a boy.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_SirEScottJuniorSecondarymoine-d0e809"
+             subtype="h1">7. Faclan eile</ab>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e814">
+            <form>
+               <orth>obair iaruinn</orth>
+            </form>
+            <def>amount of work expected of a team of two people in a day, or a certain number of yards which had to be cut before wages could be claimed.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e823">
+            <form>
+               <orth>bha dà iarunn aige muigh</orth>
+            </form>
+            <def>idiomatic usage: “He had two teams out peat-cutting for him”, i.e. 4 people.</def>
+         </entry>
+         <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e832">
+            <form>
+               <orth>eallacol</orth>
+            </form>
+            <def>bits of peat – akin to ‘caorain’ – which dry on the face of the bank, or in gashes and holes in the bank, and used to be gathered, of old, when stocks of peat were running low.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

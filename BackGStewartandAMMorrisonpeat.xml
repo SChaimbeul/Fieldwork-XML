@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Peat_BackGStewartandAMMorrisonpeat">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the original title of the list is “Terminology Associated with Peat-Cutting and Drying”.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>April 1962</date>
+            <location>
+               <placeName>Lewis, Back</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>I. M. Morrison</persName>
+            </person>
+            <person role="informant">
+               <persName>George Stewart</persName>
+               <age>45</age>
+               <birth>
+                  <placeName>Lewis, Back</placeName>
+               </birth>
+            </person>
+            <person role="informant">
+               <persName>Alex M. Morrison</persName>
+               <age>60</age>
+               <birth>
+                  <placeName>Lewis, Back</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Peat-Working</term>
+               <term xml:lang="gd">Mòine</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e48">
+            <form>
+               <orth>poll-mònach</orth>
+            </form>
+            <def>fairly long peat bank.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e57">
+            <form>
+               <orth>grabhag</orth>
+            </form>
+            <def>short peat bank.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e66">
+            <form>
+               <orth>ath-bhlàr</orth>
+            </form>
+            <def>a peat bank cut after the original surface layer of peat has been used, i.e. a second layer of peats.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e75">
+            <form>
+               <orth>riasg</orth>
+            </form>
+            <def>peat as it is in the peat-bank before being cut.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e84">
+            <form>
+               <orth>ceap</orth>
+            </form>
+            <def>turf, cut sometimes where it is thin with some peat attached to it and cured for burning at the back of the fire to save the peats during the winter.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e93">
+            <form>
+               <orth>fàd</orth>
+            </form>
+            <def>an individual peat, i.e. a slab cut out of the peat-bank.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e102">
+            <form>
+               <orth>corr-fhad</orth>
+            </form>
+            <def>the first peat so cut, i.e. the peat on the face of the bank exposed to the weather.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e111">
+            <form>
+               <orth>barr-fhàd</orth>
+            </form>
+            <def>the first layer of peats next to the turf.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e120">
+            <form>
+               <orth>caoran</orth>
+            </form>
+            <def>the layer next to the back formation. Also small broken peats.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e129">
+            <form>
+               <orth>poll trì fòid</orth>
+            </form>
+            <def>a peat bank out of which three layers of peat can be cut.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e138">
+            <form>
+               <orth>tairsgeir</orth>
+            </form>
+            <def>the cutting iron.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e147">
+            <form>
+               <orth>smeachan</orth>
+            </form>
+            <def>a wedge like piece of wood which served the dual purpose of attaching the shaft to the blade and of providing a place for the foot to exert pressure on the blade to force it through the peat.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e156">
+            <form>
+               <orth>sgiabadh</orth>
+            </form>
+            <def>peat-cutting crew.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e165">
+            <form>
+               <orth>tairsgeir</orth>
+            </form>
+            <def>the two people comprising the team involved in cutting and laying out the peat.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e174">
+            <form>
+               <orth>a’ gearradh na mònach</orth>
+            </form>
+            <def>cutting the peat.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e183">
+            <form>
+               <orth>fear/té tha a’ gearradh</orth>
+            </form>
+            <def>the individual who cuts the peat.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e192">
+            <form>
+               <orth>fear/té tha cur a mach</orth>
+               <pron>[?]</pron>
+            </form>
+            <def>[?] the person who throws out the peat.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e201">
+            <form>
+               <orth>leabaidh laighe</orth>
+            </form>
+            <def>the moor-bed on which the peats are thrown out for drying.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e210">
+            <form>
+               <orth>rìachadh</orth>
+            </form>
+            <def>the initial cutting through out the bank preparatory to skinning the turf.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e219">
+            <form>
+               <orth>rùsgadh</orth>
+            </form>
+            <def>skinning the turf of the peat bank.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e228">
+            <form>
+               <orth>togail</orth>
+            </form>
+            <def>lifting the peats and putting four or five together on end two or three weeks after cutting.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e237">
+            <form>
+               <orth>rùdhadh</orth>
+            </form>
+            <def>turning the peats again and making bigger piles of them in a cairn-like group. ‘Rùdhan beag’ and ‘rùdhan mór’ so produced.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e246">
+            <form>
+               <orth>dùn</orth>
+            </form>
+            <def>peat piled at the road preparatory to being hauled home.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e255">
+            <form>
+               <orth>cruach</orth>
+            </form>
+            <def>peat stack made when the peats are brought home.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e264">
+            <form>
+               <orth>stéigheadh</orth>
+            </form>
+            <def>constructing the outer walls of the peat stack in layers.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e273">
+            <form>
+               <orth>mòine-bhàn</orth>
+            </form>
+            <def>generally the first two or three layers of peat next to the virgin moorland.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e282">
+            <form>
+               <orth>mòine-chalcais</orth>
+            </form>
+            <def>peat in which there is a certain amount of moorland grass and heather fibres.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e291">
+            <form>
+               <orth>mòine fhraoich</orth>
+            </form>
+            <def>peat which is made up of undecomposed heather fibres.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e300">
+            <form>
+               <orth>mòine-fhiadhe</orth>
+            </form>
+            <def>peat in which there is decayed wood embodied.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e309">
+            <form>
+               <orth>mòine dhubh</orth>
+            </form>
+            <def>generally the last strata of peat next to the rock-formation.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e318">
+            <form>
+               <orth>afoinn</orth>
+            </form>
+            <def>cured peat of such an absorbent texture that it soaks in water to such an extent that it will not burn until it is dried again. [NOTES: ‘ath-mhòin?’ in second hand added in the margin.]</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e327">
+            <form>
+               <orth>cliabh</orth>
+            </form>
+            <def>wicker-work basket supported by a rope or band round the chest and shoulders.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e336">
+            <form>
+               <orth>iris</orth>
+            </form>
+            <def>the band which supports the creel.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e345">
+            <form>
+               <orth>dronnag</orth>
+            </form>
+            <def>an old skirt folded several times into a saddle on the small of the back.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e354">
+            <form>
+               <orth>bodach</orth>
+            </form>
+            <def>three legged wooden structure on which the creel is rested thus holding it level with the carrier’s back.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e363">
+            <form>
+               <orth>sorachan</orth>
+            </form>
+            <def>a pile of peats on which the people sat at any interval.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e372">
+            <form>
+               <orth>smùr</orth>
+            </form>
+            <def>peat-dust, i.e. peat that gets broken into very small particles due to exposure to the weather or through rough handling.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e381">
+            <form>
+               <orth>spaid</orth>
+            </form>
+            <def>spade, used usually for turfing the peat-bank.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e390">
+            <form>
+               <orth>cuir na mònach chun a’ rathad</orth>
+            </form>
+            <def>taking the peats to a convenient road ready for hauling home.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e399">
+            <form>
+               <orth>cuir na mònach gu tìr</orth>
+            </form>
+            <def>taking the peats to a convenient road ready for hauling home.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e408">
+            <form>
+               <orth>a’ tarruing na mònach</orth>
+            </form>
+            <def>either taking the peats to the road or taking them home.</def>
+         </entry>
+         <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e417">
+            <form>
+               <orth>bara</orth>
+            </form>
+            <def>a wheel-barrow in which the peats are taken to the road.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Agriculture_SouthBragarDMacPhailagriculture">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the original title of the questionnaire is “Land Cultivation”.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Lewis, Barvas, South Bragar</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Donald MacPhail</persName>
+               <age>59</age>
+               <birth>
+                  <placeName>Ross and Cromarty, Lewis</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Agriculture</term>
+               <term xml:lang="gd">Àiteach</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e34"
+             subtype="h1">1. Land division and allocation</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e38"
+             subtype="h2">(a) Specific portions or allotments into which arable land is divided</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e43">
+            <form>
+               <orth>obair an’ earraich</orth>
+            </form>
+            <def>spring work.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e52">
+            <form>
+               <orth>an àiteach</orth>
+            </form>
+            <def>spring work.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e61">
+            <form>
+               <orth>an treabhadh</orth>
+            </form>
+            <def>spring work. Common term for this district.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e70">
+            <form>
+               <orth>ri g’éilaidh, leagal na’ h’éilaidh</orth>
+            </form>
+            <def>beginning of spring work; rough turning of soil with spade preparatory to sowing with barley seed. When manured, turned or ploughed again and then sown. The last crop put down in the season except perhaps veg., cabbage etc.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e79">
+            <form>
+               <orth>cur a’ bhunata</orth>
+            </form>
+            <def>sreath/streath bhunata.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e88">
+            <form>
+               <orth>tionndadh a coirc/corc</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e94">
+            <form>
+               <orth>cur foidhe an eorna</orth>
+            </form>
+            <def>manured, ploughed and sown same day for good results.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e103">
+            <form>
+               <orth>iomair</orth>
+            </form>
+            <def>a fairly sized portion of arable longer than it is wide, pertaining to machair.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e112">
+            <form>
+               <orth>feannag</orth>
+            </form>
+            <def>similar in length and width [to iomair] and pertaining to croft.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e121">
+            <form>
+               <orth>clàr</orth>
+            </form>
+            <def>larger than the above two portions [i.e. iomair and feannag] and more or less square; croft. Ex. clàr bunata, clàr corc, clàr shneip.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e130">
+            <form>
+               <orth>ceann</orth>
+            </form>
+            <def>the smallest portion of arable. Ex. ceann churran, etc.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e139">
+            <form>
+               <orth>lios</orth>
+            </form>
+            <def>pronounced leas (ie.) leas càil - cabbage garden. Which would have to be walled. [NOTES: this fragment appears between ‘lios’ and ‘athbhull’ but it is not clear to which of the two definitions it belongs.]</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e148">
+            <form>
+               <orth>athbhull</orth>
+            </form>
+            <def>a small turf walled, garden shaped; used for young cabbage plants.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e157">
+            <form>
+               <orth>buaile and pairc</orth>
+            </form>
+            <def>reclaimed portion of arable between crofts and moor and made stock proof with stone dykes, having no title to it in some cases. Nowadays it is fencing [sic] through appointments from Crofters’ Commission.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e165"
+             subtype="h3">Seann fhacail co-cheangailte ri cur agus buan</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e170">
+            <form>
+               <orth>[seanfhaclan]</orth>
+            </form>
+            <def>Fear nach cur sa latha fhuar, cha bhuain sa latha theth. Ceum beag domhain, siol agus todhar. Faigh do shiol agus do thodhar s’ bith [sic] do threabhach deant. Cha do shuidh tuathanach math riamh air a chliabh.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e179">
+            <form>
+               <orth>sgriob</orth>
+            </form>
+            <def>furrow.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e187"
+             subtype="h2">(b) Various types of arable land</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e192">
+            <form>
+               <orth>talamh bàn</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e198">
+            <form>
+               <orth>talamh àitaich</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e204">
+            <form>
+               <orth>atharnach, atharnaich</orth>
+            </form>
+            <def>where potatoes were previous year. Ex. atharnach bhuntata.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e213">
+            <form>
+               <orth>buaile</orth>
+            </form>
+            <def>for cultivation.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e222">
+            <form>
+               <orth>pairc</orth>
+            </form>
+            <def>for cultivation.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e231">
+            <form>
+               <orth>cul a bhaile</orth>
+            </form>
+            <def>for grazing.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e240">
+            <form>
+               <orth>an cul</orth>
+            </form>
+            <def>for grazing.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e249">
+            <form>
+               <orth>athbhull, abhall</orth>
+            </form>
+            <def>used generally for raising cabbage plants.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e258">
+            <form>
+               <orth>feanagan</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e264">
+            <form>
+               <orth>iomairean</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e270">
+            <form>
+               <orth>clair</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e276">
+            <form>
+               <orth>cinn</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e281"
+             subtype="h2">(c) Actual dividing and allocating of land, e.g. casting lots</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e286">
+            <form>
+               <orth>garadh crìche</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e292">
+            <form>
+               <orth>clach criche, clach crìoch</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e298">
+            <form>
+               <orth>cur croinn</orth>
+            </form>
+            <def>to cast lots.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e307">
+            <form>
+               <orth>roinn chinn, cheann</orth>
+            </form>
+            <def>run rig.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e316">
+            <form>
+               <orth>garadh a’ bhaile</orth>
+            </form>
+            <def>dry-stone dyke enclosing cultivated part of village (about ½ mile from sea-shore).</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e325">
+            <form>
+               <orth>garadh ùir</orth>
+            </form>
+            <def>turf dyke a further ½ mile into the moor (one mile from sea). This dyke protected the cultivation of the river glen. In vicinity of each of these dykes was a pound for stray animals.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e334">
+            <form>
+               <orth>garadh droma</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e340">
+            <form>
+               <orth>buaile a phuinnd</orth>
+            </form>
+            <def>the place of the stray animal pound.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e348"
+             subtype="h2">(d) Land owned or held under leases of various duration</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e353">
+            <form>
+               <orth>Tha croit agam air mhal.</orth>
+            </form>
+            <def>I have a croft on rent.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e362">
+            <form>
+               <orth>Tha croit agam air ‘rent’.</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e367"
+             subtype="h1">2. Harness of a horse</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e371"
+             subtype="h2">(a) The harness of a horse as used in the performance of different tasks</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e376">
+            <form>
+               <orth>clagan</orth>
+            </form>
+            <def>halter.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e385">
+            <form>
+               <orth>strathair</orth>
+            </form>
+            <def>saddle.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e394">
+            <form>
+               <orth>collair</orth>
+            </form>
+            <def>collar.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e403">
+            <form>
+               <orth>siulleachan</orth>
+            </form>
+            <def>hames.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e412">
+            <form>
+               <orth>briogais</orth>
+            </form>
+            <def>breeches.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e421">
+            <form>
+               <orth>cairtair</orth>
+            </form>
+            <def>carter.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e430">
+            <form>
+               <orth>cairtaireachd</orth>
+            </form>
+            <def>carting.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e439">
+            <form>
+               <orth>treabhadh</orth>
+            </form>
+            <def>ploughing.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e448">
+            <form>
+               <orth>cliathadh</orth>
+            </form>
+            <def>harrowing.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e457">
+            <form>
+               <orth>cur an t’ each an’  uidheam</orth>
+               <pron>[?]</pron>
+            </form>
+            <def>[?] put the harness on the horse.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e466">
+            <form>
+               <orth>cur an t’ each do’n cairt</orth>
+            </form>
+            <def>put the horse in the cart.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e474"
+             subtype="h2">(b) Different parts of the harness for carting</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e478"
+             subtype="h2">(c) Different parts of the harness for ploughing or harrowing</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e483">
+            <form>
+               <orth>sliosean</orth>
+            </form>
+            <def>traces.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e492">
+            <form>
+               <orth>gralag, na greallagan</orth>
+            </form>
+            <def>a strong piece of wood with a strong iron band at each end to which the traces are linked. Another of the same in the centre facing backwards and to which the plough or harrow is fixed.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e501">
+            <form>
+               <orth>ban droma</orth>
+            </form>
+            <def>or back rope; the back band keeping the traces in position.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e509"
+             subtype="h1">3. Carts</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e513"
+             subtype="h2">(a) The common farm-yard cart</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e518">
+            <form>
+               <orth>cairt copic</orth>
+            </form>
+            <def>couping cart.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e526"
+             subtype="h2">(b) Different parts of a cart</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e530"
+             subtype="h3">1. Body</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e535">
+            <form>
+               <orth>carn</orth>
+            </form>
+            <def>the body of the cart.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e544">
+            <form>
+               <orth>tromachan</orth>
+            </form>
+            <def>the two main beams in the body lengthwise, trams.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e553">
+            <form>
+               <orth>cross end deiraidh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e559">
+            <form>
+               <orth>cross end toisaich</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e565">
+            <form>
+               <orth>na blocaichean</orth>
+            </form>
+            <def>the pieces of wood separating trams from axle.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e573"
+             subtype="h3">2. Trams</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e577"
+             subtype="h3">3. Wheel and axle</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e582">
+            <form>
+               <orth>cearcall</orth>
+            </form>
+            <def>iron ring on wheels.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e591">
+            <form>
+               <orth>na gàirdeanan</orth>
+            </form>
+            <def>the spokes in wheels.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e600">
+            <form>
+               <orth>a chioch</orth>
+            </form>
+            <def>the hub.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e609">
+            <form>
+               <orth>am bushie</orth>
+            </form>
+            <def>the iron fitting through which the axle passes.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e618">
+            <form>
+               <orth>na punnachean</orth>
+            </form>
+            <def>the axle pins.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e626"
+             subtype="h3">4. Decorations</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e631">
+            <form>
+               <orth>[painting carts]</orth>
+            </form>
+            <def>Normally a cart was painted red with blue on that portion of the trams where the back rope or back band sliders are fixed in. The reason for this part being painted blue, I presume, was because the sliders were always greased and grease running on to the blue did not show so much as it would if the paint was red. Sometimes the trams were also painted blue about six inches on rear and front. Some carters also painted these parts of trams in black. Blue and black paint counteracted grease marks.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e639"
+             subtype="h2">(c) Other words associated with carting</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e644">
+            <form>
+               <orth>cur an eich do’n cairt</orth>
+            </form>
+            <def>putting horse in cart.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e653">
+            <form>
+               <orth>toirt an eich as a cairt</orth>
+            </form>
+            <def>releasing horse from cart.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e662">
+            <form>
+               <orth>tùmadh na cairt</orth>
+            </form>
+            <def>emptying the cart.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e670"
+             subtype="h1">4. The plough</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e674"
+             subtype="h2">(a) Different kinds of ploughs</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e679">
+            <form>
+               <orth>crann mor</orth>
+            </form>
+            <def>the heavy all iron plough used on the big farms of the south and pulled by two horses.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e688">
+            <form>
+               <orth>crann de each</orth>
+            </form>
+            <def>the heavy all iron plough used on the big farms of the south and pulled by two horses.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e697">
+            <form>
+               <orth>crann beag (Oliver)</orth>
+            </form>
+            <def>the small common Highland plough of wood and iron and pulled by one horse suitable for stony crofts such as we have in Lewis.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e705"
+             subtype="h2">(b) Parts of a plough in detail</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e710">
+            <form>
+               <orth>[crann-na-gad]</orth>
+            </form>
+            <def>I refer you to Dwelly’s Gaelic Dictionary, as a very detailed list is given under Crann-na-Gad. The names and expressions are pertaining to that of the parish of Barvas, Isle-of-Lewis.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e718"
+             subtype="h1">5. Harrows and swingle trees</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e722"
+             subtype="h2">(a) Different types of harrows</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e727">
+            <form>
+               <orth>cliath an eich</orth>
+            </form>
+            <def>three main beams with three cross beams preferably of hard wood.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e736">
+            <form>
+               <orth>cliath bheag</orth>
+            </form>
+            <def>a man drawn harrow very suitable for small plots of arable.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e744"
+             subtype="h2">(b) Swingle trees</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e748"
+             subtype="h1">6. Spring work</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e752"
+             subtype="h2">(a) Fertilisers and fertilising</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e756"
+             subtype="h3">1. Fertilisers</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e761">
+            <form>
+               <orth>sitig</orth>
+            </form>
+            <def>a layer of dung manure and seaweed alternately put together during late winter and early spring; good for all crops.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e770">
+            <form>
+               <orth>feamainn dubh</orth>
+            </form>
+            <def>cut when tide is out. High tide bringing the cut seaweed on to foreshore gathered and spread on machair soil suitable for potatoes.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e779">
+            <form>
+               <orth>feamainn dearg</orth>
+            </form>
+            <def>brought on to shore by the incoming tide; also suitable for potatoes as is also for oats and barley.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e787"
+             subtype="h3">2. The actual work performed, e.g. transporting seaweed/manure to field</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e792">
+            <form>
+               <orth>gearradh na feamaida duibhe</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e798">
+            <form>
+               <orth>cur suas an fheamainn</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e804">
+            <form>
+               <orth>cliabh feamainn</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e810">
+            <form>
+               <orth>cliabh todhair</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e816">
+            <form>
+               <orth>cairt todhair</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e822">
+            <form>
+               <orth>cur mach an todhar</orth>
+            </form>
+            <def>manuring of croft or field.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e831">
+            <form>
+               <orth>cur na feamainn anns a sgriob</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e837">
+            <form>
+               <orth>cur na feamainn anns a streath</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e843">
+            <form>
+               <orth>’cur a mach ant-sùith</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] on a sunny, dry day the thatch was removed and the soot collected and stored for use as fertiliser or it may have been taken straight to the croft (not sure of this point).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e851"
+             subtype="h3">3. Implements used for lifting, carrying and spreading manure or seaweed</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e856">
+            <form>
+               <orth>graip</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e862">
+            <form>
+               <orth>cliabh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e868">
+            <form>
+               <orth>barra</orth>
+            </form>
+            <def>wheelbarrow.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e876"
+             subtype="h2">(b) Turning and tilling the soil</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e880"
+             subtype="h3">1. Implements used for turning or tilling the soil</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e885">
+            <form>
+               <orth>spaid</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e891">
+            <form>
+               <orth>crann treabhaidh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e897">
+            <form>
+               <orth>horse drawn</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e903">
+            <form>
+               <orth>tractor</orth>
+            </form>
+         </entry>
+         <note>[NOTES: the way the last three terms are written down – one under another – it is not clear if there is any link between them.]</note>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e911"
+             subtype="h3">2. Parts of the implements used</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e915"
+             subtype="h3">3. Words used in connection with tilling the soil, e.g. digging</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e920">
+            <form>
+               <orth>túmadh</orth>
+            </form>
+            <def>cleaning of drains and spreading the cleanings over the arable, then ploughed in giving the soil renewed fertility.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e928"
+             subtype="h2">(c) Seed planting</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e932"
+             subtype="h3">1. Names of seeds planted and words used for sowing or planting these</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e937">
+            <form>
+               <orth>siol corc</orth>
+            </form>
+            <def>cur a corc.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e946">
+            <form>
+               <orth>cur a bhunata</orth>
+            </form>
+            <def>planting potatoes.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e955">
+            <form>
+               <orth>cur chail</orth>
+            </form>
+            <def>planting cabbages.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e963"
+             subtype="h3">2. Names of any special sack, basket etc. used for carrying seed when sowing or planting</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e968">
+            <form>
+               <orth>seic</orth>
+            </form>
+            <def>bag made of hide or skin.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e977">
+            <form>
+               <orth>poc</orth>
+            </form>
+            <def>bag made of sackcloth.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e985"
+             subtype="h3">3. Names of any special implement used for planting</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e990">
+            <form>
+               <orth>putair</orth>
+            </form>
+            <def>for putting down potatoes when soil is already turned and ploughed. An ordinary wooden shaft with one end somewhat pointed to make the holes more easier [sic].</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e998"
+             subtype="h1">7. Summer work</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1002"
+             subtype="h2">(a) Cleaning and weeding potatoes</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1007">
+            <form>
+               <orth>tobha</orth>
+            </form>
+            <def>hoe.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1016">
+            <form>
+               <orth>priceadh</orth>
+            </form>
+            <def>going over the plot cutting all weeds etc.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1025">
+            <form>
+               <orth>tobhaiceadh</orth>
+            </form>
+            <def>earthing to prevent the grown shaws from being broken by strong winds.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1033"
+             subtype="h2">(b) Thinning and weeding other crops</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1038">
+            <form>
+               <orth>tannachadh</orth>
+            </form>
+            <def>thinning with broad hoe.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1046"
+             subtype="h1">8. Autumn work</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1050"
+             subtype="h2">(a) Hay making</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1054"
+             subtype="h3">1. The implement used for (a) cutting (b) raking and turning (c) lifting and stacking</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1059">
+            <form>
+               <orth>corran</orth>
+            </form>
+            <def>sickle (very little used nowadays).</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1068">
+            <form>
+               <orth>speal</orth>
+            </form>
+            <def>scythe.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1077">
+            <form>
+               <orth>clach speal</orth>
+            </form>
+            <def>sharpener.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1086">
+            <form>
+               <orth>rácadh</orth>
+            </form>
+            <def>raking and turning.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1095">
+            <form>
+               <orth>gocadh</orth>
+            </form>
+            <def>first stage of stacking.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1104">
+            <form>
+               <orth>cruach</orth>
+            </form>
+            <def>stack.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1113">
+            <form>
+               <orth>goca mor</orth>
+            </form>
+            <def>stack.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1122">
+            <form>
+               <orth>sìg</orth>
+            </form>
+            <def>stacked oblong shaped and tapered in the top so as to throw off oncoming rains.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1130"
+             subtype="h3">2. Name the parts of the implements mentioned</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1135">
+            <form>
+               <orth>iarunn</orth>
+            </form>
+            <def>blade.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1144">
+            <form>
+               <orth>cas</orth>
+            </form>
+            <def>handle.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1152"
+             subtype="h3">3. Various stages of hay-making</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1157">
+            <form>
+               <orth>gearradh fheoir</orth>
+            </form>
+            <def>cutting hay.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1166">
+            <form>
+               <orth>tionndadh an fheoir</orth>
+            </form>
+            <def>turning [hay].</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1175">
+            <form>
+               <orth>ri gocadh</orth>
+            </form>
+            <def>hay-cocks.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1184">
+            <form>
+               <orth>ri cruachadh</orth>
+            </form>
+            <def>stacking.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1193">
+            <form>
+               <orth>deanamh sìg</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1198"
+             subtype="h2">(b) Corn cutting and securing</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1202"
+             subtype="h3">1. Implements used for cutting, raking, binding, lifting into stacks etc.</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1207">
+            <form>
+               <orth>speal</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1213">
+            <form>
+               <orth>ràckan</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1219">
+            <form>
+               <orth>ceangal</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1224"
+             subtype="h3">2. Bands (for tying corn), sheaves, stooks etc.</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1229">
+            <form>
+               <orth>bann</orth>
+            </form>
+            <def>band.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1238">
+            <form>
+               <orth>bad coirc</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1244">
+            <form>
+               <orth>beum eorna</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1250">
+            <form>
+               <orth>adag coirc</orth>
+            </form>
+            <def>a stook of twelve sheaves; bad.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1259">
+            <form>
+               <orth>curracag eorna</orth>
+            </form>
+            <def>a stook of ten sheaves; beum.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1267"
+             subtype="h3">3. Stack making (in yard)</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1272">
+            <form>
+               <orth>clachan buinn</orth>
+            </form>
+            <def>stones.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1281">
+            <form>
+               <orth>acaraichean</orth>
+            </form>
+            <def>anchors, weights; flat stones put in loops of rope.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1290">
+            <form>
+               <orth>seann lion sadanach</orth>
+            </form>
+            <def>for protection from birds.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1299">
+            <form>
+               <orth>bonn na cruaich</orth>
+            </form>
+            <def>foundation.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1308">
+            <form>
+               <orth>glaodhan</orth>
+            </form>
+            <def>the body.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1317">
+            <form>
+               <orth>bad a muigh</orth>
+            </form>
+            <def>covering the body with heavy sheaves at the same time making secure with coir rope or heather rope.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1326">
+            <form>
+               <orth>crios</orth>
+            </form>
+            <def>coir rope etc.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1334"
+             subtype="h3">4. Methods of carrying or transporting corn from field to corn yard</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1339">
+            <form>
+               <orth>taod</orth>
+            </form>
+            <def>the corn tied up firmly in ropes and carried on the human back.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1348">
+            <form>
+               <orth>cart + tractor</orth>
+            </form>
+            <def>the more modern.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1356"
+             subtype="h2">(c) Potato lifting and storing</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1360"
+             subtype="h3">1. Implements</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1365">
+            <form>
+               <orth>tobhain</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1371">
+            <form>
+               <orth>graip</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1377">
+            <form>
+               <orth>croman</orth>
+            </form>
+            <def>
+               <graphic url="SouthBragarDMacPhailagricultureillust1.jpg" width="300px"/>
+            </def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1387"
+             subtype="h3">2. Sack, creel, barrow etc. used for carrying potatoes in field and to steading</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1392">
+            <form>
+               <orth>cliabh</orth>
+            </form>
+            <def>or creel. The most commonly used.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1400"
+             subtype="h3">3. Where potatoes are kept or stored</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1405">
+            <form>
+               <orth>slochd bhunata</orth>
+            </form>
+            <def>potato pit. To make a potato pit, preferably where oats were grown clean, according to quantity to be put in 20-30 creels for example, 9 feet long 4 ft wide and six inches deep covered with firm sods of earth termed sgrathan and covered with the surrounding earth 9 inches thick formed into a shapely mound.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1414">
+            <form>
+               <orth>cuil bhunata</orth>
+            </form>
+            <def>when potatoes are stored in barn.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1422"
+             subtype="h3">4. Potato diseases</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1427">
+            <form>
+               <orth>cnamh</orth>
+            </form>
+            <def>blight, caused by too much wet, signs: withering shaws.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1436">
+            <form>
+               <orth>lobhadh</orth>
+            </form>
+            <def>rotting, caused by too much wet, signs: withering shaws.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1444"
+             subtype="h2">(d) Other crops (Lifting and storing)</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1448"
+             subtype="h3">1. Implements used for lifting</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1452"
+             subtype="h3">2. How and where crop is stored</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1457">
+            <form>
+               <orth>iodhlann</orth>
+            </form>
+            <def>corn yard.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1465"
+             subtype="h3">3. Diseases/insects which attack the particular crop(s)</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1470">
+            <form>
+               <orth>pudharan</orth>
+            </form>
+            <def>a black stalk of corn in a field of growing oats.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1479">
+            <form>
+               <orth>graine dubh</orth>
+            </form>
+            <def>a black stalk of corn in a field of growing oats.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1487"
+             subtype="h1">9. Winter work</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1491"
+             subtype="h2">(a) Land drainage</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1495"
+             subtype="h3">1. Drains, ditches etc.</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1500">
+            <form>
+               <orth>clais</orth>
+            </form>
+            <def>drain between the two feannags.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1509">
+            <form>
+               <orth>taomadh</orth>
+            </form>
+            <def>clearing drain of debris, which is spread on adjoining fields.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1517"
+             subtype="h3">2. Implements used</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1522">
+            <form>
+               <orth>spaid</orth>
+            </form>
+            <def>spade.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1530"
+             subtype="h2">(b) Potato cutting for seed</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1534"
+             subtype="h3">1. Instruments used</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1539">
+            <form>
+               <orth>sgealbadh</orth>
+            </form>
+            <def>cutting the potato leaving an eye in each part.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1547"
+             subtype="h3">2. Different kinds of potatoes</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1552">
+            <form>
+               <orth>Kerr’s pink</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1558">
+            <form>
+               <orth>Champion</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1564">
+            <form>
+               <orth>Golden Wonder</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1569"
+             subtype="h2">(c) Corn threshing</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1573"
+             subtype="h3">1. Implements used</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1578">
+            <form>
+               <orth>sùist</orth>
+            </form>
+            <def>flail. <graphic url="SouthBragarDMacPhailagricultureillust2.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1588">
+            <form>
+               <orth>ial</orth>
+               <pron>[flail]</pron>
+            </form>
+            <def>[flail] thongs connecting handle to buailtean [q.v.].
+        <graphic url="SouthBragarDMacPhailagricultureillust2.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1599">
+            <form>
+               <orth>lamharan</orth>
+               <pron>[flail]</pron>
+            </form>
+            <def>[flail] shaft or handle.
+        <graphic url="SouthBragarDMacPhailagricultureillust2.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1610">
+            <form>
+               <orth>buailtean</orth>
+               <pron>[flail]</pron>
+            </form>
+            <def>[flail] a two foot long tree branch refined down to suitable weight for threshing corn laid out on barn floor.
+        <graphic url="SouthBragarDMacPhailagricultureillust2.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1621">
+            <form>
+               <orth>maide frassaidh</orth>
+            </form>
+            <def>a length of wood with edges cut in teeth like manner by which the sheaf is threshed by light beatings.
+        <graphic url="SouthBragarDMacPhailagricultureillust3.jpg" width="200px"/>
+            </def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1631"
+             subtype="h3">2. Threshing</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1636">
+            <form>
+               <orth>bualadh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1642">
+            <form>
+               <orth>frassadh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1648">
+            <form>
+               <orth>sgathadh bhunan</orth>
+            </form>
+            <def>cutting the base and roots off barley sheaves with an old scythe blade and shaking all down into a thorough mixture for thatch.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1656"
+             subtype="h2">(d) Grain winnowing</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1660"
+             subtype="h3">1. Devices used</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1665">
+            <form>
+               <orth>fasganadh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1671">
+            <form>
+               <orth>criathar</orth>
+            </form>
+            <def>sieve. Circular wooden frame. Skin – perforated to allow grain to fall through. [NOTES: spelled ‘criothar’ in the illustration.]
+	    <graphic url="SouthBragarDMacPhailagricultureillust4.jpg" width="400px"/>
+            </def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1682">
+            <form>
+               <orth>criathradh</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1687"
+             subtype="h3">2. How constructed and materials used. Winnowing</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1692">
+            <form>
+               <orth>[siol agus scalpan]</orth>
+            </form>
+            <def>Siol agus scalpan air a cur ri gaoith, siol ri tuiteam faisg a laimh ach a scalpan no moll falb [sic] leis a gaoith.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1700"
+             subtype="h1">10. Permanent structures/buildings for storing crops</ab>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1704"
+             subtype="h2">(a) Stack-yard</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1709">
+            <form>
+               <orth>iodhlainn</orth>
+            </form>
+            <def>stack yard, originally built of stone.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1718">
+            <form>
+               <orth>bearna</orth>
+            </form>
+            <def>gate-way.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1727">
+            <form>
+               <orth>gàradh na h-iodhlainn</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1732"
+             subtype="h2">(b) Barn and parts of a barn</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1737">
+            <form>
+               <orth>toll an shabhail</orth>
+            </form>
+            <def>opening in wall for winnowing when wind would have to be from favourable direction.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1746">
+            <form>
+               <orth>uachdair an shabhail</orth>
+            </form>
+            <def>where corn is stored.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1755">
+            <form>
+               <orth>cùil a bhunata</orth>
+            </form>
+            <def>where potatoes are stored.</def>
+         </entry>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1764">
+            <form>
+               <orth>cùil nan òisgean</orth>
+            </form>
+            <def>separate part for housing this year’s lambs in winter.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1772"
+             subtype="h1">11. Modern implements and machines</ab>
+         <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1777">
+            <form>
+               <orth>[tractor, reaper, binder]</orth>
+            </form>
+            <def>The tractor, reaper and binder are newly brought in implements and the English names are borrowed.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

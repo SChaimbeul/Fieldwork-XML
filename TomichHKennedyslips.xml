@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_TomichHKennedyslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>05/1969</date>
+            <location>
+               <placeName>Inverness-shire, Tomich, Hilton Cottage</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Mrs Harriet Kennedy</persName>
+               <age>c. 80</age>
+               <birth>
+                  <placeName>Stratherricis</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_TomichHKennedyslips-idp115494256">
+            <form>
+               <orth>beigleis</orth>
+               <pron>[beɡlɑʃ]</pron>
+            </form>
+            <def>[beɡlɑʃ] Notes: bayonet – from an old song. See beigleid, beigneid Dw.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

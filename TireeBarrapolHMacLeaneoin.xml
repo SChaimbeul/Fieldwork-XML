@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="TireeandMull_TireeBarrapolHMacLeaneoin">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: note on the first page ‘Alan Boyd from Hugh MacLean (Barrapol) – information from Alan Boyd, 15 July 2008 (R. Ó Maolalaigh)’.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>[Tiree, Barrapol]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[Alan Boyd]</persName>
+            </person>
+            <person role="informant">
+               <persName>Hugh MacLean</persName>
+               <age>[64?]</age>
+               <birth>
+                  <placeName>[Tiree]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Birds of Tiree</term>
+               <term xml:lang="gd">Eòin Thiriodh</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e33">
+            <form>
+               <orth>feannag</orth>
+            </form>
+            <def>hooded crow.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e42">
+            <form>
+               <orth>fitheach</orth>
+            </form>
+            <def>raven.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e51">
+            <form>
+               <orth>rocaideach</orth>
+            </form>
+            <def>rook.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e60">
+            <form>
+               <orth>eun (ian) beag an t-sneachda.</orth>
+            </form>
+            <def>snow bunting</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e69">
+            <form>
+               <orth>bigean bainndean (m), bigeanan bainndean (pl)</orth>
+            </form>
+            <def>house sparrow.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e78">
+            <form>
+               <orth>druideag (f), druideagan (pl)</orth>
+            </form>
+            <def>starling.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e87">
+            <form>
+               <orth>uiseag (f), uiseagan (pl)</orth>
+            </form>
+            <def>skylark.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e96">
+            <form>
+               <orth>breac an t-sìl (f), breacan sìl (pl)</orth>
+            </form>
+            <def>pied wagtail.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e105">
+            <form>
+               <orth>smeorach (f)</orth>
+            </form>
+            <def>song thrush.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e114">
+            <form>
+               <orth>an t-eun dubh</orth>
+            </form>
+            <def>blackbird.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e123">
+            <form>
+               <orth>lon dubh</orth>
+            </form>
+            <def>blackbird.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e132">
+            <form>
+               <orth>brù dearg (m), bruidhean dearga (pl)</orth>
+            </form>
+            <def>robin. (Not ‘dhearg’.)</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e141">
+            <form>
+               <orth>clacharan (m), clacharain (pl)</orth>
+            </form>
+            <def>stonechat.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e150">
+            <form>
+               <orth>gobhlan gaothadh (m), gobhlain gaothadh (pl)</orth>
+            </form>
+            <def>house martin; sand martin; swallow; swift.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e159">
+            <form>
+               <orth>dreathan donn (m), dreathain donn (pl)</orth>
+            </form>
+            <def>wren.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e168">
+            <form>
+               <orth>cuthag (f), cuthagan (pl)</orth>
+            </form>
+            <def>cuckoo.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e177">
+            <form>
+               <orth>cailleach oidhche</orth>
+            </form>
+            <def>owl.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e186">
+            <form>
+               <orth>iolaire (f), iolairean (pl)</orth>
+            </form>
+            <def>eagle.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e195">
+            <form>
+               <orth>clamhan (m), clamhain (pl)</orth>
+            </form>
+            <def>buzzard.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e204">
+            <form>
+               <orth>spéireag (f), speireagan (pl)</orth>
+            </form>
+            <def>sparrowhawk.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e213">
+            <form>
+               <orth>croman (m), cromain (pl)</orth>
+            </form>
+            <def>kestrel.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e222">
+            <form>
+               <orth>seabhag (f), seabhagan (pl)</orth>
+            </form>
+            <def>peregrine falcon.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e231">
+            <form>
+               <orth>sùlaire (m), sùlairean</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] gannet.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e240">
+            <form>
+               <orth>sgarbh (m)</orth>
+            </form>
+            <def>cormorant – first 7 years.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e249">
+            <form>
+               <orth>learg (f), leargan (pl)</orth>
+            </form>
+            <def>cormorant – second 7 years.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e258">
+            <form>
+               <orth>balach bodhach (m), balaich bhodhach</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] cormorant – third 7 years. (‘bodhach’ – Tiree for “boidheach”.)</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e267">
+            <form>
+               <orth>buna-bhuachaille</orth>
+            </form>
+            <def>cormorant – an corr de bheatha.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e276">
+            <form>
+               <orth>eala (f), ealachan</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] swan.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e285">
+            <form>
+               <orth>giadh glas</orth>
+            </form>
+            <def>goose (greylag, white-front).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e294">
+            <form>
+               <orth>cathach (m), cathaich (pl)</orth>
+            </form>
+            <def>barnacle goose.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e303">
+            <form>
+               <orth>lacha (f), lachaich (pl)</orth>
+            </form>
+            <def>wild duck (mallard mostly).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e312">
+            <form>
+               <orth>cradh-ghiadh (m), cradh-gheoidh (pl)</orth>
+            </form>
+            <def>shell duck.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e321">
+            <form>
+               <orth>lacha-blàr, lachaich-blar  (pl)</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] wigeon.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e330">
+            <form>
+               <orth>lacha-cholasach, lachaich-cholasach (pl)</orth>
+            </form>
+            <def>eider.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e339">
+            <form>
+               <orth>sìoltaiche (m), sìoltaichean (pl)</orth>
+            </form>
+            <def>red-breasted merganser.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e348">
+            <form>
+               <orth>gorra-chritheach (f), gorrachan-critheach</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] heron. (Not ‘corra-ghritheach’ in Tiree.)</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e357">
+            <form>
+               <orth>gobsàc</orth>
+            </form>
+            <def>common snipe.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e366">
+            <form>
+               <orth>bodsac</orth>
+            </form>
+            <def>common snipe.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e375">
+            <form>
+               <orth>gobhar-adhair</orth>
+            </form>
+            <def>mating and breeding movement of wings of snipe in air.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e384">
+            <form>
+               <orth>naosg (m), naoisg (pl)</orth>
+            </form>
+            <def>jack snipe.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e393">
+            <form>
+               <orth>drilleachan (m), drilleachain (pl)</orth>
+            </form>
+            <def>sanderling.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e402">
+            <form>
+               <orth>finnineach (m), finninich (pl)</orth>
+            </form>
+            <def>redshank.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e411">
+            <form>
+               <orth>cnotag (f), cnotagan (pl)</orth>
+            </form>
+            <def>curlew.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e420">
+            <form>
+               <orth>cnotag bheag (f)</orth>
+            </form>
+            <def>whimbrel.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e429">
+            <form>
+               <orth>cuireachdag (f), cuireachdagan</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] lapwing.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e438">
+            <form>
+               <orth>feadag (f), feadagan (pl)</orth>
+            </form>
+            <def>grey plover; golden plover.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e447">
+            <form>
+               <orth>luachran (m), luachrain (pl)</orth>
+            </form>
+            <def>ringed plover.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e456">
+            <form>
+               <orth>gille brighde (m), gillean brighde (pl)</orth>
+            </form>
+            <def>oyster catcher.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e465">
+            <form>
+               <orth>faoileann (f), faoileannan (pl)</orth>
+            </form>
+            <def>common gull; herring gull.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e474">
+            <form>
+               <orth>farspach (f), farspachan (pl)</orth>
+            </form>
+            <def>greater black-backed gull.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e483">
+            <form>
+               <orth>claucaire (m), claucairean (pl)</orth>
+            </form>
+            <def>glaucous gull.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e492">
+            <form>
+               <orth>faoileann a’ chinn dhuibh</orth>
+            </form>
+            <def>black-headed gull.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e501">
+            <form>
+               <orth>faoileann bheag</orth>
+            </form>
+            <def>kittiwake.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e510">
+            <form>
+               <orth>stearnal (m), stearnail (pl)</orth>
+            </form>
+            <def>tern.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e519">
+            <form>
+               <orth>fasgadair (m), fasgadairean</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] arctic skua; great skua.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e528">
+            <form>
+               <orth>ian dubh an sgadain</orth>
+            </form>
+            <def>puffin; razor-bill; guillemot.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e537">
+            <form>
+               <orth>fulmaire (m), fulmairean</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] fulmar.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e546">
+            <form>
+               <orth>bunabhuachaille (f), bunabhuachaillean</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] great northern diver.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e555">
+            <form>
+               <orth>cearc-uisge (f)</orth>
+            </form>
+            <def>water rail; coot.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e564">
+            <form>
+               <orth>traona (f), traonan</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] corncrake. Also ‘tronn’.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e573">
+            <form>
+               <orth>[tronn]</orth>
+               <pron>[See traona]</pron>
+            </form>
+            <def>[See traona]</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e582">
+            <form>
+               <orth>calman (m), calmain</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] pigeon; dove.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e591">
+            <form>
+               <orth>cearc fhraoich (f), cearcan fraoich (pl)</orth>
+            </form>
+            <def>partridge.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e600">
+            <form>
+               <orth>coileach fraoich</orth>
+            </form>
+            <def>red grouse.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e609">
+            <form>
+               <orth>coileach dubh</orth>
+            </form>
+            <def>black grouse.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e618">
+            <form>
+               <orth>tunnag-lacha</orth>
+            </form>
+            <def>duck.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeaneoin-d0e627">
+            <form>
+               <orth>strac-lacha</orth>
+            </form>
+            <def>drake.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

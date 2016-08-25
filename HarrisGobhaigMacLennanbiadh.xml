@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location corresp="Harris_Gobhaig"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self?]</persName>
+        </person>
+        <person role="informant" corresp="A_MacLennan_Harris_Gobhaig"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Food and Drink</term>
+          <term xml:lang="gd">Biadh is Deoch</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e30">
+        <form>
+          <orth>seab</orth>
+        </form>
+        <def>feast. [NOTES: word added on the title page.]</def>
+      </entry>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e38">1. Na tràthan</head>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e43" corresp="lexicopia:bracaist">
+          <form>
+            <orth>
+              <choice>
+                <orig>braiceast</orig>
+                <reg>bracaist</reg>
+              </choice>
+            </orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e49">
+          <form>
+            <orth>diot</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e55">
+          <form>
+            <orth>suipeir</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e61">
+          <form>
+            <orth>trath-bidh</orth>
+          </form>
+          <def>any meal time.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e70">
+          <form>
+            <orth>trath-neoin</orth>
+          </form>
+          <def>noon.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e78">2. Am biadh a bhidhte gabhail aig gach tràth</head>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e82">BRAICEAST</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e87">
+            <form>
+              <orth>brochan, lite</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e93">
+            <form>
+              <orth>uighean</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e99">
+            <form>
+              <orth>feoil shaillte</orth>
+            </form>
+            <def> – muc, mart, caora.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e108">
+            <form>
+              <orth>aran corc</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e114">
+            <form>
+              <orth>aran eorna</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e120">
+            <form>
+              <orth>aran flùir</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e126">
+            <form>
+              <orth>gruth</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e132">
+            <form>
+              <orth>gruth ’s uachdar</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e138">
+            <form>
+              <orth>ìm</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e144">
+            <form>
+              <orth>caise</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e150">
+            <form>
+              <orth>feoil-reiste</orth>
+            </form>
+            <def>salt meat, hung above the peat fire to dry (riasg - peat).</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e159">
+            <form>
+              <orth>maragan</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e165">
+            <form>
+              <orth>feoil bhragsaidh</orth>
+            </form>
+            <def>not recently.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e174">
+            <form>
+              <orth>te</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e180">
+            <form>
+              <orth>gruitheam (na gruth-ìm)</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e186">
+            <form>
+              <orth>bonnach lice</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e191">DIOT</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e196">
+            <form>
+              <orth>sgadan</orth>
+            </form>
+            <def> – saillte.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e205">
+            <form>
+              <orth>rionnach</orth>
+            </form>
+            <def> – saillte.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e214">
+            <form>
+              <orth>adag</orth>
+            </form>
+            <def> – saillte.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e223">
+            <form>
+              <orth>sgait</orth>
+            </form>
+            <def> – goirt.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e232">
+            <form>
+              <orth>sornan</orth>
+            </form>
+            <def> – goirt.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e241">
+            <form>
+              <orth>cuiteag</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e247">
+            <form>
+              <orth>feoil</orth>
+            </form>
+            <def>(as above)</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e256">
+            <form>
+              <orth>buntàta</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e262">
+            <form>
+              <orth>stapag choirce</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e267">SUIPEIR</head>
+          <note>mostly as braiceast.</note>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e281">
+            <form>
+              <orth>bonnach bois</orth>
+            </form>
+            <def>aig an obair.</def>
+          </entry>
+        </div>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e289">3. Dòighean air biadh a dheasachadh</head>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e293">4. Fuine</head>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e298">
+          <form>
+            <orth>clar fuine</orth>
+          </form>
+          <def>kneading board.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e307">
+          <form>
+            <orth>greideal</orth>
+          </form>
+          <def>gridle.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e316">
+          <form>
+            <orth>bonnach fluir</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e322">
+          <form>
+            <orth>sgonna fluir</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e328">
+          <form>
+            <orth>bonnach coirce</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e334">
+          <form>
+            <orth>sgonna coirce</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e340">
+          <form>
+            <orth>sgraoileag</orth>
+          </form>
+          <def>pancake.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e349">
+          <form>
+            <orth>fallaid</orth>
+          </form>
+          <def>flour shaken on a bannock prior to flattening out.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e358">
+          <form>
+            <orth>taois</orth>
+          </form>
+          <def>dough.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e366">5. Deochan dhe gach seòrsa</head>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e371">
+          <form>
+            <orth>uisge na burn</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e377">
+          <form>
+            <orth>stùireag</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e383">
+          <form>
+            <orth>sùghan</orth>
+          </form>
+          <def>not in modern times.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e392">
+          <form>
+            <orth>cabhruich</orth>
+          </form>
+          <def>not in modern times.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e401">
+          <form>
+            <orth>bainne tiugh</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e407">
+          <form>
+            <orth>bainne slamain</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e413">
+          <form>
+            <orth>bainne goirt</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e419">
+          <form>
+            <orth>bainne ùr</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e425">
+          <form>
+            <orth>blàthach</orth>
+          </form>
+          <def>sùgh ìme.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e434">
+          <form>
+            <orth>meang</orth>
+          </form>
+          <def>whey.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e443">
+          <form>
+            <orth>deoch bhàn</orth>
+          </form>
+          <def>a handful of oat meal in water.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e451">6. Biadh no deoch a bhidhte deanamh gu sònraichte do luchd euslan</head>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e456">
+          <form>
+            <orth>stapag – brochan</orth>
+          </form>
+          <def>cream and oat meal.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e465">
+          <form>
+            <orth>goille na marag truisg</orth>
+          </form>
+          <def>[?] </def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e471">
+          <form>
+            <orth>slaman</orth>
+          </form>
+          <def>rennet, bainne slamain.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e479">7. Nithean a bhiodh ann nuair a rachadh beathach a mharbhadh</head>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e484">
+          <form>
+            <orth>caisean</orth>
+          </form>
+          <def>[?] roasted tail.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e493">
+          <form>
+            <orth>caisean-uchd</orth>
+          </form>
+          <def>breast strip.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e502">
+          <form>
+            <orth>snaile</orth>
+          </form>
+          <def>marag, made inside the carcass, containing oatmeal, salt, liver, kidneys, blood, fat, pancreas.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e511">
+          <form>
+            <orth>geir</orth>
+          </form>
+          <def>suet.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e520">
+          <form>
+            <orth>laineachan</orth>
+          </form>
+          <def>kidneys and surrounding fat.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e529">
+          <form>
+            <orth>marag dhubh</orth>
+          </form>
+          <def>black pudding.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e538">
+          <form>
+            <orth>marag gheall</orth>
+          </form>
+          <def>white pudding, with raisins.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e547">
+          <form>
+            <orth>marag choirce</orth>
+          </form>
+          <def>mealy pudding, oat meal and onions.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e556">
+          <form>
+            <orth>luban-dubha</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e562">
+          <form>
+            <orth>luban-geala</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e568">
+          <form>
+            <orth>grùthan</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e574">
+          <form>
+            <orth>taobh-liath</orth>
+          </form>
+          <def>spleen.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e583">
+          <form>
+            <orth>maodal</orth>
+          </form>
+          <def>dùis, muinne an am pàirt deth Leodhas.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e592">
+          <form>
+            <orth>ceap</orth>
+          </form>
+          <def>dùis, muinne an am pàirt deth Leodhas.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e601">
+          <form>
+            <orth>caolan</orth>
+          </form>
+          <def>dùis, muinne an am pàirt deth Leodhas.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e610">
+          <form>
+            <orth>currag-an-righ</orth>
+          </form>
+          <def>dùis, muinne an am pàirt deth Leodhas.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e619">
+          <form>
+            <orth>luagha(inn) bheag agus mhór</orth>
+          </form>
+          <def>dùis, muinne an am pàirt deth Leodhas.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e628">
+          <form>
+            <orth>snaile</orth>
+          </form>
+          <def>dùis, muinne an am pàirt deth Leodhas.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e637">
+          <form>
+            <orth>broilean</orth>
+          </form>
+          <def>dùis, muinne an am pàirt deth Leodhas.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanbiadh-d0e645">8. Faclan sam bith eile</head>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location corresp="Harris_Gobhaig"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self?]</persName>
+        </person>
+        <person role="informant" corresp="A_MacLennan_Harris_Gobhaig"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Landscape Features</term>
+          <term xml:lang="gd">Cruth na Tìre</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e29">Mountains, hills</head>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e34">
+          <form>
+            <orth>beinn</orth>
+          </form>
+          <def>mountain.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e43">
+          <form>
+            <orth>mam</orth>
+          </form>
+          <def>mountain.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e52">
+          <form>
+            <orth>tulloch</orth>
+          </form>
+          <def>hillock.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e61">
+          <form>
+            <orth>cnoc</orth>
+          </form>
+          <def>hillock.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e70">
+          <form>
+            <orth>sithean</orth>
+          </form>
+          <def>a hummock on the summit.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e79">
+          <form>
+            <orth>tacsa</orth>
+          </form>
+          <def>foot of a mountain.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e88">
+          <form>
+            <orth>sliabh</orth>
+          </form>
+          <def>heath, rough grazing on mountain slope.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e97">
+          <form>
+            <orth>gualain</orth>
+          </form>
+          <def>shoulder.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e106">
+          <form>
+            <orth>coirre</orth>
+          </form>
+          <def>corrie.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e115">
+          <form>
+            <orth>faobhar</orth>
+          </form>
+          <def>the very summit, skyline.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e123">Moorland features</head>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e127">1.</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e132">
+            <form>
+              <orth>surag</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e138">
+            <form>
+              <orth>lòn</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e144">
+            <form>
+              <orth>rias</orth>
+            </form>
+            <def>soft muddle indentation.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e153">
+            <form>
+              <orth>boglach</orth>
+            </form>
+            <def>soft muddle indentation.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e162">
+            <form>
+              <orth>feith</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e168">
+            <form>
+              <orth>suil chruthaich</orth>
+            </form>
+            <def>quagmire.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e177">
+            <form>
+              <orth>pòll-damhair</orth>
+            </form>
+            <def>a stags wallowing place.</def>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e185">2.</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e190">
+            <form>
+              <orth>lag</orth>
+            </form>
+            <def>hollow.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e199">
+            <form>
+              <orth>slochd</orth>
+            </form>
+            <def>hollow.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e208">
+            <form>
+              <orth>glaic</orth>
+            </form>
+            <def>hollow.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e217">
+            <form>
+              <orth>bearn</orth>
+            </form>
+            <def>a gap.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e226">
+            <form>
+              <orth>feadan</orth>
+            </form>
+            <def>a narrow passage between two truncated spurs.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e235">
+            <form>
+              <orth>cadha</orth>
+            </form>
+            <def>a rocky gap at side or foot of a mountain.</def>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e243">3.</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e248">
+            <form>
+              <orth>bruthach</orth>
+            </form>
+            <def>brae.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e257">
+            <form>
+              <orth>bruaich</orth>
+            </form>
+            <def>bank.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e266">
+            <form>
+              <orth>bòta</orth>
+            </form>
+            <def>hummock.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e275">
+            <form>
+              <orth>toman</orth>
+            </form>
+            <def>hummock.</def>
+          </entry>
+        </div>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e283">Coastal features</head>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e288">
+          <form>
+            <orth>bagh</orth>
+          </form>
+          <def>bay.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e297">
+          <form>
+            <orth>camus</orth>
+          </form>
+          <def>bay.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e306">
+          <form>
+            <orth>caigean</orth>
+          </form>
+          <def>a narrow pass flooded by the sea, tidal.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e315">
+          <form>
+            <orth>geotha</orth>
+          </form>
+          <def>small cave.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e324">
+          <form>
+            <orth>òb</orth>
+          </form>
+          <def>bay.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e333">
+          <form>
+            <orth>sgor</orth>
+          </form>
+          <def>a cleft.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e342">
+          <form>
+            <orth>rubha</orth>
+          </form>
+          <def>headland.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e351">
+          <form>
+            <orth>gob</orth>
+          </form>
+          <def>headland.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e360">
+          <form>
+            <orth>pala</orth>
+          </form>
+          <def>narrow s[h]elf on a cliff.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e369">
+          <form>
+            <orth>piorra</orth>
+          </form>
+          <def>pinnacle.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e378">
+          <form>
+            <orth>bogha</orth>
+          </form>
+          <def>tidal rock.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e387">
+          <form>
+            <orth>sgeir</orth>
+          </form>
+          <def>tidal rock.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e396">
+          <form>
+            <orth>fideach</orth>
+          </form>
+          <def>tidal grazing, usually machair.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e404">Rivers, burns, streams, pools, waterfalls</head>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e409">
+          <form>
+            <orth>amhainn</orth>
+          </form>
+          <def>river.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e418">
+          <form>
+            <orth>allt</orth>
+          </form>
+          <def>stream.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e427">
+          <form>
+            <orth>sruth</orth>
+          </form>
+          <def>fast flowing stream.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e436">
+          <form>
+            <orth>gluba</orth>
+          </form>
+          <def>pool.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e445">
+          <form>
+            <orth>linne</orth>
+          </form>
+          <def>a long river pool.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e454">
+          <form>
+            <orth>pollag</orth>
+          </form>
+          <def>small pool.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e463">
+          <form>
+            <orth>glumag</orth>
+          </form>
+          <def>small pool.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e472">
+          <form>
+            <orth>steall</orth>
+          </form>
+          <def>waterfall.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e481">
+          <form>
+            <orth>èas</orth>
+          </form>
+          <def>waterfall.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e489">Types of beach</head>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e494">
+          <form>
+            <orth>traigh</orth>
+          </form>
+          <def>gainmheach.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e503">
+          <form>
+            <orth>mòl</orth>
+          </form>
+          <def>clachan beaga.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e512">
+          <form>
+            <orth>maroghan</orth>
+            <pron>[?]</pron>
+          </form>
+          <def>[?] gravel beach.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e520">Sea-pools, waves</head>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e525">
+          <form>
+            <orth>gluba</orth>
+          </form>
+          <def>sea pool.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e534">
+          <form>
+            <orth>tonnadh</orth>
+          </form>
+          <def>wave.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e543">
+          <form>
+            <orth>tonn</orth>
+          </form>
+          <def>wave.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e552">
+          <form>
+            <orth>stuagh</orth>
+          </form>
+          <def>wave.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e561">
+          <form>
+            <orth>sùradh-bàn</orth>
+          </form>
+          <def>surf carrying sand.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanland-d0e570">
+          <form>
+            <orth>sioban</orth>
+          </form>
+          <def>spray or drifting sand.</def>
+        </entry>
+      </div>
+    </body>
+  </text>
+</TEI>

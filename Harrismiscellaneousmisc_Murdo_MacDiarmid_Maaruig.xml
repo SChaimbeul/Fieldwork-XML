@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Excerpt from original file AJSmith_Harrismiscellaneousmisc -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AJSmith_Harrismiscellaneousmisc_Murdo_MacDiarmid_Maaruig">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>July 1972</date>
+        <location corresp="Harris_Maaruig"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="A_J_Smith"/>
+        <person role="informant" corresp="Murdo_MacDiarmid_Harris_Maaruig"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Miscellaneous</term>
+          <term xml:lang="gd">Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37719088">
+        <form>
+          <orth>sùradh</orth>
+          <pron>[su̟:ɾɑɣ]</pron>
+        </form>
+        <def>[su̟:ɾɑɣ] Note: backwash (sea).</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37721392">
+        <form>
+          <orth>steòrn</orth>
+          <pron>[ʃtʹɔ:ʴṉ]</pron>
+        </form>
+        <def>[ʃtʹɔ:ʴṉ] Quot.: “Chunnaic mi cuideigin ga steòrnadh sios chun an tigh agam.” Note: guiding. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37696192">
+        <form>
+          <orth>boinneachdainn</orth>
+          <pron>[bonʹɑxkĩnʹ]</pron>
+        </form>
+        <def>[bonʹɑxkĩnʹ] Quot.: “Cha robh e a’ boinneachdainn dha’n deoch.” Note: same as “beantainn” or “buntainn”.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37670848">
+        <form>
+          <orth>slabhairc</orth>
+          <pron>[sɫɑvɑðc]</pron>
+        </form>
+        <def>[sɫɑvɑðc] Note: live core inside a horn.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37692088">
+        <form>
+          <orth>tinneas-critheanach</orth>
+        </form>
+        <def>Quot.: an tinneas-critheanach. Note: louping-ill in sheep.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37627576">
+        <form>
+          <orth>staoig-an-amadain</orth>
+          <pron>[st̪w:ɡʹən̪ɑməd̪ɑ̃nʹ]</pron>
+        </form>
+        <def>[st̪w:ɡʹən̪ɑməd̪ɑ̃nʹ] Note: cartilaginous piece in the breast of sheep between the ribs. (Some call it “slig’-an-amadain”.)</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37716784">
+        <form>
+          <orth>spòg-dhubh</orth>
+        </form>
+        <def>Note: disease in sheep. Flesh goes black and animal dies.</def>
+      </entry>
+    </body>
+  </text>
+</TEI>

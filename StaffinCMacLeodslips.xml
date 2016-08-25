@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_StaffinCMacLeodslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1971</date>
+            <location>
+               <placeName>Skye, Staffin</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>Calum MacLeod</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_StaffinCMacLeodslips-idp115449536">
+            <form>
+               <orth>liagach</orth>
+            </form>
+            <def>Quotation: liagach fuar.</def>
+         </entry>
+         <entry xml:id="Slips_StaffinCMacLeodslips-idp115454432">
+            <form>
+               <orth>fìdeach</orth>
+            </form>
+            <def>Quotation: fìdeach fuar.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

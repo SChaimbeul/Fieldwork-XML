@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="MurdoMacLeod_GlasgowMMacLeodeccles">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Glaschu [Glasgow]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Murdo MacLeod</persName>
+               <persName xml:lang="gd">Murchadh MacLeòid </persName>
+               <age>58</age>
+               <birth>
+                  <placeName>Leòdhas [Lewis], Uig an Iar</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Ecclesiastical Terms</term>
+               <term xml:lang="gd">An Eaglais</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e32"
+             subtype="h1">1. Various denominations</ab>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e37">
+            <form>
+               <orth>Muinntir an Aonaidh</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e43">
+            <form>
+               <orth>Na h-Antis</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e49">
+            <form>
+               <orth>Na Secéders</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e55">
+            <form>
+               <orth>Na Pàpanaich</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e61">
+            <form>
+               <orth>Na Moderats</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e67">
+            <form>
+               <orth>An Eaglais Stéidhichte</orth>
+            </form>
+            <def>B’e seo an Established Church. Agus mar a th’agam air an taobh eile, ’s ann riutha seo a chanadh sinn Na Moderats. Ach bho 1929 chan eil an t-ainm tric ’ga chleachdadh. Ach cho fad’s is aithne dhomh, tha e beò fhathast.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e76">
+            <form>
+               <orth>A Chealla</orth>
+            </form>
+            <def>“An a sgaoil a’ Chealla?” A’ Chealla b’e seo againne eaglais Bhaile na Cille ann an Uig. Bha e aig na seann daoine mar a th’agam an seo shuas. “A’ Chealla” agus “An a sgaoil a’ Chealla”. Ach cha robh e againne ach mar ainm do’m biodh sinn a’ toirt an aire, chluinneadh sinn e an dràsda ’s a rithist. Nuair a bha Calum MacLeòid am ministeir (Calum MacLeòid a chaochail ann am Both-chuidir agus a bha ’na Cheann-suidhe air a’ Chomunn Ghàidhealach airson greis), nuair a bha e dol troimh an fhòghlum an Dunéideann, thuit a mach bhuaithe uaireigin “A Chealla” agus mar sin. Thug an t-Ollamh Mac Fhionghuin an aire do an seo anns an spot agus chòrd an rud a bh’ann ris anabarrach math.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e84"
+             subtype="h2">Na h-eaglaisean againne ann an Uig:</ab>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e89">
+            <form>
+               <orth>An Eaglais Mhór</orth>
+            </form>
+            <def>An Eaglais Stéidhichte, Eaglais Bhaile na Cille.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e98">
+            <form>
+               <orth>Eaglais Cheann Langabhat</orth>
+            </form>
+            <def>An Eaglais Shaor Aonaichte, gu 1929.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e107">
+            <form>
+               <orth>Eaglais na Secéders</orth>
+            </form>
+            <def>Tha i seo, cuideachd, an Ceann Langabhat.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e116">
+            <form>
+               <orth>[An Canastair]</orth>
+            </form>
+            <def>Gu ma dhà-fhichead bliadhna air ais bha eaglais aig na h-Antis ann an Ceann Langabhat, eaglais bheag iaruinn (suinc) agus ’se An Canastair am far-ainm a bh’aig an fheadhainn eile oirre.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e124"
+             subtype="h1">2. Member of each of these denominations</ab>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e129">
+            <form>
+               <orth>Aonadair</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e135">
+            <form>
+               <orth>Anti</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e141">
+            <form>
+               <orth>Secéder</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e147">
+            <form>
+               <orth>Pàpanach</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e152"
+             subtype="h1">3. Different courts of the Presbyterian churches</ab>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e157">
+            <form>
+               <orth>cléir</orth>
+            </form>
+            <def>A’ chléir – presbytery.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e166">
+            <form>
+               <orth>cùrt nan Deacon</orth>
+            </form>
+            <def>Deacon’t court.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e175">
+            <form>
+               <orth>an Seisean</orth>
+            </form>
+            <def>Kirk session.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e184">
+            <form>
+               <orth>deacon</orth>
+            </form>
+            <def>Deucon a chanas sinn. Mar beuc (aithghearr) + on: beucon, deucon, deacon.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-idola151">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Cha b’ann tric a chuala mi càil ach cléir, a’ chléir, seisean, deacon, éildeir.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e201"
+             subtype="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</ab>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e206">
+            <form>
+               <orth>ministeir</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e212">
+            <form>
+               <orth>misionaraidh</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e218">
+            <form>
+               <orth>eildeir</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e224">
+            <form>
+               <orth>deacon</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e230">
+            <form>
+               <orth>clàrc an t-Seisein</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e236">
+            <form>
+               <orth>luchd-dreuchd</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e242">
+            <form>
+               <orth>maor-eaglais</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-idola152">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Airson ‘lay preacher’ agus ‘treasurer’ chan eil ainm suidhichte sam bith againn a bharrachd air na h-ainmeannan cumanta.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e257">
+            <form>
+               <orth>soisdeir</orth>
+            </form>
+            <def>Seo facal a bhiodh aig na bodaich thall againne mu dhuine a bhiodh an còmhnuidh aig gnothaichean soisgeil gu h-àraid a’ teagaisg. A’ teagaisg a h-uile cothrom a gheibheadh e. Soisdeir siod, ’s soisdeir seo, chanadh iad. Is ann aig na bodaich nach biodh cho cràbhach a bhiodh am facal ‘soisdeir’ ’ga chleachdadh.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e265"
+             subtype="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</ab>
+         <ab type="heading"
+             xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e269"
+             subtype="h1">6. Holy Orders within the Roman Catholic church</ab>
+         <ab type="heading"
+             xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e273"
+             subtype="h1">7. Articles of dress or adornment</ab>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e278">
+            <form>
+               <orth>[an coileir cruinn]</orth>
+            </form>
+            <def>Chan eil nì àraid sam bith againn air son seo [i.e. ‘articles of dress or adornment worn by priests, ministers, etc.’]. Mur a h-eil ‘an coileir cruinn’. “Tha an coileir cruinn air.” (Tha coileir ministeir air.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e286"
+             subtype="h1">8. Church building and churchyard</ab>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e291">
+            <form>
+               <orth>Tigh Seisein</orth>
+            </form>
+            <def>An Tigh Seisein – vestry.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-idola153">
+            <form>
+               <orth>[churchyard]</orth>
+            </form>
+            <def>Chan eil churchyard againn. Na cladhan a th’againn ’se bha unnda [?] cladhan air an ceann fhéin.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e308"
+             subtype="h1">9. Church furniture and ornaments</ab>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e313">
+            <form>
+               <orth>an truinnsear</orth>
+            </form>
+            <def>Collection plate.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e322">
+            <form>
+               <orth>cùbainn</orth>
+            </form>
+            <def>Pulpit.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e330"
+             subtype="h2">Different seats:</ab>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e335">
+            <form>
+               <orth>Suidheachan nan Eildeirean</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e341">
+            <form>
+               <orth>an Suidheachan Mór</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e347">
+            <form>
+               <orth>Suidheachan Bean a’ Mhinisteir</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e352"
+             subtype="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</ab>
+         <ab type="heading"
+             xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e356"
+             subtype="h2">Coinneamhan:</ab>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e361">
+            <form>
+               <orth>coinneamh-mhìos</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e367">
+            <form>
+               <orth>coinneamh-sheachduin</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e373">
+            <form>
+               <orth>coinneamh-urnuigh</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e379">
+            <form>
+               <orth>[coinneamh-cheist]</orth>
+            </form>
+            <def>Còmhla ris an fheadhainn eile faodaidh sibh toirt an aire do ‘choinneamh-cheist’. Bhiodh seo ann uaireannan ged nach robh e suidhichte mar na coinneamhan eile.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e387"
+             subtype="h2">Orduighean:</ab>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e392">
+            <form>
+               <orth>Orduighean an Earraich ’s an Fhoghair</orth>
+            </form>
+            <def>Orduighean an Earraich ’s an Fhoghair is ann aig coimhthional na h-Eaglais Shaoir Aonaichte a chaidh do an Aonadh an 1929 a tha iad.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e401">
+            <form>
+               <orth>Orduighean an t-Samhraidh ’s a’ Gheamhraidh</orth>
+            </form>
+            <def>Orduidhean an t-Samhraidh ’s a’ Gheamhraidh is ann aig na Moderats anns an Aonadh a tha iad.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e410">
+            <form>
+               <orth>Na h-Orduighean Beaga</orth>
+            </form>
+            <def>Cho fada ’s is aithne dhomh ’s ann an Leòdhas a thòisich seo. Orduighean beaga aca eadar na h-òrduighean suidhichte, aon uair, no smaite barrachd air aon uair, anns a’ bhliadhna. Cha chreid mi gu bheil comanachadh aca aig na h-Orduighean Beaga idir. Chan eil mi cinnteach am bheil Là Ceist fhein aca. Cha chanainn gu bheil.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-idola154">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Aig na bodaich mu na h-orduighean suidhichte bha aca: Diar-daoin, Di h-aoine, Di-Sathuirn, Là na Sàbaid, agus Di-Luain.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e428">
+            <form>
+               <orth>Diar-daoin</orth>
+            </form>
+            <def>Là an Trasgaidh. (‘Trosgadh’ a chanas sinne.)</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e437">
+            <form>
+               <orth>Di-h-aoine</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] Là na Ceist.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e446">
+            <form>
+               <orth>Di-Sathuirn</orth>
+            </form>
+            <def>Là ullachaidh chanadh iad.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e455">
+            <form>
+               <orth>Là na Sàbaid</orth>
+            </form>
+            <def>Là comanachaidh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e464">
+            <form>
+               <orth>Di-Luain</orth>
+            </form>
+            <def>Là sgaoileadh nan orduighean.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-idola155">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Diar-daoin – latha trasgaidh. Di h-aoine – latha ceist. Di-Sathuirn – latha ullachaidh. Latha na Sabaid – latha comanachaidh. Di-Luain – latha dealachaidh. Sin mar a bha na bodaich a’ coimhead air.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-idola156">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Canaidh sinne mar seo: Là Trasgaidh nan Orduighean, Di h-aoine nan Orduighean, Di-Sathurn [sic] nan Orduighean. Là Sàbaid nan Orduighean. Di-Luain nan Orduighean.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e491">
+            <form>
+               <orth>[Là Taingealachd an Fhoghair]</orth>
+            </form>
+            <def>La eile a bhiodh aca agus a bha iad a’ cumail glé mhath: Là Taingealachd an Fhoghair. Bha iad a’ cumail an fhir-sa cho cùramach ri Là na Sàbaid.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e500">
+            <form>
+               <orth>[An Ceasnachadh]</orth>
+            </form>
+            <def>Ni eile a bhiodh aca (aig na Moderats), b’e sin An Ceasnachadh – ceasnachadh mu ghnothaichean a’ Bhìobuill ’s a’ chreideimh. Cho fad’s is aithne dhomh cha robh An Ceasnachadh aig an eaglais againne idir (An Eaglais Shaor Aonaichte).</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e509">
+            <form>
+               <orth>an urnuigh</orth>
+            </form>
+            <def>Prayers.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e518">
+            <form>
+               <orth>an t-seinn</orth>
+            </form>
+            <def>Praise.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e527">
+            <form>
+               <orth>an t-searmon</orth>
+            </form>
+            <def>Sermon.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e536">
+            <form>
+               <orth>collection</orth>
+            </form>
+            <def>(An t-ainm Beurla.)</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e545">
+            <form>
+               <orth>sgoil Shàbaid</orth>
+            </form>
+            <def>Sunday school. (‘Sàboinn’ no ‘Sàboinnd’ a chanas sinn airson Sàbaid. ’Se ‘Sàbon’ a chanas an ceàrd.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e553"
+             subtype="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</ab>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e558">
+            <form>
+               <orth>Dia</orth>
+            </form>
+            <def>God.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e567">
+            <form>
+               <orth>An Uile Chumhachdach</orth>
+            </form>
+            <def>God.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e576">
+            <form>
+               <orth>An Ti Tha Riaghladh</orth>
+            </form>
+            <def>God.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e585">
+            <form>
+               <orth>An Tighearna</orth>
+            </form>
+            <def>The Lord.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e594">
+            <form>
+               <orth>Criosda</orth>
+            </form>
+            <def>Jesus Christ.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e603">
+            <form>
+               <orth>Criosd</orth>
+            </form>
+            <def>Jesus Christ.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e612">
+            <form>
+               <orth>Iosa Criosd</orth>
+            </form>
+            <def>Jesus Christ.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e621">
+            <form>
+               <orth>An Spiorad Naomh</orth>
+            </form>
+            <def>The Holy Ghost.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e630">
+            <form>
+               <orth>An Oighe Muire</orth>
+            </form>
+            <def>The Blessed Virgin.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e639">
+            <form>
+               <orth>Na h-Ainglean</orth>
+            </form>
+            <def>The Angels.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e648">
+            <form>
+               <orth>Na h-Apostoil</orth>
+            </form>
+            <def>The Apostles.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e657">
+            <form>
+               <orth>Nèamh</orth>
+            </form>
+            <def>Heaven.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e666">
+            <form>
+               <orth>An Soisgeul</orth>
+            </form>
+            <def>The Gospel.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e675">
+            <form>
+               <orth>Urnuigh an Tighearna</orth>
+            </form>
+            <def>The Lord’s Prayer.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e683"
+             subtype="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</ab>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e688">
+            <form>
+               <orth>An Sàtan</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e697">
+            <form>
+               <orth>An Diabhol</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e706">
+            <form>
+               <orth>An Droch Spiorad</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e715">
+            <form>
+               <orth>Am Fear Millidh</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e724">
+            <form>
+               <orth>An Nàmhaid</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-idola157">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>(’Se iad seo an cumantas a bhios againn a thaobh eaglais is creideamh.)</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e742">
+            <form>
+               <orth>Ifrinn</orth>
+            </form>
+            <def>Hell. Chan eil ‘iutharn’ againn ach mar chainnt eagalach. No mar chainnt air leth làidir a thaobh eaglais is creideamh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e751">
+            <form>
+               <orth>Purgadair</orth>
+            </form>
+            <def>Purgatory.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e760">
+            <form>
+               <orth>peacadh-gine</orth>
+            </form>
+            <def>Original sin.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e769">
+            <form>
+               <orth>peacadh-gnìomha</orth>
+            </form>
+            <def>Actual sin.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-idola158">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>A mach bho gnothaichean eaglais is creideamh, tha móran ainmeannan againne airson an t-Sàtain. Mar:</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e787">
+            <form>
+               <orth>Dòmhnall Dubh</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e793">
+            <form>
+               <orth>Piullaidh</orth>
+            </form>
+            <def>“Bha Piullaidh ’ga dhrilligeadh”</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e802">
+            <form>
+               <orth>An Riabhach</orth>
+            </form>
+            <def>“Mac an Riabhaich”</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e811">
+            <form>
+               <orth>An Donas</orth>
+            </form>
+            <def>“Bugair an Donais”</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e820">
+            <form>
+               <orth>Am Mac-Mallachd</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e826">
+            <form>
+               <orth>An t-Abhaisteir</orth>
+            </form>
+            <def>“Cho dubh ris an Abhaisteir”</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-idola159">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>’S mar sin, ’s mar sin. Mar anns na h-àiteachan eile, móran ainmeannan mar a tha fios agaibh, airson an t-Sàtain.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodeccles-d0e844">
+            <form>
+               <orth>[am fear mór]</orth>
+            </form>
+            <def>“Am fear mór orm-sa mur a toir mise air” chanadh na bodaich.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

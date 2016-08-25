@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_PointJMacKenzieslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1980</date>
+            <location>
+               <placeName>Lewis, Point</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>Jessie MacKenzie</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_PointJMacKenzieslips-idp115490504">
+            <form>
+               <orth>seadar-ulaisg</orth>
+            </form>
+            <def>Notes: tureen.</def>
+         </entry>
+         <entry xml:id="Slips_PointJMacKenzieslips-idp115475240">
+            <form>
+               <orth>sprèadhan</orth>
+            </form>
+            <def>Notes: any dish for holding oil.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

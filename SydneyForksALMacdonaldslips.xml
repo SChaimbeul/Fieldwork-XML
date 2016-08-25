@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Slips_SydneyForksALMacdonaldslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>05/1971</date>
+            <location>
+               <placeName>Canada, Cape Breton, Sydney Forks</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>A. L. MacDonald</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_SydneyForksALMacdonaldslips-idp115474640">
+            <form>
+               <orth>tàbhach</orth>
+               <pron>[t̪ɑ:ɑx]</pron>
+            </form>
+            <def>[t̪ɑ:ɑx] Notes: hand net.</def>
+         </entry>
+         <entry xml:id="Slips_SydneyForksALMacdonaldslips-idp115464488">
+            <form>
+               <orth>casad</orth>
+            </form>
+            <def>Quotation: an casad mór. Notes: whooping cough.</def>
+         </entry>
+         <entry xml:id="Slips_SydneyForksALMacdonaldslips-idp115487816">
+            <form>
+               <orth>cnàmhanaich</orth>
+            </form>
+            <def>Notes: complaining, like gearain.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

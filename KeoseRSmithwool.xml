@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WoolworkingandFishing_KeoseRSmithwool">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the original title of the list is “Gaelic Terms Connected with Weaving”.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>April 1962</date>
+            <location>
+               <placeName>Lewis, Keose</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>self</persName>
+            </person>
+            <person role="informant">
+               <persName>R. Smith</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Wool-Working</term>
+               <term xml:lang="gd">Obair na Clòimhe</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="WoolworkingandFishing_KeoseRSmithwool-d0e30">
+            <form>
+               <orth>beart-mheodhain</orth>
+            </form>
+            <def>the centre part of loom, across which shuttle runs, and which moves back and forward to make a tightly-woven cloth.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_KeoseRSmithwool-d0e39">
+            <form>
+               <orth>sleinn</orth>
+            </form>
+            <def>the reed inserted in the ‘beart-mheodhain’ [q.v.].</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_KeoseRSmithwool-d0e48">
+            <form>
+               <orth>iomallan</orth>
+            </form>
+            <def>a combination of reeds whose movement can be altered to give different patterns of cloth.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_KeoseRSmithwool-d0e57">
+            <form>
+               <orth>deilbh</orth>
+            </form>
+            <def>process of getting the yarn arranged so as to be fed into the loom.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_KeoseRSmithwool-d0e66">
+            <form>
+               <orth>cura</orth>
+            </form>
+            <def>yarn used for filling bobbins which fit into shuttle (weft).</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_KeoseRSmithwool-d0e75">
+            <form>
+               <orth>iteachan</orth>
+            </form>
+            <def>bobbin used in shuttle.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_KeoseRSmithwool-d0e84">
+            <form>
+               <orth>làd</orth>
+            </form>
+            <def>a number of ‘full‘ bobbins. The number may vary in different places, but may be roughly taken as being 1 gross.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_KeoseRSmithwool-d0e93">
+            <form>
+               <orth>spearrach</orth>
+            </form>
+            <def>the weavers’ nightmare! Sometimes some of the yarn in the loom may twist together, usually causing breakages. This is known as a ‘spearrach’.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_KeoseRSmithwool-d0e102">
+            <form>
+               <orth>inneamh</orth>
+            </form>
+            <def>Very often when tweed is issued (i.e. warp and weft), there isn’t enough weft (cura) issued to finish the tweed. The amount of ‘cura’ short is known as ‘inneamh’. “Cha d’fhuair mi air an clò a chriochnachadh a raoir, oir bha tri slàt [sic] de dh’inneamh orm.”</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_KeoseRSmithwool-d0e111">
+            <form>
+               <orth>slat</orth>
+            </form>
+            <def>a weaver’s yard being 7 feet in length. The weaver is paid by the number of these 7 feet ‘yards’ in tweed.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_KeoseRSmithwool-d0e120">
+            <form>
+               <orth>sgillinn</orth>
+            </form>
+            <def>small circular disc (about the size of a penny) which is part of the loom’s mechanism.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

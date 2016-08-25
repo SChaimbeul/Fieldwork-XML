@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="DRMorrison_ScalpayDRMorrison2misc6">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[?]</date>
+            <location>
+               <placeName>[Harris], Scalpay</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>D.R. Morrison</persName>
+               <age>[?]</age>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc6-idmm1">
+            <form>
+               <orth>crann-tarrain</orth>
+            </form>
+            <def>wooden nails for boat.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc6-idmm2">
+            <form>
+               <orth>giomach-tuathalan</orth>
+            </form>
+            <def>a lobster inside a whelk.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc6-idmm3">
+            <form>
+               <orth>giomach tuathal</orth>
+               <pron>[See giomach-tuathalan.]</pron>
+            </form>
+            <def>[See giomach-tuathalan.]</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc6-idmm4">
+            <form>
+               <orth>sgigean</orth>
+            </form>
+            <def>small, very small portion.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc6-idmm5">
+            <form>
+               <orth>fàireag</orth>
+            </form>
+            <def>a swelling on a gland.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc6-idmm6">
+            <form>
+               <orth>truthaire</orth>
+            </form>
+            <def>convulsion.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc6-idmm7">
+            <form>
+               <orth>batal</orth>
+            </form>
+            <def>flock. Batal-ean – flock of birds.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc6-idmm8">
+            <form>
+               <orth>smealamas</orth>
+            </form>
+            <def>sweetmeat.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc6-idmm9">
+            <form>
+               <orth>tharchair</orth>
+            </form>
+            <def>met.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc6-idmm10">
+            <form>
+               <orth>gibilis</orth>
+            </form>
+            <def>gibberish talk.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc6-idmm11">
+            <form>
+               <orth>braoist</orth>
+            </form>
+            <def>a stone wall in front of a house.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc6-idmm12">
+            <form>
+               <orth>amhalach</orth>
+            </form>
+            <def>a boorish character, person.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc6-idmm13">
+            <form>
+               <orth>bitchigeadh</orth>
+            </form>
+            <def>bitching.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc6-idmm14">
+            <form>
+               <orth>glamharsaich</orth>
+            </form>
+            <def>barking attitude.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc6-idmm15">
+            <form>
+               <orth>bràisde</orth>
+            </form>
+            <def>badge.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc6-idmm16">
+            <form>
+               <orth>bumalair</orth>
+            </form>
+            <def>a raw clumsy person.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc6-idmm17">
+            <form>
+               <orth>clipeadh</orth>
+            </form>
+            <def>clipping, reference to ‘small’ pilfering.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BernerayRMacLeodslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1967, 1978</date>
+            <location>
+               <placeName>Berneray</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName/>
+            </person>
+            <person role="informant"/>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_BernerayRMacLeodslips-idp117933896">
+            <form>
+               <orth>thoir</orth>
+            </form>
+            <def>Quotation: Thoir a-mach. An toir e mach falt? Notes: “Does he cut hair?”</def>
+         </entry>
+         <entry xml:id="Slips_BernerayRMacLeodslips-idp117935552">
+            <form>
+               <orth>cur</orth>
+            </form>
+            <def>Quotation: A bheil e doirbh a chur? Notes: of a bicycle: to pedal.</def>
+         </entry>
+         <entry xml:id="Slips_BernerayRMacLeodslips-idp117937208">
+            <form>
+               <orth>fileanta</orth>
+            </form>
+            <def>Notes: skilled in a general sense.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_StrathtummelDDowslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: note on the slips – ‘tape’.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Strathtummel</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>Donald Dow</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_StrathtummelDDowslips-idp118692432">
+            <form>
+               <orth>latha</orth>
+            </form>
+            <def>Quotation: fo fonn latha. Notes: in daylight.</def>
+         </entry>
+         <entry xml:id="Slips_StrathtummelDDowslips-idp118694088">
+            <form>
+               <orth>ionndraich</orth>
+               <pron>[jə̃ũ̜n̪d̪ɾiç]</pron>
+            </form>
+            <def>[jə̃ũ̜n̪d̪ɾiç] Notes: miss.</def>
+         </entry>
+         <entry xml:id="Slips_StrathtummelDDowslips-idp118695816">
+            <form>
+               <orth>siamar</orth>
+               <pron>[sĩɑ̃məɾ]</pron>
+            </form>
+            <def>[sĩɑ̃məɾ] Notes: a room.</def>
+         </entry>
+         <entry xml:id="Slips_StrathtummelDDowslips-idp118697544">
+            <form>
+               <orth>stìc</orth>
+               <pron>[ʃtʹi:kʹ]</pron>
+            </form>
+            <def>[ʃtʹi:kʹ] </def>
+         </entry>
+         <entry xml:id="Slips_StrathtummelDDowslips-idp118699272">
+            <form>
+               <orth>bris</orth>
+            </form>
+            <def>Quotation: ceud mìle gun bhris.</def>
+         </entry>
+         <entry xml:id="Slips_StrathtummelDDowslips-idp118700784">
+            <form>
+               <orth>fonn</orth>
+            </form>
+            <def>Quotation: fo fonn latha. Notes: in daylight.</def>
+         </entry>
+         <entry xml:id="Slips_StrathtummelDDowslips-idp118702440">
+            <form>
+               <orth>grisichean</orth>
+               <pron>[ɡɾiʃiçən]</pron>
+            </form>
+            <def>[ɡɾiʃiçən] Quotation: “Bha tiormachd uamhasach ann … na barran, móran dhiubh cha ghabhadh iad cuir ann an grisichean.”</def>
+         </entry>
+         <entry xml:id="Slips_StrathtummelDDowslips-idp118704168">
+            <form>
+               <orth>gun</orth>
+            </form>
+            <def>Quotation: ceud mìle gun bhris.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

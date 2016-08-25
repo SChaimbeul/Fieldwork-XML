@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Ecclesiastical_SiabostMJMacLeodbas">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the only details on the front page are the informant’s name and language (Gaelic) and the name of the school (Siabost).]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>[Lewis], Siabost</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Miss M. J. MacLeod</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Death and Burial</term>
+               <term xml:lang="gd">Bàs is Adhlacadh</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e26"
+             subtype="h1">1. Ag ullachadh a’ chuirp</ab>
+         <entry xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e31">
+            <form>
+               <orth>aodach mairbh</orth>
+            </form>
+            <def>graveclothes.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e39"
+             subtype="h1">2. A’ chiste</ab>
+         <entry xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e44">
+            <form>
+               <orth>ciste-laidhe</orth>
+            </form>
+            <def>coffin.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e53">
+            <form>
+               <orth>bòrd-uachdair</orth>
+            </form>
+            <def>lid of coffin.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e61"
+             subtype="h1">3. Faire</ab>
+         <entry xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e66">
+            <form>
+               <orth>tigh faire</orth>
+            </form>
+            <def>wake.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e74"
+             subtype="h1">4. A’ giùlan na ciste</ab>
+         <entry xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e79">
+            <form>
+               <orth>giùlan</orth>
+            </form>
+            <def>bier.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e88">
+            <form>
+               <orth>eilitriom</orth>
+            </form>
+            <def>bier.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e97">
+            <form>
+               <orth>carbad mharbh</orth>
+            </form>
+            <def>hearse.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e105"
+             subtype="h1">5. An cladh agus an uaigh</ab>
+         <entry xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e110">
+            <form>
+               <orth>cladh</orth>
+            </form>
+            <def>graveyard.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e119">
+            <form>
+               <orth>cill</orth>
+            </form>
+            <def>graveyard.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e128">
+            <form>
+               <orth>uaigh</orth>
+            </form>
+            <def>grave.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e137">
+            <form>
+               <orth>clach-chuimhneachan</orth>
+            </form>
+            <def>monument.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e146">
+            <form>
+               <orth>rath-thiodhlaic</orth>
+            </form>
+            <def>lair.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e154"
+             subtype="h1">6. Cleachdaidhean sam bith co-cheangailte ri bàs no adhlacadh</ab>
+      </body>
+   </text>
+</TEI>

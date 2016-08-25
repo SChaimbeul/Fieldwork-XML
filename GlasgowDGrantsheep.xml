@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="CattleandSheep_GlasgowDGrantsheep">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Glasgow</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Donald Grant</persName>
+               <persName xml:lang="gd">Domhnall Grannd</persName>
+               <age>66</age>
+               <birth>
+                  <placeName>[Skye, Camus Chroise]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Sheep</term>
+               <term xml:lang="gd">Caoraich</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowDGrantsheep-d0e32"
+             subtype="h1">1. Different stages in the growth of sheep (female)</ab>
+         <entry xml:id="CattleandSheep_GlasgowDGrantsheep-idola63">
+            <form>
+               <orth>[caora]</orth>
+            </form>
+            <def>Cha robh caoraich aig croitearan Chamaschros, anns an Eilean Sgiathanach. Chuala mi cuid dhe na faclan timcheall air caoraich, ach cha b’ urrainn domh an cur an òrdugh.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantsheep-d0e46">
+            <form>
+               <orth>uan fireann</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantsheep-d0e52">
+            <form>
+               <orth>uan boireann</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantsheep-d0e58">
+            <form>
+               <orth>othaisg (f)</orth>
+            </form>
+            <def>yearling.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantsheep-d0e67">
+            <form>
+               <orth>reithe (m)</orth>
+            </form>
+            <def>ram.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantsheep-d0e76">
+            <form>
+               <orth>sgrog</orth>
+            </form>
+            <def>old sheep.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantsheep-d0e85">
+            <form>
+               <orth>croga</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowDGrantsheep-d0e90"
+             subtype="h1">2. Different stages in the growth of sheep (male)</ab>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowDGrantsheep-d0e94"
+             subtype="h1">3. Different stages in the growth of the castrated male</ab>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowDGrantsheep-d0e98"
+             subtype="h1">4. Sheep’s appearance</ab>
+         <entry xml:id="CattleandSheep_GlasgowDGrantsheep-d0e103">
+            <form>
+               <orth>caora dhubh-cheannach</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantsheep-d0e109">
+            <form>
+               <orth>caora mhaol</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantsheep-d0e115">
+            <form>
+               <orth>caora reamhar</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowDGrantsheep-d0e120"
+             subtype="h1">5. Miscellaneous</ab>
+         <entry xml:id="CattleandSheep_GlasgowDGrantsheep-d0e125">
+            <form>
+               <orth>peata uain</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantsheep-d0e131">
+            <form>
+               <orth>uan càraid</orth>
+            </form>
+            <def>twin lamb.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowDGrantsheep-d0e139"
+             subtype="h1">6. Feeding and grazing</ab>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowDGrantsheep-d0e143"
+             subtype="h1">7. Handling of sheep</ab>
+         <entry xml:id="CattleandSheep_GlasgowDGrantsheep-d0e148">
+            <form>
+               <orth>cire, cire</orth>
+            </form>
+            <def>call to sheep.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantsheep-d0e157">
+            <form>
+               <orth>cirean, cirean</orth>
+            </form>
+            <def>call to lamb.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowDGrantsheep-d0e165"
+             subtype="h1">8. Apparatus</ab>
+         <entry xml:id="CattleandSheep_GlasgowDGrantsheep-d0e170">
+            <form>
+               <orth>an t-udalan</orth>
+            </form>
+            <def>swivel.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowDGrantsheep-d0e178"
+             subtype="h1">9. Diseases</ab>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowDGrantsheep-d0e182"
+             subtype="h1">10. Parts of the body</ab>
+         <entry xml:id="CattleandSheep_GlasgowDGrantsheep-d0e187">
+            <form>
+               <orth>rùsg (m)</orth>
+            </form>
+            <def>hide.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowDGrantsheep-d0e195"
+             subtype="h1">11. Lambing</ab>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowDGrantsheep-d0e199"
+             subtype="h1">12. Miscellaneous</ab>
+      </body>
+   </text>
+</TEI>

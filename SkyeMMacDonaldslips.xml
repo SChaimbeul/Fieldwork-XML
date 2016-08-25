@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_SkyeMMacDonaldslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1988</date>
+            <location>
+               <placeName>Skye</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>Martin MacDonald</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_SkyeMMacDonaldslips-idp117057032">
+            <form>
+               <orth>taifean</orth>
+            </form>
+            <def>Notes: small present. Cf. ciofan.</def>
+         </entry>
+         <entry xml:id="Slips_SkyeMMacDonaldslips-idp117058544">
+            <form>
+               <orth>ùnas</orth>
+            </form>
+            <def>Notes: a rumour.</def>
+         </entry>
+         <entry xml:id="Slips_SkyeMMacDonaldslips-idp117060056">
+            <form>
+               <orth>sgitheal</orth>
+            </form>
+            <def>Notes: used of demountable units at Portree High School. Cf. sgritheal. (Heard in Broadford.)</def>
+         </entry>
+         <entry xml:id="Slips_SkyeMMacDonaldslips-idp117061568">
+            <form>
+               <orth>ciofan</orth>
+            </form>
+            <def>Notes: small present. Ciofanan ‘odds and ends’. (Said by Martin MacDonald to be Uist word.)</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

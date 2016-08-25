@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Peat_PeninerineDJMacDonaldmoine">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>13/11/1967 [date on the letter attached to the questionnaire]</date>
+            <location>
+               <placeName>South Uist, Peninerine</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Donald J MacDonald</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Peat-Working</term>
+               <term xml:lang="gd">Mòine</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Peat_PeninerineDJMacDonaldmoine-d0e26"
+             subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+         <entry xml:id="Peat_PeninerineDJMacDonaldmoine-d0e31">
+            <form>
+               <orth>feannadh</orth>
+            </form>
+            <def>a “feannadh” na monadh. Be so a bhi a rùsgadh a phuill mhonadh gus an ruigadh tu a mhòine.</def>
+         </entry>
+         <entry xml:id="Peat_PeninerineDJMacDonaldmoine-d0e40">
+            <form>
+               <orth>ploc-feannaidh</orth>
+            </form>
+            <def>be so a chante ri aon phloc a chaidh a thoirt a uachdar a phuill-mhonadh.</def>
+         </entry>
+         <entry xml:id="Peat_PeninerineDJMacDonaldmoine-d0e49">
+            <form>
+               <orth>glanadh</orth>
+            </form>
+            <def>se seo a bhi a glanadh uachdar a phuill-mhònadh nuair a bhiodh e air fheannadh. Sann le spaid a bhiodh seo ga dheanamh cuideachd.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_PeninerineDJMacDonaldmoine-d0e57"
+             subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+         <entry xml:id="Peat_PeninerineDJMacDonaldmoine-d0e62">
+            <form>
+               <orth>traoisgeir</orth>
+            </form>
+            <def>se seo an t-inneal a bhiodh a buain na mònadh.</def>
+         </entry>
+         <entry xml:id="Peat_PeninerineDJMacDonaldmoine-d0e71">
+            <form>
+               <orth>gol-fhad</orth>
+            </form>
+            <def>be seo a cheud fhàd s ghearrte anns an t-sreath air taobh a muigh a phuill-mhònadh. Bhiodh e na bu ghairbhe gu h’àrd na bhiodh e gu h’iosal.</def>
+         </entry>
+         <entry xml:id="Peat_PeninerineDJMacDonaldmoine-d0e80">
+            <form>
+               <orth>gann-fhad</orth>
+            </form>
+            <def>be seo an dàrna fàd, agus am pìos a bha a bharrachd air a cheud fhad, bhi e dhìth air an dàrna fear. Sin bu chiall d’on ainm, gu robh am fàd gann.</def>
+         </entry>
+         <entry xml:id="Peat_PeninerineDJMacDonaldmoine-d0e89">
+            <form>
+               <orth>barr-fhad</orth>
+            </form>
+            <def>be seo am fad àrd – an t-sreath uile ge leir.</def>
+         </entry>
+         <entry xml:id="Peat_PeninerineDJMacDonaldmoine-d0e98">
+            <form>
+               <orth>caoran</orth>
+            </form>
+            <def>be seo am fad iosal.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_PeninerineDJMacDonaldmoine-d0e106"
+             subtype="h1">3. A’ tiormachadh na mònach</ab>
+         <entry xml:id="Peat_PeninerineDJMacDonaldmoine-d0e111">
+            <form>
+               <orth>rubhan</orth>
+            </form>
+            <def>ceithir no coig do fhoidean air an cur na seasamh air an ceann, ann an tacsa a cheile agus fear eile tarsuinn air an uachdar. So an rud ris an cante “togail na mònadh”.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_PeninerineDJMacDonaldmoine-d0e119"
+             subtype="h1">4. A’ cruachadh na mònach</ab>
+         <entry xml:id="Peat_PeninerineDJMacDonaldmoine-d0e124">
+            <form>
+               <orth>cruach</orth>
+            </form>
+            <def>torr monadh deiseil gus a tarruing dhachaidh.</def>
+         </entry>
+         <entry xml:id="Peat_PeninerineDJMacDonaldmoine-d0e133">
+            <form>
+               <orth>cona =  chruach</orth>
+               <pron>[a hyphen?]</pron>
+            </form>
+            <def>[a hyphen?] cruach bheag mhònadh.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_PeninerineDJMacDonaldmoine-d0e141"
+             subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+         <entry xml:id="Peat_PeninerineDJMacDonaldmoine-d0e146">
+            <form>
+               <orth>cliabh</orth>
+            </form>
+            <def>an t-inneal a bha tarruing dhachaidh na monadh.</def>
+         </entry>
+         <entry xml:id="Peat_PeninerineDJMacDonaldmoine-d0e155">
+            <form>
+               <orth>iris</orth>
+            </form>
+            <def>an ropa a bhiodh a [sic] as a chliabh as e tarsuinn air uchd an duine bha tarruing a chleibh.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_PeninerineDJMacDonaldmoine-d0e163"
+             subtype="h1">6. Seòrsachan mònach</ab>
+         <entry xml:id="Peat_PeninerineDJMacDonaldmoine-d0e168">
+            <form>
+               <orth>caoran-dubh</orth>
+            </form>
+            <def>moine chruaidh dhubh anns an robh teas mór. Sann daonnan faisg air creig no grunnd a gheibhte an seorsa so.</def>
+         </entry>
+         <entry xml:id="Peat_PeninerineDJMacDonaldmoine-d0e177">
+            <form>
+               <orth>moine-chiobail</orth>
+            </form>
+            <def>moine bhog agus moran fhreumhaichean na measg.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_PeninerineDJMacDonaldmoine-d0e185"
+             subtype="h1">7. Faclan eile</ab>
+      </body>
+   </text>
+</TEI>

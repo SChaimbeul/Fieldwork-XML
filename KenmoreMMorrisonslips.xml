@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_KenmoreMMorrisonslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1977, 1987</date>
+            <location>
+               <placeName>Applecross, Kenmore</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>Mrs Mary Morrison</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_KenmoreMMorrisonslips-idp115489760">
+            <form>
+               <orth>snaoidheadh</orth>
+            </form>
+            <def>Quotation: Chan fhaighinn snaoidheadh. Notes: twisting or jerking motion of the body.</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreMMorrisonslips-idp115438568">
+            <form>
+               <orth>cliabadh</orth>
+            </form>
+            <def>Quotation: Thug i cliabadh. Notes: She stumbled/staggered/lurched.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Excerpt from original file AJSmith_Harrismiscellaneousmisc -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AJSmith_Harrismiscellaneousmisc_Neil_MacLeod_Tarbert">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>July 1972</date>
+        <location corresp="Harris_Tarbert"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="A_J_Smith"/>
+        <person role="informant" corresp="Neil_MacLeod_Harris_Tarbert"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Miscellaneous</term>
+          <term xml:lang="gd">Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37721320">
+        <form>
+          <orth>slinntear</orth>
+          <pron>[ʃlʹɤ̃ĩnʹɛð]</pron>
+        </form>
+        <def>[ʃlʹɤ̃ĩnʹɛð] Note: lintel.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37619080">
+        <form>
+          <orth>cràgaisg</orth>
+          <pron>[kɾɑ:ɡıʃɡʹ]</pron>
+        </form>
+        <def>[kɾɑ:ɡıʃɡʹ] Note: what he calls the stick jutting up from the end of the black-house roof, round which the rope to hold the end-thatch is put.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm39034208">
+        <form>
+          <orth>glutarnadh</orth>
+          <pron>[ɡɫu̜t̪əʴṉəɣ]</pron>
+        </form>
+        <def>[ɡɫu̜t̪əʴṉəɣ] Quot.: “glutarnadh a’ bhalla”. Note: earth packing between walls in a black-house. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm39032120">
+        <form>
+          <orth>stiall</orth>
+          <pron>[ʃtʹıɤɫ]</pron>
+        </form>
+        <def>[ʃtʹıɤɫ] Note: wooden post in a byre to which cow is tied.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm39030392">
+        <form>
+          <orth>maide-marbh</orth>
+        </form>
+        <def>Note: deadwood in a boat.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm39028880">
+        <form>
+          <orth>maothan</orth>
+          <pron>[mw̃:hɑṉ]</pron>
+        </form>
+        <def>[mw̃:hɑṉ] Note: spliced joint in wood.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm39027152">
+        <form>
+          <orth>bùileasg</orth>
+          <pron>[bu̟:lʹəsɡ]</pron>
+        </form>
+        <def>[bu̟:lʹəsɡ] Quot.: bùileasg a’ chruinn. Note: traveller on the mast of a sailboat.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm39025208">
+        <form>
+          <orth>sgùid</orth>
+          <pron>[sɡu̟:dʹ]</pron>
+        </form>
+        <def>[sɡu̟:dʹ] Quot.: “sgùid an t-sùil”. Note: sheet of a sail.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm39023264">
+        <form>
+          <orth>foighteach</orth>
+          <pron>[fɤıtʹɑx]</pron>
+        </form>
+        <def>[fɤıtʹɑx] Note: low-tide channel between rocks.</def>
+      </entry>
+    </body>
+  </text>
+</TEI>

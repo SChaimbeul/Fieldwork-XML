@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Ecclesiastical_SouthBragarDMacPhaileccles">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Lewis, Barvas, South Bragar</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Donald MacPhail</persName>
+               <age>59</age>
+               <birth>
+                  <placeName>[the questionnaire gives Ross-shire but it is most probably meant as the county not origin]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Ecclesiastical Terms</term>
+               <term xml:lang="gd">An Eaglais</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e29"
+             subtype="h1">1. Various denominations</ab>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e34">
+            <form>
+               <orth>An Eaglais Shaor</orth>
+            </form>
+            <def>The Free Church of Scotland.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e43">
+            <form>
+               <orth>Eaglais an Aonaidh</orth>
+            </form>
+            <def>The Church of Scotland.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e52">
+            <form>
+               <orth>Eaglais na Seseders</orth>
+            </form>
+            <def>The Free Presbyterian Church of Scotland.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e61">
+            <form>
+               <orth>An Eaglais Phapanach</orth>
+            </form>
+            <def>Roman Catholic Church.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e69"
+             subtype="h1">2. Member of each of these denominations</ab>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e74">
+            <form>
+               <orth>luchd leantainn</orth>
+            </form>
+            <def>adherents. [NOTES: originally ‘leantuinn’ but then ‘leantainn’ added above.]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e83">
+            <form>
+               <orth>buill</orth>
+            </form>
+            <def>members.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e92">
+            <form>
+               <orth>daicon</orth>
+            </form>
+            <def>deacon.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e101">
+            <form>
+               <orth>eildier (eiltear)</orth>
+            </form>
+            <def>elder.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e109"
+             subtype="h1">3. Different courts of the Presbyterian churches</ab>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e114">
+            <form>
+               <orth>Cuirt na Daiconsan</orth>
+               <pron>[?]</pron>
+            </form>
+            <def>[?] </def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e120">
+            <form>
+               <orth>Cuirt an t-Seission / an Séisean</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e125"
+             subtype="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</ab>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e130">
+            <form>
+               <orth>ministeir</orth>
+            </form>
+            <def>minister.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e139">
+            <form>
+               <orth>misionaridh</orth>
+            </form>
+            <def>missionary.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e148">
+            <form>
+               <orth>eildeir</orth>
+            </form>
+            <def>elder.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e157">
+            <form>
+               <orth>deacoin</orth>
+            </form>
+            <def>deacon.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e166">
+            <form>
+               <orth>clárk an t-seisean</orth>
+            </form>
+            <def>session clerk.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e175">
+            <form>
+               <orth>fear coimhead an ionmhais</orth>
+            </form>
+            <def>treasurer.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e184">
+            <form>
+               <orth>maor eaglais</orth>
+            </form>
+            <def>church officer.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e192"
+             subtype="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</ab>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e197">
+            <form>
+               <orth>sagairt</orth>
+            </form>
+            <def>priest.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e205"
+             subtype="h1">6. Holy Orders within the Roman Catholic church</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e209"
+             subtype="h1">7. Articles of dress or adornment</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e213"
+             subtype="h1">8. Church building and churchyard</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e217"
+             subtype="h1">9. Church furniture and ornaments</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e221"
+             subtype="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</ab>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e226">
+            <form>
+               <orth>Urduighean</orth>
+            </form>
+            <def>Communions, fasting from Thursday to Monday of following week.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e235">
+            <form>
+               <orth>Coinneamh Mhios</orth>
+            </form>
+            <def>monthly meeting, sometimes a prayer meeting.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e244">
+            <form>
+               <orth>Coinneamh Uaigneach</orth>
+            </form>
+            <def>on the Wednesday following the Coinneamh Mhios [q.v.]. Communicants only. Free Church tradition.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e253">
+            <form>
+               <orth>Coinneamh Sheacduinn</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] weekly prayer meeting.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e262">
+            <form>
+               <orth>Latha Trasgaidh</orth>
+            </form>
+            <def>Thursday, first day of the Communions.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e271">
+            <form>
+               <orth>Latha an Trasgaidh</orth>
+            </form>
+            <def>Thursday, first day of the Communions.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e280">
+            <form>
+               <orth>Sgol Shabaint</orth>
+            </form>
+            <def>Sunday school.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e289">
+            <form>
+               <orth>Coinneamh Taigh</orth>
+            </form>
+            <def>house meeting.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e297"
+             subtype="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</ab>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e302">
+            <form>
+               <orth>Dia</orth>
+            </form>
+            <def>An Tì tha Riaghladh.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e311">
+            <form>
+               <orth>An Tighearna</orth>
+            </form>
+            <def>An Tì Bheannaichte.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e320">
+            <form>
+               <orth>An Cruithear</orth>
+            </form>
+            <def>Cruithear an Fhàsaich.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e329">
+            <form>
+               <orth>Iosa Criosd</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e335">
+            <form>
+               <orth>An Spiorad Naomh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e341">
+            <form>
+               <orth>na h-ainghlean</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e347">
+            <form>
+               <orth>na h-Abstoile</orth>
+               <pron>[?]</pron>
+            </form>
+            <def>[?] </def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e353">
+            <form>
+               <orth>Neamh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e359">
+            <form>
+               <orth>An Soisgeul</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e365">
+            <form>
+               <orth>Urnaigh an Tighearna</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e370"
+             subtype="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</ab>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e375">
+            <form>
+               <orth>Sàtunn</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e381">
+            <form>
+               <orth>Iutharn</orth>
+            </form>
+            <def>Hell.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_SouthBragarDMacPhaileccles-d0e390">
+            <form>
+               <orth>Ifrinn</orth>
+            </form>
+            <def>Hell.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

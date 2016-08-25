@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_TireeKMacDonaldslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>10/1970</date>
+            <location>
+               <placeName>Tiree</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>K. MacDonald</persName>
+               <birth>
+                  <placeName>Uig, Lewis</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_TireeKMacDonaldslips-idp117238824">
+            <form>
+               <orth>rangais</orth>
+               <pron>[rɑŋɡiʃ]</pron>
+            </form>
+            <def>[rɑŋɡiʃ] Notes: the strap running the length of the boat on which the seats rest on each side.</def>
+         </entry>
+         <entry xml:id="Slips_TireeKMacDonaldslips-idp117240552">
+            <form>
+               <orth>reang</orth>
+            </form>
+            <def>Quotation: reangan stòbhaig [rɛ̃ɣəṉsṯɔ:viɡʹ]. Notes: ribs put between the “urlair”. Laid across the boat, steamed and stood on.</def>
+         </entry>
+         <entry xml:id="Slips_TireeKMacDonaldslips-idp117242424">
+            <form>
+               <orth>cailleach-bhàn</orth>
+            </form>
+            <def>Notes: a cod with parasites on it.</def>
+         </entry>
+         <entry xml:id="Slips_TireeKMacDonaldslips-idp117243936">
+            <form>
+               <orth>cròdach</orth>
+            </form>
+            <def>Quotation: a’ chròdach. Notes: animal rheumatism – sheep, cattle.</def>
+         </entry>
+         <entry xml:id="Slips_TireeKMacDonaldslips-idp117245592">
+            <form>
+               <orth>doire</orth>
+            </form>
+            <def>Quotation: doire an eathar. Notes: the hull of the boat.</def>
+         </entry>
+         <entry xml:id="Slips_TireeKMacDonaldslips-idp117247248">
+            <form>
+               <orth>dòrn</orth>
+            </form>
+            <def>Quotation: a’ toirt a mach an dòrn fhuar. Notes: feat of strength tried when a cow was killed. One of the legs was caught near the hoof and twisted till it broke from the knee, then twisting was continued till the skin broke.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

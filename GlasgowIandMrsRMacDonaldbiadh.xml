@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[1987-88]</date>
+            <location>
+               <placeName>Glasgow</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>A. O’Henley</persName>
+            </person>
+            <person role="informant">
+               <persName>Ishbel and Mrs R. MacDonald</persName>
+               <birth>
+                  <placeName>Uibhist a’ Deas [South Uist]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Food and Drink</term>
+               <term xml:lang="gd">Biadh is Deoch</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-d0e30"
+             subtype="h1">1. Na tràthan</ab>
+         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112423352">
+            <form>
+               <orth>bròs</orth>
+            </form>
+            <def>form of porridge made with corn. Taken for breakfast.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-d0e43"
+             subtype="h1">2. Am biadh a bhidhte gabhail aig gach tràth</ab>
+         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112429040">
+            <form>
+               <orth>lìte</orth>
+            </form>
+            <def>taken at supper time. Made with oatmeal or Indian meal.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112528544">
+            <form>
+               <orth>falaraidh</orth>
+            </form>
+            <def>word associated with funeral costs and expenses. “A’ dol a dh’iarraidh falaraidh.” Also used for the cheese, biscuits and drink available after a funeral.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112523720">
+            <form>
+               <orth>easair</orth>
+            </form>
+            <def>an oatmeal orientated drink likely to be used to quench the thirst.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-d0e74"
+             subtype="h1">Biadh aig amanan sonraichte ’sa bhliadhna</ab>
+         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112444088">
+            <form>
+               <orth>strùthan</orth>
+            </form>
+            <def>aig Feill Mhicheil.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112535024">
+            <form>
+               <orth>caora nollag</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] </def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-d0e93"
+             subtype="h1">3. Dòighean air biadh a dheasachadh</ab>
+         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idola10">
+            <form>
+               <orth>hearth</orth>
+            </form>
+            <def>
+               <graphic url="GlasgowIandMrsRMacDonaldbiadhillust1.jpg" width="300px"/>baking placed in hot alcoves (could not remember the word for this).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-d0e107"
+             subtype="h1">4. Fuine</ab>
+         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112508816">
+            <form>
+               <orth>clàr fuinne</orth>
+            </form>
+            <def>sloped so that the flour would not fall off.<graphic url="GlasgowIandMrsRMacDonaldbiadhillust2.jpg" width="300px"/>
+            </def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112493336">
+            <form>
+               <orth>aran corc</orth>
+            </form>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112506152">
+            <form>
+               <orth>aran eorna</orth>
+            </form>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112506296">
+            <form>
+               <orth>aran Innsainneach</orth>
+            </form>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112500968">
+            <form>
+               <orth>taois</orth>
+            </form>
+            <def>dough.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112492904">
+            <form>
+               <orth>ga thoinneamh</orth>
+            </form>
+            <def>kneading.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112499744">
+            <form>
+               <orth>breacag arain</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-d0e163"
+             subtype="h1">5. Deochan dhe gach seòrsa</ab>
+         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112527680">
+            <form>
+               <orth>leann nan biastan</orth>
+            </form>
+            <def>hops which are put in a bottle with sugar and water left to ferment and used to quench the thirst.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112539560">
+            <form>
+               <orth>blàthach</orth>
+            </form>
+            <def>excess juice left after making butter.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112523792">
+            <form>
+               <orth>mùig</orth>
+            </form>
+            <def>liquid that is left after making cheese.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112513928">
+            <form>
+               <orth>deisgeann</orth>
+            </form>
+            <def>rennet.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112466768">
+            <form>
+               <orth>gruth</orth>
+            </form>
+            <def>crowdie.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112458056">
+            <form>
+               <orth>na riuchd fhein</orth>
+            </form>
+            <def>in its own right.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-d0e221"
+             subtype="h1">6. Biadh no deoch a bhidhte deanamh gu sònraichte do luchd euslan</ab>
+         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112439336">
+            <form>
+               <orth>càmhraich</orth>
+            </form>
+            <def>oatmeal and gruel steeped in water to be used to alleviate colds. To be found in ‘port a beul’ Ann a Bodaich na ho.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112489088">
+            <form>
+               <orth>fualaid</orth>
+            </form>
+            <def>poultice made with bread.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112046664">
+            <form>
+               <orth>gob-a’-choillich</orth>
+            </form>
+            <def>salted butter which is heated and used for the same purpose as a poultice.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-d0e252"
+             subtype="h1">7. Nithean a bhiodh ann nuair a rachadh beathach a mharbhadh (missing)</ab>
+         <ab type="heading"
+             xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-d0e256"
+             subtype="h1">8. Faclan sam bith eile (missing)</ab>
+      </body>
+   </text>
+</TEI>

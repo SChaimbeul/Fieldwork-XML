@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="TireeandMull_TireeBarrapolHMacLeancattle">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Isle of Tiree, Barrapol</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>Ailean Boyd [Alan Boyd]</persName>
+            </person>
+            <person role="informant">
+               <persName>Hugh MacLean</persName>
+               <age>64</age>
+               <birth>
+                  <placeName>Tiree</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Cattle</term>
+               <term xml:lang="gd">Crodh</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e28"
+             subtype="h1">1. Different stages in the growth of cattle</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e33">
+            <form>
+               <orth>laogh (m), laoigh (pl)</orth>
+            </form>
+            <def>calf.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e42">
+            <form>
+               <orth>gamhainn, gamhna (pl)</orth>
+            </form>
+            <def>stirk.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e51">
+            <form>
+               <orth>siarach (m), siaraich (pl)</orth>
+            </form>
+            <def>(sia-ràithean) 18 month old beast (shearling).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e60">
+            <form>
+               <orth>do-bhliadhnach (m), do-bhliadhnaich (pl)</orth>
+            </form>
+            <def>2 year old beast.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e69">
+            <form>
+               <orth>agh (m), aghan (pl –Tiree, not aighean), an agha (genitive)</orth>
+            </form>
+            <def>heifer (over 2 years).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e78">
+            <form>
+               <orth>damh (m), daimh (pl)</orth>
+            </form>
+            <def>castrated beast (over 2 years).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e87">
+            <form>
+               <orth>tarbh (m), tairbh (pl)</orth>
+            </form>
+            <def>bull.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e96">
+            <form>
+               <orth>mart (m), mairt (pl)</orth>
+            </form>
+            <def>cow (which has calved).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e105">
+            <form>
+               <orth>mart gamhnach</orth>
+            </form>
+            <def>a cow not in calf.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e114">
+            <form>
+               <orth>mart seasg</orth>
+            </form>
+            <def>a cow not in calf.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e122"
+             subtype="h1">2. Breeds of cattle</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e127">
+            <form>
+               <orth>crodh Gallda</orth>
+            </form>
+            <def>Ayrshire.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e136">
+            <form>
+               <orth>crodh Gàidhealach</orth>
+            </form>
+            <def>Highland.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e145">
+            <form>
+               <orth>crodh dubh</orth>
+            </form>
+            <def>Aberdeen; Angus; Galloway.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e153"
+             subtype="h1">3. Outward appearance of cattle</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e158">
+            <form>
+               <orth>droch òrdan</orth>
+            </form>
+            <def>bad condition of coat.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e167">
+            <form>
+               <orth>bochd</orth>
+            </form>
+            <def>bad condition of coat.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e176">
+            <form>
+               <orth>bochd</orth>
+            </form>
+            <def>thin.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e185">
+            <form>
+               <orth>caol</orth>
+            </form>
+            <def>thin.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e194">
+            <form>
+               <orth>òrdan math</orth>
+            </form>
+            <def>good condition.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e202"
+             subtype="h1">4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e207">
+            <form>
+               <orth>peata (m), peatachan (pl)</orth>
+            </form>
+            <def>pet cow.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e215"
+             subtype="h1">5. Parts of the body</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e220">
+            <form>
+               <orth>ceann</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e226">
+            <form>
+               <orth>amhach</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e232">
+            <form>
+               <orth>adhaircean</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e238">
+            <form>
+               <orth>mala</orth>
+            </form>
+            <def>forehead.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e247">
+            <form>
+               <orth>bial</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e253">
+            <form>
+               <orth>seiche (f)</orth>
+            </form>
+            <def>hide.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e262">
+            <form>
+               <orth>casan-toisich</orth>
+            </form>
+            <def>forelegs.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e271">
+            <form>
+               <orth>ladhar (f), ladhran (pl)</orth>
+            </form>
+            <def>hoof (cow).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e280">
+            <form>
+               <orth>brog (f)</orth>
+            </form>
+            <def>hoof (horse).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e289">
+            <form>
+               <orth>glùn-mairt</orth>
+            </form>
+            <def>knee.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e298">
+            <form>
+               <orth>corp (m), corpan (pl)</orth>
+            </form>
+            <def>belly.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e307">
+            <form>
+               <orth>urball (m), urbaill (pl)</orth>
+            </form>
+            <def>tail.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e316">
+            <form>
+               <orth>ugh (m), uighean (pl)</orth>
+            </form>
+            <def>udder.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e325">
+            <form>
+               <orth>sine (f), sinean (pl)</orth>
+            </form>
+            <def>teats.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e334">
+            <form>
+               <orth>cnàimh an droma (m)</orth>
+            </form>
+            <def>backbone.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e343">
+            <form>
+               <orth>an t-sliasaid</orth>
+            </form>
+            <def>hindleg above knee.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e352">
+            <form>
+               <orth>cridhe</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e358">
+            <form>
+               <orth>féithe mhór</orth>
+            </form>
+            <def>artery.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e367">
+            <form>
+               <orth>féithean</orth>
+            </form>
+            <def>veins.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e376">
+            <form>
+               <orth>slinnean (f), slinneanan (pl)</orth>
+            </form>
+            <def>shoulder of horse.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e385">
+            <form>
+               <orth>sgamhan (m), sgamhain (pl)</orth>
+            </form>
+            <def>lungs.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e394">
+            <form>
+               <orth>ubhal-sgòrnain</orth>
+            </form>
+            <def>larynx (human).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e403">
+            <form>
+               <orth>grùthan (m)</orth>
+            </form>
+            <def>liver.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e412">
+            <form>
+               <orth>airne (m), airnein (pl)</orth>
+            </form>
+            <def>kidney.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e421">
+            <form>
+               <orth>domalas a’ ghruthain</orth>
+            </form>
+            <def>gall-bladder.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e430">
+            <form>
+               <orth>clachan</orth>
+            </form>
+            <def>testicles.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e439">
+            <form>
+               <orth>bagaichean</orth>
+            </form>
+            <def>testicles.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e448">
+            <form>
+               <orth>saothach a’ laoigh</orth>
+            </form>
+            <def>womb.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e457">
+            <form>
+               <orth>guille (m), guilltean (pl)</orth>
+            </form>
+            <def>gullet.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e466">
+            <form>
+               <orth>mionach (m)</orth>
+            </form>
+            <def>intestines.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e475">
+            <form>
+               <orth>geir (f)</orth>
+            </form>
+            <def>abdominal fat (suet).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e484">
+            <form>
+               <orth>fionna (m)</orth>
+            </form>
+            <def>coat.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e492"
+             subtype="h1">6. Calving</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e497">
+            <form>
+               <orth>a’ toirt mart do’n tarbh</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e503">
+            <form>
+               <orth>Tha am mart a’ breith</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e509">
+            <form>
+               <orth>glanadh (m)</orth>
+            </form>
+            <def>afterbirth.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e517"
+             subtype="h1">7. Milking</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e522">
+            <form>
+               <orth>a’ bleoghann</orth>
+            </form>
+            <def>milking.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e531">
+            <form>
+               <orth>a’ tioramachadh</orth>
+            </form>
+            <def>milking to the last drop.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e540">
+            <form>
+               <orth>a’ deoghal</orth>
+            </form>
+            <def>suckling.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e549">
+            <form>
+               <orth>an ceud bhainne</orth>
+            </form>
+            <def>milk yielded after calving.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e558">
+            <form>
+               <orth>bleoghann (m)</orth>
+            </form>
+            <def>milking time.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e567">
+            <form>
+               <orth>cuach (f), cuachan (pl)</orth>
+            </form>
+            <def>vessels.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e576">
+            <form>
+               <orth>peil (m), peileachan (pl)</orth>
+            </form>
+            <def>vessels.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e584"
+             subtype="h1">8. Feeding</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e589">
+            <form>
+               <orth>a’ biadhadh</orth>
+            </form>
+            <def>feeding. Bhia mi an laogh. (Tiree)</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e598">
+            <form>
+               <orth>ceannag (f)</orth>
+            </form>
+            <def>bundle of hay tied with ‘sùgan’ (a meal for an animal). Ceannag-fheòir.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e607">
+            <form>
+               <orth>sguab</orth>
+            </form>
+            <def>sheave.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e616">
+            <form>
+               <orth>ag uisgeachadh</orth>
+            </form>
+            <def>watering (indoor and outdoor). Dh’uisgich mi iad.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e625">
+            <form>
+               <orth>peil</orth>
+            </form>
+            <def>vessels [sic].</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e634">
+            <form>
+               <orth>feurach</orth>
+            </form>
+            <def>grazing. Tha iad air feurach.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e643">
+            <form>
+               <orth>buachailleachd (f)</orth>
+            </form>
+            <def>tending of cattle. Buachailleachd a’ chruidh.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e651"
+             subtype="h1">9. Apparatus</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e656">
+            <form>
+               <orth>ceangail</orth>
+            </form>
+            <def>tying indoors. ’Ga cheangal.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e665">
+            <form>
+               <orth>feisde (f)</orth>
+            </form>
+            <def>tether (tying outdoors). Tha i air feisde.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e674">
+            <form>
+               <orth>ciopan (m), ciopanan (pl)</orth>
+            </form>
+            <def>tether stake.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e683">
+            <form>
+               <orth>an ceangal aice</orth>
+            </form>
+            <def>rope round neck in stall.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e692">
+            <form>
+               <orth>stol (f), stolaichean (pl)</orth>
+            </form>
+            <def>stall in byre.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e701">
+            <form>
+               <orth>buarach (f), buaraichean (pl)</orth>
+            </form>
+            <def>fetter for milking.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e710">
+            <form>
+               <orth>langaid (f), langaidean (pl)</orth>
+            </form>
+            <def>fetter to keep animal from wandering away.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e719">
+            <form>
+               <orth>cròchdadh (f), cròch</orth>
+            </form>
+            <def>instrument to prevent calf suckling.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e727"
+             subtype="h1">10. Diseases</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e731"
+             subtype="h2">(a) diseases of the skin; warts, swellings, spots; ticks, worms found in the hide</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e736">
+            <form>
+               <orth>a’ chloich</orth>
+            </form>
+            <def>scab (horses).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e745">
+            <form>
+               <orth>fearsag (f), fearsagan (pl)</orth>
+            </form>
+            <def>warbles (worms in hide).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e754">
+            <form>
+               <orth>foinne (f), foinneachan</orth>
+            </form>
+            <def>warts.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e763">
+            <form>
+               <orth>at (m)</orth>
+            </form>
+            <def>swelling.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e771"
+             subtype="h2">(b) diseases of the head and neck</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e776">
+            <form>
+               <orth>galar a’ chinn</orth>
+            </form>
+            <def>go mad (horses). Causes: worms in intestines or stone (lime of sand) in gullet. (Never recommended to buy horses from Lismore as they were liable to have a ‘limestone’ in their gullet.)</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e785">
+            <form>
+               <orth>dalladh</orth>
+            </form>
+            <def>going blind.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e794">
+            <form>
+               <orth>a’ chaitheamh</orth>
+            </form>
+            <def>TB.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e802"
+             subtype="h2">(c) diseases of the bone structure</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e806"
+             subtype="h2">(d) diseases of the internal organs</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e811">
+            <form>
+               <orth>a’ spùd</orth>
+            </form>
+            <def>diarrhoea.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e820">
+            <form>
+               <orth>[galar?]</orth>
+            </form>
+            <def>Galar caused by intestinal worms known as ‘dathagan’ (f) ‘dathag’. [NOTES: ‘galar’ seems to be the catchword.]</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e829">
+            <form>
+               <orth>dathag (f), dathagan (pl)</orth>
+            </form>
+            <def>intestinal worms.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e838">
+            <form>
+               <orth>àirneach (m)</orth>
+            </form>
+            <def>urine trouble in horses, connected with kidneys.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e846"
+             subtype="h2">(e) diseases affecting the udder and milk production</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e851">
+            <form>
+               <orth>fiabhras a’ bhainne</orth>
+            </form>
+            <def>milk fever. (Before and/or after calving, due to a lack of calcium.)</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e860">
+            <form>
+               <orth>searg (m)</orth>
+            </form>
+            <def>pine. (Due to a lack of cobalt.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e867"
+             subtype="h2">(f) injury of any kind</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e872"
+             subtype="h1">11. Miscellaneous [misnumbered as 12]</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e877">
+            <form>
+               <orth>Tarraing</orth>
+            </form>
+            <def>Away you go.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e886">
+            <form>
+               <orth>sugan</orth>
+            </form>
+            <def>(suckler) pet name for a calf.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e895">
+            <form>
+               <orth>dròbh (m), dròbhan (pl)</orth>
+            </form>
+            <def>herd or collection of cattle.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e904">
+            <form>
+               <orth>buaile (f), buai</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] herd or collection of cattle. Buaile de chrodh.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e913">
+            <form>
+               <orth>sas an am féithe</orth>
+            </form>
+            <def>stuck in a bog.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e922">
+            <form>
+               <orth>sas an am bogalach</orth>
+            </form>
+            <def>stuck in a bog.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e931">
+            <form>
+               <orth>cachd-mairt</orth>
+            </form>
+            <def>cow dung.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e940">
+            <form>
+               <orth>cachd-cruidh</orth>
+            </form>
+            <def>cow dung.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

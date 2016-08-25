@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Ecclesiastical_GlasgowMMacLeodbas">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the informant uses E and I to mark the gender of the nouns, masculine and feminine respectively. He explains on the first page: ‘È agus Ì airson boirionn agus firionn.’]</note>
+            <note>[NOTES: the words have been slipped and therefore, apart from the definitions provided by Mr MacLeod, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[3/1968 on the slips]</date>
+            <location>
+               <placeName>Glaschu [Glasgow]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Murdo MacLeod</persName>
+               <persName xml:lang="gd">Murchadh MacLeòid</persName>
+               <age>56 1/2</age>
+               <birth>
+                  <placeName>Leòdhas [Lewis], Uig an Iar</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Death and Burial</term>
+               <term xml:lang="gd">Bàs is Adhlacadh</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e43"
+             subtype="h1">1. Ag ullachadh a’ chuirp</ab>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e48">
+            <form>
+               <orth>ruigheadh (E)</orth>
+            </form>
+            <def>(‘righeadh’ as fheàrr) An corp air a righeadh ’s air a shuidheachadh mus fuaraicheadh e. [NOTES: slipped under ‘ruigheadh or righeadh’.]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e57">
+            <form>
+               <orth>lìon-aodach (E)</orth>
+            </form>
+            <def>An corp air a ghlanadh, tha an lìon-aodach air a chur air. [NOTES: slipped under ‘lion-aodach (masc).]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e66">
+            <form>
+               <orth>càradh (E)</orth>
+            </form>
+            <def>Air a chàradh. Bha a h-uile nì deiseil an uair sin a thaobh a’ chuirp gu’n deadh a chur do an chiste – tha e air a chàradh. Air a chàradh a mach air bord cruaidh, làidir a bha air a ghleidheadh airson an aobhair. (Am bòrd mar còmhla chaol.)</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e75">
+            <form>
+               <orth>islig (I)</orth>
+            </form>
+            <def>Anns an islig. Cha b’ e “air an islig” a chanadh sinn idir. Cha chreid mi nach canadh iad “anns an islig” mu an duine air a’ bhòrd-sa mu’n deadh e do an chiste agus nuair a bhiodh è anns a’ chiste, fhad ’s a bhiodh e a stigh.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e84">
+            <form>
+               <orth>[bòrd]</orth>
+            </form>
+            <def>Fo an bhòrd. An duine anns a’ chiste roimh an tiodhlacadh, bha e “fo an bhòrd”. [NOTES: slipped under ’bòrd’ with ’Bha e fo an bhòrd’ as the quotation.]</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e92"
+             subtype="h1">2. A’ chiste</ab>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e97">
+            <form>
+               <orth>a’ chiste (I)</orth>
+               <pron>[NOTES: slipped under ‘ciste’ with ‘ciste-laighe’ as the quotation.]</pron>
+            </form>
+            <def>[NOTES: slipped under ‘ciste’ with ‘ciste-laighe’ as the quotation.]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e106">
+            <form>
+               <orth>ciste laighe</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e112">
+            <form>
+               <orth>bord  uachdair na ciste (E)</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] [NOTES: slipped under ‘bòrd (masc)’ with ‘bord uachdair na ciste’ as the quotation.]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e121">
+            <form>
+               <orth>ceann na ciste (E)</orth>
+               <pron>[NOTES: slipped under ‘ceann’ with ‘ceann na ciste’ as the quotation.]</pron>
+            </form>
+            <def>[NOTES: slipped under ‘ceann’ with ‘ceann na ciste’ as the quotation.]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e130">
+            <form>
+               <orth>casan na ciste</orth>
+               <pron>[NOTES: slipped under ‘cas’ with ‘casan na ciste’ as the quotation.]</pron>
+            </form>
+            <def>[NOTES: slipped under ‘cas’ with ‘casan na ciste’ as the quotation.]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e139">
+            <form>
+               <orth>na làmhan</orth>
+               <pron>[NOTES: slipped under ‘làmhan’ with ‘na làmhan’ as the quotation. Definition: Parts of coffin.]</pron>
+            </form>
+            <def>[NOTES: slipped under ‘làmhan’ with ‘na làmhan’ as the quotation. Definition: Parts of coffin.]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e148">
+            <form>
+               <orth>còrd (E), na cùird</orth>
+               <pron>[NOTES: slipped under ‘cùird (pl) cord (s)’ with ‘na cùird’ as the quotation. Definition: Part of coffin.]</pron>
+            </form>
+            <def>[NOTES: slipped under ‘cùird (pl) cord (s)’ with ‘na cùird’ as the quotation. Definition: Part of coffin.]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e157">
+            <form>
+               <orth>tosal (E), na tosals, no na tosailean</orth>
+            </form>
+            <def>(t. cruaidh) [NOTES: slipped under ‘tosals (pl)’ with ‘na tosals no na tosailean’ as the quotation. Definition: Parts of coffin (tassels?).]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e166">
+            <form>
+               <orth>am plate (E)</orth>
+            </form>
+            <def>(air am biodh an t-ainm) [NOTES: slipped under ‘plate’ with ‘am plate’ as the quotation. Definition: Am plate air am biodh an ainm [sic].]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e175">
+            <form>
+               <orth>an t-aodach dubh, an t-aodach (E)</orth>
+               <pron>[NOTES: slip not found.]</pron>
+            </form>
+            <def>[NOTES: slip not found.]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e184">
+            <form>
+               <orth>sgeadachadh (E)</orth>
+            </form>
+            <def>Chan eil ainm sam bith agam airson an sgeadachaidh a bhiodh a’ dol air taobh a muigh na ciste air muin an aodaich dhuibh ri oirean na ciste.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e192"
+             subtype="h1">3. Faire</ab>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e197">
+            <form>
+               <orth>faire (I)</orth>
+               <pron>[NOTES: slip not found.]</pron>
+            </form>
+            <def>[NOTES: slip not found.]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e206">
+            <form>
+               <orth>an tigh faire (E)</orth>
+            </form>
+            <def>Far an robh an fhaire air a dèanamh. “Anns an tigh-fhaire”. Bhiodh an dusd (I) a stigh dà oidhche agus daoine ri caithris an dà oidhche. An diugh, cò dhiù air taobh an ear an eilein, chan eil caithris, no faire ’ga dhèanamh. [NOTES: slipped under ‘tigh faire’. Definition: Bhiodh an dusd a stigh dà oidhche agus daoine ri caithris an dà oidhche.]</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e214"
+             subtype="h1">4. A’ giùlan na ciste</ab>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e219">
+            <form>
+               <orth>eilitriom (E)</orth>
+            </form>
+            <def>Bha a’ chiste air a cur air eilitriom. Bha i air a ceangal ris an eilitriom le na cùird.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e228">
+            <form>
+               <orth>giùlan (E)</orth>
+            </form>
+            <def>“Chaidh iad fo an ghiulan [sic].” Dheadh ochdnar fo an ghiùlan air an eilitriom. Bha an t-eilitriom mar bara-làimhe mór, fada.
+        <graphic url="GlasgowMMacLeodbasillust1.jpg" width="400px"/>
+            </def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e238"
+             subtype="h1">5. An cladh agus an uaigh</ab>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e243">
+            <form>
+               <orth>rath-thiodhlaic (I)</orth>
+            </form>
+            <def>Chanainn gur h-e “réilig” a bhios anns a’ chuid mhór de dh’àiteachan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e252">
+            <form>
+               <orth>a’ cladhach na h-uaghach</orth>
+               <pron>[NOTES: slipped under ‘cladhaich’ with ‘a’ cladhach na h-uaighe’ as the quotation.]</pron>
+            </form>
+            <def>[NOTES: slipped under ‘cladhaich’ with ‘a’ cladhach na h-uaighe’ as the quotation.]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e261">
+            <form>
+               <orth>a’ leigeil sìos na ciste</orth>
+               <pron>[NOTES: slip not found.]</pron>
+            </form>
+            <def>[NOTES: slip not found.]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e270">
+            <form>
+               <orth>an sgrath (I)</orth>
+            </form>
+            <def>Bhithist a’ gearradh sgrath, fàd na spàide air thiuighead bharr na h-uaghach. Bha maide cruinn air a chur am broinn na sgratha agus an sgrath air a rolaigeadh gu casan na h-uaghach. Nuair a bha a h-uile cùis deiseil bha an sgrath air a rolaigeadh air ais agus an uaigh air a crìochnachadh ’s air gabhail aice. [NOTES: slipped under ‘sgrath (fem)’.]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e279">
+            <form>
+               <orth>leac (I)</orth>
+            </form>
+            <def>(Tuigidh sibh fhèin.) “Chuir iad leac air Tarmod Fhionnlaigh.”</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e288">
+            <form>
+               <orth>clach (I)</orth>
+            </form>
+            <def>(Tuigidh sibh fhèin.) “Tha clach bhrèagha air Dòmhnull Ruadh.” [NOTES: slip not found.]</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e296"
+             subtype="h1">6. Cleachdaidhean sam bith co-cheangailte ri bàs no adhlacadh</ab>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e301">
+            <form>
+               <orth>tombaca (E)</orth>
+            </form>
+            <def>Bha cuimhne fad as aig m’ athair (1860-1947) air an tombaca aig a’ chladh. [NOTES: slip not found.]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e310">
+            <form>
+               <orth>falair (I)</orth>
+            </form>
+            <def>(’Se “alair” a chanadh iadsan.) Bha an fhalair air sgur mus robh cuimhne aig m’ athair. Bha lorg aige air bodadh Uigeach a bha ag radh ri a mhac a’ dol a mach do an t-saoghal air a cheann fhéin a’ cheud uair, “A nise ma thig duine ort a thaobh athar no màthar, biodh mart na h-alair agad”. Bha cuimhne aig m’ athair uair no dhà nuair a bha e ’na dhuine òg, a bhìth aig tiodhlacadh agus biodh ’ga thoirt seachad.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowMMacLeodbas-d0e319">
+            <form>
+               <orth>tiodhlacadh (E)</orth>
+            </form>
+         </entry>
+      </body>
+   </text>
+</TEI>

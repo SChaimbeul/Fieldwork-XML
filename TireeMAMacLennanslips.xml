@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_TireeMAMacLennanslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>10/1970</date>
+            <location>
+               <placeName>Tiree</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>M.A. MacLennan</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_TireeMAMacLennanslips-idp117240648">
+            <form>
+               <orth>puban</orth>
+               <pron>[pu̟bɑṉ]</pron>
+            </form>
+            <def>[pu̟bɑṉ] Notes: a lady’s “bun” [?]. [NOTES: unclear, could be ‘bum’!]</def>
+         </entry>
+         <entry xml:id="Slips_TireeMAMacLennanslips-idp117242520">
+            <form>
+               <orth>sgiubach</orth>
+               <pron>[sɡʹu̟bɑx]</pron>
+            </form>
+            <def>[sɡʹu̟bɑx] Quotation: currachd sgiubach. Notes: cheese-cutter (cap).</def>
+         </entry>
+         <entry xml:id="Slips_TireeMAMacLennanslips-idp117244392">
+            <form>
+               <orth>spriodag</orth>
+               <pron>[spɾid̪ɑɡ]</pron>
+            </form>
+            <def>[spɾid̪ɑɡ] Notes: spark.</def>
+         </entry>
+         <entry xml:id="Slips_TireeMAMacLennanslips-idp117246120">
+            <form>
+               <orth>triodh</orth>
+               <pron>[t̪ɾwɣ]</pron>
+            </form>
+            <def>[t̪ɾwɣ] Notes: whooping cough. [NOTES: slipped under ‘triogh’.]</def>
+         </entry>
+         <entry xml:id="Slips_TireeMAMacLennanslips-idp117247992">
+            <form>
+               <orth>brochan</orth>
+            </form>
+            <def>Quotation: Tha brochan as an uchd aige. Notes: rough wheezing in the chest – like “cròchan” in Lewis.</def>
+         </entry>
+         <entry xml:id="Slips_TireeMAMacLennanslips-idp117249648">
+            <form>
+               <orth>currachd</orth>
+            </form>
+            <def>Quotation: currachd-sgiubach [sɡʹu̟bɔx]. Notes: peaked cap, cheese-cutter. [NOTES: slipped under ‘currac’.]</def>
+         </entry>
+         <entry xml:id="Slips_TireeMAMacLennanslips-idp117251664">
+            <form>
+               <orth>griuthach</orth>
+               <pron>[ɡɾiu̟hɔx]</pron>
+            </form>
+            <def>[ɡɾiu̟hɔx] Notes: measles.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

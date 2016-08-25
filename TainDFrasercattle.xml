@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="CattleandSheep_TainDFrasercattle">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Tain</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>Eachann MacChoinnich [Hector MacKenzie] [and self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Donald Fraser</persName>
+               <persName xml:lang="gd">Domhnal Friseal </persName>
+               <age>60</age>
+               <birth>
+                  <placeName>Geàrrloch [Gairloch]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Cattle</term>
+               <term xml:lang="gd">Crodh</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasercattle-d0e32"
+             subtype="h1">1. Different stages in the growth of cattle</ab>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasercattle-d0e36"
+             subtype="h2">male:</ab>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e41">
+            <form>
+               <orth>laogh fioran</orth>
+               <pron>[male]</pron>
+            </form>
+            <def>[male] calf.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e50">
+            <form>
+               <orth>gamhain fioran</orth>
+               <pron>[male]</pron>
+            </form>
+            <def>[male] stirk.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e59">
+            <form>
+               <orth>damh</orth>
+            </form>
+            <def>castrated stirk.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e68">
+            <form>
+               <orth>tarbh</orth>
+            </form>
+            <def>bull.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e77">
+            <form>
+               <orth>damh bliadhnach</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e83">
+            <form>
+               <orth>damh do-bhliadhnach</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e89">
+            <form>
+               <orth>damh tri bhliadhnach</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasercattle-d0e94"
+             subtype="h2">female:</ab>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e99">
+            <form>
+               <orth>laogh boirean</orth>
+               <pron>[female]</pron>
+            </form>
+            <def>[female] calf.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e108">
+            <form>
+               <orth>gamhain boirean</orth>
+               <pron>[female]</pron>
+            </form>
+            <def>[female] stirk.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e117">
+            <form>
+               <orth>agh</orth>
+            </form>
+            <def>heifer.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e126">
+            <form>
+               <orth>ainmhide</orth>
+            </form>
+            <def>heifer in calf.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e135">
+            <form>
+               <orth>bò</orth>
+            </form>
+            <def>cow.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e144">
+            <form>
+               <orth>gamhnach</orth>
+            </form>
+            <def>farrow cow.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e153">
+            <form>
+               <orth>sgrogag</orth>
+            </form>
+            <def>an old done cow.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasercattle-d0e161"
+             subtype="h1">2. Breeds of cattle</ab>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e166">
+            <form>
+               <orth>crodh Gaidhealach</orth>
+            </form>
+            <def>Highland cattle.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e175">
+            <form>
+               <orth>crodh maol</orth>
+            </form>
+            <def>polled cattle.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasercattle-d0e183"
+             subtype="h1">3. Outward appearance of cattle</ab>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e188">
+            <form>
+               <orth>breac</orth>
+            </form>
+            <def>white patches with red or black.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e197">
+            <form>
+               <orth>odhar</orth>
+            </form>
+            <def>dun.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e206">
+            <form>
+               <orth>ruadh</orth>
+            </form>
+            <def>brown or red.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e215">
+            <form>
+               <orth>griosan (gris-fhionn)</orth>
+            </form>
+            <def>blue-grey. [NOTES: ‘gris-fhionn’ added by Hector MacKenzie.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e224">
+            <form>
+               <orth>balgach</orth>
+            </form>
+            <def>pot bellied.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e233">
+            <form>
+               <orth>rag reamhar</orth>
+            </form>
+            <def>rolling fat.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e242">
+            <form>
+               <orth>caol</orth>
+            </form>
+            <def>lean.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasercattle-d0e250"
+             subtype="h1">4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</ab>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e255">
+            <form>
+               <orth>bodhan or bodha</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasercattle-d0e260"
+             subtype="h1">5. Parts of the body</ab>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e265">
+            <form>
+               <orth>ceann</orth>
+            </form>
+            <def>head.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e274">
+            <form>
+               <orth>amhaich</orth>
+            </form>
+            <def>neck.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e283">
+            <form>
+               <orth>adharcean</orth>
+            </form>
+            <def>horns.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e292">
+            <form>
+               <orth>bathais</orth>
+            </form>
+            <def>forehead.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e301">
+            <form>
+               <orth>calg</orth>
+            </form>
+            <def>hair.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e310">
+            <form>
+               <orth>seiche</orth>
+            </form>
+            <def>hide.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e319">
+            <form>
+               <orth>gualain</orth>
+            </form>
+            <def>shoulder.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e328">
+            <form>
+               <orth>broileach</orth>
+            </form>
+            <def>breast.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e337">
+            <form>
+               <orth>caisean-uchd</orth>
+            </form>
+            <def>breast.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e346">
+            <form>
+               <orth>cnamh droma</orth>
+            </form>
+            <def>back bone.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e355">
+            <form>
+               <orth>cridhe</orth>
+            </form>
+            <def>heart.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e364">
+            <form>
+               <orth>cuisein</orth>
+            </form>
+            <def>artery.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e373">
+            <form>
+               <orth>fuil</orth>
+            </form>
+            <def>blood.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e382">
+            <form>
+               <orth>sgamhan</orth>
+            </form>
+            <def>lungs.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e391">
+            <form>
+               <orth>feith-direach</orth>
+            </form>
+            <def>windpipe.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e400">
+            <form>
+               <orth>grudhan</orth>
+            </form>
+            <def>liver.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e409">
+            <form>
+               <orth>airnean</orth>
+            </form>
+            <def>kidney.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e418">
+            <form>
+               <orth>luch-bhlian</orth>
+            </form>
+            <def>spleen.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e427">
+            <form>
+               <orth>domb-gall</orth>
+            </form>
+            <def>bladder.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e436">
+            <form>
+               <orth>maodal</orth>
+            </form>
+            <def>stomach.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e445">
+            <form>
+               <orth>caolan</orth>
+            </form>
+            <def>colon.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e454">
+            <form>
+               <orth>tanaidh</orth>
+            </form>
+            <def>fat.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasercattle-d0e462"
+             subtype="h1">6. Calving</ab>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e467">
+            <form>
+               <orth>bo fodh ghair</orth>
+            </form>
+            <def>bulling cow.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e476">
+            <form>
+               <orth>Thilg bo laodh</orth>
+            </form>
+            <def>cast a premature calf.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e485">
+            <form>
+               <orth>salchair</orth>
+            </form>
+            <def>afterbirth.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasercattle-d0e493"
+             subtype="h1">7. Milking</ab>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e498">
+            <form>
+               <orth>bleodhan</orth>
+            </form>
+            <def>milking.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e507">
+            <form>
+               <orth>deothal</orth>
+            </form>
+            <def>suckle.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e516">
+            <form>
+               <orth>ceud bhainne</orth>
+            </form>
+            <def>first milk.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e525">
+            <form>
+               <orth>miodar</orth>
+            </form>
+            <def>milking pail.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasercattle-d0e533"
+             subtype="h1">8. Feeding</ab>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e538">
+            <form>
+               <orth>biadhadh</orth>
+            </form>
+            <def>feeding.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e547">
+            <form>
+               <orth>prodhan</orth>
+            </form>
+            <def>mash.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e556">
+            <form>
+               <orth>muidhlean</orth>
+            </form>
+            <def>bunds [? bundles?] of hay.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e565">
+            <form>
+               <orth>teart</orth>
+            </form>
+            <def>grazing before morning milking.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e574">
+            <form>
+               <orth>buachaile spréidhe</orth>
+            </form>
+            <def>herdsman.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasercattle-d0e582"
+             subtype="h1">9. Apparatus</ab>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e587">
+            <form>
+               <orth>teadhar</orth>
+            </form>
+            <def>tether.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e596">
+            <form>
+               <orth>fudalan</orth>
+            </form>
+            <def>swivel for tether.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e605">
+            <form>
+               <orth>busag</orth>
+            </form>
+            <def>spiked halter.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e614">
+            <form>
+               <orth>tulachan</orth>
+            </form>
+            <def>stuffed calf [used to induce the cow to give milk].</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e623">
+            <form>
+               <orth>feannadh balgan</orth>
+            </form>
+            <def>skinning calf for stuffing.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasercattle-d0e631"
+             subtype="h1">10. Diseases</ab>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e636">
+            <form>
+               <orth>faileadh</orth>
+            </form>
+            <def>disease of skin.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e645">
+            <form>
+               <orth>doire</orth>
+            </form>
+            <def>wart.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e654">
+            <form>
+               <orth>gartan</orth>
+            </form>
+            <def>tick.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e663">
+            <form>
+               <orth>fiarsalan</orth>
+            </form>
+            <def>warble-worm or maggot.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e672">
+            <form>
+               <orth>feursnan</orth>
+            </form>
+            <def>warble-worm or maggot.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e681">
+            <form>
+               <orth>tiormachd</orth>
+            </form>
+            <def>constipation.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e690">
+            <form>
+               <orth>an earna</orth>
+            </form>
+            <def>red water.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasercattle-d0e698"
+             subtype="h1">11. Miscellaneous</ab>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e703">
+            <form>
+               <orth>pruic, pruicean</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e709">
+            <form>
+               <orth>dròbh</orth>
+            </form>
+            <def>herd.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e718">
+            <form>
+               <orth>Chaidh a bho a sàs</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasercattle-d0e724">
+            <form>
+               <orth>buachar</orth>
+            </form>
+            <def>cow dung.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

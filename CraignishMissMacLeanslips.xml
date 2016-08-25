@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Slips_CraignishMissMacLeanslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>04/1968</date>
+            <location>
+               <placeName>Craignish</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Miss Maclean</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_CraignishMissMacLeanslips-idp166269136">
+            <form>
+               <orth>smàladh</orth>
+            </form>
+            <def>Quotation: “smàladh an teine”. Notes: same as “tasgadh” in Lewis.</def>
+         </entry>
+         <entry xml:id="Slips_CraignishMissMacLeanslips-idp166270792">
+            <form>
+               <orth>splug</orth>
+            </form>
+            <def>Quotation: “Nach ann oirre bha splug.” “A splugadaich ’s a caoineadh.” Notes: sobbing.</def>
+         </entry>
+         <entry xml:id="Slips_CraignishMissMacLeanslips-idp166272448">
+            <form>
+               <orth>splugan (pl)</orth>
+            </form>
+            <def>Notes: wattles on a hen or cock.</def>
+         </entry>
+         <entry xml:id="Slips_CraignishMissMacLeanslips-idp166273960">
+            <form>
+               <orth>duisleach</orth>
+            </form>
+            <def>Quotation: duisleach móine. Notes: peat dross.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

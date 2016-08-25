@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Peat_CastlebayDBoydmoine">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1967</date>
+            <location>
+               <placeName>Barra, Castlebay</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Donald Boyd</persName>
+               <age>[c. 65 – according to the card index of Informants: c. 65 in 1969]</age>
+               <birth>
+                  <placeName>[North Uist - according to the card index of Informants]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Peat-Working</term>
+               <term xml:lang="gd">Mòine</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading" xml:id="Peat_CastlebayDBoydmoine-d0e32" subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+         <ab type="heading" xml:id="Peat_CastlebayDBoydmoine-d0e36" subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+         <entry xml:id="Peat_CastlebayDBoydmoine-idola194">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Tha an uine cho fada bho an bha mise ris an obair so, is nach ’eil cuimhne agam air far leth-dusan facal, agus is iad sin, tha mi cinnteach, bithidh agaibh mu thràth. Boyd. Bagh-a-Chaisteil.</def>
+         </entry>
+         <ab type="heading" xml:id="Peat_CastlebayDBoydmoine-d0e49" subtype="h1">3. A’ tiormachadh na mònach</ab>
+         <ab type="heading" xml:id="Peat_CastlebayDBoydmoine-d0e53" subtype="h1">4. A’ cruachadh na mònach</ab>
+         <ab type="heading" xml:id="Peat_CastlebayDBoydmoine-d0e57" subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+         <ab type="heading" xml:id="Peat_CastlebayDBoydmoine-d0e61" subtype="h1">6. Seòrsachan mònach</ab>
+         <ab type="heading" xml:id="Peat_CastlebayDBoydmoine-d0e65" subtype="h1">7. Faclan eile</ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Ecclesiastical_DunoonJMacLeaneccles">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Dunoon</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>John MacLean</persName>
+               <persName xml:lang="gd">Iain Mac ’Illeathain</persName>
+               <age>48</age>
+               <birth>
+                  <placeName>Barra</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Ecclesiastical Terms</term>
+               <term xml:lang="gd">An Eaglais</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e32"
+             subtype="h1">1. Various denominations</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e37">
+            <form>
+               <orth>Prostanaich</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e43">
+            <form>
+               <orth>Catlaigich no Papanaich</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e48"
+             subtype="h1">2. Member of each of these denominations</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-idola98">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>(as above)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e61"
+             subtype="h1">3. Different courts of the Presbyterian churches</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e65"
+             subtype="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e70">
+            <form>
+               <orth>ministeir</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e76">
+            <form>
+               <orth>oillteir</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e81"
+             subtype="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e86">
+            <form>
+               <orth>ard easbuig</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e92">
+            <form>
+               <orth>easbuig</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e98">
+            <form>
+               <orth>sagart</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e104">
+            <form>
+               <orth>cleireach</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e110">
+            <form>
+               <orth>gunna mor</orth>
+            </form>
+            <def>in last number of years used for canon.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e118"
+             subtype="h1">6. Holy Orders within the Roman Catholic church</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e123">
+            <form>
+               <orth>manach</orth>
+            </form>
+            <def>monk or missionary.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e131"
+             subtype="h1">7. Articles of dress or adornment</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e136">
+            <form>
+               <orth>culaidh</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e141"
+             subtype="h1">8. Church building and churchyard</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e145"
+             subtype="h1">9. Church furniture and ornaments</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e150">
+            <form>
+               <orth>altair</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e156">
+            <form>
+               <orth>cùbaid</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e162">
+            <form>
+               <orth>tobar a bhaistidh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e168">
+            <form>
+               <orth>treastaichean</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e174">
+            <form>
+               <orth>coinnleirean</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e180">
+            <form>
+               <orth>sligh’ na Croise</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e186">
+            <form>
+               <orth>crotag</orth>
+            </form>
+            <def>holy water font.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e195">
+            <form>
+               <orth>conair-mhoire</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] rosary.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e204">
+            <form>
+               <orth>slat-phulam</orth>
+            </form>
+            <def>palm.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e213">
+            <form>
+               <orth>uisge coisrigte</orth>
+            </form>
+            <def>holy water.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e222">
+            <form>
+               <orth>ceusadh</orth>
+            </form>
+            <def>crucifix.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e231">
+            <form>
+               <orth>rùn</orth>
+            </form>
+            <def>a decad.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e240">
+            <form>
+               <orth>dligheadh</orth>
+            </form>
+            <def>priest’s due (stipend).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e248"
+             subtype="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e253">
+            <form>
+               <orth>An Aireann</orth>
+            </form>
+            <def>Mass.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e262">
+            <form>
+               <orth>An Urnaigh</orth>
+            </form>
+            <def>Benediction.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e271">
+            <form>
+               <orth>[beannachadh]</orth>
+            </form>
+            <def>A Chonair Mhoire agus Beannachadh na Sacramaid.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e279"
+             subtype="h2">[blank]</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e284">
+            <form>
+               <orth>Lathaichean Feile</orth>
+            </form>
+            <def>Holydays of Obligation.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e293">
+            <form>
+               <orth>La Nollag</orth>
+            </form>
+            <def>Christmas.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e302">
+            <form>
+               <orth>La an Tiomchioll Ghearraidh</orth>
+            </form>
+            <def>Circumcision.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e311">
+            <form>
+               <orth>La na Tri Righrean</orth>
+            </form>
+            <def>Epiphany.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e320">
+            <form>
+               <orth>La Naomh Iosa</orth>
+            </form>
+            <def>St Joseph’s.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e329">
+            <form>
+               <orth>Diardaoin Leas-gabhail</orth>
+            </form>
+            <def>Ascension.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e338">
+            <form>
+               <orth>Diardaoin Corp Chriosda</orth>
+            </form>
+            <def>Corpus Christi.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e347">
+            <form>
+               <orth>La ’Ill Peadair</orth>
+            </form>
+            <def>St Peter and Paul.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e356">
+            <form>
+               <orth>La Ill Moire</orth>
+            </form>
+            <def>Assumption.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e365">
+            <form>
+               <orth>La nan Naomh Uile</orth>
+            </form>
+            <def>All Saints.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e374">
+            <form>
+               <orth>La ’Ill Moire gun Smal</orth>
+            </form>
+            <def>Immaculate Conception.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e382"
+             subtype="h2">Days of Devotion</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e387">
+            <form>
+               <orth>La ’Ill Moire nan coinnlean</orth>
+            </form>
+            <def>Candlemas.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e396">
+            <form>
+               <orth>Di h-Aoine na Ceusda</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e402">
+            <form>
+               <orth>Di Ceudaine Luatha</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-idola99">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>etc. etc.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e416"
+             subtype="h2">Sacraments</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e421">
+            <form>
+               <orth>Baisteach etc.</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e426"
+             subtype="h2">[blank]</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e431">
+            <form>
+               <orth>urnaigh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e437">
+            <form>
+               <orth>searman</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e443">
+            <form>
+               <orth>am Beannachadh</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e448"
+             subtype="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e453">
+            <form>
+               <orth>Dia</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e459">
+            <form>
+               <orth>An Cruthadair</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e465">
+            <form>
+               <orth>Righ nan Dul</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e471">
+            <form>
+               <orth>Righ na Glorach</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e477">
+            <form>
+               <orth>Righ nan Righean</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-idola100">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>etc.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e492">
+            <form>
+               <orth>An Comhfhurtair</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e498">
+            <form>
+               <orth>Gu sealladh a Sealbhair ort</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e504">
+            <form>
+               <orth>Athair na Flathas</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e510">
+            <form>
+               <orth>Dia nan gràs</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e515"
+             subtype="h2">[blank]</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e520">
+            <form>
+               <orth>An Tighearna</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e526">
+            <form>
+               <orth>Iosa / Criosda</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e532">
+            <form>
+               <orth>Ar Slanuighear</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e538">
+            <form>
+               <orth>Mac Dhe</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e544">
+            <form>
+               <orth>Uan Dhe</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e550">
+            <form>
+               <orth>An Tobhartair</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e556">
+            <form>
+               <orth>An Darna Pearsa</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e561"
+             subtype="h2">[the Holy Ghost]</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e566">
+            <form>
+               <orth>A Spiorad Naomh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e572">
+            <form>
+               <orth>An Treas Pearsa</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e577"
+             subtype="h2">[the Trinity]</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e582">
+            <form>
+               <orth>An Trionaid</orth>
+            </form>
+            <def>The Trinity.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e591">
+            <form>
+               <orth>An Trionaid Naomh</orth>
+            </form>
+            <def>The Trinity.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e599"
+             subtype="h2">[the Blessed Virgin]</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e604">
+            <form>
+               <orth>Moire Mhathar</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e610">
+            <form>
+               <orth>A Mhoir’ Oigh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e616">
+            <form>
+               <orth>Oigh nan Oighean</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e621"
+             subtype="h2">[the angels]</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e626">
+            <form>
+               <orth>na h-ainglean</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e632">
+            <form>
+               <orth>aingeal coimheadaich</orth>
+            </form>
+            <def>Guardian angel.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e640"
+             subtype="h2">[Heaven]</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e645">
+            <form>
+               <orth>Neamh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e651">
+            <form>
+               <orth>Flathanas</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e657">
+            <form>
+               <orth>an Soisgeul</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e662"
+             subtype="h2">[blank]</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e667">
+            <form>
+               <orth>Urnaigh an Tighearna no Phaidir</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e672"
+             subtype="h2">[blank]</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e677">
+            <form>
+               <orth>Comharra na Croise</orth>
+            </form>
+            <def>Sign of the Cross.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e686">
+            <form>
+               <orth>An t-Altachadh</orth>
+            </form>
+            <def>Grace before or after meals.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e695">
+            <form>
+               <orth>Am Beannachadh Moire</orth>
+            </form>
+            <def>Hail Mary.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e704">
+            <form>
+               <orth>A’ Chreud</orth>
+            </form>
+            <def>Credo.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e713">
+            <form>
+               <orth>An t-Aideachadh</orth>
+            </form>
+            <def>Confiteor.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e722">
+            <form>
+               <orth>Griomh Aithreachais</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e728">
+            <form>
+               <orth>Griomh Dochais</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e734">
+            <form>
+               <orth>Griomh Creideamh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e740">
+            <form>
+               <orth>Griomh Gaidh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-idola101">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>etc.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e754"
+             subtype="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e758"
+             subtype="h2">[Satan]</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e763">
+            <form>
+               <orth>Sàtan</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e772">
+            <form>
+               <orth>An Donas</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e781">
+            <form>
+               <orth>An Diobhall</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e790">
+            <form>
+               <orth>An Deamhan</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e799">
+            <form>
+               <orth>An t-Arsair</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e808">
+            <form>
+               <orth>An Droch Fhear</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e817">
+            <form>
+               <orth>Am Fear Dubh</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e826">
+            <form>
+               <orth>Am Fear Millidh</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e835">
+            <form>
+               <orth>Am Fear nach tig an coir (cobhair?) Criosdaidh</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e844">
+            <form>
+               <orth>Am fear tha air an t-slabhraidh</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e853">
+            <form>
+               <orth>Am fear nach can mi</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e862">
+            <form>
+               <orth>Am Mac Mollachd</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e871">
+            <form>
+               <orth>Am Buaireadair</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e880">
+            <form>
+               <orth>An Riabhach</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e889">
+            <form>
+               <orth>Eoghan</orth>
+            </form>
+            <def>Some older people associated the name Eoghan (Hugh) with the devil but I could never find out why.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e897"
+             subtype="h2">[Hell]</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e902">
+            <form>
+               <orth>Ireann</orth>
+            </form>
+            <def>Hell.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e911">
+            <form>
+               <orth>Iutharna</orth>
+            </form>
+            <def>Hell.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e920">
+            <form>
+               <orth>An droch aite</orth>
+            </form>
+            <def>Hell.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e928"
+             subtype="h2">[Purgatory]</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e933">
+            <form>
+               <orth>Purgadair</orth>
+            </form>
+            <def>Purgatory.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e941"
+             subtype="h2">[Limbo]</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e946">
+            <form>
+               <orth>Ireann nan Athraichean Naomh</orth>
+            </form>
+            <def>Limbo.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e955">
+            <form>
+               <orth>Aite gun phian gun sòlas</orth>
+            </form>
+            <def>Limbo.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e963"
+             subtype="h2">[the different kinds of sin]</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e968">
+            <form>
+               <orth>am peacadh ginneadh</orth>
+            </form>
+            <def>original sin.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e977">
+            <form>
+               <orth>peacadh bàis</orth>
+            </form>
+            <def>mortal sin.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e986">
+            <form>
+               <orth>peacadh gniomh</orth>
+            </form>
+            <def>actual sin.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e995">
+            <form>
+               <orth>peacadh sola</orth>
+            </form>
+            <def>venial sin.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-idola102">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>(Numerous others listed in Gaelic Catechism, as uamhar, sannd etc. etc.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e1012"
+             subtype="h2">Evil curses</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e1017">
+            <form>
+               <orth>Aire na h-Aoine ort.</orth>
+            </form>
+            <def>Death shroud upon you.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e1026">
+            <form>
+               <orth>Droch comhdhail ort.</orth>
+            </form>
+            <def>Evil meeting to you.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e1035">
+            <form>
+               <orth>Droch bhàs ort.</orth>
+            </form>
+            <def>Wicked death unto you.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e1044">
+            <form>
+               <orth>An deomhan gu spad thu.</orth>
+            </form>
+            <def>May the devil finish you.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e1053">
+            <form>
+               <orth>An diobhall gad ithe.</orth>
+            </form>
+            <def>May the devil devour you.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e1061"
+             subtype="h2">Benedictions</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e1066">
+            <form>
+               <orth>Dia gad shabhaladh.</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e1072">
+            <form>
+               <orth>Dia gad bheannachadh.</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e1078">
+            <form>
+               <orth>Dia gad ghleidheadh.</orth>
+            </form>
+            <def>Anyone passing a person milking a cow always said “Dia gad ghleidheadh” and milker responded “Dia dhut fhein”. This to ward off the evil eye.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e1087">
+            <form>
+               <orth>Dia bhi tiomchioll ort.</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e1093">
+            <form>
+               <orth>Am Freasdal a shealltuinn ort.</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e1099">
+            <form>
+               <orth>Gu sealladh a Sealbhair ort.</orth>
+            </form>
+         </entry>
+      </body>
+   </text>
+</TEI>

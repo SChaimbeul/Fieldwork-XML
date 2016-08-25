@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BroadCoveMrsKennedyslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>05/1971</date>
+            <location>
+               <placeName>Canada, Cape Breton, Broad Cove</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Mrs Archie Kennedy</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_BroadCoveMrsKennedyslips-idp161831264">
+            <form>
+               <orth>muilleachadh</orth>
+               <pron>[m[ɔi]</pron>
+            </form>
+            <def>[m[ɔi]lʹɑxəɣ] Notes: mill dues. (Word used by her mother – she herself would use ‘dolla’ (?).)</def>
+         </entry>
+         <entry xml:id="Slips_BroadCoveMrsKennedyslips-idp161833424">
+            <form>
+               <orth>sluisearachd</orth>
+               <pron>[sɫuʃəɾɑxk]</pron>
+            </form>
+            <def>[sɫuʃəɾɑxk] Notes: area of muddy water.</def>
+         </entry>
+         <entry xml:id="Slips_BroadCoveMrsKennedyslips-idp161835152">
+            <form>
+               <orth>bragair</orth>
+               <pron>[bɾɑɡəɾ]</pron>
+            </form>
+            <def>[bɾɑɡəɾ] Quotation: bragairean de sgeulachan. Notes: stones without much to them.</def>
+         </entry>
+         <entry xml:id="Slips_BroadCoveMrsKennedyslips-idp161837024">
+            <form>
+               <orth>droighneach</orth>
+               <pron>[d̪ɾ[ɤı]</pron>
+            </form>
+            <def>[d̪ɾ[ɤı]nʹɑx] Quotation: droighneach de dhuine. Notes: worthless person.</def>
+         </entry>
+         <entry xml:id="Slips_BroadCoveMrsKennedyslips-idp161839328">
+            <form>
+               <orth>duilich</orth>
+            </form>
+            <def>Notes: meaning difficult.</def>
+         </entry>
+         <entry xml:id="Slips_BroadCoveMrsKennedyslips-idp161840840">
+            <form>
+               <orth>gàbhaidh</orth>
+            </form>
+            <def>Notes: on its own means awful. Can say: Tha e gàbhaidh math, fliuch, etc. Common in Ins Co.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AJSmith_LeverburghJMartinmisc">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>June 1972</date>
+            <location>
+               <placeName>Harris, Leverburgh</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>A. J. Smith</persName>
+            </person>
+            <person role="informant">
+               <persName>J. Martin</persName>
+               <birth>
+                  <placeName>Harris, Leverburgh</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="AJSmith_LeverburghJMartinmisc-idm37618720">
+            <form>
+               <orth>ceàrdallan</orth>
+               <pron>[cɑ:ʴsd̪əɫɑṉ]</pron>
+            </form>
+            <def>[cɑ:ʴsd̪əɫɑṉ] Note: a purplish black insect somewhat similar to a bee. Flies about emitting a “strann”. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+         </entry>
+         <entry xml:id="AJSmith_LeverburghJMartinmisc-idm37633336">
+            <form>
+               <orth>feàrtallan</orth>
+               <pron>[fȷɑ:ʴst̪əɫɑṉ]</pron>
+            </form>
+            <def>[fȷɑ:ʴst̪əɫɑṉ] Note: his pronunciation of word for a warble fly. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+         </entry>
+         <entry xml:id="AJSmith_LeverburghJMartinmisc-idm37731256">
+            <form>
+               <orth>sgot</orth>
+               <pron>[sɡɔt̪]</pron>
+            </form>
+            <def>[sɡɔt̪] Quot.: “Cha deanainn sgot air.” Note: I couldn’t make head or tail of it. I couldn’t make it out.</def>
+         </entry>
+         <entry xml:id="AJSmith_LeverburghJMartinmisc-idm37647088">
+            <form>
+               <orth>cailleach-ribeach</orth>
+            </form>
+            <def>Note: growths in the mouth of cattle. Cut off. Quot.: “a’ chailleach-ribeach air a’ bhó”.</def>
+         </entry>
+         <entry xml:id="AJSmith_LeverburghJMartinmisc-idm37688704">
+            <form>
+               <orth>cràdh-gheadh</orth>
+               <pron>[kɾɑ:ȷɑi]</pron>
+            </form>
+            <def>[kɾɑ:ȷɑi] Note: sheldrake.</def>
+         </entry>
+         <entry xml:id="AJSmith_LeverburghJMartinmisc-idm37649320">
+            <form>
+               <orth>eun-dubh-a-sgadain</orth>
+            </form>
+            <def>Note: guillemot, razorbill.</def>
+         </entry>
+         <entry xml:id="AJSmith_LeverburghJMartinmisc-idm37658104">
+            <form>
+               <orth>gearra-breac</orth>
+            </form>
+            <def>Note: black guillemot.</def>
+         </entry>
+         <entry xml:id="AJSmith_LeverburghJMartinmisc-idm37628728">
+            <form>
+               <orth>draona</orth>
+               <pron>[d̪ɾɾɤ:ṉə]</pron>
+            </form>
+            <def>[d̪ɾɾɤ:ṉə] [sic] Note: snipe.</def>
+         </entry>
+         <entry xml:id="AJSmith_LeverburghJMartinmisc-idm37719808">
+            <form>
+               <orth>marag-fhlùir</orth>
+            </form>
+            <def>Note: white pudding made in a part of beast’s entrails. Raisins usually added.</def>
+         </entry>
+         <entry xml:id="AJSmith_LeverburghJMartinmisc-idm37627216">
+            <form>
+               <orth>loch-bhlian</orth>
+            </form>
+            <def>Note: flank of a sheep.</def>
+         </entry>
+         <entry xml:id="AJSmith_LeverburghJMartinmisc-idm37695832">
+            <form>
+               <orth>Calum-figheadair</orth>
+            </form>
+            <def>Note: daddy-long-legs.</def>
+         </entry>
+         <entry xml:id="AJSmith_LeverburghJMartinmisc-idm37666024">
+            <form>
+               <orth>dramhan-eallaich</orth>
+               <pron>[d̪ɾɑvɑṉȷɑɫiç]</pron>
+            </form>
+            <def>[d̪ɾɑvɑṉȷɑɫiç] Note: spider.</def>
+         </entry>
+         <entry xml:id="AJSmith_LeverburghJMartinmisc-idm37635928">
+            <form>
+               <orth>curra-mhidheag</orth>
+               <pron>[kwɾəˈvĩɑ̃ɡ]</pron>
+            </form>
+            <def>[kwɾəˈvĩɑ̃ɡ] Note: blaeberry.</def>
+         </entry>
+         <entry xml:id="AJSmith_LeverburghJMartinmisc-idm37720168">
+            <form>
+               <orth>boinneagraich</orth>
+               <pron>[bonʹɑɡɾiç]</pron>
+            </form>
+            <def>[bonʹɑɡɾiç] Quot.: boinneagraich uisge. Note: light drops of rain.</def>
+         </entry>
+         <entry xml:id="AJSmith_LeverburghJMartinmisc-idm37690288">
+            <form>
+               <orth>góbhlan-gaoitheadh</orth>
+            </form>
+            <def>Note: swallow.</def>
+         </entry>
+         <entry xml:id="AJSmith_LeverburghJMartinmisc-idm37709656">
+            <form>
+               <orth>clamhan-mór</orth>
+            </form>
+            <def>Note: buzzard.</def>
+         </entry>
+         <entry xml:id="AJSmith_LeverburghJMartinmisc-idm37671784">
+            <form>
+               <orth>falaisg</orth>
+               <pron>[fɑɫiʃɡʹ]</pron>
+            </form>
+            <def>[fɑɫiʃɡʹ] Note: heather fire.</def>
+         </entry>
+         <entry xml:id="AJSmith_LeverburghJMartinmisc-idm37637224">
+            <form>
+               <orth>speach</orth>
+               <pron>[spjɑx]</pron>
+            </form>
+            <def>[spjɑx] Note: wasp.</def>
+         </entry>
+         <entry xml:id="AJSmith_LeverburghJMartinmisc-idm37620592">
+            <form>
+               <orth>deargann-tràghaidh</orth>
+            </form>
+            <def>Note: shore-flea.</def>
+         </entry>
+         <entry xml:id="AJSmith_LeverburghJMartinmisc-idm37732840">
+            <form>
+               <orth>cailleach-chòsach</orth>
+            </form>
+            <def>Note: slater.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="TireeandMull_TireeBarrapolHMacLeancoltas">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: a note in the margin by Professor Roibeard Ó Maolalaigh (RÓM). See below for details.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Eilean Thiriodh, Goirtean Dòmhnaill [Tiree, Barrapol]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[Alan Boyd]</persName>
+            </person>
+            <person role="informant">
+               <persName>Hugh MacLean</persName>
+               <persName xml:lang="gd">Eoghan MacGilleathain </persName>
+               <age>64</age>
+               <birth>
+                  <placeName>Tiriodh [Tiree]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Personal Appearance</term>
+               <term xml:lang="gd">Coltas an Duine</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e34"
+             subtype="h1">Shapes and general appearance</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e39">
+            <form>
+               <orth>luireach (m), luirichean (pl)</orth>
+            </form>
+            <def>a large clumsy person.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e48">
+            <form>
+               <orth>garbh</orth>
+            </form>
+            <def>brawny, muscular.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e57">
+            <form>
+               <orth>àrd</orth>
+            </form>
+            <def>tall and slim.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e66">
+            <form>
+               <orth>troich (m), troicheanan (pl)</orth>
+            </form>
+            <def>dwarf.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e75">
+            <form>
+               <orth>bola (m), bolaichean (pl) (l – glottal stop)</orth>
+            </form>
+            <def>wee fat man (derogatory).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e84">
+            <form>
+               <orth>crotaire (m), crotairean (pl)</orth>
+            </form>
+            <def>hunchback.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e93">
+            <form>
+               <orth>crotach (adj)</orth>
+               <pron>[hunchbacked.]</pron>
+            </form>
+            <def>[hunchbacked.]</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e102">
+            <form>
+               <orth>duine bacach</orth>
+            </form>
+            <def>a lame man (permanent).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e111">
+            <form>
+               <orth>duine crubach</orth>
+            </form>
+            <def>a lame man (temporary).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e120">
+            <form>
+               <orth>pleadhach (adj)</orth>
+            </form>
+            <def>splay feet.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e129">
+            <form>
+               <orth>cama-chasach (adj)</orth>
+            </form>
+            <def>either splayed feet or hen-toed.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e138">
+            <form>
+               <orth>craiceann circe</orth>
+            </form>
+            <def>goose pimples.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e146"
+             subtype="h1">Deformities, blemishes, scars</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e151">
+            <form>
+               <orth>breacadh an teinidh</orth>
+            </form>
+            <def>fireside tartan. (‘teinidh’ – Tiree nom. gen. and dative of ‘teine’.)</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e160">
+            <form>
+               <orth>breacan-sian</orth>
+            </form>
+            <def>freckles.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e169">
+            <form>
+               <orth>milleadh-moigheaich</orth>
+            </form>
+            <def>hair lip [sic]. [NOTES: note in the margin – [harelip] RÓM.]</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e178">
+            <form>
+               <orth>corr-chluasach</orth>
+            </form>
+            <def>deformed ears.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e187">
+            <form>
+               <orth>fiar-shùileach</orth>
+            </form>
+            <def>squint (eyes).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e196">
+            <form>
+               <orth>duine bearnach</orth>
+            </form>
+            <def>one with gaps in teeth.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e205">
+            <form>
+               <orth>duine gagach</orth>
+            </form>
+            <def>stutterer.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e214">
+            <form>
+               <orth>balbhan (m), balbhain (pl)</orth>
+            </form>
+            <def>dummy.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e223">
+            <form>
+               <orth>dall</orth>
+            </form>
+            <def>blind person.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e232">
+            <form>
+               <orth>ball-dobhran (m), buill-d.</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] mole.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e241">
+            <form>
+               <orth>triubhas (m), triubhais (pl)</orth>
+            </form>
+            <def>birthmark.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e250">
+            <form>
+               <orth>foinne (m), foinneachan (pl)</orth>
+            </form>
+            <def>wart.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e259">
+            <form>
+               <orth>a’ bhreac</orth>
+            </form>
+            <def>(breac – adj) the pox (smallpox).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e268">
+            <form>
+               <orth>neasgaid (f), neasgaidean (pl)</orth>
+            </form>
+            <def>boil.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e277">
+            <form>
+               <orth>màthair-ghuir, màthraichean-ghir (pl)</orth>
+            </form>
+            <def>abscess.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e286">
+            <form>
+               <orth>cnaiseag (f), -an</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] pimple.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e295">
+            <form>
+               <orth>an galar-sploiceadh</orth>
+            </form>
+            <def>mumps.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e304">
+            <form>
+               <orth>an anachdar uasal</orth>
+            </form>
+            <def>V.D.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e313">
+            <form>
+               <orth>an clap</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e319">
+            <form>
+               <orth>crùban (m), crùbain</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] crabs.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e327"
+             subtype="h1">Beauty and ugliness</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e332">
+            <form>
+               <orth>boidhchead</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e338">
+            <form>
+               <orth>maise</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e343"
+             subtype="h2">Beauty</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e348">
+            <form>
+               <orth>feuchdag or féachdag, féachdagan (pl)</orth>
+            </form>
+            <def>a beautiful girl.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e357">
+            <form>
+               <orth>bòdhach</orth>
+            </form>
+            <def>pretty (girl). (Tiree for ‘bòidheach’.)</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e366">
+            <form>
+               <orth>maiseach</orth>
+            </form>
+            <def>handsome (male or female).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e375">
+            <form>
+               <orth>briagha</orth>
+            </form>
+            <def>nice (with reference to a girl’s figure).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e384">
+            <form>
+               <orth>eireachdail</orth>
+            </form>
+            <def>handsome (male or female).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e393">
+            <form>
+               <orth>grinn</orth>
+            </form>
+            <def>beautiful, nice (girl).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e402">
+            <form>
+               <orth>laghach</orth>
+            </form>
+            <def>nice in character, kindly (male or female).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e411">
+            <form>
+               <orth>lurach</orth>
+            </form>
+            <def>really handsome (girl), more extreme than ‘grinn’ [q.v.], the ultimate!</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e419"
+             subtype="h2">Ugliness</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e424">
+            <form>
+               <orth>granna</orth>
+            </form>
+            <def>ugly.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e433">
+            <form>
+               <orth>mi-mhaiseach</orth>
+            </form>
+            <def>ugly (not so extreme as ‘granna’ [q.v.]).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e441"
+             subtype="h1">Insults</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e446">
+            <form>
+               <orth>cullach (m), cullaich (pl)</orth>
+            </form>
+            <def>a boar – ugly in character. Cullach-cachda.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e455">
+            <form>
+               <orth>galla</orth>
+            </form>
+            <def>both male and female. Mac na galla. Ni’n na galla.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e464">
+            <form>
+               <orth>trusdair (m), trusdairean (pl)</orth>
+            </form>
+            <def>a cheap rascal.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e473">
+            <form>
+               <orth>siùrsach!</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e479">
+            <form>
+               <orth>bugair, bugairean</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e485">
+            <form>
+               <orth>diobhal de dhuine</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e491">
+            <form>
+               <orth>duine diobhalta</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e497">
+            <form>
+               <orth>a mhic a’ diobhail</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e503">
+            <form>
+               <orth>icheannach (m), icheannaich (pl)</orth>
+            </form>
+            <def>hellyon.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e512">
+            <form>
+               <orth>icheann</orth>
+            </form>
+            <def>hell. (Not ‘ifrinn’ in Tiree.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e520"
+             subtype="h1">Strength, fitness and the opposite</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e525">
+            <form>
+               <orth>duine làidir</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e531">
+            <form>
+               <orth>duine lag</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e537">
+            <form>
+               <orth>duine comasach</orth>
+            </form>
+            <def>fit, able man.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e546">
+            <form>
+               <orth>luige</orth>
+            </form>
+            <def>weakness.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e555">
+            <form>
+               <orth>neart</orth>
+            </form>
+            <def>strength.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e564">
+            <form>
+               <orth>duine foghaineach</orth>
+            </form>
+            <def>a strong, well-built man.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e573">
+            <form>
+               <orth>smearail</orth>
+            </form>
+            <def>able, diligent.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e582">
+            <form>
+               <orth>truaghan, truaghain (pl)</orth>
+            </form>
+            <def>weakling (and wretch).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e591">
+            <form>
+               <orth>duine uileasach</orth>
+            </form>
+            <def>a stiff man.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e599"
+             subtype="h1">Ways of walking, sitting, lying</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e604">
+            <form>
+               <orth>coiseachd làidir</orth>
+            </form>
+            <def>walking smartly.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e613">
+            <form>
+               <orth>coiseachd slaodach</orth>
+            </form>
+            <def>walking slovenly.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e622">
+            <form>
+               <orth>coiseachd gu réidh</orth>
+            </form>
+            <def>walking slowly.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e631">
+            <form>
+               <orth>a’ sraideamachd</orth>
+            </form>
+            <def>walking aimlessly.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e640">
+            <form>
+               <orth>[sraid]</orth>
+            </form>
+            <def>Ghabh mi sraid. – I took a walk.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e649">
+            <form>
+               <orth>cliobach</orth>
+            </form>
+            <def>clumsy.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e658">
+            <form>
+               <orth>neo-shocarach</orth>
+            </form>
+            <def>fidgety.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e667">
+            <form>
+               <orth>cliobaire, cliobairean (pl)</orth>
+            </form>
+            <def>a clumsy man, clot.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e676">
+            <form>
+               <orth>socarach</orth>
+            </form>
+            <def>relaxed.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e685">
+            <form>
+               <orth>[latha]</orth>
+            </form>
+            <def>Tha e ’na latha. – He is lying. (Instead of ‘laighe’ in Tiree.)</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e694">
+            <form>
+               <orth>[socair]</orth>
+            </form>
+            <def>Gabh air do shocair. – Relax.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e702"
+             subtype="h1">Pulling faces, frowns, other expressions</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e707">
+            <form>
+               <orth>draoin</orth>
+            </form>
+            <def>making faces. Chuir mi draoin orm. – I made an ugly face.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e716">
+            <form>
+               <orth>[gruaim]</orth>
+            </form>
+            <def>Bha gruaim orm. – I had a frown.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e725">
+            <form>
+               <orth>caog (verb)</orth>
+            </form>
+            <def>wink. Chaog mi rithe. – I winked at her.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e734">
+            <form>
+               <orth>briobail (verb)  (a’ briobal)</orth>
+            </form>
+            <def>blink.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e743">
+            <form>
+               <orth>fiamh a’ ghaire</orth>
+            </form>
+            <def>smile.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e752">
+            <form>
+               <orth>[gaire]</orth>
+            </form>
+            <def>Rinn mi gaire rithe. – I laughed at her.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e761">
+            <form>
+               <orth>geanail</orth>
+            </form>
+            <def>friendly, smiley.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e770">
+            <form>
+               <orth>gruamach</orth>
+            </form>
+            <def>gloomy.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e778"
+             subtype="h1">Clean and untidy</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e783">
+            <form>
+               <orth>glan</orth>
+            </form>
+            <def>tidy.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e792">
+            <form>
+               <orth>sgiobalta</orth>
+            </form>
+            <def>tidy.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e801">
+            <form>
+               <orth>snasar</orth>
+            </form>
+            <def>tidy.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e810">
+            <form>
+               <orth>snasmhór</orth>
+            </form>
+            <def>tidy.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e819">
+            <form>
+               <orth>ròpach</orth>
+            </form>
+            <def>untidy.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e828">
+            <form>
+               <orth>ròpag</orth>
+            </form>
+            <def>untidy female.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e837">
+            <form>
+               <orth>ròpan</orth>
+            </form>
+            <def>untidy male.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e846">
+            <form>
+               <orth>duine sèimh</orth>
+            </form>
+            <def>reserved, quiet and peaceful man.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeancoltas-d0e855">
+            <form>
+               <orth>diùid</orth>
+            </form>
+            <def>shy.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="CattleandSheep_GlasgowMMacLeodsheep">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Glaschu [Glasgow]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Murdo MacLeod</persName>
+               <persName xml:lang="gd">Murchadh MacLeòid </persName>
+               <age>58 5/12</age>
+               <birth>
+                  <placeName>Leòdhas [Lewis], Uig an Iar</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Sheep</term>
+               <term xml:lang="gd">Caoraich</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e34"
+             subtype="h1">1. Different stages in the growth of sheep (female)</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola65">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Dwelly (t-d 165.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e47"
+             subtype="h2">[Male and female before weaning:]</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e52">
+            <form>
+               <orth>uan (s.m. never s.f.)</orth>
+            </form>
+            <def>Dìreach againne mar seo.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e61">
+            <form>
+               <orth>uan firionn</orth>
+            </form>
+            <def>male lamb.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e70">
+            <form>
+               <orth>uan boireann</orth>
+            </form>
+            <def>female lamb.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e78"
+             subtype="h2">[blank]</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e83">
+            <form>
+               <orth>weaning</orth>
+            </form>
+            <def>Canaidh sinn: “a’ togail nan uan” agus “’g an toirt bho am màthraichean”.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e91"
+             subtype="h2">Female after weaning till first shearing:</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e96">
+            <form>
+               <orth>othaisg</orth>
+            </form>
+            <def>(Chan è ‘òthaisg’ mar a th’aig Dwelly.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e104"
+             subtype="h2">[blank]</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e109">
+            <form>
+               <orth>ciora</orth>
+            </form>
+            <def>’S ann tha ‘ciora’ againne air peata (caorach).</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e118">
+            <form>
+               <orth>fiar-othaisg</orth>
+            </form>
+            <def>Chan eil a leithid idir againn.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e127">
+            <form>
+               <orth>seot</orth>
+            </form>
+            <def>Chan eil seo idir againn airson othaisge, ach tha e againn mar a chì sibh air t-d 809 (3) ‘Lean beast, … the worst beast’.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e135"
+             subtype="h2">[blank]</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e140">
+            <form>
+               <orth>bliadhnach</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e146">
+            <form>
+               <orth>tiaraineach</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e152">
+            <form>
+               <orth>othaisg bhoirionn</orth>
+            </form>
+            <def>Tha na trì againn.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e160"
+             subtype="h2">[blank]</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e165">
+            <form>
+               <orth>uan othaisge</orth>
+            </form>
+            <def>Tha e againn. “Uan òisge” mar a chanas sinn e.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e174">
+            <form>
+               <orth>tiaraineach</orth>
+            </form>
+            <def>Chuala mi feadhainn ag ràdh gur h-e sia raidheach a bha seo a’ ciallachadh: gur h-ann bho an sin a thàinig e.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e182"
+             subtype="h2">After 1st shearing if not put to ram:</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e187">
+            <form>
+               <orth>tiaraineach</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e193">
+            <form>
+               <orth>dionag</orth>
+            </form>
+            <def>Chan eil e againne idir, ach bhiodh e aig na cìobairean.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e201"
+             subtype="h2">After 2nd shearing if with lamb:</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e206">
+            <form>
+               <orth>caora uain</orth>
+            </form>
+            <def>Tha seo againn.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e215">
+            <form>
+               <orth>dò-bhliadhnach</orth>
+            </form>
+            <def>Tha seo againn. (‘dò-bhliadhnach’ againne airson ‘dà-bhliadhnach’.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e223"
+             subtype="h2">After 2nd shearing if not with lamb:</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e228">
+            <form>
+               <orth>caora sheasg</orth>
+            </form>
+            <def>(Chan è ‘caora sheisg’.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e236"
+             subtype="h2">[After 2nd shearing if not put to ram:]</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e241">
+            <form>
+               <orth>dò-bhliadhnach seasg</orth>
+            </form>
+            <def>(Chan è ‘dà-bhliadhnach’.)</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e250">
+            <form>
+               <orth>caora-chiatain</orth>
+            </form>
+            <def>(Chan eil e idir againn.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e258"
+             subtype="h2">[After 3rd shearing:]</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e263">
+            <form>
+               <orth>trì-bhliadhnach</orth>
+            </form>
+            <def>(Tha e againn.)</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e272">
+            <form>
+               <orth>crogais</orth>
+            </form>
+            <def>Chan eil e idir againn. Ach tha ‘croga’ againn (mar ‘crog’ air t-d 275: ‘aged and effete ewe, sheep past bearing’. (Cho fada agus a tha cuimhne agam, ’se seo an seadh anns am bheil e againn.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e280"
+             subtype="h2">[After 4th shearing:]</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e285">
+            <form>
+               <orth>crog</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e291">
+            <form>
+               <orth>caora sheasg</orth>
+            </form>
+            <def>(Tha seo againn.)</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e300">
+            <form>
+               <orth>crog</orth>
+            </form>
+            <def>draft gimmer. (Chan eil e againn.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e308"
+             subtype="h2">Male not castrated:</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e313">
+            <form>
+               <orth>uan reithe</orth>
+            </form>
+            <def>Tha e againn: uan-reith’ (air a fhuaimneachadh mar uan’reith. Gu math faisg air mar a chanadh sibh wan’ray no one’ray anns a’ Bheurla (Tuigidh sibh fhéin.) No faisg air ‘uamhraidh’ aig muinntir tìr-mór, Earra-ghaidheal, Inbhirnis có dhiu.)</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e322">
+            <form>
+               <orth>reithe, bliadhnach reithe</orth>
+            </form>
+            <def>Tha seo againn. Ach chan eil ‘aona bhliadhnach reithe’. No ‘tiaraineach’, ‘tiarainneach [sic] rùid’. Ach tha ‘tiaraineach’ aca ann an Càrlabhagh, mur a h-eil anns na h-àiteachan eile sìos an shòs sin. Tiaraineach rùid. Chan eil ‘tiaraineach’ againne ach air creutar boirionn.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e331">
+            <form>
+               <orth>dà-bhliadhnach reithe</orth>
+            </form>
+            <def>(‘Dò-bhliadhnach’ againne.) Dò-bhliadhnach rùid. Bho théid e seachad air bliadhna ’se ‘rùd’ a th’ againne airson ‘reithe’. Aig na Lochan thall, ’se ‘rùda’ a chanas iad. Agus rud glé arraid, ann an Uig an Iar air fad, cho fada agus a tha lorg agam-sa, ’se ‘rùd’ a th’aca. Ach Bréidhnish, Islibhig agus Mangarstadh, ’se ‘reithe’ a th’ aca. Chan eil fhios agam dé mar a dh’éirich seo.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e340">
+            <form>
+               <orth>trì-bhliadhnach reithe, seann reithe (AH.)</orth>
+            </form>
+            <def>(‘Trì bhliadhnach rùid’ againne.)</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e349">
+            <form>
+               <orth>seann reithe, ceithir bhliadhnach reithe</orth>
+            </form>
+            <def>(‘Ceithir bhliadhnach rùid’ againne.) Is mait gu’n canadh sinn, uaireannan, ‘seann rùd’.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e357"
+             subtype="h2">Male castrated:</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e362">
+            <form>
+               <orth>uan firionn, uan spothta</orth>
+            </form>
+            <def>(‘Uan firionn’ againne.) ‘Othaisg fhirionn’ as deidh sin nuair a bha e a’ fàs na bu shine.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e371">
+            <form>
+               <orth>bliadhnach mult</orth>
+            </form>
+            <def>(‘Bliadhnach muilt’ againne.) (Tiaraineach mult, chan eil.) (Cóig raitheach, sia raitheach, chan eil.)</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e380">
+            <form>
+               <orth>mult – Lorn; dà bhliadhnach mult – Lewis</orth>
+            </form>
+            <def>(‘Dò bhliadhnach muilt’ againne.)</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e389">
+            <form>
+               <orth>trì bhliadhnach mult – Lewis</orth>
+            </form>
+            <def>(‘Trì bhliadhnach muilt’ againne.)</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e398">
+            <form>
+               <orth>ceithir bhliadhnach mult – Lewis</orth>
+            </form>
+            <def>(‘Ceithir bhliadhnach muilt’ againne.)</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e407">
+            <form>
+               <orth>In Lewis after 3rd shearing …</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e413">
+            <form>
+               <orth>seann chaora</orth>
+            </form>
+            <def>Tha e againn. ‘Seana chaora’ a chanas sinne.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e422">
+            <form>
+               <orth>ceithir bhliadhnach muilt gu seachd no ochd bhliadhnach muilt</orth>
+            </form>
+            <def>Tha seo againn.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e430"
+             subtype="h2">Other names:</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e435">
+            <form>
+               <orth>caora bhainne</orth>
+            </form>
+            <def>chan eil e idir againn.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e444">
+            <form>
+               <orth>caora bheannach</orth>
+            </form>
+            <def>chan eil.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e453">
+            <form>
+               <orth>caora bhrògach</orth>
+            </form>
+            <def>thà.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e462">
+            <form>
+               <orth>caora càraid</orth>
+            </form>
+            <def>thà.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e471">
+            <form>
+               <orth>caora cheaslach</orth>
+            </form>
+            <def>chan eil.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e480">
+            <form>
+               <orth>caora cheannain</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] chan eil</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e489">
+            <form>
+               <orth>caora chìleach</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] chan eil. Ach tha am facal ‘cìleach’ againn ’ga chleachdadh ri crodh: bò chìleach, gamhainn cìleach, ’s mar sin.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e498">
+            <form>
+               <orth>caora dhubh</orth>
+            </form>
+            <def>thà.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e507">
+            <form>
+               <orth>caora dhubh-cheannach</orth>
+            </form>
+            <def>thà.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e516">
+            <form>
+               <orth>caora gheal</orth>
+            </form>
+            <def>chan eil.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e525">
+            <form>
+               <orth>caora mhaol</orth>
+            </form>
+            <def>thà.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e534">
+            <form>
+               <orth>caora mholach</orth>
+            </form>
+            <def>tha mi smaoineach gu’m biodh seo uaireannan aig na bodaich.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e543">
+            <form>
+               <orth>caora Nollaig</orth>
+            </form>
+            <def>aig na bodaich a rithist, uaireannan.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e552">
+            <form>
+               <orth>caora reamhar</orth>
+            </form>
+            <def>chan eil, ’na ainm air leth.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e561">
+            <form>
+               <orth>caora Shasunnach</orth>
+            </form>
+            <def>chan eil.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e570">
+            <form>
+               <orth>caora sheasg</orth>
+            </form>
+            <def>thà.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e579">
+            <form>
+               <orth>caora uain</orth>
+            </form>
+            <def>thà.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e588">
+            <form>
+               <orth>ciora</orth>
+            </form>
+            <def>pet ewe or hogg, thà.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e597">
+            <form>
+               <orth>croga</orth>
+            </form>
+            <def>tha.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e606">
+            <form>
+               <orth>deata</orth>
+            </form>
+            <def>chan eil.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e615">
+            <form>
+               <orth>dìonag</orth>
+            </form>
+            <def>chan eil.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e624">
+            <form>
+               <orth>feirmige</orth>
+            </form>
+            <def>chan eil. Ach uaireannan, mu rùd nach biodh ’na rùd, chanadh iad rudeigin mar ‘feirmige’. ‘Seilmige’, cho fada ’s a tha cuimhne agam-sa a chanadh iad “Seilmige de rùd”.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e633">
+            <form>
+               <orth>leth-uan</orth>
+            </form>
+            <def>tha e againn.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e642">
+            <form>
+               <orth>reige</orth>
+            </form>
+            <def>tha seo againn.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e651">
+            <form>
+               <orth>rige</orth>
+            </form>
+            <def>tha seo againn. Ach cho fada ’s a lorg agam-sa ’s ann airson ‘partly castrated male’ a tha ‘rige’ againn. Againne air fhuaimneachadh mar a chanadh Leòdhasach no a leithid sin, ‘rig’ ann an ‘rig-out’, rig + e, rige.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e660">
+            <form>
+               <orth>reithe stùdhach</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] chan eil (’na ainm suidhichte, có dhiù.)</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e669">
+            <form>
+               <orth>rùdan</orth>
+            </form>
+            <def>chan eil. Ach ann an àiteachan ag éigheach air rùd, tha ‘rùidein’ aca. “Trobhad, rùidein, trobhad.” Mar ag éigheach air tarbh: tairbhein. “Trobhad, tairbhein, tairbhein.”</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e678">
+            <form>
+               <orth>sagart</orth>
+            </form>
+            <def>chan eil e againn idir.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e687">
+            <form>
+               <orth>sùgan</orth>
+            </form>
+            <def>pet lamb, chan eil.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e695"
+             subtype="h1">2. Different stages in the growth of sheep (male)</ab>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e699"
+             subtype="h1">3. Different stages in the growth of the castrated male</ab>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e703"
+             subtype="h1">4. Sheep’s appearance</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e708">
+            <form>
+               <orth>caora bhreac</orth>
+            </form>
+            <def>speckled or spotted sheep.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e717">
+            <form>
+               <orth>caora bhàn</orth>
+            </form>
+            <def>white-faced sheep.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e726">
+            <form>
+               <orth>caora bhrògach</orth>
+            </form>
+            <def>black-faced sheep.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e735">
+            <form>
+               <orth>caora dhubh-cheannach</orth>
+            </form>
+            <def>black-faced sheep.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e744">
+            <form>
+               <orth>caora niùlach</orth>
+            </form>
+            <def>sheep with stunted horns.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e753">
+            <form>
+               <orth>caora lèabhach</orth>
+            </form>
+            <def>sheep with large horns.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e762">
+            <form>
+               <orth>caora mhaol</orth>
+            </form>
+            <def>sheep with no horns.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e770"
+             subtype="h1">5. Miscellaneous</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e775">
+            <form>
+               <orth>peata (uain)</orth>
+            </form>
+            <def>pet lamb.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e784">
+            <form>
+               <orth>ciora (uain)</orth>
+            </form>
+            <def>pet lamb.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e793">
+            <form>
+               <orth>leth-uan</orth>
+            </form>
+            <def>twin lamb.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e802">
+            <form>
+               <orth>uan òg</orth>
+            </form>
+            <def>lamb late of weaning. “Sin agad an t-uan òg.”</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e811">
+            <form>
+               <orth>uan fadalach</orth>
+            </form>
+            <def>lamb late of weaning. “Tha uan fadalach aice.” (aig a’ chaoraich)</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e820">
+            <form>
+               <orth>caora càraid</orth>
+            </form>
+            <def>sheep with twins.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e829">
+            <form>
+               <orth>[caora-uain]</orth>
+            </form>
+            <def>a breeding sheep – chan eil ainm àrraid ’s am bith againn ach dìreadh caora-uain, cho fada ’s a chuimhnicheas mise.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e838">
+            <form>
+               <orth>peata</orth>
+            </form>
+            <def>pet ewe or hogg.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e847">
+            <form>
+               <orth>ciora</orth>
+            </form>
+            <def>pet ewe or hogg. (smait)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e855"
+             subtype="h1">6. Feeding and grazing</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola66">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Tha eagal orm nach eil móran agam mu na cinn-sa, agus gu bheil ainmeannan a bha ann agus a chuala mi air chall aig mo chuimhne.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e869">
+            <form>
+               <orth>an làmh rithe</orth>
+            </form>
+            <def>handfeeding. B’e seo a bhith toirt cuideachadh do an bheathach le biathachadh a muigh a thuilleadh air na bha i-fhéin a’ cosnadh.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e877"
+             subtype="h2">Vessels used for feeding:</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e882">
+            <form>
+               <orth>bucas oisgean</orth>
+            </form>
+            <def>bucas nach biodh ro mhór – ceithir-oisinneach no na b’ fhaide na sin airson siol agus gnothaichean mar sin a thoirt dhaibh.
+        <graphic url="GlasgowMMacLeodsheepillust1.jpg" width="200px"/>
+            </def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e892"
+             subtype="h2">Names for different amounts of hay:</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e897">
+            <form>
+               <orth>cuid nan òisgean</orth>
+            </form>
+            <def>“A’ deanamh cùid nan òisgean” – ag ullachadh ’s a cur a mach an cuid do na h-oisgean.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e906">
+            <form>
+               <orth>bad</orth>
+            </form>
+            <def>bad coirce.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e915">
+            <form>
+               <orth>gibeag</orth>
+            </form>
+            <def>na h-uibhir de dh’fheur ’ga chrochadh dhaibh, na dhà-sa shuas, ann an sreing.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola67">
+            <form>
+               <orth>[frasach]</orth>
+            </form>
+            <def>(Bhiodh feadhainn a bhiodh frasach aca dhaibh.)</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola68">
+            <form>
+               <orth>[coirce agus feur]</orth>
+            </form>
+            <def>(’Se coirce agus feur a bhiodh sinne a’ toirt do chaoraich.)</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola69">
+            <form>
+               <orth>[lobhta]</orth>
+            </form>
+            <def>Means of tying hay, corn, etc. for feeding: sreang crochte ris an lobhta no ris a’ bhalla agus clach fhreagarrach slaoda rithe ’ga cumail stòlda ’na h-àite. Lobhta – an t-sreang a’ deanamh snaim ann an seo. Am bad no a’ ghibeag fheòir am broinn na sreinge agus na creutaran a’ draghadh cho math ’s a dheadh aca air. Bhiodh a’ chlach dìreach aig bonn na lùibe de’n t-sreing, aig àirde fhreagarrach do na beathaichean. <graphic url="GlasgowMMacLeodsheepillust2.jpg" width="400px"/>
+            </def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e951"
+             subtype="h2">Watering indoors and outdoors</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola70">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Chan eil ainm àrraid ’s am bith air lorg agam airson seo.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e964"
+             subtype="h2">Vessels used</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e969">
+            <form>
+               <orth>mias no pòbhla</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e974"
+             subtype="h2">Grazing of sheep</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola71">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Tha eagal orm gu bheil ainm no dhà, no barrachd, air chall orm mu’ an seo.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e987"
+             subtype="h2">Term used for the regular ‘beat’ of a sheep on the moor</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e992">
+            <form>
+               <orth>[gabhail]</orth>
+            </form>
+            <def>Mur a h-e ‘gabhail’. “Sin far am bheil i ag gabhail.” – regular ‘beat’ mar a th’ agaibh. Feuchaibh na cinn-sa ri Alasdair mo bhràthair. “Tha i a’ gabhail shuas mu Eileartan.” “Sin far am bheil i a’ geamhrachadh.” (agus mar sin)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1000"
+             subtype="h1">7. Handling of sheep</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1005">
+            <form>
+               <orth>[gan cur a mach]</orth>
+            </form>
+            <def>driving them to their grazing  Cha chreid mi gu bheil ainm suidhichte ’sam bith againn airson seo. Ach dìreach “gan cur a mach”.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1014">
+            <form>
+               <orth>’g an trusadh</orth>
+            </form>
+            <def>taking them home.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1023">
+            <form>
+               <orth>’g an cur ’s an fhaing</orth>
+            </form>
+            <def>enclosing them in a fank (’g an cur ann am faingean).</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1032">
+            <form>
+               <orth>a’ fangadh</orth>
+            </form>
+            <def>enclosing them in a fank.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1041">
+            <form>
+               <orth>[’g an crodhadh]</orth>
+            </form>
+            <def>hemming them in.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1049"
+             subtype="h2">Names for various sizes of flocks or collections of sheep (if any)</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1054">
+            <form>
+               <orth>caora</orth>
+            </form>
+            <def>aon.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1063">
+            <form>
+               <orth>caoraich</orth>
+            </form>
+            <def>barrachd.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1072">
+            <form>
+               <orth>baidean</orth>
+            </form>
+            <def>na h-uibhir gun cus, gun móran.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1081">
+            <form>
+               <orth>dròbha</orth>
+            </form>
+            <def>grunn mór, mór.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1090">
+            <form>
+               <orth>treud</orth>
+            </form>
+            <def>a whole flock. “An treud uile” mar a chanadh Tormod.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1098"
+             subtype="h2">Commands given to a sheep-dog</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola72">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Thug mi seo seachad ann am pàipear eile, mar a bhios fhios agaibh.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1111"
+             subtype="h2">Names for the different fanks</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola73">
+            <form>
+               <orth>[faing]</orth>
+            </form>
+            <def>Cha bhiodh againne ach na dhà an cumantas: an fhaing mhór agus an fhaing-ghlacaidh. Ach aig na cìobairean bhiodh móran fhaingean: an fhaing-mhór, an fhaing-chaol ’s mar sin, faing airson a h-uile nì a dh’fheumadh iad.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1125">
+            <form>
+               <orth>a’ fangadh</orth>
+            </form>
+            <def>fanking.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1134">
+            <form>
+               <orth>[an fhaing-ghlacaidh]</orth>
+            </form>
+            <def>airson a bhith breith air na caoraich airson an diopadh (to be dipped).
+        <graphic url="GlasgowMMacLeodsheepillust3.jpg" width="400px"/>
+            </def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1145">
+            <form>
+               <orth>a’ rùsgadh</orth>
+            </form>
+            <def>shearing.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1154">
+            <form>
+               <orth>a’ diopadh</orth>
+            </form>
+            <def>dipping.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1162"
+             subtype="h2">Parts of a fank</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1167">
+            <form>
+               <orth>ceann shuas na faing(e)</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1173">
+            <form>
+               <orth>tòn na faing(e)</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1179">
+            <form>
+               <orth>ceann shìos na faing(e)</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1184"
+             subtype="h2">[blank]</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1189">
+            <form>
+               <orth>an t-amar</orth>
+            </form>
+            <def>dipping trough.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1198">
+            <form>
+               <orth>a’ diopadh</orth>
+            </form>
+            <def>dipping. (Fuaimnich dup’ (Beurla) + adh.)</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1207">
+            <form>
+               <orth>a’ comharrachadh</orth>
+            </form>
+            <def>ear-marking.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1216">
+            <form>
+               <orth>a’ deargadh</orth>
+            </form>
+            <def>marking eile. ’Se dearg a chanas sinn ri keel. ’Se ‘cil’, cha chreid mi, a chanadh na cìobairean.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1225">
+            <form>
+               <orth>a’ cur guirmein</orth>
+            </form>
+            <def>marking eile.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1234">
+            <form>
+               <orth>a’ spoth</orth>
+            </form>
+            <def>castrating.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1243">
+            <form>
+               <orth>ciora, ciorag</orth>
+            </form>
+            <def>call addressed to a lamb or sheep. “Trobhad, ciorag.” “Trobhad, ciora.”</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1251"
+             subtype="h1">8. Apparatus</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1256">
+            <form>
+               <orth>Tying indoors</orth>
+            </form>
+            <def>Dìreach ceangal cumanta: sreang mu an amhaich mar a bhiodh smeadhag air a’ bhoin. [NOTES: in the box there’s an envelope containing a piece of string showing ‘snàim na smeadhaig’. It is not clear what it was originally attached to but the handwriting is certainly Mr MacLeod’s.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1265">
+            <form>
+               <orth>Tying outdoors</orth>
+            </form>
+            <def>Ceangal. ’Se ‘ceangal’ a chanas sinn (‘ceangal an uain’). Air a’ cheangal an cumantas bhiodh dà ‘choirbhtheann’, tè bha an amhaich aig a’ bheathach agus an tè eile air meadhon a’ cheangail.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1274">
+            <form>
+               <orth>[coirbhtheann]</orth>
+            </form>
+            <def>Am facal-sa, coirbhtheann, no coirtheann (chan fhaca mi a riamh sgriobhte e), chan eil fhios ’am dé an litreachadh ceart air. Air a fhuaimneachadh tha e againne mar coire (kettle) + thann, coire’thann. Coirbhthann no coir(bh)thann no coireathann, tuigidh sibh fhein, tha mi glé chinnteach, mar tha a’ chùis. (Feuchaibh Ruairidh, smaite gu’m bi an aon nì aige-san ’s a tha agam fhìn bho’n taobh an iar.) Coirbhthann: Pìos fiodha mar ’s an dealbh: mu 3 oirlich air fad, mu ½ òirleach no mar sin air thiuighead. Coirbhthann bho’n amhaich: 3 tuill innte. Coirbhthann ’s a’ cheangal: 2 tholl innte.
+        <graphic url="GlasgowMMacLeodsheepillust4.jpg" width="200px"/>
+               <graphic url="GlasgowMMacLeodsheepillust5.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1287">
+            <form>
+               <orth>Tying while shearing</orth>
+            </form>
+            <def>A’ ceangal nan casan aca ’san aon chnap, mar seo. ’Se ‘lùbach’ a chanas sinn ri sreang a’ cheangail. “Am bheil lùbach agad?”
+        <graphic url="GlasgowMMacLeodsheepillust6.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1298">
+            <form>
+               <orth>bacan</orth>
+            </form>
+            <def>tether stake.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1307">
+            <form>
+               <orth>swivel</orth>
+            </form>
+            <def>an t-ainm Beurla a th’againn airson seo.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1316">
+            <form>
+               <orth>lùbach</orth>
+            </form>
+            <def>band for tying legs while shearing, mar a th’ agad an seo shuas.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1325">
+            <form>
+               <orth>spearrach</orth>
+            </form>
+            <def>fetters. Bha seo (chan eil e dol an diugh idir cho fada ’s is aithne dhomh) air a chur eadar cas-chinn agus cas-dheiridh, mar seo:
+        <graphic url="GlasgowMMacLeodsheepillust7.jpg" width="400px"/>
+            </def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1336">
+            <form>
+               <orth>lùthag</orth>
+            </form>
+            <def>B’e seo ceangal teann air a chur anns an iosgaid air an ainmhidh. Mar seo. A dhà no trì uairean a riamh a chunna mi cail de’n t-seòrsa ri spearrach agus lùthag. ’Sann airson nach leumadh iad gàraidhean, ’s mar sin, a tighinn do’n arbhar, a bha e.
+        <graphic url="GlasgowMMacLeodsheepillust8.jpg" width="200px"/>
+            </def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1346"
+             subtype="h1">9. Diseases</ab>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1350"
+             subtype="h2">Diseases of the skin affecting the wool</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola74">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Chan eil lorg agam air nì.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1363"
+             subtype="h2">Warts, swellings, spots</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola75">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Chan eil airson seo, a bharrachd.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1377">
+            <form>
+               <orth>gartanan, na gartanan</orth>
+            </form>
+            <def>ticks found in wool.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1386">
+            <form>
+               <orth>na cnuimhean, cnuimhean</orth>
+            </form>
+            <def>worms in the skin.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1394"
+             subtype="h2">Diseases of the head</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1399">
+            <form>
+               <orth>ceanna-ghalair</orth>
+            </form>
+            <def>(Chan eil an t-ainm Beurla agam.) Bhiodh na cluasan aca a’ séid agus as déidh sin a’ seacadh. ’S ann air na h-uain a bhiodh seo a’ tighinn.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1407"
+             subtype="h2">Diseases of the eyes</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1412">
+            <form>
+               <orth>doille, an doille</orth>
+            </form>
+            <def>Air na caoirich mhóra a bhiodh seo a’ tighinn. Chan fhaca mi riamh air uan e. Bhiodh iad a’ pronnadh cailc agus ’ga chur fo na sùilean aca. Ri tìde dheadh iad am feabhas.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1420"
+             subtype="h2">Diseases of the mouth, neck and throat</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola76">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Chan aithne dhomh gu’m faca mi dad de’n t-seòrsa a riamh.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1433"
+             subtype="h2">Diseases of the bone structure</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola77">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Chan eil lorg agam air càil mu an seo.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1446"
+             subtype="h2">Disease affecting the hooves</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola78">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Chan fhaca mi dad de’n t-seòrsa a riamh cho fada ’s a tha cuimhne agam.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1459"
+             subtype="h2">Diseases of the internal organs:</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1464">
+            <form>
+               <orth>am pluc</orth>
+            </form>
+            <def>’s an adha co dhiu.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1473">
+            <form>
+               <orth>an spùt</orth>
+            </form>
+            <def>diarrhoea.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1481"
+             subtype="h2">Bhiodh na galairean a leanas a’ dol mar a b’aithne dhomsa</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1486">
+            <form>
+               <orth>am pluc</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1492">
+            <form>
+               <orth>an galair tiormachaidh</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1498">
+            <form>
+               <orth>am bracsaidh</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1504">
+            <form>
+               <orth>an teas-brailein</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1510">
+            <form>
+               <orth>an spùt</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola79">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Cha chuir mi iad seo air na h-ainmeannan ceart Beurla idir. (Feuch mo bhràthair, Alasdair Seòras, 13 Crabhlastadh, Sgire Uige, ann an Leòdhas.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1524"
+             subtype="h2">Seo ainmeannan Beurla air cuid de ghalairean nan caorach</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1529">
+            <form>
+               <orth>braxy</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1535">
+            <form>
+               <orth>struck</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1541">
+            <form>
+               <orth>lamb dysentery</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1547">
+            <form>
+               <orth>pulpy kidney</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1553">
+            <form>
+               <orth>tetanus</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1559">
+            <form>
+               <orth>looping ill</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola80">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>(Chan eil na h-ainmeannan Gàidhlig a tha dol agam orra seo idir.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1573"
+             subtype="h2">Disease affecting the udder and milk</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola81">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Chan eil lorg agam air dad mu an seo. Cha chreid mi gu’m faca mi càil ceàrr mu an seo a riamh.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1586"
+             subtype="h2">Injury of any kind:</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1591">
+            <form>
+               <orth>a’ dol as a losaid</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1597">
+            <form>
+               <orth>a’ briseadh coise</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1603">
+            <form>
+               <orth>a’ dol as a caol druim</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola82">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Agus mar sin.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1617"
+             subtype="h1">10. Parts of the body</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1622">
+            <form>
+               <orth>the head and neck (parts)</orth>
+            </form>
+            <def>Dìreach mar a chanas sibh mu chreutar sam bith de’n t-seòrsa.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1631">
+            <form>
+               <orth>fionnadh</orth>
+            </form>
+            <def>hair. Ach cho fad ’s is aithne dhomh cha chan sinn fionnadh uair sam bith ri nì timchioll air caora.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1640">
+            <form>
+               <orth>na slinneanan,  slinnean</orth>
+               <pron>[sg.]</pron>
+            </form>
+            <def>[sg.] shoulders.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1649">
+            <form>
+               <orth>an t-uchd, uchd</orth>
+            </form>
+            <def>breast.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1658">
+            <form>
+               <orth>casan cinn</orth>
+            </form>
+            <def>forelegs.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1667">
+            <form>
+               <orth>caol druim</orth>
+            </form>
+            <def>backbone.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1676">
+            <form>
+               <orth>an smior-cailleach</orth>
+            </form>
+            <def>spinal cord</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1685">
+            <form>
+               <orth>an ceathramh deiridh</orth>
+            </form>
+            <def>hindquarters. Canadh sinn seo aithghearr: “an crutha deiridh”.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1694">
+            <form>
+               <orth>[mullach na tòine]</orth>
+            </form>
+            <def>hips. Cha chreid mi gu’n cuala mi a riamh ‘cruachan’ air a chleachdadh mu ainmhidh. “Mullach na tòine” a chanas sinne ri ‘hips’ ’s mar sin aig caora no bò no ainmhidh de’n t-seòrsa. No ainmhidh sam bith, dh’fhaodainn a chantuinn.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1703">
+            <form>
+               <orth>bun an iorbaill</orth>
+            </form>
+            <def>rump.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1712">
+            <form>
+               <orth>casan deiridh,  casa deiridh</orth>
+               <pron>[sg.]</pron>
+            </form>
+            <def>[sg.] hindlegs.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1721">
+            <form>
+               <orth>iorball</orth>
+            </form>
+            <def>tail.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1730">
+            <form>
+               <orth>ùgh (ùgh)</orth>
+            </form>
+            <def>udder.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1739">
+            <form>
+               <orth>sinean</orth>
+            </form>
+            <def>teats.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1748">
+            <form>
+               <orth>fèith</orth>
+            </form>
+            <def>muscle.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1757">
+            <form>
+               <orth>tendon</orth>
+            </form>
+            <def>Chan eil nì agam airson seo (a mach bho na faclairean).</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1766">
+            <form>
+               <orth>ligament</orth>
+            </form>
+            <def>Chan eil lorg agam air nì againn airson seo.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1775">
+            <form>
+               <orth>[maothalan]</orth>
+            </form>
+            <def>cartilage. Cha chreid ni nach e seo ‘maothalan’ againne.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1784">
+            <form>
+               <orth>an cridhe, cridhe</orth>
+            </form>
+            <def>heart.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1793">
+            <form>
+               <orth>[cuisil]</orth>
+            </form>
+            <def>artery or vein. Cho fada ’s a tha cuimhne agam-sa, ’se an aon rud a th’againn airson na dhà: cuisil. (Chan e ‘cuisle’ a th’againne idir.) (Cuisil, fuaimnich e: cuisill.)</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1802">
+            <form>
+               <orth>fuil, an fhuil</orth>
+            </form>
+            <def>blood.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1811">
+            <form>
+               <orth>na sgamhanan</orth>
+            </form>
+            <def>lungs.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1820">
+            <form>
+               <orth>an sgòrnan</orth>
+            </form>
+            <def>trachea (windpipe).</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1829">
+            <form>
+               <orth>[ubhall an sgòrnain]</orth>
+            </form>
+            <def>larynx. Cha chreid mi nach eil ‘ubhall an sgòrnain’ againn a’ toirt leis seo.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1838">
+            <form>
+               <orth>an adha</orth>
+            </form>
+            <def>liver. Chan eil ‘grùthan’ againn uair sam bith. Chan eil e idir againn.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1847">
+            <form>
+               <orth>na dubhagan</orth>
+            </form>
+            <def>kidneys.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1856">
+            <form>
+               <orth>pancreas</orth>
+            </form>
+            <def>Cha chreid mi gu bheil càil againn airson seo. Mur a cuala mi uairegin ‘am brisgean adha’. Ach cha chanainn gur h-e am pancreas a bhiodh ann. Ach dh’fhaodadh gu robh barrachd air aon ‘bhrisgean’ aca. Co dhiu, tha mise a’ fàgail nam brisgeanan-sa, bho nach eil cinnteachd sam bith agam umpa.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1865">
+            <form>
+               <orth>an dubh-liath</orth>
+            </form>
+            <def>spleen.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1874">
+            <form>
+               <orth>staoig an amadain</orth>
+            </form>
+            <def>spleen.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1883">
+            <form>
+               <orth>domblas na h-adha</orth>
+            </form>
+            <def>gall bladder.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1892">
+            <form>
+               <orth>glands</orth>
+            </form>
+            <def>Chan eil lorg agam air nì bho’n taobh an iar idir airson seo.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1901">
+            <form>
+               <orth>aotraman</orth>
+            </form>
+            <def>bladder.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1910">
+            <form>
+               <orth>uisge</orth>
+            </form>
+            <def>urine. “An t-uisge aice.” (aig caora)</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1919">
+            <form>
+               <orth>mùn</orth>
+            </form>
+            <def>urine.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1928">
+            <form>
+               <orth>[it-igheach]</orth>
+            </form>
+            <def>gullet. Faic ‘de-tigheach’ (Dwelly), ‘detiach’, ‘deiteigheach’ (MacGhillfhinnein) agus ‘it-igheach’ (MacGhillfhinnein). ‘It-igheach’, ’se a th’againne, dìreach mar a th’aig MacGhillfhinnein.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1937">
+            <form>
+               <orth>caolanan</orth>
+            </form>
+            <def>intestines.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1946">
+            <form>
+               <orth>an t-snàil, an t-snàithle</orth>
+            </form>
+            <def>colon or lower bowel. ‘An t-snàil’ a chanas sinne.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1955">
+            <form>
+               <orth>geir na maodail</orth>
+            </form>
+            <def>abdominal fat. ‘Geir na maodail’ a chanas sinne. Cuideachd, ‘geir na muinne’.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1964">
+            <form>
+               <orth>[geir na muinne]</orth>
+               <pron>[abdominal fat.]</pron>
+            </form>
+            <def>[abdominal fat.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1973">
+            <form>
+               <orth>caolanan-gorma</orth>
+            </form>
+            <def>Tha againn ‘caolanan-gorma’. ’Se seo na caolanan beaga mar a tha ‘an t-snàil’ airson a’ chaolain mhóir. Anns a’ bhoin, ’se na caolanan-gorma de’m bheilear a’ deanamh nan lùban-dubha. Agus de an chaolan mhór thatar a’ deanamh nan ìsbeanan. Cho fada ’s a tha cuimhne agam-sa, cha chan sinn caolanan-gorma uair sam bith mu chaolanan na bà.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1982">
+            <form>
+               <orth>lùb-mhuinne</orth>
+            </form>
+            <def>Bhiodh iad a deanamh marag le na caolanan[-gorma na caorach]. ‘Lùb-mhuinne’ a chanadh iad ris. Bha iad a’ deanamh na maraig agus a’ suainigeadh nan caolanan uimpe. Bhiodh i a’ coimhead ann an cruth dìreach mar seo. Mu 6" air fad agus 4" air leud.
+        <graphic url="GlasgowMMacLeodsheepillust9.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1993">
+            <form>
+               <orth>muinne</orth>
+            </form>
+            <def>‘tallow tripe’ agus ‘stomach’ a th’aig na balaich anns na faclairean. Le na cantanasan [?] a th’againne bidh e coltach gur ann air na caolanan a tha ‘muinne’. “Geir mhath air a’ mhuinne aige.” “Lùb-mhuinne.” “Anns a’ mhuinne aige.” Agus mar sin.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2002">
+            <form>
+               <orth>lòineachan</orth>
+            </form>
+            <def>Faic lòinean Dwelly t-d. 596. 2. (D.M.K.) ‘The fat covering of the kidneys of beef or mutton (Caithness).’ Tha againne lòineachan. “Tha geir mhath air na lòineachan aige.” ’Se seo a’ gheir a tha ris an druim aige a’ bheathach. Nuair a tha an t-ainmhidh marbh agad air a’ dhruim, tha am muinne air uachdar agus na lòineachan gu h-ìosal, ’se sin ris an drùim.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2010"
+             subtype="h1">11. Lambing</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2015">
+            <form>
+               <orth>a’ breith</orth>
+            </form>
+            <def>lambing. A’ breith nan uan.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2024">
+            <form>
+               <orth>a’ cumail nan caorach còmhla ris an rùd</orth>
+            </form>
+            <def>sheep put to ram.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2033">
+            <form>
+               <orth>àm na reitheachd</orth>
+            </form>
+            <def>sheep put to ram.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola83">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Agus mar sin, a chanas sinn. (Faic an taobh-duilleig thairis.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2050"
+             subtype="h2">Terms associated with lambing</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2055">
+            <form>
+               <orth>bathar, am bathar</orth>
+            </form>
+            <def>placenta or afterbirth.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2064">
+            <form>
+               <orth>streabhainn, an t-sreabhainn</orth>
+            </form>
+            <def>covering on a lamb when born. (Air a fhuaimneachadh dìreach mar a tha e sgrìobhte.)</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2073">
+            <form>
+               <orth>na gleodhan</orth>
+            </form>
+            <def>covering on a lamb when born. Na glodhan. (‘Na gleodhan’ a chanas sinne.) “Uan anns na gleodhan.” Canadh sinn cuideachd “laogh anns na gleodhan.”</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2081"
+             subtype="h2">Terms used when sheep are put to ram</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2086">
+            <form>
+               <orth>reitheachd</orth>
+            </form>
+            <def>“Tha an reitheachd oirre.” (air a’ chaoraich) “Reithich an rùd i.” “Thug e leum-reitheachd dhi.”</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2095">
+            <form>
+               <orth>bréid</orth>
+            </form>
+            <def>“A’ cur bréid oirre” – air tearainneach, gus nach fhaigheadh an rùd air a reitheachd. Bréid mar an ceudna air uan-reith no rùd òg gus nach fhaigheadh e air reitheachd a dheanamh. Caora bho a cùlaobh. Bréid oirre (de phoca no de oighlisgean). Bréid air rùd (fo an mhionach).
+        <graphic url="GlasgowMMacLeodsheepillust10.jpg" width="300px"/>
+            </def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2106">
+            <form>
+               <orth>bréideadh</orth>
+            </form>
+            <def>a’ cur bhréid. “C’ait am bheil na balaich?” “Tha iad ri bréideadh.“</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2114"
+             subtype="h1">12. Miscellaneous</ab>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2119">
+            <form>
+               <orth>[earball stùbhach]</orth>
+            </form>
+            <def>short tail that remains after docking. Chan eil ainm suidhichte mar sin againn air a seo idir, ach tha againn ‘earball stùbhach’ airson earball air leth goirid agus a tha a’ coimhead mar sin. (‘Iorbull’ a chanas sinne, ’s ann a chanas sinn ‘earbull’ an còmhnuidh airson earbull rud – hem ’s mar sin.)</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2128">
+            <form>
+               <orth>[feusag]</orth>
+            </form>
+            <def>small tuft of hair under the chin of a ram. Chan eil ainm suidhichte mar sin againn airson a leithid seo ach chanadh sinn ‘feusag’ airson rud de’n t-seòrsa.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2137">
+            <form>
+               <orth>caora, no caoirich, chlaimheach</orth>
+            </form>
+            <def>scabby sheep.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2146">
+            <form>
+               <orth>sheep losing their wool</orth>
+            </form>
+            <def>Chan eil ainm àrraid sam bith againn airson a leithid seo.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

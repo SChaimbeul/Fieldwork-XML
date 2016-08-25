@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Eilean Thiriodh, Bail’ a’ Phuill [Tiree, Balephuil]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[Alan Boyd]</persName>
+            </person>
+            <person role="informant">
+               <persName>David MacClounnan</persName>
+               <persName xml:lang="gd">Daibhidh MacClounan </persName>
+               <age>65</age>
+               <birth>
+                  <placeName>Tiriodh [Tiree] (Rugadh Daibhidh ann an Glaschu ach chaidh a thogail ann an Tiriodh bho’n a bha e trì bliadhn’ a dh’aois.)</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Lobster-Fishing</term>
+               <term xml:lang="gd">Iasgach a’ Ghiomaich</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e31"
+             subtype="h1">The Lobster</ab>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e36">
+            <form>
+               <orth>spògan</orth>
+            </form>
+            <def>claws.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e45">
+            <form>
+               <orth>“feelar”</orth>
+            </form>
+            <def>feelers.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e54">
+            <form>
+               <orth>ceann</orth>
+            </form>
+            <def>head.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e63">
+            <form>
+               <orth>giùrain</orth>
+            </form>
+            <def>gills.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e72">
+            <form>
+               <orth>urball (m)</orth>
+            </form>
+            <def>tail.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e81">
+            <form>
+               <orth>sgiathan beag air fodha</orth>
+            </form>
+            <def>“swimmers” on underside.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e90">
+            <form>
+               <orth>màthair a’ mhaoraich</orth>
+            </form>
+            <def>encrustations on back.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e99">
+            <form>
+               <orth>na h-uighean</orth>
+            </form>
+            <def>eggs.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e108">
+            <form>
+               <orth>plaosg (m)</orth>
+            </form>
+            <def>shell-cast.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e117">
+            <form>
+               <orth>cailleach (?) (dh?)</orth>
+            </form>
+            <def>lobster with claw missing.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e126">
+            <form>
+               <orth>faiche (f)</orth>
+            </form>
+            <def>lobster’s home. Toll anns na creagan. Ma tha i mosach, chan fhàg e ’fhaiche.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e134"
+             subtype="h1">The Creel</ab>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e139">
+            <form>
+               <orth>cliabh (m)</orth>
+            </form>
+            <def>creel.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e148">
+            <form>
+               <orth>a’ deanamh cleibh</orth>
+            </form>
+            <def>making a creel.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e157">
+            <form>
+               <orth>an t-ùrlar</orth>
+            </form>
+            <def>the base.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e166">
+            <form>
+               <orth>boghachan (m)</orth>
+            </form>
+            <def>rods, before and after bending and fitting to base.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e175">
+            <form>
+               <orth>biorach</orth>
+            </form>
+            <def>sharpened ends of rods. Bha mi deanamh biorach. Bha mi biorachadh a’ bhogha.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e184">
+            <form>
+               <orth>a’ cur air a’ lìn</orth>
+            </form>
+            <def>netting a creel.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e193">
+            <form>
+               <orth>broilleach (m)</orth>
+            </form>
+            <def>the eye.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e202">
+            <form>
+               <orth>an t-sùil</orth>
+            </form>
+            <def>the hoop.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e211">
+            <form>
+               <orth>clach</orth>
+            </form>
+            <def>weight. Clach air a gleidheadh ris an ùrlar le sreang.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e220">
+            <form>
+               <orth>biadhadair (m)</orth>
+            </form>
+            <def>bait-holder. (More like ‘biathadair’.)</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e229">
+            <form>
+               <orth>ròp a’ bhràth</orth>
+            </form>
+            <def>rope.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e238">
+            <form>
+               <orth>bràth (m), brathachan (pl)</orth>
+            </form>
+            <def>floats. Made of cork. <graphic url="TireeBalephuilDMacClounnanlobsterillust1.jpg" width="200px"/> Rigged on the ‘ròp a’ bhràth’ [q.v.] in a chain.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e249">
+            <form>
+               <orth>cealadair (m)</orth>
+            </form>
+            <def>place for opening, door (for admitting hand).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e258">
+            <form>
+               <orth>“fleet”</orth>
+            </form>
+            <def>fleet of creels, when attached to a single line. Tha iad a-mach ’na “fleetichean”.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e267">
+            <form>
+               <orth>buta (m), butachan (pl)</orth>
+            </form>
+            <def>modern plastic orange buoys.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e275"
+             subtype="h1">Fishing, kinds of bait used</ab>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e280">
+            <form>
+               <orth>’ga thilgeil a-mach</orth>
+            </form>
+            <def>shooting a creel.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e289">
+            <form>
+               <orth>’ga tharraing a-staigh</orth>
+            </form>
+            <def>hauling a creel.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e298">
+            <form>
+               <orth>biadh</orth>
+            </form>
+            <def>bait.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e307">
+            <form>
+               <orth>runnaich</orth>
+            </form>
+            <def>Tiree for mackerel. ’Se runnaich as motha a tha iad ag uisneachadh.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e315"
+             subtype="h2">Cleaning a creel</ab>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e320">
+            <form>
+               <orth>’ga ghlanadh a-mach</orth>
+            </form>
+            <def>cleaning a creel.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e329">
+            <form>
+               <orth>’ga chartadh a-mach</orth>
+            </form>
+            <def>cleaning a creel.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e337"
+             subtype="h2">Other terms</ab>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e342">
+            <form>
+               <orth>meanachaladh</orth>
+            </form>
+            <def>gravelly, peebley [sic] [pebbly?] ground. An t-àit’ a’s fhèarr airson am faotainn. Dh’fhaodadh grunnd creagach a bhi a cheart cho math.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e351">
+            <form>
+               <orth>“poll bàn”</orth>
+            </form>
+            <def>far a bheil a’ ghainmheach na’s fhaisge air tìr a’ mheanachaladh [q.v.].</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e360">
+            <form>
+               <orth>a’ fiachainn grunnd ùr</orth>
+            </form>
+            <def>testing of new ground.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e369">
+            <form>
+               <orth>[toinneamh]</orth>
+            </form>
+            <def>Tha an toinneamh air folbh [sic] as a’ ropa. – fraying or frayed rope.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBalephuilDMacClounnanlobster-d0e378">
+            <form>
+               <orth>[froiseadh]</orth>
+            </form>
+            <def>Tha an ropa a’ froiseadh. – fraying or frayed rope.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

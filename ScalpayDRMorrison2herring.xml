@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="DRMorrison_ScalpayDRMorrison2herring">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the questionnaire gives definitions and expects the informant to provide the appropriate words and phrases, therefore in this file, in most cases the definitions as they appear in the questionnaire have been copied together with the word or phrase that Mr Morrison entered next to them.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[?]</date>
+            <location>
+               <placeName>[Harris], Scalpay</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName/>
+               <age>[?]</age>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Herring-Fishing</term>
+               <term xml:lang="gd">Iasgach an Sgadain</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2herring-d0e31"
+             subtype="h1">1. Fish location by natural means</ab>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2herring-d0e35"
+             subtype="h2">1.1. Listening</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp116391664">
+            <form>
+               <orth>frasadh</orth>
+            </form>
+            <def>the jump of an individual herring.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp116393176">
+            <form>
+               <orth>cliucheadh  fiataidh</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] a herring or other fish’s breaking the surface, a much less distinct sound.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp116394688">
+            <form>
+               <orth>na chnapan dearga</orth>
+            </form>
+            <def>means it [i.e. herring] being thickly congregated on the point of breaking into playful practice or movement – reference ‘an t-uamhas dhe cliucheadh [sic]’.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp116396200">
+            <form>
+               <orth>goil</orth>
+            </form>
+            <def>the activity of herring, en masse, on the surface. [?]</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp116397712">
+            <form>
+               <orth>[sgaothbhag (sic)]</orth>
+               <pron>[a small shoal?]</pron>
+            </form>
+            <def>[a small shoal?] Caoirnean ag cliuchadh [sic] or sgaothbhag. [NOTES: not clear what is meant here – is ‘sgaothbhag’ meant to be a synonym of ‘caoirnean’? See ‘sgaothag thana’ on the following page meaning ‘a thin shoal’.]</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp116399512">
+            <form>
+               <orth>caoirnean</orth>
+            </form>
+            <def>a small shoal of herring. Caoirnean ag cliuchadh [sic] – a small shoal of herring playing.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp116401168">
+            <form>
+               <orth>mar a gabhadh</orth>
+            </form>
+            <def>a heavy play of herring or mackerel.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idola274">
+            <form>
+               <orth>[sounds of other kinds of fish]</orth>
+            </form>
+            <def>The sounds of other kinds of fish, either breaking the surface individually or playing in shoals: a’ leum, sìnteagan, cliucheadh [sic] am bàrr (am bàrr na mara), a’ cliucheadh [sic] mar abhainn.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2herring-d0e111"
+             subtype="h2">1.2. Losgadh / the burning</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp116404624">
+            <form>
+               <orth>[losgadh]</orth>
+            </form>
+            <def>phosphorescence in the sea. Tha e losgadh roimh sròin (of boat). Chì mi a’ losgadh e.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp116406424">
+            <form>
+               <orth>[steall]</orth>
+            </form>
+            <def>E falbh na steall.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp116407936">
+            <form>
+               <orth>solus</orth>
+            </form>
+            <def>the first sparks of ‘burning’, in early evening. Tha solus a’ tighinn dha’n mhuir.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp116409592">
+            <form>
+               <orth>sgadan losgaidh</orth>
+            </form>
+            <def>individual herring seen in the ‘burning’.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp116411104">
+            <form>
+               <orth>sgaothag thana</orth>
+            </form>
+            <def>a thin shoal seen in the burning.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp116412616">
+            <form>
+               <orth>cruinn ann dhe</orth>
+            </form>
+            <def>a large shoal seen in the burning.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp116414128">
+            <form>
+               <orth>[steall]</orth>
+            </form>
+            <def>Bhuail sinn pliu’ an acair air a bial, ’s chitheadh tu e a’ falbh na steall anns a cholbh-bianain. – the striking of anchor on boat’s rail, forward at the bow, to cause herring to ‘show’ in the phosphorescence.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2herring-d0e178"
+             subtype="h2">1.3. Herring-feeding</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp115117792">
+            <form>
+               <orth>sul dearg</orth>
+            </form>
+            <def>red plankton.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp115121392">
+            <form>
+               <orth>tighinn beò air an t-sul</orth>
+            </form>
+            <def>black feeding.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2herring-d0e200"
+             subtype="h2">1.4. The gannet / emhsan</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp115125568">
+            <form>
+               <orth>a’ bualadh</orth>
+            </form>
+            <def>the high vertical plummet of gannet working on herring.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp115130176">
+            <form>
+               <orth>a sriuchdadh</orth>
+            </form>
+            <def>the skimming dive of a gannet, perhaps on mackerel or fry on the surface.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163518168">
+            <form>
+               <orth>a’ feitheamh ri bualadh</orth>
+            </form>
+            <def>a gannet’s circling hesitantly.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163519680">
+            <form>
+               <orth>ag sgiathalaich</orth>
+            </form>
+            <def>a gannet’s circling hesitantly.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2herring-d0e240"
+             subtype="h2">1.5. Miscellaneous</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163522056">
+            <form>
+               <orth>fàileadh an éisg</orth>
+            </form>
+            <def>smell of herring.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163523568">
+            <form>
+               <orth>lìth</orth>
+            </form>
+            <def>oil of herring on surface.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163525080">
+            <form>
+               <orth>liam</orth>
+            </form>
+            <def>oil of herring on surface.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163526592">
+            <form>
+               <orth>batal</orth>
+            </form>
+            <def>cluster of feeding gulls or other sea-birds.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163528104">
+            <form>
+               <orth>[cuir-an-àird]</orth>
+            </form>
+            <def>An anail aige cuir-an-àird (term) – patches of bubbles on surface of sea, caused by expulsion of air from the swim-bladders of herring rising.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163529616">
+            <form>
+               <orth>cnap</orth>
+            </form>
+            <def>general term of reference for a shoal of herring. ‘Cnap’ was used on Scalpay. Not heard of ‘sùil’ so far on Scalpay.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163531272">
+            <form>
+               <orth>sgadan caoich</orth>
+            </form>
+            <def>now here, now there, herring.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163532784">
+            <form>
+               <orth>[barrail]</orth>
+            </form>
+            <def>Bheir sinn ar barrail as. – a piece of the end of a ring net shot, in weather conditions unsuited to listening or looking for herring in the water, with the hope of a few herrings mashing and so encouraging the fishermen to ‘chance’ a ring.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163534296">
+            <form>
+               <orth>[tur]</orth>
+            </form>
+            <def>Nach e tha tur. – for a ring made without any sign of herring whatever.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163535808">
+            <form>
+               <orth>[botha]</orth>
+            </form>
+            <def>Cnap (sgadain) mar botha – similar to a submerged seaweed covered rock.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163537320">
+            <form>
+               <orth>[duslach]</orth>
+            </form>
+            <def>Mar an duslach – a shoal of herring showing black in daylight or at evening.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2herring-d0e343"
+             subtype="h1">2. The ring-net</ab>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2herring-d0e347"
+             subtype="h2">2.1. Its construction</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163540560">
+            <form>
+               <orth>lion-cruinn</orth>
+            </form>
+            <def>ring-net.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163542072">
+            <form>
+               <orth>ball-cùil</orth>
+            </form>
+            <def>the back rope.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163543584">
+            <form>
+               <orth>ball-iochdair</orth>
+            </form>
+            <def>the sole-rope.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163545096">
+            <form>
+               <orth>sgiathan</orth>
+            </form>
+            <def>the wings of the net.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163546608">
+            <form>
+               <orth>guaillean</orth>
+            </form>
+            <def>the shoulders of the net.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163548120">
+            <form>
+               <orth>boca</orth>
+            </form>
+            <def>the bags of the net, upper and lower.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163549632">
+            <form>
+               <orth>beartachadh</orth>
+            </form>
+            <def>row of heavy-ply netting, attached along the entire length of the net, top and bottom.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163551144">
+            <form>
+               <orth>àrcannan</orth>
+            </form>
+            <def>the corks.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163552656">
+            <form>
+               <orth>luaitheadh</orth>
+            </form>
+            <def>the lead rings.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163554168">
+            <form>
+               <orth>butaichean</orth>
+            </form>
+            <def>the buoys.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163555680">
+            <form>
+               <orth>beartachadh</orth>
+            </form>
+            <def>the joins of the pieces, e.g. between wing and shoulder netting.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163557192">
+            <form>
+               <orth>cluais</orth>
+            </form>
+            <def>the ends or gables of the ring-net.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163558704">
+            <form>
+               <orth>buill-slaodaidh</orth>
+            </form>
+            <def>the bridle ropes at the end of the net.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163560216">
+            <form>
+               <orth>ball-tobhaidh</orth>
+            </form>
+            <def>the rope – generally termed sweepline – attached to bridle-rope, for towing and closing the net.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2herring-d0e477"
+             subtype="h2">2.2. Setting up and mending a ring-net</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163562592">
+            <form>
+               <orth>alt</orth>
+            </form>
+            <def>setting up and mending a ring-net. [?]</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163564104">
+            <form>
+               <orth>snathadan-lion</orth>
+            </form>
+            <def>netting needle.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163565616">
+            <form>
+               <orth>teanga na snathaide</orth>
+            </form>
+            <def>tongue of needle.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163567128">
+            <form>
+               <orth>sùil</orth>
+            </form>
+            <def>eye or hole of needle.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163568640">
+            <form>
+               <orth>cóm</orth>
+            </form>
+            <def>eag far bi snàth ’na cois.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163570152">
+            <form>
+               <orth>gob</orth>
+            </form>
+            <def>point of needle.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163571664">
+            <form>
+               <orth>[snàth]</orth>
+            </form>
+            <def>Net twine, both tarred and untarred: snàth lion, snàth còcrach, snàth geal, snàth tearraidh. Setting-up twine – different types, thicknesses for sole and back ropes respectively: snàth foighn, snàth garbh, snàth caol, snàth aotram, snàth dùbailt.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163574616">
+            <form>
+               <orth>sgian-càraidh</orth>
+            </form>
+            <def>mending knife.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163576128">
+            <form>
+               <orth>clach-liathra</orth>
+            </form>
+            <def>sharpening-stone.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163577640">
+            <form>
+               <orth>clach ghiarachaidh</orth>
+            </form>
+            <def>sharpening stone.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163579152">
+            <form>
+               <orth>bocsa-snàth</orth>
+            </form>
+            <def>‘twine-box’, in which were kept needles, hanks of twine, etc.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163580664">
+            <form>
+               <orth>bocsa-shnàthadan</orth>
+            </form>
+            <def>‘twine-box’, in which were kept needles, hanks of twine, etc.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp163582176">
+            <form>
+               <orth>beartachadh</orth>
+            </form>
+            <def>the ‘setting up’ of a net to ropes.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160543584">
+            <form>
+               <orth>beartachadh</orth>
+            </form>
+            <def>the measurement between points of knotting to back-rope.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160545168">
+            <form>
+               <orth>snaimnanan</orth>
+            </form>
+            <def>knots.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160546680">
+            <form>
+               <orth>slat-tomhais</orth>
+            </form>
+            <def>the measuring stick or other device used when setting up.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160548264">
+            <form>
+               <orth>togail</orth>
+            </form>
+            <def>the hanging part of twine and netting – in Eng. drop – once set up.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160549776">
+            <form>
+               <orth>cruinneachadh</orth>
+            </form>
+            <def>the gathering of netting to create bag effect.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160551288">
+            <form>
+               <orth>mogal dùbailte</orth>
+            </form>
+            <def>selvedge or double-meshed edge, for strengthening purposes.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160552872">
+            <form>
+               <orth>alt</orth>
+            </form>
+            <def>‘fair’ netting, that is the meshes stretched in their ‘natural’ diamond-shaped form.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160554384">
+            <form>
+               <orth>far-alt</orth>
+            </form>
+            <def>netting stretched or lying ‘across the mesh’, that is lying the opposite way, and so, difficult to mend accurately.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160555896">
+            <form>
+               <orth>thogail air alt</orth>
+            </form>
+            <def>‘hanging’ a net to mend it.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160557408">
+            <form>
+               <orth>càradh</orth>
+            </form>
+            <def>mending.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160558920">
+            <form>
+               <orth>cliuchdair</orth>
+            </form>
+            <def>a net-mender.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160560432">
+            <form>
+               <orth>stracadh</orth>
+            </form>
+            <def>a long split in a net.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160561944">
+            <form>
+               <orth>[ceangail]</orth>
+            </form>
+            <def>Ceangail ri chéile – a meanbh bhristeadh (etc.). The running along a split to search for and ‘catch’ together broken meshes which correspond, so enabling as many fishermen as possible to start mending on a single tear, and so hasten completion of the task.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160563600">
+            <form>
+               <orth>gearradh</orth>
+            </form>
+            <def>cutting the surround of a hole ‘on the leg’, that is at an angle, when shaping netting for repair, so reducing wastage.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160565112">
+            <form>
+               <orth>iomrall</orth>
+            </form>
+            <def>a five-legged mesh knitted in error; a three-legged mesh knitted in error.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160566624">
+            <form>
+               <orth>gròbadh</orth>
+            </form>
+            <def>lacing together a split quickly, to enable fishing to continue.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2herring-d0e742"
+             subtype="h2">2.3. The buoy</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160569072">
+            <form>
+               <orth>amhaich</orth>
+            </form>
+            <def>the stock of buoy.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160570584">
+            <form>
+               <orth>mullach</orth>
+            </form>
+            <def>the stock of buoy.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160572096">
+            <form>
+               <orth>bung</orth>
+            </form>
+            <def>the plug of buoy.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160573608">
+            <form>
+               <orth>claigeann</orth>
+            </form>
+            <def>the top of buoy.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160575120">
+            <form>
+               <orth>ball-a-phuta</orth>
+            </form>
+            <def>the string by which buoy is attached to back-rope.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160576632">
+            <form>
+               <orth>toll-a’ phuta</orth>
+            </form>
+            <def>the hole in stock through which string is laced.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2herring-d0e800"
+             subtype="h1">3. Fishing</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160579008">
+            <form>
+               <orth>a’ cur</orth>
+            </form>
+            <def>the shooting of the net.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160580520">
+            <form>
+               <orth>tobhadh</orth>
+            </form>
+            <def>the towing of the net.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160582032">
+            <form>
+               <orth>dùnadh</orth>
+            </form>
+            <def>‘closing the boats’, the neighbour-boats’ meeting one another having made ring of the net.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160583544">
+            <form>
+               <orth>dol fodha</orth>
+            </form>
+            <def>a bend on end of net, calculated to bear down, on the tidal current, upon a shoal.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160585056">
+            <form>
+               <orth>slaodadh</orth>
+            </form>
+            <def>hauling net.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160586568">
+            <form>
+               <orth>maiseadh</orth>
+            </form>
+            <def>a meshing of herring.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160588080">
+            <form>
+               <orth>crathadh</orth>
+            </form>
+            <def>the shaking of meshed herring clear.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160589592">
+            <form>
+               <orth>moglachadh</orth>
+            </form>
+            <def>an entangled fish.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160591104">
+            <form>
+               <orth>sàs</orth>
+            </form>
+            <def>a net ‘fast’ on seabed.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160592616">
+            <form>
+               <orth>stracadh</orth>
+            </form>
+            <def>a net tearing.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160594128">
+            <form>
+               <orth>[sàs]</orth>
+            </form>
+            <def>Sàs ’s a’ stracadh bharr nam ball neo ròpan. – netting, ‘fast’, and ‘stripping’ from the ropes.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160595640">
+            <form>
+               <orth>còmhnard</orth>
+            </form>
+            <def>when the walls of netting flew into the middle of the ring due to incorrect judgment of the set of tide, or to cross-tides.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160597152">
+            <form>
+               <orth>[taobh]</orth>
+            </form>
+            <def>cuideachd, ri taobh a chéile – the neighbouring boats lying together to discharge herring from bag of net.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160598664">
+            <form>
+               <orth>cumail o chéile</orth>
+            </form>
+            <def>fending off with poles or oars.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160600176">
+            <form>
+               <orth>tàbh-taomaidh</orth>
+            </form>
+            <def>the basket for discharging herring from the net.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160601688">
+            <form>
+               <orth>stopairean</orth>
+            </form>
+            <def>the ropes used for lashing bag to boat’s side prior to discharging herring.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160603200">
+            <form>
+               <orth>toinneamh</orth>
+            </form>
+            <def>a net rolled up about the sole, through having been snagged by shells, coral, etc.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160604712">
+            <form>
+               <orth>laidhigeadh</orth>
+            </form>
+            <def>the hauling of net aft in preparation for re-shooting.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp160606224">
+            <form>
+               <orth>tiormachadh-an-àird</orth>
+            </form>
+            <def>the ‘drying up’ of herring in bag.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2herring-d0e975"
+             subtype="h2">3.1. Additional equipment</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119423104">
+            <form>
+               <orth>fandairean</orth>
+            </form>
+            <def>fenders, whether of rope, rope-and-nets, or rubber tyres.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119424688">
+            <form>
+               <orth>boillsgeadair</orth>
+            </form>
+            <def>light on end of ring-net.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119426200">
+            <form>
+               <orth>cromag</orth>
+            </form>
+            <def>special boat-hook for lifting end of ring-net.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119427712">
+            <form>
+               <orth>caismeachd-soluis</orth>
+            </form>
+            <def>torch, paraffin-fuelled and lit as soon as bag of net was closed, and for summoning herring-buying steamers.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119429224">
+            <form>
+               <orth>luaitheadh</orth>
+            </form>
+            <def>the ‘feeling-wire’.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119430736">
+            <form>
+               <orth>ball-slaodaidh</orth>
+            </form>
+            <def>tow-rope, which linked neighbouring boats when lifting net.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119432320">
+            <form>
+               <orth>solus-rannsachaidh</orth>
+            </form>
+            <def>search-light.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119433832">
+            <form>
+               <orth>sluaisead</orth>
+            </form>
+            <def>herring-scoop.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119435344">
+            <form>
+               <orth>sgiùleachan</orth>
+               <pron>[unclear – could be sgùileachan?]</pron>
+            </form>
+            <def>[unclear – could be sgùileachan?] shallow ‘spill-baskets’ which preceded the adoption of metal scoops.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119436856">
+            <form>
+               <orth>bùird-an-tuill</orth>
+            </form>
+            <def>dividing boards in skiffs’ holds, for distributing catch.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119438440">
+            <form>
+               <orth>soluis-taoibh</orth>
+            </form>
+            <def>outboard light on wheelhouse.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119439952">
+            <form>
+               <orth>solus-a-chroinn-mhoir</orth>
+            </form>
+            <def>mast-head light.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119441464">
+            <form>
+               <orth>solus-na-uinch</orth>
+            </form>
+            <def>winch-light.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119442976">
+            <form>
+               <orth>solus-cur</orth>
+            </form>
+            <def>‘shooting-light’.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119444488">
+            <form>
+               <orth>tuil-sholuis</orth>
+            </form>
+            <def>for buying-steamers.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2herring-d0e1114"
+             subtype="h1">4. Drying and barking of nets</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119446864">
+            <form>
+               <orth>slìm</orth>
+            </form>
+            <def>herring slime.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119448376">
+            <form>
+               <orth>tiormachadh</orth>
+            </form>
+            <def>drying net.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119449888">
+            <form>
+               <orth>polaichean-tiomachaidh</orth>
+            </form>
+            <def>net-hanging poles.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119451400">
+            <form>
+               <orth>tigh-cairteach</orth>
+            </form>
+            <def>bark-house.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119452912">
+            <form>
+               <orth>cairt-blogaidh</orth>
+            </form>
+            <def>bark, as originally used.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119454424">
+            <form>
+               <orth>cairt-cheannachd</orth>
+            </form>
+            <def>the later imported substance [i.e. bark].</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119455936">
+            <form>
+               <orth>tuba-cairteach</orth>
+            </form>
+            <def>barking boiler and tub.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119457448">
+            <form>
+               <orth>taomain</orth>
+            </form>
+            <def>baling buckets.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119458960">
+            <form>
+               <orth>lion suas is sios</orth>
+            </form>
+            <def>a long ‘steep’ in catch solution.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119460472">
+            <form>
+               <orth>slaodadh-cabhagach</orth>
+            </form>
+            <def>a quick ‘pull through’ of the net.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2herring-d0e1208"
+             subtype="h1">5. Herring</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119462848">
+            <form>
+               <orth>i làn</orth>
+            </form>
+            <def>a good or extremely good catch of herring.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119464360">
+            <form>
+               <orth>beagan</orth>
+            </form>
+            <def>a poor catch of herring.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119465872">
+            <form>
+               <orth>druaip</orth>
+            </form>
+            <def>a catch of rubbishy, unmarketable fish.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119467384">
+            <form>
+               <orth>sgadan-tiomachaidh</orth>
+            </form>
+            <def>herring split and dried in the sun.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119468896">
+            <form>
+               <orth>sgadan-làn</orth>
+            </form>
+            <def>‘gut-poke’ herring, that is, herring full of feeding.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119470480">
+            <form>
+               <orth>sgadan beag</orth>
+            </form>
+            <def>small herring.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119471992">
+            <form>
+               <orth>sgadan miosgaichte</orth>
+            </form>
+            <def>mixed herring.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119473504">
+            <form>
+               <orth>duilich a ghlacadh</orth>
+            </form>
+            <def>herring prone to diving, and therefore difficult to net.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119475088">
+            <form>
+               <orth>sgadan athair</orth>
+            </form>
+            <def>herring sluggish and so unlikely to mesh in drift-nets.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119476600">
+            <form>
+               <orth>sgadan malcaidh</orth>
+            </form>
+            <def>herring de-scaled through excessive contact with rain or seawater in hold.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2herring-d0e1302"
+             subtype="h1">6. Drift netting</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119478976">
+            <form>
+               <orth>lion-chlach</orth>
+            </form>
+            <def>drift-nets [sic].</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119480488">
+            <form>
+               <orth>piosan</orth>
+            </form>
+            <def>individual pieces of drift-nets.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119482000">
+            <form>
+               <orth>bàca</orth>
+            </form>
+            <def>back-rope.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119483512">
+            <form>
+               <orth>ròp-iochdair</orth>
+            </form>
+            <def>sole or bottom of net, and rope if any attached.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119485024">
+            <form>
+               <orth>lion-garbh</orth>
+            </form>
+            <def>row of heavy-ply netting along top and bottom of nets.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp119486536">
+            <form>
+               <orth>àrcannan</orth>
+            </form>
+            <def>small floats attached to back-rope.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp162698104">
+            <form>
+               <orth>butaichean</orth>
+            </form>
+            <def>buoys.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp162699616">
+            <form>
+               <orth>butaichean-cinn</orth>
+            </form>
+            <def>end-buoys.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp162701128">
+            <form>
+               <orth>ròp-puta</orth>
+            </form>
+            <def>buoy-string.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp162702640">
+            <form>
+               <orth>suing</orth>
+            </form>
+            <def>rope by which boat hung on to train of nets.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp162704152">
+            <form>
+               <orth>snaim-ceangail</orth>
+            </form>
+            <def>point of attachment of one piece of netting to another, a rope and an eye.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp162705664">
+            <form>
+               <orth>cur</orth>
+            </form>
+            <def>shooting of net.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp162707176">
+            <form>
+               <orth>(dha) fiachail</orth>
+            </form>
+            <def>the checking of nets, during the night, for the presence of meshed herring.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp162708688">
+            <form>
+               <orth>barrachd de ròp-puta</orth>
+            </form>
+            <def>the sinking of nets to deep-swimming herring.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp162710200">
+            <form>
+               <orth>moglachadh</orth>
+            </form>
+            <def>an eel, dogfish, etc., entangled in the netting.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp162711712">
+            <form>
+               <orth>iasg trom</orth>
+            </form>
+            <def>a heavy meshing of fish.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp162713224">
+            <form>
+               <orth>crathadh</orth>
+            </form>
+            <def>the shaking of herring from the net.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp162714736">
+            <form>
+               <orth>lobhta-na-lion</orth>
+            </form>
+            <def>the moveable beam on which a fisherman would stand to shake nets.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp162716248">
+            <form>
+               <orth>toinneamh</orth>
+            </form>
+            <def>tangled or twisted net.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp162717760">
+            <form>
+               <orth>laighigeadh</orth>
+            </form>
+            <def>the sorting out of nets before shooting again.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp162719272">
+            <form>
+               <orth>rolair tarrain</orth>
+            </form>
+            <def>hauling roller (on large, steam or motor drift-net boats only).</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp162720856">
+            <form>
+               <orth>rolair tuill</orth>
+            </form>
+            <def>hauling roller (on large, steam or motor drift-net boats only).</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2herring-idp162722440">
+            <form>
+               <orth>crannladh</orth>
+            </form>
+            <def>light amount of herring in a drift-net is referred to [as] ‘crannladh’ derived from ‘cranning’ and pronounced ‘greannladh’.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

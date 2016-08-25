@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Excerpt from original file AJSmith_Harrismiscellaneousmisc -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AJSmith_Harrismiscellaneousmisc_Donald_MacLennan_Govaig">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>July 1972</date>
+        <location corresp="Harris_Gobhaig"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="A_J_Smith"/>
+        <person role="informant" corresp="Donald_MacLennan_Harris_Govaig"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Miscellaneous</term>
+          <term xml:lang="gd">Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm39010952">
+        <form>
+          <orth>clupad-choinnleach</orth>
+          <pron>[kɫu̜pəd̪xɤ̃ĩlʹɑx]</pron>
+        </form>
+        <def>[kɫu̜pəd̪xɤ̃ĩlʹɑx] Quot.: a’ chlupad-choinnleach. Note: swayback in sheep.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm39009008">
+        <form>
+          <orth>laigh</orth>
+        </form>
+        <def>Quot.: “Tha e na laighe.” Note: used of somebody who is ill and confined to bed.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm39007280">
+        <form>
+          <orth>àmhailt</orth>
+          <pron>[ɑ̃:ılʹtʹ]</pron>
+        </form>
+        <def>[ɑ̃:ılʹtʹ] Note: a half-burnt peat.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm39005552">
+        <form>
+          <orth>lamhach</orth>
+          <pron>[ɫɑ̃vɑx]</pron>
+        </form>
+        <def>[ɫɑ̃vɑx] Note: bold, forward.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm39003824">
+        <form>
+          <orth>leimhich</orth>
+          <pron>[lʹɛ̃viç]</pron>
+        </form>
+        <def>[lʹɛ̃viç] Quot.: “Bha mi air mo [lɛ̃vɑxəɣ] ag eisdeachd ris.” Note: wearied, bored stiff, sick tired of something.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm39001592">
+        <form>
+          <orth>ath-dionag</orth>
+          <pron>[ɑdʹw̃ṉɑɡ]</pron>
+        </form>
+        <def>[ɑdʹw̃ṉɑɡ] Note: 3-year-old sheep.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm38999864">
+        <form>
+          <orth>amhallach</orth>
+          <pron>[ɑ̃vəɫɑx]</pron>
+        </form>
+        <def>[ɑ̃vəɫɑx] Note: an unsavoury character. “Bad stick”.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm38998136">
+        <form>
+          <orth>clamair</orth>
+          <pron>[kɫɑ̃mɛð]</pron>
+        </form>
+        <def>[kɫɑ̃mɛð] Note: male lamb with only one testicle. ([rwɡʹɛ̃nʹ] also used.)</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm38996120">
+        <form>
+          <orth>tiarainneach</orth>
+          <pron>[tʹıɑɾĩnʹɑx]</pron>
+        </form>
+        <def>[tʹıɑɾĩnʹɑx] Note: 1½ year old sheep.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm38993528">
+        <form>
+          <orth>neo-chlabhsach</orth>
+          <pron>[nʹɔxɫɤu̜sɑx]</pron>
+        </form>
+        <def>[nʹɔxɫɤu̜sɑx] Quot.: “Nochd e gu neo-chlabhsach.” Note: casually.</def>
+      </entry>
+    </body>
+  </text>
+</TEI>

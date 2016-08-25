@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Slips_SpeanBridgeAMacDonellslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1975</date>
+            <location>
+               <placeName>Spean Bridge</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>Mrs Ann MacDonell</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_SpeanBridgeAMacDonellslips-idp118691520">
+            <form>
+               <orth>lodan</orth>
+            </form>
+            <def>Quotation: “Cha mhair reothadh an lodain làin.” (Proverb)</def>
+         </entry>
+         <entry xml:id="Slips_SpeanBridgeAMacDonellslips-idp118693104">
+            <form>
+               <orth>urra</orth>
+            </form>
+            <def>Quotation: urra bheag. 2. urra nam bochd. 3. urra dhiolain. Notes: 2. boarded out child. 3. illegitimate child.</def>
+         </entry>
+         <entry xml:id="Slips_SpeanBridgeAMacDonellslips-idp118694832">
+            <form>
+               <orth>càileadair</orth>
+            </form>
+            <def>Quotation: càileadair math. Notes: a good weather-prophet.</def>
+         </entry>
+         <entry xml:id="Slips_SpeanBridgeAMacDonellslips-idp118696488">
+            <form>
+               <orth>casan-fodair</orth>
+            </form>
+            <def>Notes: lines radiating from the sun through clouds.</def>
+         </entry>
+         <entry xml:id="Slips_SpeanBridgeAMacDonellslips-idp118698000">
+            <form>
+               <orth>ciste-mhin</orth>
+            </form>
+            <def>Quotation: ‘Ma thig ceò an earraich sìos cho fada ris a’ chiste-mhin, thig an sneachd ceart cho fada sin.’</def>
+         </entry>
+         <entry xml:id="Slips_SpeanBridgeAMacDonellslips-idp118699512">
+            <form>
+               <orth>fiacaill-mhara</orth>
+            </form>
+            <def>Notes: short rainbow supposed to portend stormy weather. ‘Dog’s tooth.’</def>
+         </entry>
+         <entry xml:id="Slips_SpeanBridgeAMacDonellslips-idp118701024">
+            <form>
+               <orth>fìdhleirean</orth>
+            </form>
+            <def>Quotation: Fìdhleirean Srath-Éirinn. Notes: term for strong, piercing east wind.</def>
+         </entry>
+         <entry xml:id="Slips_SpeanBridgeAMacDonellslips-idp118702680">
+            <form>
+               <orth>frimean-freamain</orth>
+            </form>
+            <def>Notes: small patch of varicose vein.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

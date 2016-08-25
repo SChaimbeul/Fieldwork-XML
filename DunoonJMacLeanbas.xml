@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Ecclesiastical_DunoonJMacLeanbas">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Dunoon</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>John MacLean</persName>
+               <persName xml:lang="gd">Iain Mac ’Illeathain</persName>
+               <age>48</age>
+               <birth>
+                  <placeName>Barra</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Death and Burial</term>
+               <term xml:lang="gd">Bàs is Adhlacadh</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e32"
+             subtype="h1">1. Ag ullachadh a’ chuirp</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e37">
+            <form>
+               <orth>’ga nighe</orth>
+            </form>
+            <def>washing the body.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e46">
+            <form>
+               <orth>a deanamh na leine</orth>
+            </form>
+            <def>preparing the shroud – always by the women.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e55">
+            <form>
+               <orth>eiletrom</orth>
+            </form>
+            <def>the boards on which the body lies.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e64">
+            <form>
+               <orth>an corp</orth>
+            </form>
+            <def>the body.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e73">
+            <form>
+               <orth>am fear (te) nach maireann</orth>
+            </form>
+            <def>the deceased.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e82">
+            <form>
+               <orth>Dh’eug e</orth>
+            </form>
+            <def>He died.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e91">
+            <form>
+               <orth>Chaochail e</orth>
+            </form>
+            <def>He died.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e99"
+             subtype="h1">2. A’ chiste</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e104">
+            <form>
+               <orth>a’ chiste</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e110">
+            <form>
+               <orth>a’ chiste laighe</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e116">
+            <form>
+               <orth>a ghiobag</orth>
+            </form>
+            <def>the cord.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e124"
+             subtype="h1">3. Faire</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e129">
+            <form>
+               <orth>caithris</orth>
+            </form>
+            <def>wake.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e138">
+            <form>
+               <orth>tigh na faire</orth>
+            </form>
+            <def>the house where the body lies.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e146"
+             subtype="h1">4. A’ giùlan na ciste</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e151">
+            <form>
+               <orth>an giulan</orth>
+            </form>
+            <def>the funeral procession.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e160">
+            <form>
+               <orth>a’ dol fo’n chistidh</orth>
+            </form>
+            <def>carrying the coffin.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e169">
+            <form>
+               <orth>tòrradh</orth>
+            </form>
+            <def>funeral.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e178">
+            <form>
+               <orth>tiodhlaigeadh</orth>
+            </form>
+            <def>funeral.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e187">
+            <form>
+               <orth>cro-leab</orth>
+            </form>
+            <def>The wooden support for carrying the coffin. Three handles on each side.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e196">
+            <form>
+               <orth>Seasamh a mach</orth>
+            </form>
+            <def>Calling the next to bear the coffin. In Barra male mourners walk in front of the coffin and the female mourners behind. Different on mainland.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e205">
+            <form>
+               <orth>Seas ann a sin</orth>
+               <pron>[See Seasamh a mach]</pron>
+            </form>
+            <def>[See Seasamh a mach]</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e213"
+             subtype="h1">5. An cladh agus an uaigh</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e218">
+            <form>
+               <orth>amhlaig</orth>
+            </form>
+            <def>Chaidh amhlagadh.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e227">
+            <form>
+               <orth>tiodhlaig</orth>
+            </form>
+            <def>Chaidh a thiodhlaigeadh.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e236">
+            <form>
+               <orth>ag cladhach na h-uaghach</orth>
+            </form>
+            <def>digging the grave.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e245">
+            <form>
+               <orth>a treachladh na h-uaghach</orth>
+            </form>
+            <def>digging the grave. (Not so often used.)</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e254">
+            <form>
+               <orth>an cladh</orth>
+            </form>
+            <def>the graveyard.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e263">
+            <form>
+               <orth>siubhal sith fo thiodhlagadh</orth>
+            </form>
+            <def>difficult to catch up with a funeral procession.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e272">
+            <form>
+               <orth>Uisge an deaghaidh tiodhlagadh / Grian an deaghaidh pòsadh</orth>
+            </form>
+            <def>a good augury.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_DunoonJMacLeanbas-d0e280"
+             subtype="h1">6. Cleachdaidhean sam bith co-cheangailte ri bàs no adhlacadh</ab>
+         <entry xml:id="Ecclesiastical_DunoonJMacLeanbas-idola97">
+            <form>
+               <orth>[note]</orth>
+               <pron>[This page missing from the questionnaire.]</pron>
+            </form>
+            <def>[This page missing from the questionnaire.]</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

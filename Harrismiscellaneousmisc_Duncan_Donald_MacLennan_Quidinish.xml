@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Excerpt from original file AJSmith_Harrismiscellaneousmisc -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AJSmith_Harrismiscellaneousmisc_Duncan_Donald_MacLennan_Quidinish">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>July 1972</date>
+        <location corresp="Harris_Quidinish"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="A_J_Smith"/>
+        <person role="informant" corresp="Duncan_MacLennan_Harris_Quidinish"/>
+        <person role="informant" corresp="Donald_MacLennan_Harris_Quidinish"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Miscellaneous</term>
+          <term xml:lang="gd">Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm38990720">
+        <form>
+          <orth>faiche</orth>
+          <pron>[fɑıçcə]</pron>
+        </form>
+        <def>[fɑıçcə] Note: lobster hole among rocks.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm38988992">
+        <form>
+          <orth>baraill</orth>
+        </form>
+        <def>Quot.: “baraill a’ ròin”. Note: the back of the lobster.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm38987264">
+        <form>
+          <orth>poca-buidhe</orth>
+        </form>
+        <def>Note: fat on the “maodal” of the deer.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm38985752">
+        <form>
+          <orth>snaidhm</orth>
+          <pron>[sṉɑ̃ĩm]</pron>
+        </form>
+        <def>[sṉɑ̃ĩm] Quot.: “snaidhm-ceann-na-h-òrdaig”. Note: overhang knot.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm38983808">
+        <form>
+          <orth>snaidhm-an-acaire</orth>
+        </form>
+        <def>Note: fisherman’s bend – used on anchors, also on driftnets when “beartachadh a lìn”.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm38982296">
+        <form>
+          <orth>snaidhm-na-bana-bhreabadair</orth>
+        </form>
+        <def>Note: rolling hitch? Used in tying, in tweed.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm38980784">
+        <form>
+          <orth>sgriogal</orth>
+          <pron>[sɡɾıɡəɫ]</pron>
+        </form>
+        <def>[sɡɾıɡəɫ] Quot.: “Tha i air a dhol na sgriogal grannda.”</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm38979056">
+        <form>
+          <orth>stireach</orth>
+          <pron>[ʃtʹıðɑx]</pron>
+        </form>
+        <def>[ʃtʹıðɑx] Quot.: falt stireach. Note: straight, limp hair.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37304872">
+        <form>
+          <orth>preasach</orth>
+          <pron>[pðesɑx]</pron>
+        </form>
+        <def>[pðesɑx] Quot.: “craicionn phreasach”. Note: wrinkled skin.</def>
+      </entry>
+    </body>
+  </text>
+</TEI>

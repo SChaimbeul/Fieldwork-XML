@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Slips_SchoolofScottishStudiesJMacInnesslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1988</date>
+            <location>
+               <placeName>School of Scottish Studies</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>John MacInnes</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_SchoolofScottishStudiesJMacInnesslips-idp115485368">
+            <form>
+               <orth>sgritheal</orth>
+            </form>
+            <def>Notes: a ‘lean-to’.</def>
+         </entry>
+         <entry xml:id="Slips_SchoolofScottishStudiesJMacInnesslips-idp115436840">
+            <form>
+               <orth>teimhealach</orth>
+            </form>
+            <def>Quotation: àite teimhealach; duine teimhealach. Notes: of a place ‘dark’; of a person ‘morose, closed in’.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

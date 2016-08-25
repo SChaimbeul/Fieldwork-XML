@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="DRMorrisonetal_ScalpayDMacLeodmisc">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: Miss MacLeod is Mr D.R. Morrison’s niece, as he explains in the letter attached to the list.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1975</date>
+            <location>
+               <placeName>Harris, Scalpay</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Donalda MacLeod</persName>
+               <age>9</age>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idola349"
+             subtype="h1">Eoin</ab>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118767400">
+            <form>
+               <orth>stearrag</orth>
+            </form>
+            <def>crow.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118782160">
+            <form>
+               <orth>lon duabh</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] black bird.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118783672">
+            <form>
+               <orth>truit</orth>
+            </form>
+            <def>starling.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118785184">
+            <form>
+               <orth>naosg</orth>
+            </form>
+            <def>snipe.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118786696">
+            <form>
+               <orth>fhaoileag</orth>
+            </form>
+            <def>gull.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118788208">
+            <form>
+               <orth>trilleachan</orth>
+            </form>
+            <def>oyster catcher.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118789720">
+            <form>
+               <orth>feadag</orth>
+            </form>
+            <def>plover.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118791232">
+            <form>
+               <orth>churracag</orth>
+            </form>
+            <def>lapwing.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118792744">
+            <form>
+               <orth>ruth</orth>
+            </form>
+            <def>black headed gull.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118794256">
+            <form>
+               <orth>farspach</orth>
+            </form>
+            <def>black backed gull.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118795768">
+            <form>
+               <orth>scarbh</orth>
+            </form>
+            <def>shag.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118797280">
+            <form>
+               <orth>bugaire</orth>
+            </form>
+            <def>puffin.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118798792">
+            <form>
+               <orth>stearnag</orth>
+            </form>
+            <def>tern.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118800304">
+            <form>
+               <orth>fhaileag an sgadan</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] herring gull.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118801816">
+            <form>
+               <orth>gobhlachan</orth>
+            </form>
+            <def>turnstone.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118803328">
+            <form>
+               <orth>guilbneach</orth>
+            </form>
+            <def>curlew.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118804840">
+            <form>
+               <orth>dru-dreag</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] robin red breast.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118806352">
+            <form>
+               <orth>chutag</orth>
+            </form>
+            <def>cuckoo.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118807864">
+            <form>
+               <orth>sgarbh</orth>
+            </form>
+            <def>cormorant.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118809376">
+            <form>
+               <orth>uiseag</orth>
+            </form>
+            <def>lark.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118810888">
+            <form>
+               <orth>gobhlan-gaoithe</orth>
+            </form>
+            <def>swallow.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118812400">
+            <form>
+               <orth>gealb onn</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] sparrow.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118813912">
+            <form>
+               <orth>cearc fhraoich</orth>
+            </form>
+            <def>moorhen.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118815424">
+            <form>
+               <orth>clacharan</orth>
+            </form>
+            <def>stone chat.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118816936">
+            <form>
+               <orth>tunnag</orth>
+            </form>
+            <def>duck.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118818448">
+            <form>
+               <orth>eala</orth>
+            </form>
+            <def>swan.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118819960">
+            <form>
+               <orth>cailleach oidche</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] owl.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118821472">
+            <form>
+               <orth>corra-ghriadhach</orth>
+            </form>
+            <def>heron.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118822984">
+            <form>
+               <orth>Eun Frangoch</orth>
+            </form>
+            <def>turkey.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118824496">
+            <form>
+               <orth>pheveag</orth>
+               <pron>[?]</pron>
+            </form>
+            <def>[?] peacock.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118826008">
+            <form>
+               <orth>iolaire</orth>
+            </form>
+            <def>eagle.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118827520">
+            <form>
+               <orth>rochaich</orth>
+               <pron>[?]</pron>
+            </form>
+            <def>[?] rook.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118829032">
+            <form>
+               <orth>fitheach</orth>
+            </form>
+            <def>raven.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idola352">
+            <form>
+               <orth> </orth>
+            </form>
+            <def>penguin.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118830760">
+            <form>
+               <orth>speireag</orth>
+            </form>
+            <def>sparrow hawk.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118832272">
+            <form>
+               <orth>clamhan</orth>
+            </form>
+            <def>buzzard.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idola350"
+             subtype="h1">Trees in Gaelic</ab>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118834648">
+            <form>
+               <orth>sicamor</orth>
+            </form>
+            <def>sycamore.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118836160">
+            <form>
+               <orth>beithe</orth>
+            </form>
+            <def>birch.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118837672">
+            <form>
+               <orth>clarach</orth>
+            </form>
+            <def>oak.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118839184">
+            <form>
+               <orth>gean chno faidhaich</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] horse chestnut.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118840696">
+            <form>
+               <orth>craoran</orth>
+            </form>
+            <def>rowan.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118842208">
+            <form>
+               <orth>seileach</orth>
+            </form>
+            <def>willow.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118843720">
+            <form>
+               <orth>guithas</orth>
+            </form>
+            <def>fir, pine.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idola351"
+             subtype="h1">Flowers in Gaelic</ab>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118846096">
+            <form>
+               <orth>neòinean</orth>
+            </form>
+            <def>daisy.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118847608">
+            <form>
+               <orth>sobhrag</orth>
+            </form>
+            <def>primrose.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118849120">
+            <form>
+               <orth>lùs buidhe Bealtainn</orth>
+            </form>
+            <def>marsh Marigold.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118850632">
+            <form>
+               <orth>buidheag an t-samhraidh</orth>
+            </form>
+            <def>buttercup.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118852144">
+            <form>
+               <orth>fail chuach</orth>
+            </form>
+            <def>violet.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118853656">
+            <form>
+               <orth>fluir na cuathaige</orth>
+            </form>
+            <def>lady smock.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118855168">
+            <form>
+               <orth>fluir na cuathaige</orth>
+            </form>
+            <def>cuckoo flower.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118856680">
+            <form>
+               <orth>beàrnan brìde</orth>
+            </form>
+            <def>dandelion.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118858192">
+            <form>
+               <orth>urach-bhalich</orth>
+            </form>
+            <def>spotted orchid.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118859704">
+            <form>
+               <orth> </orth>
+            </form>
+            <def>purple orchid.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118861216">
+            <form>
+               <orth> </orth>
+            </form>
+            <def>Bird’s foot trefoil.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118862728">
+            <form>
+               <orth> </orth>
+            </form>
+            <def>milkwort.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118864240">
+            <form>
+               <orth> </orth>
+            </form>
+            <def>cinquefoil.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idola353"
+             subtype="h1">Fish in Gaelic</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idola354"
+             subtype="h2">Iasgan</ab>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118868128">
+            <form>
+               <orth>easgunn</orth>
+            </form>
+            <def>eel.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118869640">
+            <form>
+               <orth>trosg</orth>
+            </form>
+            <def>cod.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118871152">
+            <form>
+               <orth>sgadan</orth>
+            </form>
+            <def>herring.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118872664">
+            <form>
+               <orth>nonnach</orth>
+            </form>
+            <def>mackerel.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118874176">
+            <form>
+               <orth>leabag</orth>
+            </form>
+            <def>flounder.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118875688">
+            <form>
+               <orth>leabag bhreac</orth>
+            </form>
+            <def>plaice.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118877200">
+            <form>
+               <orth>cudaice</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] cuddies.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

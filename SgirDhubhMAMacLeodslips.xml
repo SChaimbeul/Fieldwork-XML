@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_SgirDhubhMAMacLeodslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>05/1971</date>
+            <location>
+               <placeName>Canada, Cape Breton, Sgir Dhubh</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>M.A. MacLeod</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_SgirDhubhMAMacLeodslips-idp115489744">
+            <form>
+               <orth>réibeid</orth>
+               <pron>[re:bɑdʹ]</pron>
+            </form>
+            <def>[re:bɑdʹ] Notes: groove in the stempost of a boat into which ends of planks are fitted.</def>
+         </entry>
+         <entry xml:id="Slips_SgirDhubhMAMacLeodslips-idp115451224">
+            <form>
+               <orth>seilear</orth>
+               <pron>[ʃelɑɾ]</pron>
+            </form>
+            <def>[ʃelɑɾ] Notes: cellar.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

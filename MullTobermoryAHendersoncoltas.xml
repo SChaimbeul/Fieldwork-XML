@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="TireeandMull_MullTobermoryAHendersoncoltas">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Muile, Tobar Mhoire [Mull, Tobermory]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[Alan Boyd]</persName>
+            </person>
+            <person role="informant">
+               <persName>Angus Henderson</persName>
+               <persName xml:lang="gd">Aonghas MacEanruig </persName>
+               <age>79</age>
+               <birth>
+                  <placeName>Muile (ceann a tuath) [Mull (the north side)]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Personal Appearance</term>
+               <term xml:lang="gd">Coltas an Duine</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e32"
+             subtype="h1">Shapes and general appearance</ab>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e37">
+            <form>
+               <orth>slaodaire</orth>
+            </form>
+            <def>large clumsy person.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e46">
+            <form>
+               <orth>spliutaire</orth>
+            </form>
+            <def>untidy person (duine luideach).</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e55">
+            <form>
+               <orth>spleadhach</orth>
+            </form>
+            <def>splay-footed.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e64">
+            <form>
+               <orth>fear splioch</orth>
+            </form>
+            <def>one with splay feet.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e73">
+            <form>
+               <orth>cuagach</orth>
+            </form>
+            <def>hen-toed.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e81"
+             subtype="h1">Deformities, blemishes, scars</ab>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e86">
+            <form>
+               <orth>lòt</orth>
+            </form>
+            <def>wound.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e95">
+            <form>
+               <orth>larach a’ bhric</orth>
+            </form>
+            <def>pox marks.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e104">
+            <form>
+               <orth>mìann (f)</orth>
+            </form>
+            <def>birthmark, mole.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e112"
+             subtype="h1">Beauty and ugliness</ab>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e117">
+            <form>
+               <orth>caileag eireachdail</orth>
+            </form>
+            <def>a good looker.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e126">
+            <form>
+               <orth>’ga deanadh fhéin a suas</orth>
+            </form>
+            <def>dolling up.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e135">
+            <form>
+               <orth>[cachd]</orth>
+            </form>
+            <def>Nach eil thu cho briagach ri cù cèaird agus cachd air a thon!!</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e144">
+            <form>
+               <orth>[salchar]</orth>
+            </form>
+            <def>Chan eil annad ach salchar cachdach!!</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e153">
+            <form>
+               <orth>Duine breun bruideil!</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e159">
+            <form>
+               <orth>Fear gun feum .</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] </def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e165">
+            <form>
+               <orth>Chan eil feum annad.</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e170"
+             subtype="h1">Strength, fitness and the opposite</ab>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e175">
+            <form>
+               <orth>neart</orth>
+            </form>
+            <def>strength.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e184">
+            <form>
+               <orth>luige</orth>
+            </form>
+            <def>weakness.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e193">
+            <form>
+               <orth>sgairt</orth>
+            </form>
+            <def>fitness.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e202">
+            <form>
+               <orth>duine sgairteil</orth>
+            </form>
+            <def>a fit man.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e211">
+            <form>
+               <orth>duine anamhin</orth>
+            </form>
+            <def>an unfit man.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e220">
+            <form>
+               <orth>anamhidheachd</orth>
+            </form>
+            <def>unfitness.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e229">
+            <form>
+               <orth>fear bruidhneach</orth>
+            </form>
+            <def>a talkative man.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e237"
+             subtype="h1">Ways of walking, sitting, lying</ab>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e242">
+            <form>
+               <orth>clìobach</orth>
+            </form>
+            <def>clumsy. Duine clìobach – a clumsy man.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e251">
+            <form>
+               <orth>fifeanach</orth>
+            </form>
+            <def>figity [sic] [fidgety?].</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e260">
+            <form>
+               <orth>[slaod]</orth>
+            </form>
+            <def>Chan eil ann ach slaod a dhuine – he’s only a slouch.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e269">
+            <form>
+               <orth>a’ coiseachd sgairteil</orth>
+            </form>
+            <def>walking smartly.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e278">
+            <form>
+               <orth>[gasda]</orth>
+            </form>
+            <def>A’ suidhe gu gasda anns a’ chathair – sitting up straight.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e286"
+             subtype="h1">Pulling faces, frowns, other expressions</ab>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e291">
+            <form>
+               <orth>cur còrraigean air t’aodainn</orth>
+            </form>
+            <def>pulling faces.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e300">
+            <form>
+               <orth>duine mùgach</orth>
+            </form>
+            <def>sullen-faced person.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e309">
+            <form>
+               <orth>fiamh a’ ghaire</orth>
+            </form>
+            <def>smile.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e318">
+            <form>
+               <orth>a’ caogadh</orth>
+            </form>
+            <def>winking.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e327">
+            <form>
+               <orth>a’ priopadh</orth>
+            </form>
+            <def>blinking.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e335"
+             subtype="h1">Clean and untidy</ab>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e340">
+            <form>
+               <orth>hùb-hàb</orth>
+            </form>
+            <def>in turmoil – not in Mull. [NOTES: this word was provided as an example by the authors of the questionnaire. Mr Boyd crossed it out and added the note ‘not in Mull’.]</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e349">
+            <form>
+               <orth>luideach</orth>
+            </form>
+            <def>untidy.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e358">
+            <form>
+               <orth>ropach</orth>
+            </form>
+            <def>untidy.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e367">
+            <form>
+               <orth>salach</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_MullTobermoryAHendersoncoltas-d0e373">
+            <form>
+               <orth>glan</orth>
+            </form>
+         </entry>
+      </body>
+   </text>
+</TEI>

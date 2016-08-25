@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Peat_GlasgowJAMacPhersonmoine">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>[Glasgow], BBC Queen Margaret Drive</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Johnnie Alec MacPherson</persName>
+               <persName xml:lang="gd">Seonaidh Ailig Mac A’ Phearsain </persName>
+               <age>30</age>
+               <birth>
+                  <placeName>Uibhist-a-Tuath [North Uist]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Peat-Working</term>
+               <term xml:lang="gd">Mòine</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Peat_GlasgowJAMacPhersonmoine-d0e32"
+             subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+         <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e37">
+            <form>
+               <orth>feannadh (v.n.)</orth>
+            </form>
+            <def>a’ toirt na sgrath far uachdar a’ phuill mus teid a’ mhòine a bhuain.</def>
+         </entry>
+         <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e46">
+            <form>
+               <orth>rùsgadh (v.n.)</orth>
+            </form>
+            <def>an aon chiall ri ‘feannadh’.</def>
+         </entry>
+         <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e55">
+            <form>
+               <orth>susadh (v.n.)</orth>
+            </form>
+            <def>a’ gearradh na talmhainn leis an spaid mus teid am poll fheannadh. Gearrar striochd fad a’ phuill.</def>
+         </entry>
+         <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e64">
+            <form>
+               <orth>ligeadh (v.n.)</orth>
+            </form>
+            <def>a’ leigeil air falbh uisge as a’ pholl.</def>
+         </entry>
+         <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e73">
+            <form>
+               <orth>sgrath (f.)</orth>
+            </form>
+            <def>an rusg talmhainn a theid fheannadh air uachdar a’ phuill.</def>
+         </entry>
+         <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e82">
+            <form>
+               <orth>meighe (m.)</orth>
+            </form>
+            <def>leud na sgrath. Ma tha ‘meighe’ mór agad tha barrachd fhòid ann agus tha iad na’s duilighe ’n tilgeil chun an uachdar. Bha ‘meighe mór’ ’na chomharra air neart an luchd buana.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_GlasgowJAMacPhersonmoine-d0e90"
+             subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+         <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e95">
+            <form>
+               <orth>spaid (f)</orth>
+            </form>
+            <def>an Uibhist cha chleachdar spaid ach san feannadh no glanadh, ach am badan dhe na Hearadh bidh iad a’ buain leis an spaid.</def>
+         </entry>
+         <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e104">
+            <form>
+               <orth>traoisgeir (f)</orth>
+            </form>
+            <def>an t-inneal leis am bheilear a buain.</def>
+         </entry>
+         <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e113">
+            <form>
+               <orth>am faobhar (m)</orth>
+            </form>
+            <def>‘the blade’.</def>
+         </entry>
+         <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e122">
+            <form>
+               <orth>golfhad (m)</orth>
+            </form>
+            <def>tha mi air a’ chiall a dhichuimhneachadh ach tha e gle bhitheanta an Uibhist. [The above crossed out and the following added:] Chuimhnich mi air – an dara fàd ’sa pholl.</def>
+         </entry>
+         <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e131">
+            <form>
+               <orth>caoran (m)</orth>
+            </form>
+            <def>am fàd mu dheireadh am bonn a’ phuill.</def>
+         </entry>
+         <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e140">
+            <form>
+               <orth>sgaoilteach (f)</orth>
+            </form>
+            <def>far am bithear a’ tilgeil nam fàd air uachdar a’ phuill.</def>
+         </entry>
+         <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e149">
+            <form>
+               <orth>barrfhad (m)</orth>
+            </form>
+            <def>am fàd is àirde ’sa pholl.</def>
+         </entry>
+         <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e158">
+            <form>
+               <orth>feanntach (f)</orth>
+            </form>
+            <def>a’ mhòine fo’n sgrath a bhithear a’ glanadh mus gearrar am barrfhad. Bithear ’ga cur gu feum uaireannan.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_GlasgowJAMacPhersonmoine-d0e166"
+             subtype="h1">3. A’ tiormachadh na mònach</ab>
+         <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e171">
+            <form>
+               <orth>rùdhan (f)</orth>
+            </form>
+            <def>ceithir no coig de dh’fhòid air an seasamh air an ceann, agus fàd air fhaid air an uachdar.</def>
+         </entry>
+         <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e180">
+            <form>
+               <orth>rùdhadh (v)</orth>
+            </form>
+            <def>a’ deanamh rùdhain.</def>
+         </entry>
+         <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e189">
+            <form>
+               <orth>conachruachan (f)</orth>
+            </form>
+            <def>cruachan beaga – seachd no h-òchd de rùdhain.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_GlasgowJAMacPhersonmoine-d0e197"
+             subtype="h1">4. A’ cruachadh na mònach</ab>
+         <ab type="heading"
+             xml:id="Peat_GlasgowJAMacPhersonmoine-d0e201"
+             subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+         <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e206">
+            <form>
+               <orth>a’ tarruing mhòna</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e212">
+            <form>
+               <orth>gniamhadh</orth>
+            </form>
+            <def>a’ togail na cruaiche aig an taigh.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_GlasgowJAMacPhersonmoine-d0e220"
+             subtype="h1">6. Seòrsachan mònach</ab>
+         <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e225">
+            <form>
+               <orth>mòine bhàn</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e231">
+            <form>
+               <orth>mòine chruaidh dhubh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e237">
+            <form>
+               <orth>caoran</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e243">
+            <form>
+               <orth>cìb</orth>
+            </form>
+            <def>moine phlocach anns nach ’eil móran feum.</def>
+         </entry>
+         <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e252">
+            <form>
+               <orth>pluic</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_GlasgowJAMacPhersonmoine-d0e257"
+             subtype="h1">7. Faclan eile</ab>
+      </body>
+   </text>
+</TEI>

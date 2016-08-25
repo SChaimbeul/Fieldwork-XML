@@ -1,0 +1,1478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the original title of the questionnaire is “Land Cultivation”.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Eilean Thiriodh, Goirtean Dòmhnaill (Barrapol) [Tiree, Barrapol]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>Ailean Boyd [Alan Boyd]</persName>
+            </person>
+            <person role="informant">
+               <persName>Hugh MacLean</persName>
+               <persName xml:lang="gd">Eoghann Dhòmhnaill Eoghainn Mhóir</persName>
+               <age>64</age>
+               <birth>
+                  <placeName>Tiree</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Agriculture</term>
+               <term xml:lang="gd">Àiteach</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e34"
+             subtype="h1">1. Land division and allocation</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e38"
+             subtype="h2">(a) Specific portions or allotments into which arable land is divided</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e43">
+            <form>
+               <orth>sgrìob (f)</orth>
+            </form>
+            <def>furrow.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e52">
+            <form>
+               <orth>drilleadh (f), drillich (pl)</orth>
+            </form>
+            <def>drill.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e61">
+            <form>
+               <orth>iomaire (m), iomairean (pl)</orth>
+            </form>
+            <def>strip.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e70">
+            <form>
+               <orth>gàrradh-cal</orth>
+            </form>
+            <def>vegetable plot.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e79">
+            <form>
+               <orth>gàrradh-buntàta</orth>
+            </form>
+            <def>potato plot.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e88">
+            <form>
+               <orth>feannag (f), feannagan (pl)</orth>
+            </form>
+            <def>lazy-bed.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e97">
+            <form>
+               <orth>druim (m)</orth>
+            </form>
+            <def>ridge.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e106">
+            <form>
+               <orth>gàrradh (m)</orth>
+            </form>
+            <def>walled field (pìos beag de ghrunnd).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e115">
+            <form>
+               <orth>achadh (m)</orth>
+            </form>
+            <def>open field. Achadh-coirce. Achadh-eòrna. Achadh-seagail.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e123"
+             subtype="h2">(b) Various types of arable land</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e128">
+            <form>
+               <orth>grunnd gun chinneas</orth>
+            </form>
+            <def>fallow ground.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e137">
+            <form>
+               <orth>grunnd falamh</orth>
+            </form>
+            <def>fallow ground.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e146">
+            <form>
+               <orth>falamh</orth>
+            </form>
+            <def>Fallow not practised much in Tiree – crofts too small.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e155">
+            <form>
+               <orth>talamh àitichte (m)</orth>
+            </form>
+            <def>ploughed land, cultivated land.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e164">
+            <form>
+               <orth>talamh àiteach (m)</orth>
+            </form>
+            <def>land suitable for cultivation.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e173">
+            <form>
+               <orth>talamh glas (m)</orth>
+            </form>
+            <def>unploughed land.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e182">
+            <form>
+               <orth>talamh làidir (m)</orth>
+            </form>
+            <def>unploughed land.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e190"
+             subtype="h2">(c) Actual dividing and allocating of land, e.g. casting lots</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e195">
+            <form>
+               <orth>[crann]</orth>
+            </form>
+            <def>a’ dol a chrann, a’ cur a chrann – casting lots. Casting lots in Barrapol, Tiree was used most commonly in the dividing-up of seaweed on the shore amongst the township crofters. Two bodaich would draw aside from the group. One felt his pockets for objects (e.g. a pipe, a knife, a penny, etc.) and the other decided which lot each object represented. Then the first bodach held the objects in the palm of his hand for picking. Never more than ½ doz lots.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e204">
+            <form>
+               <orth>[crìochan]</orth>
+            </form>
+            <def>boundaries. Crìochan of lots marked out by furrows with ceaba, or by tangles (stamhan).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e213">
+            <form>
+               <orth>a’ togail chrìochan</orth>
+            </form>
+            <def>constructing boundaries.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e222">
+            <form>
+               <orth>a’ càradh chrìochan</orth>
+            </form>
+            <def>mending or maintaining boundaries.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e231">
+            <form>
+               <orth>a’ tomhas chrìochan</orth>
+            </form>
+            <def>marking boundaries (done by pacing).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e239"
+             subtype="h2">(d) Land owned or held under leases of various duration</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e244">
+            <form>
+               <orth>croit (f), croitean (pl)</orth>
+            </form>
+            <def>croft.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e253">
+            <form>
+               <orth>fearann (m)</orth>
+            </form>
+            <def>farm.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e262">
+            <form>
+               <orth>tac</orth>
+            </form>
+            <def>tack.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e271">
+            <form>
+               <orth>fearann a’ diùc</orth>
+            </form>
+            <def>the state on Tiree.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e280">
+            <form>
+               <orth>an oighreachd</orth>
+            </form>
+            <def>the estate on Tiree (uaireanan).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e289">
+            <form>
+               <orth>caiticheann (m)</orth>
+            </form>
+            <def>common grazing.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e298">
+            <form>
+               <orth>feurach (m)</orth>
+            </form>
+            <def>grazing. Feurach-cruidh. (Dh’fhaodadh e a bhi air a’ chaiticheann [q.v.] no air a’ chroit-fhéin.)</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e307">
+            <form>
+               <orth>machaire (f)</orth>
+            </form>
+            <def>sea-meadow.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e316">
+            <form>
+               <orth>sliabh (m)</orth>
+            </form>
+            <def>hill-pasture.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e324"
+             subtype="h1">2. Harness of a horse</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e328"
+             subtype="h2">(a) The harness of a horse as used in the performance of different tasks</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e332"
+             subtype="h2">(b) Different parts of the harness for carting</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e337">
+            <form>
+               <orth>bit (m), bitichean (pl)</orth>
+            </form>
+            <def>bit.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e346">
+            <form>
+               <orth>stàg</orth>
+            </form>
+            <def>bar attached to bit by chain and situated below jaw so as to control horse.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e355">
+            <form>
+               <orth>srian (f), srianan (pl)</orth>
+            </form>
+            <def>reins (ropa caineaba – hemp).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e364">
+            <form>
+               <orth>srònach (f), srònaich (pl)</orth>
+            </form>
+            <def>strap across nose (leather).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e373">
+            <form>
+               <orth>smeachan (m), smeachain (pl)</orth>
+            </form>
+            <def>fine string going round jaws to keep the headstrap from moving over the ears.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e382">
+            <form>
+               <orth>claigeann (m), claigeannan (pl)</orth>
+            </form>
+            <def>headstrap, going round back of head (leather or rope).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e391">
+            <form>
+               <orth>na blinders</orth>
+            </form>
+            <def>blinders (only used in Tiree when driving a trap or machine).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e400">
+            <form>
+               <orth>sùgan (m), sùgain (pl)</orth>
+            </form>
+            <def>collar (connlach air figheadh taobh-a-staigh agus learach taobh-a-mach).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e409">
+            <form>
+               <orth>na hems</orth>
+            </form>
+            <def>hames (tied at top with hemp).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e418">
+            <form>
+               <orth>a’ bhois</orth>
+            </form>
+            <def>flat part on collar before coming to hooks on hames.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e427">
+            <form>
+               <orth>hamestrap</orth>
+            </form>
+            <def>strap / chain (generally hemp) joining hames together.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e436">
+            <form>
+               <orth>guailleachan (f), guailleachain (pl)</orth>
+            </form>
+            <def>shoulder slings or chains (traces).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e445">
+            <form>
+               <orth>srathair (f)</orth>
+            </form>
+            <def>saddle.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e454">
+            <form>
+               <orth>driomal (m), driomalan (pl)</orth>
+            </form>
+            <def>chain in saddle groove.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e463">
+            <form>
+               <orth>am belly-bann (m)</orth>
+            </form>
+            <def>belly-band (hemp).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e472">
+            <form>
+               <orth>a’ bhriogais (f)</orth>
+            </form>
+            <def>collectively parts round hindquarters and tail.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e480"
+             subtype="h2">(c) Different parts of the harness for ploughing or harrowing</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e485">
+            <form>
+               <orth>sìnte (f), sìnteachan (pl)</orth>
+            </form>
+            <def>backstrap and chains going back to the swingle trees.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e494">
+            <form>
+               <orth>na gaidheachan</orth>
+            </form>
+            <def>guys (for preventing horses from separating too much in two-horse ploughing).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e502"
+             subtype="h1">3. Carts</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e506"
+             subtype="h2">(a) The common farm-yard cart</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e511">
+            <form>
+               <orth>cairt (f), cairtean (pl), cartach (gen)</orth>
+            </form>
+            <def>common farm-yard cart.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e520">
+            <form>
+               <orth>cairt-chopaich, cairtean-copaich (pl)</orth>
+            </form>
+            <def>couping cart.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e529">
+            <form>
+               <orth>càrn (m), càrnan (pl)</orth>
+            </form>
+            <def>a cart without sides or a back, for carrying timber.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e537"
+             subtype="h2">(b) Different parts of a cart</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e541"
+             subtype="h3">1. Body</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e546">
+            <form>
+               <orth>bocsa na cartach</orth>
+            </form>
+            <def>body of cart.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e555">
+            <form>
+               <orth>na trims</orth>
+            </form>
+            <def>sole-beams or two main beams lengthwise.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e564">
+            <form>
+               <orth>spàrr-thoisich, spàrran-toisich (pl)</orth>
+            </form>
+            <def>front cross-beam.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e573">
+            <form>
+               <orth>spàrr-dhéiridh, spàrran-deiridh (pl)</orth>
+            </form>
+            <def>rear cross-beam.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e582">
+            <form>
+               <orth>slot (m), slotaichean (pl)</orth>
+            </form>
+            <def>other cross-beams below body, and between front and rear ones.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e591">
+            <form>
+               <orth>ùrlar na cartach (m)</orth>
+            </form>
+            <def>bottom of cart.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e600">
+            <form>
+               <orth>taobhanan (m)</orth>
+            </form>
+            <def>side boards.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e609">
+            <form>
+               <orth>beul na cartach (m)</orth>
+            </form>
+            <def>gunwale (a’ dol mu’n cuairt na cartach air fad, mar bhàta).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e618">
+            <form>
+               <orth>deireadh na cartach (m)</orth>
+            </form>
+            <def>dropdown back-board for discharging.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e627">
+            <form>
+               <orth>toiseach na cartach (m), toiseachan nan cairtean (pl)</orth>
+            </form>
+            <def>front-board on which driver sits.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e636">
+            <form>
+               <orth>plòtan (m and f), plòtain (pl)</orth>
+            </form>
+            <def>chocks (separating trams from axle).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e645">
+            <form>
+               <orth>cìoch an roth, cìochan na roi</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] [pl] hub.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e653"
+             subtype="h3">2. Trams</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e657"
+             subtype="h3">3. Wheel and axle</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e662">
+            <form>
+               <orth>roth (m), roithean (pl)</orth>
+            </form>
+            <def>wheel. (Not “rothan” in Tiree.)</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e671">
+            <form>
+               <orth>aiseal (f), aisealan (pl)</orth>
+            </form>
+            <def>axle.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e680">
+            <form>
+               <orth>an cearcall (m)</orth>
+            </form>
+            <def>iron tyres (hoop / ring).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e689">
+            <form>
+               <orth>na fullys</orth>
+            </form>
+            <def>felloes.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e698">
+            <form>
+               <orth>cìoch an roth</orth>
+            </form>
+            <def>wooden hub.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e706"
+             subtype="h1">4. The plough</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e710"
+             subtype="h2">(a) Different kinds of ploughs</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e715">
+            <form>
+               <orth>crann Gallda</orth>
+            </form>
+            <def>all iron, 2 horse plough with steel mould board (sgiath).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e724">
+            <form>
+               <orth>crann Gàidhealach</orth>
+            </form>
+            <def>all iron 2 horse plough with cast iron mould board (sgiath). Had wooden handles locally made.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-idola215">
+            <form>
+               <orth>[plough]</orth>
+            </form>
+            <def>Both metal swing ploughs not controlled for depth. Driver had to control depth.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e741"
+             subtype="h2">(b) Parts of a plough in detail</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e746">
+            <form>
+               <orth>an tarraing (tarraing a’ chruinn)</orth>
+            </form>
+            <def>the part to which main swingle tree is attached.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e755">
+            <form>
+               <orth>bonn a’ chruinn</orth>
+            </form>
+            <def>the head to which the sock is attached.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e764">
+            <form>
+               <orth>sgiath (f), sgiathan (pl)</orth>
+            </form>
+            <def>the furrow board or mould board.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e773">
+            <form>
+               <orth>druim a’ chruinn</orth>
+            </form>
+            <def>the part to which furrow board and earth board are attached.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e782">
+            <form>
+               <orth>barr an t-suic</orth>
+            </form>
+            <def>the point of the sock.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e791">
+            <form>
+               <orth>sgiath an t-suic</orth>
+            </form>
+            <def>the “winged” part of the sock.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e800">
+            <form>
+               <orth>osan an t-suic</orth>
+            </form>
+            <def>where the sock fits on to plough.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e809">
+            <form>
+               <orth>coltaire (m), coltairean (pl)</orth>
+            </form>
+            <def>coulter.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e818">
+            <form>
+               <orth>spàg (f), spàgan (pl)</orth>
+            </form>
+            <def>stilts.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e827">
+            <form>
+               <orth>soc (m), socan (pl)</orth>
+            </form>
+            <def>share.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e836">
+            <form>
+               <orth>smuiseal (m), smuisealan (pl)</orth>
+            </form>
+            <def>hooking device between “druim a’ chruinn” [q.v.] and “an tarraing” [q.v.].</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e844"
+             subtype="h1">5. Harrows and swingle trees</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e848"
+             subtype="h2">(a) Different types of harrows</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e853">
+            <form>
+               <orth>cliath (f), cliathan (pl)</orth>
+            </form>
+            <def>harrow.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e862">
+            <form>
+               <orth>stoc (f), stuic (pl)</orth>
+            </form>
+            <def>3 or 4 main beams, always wooden. Made of ‘giuthas geal’ or larch when being used for light sandy soil. Made of ‘darach’ when being used for heavy, clay soil.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e871">
+            <form>
+               <orth>fiaclan na cléith</orth>
+            </form>
+            <def>tines (sia fiaclan anns a h-uile stoc).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e880">
+            <form>
+               <orth>ludagan nan cliathan</orth>
+            </form>
+            <def>hooks joining two harrows together.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e888"
+             subtype="h2">(b) Swingle trees</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e893">
+            <form>
+               <orth>greallag (f), greallagan (pl)</orth>
+            </form>
+            <def>swingle trees. Swingle trees in two horse ploughing / harrowing composed of three main components: 2 ‘greallagan’ (nearer horses) and 1 ‘amall’ (nearer plough / harrow – bigger and heavier). But if only one horse used, then one ‘greallag’ used.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e901"
+             subtype="h1">6. Spring work</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e905"
+             subtype="h2">(a) Fertilisers and fertilising</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e909"
+             subtype="h3">1. Fertilisers</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e914">
+            <form>
+               <orth>innear</orth>
+            </form>
+            <def>manure.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e923">
+            <form>
+               <orth>innear-each (f)</orth>
+            </form>
+            <def>horse manure.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e932">
+            <form>
+               <orth>innear-cruidh</orth>
+            </form>
+            <def>cow manure. (Chan e …-chruidh.) The best manure was that in a 2-3 year old “Dùnan” on which grass would be growing.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e941">
+            <form>
+               <orth>innear-chal (f)</orth>
+            </form>
+            <def>pigeon manure. Obtained from caves in Ceann a’ Bhara. An innear as treasa. Bha i tioram mar mhin, agus bha feadhainn a’ cumail a-mach gum b’i an innear as fhèarr – na bu bheairtiche.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e950">
+            <form>
+               <orth>innear Ghallda</orth>
+            </form>
+            <def>artificial manure (imported).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e958"
+             subtype="h4">Seaweed</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e963">
+            <form>
+               <orth>barr dearg</orth>
+            </form>
+            <def>top or flower of tangle (Laminaria digitata). Separates from the actual tangle-stock (stamh) in April/May. Then it comes ashore and commences rotting in the sun. Rotting forms it into a jellied mass known as “bruig”.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e972">
+            <form>
+               <orth>bruig (f)</orth>
+            </form>
+            <def>form of barr dearg [q.v.] collected for fertiliser.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e981">
+            <form>
+               <orth>cìob (f)</orth>
+               <pron>[kind of seaweed.]</pron>
+            </form>
+            <def>[kind of seaweed.] Reddish in colour and most often found in October. Grows on actual rock. Takes a long time in rotting due to cold weather (winter-time). Good for potatoes.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e990">
+            <form>
+               <orth>feamainn dhubh (f)</orth>
+            </form>
+            <def>bladder wrack (Fucus vesiculosus). Grows close inshore and has to be cut from the actual rock. Not so fine as “a’chìob” [q.v.]. Tha i anabarrach math airson talamh-buntàta cuideachd.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e999">
+            <form>
+               <orth>caraichdein (f)</orth>
+            </form>
+            <def>carrageen (Gigartina stellata). Collected in August. Car bog, spongy. Car buidhe cuideachd.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1008">
+            <form>
+               <orth>duileasg (f)</orth>
+            </form>
+            <def>dulse (Rhodymenia palmata). Car buidhe agus dearg a-mach a season. Bha caig [sic] duileasg ’nad bhial dìreach mar a fhuair thu an tràigh i.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1017">
+            <form>
+               <orth>feamainn chìoran, feamainn chìreadh</orth>
+            </form>
+            <def>channel wrack (Pelvetia canaliculata). Even spongier than caraichein [sic – caraichdein above] [q.v]. Dorcha-buidhe. Bha iad ’ga truisneachadh airson leigheas crodh air an robh tart. Gheobhadh tu i air na creagan mar a bha an làn ìseal.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1026">
+            <form>
+               <orth>sgeannagan (m)</orth>
+               <pron>[kind of seaweed.]</pron>
+            </form>
+            <def>[kind of seaweed.] Buidhe. ’Ga fhaotainn mar a bha an làn ìseal aig am [sic] sam bi de’n bhliadhna. ’Ga chaigneadh ’nad bhial cuideachd. Table-knife in shape.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1035">
+            <form>
+               <orth>caragan (m)</orth>
+               <pron>[kind of seaweed.]</pron>
+            </form>
+            <def>[kind of seaweed.] Ri ’chaigneadh. Cha mhór nach robh e dubh.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1044">
+            <form>
+               <orth>slamhcan (m)</orth>
+               <pron>[kind of seaweed.]</pron>
+            </form>
+            <def>[kind of seaweed.] (Enteramorpha intestinalus). Sleamhainn. Makes pudding – not very good. Green weed / fungus on rock. Brackish water.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1052"
+             subtype="h3">2. The actual work performed, e.g. transporting seaweed/manure to field</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1057">
+            <form>
+               <orth>a’ feamanadh (verbal noun)</orth>
+            </form>
+            <def>the act of transporting seaweed from the shore (ann an cairt).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1066">
+            <form>
+               <orth>a’ cur fodha na feamainn</orth>
+            </form>
+            <def>the act of putting seaweed into furrow (le forc no gràpa).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1074"
+             subtype="h3">3. Implements used for lifting, carrying and spreading manure or seaweed</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1079">
+            <form>
+               <orth>gràpa dìreach</orth>
+            </form>
+            <def>graip used for spreading of both ‘innear’ and ‘feamainn’ on field before ploughing. Sometimes known as ‘gràpa cartach’. <graphic url="TireeBarrapolHMacLeanagricultureillust1.jpg" width="300px"/>Crois a’ ghràpa – handle. Cas a’ ghràpa – shaft. Na meuran (always 4) – prongs. (Chan e “meòir” ann an Tiriodh.)</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1090">
+            <form>
+               <orth>gràpa cartach</orth>
+               <pron>[See gràpa dìreach.]</pron>
+            </form>
+            <def>[See gràpa dìreach.]</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1099">
+            <form>
+               <orth>gràpa crom</orth>
+            </form>
+            <def>graip - air a uisneachadh air uaireanan airson ’ga toirt as a’ chairt. Na’s fhaide na gràpa dìreach [q.v.].</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1108">
+            <form>
+               <orth>bara (m)</orth>
+            </form>
+            <def>barrow. <graphic url="TireeBarrapolHMacLeanagricultureillust2.jpg" width="500px"/>Toiseach a’ bhara. An aiseal. An roth. An t-ùrlar. Na taobhan. Na casan. Na spàgan (f) (spàg – sing.).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1118"
+             subtype="h2">(b) Turning and tilling the soil</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1122"
+             subtype="h3">1. Implements used for turning or tilling the soil</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1127">
+            <form>
+               <orth>ceaba</orth>
+            </form>
+            <def>ordinary garden spade.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1136">
+            <form>
+               <orth>gràpa</orth>
+            </form>
+            <def>fork.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1144"
+             subtype="h3">2. Parts of the implements used</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1148"
+             subtype="h3">3. Words used in connection with tilling the soil, e.g. digging</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1153">
+            <form>
+               <orth>a’ gearradh sgrìob</orth>
+            </form>
+            <def>digging a furrow (le ceaba, nan robh luachair ’sa leithid ann).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1162">
+            <form>
+               <orth>an druim</orth>
+            </form>
+            <def>first two furrows when starting to plough, face to face. Dheanadh iad druim le chéile. Daonnan nuair a bhiodh tu a’ treabhadh.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1171">
+            <form>
+               <orth>claise (f), claisean (pl)</orth>
+            </form>
+            <def>between each ploughed section.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1179"
+             subtype="h2">(c) Seed planting</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1183"
+             subtype="h3">1. Names of seeds planted and words used for sowing or planting them</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1188">
+            <form>
+               <orth>coirce beag</orth>
+            </form>
+            <def>native to Tiree – only type of oats to grow on sandy soil.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1197">
+            <form>
+               <orth>coirce mór</orth>
+            </form>
+            <def>other forms of oats such as “sandy oats”, “yielder”, “onward”, etc. Imported types. Used for grinding.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1206">
+            <form>
+               <orth>eòrna dà shreath</orth>
+            </form>
+            <def>used as malting barley and for feeding.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1215">
+            <form>
+               <orth>eòrna ceithir sreathan  (or eòrna mór)</orth>
+            </form>
+            <def>’se sin a bu mhotha a bha iad a’ cur an Tiriodh. Also for feeding and for making barley bread and barley porridge – brochan. Also used for malting.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1224">
+            <form>
+               <orth>eòrna mór</orth>
+               <pron>[See eòrna ceithir sreathan.]</pron>
+            </form>
+            <def>[See eòrna ceithir sreathan.]</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1233">
+            <form>
+               <orth>seagal</orth>
+            </form>
+            <def>rye. Used for feeding. Only stuff that would grow well on sandy soil.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1241"
+             subtype="h3">2. Names of any special sack, basket etc. used for carrying seed when sowing or planting</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1246">
+            <form>
+               <orth>peall (f), peallan (pl)</orth>
+            </form>
+            <def>sack formed around neck and shoulders from a blanket.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1254"
+             subtype="h3">3. Names of any special implement used for planting</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-idola216">
+            <form>
+               <orth>[dibble]</orth>
+            </form>
+            <def>Dibble used in Tiree.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1267"
+             subtype="h1">7. Summer work</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1271"
+             subtype="h2">(a) Cleaning and weeding potatoes</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1276">
+            <form>
+               <orth>a’ glanadh a’ bhuntàta</orth>
+            </form>
+            <def>weeding and cleaning (le làmhan).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1285">
+            <form>
+               <orth>a’ cur ioma</orth>
+            </form>
+            <def>earthing (ridging them up, putting soil up onto ridges).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1294">
+            <form>
+               <orth>“hough” (f), houghaichean (pl)</orth>
+            </form>
+            <def>hough.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1302"
+             subtype="h2">(b) Thinning and weeding other crops</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1307">
+            <form>
+               <orth>tanachadh</orth>
+            </form>
+            <def>thinning. Tanachadh an tuairneip – thinning turnips (act of). (Also applicable to carrots.)</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1316">
+            <form>
+               <orth>an ath-chuir</orth>
+            </form>
+            <def>the transplanting of cabbage (planted from seed).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1324"
+             subtype="h1">8. Autumn work</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1328"
+             subtype="h2">(a) Hay making</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1332"
+             subtype="h3">1. The implement used for (a) cutting (b) raking and turning (c) lifting and stacking</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1337">
+            <form>
+               <orth>corran (m), corrain (pl)</orth>
+            </form>
+            <def>sickle.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1346">
+            <form>
+               <orth>speal (f), spealan (pl)</orth>
+            </form>
+            <def>scythe.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1355">
+            <form>
+               <orth>clach-speal, clachan-speal (pl)</orth>
+            </form>
+            <def>sharpener.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1364">
+            <form>
+               <orth>ràsal (m)</orth>
+            </form>
+            <def>hay rake.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1373">
+            <form>
+               <orth>forc (m), forcanan (pl)</orth>
+            </form>
+            <def>hay fork.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1381"
+             subtype="h3">2. Name the parts of the implements mentioned</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1386">
+            <form>
+               <orth>[speal]</orth>
+            </form>
+            <def>
+               <graphic url="TireeBarrapolHMacLeanagricultureillust3.jpg" width="400px"/>An t-iaruinn. Gaidh. Na h-òrdagan. An crann (snathe). American snathe (below) used. Previously Scots snathe used (forked type)</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1396">
+            <form>
+               <orth>seòl na speal</orth>
+            </form>
+            <def>piece of canvas mounted on a wire behind blade at snathe to ensure that all grass was swept forward.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1580"
+             subtype="h3">3. Various stages of hay-making</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1585">
+            <form>
+               <orth>a’ spealadh</orth>
+            </form>
+            <def>scything. Speal mi.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1594">
+            <form>
+               <orth>a’ gearradh</orth>
+            </form>
+            <def>cutting.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1603">
+            <form>
+               <orth>a’ tionndadh</orth>
+            </form>
+            <def>turning.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1612">
+            <form>
+               <orth>a’ sprìodadh feòir</orth>
+            </form>
+            <def>spreading and leaving hay light (airing) (le forc).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1621">
+            <form>
+               <orth>a’ tioramachadh feòir</orth>
+            </form>
+            <def>drying.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1630">
+            <form>
+               <orth>rucannan-achaidh</orth>
+            </form>
+            <def>hay-cocks.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1639">
+            <form>
+               <orth>a’ deanamh rucannan</orth>
+            </form>
+            <def>stacking.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1647"
+             subtype="h2">(b) Corn cutting and securing</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1651"
+             subtype="h3">1. Implements used for cutting, raking, binding, lifting into stacks etc.</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1656">
+            <form>
+               <orth>speal</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1662">
+            <form>
+               <orth>ràsal</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1668">
+            <form>
+               <orth>forc</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1673"
+             subtype="h3">2. Bands (for tying corn), sheaves, stooks etc.</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1678">
+            <form>
+               <orth>bann (m), bannan (pl)</orth>
+            </form>
+            <def>bands for sheaves. 8, but more usually 10 sheaves in each stook (adag) in Tiree. Reef knot for sguaban-coirce. Bann-eòrna (at sguab centre) for sguaban-eòrna.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1687">
+            <form>
+               <orth>a’ ceagal</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] tying.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1404"
+             subtype="h3">3. Stack making (in yard)</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1409">
+            <form>
+               <orth>làrach a’ ruca</orth>
+            </form>
+            <def>stone foundation (hay). Only in damp clay ground. Wooden tripods only used in the field – i.e. with rucannan-achaidh [q.v.].</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1418">
+            <form>
+               <orth>làrach a’ mhulain</orth>
+            </form>
+            <def>stone foundation (corn). Only in damp clay ground. Wooden tripods only used in the field – i.e. with rucannan-achaidh [q.v.].</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1427">
+            <form>
+               <orth>ruca (m), rucannan (pl)</orth>
+            </form>
+            <def>haystack (rick).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1436">
+            <form>
+               <orth>ruca-achaidh</orth>
+            </form>
+            <def>small haystack in field [(wooden tripods used).]</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1445">
+            <form>
+               <orth>ruca mór</orth>
+            </form>
+            <def>large haystack in stackyard (anns an iodhlann).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1454">
+            <form>
+               <orth>prapag (f), prapagan (pl)</orth>
+            </form>
+            <def>hay coil (mun do rinn iad rucannan).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1463">
+            <form>
+               <orth>mulan (m)</orth>
+            </form>
+            <def>cornstack.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1471"
+             subtype="h3">4. Methods of carrying or transporting corn from field to corn yard</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1475"
+             subtype="h4">By cart</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1479"
+             subtype="h4">Then by</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1484">
+            <form>
+               <orth>[slide feòir]</orth>
+            </form>
+            <def>rig lifter (flat wooden slide). Mu naoi traighean (troighean) a dh’fhad agus sia traighean (troighean) a liad. Bha “trims” ann mar gum biodh air cairt, agus dà roth bheag. Air a tarraing le each.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1492"
+             subtype="h4">Then by</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1497">
+            <form>
+               <orth>forc-feòir</orth>
+            </form>
+            <def>hayfork.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1505"
+             subtype="h4">and</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1510">
+            <form>
+               <orth>rasal</orth>
+            </form>
+            <def>hayrake.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-idola217">
+            <form>
+               <orth>[corn]</orth>
+            </form>
+            <def>Corn: 8 or 10 sguaban (sheaves) – 1 adag (stook); 10 adagan – 1 stuca; 8 stucannan – 1 mulan.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1528">
+            <form>
+               <orth>[ruca]</orth>
+            </form>
+            <def>haystack in yard. <graphic url="TireeBarrapolHMacLeanagricultureillust4.jpg" width="500px"/>Na casan (cas sing.) (4 altogether). Clachan. The horizontal rope (in the form of a spiral from the top of the ‘ruca’) has no special name, but its placing on a stack is known as ’ga shiomanachadh.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1539">
+            <form>
+               <orth>cruach (cruach feòir)</orth>
+            </form>
+            <def>hay, oblong with rounded hipped ends. <graphic url="TireeBarrapolHMacLeanagricultureillust5.jpg" width="300px"/>
+            </def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1549">
+            <form>
+               <orth>sgian-fheòir</orth>
+            </form>
+            <def>for slicing sections of stacks, esp. cruachan [q.v.]. Done vertically like a saw. <graphic url="TireeBarrapolHMacLeanagricultureillust6.jpg" width="400px"/>
+            </def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1559">
+            <form>
+               <orth>mulan</orth>
+            </form>
+            <def>corn-stack in stack-yard. <graphic url="TireeBarrapolHMacLeanagricultureillust7.jpg" width="500px"/>An ceann (thatched with seileasdair (iris) or [sic]: – Am bodach (½ doz sheaves). – Bann. – Crios. – Sìoman-sgéith. – Am màthair shìoman. An cal(a)ba. <graphic url="TireeBarrapolHMacLeanagricultureillust8.jpg" width="400px"/>An t-sreath (outer row of sheaves). (Ears of adag to centre.) Biadh a’ mhulain (inner row of sheaves).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1572">
+            <form>
+               <orth>[calaba]</orth>
+               <pron>[See mulan.]</pron>
+            </form>
+            <def>[See mulan.]</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1695"
+             subtype="h2">(c) Potato lifting and storing</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1700">
+            <form>
+               <orth>togail a’ bhuntàta</orth>
+               <pron>[potato lifting.]</pron>
+            </form>
+            <def>[potato lifting.]</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1708"
+             subtype="h3">1. Implements</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1713">
+            <form>
+               <orth>gràpa-buntàta</orth>
+            </form>
+            <def>
+               <graphic url="TireeBarrapolHMacLeanagricultureillust9.jpg" width="150px"/>Dìreach (cas a’ ghrapa [sic]).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1722"
+             subtype="h3">2. Sack, creel, barrow etc. used for carrying potatoes in field and to steading</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1727">
+            <form>
+               <orth>[poca]</orth>
+            </form>
+            <def>Potatoes put into a poca.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1735"
+             subtype="h3">3. Where potatoes are kept or stored</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1740">
+            <form>
+               <orth>polag (f), polagan (pl)</orth>
+            </form>
+            <def>potato pit. About 3' deep, 3' wide, up to 20' in length, 2' high (above ground level). Potatoes covered with layer of hay. Then covered with “ùir”. Then covered over by “sgrothan”, which had been cut with a “lair-cheab”. Better if potatoes were allowed to breathe as they sweat – toll beag no dhà mura biodh reothadh ann. Ma bha coltas reothadh ann, dh’fheumadh tu an dùnadh.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1748"
+             subtype="h3">4. Potato diseases</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1752"
+             subtype="h2">(d) Other crops (Lifting and storing)</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1756"
+             subtype="h3">1. Implements used for lifting</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1761">
+            <form>
+               <orth>clipeadh na’ tuairneip</orth>
+            </form>
+            <def>cutting leaves from turnip (done with a scythe blade or “sgian thuairneip”).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1769"
+             subtype="h3">2. How and where crop is stored</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1774">
+            <form>
+               <orth>sabhal (m)</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1780">
+            <form>
+               <orth>iothlann (f)</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1785"
+             subtype="h3">3. Diseases/insects which attack the particular crop(s)</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1790">
+            <form>
+               <orth>fochan (m)</orth>
+            </form>
+            <def>affects young crops of oats, barley, etc., which start wilting away before they mature. Cure to roll over with a heavy roller. (Only occurs in clay soil.)</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1799">
+            <form>
+               <orth>toranach (m)</orth>
+            </form>
+            <def>affects crops when growing.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-idola218">
+            <form>
+               <orth>[insects]</orth>
+            </form>
+            <def>No insects in stackyard or barn. Only weevils but don’t diminish value.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1817">
+            <form>
+               <orth>finneagan an fheòir (f)</orth>
+               <pron>[weevils?]</pron>
+            </form>
+            <def>[weevils?]</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1826">
+            <form>
+               <orth>coirce-madaidh</orth>
+            </form>
+            <def>smut. Oats go black like soot with a fungus disease. Must be dressed with mercury solution to kill it (but not with feeding oats). Soaked in fermaldihide [sic] [formaldehyde?] nowadays.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1835">
+            <form>
+               <orth>cnoidheag (f), cnoidheagan (pl)</orth>
+            </form>
+            <def>maggot in turnips.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1843"
+             subtype="h1">9. Winter work</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1847"
+             subtype="h2">(a) Land drainage</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1851"
+             subtype="h3">1. Drains, ditches etc.</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1856">
+            <form>
+               <orth>dìgean (f)</orth>
+            </form>
+            <def>ditches.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1865">
+            <form>
+               <orth>dreanaichean (f)</orth>
+            </form>
+            <def>drains.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1873"
+             subtype="h3">2. Implements used</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1878">
+            <form>
+               <orth>spaid mhór</orth>
+            </form>
+            <def>rutting spade. <graphic url="TireeBarrapolHMacLeanagricultureillust10.jpg" width="400px"/>A’ chrois. A’ chas. An t-osan. A’ chluas. Ceann na spaid.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1889">
+            <form>
+               <orth>grapa  crom</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] to haul turf out. An grap [sic] fhéin. An t-osan. Cas a’ ghrap [sic].</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1899"
+             subtype="h2">(b) Potato cutting for seed</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1903"
+             subtype="h3">1. Instruments used</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1908">
+            <form>
+               <orth>sgian</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1914">
+            <form>
+               <orth>sùilean a’ bhuntàta</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1919"
+             subtype="h3">2. Different kinds of potatoes</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1924">
+            <form>
+               <orth>buntàta luath</orth>
+            </form>
+            <def>early potatoes.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1933">
+            <form>
+               <orth>buntàta anmoch</orth>
+            </form>
+            <def>late potatoes.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1942">
+            <form>
+               <orth>buntàta ruadh</orth>
+            </form>
+            <def>Orkney reds.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1950"
+             subtype="h2">(c) Corn threshing</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1954"
+             subtype="h3">1. Implements used</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1959">
+            <form>
+               <orth>an t-suirsde (f), suirsdeanan (pl)</orth>
+            </form>
+            <def>(An ‘r’ is often sounded in Tiree.) <graphic url="TireeBarrapolHMacLeanagricultureillust12.jpg" width="500px"/>An iall (f) (de chraiceann caorach – the ‘iall’ was made of ‘sùgan’ in the distant past). Am buailtean (caltainn). An lacharan (m), lacharain (pl).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1969"
+             subtype="h3">2. Threshing</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1974">
+            <form>
+               <orth>a’ bualadh</orth>
+            </form>
+            <def>threshing. A’ bualadh arbhair.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1983">
+            <form>
+               <orth>dannsa na suirsde</orth>
+            </form>
+            <def>manipulating the actual flail.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e1992">
+            <form>
+               <orth>a’ spoth an t-sìl</orth>
+            </form>
+            <def>separating the straws from the seed.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e2000"
+             subtype="h2">(d) Grain winnowing</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e2005">
+            <form>
+               <orth>a’ càthadh</orth>
+               <pron>[grain winnowing.]</pron>
+            </form>
+            <def>[grain winnowing.]</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e2013"
+             subtype="h3">1. Devices used</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e2018">
+            <form>
+               <orth>fasganadh (f), fasganadhan (pl)</orth>
+            </form>
+            <def>vessel used for winnowing seed (airson a’ mhuill a chur air falbh). 18" in diameter and fairly shallow (c. 2") with a solid bottom of sheepskin (wooden).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e2027">
+            <form>
+               <orth>criathar (m), criathair (pl)</orth>
+            </form>
+            <def>deeper than “fasganadh” [q.v.] – c. 4" and with a perforated sheepskin bottom (done with a red hot knitting needle or ‘dealg’). Airson fras a’ sgeallain a chur as an t-sìol. (Wild mustard – finer than oats or barley.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e2035"
+             subtype="h3">2. How constructed and materials used. Winnowing</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e2039"
+             subtype="h1">10. Permanent structures/buildings for storing crops</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e2043"
+             subtype="h2">(a) Stack-yard</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e2048">
+            <form>
+               <orth>iothlann (f)</orth>
+            </form>
+            <def>stackyard.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e2057">
+            <form>
+               <orth>am bealach (m), bealaichean</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] gateway.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e2065"
+             subtype="h2">(b) Barn and parts of a barn</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e2070">
+            <form>
+               <orth>an soran</orth>
+            </form>
+            <def>opening in wall to allow wind to enter when winnowing. 2½' high x 2' wide. Ma choinneamh an doruis fhéin.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e2079">
+            <form>
+               <orth>lobht’ an t-sabhail</orth>
+            </form>
+            <def>raised portion on top of which corn is stored.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e2087"
+             subtype="h1">11. Modern implements and machines</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e2092">
+            <form>
+               <orth>an sgian</orth>
+            </form>
+            <def>cutting implement in mower of binder.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e2101">
+            <form>
+               <orth>bailaichean</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] bales.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanagriculture-d0e2110">
+            <form>
+               <orth>ràsal a’ bhinder</orth>
+            </form>
+            <def>a binder’s large spoked wooden wheel.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

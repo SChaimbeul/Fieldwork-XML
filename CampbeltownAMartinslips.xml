@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_CampbeltownAMartinslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>04/04/1976 (letter)</date>
+            <location>
+               <placeName>Kintyre, Campbeltown</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>Angus Martin</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_CampbeltownAMartinslips-idp161827296">
+            <form>
+               <orth>monais</orth>
+            </form>
+            <def>Notes: ‘coarse woolly twine used for setting up nets to ropes’. SND s.v. monish ‘orig. unascertained’.</def>
+         </entry>
+         <entry xml:id="Slips_CampbeltownAMartinslips-idp161828808">
+            <form>
+               <orth>bad</orth>
+            </form>
+            <def>Quotation: “We’ll try a bad.” Notes: ‘Shooting overboard 2 or 3 fathoms of net on a breezy night, as a test for presence of herring.’</def>
+         </entry>
+         <entry xml:id="Slips_CampbeltownAMartinslips-idp161830464">
+            <form>
+               <orth>ceannair</orth>
+            </form>
+            <def>Notes: the end of the bridle-rope, which is attached to the wing of the net. (Tarbert)</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

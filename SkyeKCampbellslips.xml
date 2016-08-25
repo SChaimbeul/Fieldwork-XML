@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_SkyeKCampbellslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1977</date>
+            <location>
+               <placeName>Skye</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>Kenna Campbell</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_SkyeKCampbellslips-idp115456216">
+            <form>
+               <orth>leac-ard</orth>
+            </form>
+            <def>Notes: shoulder-blade of sheep.</def>
+         </entry>
+         <entry xml:id="Slips_SkyeKCampbellslips-idp115493368">
+            <form>
+               <orth>sgart</orth>
+            </form>
+            <def>Notes: lining of the stomach, covering of intestines.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

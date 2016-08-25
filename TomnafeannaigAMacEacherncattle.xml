@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: in most cases, the informant does not give definitions probably because most of the time he is giving Gaelic equivalents of the English terms found under each section’s heading in the questionnaire itself. Therefore, in most cases it is possible to work out what each word means and whenever possible the definitions provided by the questionnaire have been copied and put next to the terms provided by the informant.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>[Islay, Ballygrant] Tomnafeannaig</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Alasdair MacEachern</persName>
+               <persName xml:lang="gd">Alasdair MacEachearna</persName>
+               <age>[70]</age>
+               <birth>
+                  <placeName>[Islay, Ballygrant]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Cattle</term>
+               <term xml:lang="gd">Crodh</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e35"
+             subtype="h1">1. Different stages in the growth of cattle</ab>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e40">
+            <form>
+               <orth>daogh</orth>
+            </form>
+            <def>boireann or firenn. Thear sinne n Ile ‘daogh’ air son ‘laogh’, ‘doch’ ri ‘loch’, ‘dha’ ri ‘la’. Tha sinn gu tric a cur a ‘d’ an n aite an ‘l’.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e49">
+            <form>
+               <orth>gamhinn</orth>
+            </form>
+            <def>gu bliadhna dh aosh [?].</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e58">
+            <form>
+               <orth>biorach</orth>
+            </form>
+            <def>bhoireann gus a ciad daogh.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e67">
+            <form>
+               <orth>damh</orth>
+            </form>
+            <def>firenn, suas da bhliadhna.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e76">
+            <form>
+               <orth>biorach sheasg</orth>
+            </form>
+            <def>oh [?] daogh.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e85">
+            <form>
+               <orth>biorach throm</orth>
+            </form>
+            <def>an a daogh.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e94">
+            <form>
+               <orth>bo</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e100">
+            <form>
+               <orth>seanna bo</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e106">
+            <form>
+               <orth>tarabh</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e111"
+             subtype="h1">2. Breeds of cattle</ab>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e116">
+            <form>
+               <orth>beathach Galda</orth>
+            </form>
+            <def>Ayrshire.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e125">
+            <form>
+               <orth>beathach Gaidhealach</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e130"
+             subtype="h1">3. Outward appearance of cattle</ab>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e135">
+            <form>
+               <orth>beathach ruadh</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e141">
+            <form>
+               <orth>beathach donn</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e147">
+            <form>
+               <orth>beathach briochd</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e153">
+            <form>
+               <orth>beathach dubh</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e159">
+            <form>
+               <orth>beathach grisfhionn</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e165">
+            <form>
+               <orth>beathach ruadh is geal</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e171">
+            <form>
+               <orth>beathach dubh is geal</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e177">
+            <form>
+               <orth>beathach geal no ban</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e182"
+             subtype="h1">4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</ab>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e187">
+            <form>
+               <orth>beathach gasda</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e193">
+            <form>
+               <orth>beathach math</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e199">
+            <form>
+               <orth>beathach nach eil a leathaid</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e205">
+            <form>
+               <orth>beathach san ait</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e211">
+            <form>
+               <orth>beathach measal</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e217">
+            <form>
+               <orth>beathach fiachal</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e222"
+             subtype="h1">5. Parts of the body</ab>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e227">
+            <form>
+               <orth>ceann as muineal</orth>
+               <pron>[head and neck.]</pron>
+            </form>
+            <def>[head and neck.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e236">
+            <form>
+               <orth>adharcan</orth>
+               <pron>[horns.]</pron>
+            </form>
+            <def>[horns.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e245">
+            <form>
+               <orth>claraodinn</orth>
+               <pron>[forehead.]</pron>
+            </form>
+            <def>[forehead.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e254">
+            <form>
+               <orth>beul</orth>
+               <pron>[mouth.]</pron>
+            </form>
+            <def>[mouth.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e263">
+            <form>
+               <orth>fionnadh</orth>
+               <pron>[hair.]</pron>
+            </form>
+            <def>[hair.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e272">
+            <form>
+               <orth>seiche</orth>
+               <pron>[hide.]</pron>
+            </form>
+            <def>[hide.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e281">
+            <form>
+               <orth>gualinn</orth>
+               <pron>[shoulder.]</pron>
+            </form>
+            <def>[shoulder.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e290">
+            <form>
+               <orth>broillach</orth>
+               <pron>[breast.]</pron>
+            </form>
+            <def>[breast.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e299">
+            <form>
+               <orth>casan toisich</orth>
+               <pron>[forelegs.]</pron>
+            </form>
+            <def>[forelegs.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e308">
+            <form>
+               <orth>glun</orth>
+               <pron>[knee?]</pron>
+            </form>
+            <def>[knee?]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e317">
+            <form>
+               <orth>crothan</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e323">
+            <form>
+               <orth>cnaimh droma</orth>
+               <pron>[backbone.]</pron>
+            </form>
+            <def>[backbone.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e332">
+            <form>
+               <orth>ceathra deirridh</orth>
+               <pron>[hindquarters.]</pron>
+            </form>
+            <def>[hindquarters.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e341">
+            <form>
+               <orth>uarabail</orth>
+               <pron>[tail.]</pron>
+            </form>
+            <def>[tail.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e350">
+            <form>
+               <orth>cruachan</orth>
+               <pron>[hip?]</pron>
+            </form>
+            <def>[hip?]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e359">
+            <form>
+               <orth>casan deirridh</orth>
+               <pron>[hindlegs.]</pron>
+            </form>
+            <def>[hindlegs.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e368">
+            <form>
+               <orth>spear</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e374">
+            <form>
+               <orth>sliasaid</orth>
+               <pron>[thigh?]</pron>
+            </form>
+            <def>[thigh?]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e383">
+            <form>
+               <orth>ugh as ballain</orth>
+               <pron>[udder and teats.]</pron>
+            </form>
+            <def>[udder and teats.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e392">
+            <form>
+               <orth>feith</orth>
+               <pron>[muscle.]</pron>
+            </form>
+            <def>[muscle.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e401">
+            <form>
+               <orth>alt</orth>
+               <pron>[joint.]</pron>
+            </form>
+            <def>[joint.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e410">
+            <form>
+               <orth>cridhe</orth>
+               <pron>[heart.]</pron>
+            </form>
+            <def>[heart.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e419">
+            <form>
+               <orth>cuilsean</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] [arteries or veins].</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e428">
+            <form>
+               <orth>fuil</orth>
+               <pron>[blood.]</pron>
+            </form>
+            <def>[blood.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e437">
+            <form>
+               <orth>sgamhan</orth>
+               <pron>[lungs.]</pron>
+            </form>
+            <def>[lungs.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e446">
+            <form>
+               <orth>aotraman</orth>
+               <pron>[bladder.]</pron>
+            </form>
+            <def>[bladder.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e455">
+            <form>
+               <orth>dubhain</orth>
+               <pron>[kidneys.]</pron>
+            </form>
+            <def>[kidneys.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e464">
+            <form>
+               <orth>domlasagh</orth>
+               <pron>[gall-bladder.]</pron>
+            </form>
+            <def>[gall-bladder.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e473">
+            <form>
+               <orth>sgordan</orth>
+               <pron>[gullet.?]</pron>
+            </form>
+            <def>[gullet.?]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e482">
+            <form>
+               <orth>maodal</orth>
+               <pron>[stomach.]</pron>
+            </form>
+            <def>[stomach.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e491">
+            <form>
+               <orth>mionach</orth>
+               <pron>[intestines.]</pron>
+            </form>
+            <def>[intestines.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e500">
+            <form>
+               <orth>saill no geir</orth>
+               <pron>[fat.]</pron>
+            </form>
+            <def>[fat.]</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e508"
+             subtype="h1">6. Calving</ab>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e513">
+            <form>
+               <orth>A bho air a daoradh</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e519">
+            <form>
+               <orth>Rug a bho daogh</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e525">
+            <form>
+               <orth>Tha bho air breith</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e531">
+            <form>
+               <orth>glanadh</orth>
+            </form>
+            <def>Tha bho no bhiorach air glanadh.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e539"
+             subtype="h1">7. Milking</ab>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e544">
+            <form>
+               <orth>a bleodhan</orth>
+               <pron>[milking.]</pron>
+            </form>
+            <def>[milking.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e553">
+            <form>
+               <orth>a bleodhan gus an deur mo dhearadh</orth>
+               <pron>[milking to the last drop.]</pron>
+            </form>
+            <def>[milking to the last drop.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e562">
+            <form>
+               <orth>a deothal</orth>
+               <pron>[suckling.]</pron>
+            </form>
+            <def>[suckling.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e571">
+            <form>
+               <orth>bainne nuis</orth>
+               <pron>[milk yielded the first two or three days after calving.]</pron>
+            </form>
+            <def>[milk yielded the first two or three days after calving.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e580">
+            <form>
+               <orth>am a bhleodhain</orth>
+               <pron>[milking time.]</pron>
+            </form>
+            <def>[milking time.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e589">
+            <form>
+               <orth>bleodhan moch is anamoch</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e594"
+             subtype="h1">8. Feeding</ab>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e599">
+            <form>
+               <orth>biadh a chruidh</orth>
+               <pron>[feeding cattle.]</pron>
+            </form>
+            <def>[feeding cattle.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e608">
+            <form>
+               <orth>biadh laimhadh</orth>
+               <pron>[hand-feeding.]</pron>
+            </form>
+            <def>[hand-feeding.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e617">
+            <form>
+               <orth>boiteain fear</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e623">
+            <form>
+               <orth>sguab coirc</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e629">
+            <form>
+               <orth>dreamag coirc</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e635">
+            <form>
+               <orth>ag uisgachadh a chruidh</orth>
+               <pron>[watering cattle.]</pron>
+            </form>
+            <def>[watering cattle.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e644">
+            <form>
+               <orth>gan cur a mach airson deoch</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e650">
+            <form>
+               <orth>cuinnag</orth>
+               <pron>[pail used to water cattle.]</pron>
+            </form>
+            <def>[pail used to water cattle.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e659">
+            <form>
+               <orth>ionaltradh</orth>
+               <pron>[grazing.]</pron>
+            </form>
+            <def>[grazing.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e668">
+            <form>
+               <orth>buachailachd</orth>
+               <pron>[tending of cattle.]</pron>
+            </form>
+            <def>[tending of cattle.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e677">
+            <form>
+               <orth>cuir a mach a chruidh</orth>
+               <pron>[driving cattle to grazing.]</pron>
+            </form>
+            <def>[driving cattle to grazing.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e686">
+            <form>
+               <orth>toirt dhachaigh a cruidh</orth>
+               <pron>[driving cattle from grazing.]</pron>
+            </form>
+            <def>[driving cattle from grazing.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e695">
+            <form>
+               <orth>buachaile</orth>
+               <pron>[herdsman.]</pron>
+            </form>
+            <def>[herdsman.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e704">
+            <form>
+               <orth>banna bhuachile</orth>
+               <pron>[herdswoman.]</pron>
+            </form>
+            <def>[herdswoman.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e713">
+            <form>
+               <orth>bannarach</orth>
+            </form>
+            <def>dairymaid.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e721"
+             subtype="h1">9. Apparatus</ab>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e726">
+            <form>
+               <orth>ceathal a bho</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e732">
+            <form>
+               <orth>teaghair</orth>
+               <pron>[tether.]</pron>
+            </form>
+            <def>[tether.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e741">
+            <form>
+               <orth>cipeain</orth>
+               <pron>[tether stake.]</pron>
+            </form>
+            <def>[tether stake.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e750">
+            <form>
+               <orth>udalan</orth>
+            </form>
+            <def>swivel.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e759">
+            <form>
+               <orth>buarach</orth>
+               <pron>[fetter for milking.]</pron>
+            </form>
+            <def>[fetter for milking.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e768">
+            <form>
+               <orth>dangaig no langaig</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e774">
+            <form>
+               <orth>crocach</orth>
+               <pron>[instrument used]</pron>
+            </form>
+            <def>[instrument used] to prevent calf from sucking [its mother].</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e782"
+             subtype="h1">10. Diseases</ab>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e787">
+            <form>
+               <orth>foinachan</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e793">
+            <form>
+               <orth>at</orth>
+            </form>
+            <def>swelling.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e802">
+            <form>
+               <orth>spotan</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e808">
+            <form>
+               <orth>cartain</orth>
+            </form>
+            <def>ticks.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e817">
+            <form>
+               <orth>fearsagan</orth>
+            </form>
+            <def>worbels.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e826">
+            <form>
+               <orth>tart</orth>
+            </form>
+            <def>maw(bound).</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e835">
+            <form>
+               <orth>fiabhras a bhainne</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e841">
+            <form>
+               <orth>casan air sgealadh</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e847">
+            <form>
+               <orth>crianach</orth>
+            </form>
+            <def>trembling.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e856">
+            <form>
+               <orth>buinneach uisgedearg</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e862">
+            <form>
+               <orth>buachar leasachadh</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e867"
+             subtype="h1">11. Miscellaneous</ab>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e872">
+            <form>
+               <orth>preeleo no preebheag</orth>
+               <pron>[call to a cow.]</pron>
+            </form>
+            <def>[call to a cow.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e881">
+            <form>
+               <orth>sugan beag</orth>
+            </form>
+            <def>ri loagh [sic] [call to a calf].</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e890">
+            <form>
+               <orth>tread</orth>
+            </form>
+            <def>herd.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e899">
+            <form>
+               <orth>effein</orth>
+            </form>
+            <def>render helpless.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e908">
+            <form>
+               <orth>bogadh</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TomnafeannaigAMacEacherncattle-d0e914">
+            <form>
+               <orth>buachar no leasachadh</orth>
+               <pron>[cow dung.]</pron>
+            </form>
+            <def>[cow dung.]</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

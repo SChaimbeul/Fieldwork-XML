@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_LochboisdaleAMunroslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>02/1969</date>
+            <location>
+               <placeName>South Uist, Lochboisdale</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Archie Munro</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_LochboisdaleAMunroslips-idp167331648">
+            <form>
+               <orth>mìos</orth>
+            </form>
+            <def>Quotation: mìos crochadh nan cléibh. Notes: February.</def>
+         </entry>
+         <entry xml:id="Slips_LochboisdaleAMunroslips-idp167328696">
+            <form>
+               <orth>riatanach</orth>
+               <pron>[riɤt̪ɑ̃ṉɑx]</pron>
+            </form>
+            <def>[riɤt̪ɑ̃ṉɑx] Notes: same as “feumail” – useful.</def>
+         </entry>
+         <entry xml:id="Slips_LochboisdaleAMunroslips-idp167345544">
+            <form>
+               <orth>put</orth>
+            </form>
+            <def>Quotation: a’ putadh na cloich. Notes: putting the shot.</def>
+         </entry>
+         <entry xml:id="Slips_LochboisdaleAMunroslips-idp167347200">
+            <form>
+               <orth>achasan</orth>
+               <pron>[ɑxəsɑṉ]</pron>
+            </form>
+            <def>[ɑxəsɑṉ] Notes: reprimand.</def>
+         </entry>
+         <entry xml:id="Slips_LochboisdaleAMunroslips-idp167348928">
+            <form>
+               <orth>badag</orth>
+            </form>
+            <def>Notes: brush made of hen feathers for cleaning the griddle.</def>
+         </entry>
+         <entry xml:id="Slips_LochboisdaleAMunroslips-idp167350512">
+            <form>
+               <orth>cailleach-chòsag</orth>
+            </form>
+            <def>Notes: slater (woodlouse).</def>
+         </entry>
+         <entry xml:id="Slips_LochboisdaleAMunroslips-idp167352024">
+            <form>
+               <orth>camaidealach</orth>
+               <pron>[kɑmədʹəɫɑx]</pron>
+            </form>
+            <def>[kɑmədʹəɫɑx] Quotation: àite camaidealach. Notes: a place through which it is difficult to make a clear passage. One has to zig-zag to avoid obstacles, e.g. harbour with a lot of rocks at the entrance.</def>
+         </entry>
+         <entry xml:id="Slips_LochboisdaleAMunroslips-idp167353896">
+            <form>
+               <orth>ceap</orth>
+            </form>
+            <def>Notes: cap.</def>
+         </entry>
+         <entry xml:id="Slips_LochboisdaleAMunroslips-idp167355408">
+            <form>
+               <orth>ceàrrdubhan</orth>
+               <pron>[cɑ:rd̪u̟ɑ̃ṉ]</pron>
+            </form>
+            <def>[cɑ:rd̪u̟ɑ̃ṉ] Notes: an insect which frequents dung-heaps.</def>
+         </entry>
+         <entry xml:id="Slips_LochboisdaleAMunroslips-idp167357136">
+            <form>
+               <orth>coingeart</orth>
+               <pron>[kɔiŋɡʹɛʴsṯ]</pron>
+            </form>
+            <def>[kɔiŋɡʹɛʴsṯ] Quotation: Chaneil e [kɔiŋɡʹɛʴsṯ] sin a dheanamh. Notes: It is not right to do that. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+         </entry>
+         <entry xml:id="Slips_LochboisdaleAMunroslips-idp167359440">
+            <form>
+               <orth>corra-steòcach</orth>
+               <pron>[kɔɾəʃtʹɔ:xkɔx]</pron>
+            </form>
+            <def>[kɔɾəʃtʹɔ:xkɔx] Notes: a kind of spade. Old usage, heard in Lochboisdale years back. Said by N. Macmillan, Kilpheder to be a Harris word.</def>
+         </entry>
+         <entry xml:id="Slips_LochboisdaleAMunroslips-idp167361168">
+            <form>
+               <orth>deannan</orth>
+               <pron>[dʹɑ̃n̪ɑṉ]</pron>
+            </form>
+            <def>[dʹɑ̃n̪ɑṉ] Notes: several, a good many.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

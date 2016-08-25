@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="AssortedFieldworkers_anonymousfishing">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: second hand. See below for details.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation/>
+         <textClass>
+            <keywords>
+               <term>Fishing</term>
+               <term xml:lang="gd">Iasgach</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="AssortedFieldworkers_anonymousfishing-idola37">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Length of line. Type of line. Type of boats. Sailing and motor. Different fishing grounds. For round and flat fish. Lead plumb used for telling the different grounds. Using grease or margarine. Getting the bait. Shelling. Limpets and mussels. Whole family involved. Methods of hauling and shooting lines.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_anonymousfishing-idola12">
+            <form>
+               <orth>sneed; cheepick</orth>
+            </form>
+            <def>1. Line. Consisted of 10-12 strings, 72 hooks per string. Hooks attached to main line. Every 6ft. By means of a thin, cotton string called a sneed and a horsehair cheepick both approx. 18" long.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_anonymousfishing-idola13">
+            <form>
+               <orth>creedle; croick</orth>
+            </form>
+            <def>2. Creedle for holding line. Made of cane rounded at one end and sloped at other for shooting line. And for easy storing on wooden croick when left after baiting ling prior to going to sea.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_anonymousfishing-idola14">
+            <form>
+               <orth>platack</orth>
+            </form>
+            <def>3. When lines were hauled they were stored in a rush mat called a platack. 4. Platack. Roughly 5' x 4'. When the fisherman got home he untied his platack and red his line into a herring basket or cotton sacks all ready for baiting with either lug worm, limpit [sic] mussel or herring according to time of year. Mainly lug in the summer months.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_anonymousfishing-idola38">
+            <form>
+               <orth>[kinds of fish]</orth>
+            </form>
+            <def>5. All kinds of fish. But mostly flat fish on sandy ground and cod, haddock and whiting on hard ground. Rocks or gravel very often. A crab or lobster got entangled on the line, which was a bonus for that fisherman. He took it home and cooked it in the ashes.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_anonymousfishing-idola39">
+            <form>
+               <orth>[note]</orth>
+               <pron>[NOTES: the following two items in second hand.]</pron>
+            </form>
+            <def>[NOTES: the following two items in second hand.]</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_anonymousfishing-idola15">
+            <form>
+               <orth>gemack</orth>
+            </form>
+            <def>lobster.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_anonymousfishing-idola16">
+            <form>
+               <orth>clie</orth>
+            </form>
+            <def>creel.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

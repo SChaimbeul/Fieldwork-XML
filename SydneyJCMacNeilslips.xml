@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_SydneyJCMacNeilslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>05/1971</date>
+            <location>
+               <placeName>Canada, Cape Breton, Sydney</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>J C MacNeil</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_SydneyJCMacNeilslips-idp115465640">
+            <form>
+               <orth>ròsgladh</orth>
+            </form>
+            <def>Notes: roasting.</def>
+         </entry>
+         <entry xml:id="Slips_SydneyJCMacNeilslips-idp115484504">
+            <form>
+               <orth>geaban</orth>
+               <pron>[ɡʹe:bɑṉ]</pron>
+            </form>
+            <def>[ɡʹe:bɑṉ] Notes: an untidy person, person who doesn’t take pride in his appearance.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

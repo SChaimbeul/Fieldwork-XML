@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_GobhaigAMacLennanslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1983, 1985</date>
+            <location>
+               <placeName>Harris, Gobhaig (Govig on the slips)</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>Angus MacLennan</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_GobhaigAMacLennanslips-idp115436480">
+            <form>
+               <orth>don-gnothaich</orth>
+            </form>
+            <def>Quotation: Don-gnothaich ort! Notes: imprecation.</def>
+         </entry>
+         <entry xml:id="Slips_GobhaigAMacLennanslips-idp115490336">
+            <form>
+               <orth>spiol-mhé(idh?)</orth>
+            </form>
+            <def>Quotation: Cuiridh mi tron an spìol-mhé sibh. Notes: threat used by old woman to children…</def>
+         </entry>
+         <entry xml:id="Slips_GobhaigAMacLennanslips-idp115459088">
+            <form>
+               <orth>spreigeach</orth>
+            </form>
+            <def>Notes: given to divulging secrets, confidences.</def>
+         </entry>
+         <entry xml:id="Slips_GobhaigAMacLennanslips-idp115480112">
+            <form>
+               <orth>gràgalas</orth>
+            </form>
+            <def>Quotation: ’S ann le fìor ghràgalas a rinn thu siod. Notes: querulous reluctance.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

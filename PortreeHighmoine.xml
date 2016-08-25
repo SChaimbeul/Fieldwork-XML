@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Peat_PortreeHighmoine">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>An t-Eilean Sgiathanach, Portrigh [Skye, Portree]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[school]</persName>
+            </person>
+            <person role="informant">
+               <persName>Portree High</persName>
+               <persName xml:lang="gd">Ard Sgoil Phortrigh </persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Peat-Working</term>
+               <term xml:lang="gd">Mòine</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading" xml:id="Peat_PortreeHighmoine-d0e26" subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+         <entry xml:id="Peat_PortreeHighmoine-d0e31">
+            <form>
+               <orth>a’ breacadh na mònadh</orth>
+            </form>
+            <def>marking turf that is to be removed.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e40">
+            <form>
+               <orth>poll</orth>
+            </form>
+            <def>peat bog or bank.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e49">
+            <form>
+               <orth>a’ feannadh na mònadh</orth>
+            </form>
+            <def>turfing peat.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e58">
+            <form>
+               <orth>a’ rusgadh na mònadh</orth>
+            </form>
+            <def>turfing peat. (Skye)</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e67">
+            <form>
+               <orth>a’ faileadh na mònadh</orth>
+            </form>
+            <def>turfing peat. (Harris)</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e76">
+            <form>
+               <orth>a’ truiseadh na mònadh</orth>
+            </form>
+            <def>turfing peat. (Harris)</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e85">
+            <form>
+               <orth>a’ sadhsadh na mònadh</orth>
+            </form>
+            <def>stripping the face of the peat bog.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e94">
+            <form>
+               <orth>a’ buain</orth>
+            </form>
+            <def>cutting.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e103">
+            <form>
+               <orth>a’ leagail</orth>
+            </form>
+            <def>cutting. (Harris)</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e112">
+            <form>
+               <orth>an fheanntach</orth>
+            </form>
+            <def>the turf removed.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e121">
+            <form>
+               <orth>ceann a’ phuill</orth>
+            </form>
+            <def>upper end of the peat bog.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e130">
+            <form>
+               <orth>ceann shios a’ phuill</orth>
+            </form>
+            <def>lower end of the peat bog.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e139">
+            <form>
+               <orth>ris a’ mhòine</orth>
+            </form>
+            <def>engaged in peat work.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e148">
+            <form>
+               <orth>anns a’ mhòine</orth>
+            </form>
+            <def>engaged in peat work.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e157">
+            <form>
+               <orth>aig a’ mhòine</orth>
+            </form>
+            <def>engaged in peat work.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e166">
+            <form>
+               <orth>sgaoilteach</orth>
+            </form>
+            <def>ground on which peat is spread out.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e175">
+            <form>
+               <orth>uachdar</orth>
+            </form>
+            <def>the top of the peat bank.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e184">
+            <form>
+               <orth>iochdar</orth>
+            </form>
+            <def>the bottom of the peat bank.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e193">
+            <form>
+               <orth>aghaidh a’ phuill</orth>
+            </form>
+            <def>face of peat bog.</def>
+         </entry>
+         <ab type="heading" xml:id="Peat_PortreeHighmoine-d0e201" subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+         <entry xml:id="Peat_PortreeHighmoine-d0e206">
+            <form>
+               <orth>troighsgeir</orth>
+            </form>
+            <def>peat iron.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e215">
+            <form>
+               <orth>iarunn mònadh</orth>
+            </form>
+            <def>peat iron.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e224">
+            <form>
+               <orth>ceapa làir</orth>
+            </form>
+            <def>turfing-spade.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e233">
+            <form>
+               <orth>mèatha</orth>
+            </form>
+            <def>the width of peat bank to be cut.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e242">
+            <form>
+               <orth>carcair</orth>
+            </form>
+            <def>the width of peat bank to be cut. (Skye)</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e251">
+            <form>
+               <orth>fàd</orth>
+            </form>
+            <def>peat.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e260">
+            <form>
+               <orth>bàn-fhàd</orth>
+            </form>
+            <def>top peat.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e269">
+            <form>
+               <orth>dubh-fhàd</orth>
+            </form>
+            <def>second peat.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e278">
+            <form>
+               <orth>grunn’-fhad</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] bottom peat. (Skye)</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e287">
+            <form>
+               <orth>caoran</orth>
+            </form>
+            <def>bottom peat. (Uist and Scalpay)</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e296">
+            <form>
+               <orth>gàg</orth>
+            </form>
+            <def>a flaw in peat bank.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e305">
+            <form>
+               <orth>gol-fhàd</orth>
+            </form>
+            <def>the outer peat in the bank. (Uist)</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e314">
+            <form>
+               <orth>a’ sgaoileadh</orth>
+            </form>
+            <def>spreading peat.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e323">
+            <form>
+               <orth>gàradh</orth>
+            </form>
+            <def>wall of newly cut peat.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e332">
+            <form>
+               <orth>iarunn</orth>
+            </form>
+            <def>a day’s peat-cutting for two men. (Uist)</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e341">
+            <form>
+               <orth>sgaoilteach</orth>
+            </form>
+            <def>cut peat not in ‘gàradh’ [q.v.].</def>
+         </entry>
+         <ab type="heading" xml:id="Peat_PortreeHighmoine-d0e349" subtype="h1">3. A’ tiormachadh na mònach</ab>
+         <entry xml:id="Peat_PortreeHighmoine-d0e354">
+            <form>
+               <orth>a’ togail</orth>
+            </form>
+            <def>setting up peat to dry.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e363">
+            <form>
+               <orth>a’ tinneadh</orth>
+            </form>
+            <def>setting up peat on end.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e372">
+            <form>
+               <orth>rùdhan</orth>
+            </form>
+            <def>grouping of peats (about 5 or 6) to dry.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e381">
+            <form>
+               <orth>rùdhan</orth>
+            </form>
+            <def>a small peat stack. (Skye)</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e390">
+            <form>
+               <orth>a’ chas-bheag</orth>
+            </form>
+            <def>three or four peats set up for drying.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e399">
+            <form>
+               <orth>ag atharrachadh</orth>
+            </form>
+            <def>re-grouping peat to speed up drying.</def>
+         </entry>
+         <ab type="heading" xml:id="Peat_PortreeHighmoine-d0e407" subtype="h1">4. A’ cruachadh na mònach</ab>
+         <entry xml:id="Peat_PortreeHighmoine-d0e412">
+            <form>
+               <orth>cruach</orth>
+            </form>
+            <def>stack.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e421">
+            <form>
+               <orth>làrach</orth>
+            </form>
+            <def>base of stack.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e430">
+            <form>
+               <orth>cridhe</orth>
+            </form>
+            <def>inside of stack.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e439">
+            <form>
+               <orth>gniomhadh</orth>
+            </form>
+            <def>the building of peat-stack.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e448">
+            <form>
+               <orth>tubhadh</orth>
+            </form>
+            <def>covering the stack with turf.</def>
+         </entry>
+         <ab type="heading" xml:id="Peat_PortreeHighmoine-d0e456" subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+         <ab type="heading" xml:id="Peat_PortreeHighmoine-d0e460" subtype="h1">6. Seòrsachan mònach</ab>
+         <entry xml:id="Peat_PortreeHighmoine-d0e465">
+            <form>
+               <orth>mòine bhuidhe</orth>
+            </form>
+            <def>spongy peat.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e474">
+            <form>
+               <orth>mòine chòsach</orth>
+            </form>
+            <def>spongy peat.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e483">
+            <form>
+               <orth>mòine dhubh</orth>
+            </form>
+            <def>black peat.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e492">
+            <form>
+               <orth>mòine chruaidh dhubh</orth>
+            </form>
+            <def>black peat (Uist and Harris).</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e501">
+            <form>
+               <orth>caorain</orth>
+            </form>
+            <def>broken peat.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e510">
+            <form>
+               <orth>pronnadh</orth>
+            </form>
+            <def>crumbling peat.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e519">
+            <form>
+               <orth>smùr</orth>
+            </form>
+            <def>peat dust. (Uist and Harris)</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e528">
+            <form>
+               <orth>smurach</orth>
+            </form>
+            <def>peat dust. (Skye)</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e537">
+            <form>
+               <orth>seana-mhoine</orth>
+            </form>
+            <def>last year’s peat.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e546">
+            <form>
+               <orth>mòine-ùr</orth>
+            </form>
+            <def>this year’s peat.</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e555">
+            <form>
+               <orth>a’ dol a sadhsaladh</orth>
+            </form>
+            <def>over-drying of peat. (Uist)</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e564">
+            <form>
+               <orth>a’ dol a taisealadh</orth>
+            </form>
+            <def>over-drying of peat. (Skye)</def>
+         </entry>
+         <entry xml:id="Peat_PortreeHighmoine-d0e573">
+            <form>
+               <orth>talamh toll</orth>
+            </form>
+            <def>poor quality peat.</def>
+         </entry>
+         <ab type="heading" xml:id="Peat_PortreeHighmoine-d0e581" subtype="h1">7. Faclan eile</ab>
+      </body>
+   </text>
+</TEI>

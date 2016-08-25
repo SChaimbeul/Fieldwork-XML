@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the original title of the questionnaire is “Land Cultivation”.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[1970]</date>
+            <location>
+               <placeName>Sutherland, Lairg, Durness</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>George MacKenzie</persName>
+               <age>67</age>
+               <birth>
+                  <placeName>Assynt, Stoer</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Agriculture</term>
+               <term xml:lang="gd">Àiteach</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e37"
+             subtype="h1">1. Land division and allocation</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e43"
+             subtype="h2">(a) Specific portions or allotments into which arable land is divided</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp159393800">
+            <form>
+               <orth>ged</orth>
+            </form>
+            <def>plot between two ditches. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp159398696">
+            <form>
+               <orth>fannag</orth>
+            </form>
+            <def>small plot of cultivated land. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp159377888">
+            <form>
+               <orth>pairk</orth>
+            </form>
+            <def>field – usually with some dyke. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp159376376">
+            <form>
+               <orth>talamh “cork”</orth>
+            </form>
+            <def>corn field. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp159374864">
+            <form>
+               <orth>talamh “butata”</orth>
+            </form>
+            <def>potato field. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp159373352">
+            <form>
+               <orth>talamh “sneapin”</orth>
+            </form>
+            <def>turnip field. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp159371912">
+            <form>
+               <orth>talamh glas</orth>
+            </form>
+            <def>ley ground. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp119888128">
+            <form>
+               <orth>talamh dubh</orth>
+            </form>
+            <def>ground after potatoes are lifted. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e121"
+             subtype="h2">(b) Various types of arable land</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idola323">
+            <form>
+               <orth>[note]</orth>
+               <pron>[NOTES: this page is missing. There are two pages with 1. (c) instead.]</pron>
+            </form>
+            <def>[NOTES: this page is missing. There are two pages with 1. (c) instead.]</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e130"
+             subtype="h2">(c) Actual dividing and allocating of land, e.g. casting lots</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115760480">
+            <form>
+               <orth>cur crinn</orth>
+            </form>
+            <def>casting lot.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e145"
+             subtype="h2">(d) Land owned or held under leases of various duration</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e151"
+             subtype="h1">2. Harness of a horse</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e157"
+             subtype="h2">(a) The harness of a horse as used in the performance of different tasks</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e163"
+             subtype="h2">(b) Different parts of the harness for carting</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115765448">
+            <form>
+               <orth>strin</orth>
+            </form>
+            <def>bridle. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115766960">
+            <form>
+               <orth>a’ bit</orth>
+            </form>
+            <def>the bit. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115768472">
+            <form>
+               <orth>strathar</orth>
+            </form>
+            <def>saddle. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115769984">
+            <form>
+               <orth>diollaid</orth>
+            </form>
+            <def>riding saddle. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115771496">
+            <form>
+               <orth>briogais</orth>
+            </form>
+            <def>breeching. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115773008">
+            <form>
+               <orth>hemachin</orth>
+            </form>
+            <def>hames. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115774520">
+            <form>
+               <orth>a’ back-chain</orth>
+            </form>
+            <def>chain over saddle. (Stoer, Assynt) Like the back chain all the other names used are purely English.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115776248">
+            <form>
+               <orth>plaid agus strathar</orth>
+            </form>
+            <def>saddle for two creels. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e241"
+             subtype="h2">(c) Different parts of the harness for ploughing or harrowing</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e247"
+             subtype="h1">3. Carts</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e253"
+             subtype="h2">(a) The common farm-yard cart</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115780424">
+            <form>
+               <orth>carn</orth>
+            </form>
+            <def>cart. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115781936">
+            <form>
+               <orth>carn coopigag</orth>
+            </form>
+            <def>couping cart. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e277"
+             subtype="h2">(b) Different parts of a cart</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e283"
+             subtype="h3">1. Body</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115785176">
+            <form>
+               <orth>bocus a’ coirn</orth>
+            </form>
+            <def>body of the cart. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115786688">
+            <form>
+               <orth>sparran</orth>
+            </form>
+            <def>beams. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115788200">
+            <form>
+               <orth>dorus toisach</orth>
+            </form>
+            <def>front door. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115789712">
+            <form>
+               <orth>dorus “dheiree”</orth>
+            </form>
+            <def>back door. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e325"
+             subtype="h3">2. Trams</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115792088">
+            <form>
+               <orth>na trammichan</orth>
+            </form>
+            <def>trams. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e340"
+             subtype="h3">3. Wheel and axle</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115794896">
+            <form>
+               <orth>cuile</orth>
+            </form>
+            <def>wheel.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115796408">
+            <form>
+               <orth>aishel</orth>
+            </form>
+            <def>axle.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115797920">
+            <form>
+               <orth>fillies</orth>
+            </form>
+            <def>felloes.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115799432">
+            <form>
+               <orth>cergail</orth>
+            </form>
+            <def>iron ring round the felloes.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115800944">
+            <form>
+               <orth>cioch</orth>
+            </form>
+            <def>nave.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115802456">
+            <form>
+               <orth>tol na cioch</orth>
+            </form>
+            <def>hole in hub.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115803968">
+            <form>
+               <orth>“carnel”</orth>
+            </form>
+            <def>axle pin.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e409"
+             subtype="h3">4. Decorations</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idola324">
+            <form>
+               <orth>[colours]</orth>
+            </form>
+            <def>Usual colours of Stoer carts were: sides green or blue / wheels, top side boards and trams red.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e418"
+             subtype="h2">(c) Other words associated with carting</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115808432">
+            <form>
+               <orth>cur a h-each as a carn</orth>
+            </form>
+            <def>(Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115810160">
+            <form>
+               <orth>leig a h-each as a carn</orth>
+            </form>
+            <def>(Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115811672">
+            <form>
+               <orth>trog a carn</orth>
+            </form>
+            <def>(Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e451"
+             subtype="h1">4. The plough</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e457"
+             subtype="h2">(a) Different kinds of ploughs</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115815344">
+            <form>
+               <orth>crann</orth>
+            </form>
+            <def>plough. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115816856">
+            <form>
+               <orth>crann “drellaig”</orth>
+            </form>
+            <def>double furrow or drilling plough. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idola325">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Two horses always used in our ploughs.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e484"
+             subtype="h2">(b) Parts of a plough in detail</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115820096">
+            <form>
+               <orth>stron a crinn</orth>
+            </form>
+            <def>part of plough for attaching swingle trees.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115821608">
+            <form>
+               <orth>amal mor</orth>
+            </form>
+            <def>main or big swingle tree.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115823120">
+            <form>
+               <orth>amal beag</orth>
+            </form>
+            <def>small swingle tree.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115824632">
+            <form>
+               <orth>druim a crinn</orth>
+            </form>
+            <def>the back from the shafts to the nose of the plough.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115826144">
+            <form>
+               <orth>a bord</orth>
+            </form>
+            <def>the board.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115827656">
+            <form>
+               <orth>a sock</orth>
+            </form>
+            <def>the sock.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115829168">
+            <form>
+               <orth>cooltir</orth>
+            </form>
+            <def>coltair [sic] [coulter].</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115830680">
+            <form>
+               <orth>na stiltachin</orth>
+            </form>
+            <def>the stilts or handles.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e562"
+             subtype="h1">5. Harrows and swingle trees</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e568"
+             subtype="h2">(a) Different types of harrows</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115833920">
+            <form>
+               <orth>cliath</orth>
+            </form>
+            <def>harrow. Consisted of four wooden main beams with six cross beams. Probably eight tines (iron) in each row, about 32 tines each placed so that they ran in different runs. Pulled by one horse with one amal beag.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e583"
+             subtype="h2">(b) Swingle trees</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115836512">
+            <form>
+               <orth>amal mor</orth>
+            </form>
+            <def>main swingle tree.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115838024">
+            <form>
+               <orth>amal beag</orth>
+            </form>
+            <def>two small trees used.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115839536">
+            <form>
+               <orth>na “tressachin”</orth>
+            </form>
+            <def>the iron chain traces.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115841048">
+            <form>
+               <orth>na “dooanin”</orth>
+            </form>
+            <def>the “s” hooks.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e625"
+             subtype="h1">6. Spring work</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e631"
+             subtype="h2">(a) Fertilisers and fertilising</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e637"
+             subtype="h3">1. Fertilisers</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115845152">
+            <form>
+               <orth>[“gooana”]</orth>
+            </form>
+            <def>in my young days all artificial fertilisers were collectively termed “gooana” (guano). Seldom used.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115846664">
+            <form>
+               <orth>feamin dhearg</orth>
+            </form>
+            <def>red ware washed up on beaches. Each part of the shore was divided between every crofter. “Latha rinn na feamin” was a fertile source of bickering and the occasional fight!</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115848392">
+            <form>
+               <orth>feamin dubh</orth>
+            </form>
+            <def>the bladder and other types of seaweed which was cut with “corrans” and carried up in creels. Frequently went with boats to outlying islands to cut this ware. Always used for potato manure. Many boats lost through overloading.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115849904">
+            <form>
+               <orth>“laigadal”</orth>
+            </form>
+            <def>the red tangle with long red fronds only obtained at spring tides – ( traigh “laingadal” [sic]). Generally used for turnip manure.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115851416">
+            <form>
+               <orth>inneir</orth>
+            </form>
+            <def>dung (horse, cow or sheep dung).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e688"
+             subtype="h3">2. The actual work performed, e.g. transporting seaweed/manure to field</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115853792">
+            <form>
+               <orth>crathadh inneir</orth>
+            </form>
+            <def>spreading dung.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e703"
+             subtype="h3">3. Implements used for lifting, carrying and spreading manure or seaweed</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115856168">
+            <form>
+               <orth>grape</orth>
+            </form>
+            <def>fork.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115857680">
+            <form>
+               <orth>claive</orth>
+            </form>
+            <def>creel.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115859192">
+            <form>
+               <orth>barra</orth>
+            </form>
+            <def>barrow.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e736"
+             subtype="h2">(b) Turning and tilling the soil</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e742"
+             subtype="h3">1. Implements used for turning or tilling the soil</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115862432">
+            <form>
+               <orth>spaad</orth>
+            </form>
+            <def>spade. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115864376">
+            <form>
+               <orth>grape</orth>
+            </form>
+            <def>fork. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115866320">
+            <form>
+               <orth>cas-chrom</orth>
+            </form>
+            <def>foot plough. (Stoer, Assynt) The last cas-crom [sic] I saw used in Stoer was over 60 years ago.<graphic url="DurnessGMacKenzieagricultureillust1.jpg" width="200px"/>
+            </def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e776"
+             subtype="h3">2. Parts of the implements used</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e782"
+             subtype="h3">3. Words used in connection with tilling the soil, e.g. digging</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115869992">
+            <form>
+               <orth>rooar</orth>
+            </form>
+            <def>delving. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115871504">
+            <form>
+               <orth>kenivag</orth>
+            </form>
+            <def>end of “ged” left unploughed where the horses turned. Usually turned with the spade. (Rooar na kenivagin) (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e806"
+             subtype="h2">(c) Seed planting</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e812"
+             subtype="h3">1. Names of seeds planted and words used for sowing or planting them</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115874960">
+            <form>
+               <orth>“cork” dubh</orth>
+            </form>
+            <def>black or sandy oats. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115876472">
+            <form>
+               <orth>cork geal</orth>
+            </form>
+            <def>white oats usually the potato oat – a popular variety 50 years ago. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115877984">
+            <form>
+               <orth>eorna</orth>
+            </form>
+            <def>barley. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115879496">
+            <form>
+               <orth>butata dubh</orth>
+            </form>
+            <def>the old blue variety. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115881008">
+            <form>
+               <orth>butata geal</orth>
+            </form>
+            <def>favourite variety was the Champion before Kerr’s Pink. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e863"
+             subtype="h3">2. Names of any special sack, basket etc. used for carrying seed when sowing or planting</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e869"
+             subtype="h3">3. Names of any special implement used for planting</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e875"
+             subtype="h1">7. Summer work</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e881"
+             subtype="h2">(a) Cleaning and weeding potatoes</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115885976">
+            <form>
+               <orth>glanig a butata</orth>
+            </form>
+            <def>cleaning the potatoes. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115887488">
+            <form>
+               <orth>sgriobag a butata</orth>
+            </form>
+            <def>running the grubber or the hoe between rows. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115889072">
+            <form>
+               <orth>toaig a butata</orth>
+            </form>
+            <def>earthing potatoes. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e914"
+             subtype="h2">(b) Thinning and weeding other crops</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp115891448">
+            <form>
+               <orth>tannag na sneapin</orth>
+            </form>
+            <def>thinning turnips.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e929"
+             subtype="h1">8. Autumn work</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e935"
+             subtype="h2">(a) Hay making</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e941"
+             subtype="h3">1. The implement used for (a) cutting (b) raking and turning (c) lifting and stacking</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120765696">
+            <form>
+               <orth>speal</orth>
+            </form>
+            <def>scythe.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120767208">
+            <form>
+               <orth>corran</orth>
+            </form>
+            <def>sickle – generally used for cutting grass out of ditches.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120768792">
+            <form>
+               <orth>clach “blea”</orth>
+               <pron>[sharpener]</pron>
+            </form>
+            <def>[sharpener] usually a sandstone.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120770304">
+            <form>
+               <orth>clach georaichin</orth>
+               <pron>[sharpener]</pron>
+            </form>
+            <def>[sharpener] usually a sandstone.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120771816">
+            <form>
+               <orth>strake</orth>
+            </form>
+            <def>an oblong piece of wood with emery cloth on each side – now superseded with the Carborundum stones.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e992"
+             subtype="h3">2. Name the parts of the implements mentioned</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120774192">
+            <form>
+               <orth>speal bheag</orth>
+            </form>
+            <def>the two handed American scythe. <graphic url="DurnessGMacKenzieagricultureillust2.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120775920">
+            <form>
+               <orth>speal mhor</orth>
+            </form>
+            <def>the old Scots scythe. Seldom used. <graphic url="DurnessGMacKenzieagricultureillust3.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120777648">
+            <form>
+               <orth>cas na speal</orth>
+            </form>
+            <def>the handle.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120779160">
+            <form>
+               <orth>“fivor”</orth>
+            </form>
+            <def>the blade.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120780672">
+            <form>
+               <orth>iarunn</orth>
+            </form>
+            <def>the blade.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1045"
+             subtype="h3">3. Various stages of hay-making</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120783048">
+            <form>
+               <orth>scara</orth>
+            </form>
+            <def>the swath.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120784560">
+            <form>
+               <orth>dorrag</orth>
+            </form>
+            <def>hay cole [?].</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1069"
+             subtype="h2">(b) Corn cutting and securing</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1075"
+             subtype="h3">1. Implements used for cutting, raking, binding, lifting into stacks etc.</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120787800">
+            <form>
+               <orth>rackan</orth>
+            </form>
+            <def>rake. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120789312">
+            <form>
+               <orth>a’ fork</orth>
+            </form>
+            <def>the fork. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1099"
+             subtype="h3">2. Bands (for tying corn), sheaves, stooks etc.</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120791688">
+            <form>
+               <orth>baun</orth>
+            </form>
+            <def>band – each house had its own different method of tying the bands handed down from the days of the rig-about system – when a storm might mix up sheaves from different rigs. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120793200">
+            <form>
+               <orth>scrooan</orth>
+            </form>
+            <def>stook: eight sheaves – four a side. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120794712">
+            <form>
+               <orth>tudan</orth>
+            </form>
+            <def>temporary stack. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1135"
+             subtype="h3">3. Stack making (in yard)</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120797952">
+            <form>
+               <orth>larach na cruach</orth>
+            </form>
+            <def>stones on which stack was built.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120799464">
+            <form>
+               <orth>annais</orth>
+            </form>
+            <def>when vertical height was reached and stack brought up to a point.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120800976">
+            <form>
+               <orth>cridhe na cruich</orth>
+            </form>
+            <def>the centre.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120802488">
+            <form>
+               <orth>toppas</orth>
+            </form>
+            <def>the last three sheaves tied together and trimmed to form a sharp point.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1177"
+             subtype="h3">4. Methods of carrying or transporting corn from field to corn yard</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120804864">
+            <form>
+               <orth>crooag</orth>
+            </form>
+            <def>taking home the corn to the stackyard or barn.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120806376">
+            <form>
+               <orth>uallach-arbhar</orth>
+            </form>
+            <def>carrying corn on the back – tied with a rope.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1201"
+             subtype="h2">(c) Potato lifting and storing</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1207"
+             subtype="h3">1. Implements</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120809616">
+            <form>
+               <orth>[“croman”]</orth>
+            </form>
+            <def>the “croman” was the most popular implement for lifting potatoes. Constructed like a small pick – broad blade with handle at right angle.<graphic url="DurnessGMacKenzieagricultureillust4.jpg" width="200px"/>
+            </def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1223"
+             subtype="h3">2. Sack, creel, barrow etc. used for carrying potatoes in field and to steading</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1229"
+             subtype="h3">3. Where potatoes are kept or stored</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120813072">
+            <form>
+               <orth>poul butata</orth>
+            </form>
+            <def>pit – it was constructed by digging an oblong area about two yards long and 6" deep and two to three ft wide. Potatoes built up to a sharp point and covered with turf “scranan” – the heather side to the potatoes – and then covered by about 12" soil. About 3' high. In some sandy ground a round circular pit was dug about 5' deep and 3' dia. Took about 10 creels of potatoes. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1244"
+             subtype="h3">4. Potato diseases</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120815448">
+            <form>
+               <orth>gasag</orth>
+            </form>
+            <def>any disease. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120816960">
+            <form>
+               <orth>lumag</orth>
+            </form>
+            <def>long thin shaws – usually caused by too much manure. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1268"
+             subtype="h2">(d) Other crops (Lifting and storing)</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1274"
+             subtype="h3">1. Implements used for lifting</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1280"
+             subtype="h3">2. How and where crop is stored</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1286"
+             subtype="h3">3. Diseases/insects which attack the particular crop(s)</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1292"
+             subtype="h1">9. Winter work</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1298"
+             subtype="h2">(a) Land drainage</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1304"
+             subtype="h3">1. Drains, ditches etc.</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120824520">
+            <form>
+               <orth>deig</orth>
+            </form>
+            <def>usually a “leader” into which other drains ran.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120826032">
+            <form>
+               <orth>drena</orth>
+            </form>
+            <def>an open drain.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120827544">
+            <form>
+               <orth>drena douit</orth>
+            </form>
+            <def>closed drain – stone channels. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120829056">
+            <form>
+               <orth>drena vootach</orth>
+            </form>
+            <def>not common. Constructed in peaty soil. They dug until the peat was reached – about 18" wide and a peat was then lifted out of the centre about 9" wide, using a double bladed “tusker”. This was then covered with a heather sod and filled up. These drains lasted many years. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1346"
+             subtype="h3">2. Implements used</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120831648">
+            <form>
+               <orth>reachar</orth>
+            </form>
+            <def>rutting spade. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120833592">
+            <form>
+               <orth>spaad</orth>
+            </form>
+            <def>spade. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120835536">
+            <form>
+               <orth>haake</orth>
+            </form>
+            <def>a fork with curved tines for hauling the sods out of the ditch. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120837048">
+            <form>
+               <orth>gialag</orth>
+            </form>
+            <def>crowbar. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120838560">
+            <form>
+               <orth>peek</orth>
+            </form>
+            <def>pick. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1397"
+             subtype="h2">(b) Potato cutting for seed</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1403"
+             subtype="h3">1. Instruments used</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120841800">
+            <form>
+               <orth>sgian</orth>
+            </form>
+            <def>knife. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120843312">
+            <form>
+               <orth>garrag siol butata</orth>
+            </form>
+            <def>cutting seed potatoes. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120844824">
+            <form>
+               <orth>scoltan</orth>
+            </form>
+            <def>part with best eyes retained for seed. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120846336">
+            <form>
+               <orth>gluan</orth>
+            </form>
+            <def>part rejected – used for feeding sheep and cattle and sometimes used for the table if potatoes were scarce. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1445"
+             subtype="h3">2. Different kinds of potatoes</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120848712">
+            <form>
+               <orth>Champion</orth>
+            </form>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120850224">
+            <form>
+               <orth>Kerr’s Pink</orth>
+            </form>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120851736">
+            <form>
+               <orth>Golden Wonder</orth>
+            </form>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120853248">
+            <form>
+               <orth>[butata dubh]</orth>
+            </form>
+            <def>before the Champion was introduced well over 60 years ago, a dark blue variety with blue streaked flesh, called butata dubh, was generally used.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1478"
+             subtype="h2">(c) Corn threshing</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1484"
+             subtype="h3">1. Implements used</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120856488">
+            <form>
+               <orth>mullin da laive</orth>
+            </form>
+            <def>hand threshing mill with handle on each side turned by two men. One man fed the sheaves into the mill.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120858000">
+            <form>
+               <orth>mullin bualie</orth>
+               <pron>[See mullin da laive.]</pron>
+            </form>
+            <def>[See mullin da laive.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120859512">
+            <form>
+               <orth>tuiste</orth>
+            </form>
+            <def>flail. Constructed of two circular pieces of hard wood joined together by a thong usually constructed of sheep skin. The part held by the thresher was about 3' and the striking part about 4' in length.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120861024">
+            <form>
+               <orth>fannars</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1523"
+             subtype="h3">2. Threshing</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120863400">
+            <form>
+               <orth>bualag</orth>
+            </form>
+            <def>threshing.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120864912">
+            <form>
+               <orth>[foddar-barrie]</orth>
+            </form>
+            <def>straw for thatching was never put through the mill. It was always threshed by the flail – tuiste [q.v.] – and called foddar-barrie.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1547"
+             subtype="h2">(d) Grain winnowing</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1553"
+             subtype="h3">1. Devices used</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120868152">
+            <form>
+               <orth>criather</orth>
+            </form>
+            <def>sieve. (Stoer, Assynt) Latterly hand-turned fanners were used and merely called by the English name.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1568"
+             subtype="h3">2. How constructed and materials used. Winnowing</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120870744">
+            <form>
+               <orth>[criather]</orth>
+            </form>
+            <def>the criather was constructed by a skin – probably sheepskin – stretched on a wooden ring and holes burnt through the skin by a hot iron. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120872256">
+            <form>
+               <orth>fasganag</orth>
+            </form>
+            <def>winnowing.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1592"
+             subtype="h1">10. Permanent structures/buildings for storing crops</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1598"
+             subtype="h2">(a) Stack-yard</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120875496">
+            <form>
+               <orth>lhioss avar (lios)</orth>
+            </form>
+            <def>stackyard.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1613"
+             subtype="h2">(b) Barn and parts of a barn</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120877872">
+            <form>
+               <orth>sooal</orth>
+            </form>
+            <def>barn.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-d0e1628"
+             subtype="h1">11. Modern implements and machines</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120880248">
+            <form>
+               <orth>a’ tractar</orth>
+            </form>
+            <def>the tractor.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenzieagriculture-idp120881760">
+            <form>
+               <orth>a’ reepar</orth>
+            </form>
+            <def>reaper.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

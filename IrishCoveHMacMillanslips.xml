@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_IrishCoveHMacMillanslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>05/1971</date>
+            <location>
+               <placeName>Canada, Cape Breton, Irish Cove</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Hector MacMillan</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_IrishCoveHMacMillanslips-idp115465144">
+            <form>
+               <orth>silteach</orth>
+            </form>
+            <def>Quotation: Bha an t-aimsir car fuar agus silteach. Notes: wet.</def>
+         </entry>
+         <entry xml:id="Slips_IrishCoveHMacMillanslips-idp115465936">
+            <form>
+               <orth>caoin</orth>
+            </form>
+            <def>Quotation: Dé a chaoin a th’air an òran? Notes: in common use.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

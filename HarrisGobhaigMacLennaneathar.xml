@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location corresp="Harris_Gobhaig"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self?]</persName>
+        </person>
+        <person role="informant" corresp="A_MacLennan_Harris_Gobhaig"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Boats</term>
+          <term xml:lang="gd">Eathraichean</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e31">1. Ainmean air seòrsachan eathraichean</head>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e36">
+          <form>
+            <orth>geola</orth>
+          </form>
+          <def>(transom stern), eathar beag.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e45">
+          <form>
+            <orth>sgoth</orth>
+          </form>
+          <def>eathar de’n t-seorsa a tha air an togail ann an Nis gu h-araidh, gu math leathann le clagan deiridh.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e54">
+          <form>
+            <orth>arcach</orth>
+          </form>
+          <def>an da chlagan cas, a steach foidhpe, tòrr uisge oirre.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e63">
+          <form>
+            <orth>leiteach</orth>
+          </form>
+          <def>seachd troighean deug, da chlagan deireach, air a togail airson seol a chur rithe.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e72">
+          <form>
+            <orth>coble lochlannach</orth>
+          </form>
+          <def>
+            <graphic url="HarrisGobhaigMacLennaneatharillust1.jpg" width="400px"/>
+          </def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e81">
+          <form>
+            <orth>sula</orth>
+          </form>
+          <def>seachad air fichead troigh. <graphic url="HarrisGobhaigMacLennaneatharillust2.jpg" width="300px"/>
+          </def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e91">2. Ainm gach pàirt dhen eathar eadar an druim ’s am beul, agus na broinn</head>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e96">
+          <form>
+            <orth>clagann toisich ’s deiridh</orth>
+          </form>
+          <def>stem and stern.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e105">
+          <form>
+            <orth>bior snaois</orth>
+          </form>
+          <def>na tha mach air a beul de’n chlagann.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e114">
+          <form>
+            <orth>cuairt</orth>
+          </form>
+          <def>maide eadar a dà bheul.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e123">
+          <form>
+            <orth>oxter</orth>
+          </form>
+          <def>fuail buird ris a chlagan, cuta de fhiodh.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e132">
+          <form>
+            <orth>gluin</orth>
+          </form>
+          <def>a ceangal a chlagainn ris an druim. Cumadh: <graphic url="HarrisGobhaigMacLennaneatharillust3.jpg" width="50px"/>
+          </def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e143">
+          <form>
+            <orth>beul</orth>
+          </form>
+          <def>an oir àrd.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e152">
+          <form>
+            <orth>timcheal ard</orth>
+          </form>
+          <def>am bord as àirde.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e161">
+          <form>
+            <orth>cluasag</orth>
+          </form>
+          <def>buird gualain gun a chiad snaim.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e170">
+          <form>
+            <orth>meanbh</orth>
+          </form>
+          <def>an dàra bòrd bho’n druim.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e179">
+          <form>
+            <orth>am fliuch bhord</orth>
+          </form>
+          <def>am bord ris an druim.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e188">
+          <form>
+            <orth>fearra dhruim</orth>
+          </form>
+          <def>(false keel) nuair a chnamhadh am fear eile.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e197">
+          <form>
+            <orth>maide bulg</orth>
+          </form>
+          <def>(fender) air a meadhon.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e206">
+          <form>
+            <orth>saoil</orth>
+          </form>
+          <def>(bung).</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e215">
+          <form>
+            <orth>aparan</orth>
+          </form>
+          <def>bord, na broinn air uachdar an droma.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e224">
+          <form>
+            <orth>rangan</orth>
+          </form>
+          <def>asnaichean an eathair.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e233">
+          <form>
+            <orth>rangas</orth>
+          </form>
+          <def>maide air uachdar na rangan, air a bheil na tobhtaichean ceangailte.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e242">
+          <form>
+            <orth>ceannachraidh</orth>
+          </form>
+          <def>a ceangal nan tobhtaichean ris na buird.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e251">
+          <form>
+            <orth>bac(an)</orth>
+          </form>
+          <def>(rowlocks).</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e260">
+          <form>
+            <orth>sòla</orth>
+          </form>
+          <def>maide urlair na toiseach ’sna deireadh.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e269">
+          <form>
+            <orth>urlair</orth>
+          </form>
+          <def>maide air a meadhon, eadar na sòlaichean.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e278">
+          <form>
+            <orth>tobhta a’chruinn</orth>
+          </form>
+          <def>a chiod tobhta agus glaim cuirte [?] airson crann.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e287">
+          <form>
+            <orth>brog chruinn</orth>
+          </form>
+          <def>ris an druim airson sàil a chruinn.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e296">
+          <form>
+            <orth>tobhta brollaich</orth>
+          </form>
+          <def>an dara tobhta.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e305">
+          <form>
+            <orth>tobhta mheadhoin</orth>
+          </form>
+          <def>an treas tè.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e314">
+          <form>
+            <orth>an scuit</orth>
+          </form>
+          <def>an tè dheiridh.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e323">
+          <form>
+            <orth>maothan</orth>
+          </form>
+          <def>far a bheil ceann da bhord a dol ri cheille [sic].</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e332">
+          <form>
+            <orth>calcas</orth>
+          </form>
+          <def>cop cloimheadh agus tearr ann am maothan.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e341">
+          <form>
+            <orth>an t-sail</orth>
+          </form>
+          <def>far a bheil an clagan deiridh san druim a coinneachadh.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e350">
+          <form>
+            <orth>aparan bac</orth>
+          </form>
+          <def>protecting the boat from the oar with a tin plate.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e358">3. Stiùir is ailm</head>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e363">
+          <form>
+            <orth>falamadair</orth>
+          </form>
+          <def>
+            <graphic url="HarrisGobhaigMacLennaneatharillust4.jpg" width="300px"/>
+          </def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e372">
+          <form>
+            <orth>iarunn stiùireach</orth>
+          </form>
+          <def>
+            <graphic url="HarrisGobhaigMacLennaneatharillust4.jpg" width="300px"/>
+          </def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e381">
+          <form>
+            <orth>stiùir</orth>
+          </form>
+          <def>
+            <graphic url="HarrisGobhaigMacLennaneatharillust4.jpg" width="300px"/>
+          </def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e389">4. Ràmh, is faclan co-cheangailte ri iomradh</head>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e394">
+          <form>
+            <orth>liadh</orth>
+          </form>
+          <def>
+            <graphic url="HarrisGobhaigMacLennaneatharillust5.jpg" width="400px"/>
+          </def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e403">
+          <form>
+            <orth>lunn</orth>
+          </form>
+          <def>
+            <graphic url="HarrisGobhaigMacLennaneatharillust5.jpg" width="400px"/>
+          </def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e412">
+          <form>
+            <orth>cnot</orth>
+          </form>
+          <def>
+            <graphic url="HarrisGobhaigMacLennaneatharillust5.jpg" width="400px"/>
+          </def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e421">
+          <form>
+            <orth>dornan</orth>
+          </form>
+          <def>
+            <graphic url="HarrisGobhaigMacLennaneatharillust5.jpg" width="400px"/>
+          </def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e429">5. Crann is seòl is gach uidheam co-cheangailte riutha</head>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e434">
+          <form>
+            <orth>slat shuil</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e440">
+          <form>
+            <orth>crann toisich</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e446">
+          <form>
+            <orth>crann deiridh</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e452">
+          <form>
+            <orth>crann meadhoin</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e458">
+          <form>
+            <orth>long tri crannaibh</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e464">
+          <form>
+            <orth>long ceithir crannaibh</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e470">
+          <form>
+            <orth>spreod thoisich</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e476">
+          <form>
+            <orth>seol mór</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e482">
+          <form>
+            <orth>sgòd thoisich</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e488">
+          <form>
+            <orth>sgòd dheiridh</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e494">
+          <form>
+            <orth>ceanglaichean</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e500">
+          <form>
+            <orth>slat bhuinn</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e506">
+          <form>
+            <orth>cluas thoisich</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e512">
+          <form>
+            <orth>cluas dheiridh</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e518">
+          <form>
+            <orth>corsa</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e524">
+          <form>
+            <orth>bonn</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e530">
+          <form>
+            <orth>ceann</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e536">
+          <form>
+            <orth>ball mór</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e542">
+          <form>
+            <orth>ulag</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e548">
+          <form>
+            <orth>dealg</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e554">
+          <form>
+            <orth>slugan</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e560">
+          <form>
+            <orth>ruidhlean</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e566">
+          <form>
+            <orth>eag</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e572">
+          <form>
+            <orth>slige</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennaneathar-d0e578">
+          <form>
+            <orth>udulan</orth>
+          </form>
+        </entry>
+      </div>
+    </body>
+  </text>
+</TEI>

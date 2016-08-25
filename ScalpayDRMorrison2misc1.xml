@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="DRMorrison_ScalpayDRMorrison2misc1">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the original title of the list is “Faclan Gàidhlig le mìneachadh ’na cois”.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[?]</date>
+            <location>
+               <placeName>Na Hearadh, Scalpaigh [Harris, Scalpay]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>D.R. Morrison</persName>
+               <persName xml:lang="gd">D.R. Moireasdan </persName>
+               <age>[?]</age>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp116388216">
+            <form>
+               <orth>ciorasail</orth>
+            </form>
+            <def>giggling.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp116412768">
+            <form>
+               <orth>bloaigeadh</orth>
+            </form>
+            <def>blowing.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp116409456">
+            <form>
+               <orth>sgòrnanaich</orth>
+            </form>
+            <def>gulping.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp116326728">
+            <form>
+               <orth>miar (noun)</orth>
+            </form>
+            <def>a notch in wood.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp116327952">
+            <form>
+               <orth>miarag (n)</orth>
+            </form>
+            <def>a wee notch (dim.).</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp116327376">
+            <form>
+               <orth>bàrr-mara (n)</orth>
+            </form>
+            <def>wave top.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp116328600">
+            <form>
+               <orth>gionach (adj)</orth>
+            </form>
+            <def>eager.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp116329464">
+            <form>
+               <orth>gealadh (v)</orth>
+            </form>
+            <def>whitening.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp116330976">
+            <form>
+               <orth>uitean (n)</orth>
+            </form>
+            <def>whitening chalk material (Harris). From the English word ‘white’, probably.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp116332488">
+            <form>
+               <orth>gealachadh</orth>
+            </form>
+            <def>whitening, perhaps of the form ‘dealachadh’, originating likewise.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp116335656">
+            <form>
+               <orth>locairean (n)</orth>
+            </form>
+            <def>lockers (in a boat, etc.).</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp116337168">
+            <form>
+               <orth>raoghachdail</orth>
+            </form>
+            <def>in the act of making hoarse sound.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp116339832">
+            <form>
+               <orth>riachdail</orth>
+               <pron>[See raoghachdail.]</pron>
+            </form>
+            <def>[See raoghachdail.]</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp116339328">
+            <form>
+               <orth>luidealachd</orth>
+            </form>
+            <def>shabbiness.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp116361000">
+            <form>
+               <orth>rùidealachd</orth>
+            </form>
+            <def>bruttishness.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp116357184">
+            <form>
+               <orth>roisean</orth>
+            </form>
+            <def>nose. Na faiceam do roisean a nochdadh a stigh air an t-dorus. [Cf. rùisean.]</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp116353008">
+            <form>
+               <orth>rùisean</orth>
+               <pron>[See roisean.]</pron>
+            </form>
+            <def>[See roisean.] But here ‘gnùis’ may be the etymological embryo while the former word (written above) as above could be from ‘do shròin sa’.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp116347248">
+            <form>
+               <orth>salbhasdadh</orth>
+            </form>
+            <def>salvaging. (Invented? I heard it once or twice. ‘Salbhasdadh’ – you may have…?)</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp116345304">
+            <form>
+               <orth>seannsal</orth>
+            </form>
+            <def>hurt.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp116341488">
+            <form>
+               <orth>seinnseal</orth>
+               <pron>[See seannsal.]</pron>
+            </form>
+            <def>[See seannsal.]</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp115762288">
+            <form>
+               <orth>lamaisteachadh</orth>
+            </form>
+            <def>being weather, influenced not weather-beaten or being under the weather but being out in bad weather, soaked and fighting against the wind and rain, perhaps you could say in a sense weather-beaten. Weather-beaten ‘dreach nan sion’, a mariner or a sea-farer is always referred to as when having very fresh complexion as being weather-beaten.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp115763800">
+            <form>
+               <orth>caoirneanaich</orth>
+            </form>
+            <def>small patches of herring playing. Bha caoirneanaich bheaga ann dhe.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp115765456">
+            <form>
+               <orth>donachd</orth>
+            </form>
+            <def>I am not quite certain if this is a swear word, it’s still in use as: an donachd càil a gheibh e bhuam-sa, unless it’s a corruption of ‘donas’, or dressing the word ‘donas’.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp115767832">
+            <form>
+               <orth>curgagadh</orth>
+            </form>
+            <def>two in an engagement to bond in romantic matters, towards marriage, etc.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp115769344">
+            <form>
+               <orth>cuirgigeadh</orth>
+               <pron>[See curgagadh.]</pron>
+            </form>
+            <def>[See curgagadh.]</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp115770856">
+            <form>
+               <orth>rùp</orth>
+            </form>
+            <def>sale, sell-out; selling goods cheaper as termed ’g a rùp (Harris). It’s still in use, ‘sell out’ is the exact meaning of the word.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp115772368">
+            <form>
+               <orth>poca-na-busraichean</orth>
+            </form>
+            <def>a spell by a witch through a bag connected with witchcraft.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp115773952">
+            <form>
+               <orth>sgeimheadh</orth>
+            </form>
+            <def>abrupt.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp115775464">
+            <form>
+               <orth>sgeimheagh</orth>
+            </form>
+            <def>abrupt female.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp115776976">
+            <form>
+               <orth>sgabaisteadh</orth>
+            </form>
+            <def>scattering.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp115778488">
+            <form>
+               <orth>gruamal</orth>
+            </form>
+            <def>surly. Tha an aon ghruamal air.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp115780144">
+            <form>
+               <orth>marbhalachd</orth>
+            </form>
+            <def>deadness.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp115781656">
+            <form>
+               <orth>sgraingeal (n)</orth>
+            </form>
+            <def>a surly looking character.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp115783168">
+            <form>
+               <orth>malcadh</orth>
+            </form>
+            <def>handled often which shows as on herring; drabed [sic], etc. Sgadan air a mhalcadh.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp115784896">
+            <form>
+               <orth>maide-chas</orth>
+            </form>
+            <def>feet spar.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc1-idp115786408">
+            <form>
+               <orth>mabladh</orth>
+            </form>
+            <def>messed by handling often, fish being continually or often handled shows this effect, also being trawled and the net’s causing it to be recognised as trawl fish.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

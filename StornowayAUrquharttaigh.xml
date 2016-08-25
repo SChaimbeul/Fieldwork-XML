@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HouseandFurnishings_StornowayAUrquharttaigh">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: after some of the nouns the informant uses such adjectives as ‘beag’ and ‘math’ most probably to show their gender but as it is not clear in all cases, they have been left unchanged.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[3/1968 on the slips]</date>
+            <location>
+               <placeName>[Lewis], Steòrnabhagh [Stornoway]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Urquhart</persName>
+               <persName xml:lang="gd">A. Urchardan </persName>
+               <age>73</age>
+               <birth>
+                  <placeName>Geàrrloch (Loch Iubh) [Gairloch (Loch Ewe)]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>House and Furnishings</term>
+               <term xml:lang="gd">Taigh Gàidhealach</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e40"
+             subtype="h1">1. An stéidh is am balla</ab>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e45">
+            <form>
+               <orth>bonn ...</orth>
+            </form>
+            <def>an stéidh</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e54">
+            <form>
+               <orth>cuairt (dhìreach)</orth>
+            </form>
+            <def>àirde aon chloich ceithir thimchioll am balla.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e63">
+            <form>
+               <orth>“dhà air aonan is aonan air a dhà”</orth>
+            </form>
+            <def>an doigh togail.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e72">
+            <form>
+               <orth>dùsgadh chlach</orth>
+            </form>
+            <def>cladhach chlachan fhreagarrach</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e81">
+            <form>
+               <orth>àrd-dorus</orth>
+            </form>
+            <def>lintel.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e90">
+            <form>
+               <orth>leac-an-doruis</orth>
+            </form>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e96">
+            <form>
+               <orth>leac an teine</orth>
+            </form>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e102">
+            <form>
+               <orth>tulchainn (gheal)</orth>
+            </form>
+            <def>gable.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e111">
+            <form>
+               <orth>bràigh a’ bhalla</orth>
+            </form>
+            <def>an annainn (eaves).</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e120">
+            <form>
+               <orth>an cadha</orth>
+            </form>
+            <def>am balla tarsuing eadar an ceann shìos is an ceann shuas.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e129">
+            <form>
+               <orth>cat criadhaich</orth>
+            </form>
+            <def>balla-tarsuing air a dhèanamh de mhaidean ’nan seasamh, siamain fodair air am fighe eatorra agus sin air a chòmhdach le criadhach (cré). (Thàinig seo bho sheann duine á Mealabhaig.)</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e138">
+            <form>
+               <orth>am faradh</orth>
+            </form>
+            <def>shuas air na sparran far an robh maidean fiodha sìnte. Dad nach robh ’ga chur gu feum a’ cheud ghreis rachadh a chur “air an fharadh” as an rathad.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e147">
+            <form>
+               <orth>fàrlus</orth>
+            </form>
+            <def>an luidhear.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e156">
+            <form>
+               <orth>lathus</orth>
+            </form>
+            <def>maidean fada caola air uachdar an tughaidh.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e164"
+             subtype="h1">2. Am mullach ’s an tughadh</ab>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e169">
+            <form>
+               <orth>maide-ceangail</orth>
+            </form>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e175">
+            <form>
+               <orth>ceangal (math)</orth>
+            </form>
+            <def>(couples).</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e184">
+            <form>
+               <orth>casan-ceangail</orth>
+            </form>
+            <def>anns a’ bhalla. Bha iad crom aig a’ cheann shuas, eag mhath air a ghearradh annta far am freagradh ceann iosal a cheangail, air a chumail ann le da chrann daraich. Chan’eil cuimhne agam an ann air an taobh a muigh no stigh a bha an eag. Bha na croinn có dhiùbh a stigh. Is iomadh balach diomhain thug cnag orra.
+        <graphic url="StornowayAUrquharttaighillust1.jpg" width="150px"/>
+            </def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e195">
+            <form>
+               <orth>saile</orth>
+            </form>
+            <def>beam. Cha bhiodh seo ach an tigh mór.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e204">
+            <form>
+               <orth>cabair</orth>
+            </form>
+            <def>purlings. Bha dà sheòrsa ann. 1. Feadhainn fhada air an cur gu math dlùth air a chéile air na ceangail – air fad an tighe, air uachdar sin sgrathan is tughadh. 2. Tri cabair fhada ’nan laighe air na ceangail (tùbhan), taobhan recte [?], agus na cabair a bhàn is an àirde (sios is suas) air sin. Cha robhas ag cumadh no a rùsgadh nan cabair.
+        <graphic url="StornowayAUrquharttaighillust2.jpg" width="400px"/>
+            </def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e215">
+            <form>
+               <orth>spàrr mór</orth>
+            </form>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e221">
+            <form>
+               <orth>spàrr beag</orth>
+            </form>
+            <def>an té a b’àirde.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e230">
+            <form>
+               <orth>cath-droma</orth>
+            </form>
+            <def>ridge pole.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e239">
+            <form>
+               <orth>gath-droma</orth>
+            </form>
+            <def>ridge pole</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e248">
+            <form>
+               <orth>sgrath (mhór)</orth>
+            </form>
+            <def>air a buain le caibe-làir.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e257">
+            <form>
+               <orth>fàl</orth>
+            </form>
+            <def>cip ceithir-cheàrnach air son gàradh no balla thogail no chur air mullach balla, mu 24" x 12" x 10".</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e266">
+            <form>
+               <orth>tughadh fraoich</orth>
+            </form>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e272">
+            <form>
+               <orth>cual (mhór)</orth>
+            </form>
+            <def>pasgan fraoich air a bhuain ’na ghiùlaineadh tu furasda air do dhruim (2½' no 3' troimhe). Thomhaiseadh am fear-tughaidh le shùil có meud cual a dh’fheumadh an tigh agus cha bhiodh e fada ceàrr.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e281">
+            <form>
+               <orth>siaman-barraich</orth>
+            </form>
+            <def>gus na cuail a cheangal, slatagan beaga caoil (’se sin barrach beithe). Dà dhual mar bu trice.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e290">
+            <form>
+               <orth>feasradh</orth>
+            </form>
+            <def>fraoch goirid ’ga bhuain air son leapannan. B’e am facal ‘buain’ ach ghlacadh tu bad ’nad dhà làimh car a chur ann ceàrr (no deas a rèir do làimhe) is le grad spìonadh thigeadh e leat.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e299">
+            <form>
+               <orth>dromanach (caol)</orth>
+            </form>
+            <def>slatan caola seilich ùr no calltuinn mu 3' am fad. Bha thu ’gan dèanamh biorach air an dà cheann, ’gan dathadh ’sa’ mheadhon le dreiseag air an teine, ’gan lùbadh gu cumadh prine-fuilt, ’gan cur eadar rungas cathrach ’gan cumail crom. Bha iad aig an tughdair ag cumail an fhraoich ’na àite. Thogadh e gus an ath bhreth iad mar a bha e ag obair. Rachadh am fagail ’sa’ mhullach. Bha thu ’gan dathadh is ’gan toinneamh an seo [see the arrow in the picture] mus bristeadh iad anns an lùbadh.
+        <graphic url="StornowayAUrquharttaighillust3.jpg" width="100px"/>
+            </def>
+         </entry>
+         <ab type="heading"
+             xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e309"
+             subtype="h1">3. Dorsan is uinneagan</ab>
+         <ab type="heading"
+             xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e313"
+             subtype="h1">4. An broinn an taighe: na sèamraichean</ab>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e318">
+            <form>
+               <orth>ceann-shios</orth>
+            </form>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e324">
+            <form>
+               <orth>ceann shuas</orth>
+            </form>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e330">
+            <form>
+               <orth>an cùlaist</orth>
+            </form>
+            <def>againne an rùm a b’fheàrr.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e339">
+            <form>
+               <orth>closaid (bheag)</orth>
+            </form>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e345">
+            <form>
+               <orth>aig an teine</orth>
+            </form>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e351">
+            <form>
+               <orth>cagailt (bheag)</orth>
+            </form>
+            <def>àite-teine (air a thogail).</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e360">
+            <form>
+               <orth>na teinnteanan</orth>
+            </form>
+            <def>an dà thaobh.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e369">
+            <form>
+               <orth>an teallach</orth>
+            </form>
+            <def>anns a’ cheàrdaich a mhàin.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e378">
+            <form>
+               <orth>leac an teine</orth>
+            </form>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e384">
+            <form>
+               <orth>maide-slabhraidh</orth>
+            </form>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e390">
+            <form>
+               <orth>slabhraidh</orth>
+            </form>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e396">
+            <form>
+               <orth>an dubhan</orth>
+            </form>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e402">
+            <form>
+               <orth>lannsaid (fhada)</orth>
+            </form>
+            <def>bha cùl rithe, agus mar bu trice brat air chor-eigin.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e411">
+            <form>
+               <orth>fuirm (fada)</orth>
+            </form>
+            <def>fiodh a mhàin.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e420">
+            <form>
+               <orth>tuba</orth>
+            </form>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e426">
+            <form>
+               <orth>cùdainn</orth>
+            </form>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e432">
+            <form>
+               <orth>siuga-seapain</orth>
+            </form>
+            <def>chopin.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e441">
+            <form>
+               <orth>stòlan</orth>
+            </form>
+            <def>an t-uachdar de fhodar air fhighe. Theireadh cuid “na Stòlanan” ri daoine bha fuireach air a’ Chóigeach (a réir seann duine as aithne dhomh).</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e450">
+            <form>
+               <orth>amar fuail</orth>
+            </form>
+            <def>ag gleidheadh seo (maighistir) airson nighe is còmhla ri dath. Chunna mi maighistir ann an stabull, ’ga shuathadh ri guilleann nan each ’san earrach (a’ dèanamh a’ chraicinn làidir).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e458"
+             subtype="h1">5. An t-àite-teine</ab>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e463">
+            <form>
+               <orth>leid (mhór)</orth>
+            </form>
+            <def>àite-teine a muigh ri taobh a’ ghàraidh na leithid sin nam biodh tu nighe. “Tha phoit-mhór air an leid.”</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e472">
+            <form>
+               <orth>cat-griosaich</orth>
+            </form>
+            <def>fear a bha glé dhéidheil air a bhith ’ga gharadh.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e481">
+            <form>
+               <orth>pùlas</orth>
+            </form>
+            <def>pùlas na poite.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e490">
+            <form>
+               <orth>maide-coire</orth>
+            </form>
+            <def>spurtle, airson lite.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e498"
+             subtype="h1">6. Airneis an taighe</ab>
+         <ab type="heading"
+             xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e502"
+             subtype="h1">7. Sobhal, bàthach, no bothanan sam bith eile</ab>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e507">
+            <form>
+               <orth>acair</orth>
+            </form>
+            <def>am meall mór feoir anns an t-sobhal an déidh a sgamhnadh.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e516">
+            <form>
+               <orth>mìr</orth>
+            </form>
+            <def>aghaidh na h’acrach sin.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e525">
+            <form>
+               <orth>làr-bualaidh</orth>
+            </form>
+            <def>de fhiodh (tha e beò).</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e534">
+            <form>
+               <orth>sùist</orth>
+            </form>
+            <def>chaidh e as roimh mo latha-san.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e543">
+            <form>
+               <orth>maide-bualaidh</orth>
+            </form>
+            <def>bhiodh tu air do ghlùinean ris.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e552">
+            <form>
+               <orth>siolpan</orth>
+            </form>
+            <def>maide goirid leis an toireadh tu frathadh air sguaib (gun ach beagan sìl a thoirt dhith).</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e561">
+            <form>
+               <orth>criathar</orth>
+            </form>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e567">
+            <form>
+               <orth>cailleach-fhasgnaidh</orth>
+            </form>
+            <def>muilinn beag (làmh is chas) gu fasgnadh.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e576">
+            <form>
+               <orth>[glas is iuchair]</orth>
+            </form>
+            <def>a’ cheud toimhseachan a chuala mi riamh: Bó odhar, bó odhar / An dorus an t-sobhail / I cnàmh a cìr / Is laogh ’na gobhal. (Glas is iuchair)</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e585">
+            <form>
+               <orth>[am bàitheach]</orth>
+            </form>
+            <def>Sgìre Gheàrrloch: am bàitheach, bàitheach blàth, ceann a’ bhàithich.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e594">
+            <form>
+               <orth>buaile</orth>
+            </form>
+            <def>stall, a stigh. [Cf. buaileag]</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e603">
+            <form>
+               <orth>buaileag</orth>
+            </form>
+            <def>a muigh is gàradh timchioll air. [Cf. buaile]</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e612">
+            <form>
+               <orth>[cas bheag]</orth>
+            </form>
+            <def>an doigh togail cas-bheag, clachan ag gach taobh fad bho chéile gu h-iosal agus a’ buntainn ri chéile gu h-àrd. Sgrathan is talamh air muin nan clach.
+        <graphic url="StornowayAUrquharttaighillust5.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e623">
+            <form>
+               <orth>carcair</orth>
+            </form>
+            <def>far an tuiteadh am buachair. Bha seòrsa de dhìg chaol dhùinte a’ ruith bho’n charcair.
+        <graphic url="StornowayAUrquharttaighillust4.jpg" width="400px"/>
+            </def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e634">
+            <form>
+               <orth>imeach (?) (f)</orth>
+            </form>
+            <def>eadar an dà charcair [q.v.] ach their cuid againn gur e th’ann (a) [refers to the illustration under ‘carcair’]. Chan’eil e agamsa ach “air an imich” agus mar thubhairt mi ’n toiseach.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e643">
+            <form>
+               <orth>nasg</orth>
+            </form>
+            <def>chan’eil am facal againn a nis ach ann “air an nasg” i.e. ceangailte gun bhiadh fad an latha.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e652">
+            <form>
+               <orth>frasach</orth>
+            </form>
+            <def>praiseach (le stiall): an crodh Gàidhealach leis na h-adhaircean móra.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e661">
+            <form>
+               <orth>ceannach (math)</orth>
+            </form>
+            <def>biadh-meallaidh, blasadan beag (gle thric sgadan saillte) gus an toireadh i am bainne.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e670">
+            <form>
+               <orth>faradh</orth>
+            </form>
+            <def>nam biodh cearcan os cionn a’ chruidh mar bu tric a bha iad “air an fharadh”.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e679">
+            <form>
+               <orth>iris</orth>
+            </form>
+            <def>nam biodh iad [i.e. cearcan] gu h-àrd an tigh nan cearc bha iad “air an iris”.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e688">
+            <form>
+               <orth>eadradh</orth>
+            </form>
+            <def>bleoghann. Bha seo aig seann duine ach thubhairt e gur ann an Srath-Eireann a thog e e ’na òige. [NOTES: it is not clear if the above comment refers to ‘eadradh’ or ‘buarach’.]</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e697">
+            <form>
+               <orth>buarach</orth>
+            </form>
+         </entry>
+         <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e703">
+            <form>
+               <orth>deubhann</orth>
+            </form>
+            <def>’s ann de bharrach beithe rinn sinn seo (eich).</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

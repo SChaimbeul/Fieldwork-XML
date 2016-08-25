@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="AOHenley_DaliburghJAMacDonaldeaglais">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the original title of the questionnaire is “An Eaglais Chaitligeach”]</note>
+            <note>[NOTES: there is a note attached to the list by the informant – ‘pp. 6-9 – still working on them’. The list is typed. Accents were added by hand but only on the first two pages.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[1987-88]</date>
+            <location>
+               <placeName>South Uist, Daliburgh</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[A. O’Henley/self?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Rev. John A. MacDonald</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Ecclesiastical Terms</term>
+               <term xml:lang="gd">An Eaglais</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="AOHenley_DaliburghJAMacDonaldeaglais-d0e32"
+             subtype="h1">1. Dreuchdan na h-eaglais</ab>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idm109571888">
+            <form>
+               <orth>Am Pàpa</orth>
+            </form>
+            <def>The Pope.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idm109568648">
+            <form>
+               <orth>An Cardinal</orth>
+            </form>
+            <def>Cardinal.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idm109565696">
+            <form>
+               <orth>An t-easbuig</orth>
+            </form>
+            <def>Bishop.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idm109586936">
+            <form>
+               <orth>An t-Àrd easbuig</orth>
+            </form>
+            <def>Archbishop.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idm109588448">
+            <form>
+               <orth>Colaisde nan Easbuigean</orth>
+            </form>
+            <def>Episcopal College, College of Bishops.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idm109589960">
+            <form>
+               <orth>a’ Churia</orth>
+            </form>
+            <def>Curia (Vatican Department).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idm109591544">
+            <form>
+               <orth>Ball dhen Churia</orth>
+            </form>
+            <def>Member of Curia.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idm109592408">
+            <form>
+               <orth>Comhairle nan Easbuigean</orth>
+            </form>
+            <def>Episcopal Conference.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idm109593488">
+            <form>
+               <orth>Comhairle Easbuigean Alba</orth>
+            </form>
+            <def>Scottish Episcopal Conference.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idm109595720">
+            <form>
+               <orth>Fear-cathrach Comhairle nan Easbuigean</orth>
+            </form>
+            <def>President of Episcopal Conference.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idm109596944">
+            <form>
+               <orth>Runaire Comhairle nan Easbuigean</orth>
+            </form>
+            <def>Secretary of Episcopal Conference.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idm109599320">
+            <form>
+               <orth>Deadhan</orth>
+            </form>
+            <def>Dean.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idm109599536">
+            <form>
+               <orth>An Canon</orth>
+            </form>
+            <def>Canon.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idm109601048">
+            <form>
+               <orth>An Sagart</orth>
+            </form>
+            <def>Priest.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idm109602632">
+            <form>
+               <orth>An Deucon</orth>
+            </form>
+            <def>Deacon.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idm109604216">
+            <form>
+               <orth>An Leughadair</orth>
+            </form>
+            <def>Lector/Reader.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idm109605728">
+            <form>
+               <orth>An Clèireach</orth>
+            </form>
+            <def>Acolyte.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idm109607816">
+            <form>
+               <orth>Am Manach</orth>
+            </form>
+            <def>Monk.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idm109609544">
+            <form>
+               <orth>Am Bràthair</orth>
+            </form>
+            <def>Brother.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idm109610912">
+            <form>
+               <orth>A’ Mhnà Chrabhaidh</orth>
+            </form>
+            <def>Nun.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp165560">
+            <form>
+               <orth>An Clèireach</orth>
+            </form>
+            <def>Altar Server.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp167072">
+            <form>
+               <orth>An Sgìr Easbuig</orth>
+            </form>
+            <def>Diocese.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp168584">
+            <form>
+               <orth>Am Parraisde</orth>
+            </form>
+            <def>Parish.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp170096">
+            <form>
+               <orth>Curia na Sgìr Easbuig</orth>
+            </form>
+            <def>Diocesan Curia.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp171608">
+            <form>
+               <orth>Am Fear Ionad</orth>
+            </form>
+            <def>Vicar.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp173120">
+            <form>
+               <orth>Fear-Ionad an Easbuig</orth>
+            </form>
+            <def>Episcopal Vicar.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp174632">
+            <form>
+               <orth>A’ Chomhairle</orth>
+            </form>
+            <def>College of Consultors.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp176144">
+            <form>
+               <orth>Comhairle na Sagart</orth>
+            </form>
+            <def>Council of Priests.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp177656">
+            <form>
+               <orth>Comhairle a’ Pharraisde</orth>
+            </form>
+            <def>Parish Council.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp179168">
+            <form>
+               <orth>Ordugh Naomh</orth>
+            </form>
+            <def>Holy Order(s).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp180680">
+            <form>
+               <orth>Ministear</orth>
+            </form>
+            <def>Minister.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp182192">
+            <form>
+               <orth>Manachain</orth>
+            </form>
+            <def>Monastery.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp183704">
+            <form>
+               <orth>Manaistear</orth>
+            </form>
+            <def>Monastery.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp185216">
+            <form>
+               <orth>Clochar</orth>
+            </form>
+            <def>Convent.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp186728">
+            <form>
+               <orth>Pears’ Eaglais</orth>
+            </form>
+            <def>Clergyman.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp188240">
+            <form>
+               <orth>Ceisdear</orth>
+            </form>
+            <def>Catechist.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp190616">
+            <form>
+               <orth>Muime</orth>
+            </form>
+            <def>Godmother.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp192128">
+            <form>
+               <orth>Oide</orth>
+            </form>
+            <def>Godfather.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp193640">
+            <form>
+               <orth>Goistidh</orth>
+            </form>
+            <def>Sponsor (Confirmation).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp195152">
+            <form>
+               <orth>Fear na Bainnse</orth>
+            </form>
+            <def>Groom.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp196664">
+            <form>
+               <orth>Bean na Bainnse</orth>
+            </form>
+            <def>Bride.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp198176">
+            <form>
+               <orth>Fleasgach</orth>
+            </form>
+            <def>Best man.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp199688">
+            <form>
+               <orth>Maighdean</orth>
+            </form>
+            <def>Bridesmaid.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp202064">
+            <form>
+               <orth>Iosanach</orth>
+            </form>
+            <def>Jesuit.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_DaliburghJAMacDonaldeaglais-d0e432"
+             subtype="h1">2. Aodaichean sagairt, easbuig, etc.</ab>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp204440">
+            <form>
+               <orth>An Coilear</orth>
+            </form>
+            <def>Collar.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp205952">
+            <form>
+               <orth>An Deise Dhubh</orth>
+            </form>
+            <def>Black suit, clerical suit.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp207464">
+            <form>
+               <orth>A’ Pheiteag</orth>
+            </form>
+            <def>Vest stock.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp208976">
+            <form>
+               <orth>An t-Seacaid Mhòr</orth>
+            </form>
+            <def>Tonsure coat.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp211352">
+            <form>
+               <orth>A’ Chulaidh-Aifreinn</orth>
+            </form>
+            <def>Mass vestments.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp212864">
+            <form>
+               <orth>An t-Anart</orth>
+            </form>
+            <def>Amice.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp214376">
+            <form>
+               <orth>An t-Eideadh Geal</orth>
+            </form>
+            <def>Alb.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp215888">
+            <form>
+               <orth>An Crios</orth>
+            </form>
+            <def>Cinture.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp217400">
+            <form>
+               <orth>An Stòl</orth>
+            </form>
+            <def>Stole.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp218912">
+            <form>
+               <orth>An Fhalluinn Uachdarach</orth>
+            </form>
+            <def>Chasuble.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp220424">
+            <form>
+               <orth>A’ Chulaidh (Uachdarach)</orth>
+            </form>
+            <def>Chasuble.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp222800">
+            <form>
+               <orth>Ad an Easbuig</orth>
+            </form>
+            <def>Mitre.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp224312">
+            <form>
+               <orth>Fàinn’ an Easbuig</orth>
+            </form>
+            <def>Episcopal Ring.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp225824">
+            <form>
+               <orth>Cromag an Easbuig</orth>
+            </form>
+            <def>Crozier.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp227336">
+            <form>
+               <orth>Crois an Easbuig</orth>
+            </form>
+            <def>Pectoral Cross.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp228848">
+            <form>
+               <orth>Currac an Easbuig</orth>
+            </form>
+            <def>Skull-cap, Zucchetto.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp230360">
+            <form>
+               <orth>Cleòc’ an Easbuig</orth>
+            </form>
+            <def>Capa Magna (Bishop’s Cloak).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp232736">
+            <form>
+               <orth>Casag</orth>
+            </form>
+            <def>Cassock.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp234248">
+            <form>
+               <orth>Am Mullach Geal</orth>
+            </form>
+            <def>Surplice, Cotta.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp237272">
+            <form>
+               <orth>Guailleachan</orth>
+            </form>
+            <def>Humeral Veil.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp238784">
+            <form>
+               <orth>Culaidh Mhòr</orth>
+            </form>
+            <def>Cope.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp241160">
+            <form>
+               <orth>Ciste na Culaidh</orth>
+            </form>
+            <def>Vestments’ Chest.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_DaliburghJAMacDonaldeaglais-d0e634"
+             subtype="h1">3. Laithean fèille na bliadhna agus cleachdaidhean co-cheangailte rui</ab>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp243536">
+            <form>
+               <orth>An Aidbhean</orth>
+            </form>
+            <def>Advent.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp245048">
+            <form>
+               <orth>An Nollaig</orth>
+            </form>
+            <def>Christmas.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp246560">
+            <form>
+               <orth>Aifreann Mheadhon-Oidhche</orth>
+            </form>
+            <def>Midnight Mass.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp248072">
+            <form>
+               <orth>Oidhche Nollaig</orth>
+            </form>
+            <def>Christmas Eve.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp249584">
+            <form>
+               <orth>Oidhche na h-Aifreinn</orth>
+            </form>
+            <def>Christmas Eve.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp251096">
+            <form>
+               <orth>La nan Tri Righrean</orth>
+            </form>
+            <def>The Epiphany.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp252608">
+            <form>
+               <orth>La Feill an Teaghlaich Naoimh</orth>
+            </form>
+            <def>Feast of the Holy Family (Sunday in Octave of Christmas).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp254192">
+            <form>
+               <orth>La Feill Moire Mathair Dhe</orth>
+            </form>
+            <def>Feast of Motherhood of Our Lady (January 1st).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp255920">
+            <form>
+               <orth>La na Bliadhn’ Uire</orth>
+            </form>
+            <def>New Year’s Day.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp257432">
+            <form>
+               <orth>La Feill Baisteadh an Tighearna</orth>
+            </form>
+            <def>Baptism of the Lord (Sunday after 6th January).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp259160">
+            <form>
+               <orth>Dimairt na h-Inide</orth>
+            </form>
+            <def>Shrove Tuesday.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp260672">
+            <form>
+               <orth>Diciadain na Luatha</orth>
+            </form>
+            <def>Ash Wednesday.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp262184">
+            <form>
+               <orth>An Carghus</orth>
+            </form>
+            <def>Lent.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp264560">
+            <form>
+               <orth>Trasg, Trasgadh</orth>
+            </form>
+            <def>Fasting.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp266072">
+            <form>
+               <orth>Cadamh</orth>
+            </form>
+            <def>Abstinence.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp269096">
+            <form>
+               <orth>Seachdainn na Ceusadh</orth>
+            </form>
+            <def>Holy Week.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp270608">
+            <form>
+               <orth>Didomhnaich Turnuis</orth>
+            </form>
+            <def>Palm Sunday.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp272120">
+            <form>
+               <orth>Didomhnaich Slat Pailme</orth>
+            </form>
+            <def>Palm Sunday.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp273632">
+            <form>
+               <orth>Diardaoin Bangaid</orth>
+            </form>
+            <def>Holy Thursday.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp275144">
+            <form>
+               <orth>Dihaoine na Ceusda</orth>
+            </form>
+            <def>Good Friday.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp276656">
+            <form>
+               <orth>Disathurna na Casga</orth>
+            </form>
+            <def>Holy Saturday.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp278168">
+            <form>
+               <orth>Didomhnaich Casg</orth>
+            </form>
+            <def>Easter Sunday.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp279680">
+            <form>
+               <orth>Seachdainn na Casga</orth>
+            </form>
+            <def>Easter Week.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp281192">
+            <form>
+               <orth>Didomhnaich Min-Chasg</orth>
+            </form>
+            <def>Low Sunday (Second Sunday of Easter).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp283568">
+            <form>
+               <orth>Diardaoin Deasghabhail</orth>
+            </form>
+            <def>Ascension Thursday.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp285080">
+            <form>
+               <orth>Didomhnaich Caingis</orth>
+            </form>
+            <def>Pentecost (Whit) Sunday.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp286592">
+            <form>
+               <orth>Didomhnaich na Trionaid</orth>
+            </form>
+            <def>Trinity Sunday.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp288104">
+            <form>
+               <orth>Feill Corp Chriosda</orth>
+            </form>
+            <def>Corpus Christi (Thursday after Trinity Sunday).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp289616">
+            <form>
+               <orth>Feill Cridh’ Uile Naomh Iosa</orth>
+            </form>
+            <def>Feast of Sacred Heart (Friday after second Sunday after Pentecost).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp291128">
+            <form>
+               <orth>Domhnach Cumanta na Bliadhna</orth>
+            </form>
+            <def>Ordinary Sunday of the Year.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp292640">
+            <form>
+               <orth>Feill Naomh Iosaph</orth>
+            </form>
+            <def>St. Joseph’s Feast (19th March).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp294368">
+            <form>
+               <orth>La Fheill Peadair</orth>
+            </form>
+            <def>St. Peter and Paul (29th June).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp296096">
+            <form>
+               <orth>La Fheill Moire</orth>
+            </form>
+            <def>Assumption of Our Lady (15th August).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp412544">
+            <form>
+               <orth>La Fheill Ardachadh Moire</orth>
+            </form>
+            <def>Assumption.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp414056">
+            <form>
+               <orth>La Fheill Chriosda an Righ</orth>
+            </form>
+            <def>Feast of Christ the King (last Sunday before Advent).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp415568">
+            <form>
+               <orth>La nam Marbh</orth>
+            </form>
+            <def>1st November – All Souls’ Day.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp417296">
+            <form>
+               <orth>La Feill  nan Naomh Uile</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] All Saints (2nd November).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp419024">
+            <form>
+               <orth>La Fheill Moire a Ghineadh gun Smal</orth>
+            </form>
+            <def>Feast of Immaculate Conception (8th December).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp420752">
+            <form>
+               <orth>La Fheill Moire nan Coinnlean</orth>
+            </form>
+            <def>Candlemas (2nd February).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_DaliburghJAMacDonaldeaglais-d0e989"
+             subtype="h1">4. Gach pàirt dhen eaglais agus àiteachan sonraichte am broinn na h-eaglais</ab>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp423344">
+            <form>
+               <orth>Am Poirte</orth>
+            </form>
+            <def>Porch (main entrance).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp424856">
+            <form>
+               <orth>Cul na h-Eaglaise</orth>
+            </form>
+            <def>Entrance area.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp426368">
+            <form>
+               <orth>Tobar an Uisge Choisrigte</orth>
+            </form>
+            <def>Holy water stoup.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp427880">
+            <form>
+               <orth>Tobar a’ Bhaistidh</orth>
+            </form>
+            <def>Baptismal font.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp429392">
+            <form>
+               <orth>An Altair</orth>
+            </form>
+            <def>The altar.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp430904">
+            <form>
+               <orth>A’ Bheastraidh</orth>
+            </form>
+            <def>The vestry.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp432416">
+            <form>
+               <orth>A’ Chubaid</orth>
+            </form>
+            <def>The pulpit.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp433928">
+            <form>
+               <orth>Aite na h-Eisdeachd</orth>
+            </form>
+            <def>Confessional.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp435440">
+            <form>
+               <orth>Ionad a’ Leughaidh</orth>
+            </form>
+            <def>Lectern.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp436952">
+            <form>
+               <orth>A’ Chathair</orth>
+            </form>
+            <def>Presidential chair.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp438464">
+            <form>
+               <orth>Aghaidh na h-Eaglaise</orth>
+            </form>
+            <def>Front area in church.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp439976">
+            <form>
+               <orth>Slighe na Croise</orth>
+            </form>
+            <def>The stations of the cross.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp441488">
+            <form>
+               <orth>An Ceusadh</orth>
+            </form>
+            <def>The crucifix.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp443000">
+            <form>
+               <orth>Iomhaigh</orth>
+            </form>
+            <def>Statue.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp444512">
+            <form>
+               <orth>Dorus na Beastraidh</orth>
+            </form>
+            <def>Vestry door.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_DaliburghJAMacDonaldeaglais-d0e1128"
+             subtype="h1">5. Nìthean a tha air a cleachdadh ann a bhith deanamh aifreann neo seirbheis</ab>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp446888">
+            <form>
+               <orth>Buill na h-Altarach</orth>
+            </form>
+            <def>Altar furnishings (in Sanctuary).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp448400">
+            <form>
+               <orth>Uidheam na h-Altarach</orth>
+            </form>
+            <def>Altar furnishings (on actual Altar).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp449912">
+            <form>
+               <orth>Na h-Annartan</orth>
+            </form>
+            <def>Altar cloths.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp451424">
+            <form>
+               <orth>A’ Choinneal</orth>
+            </form>
+            <def>Candle.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp452936">
+            <form>
+               <orth>A’ Choinneal Mhor</orth>
+            </form>
+            <def>Paschal candle.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp454448">
+            <form>
+               <orth>An Crann Ceusaidh</orth>
+            </form>
+            <def>Crucifix.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp455960">
+            <form>
+               <orth>An Ceusadh</orth>
+            </form>
+            <def>Crucifix.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp457472">
+            <form>
+               <orth>A’ Chrois</orth>
+            </form>
+            <def>Cross.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp458984">
+            <form>
+               <orth>A’ Chailis</orth>
+            </form>
+            <def>Chalice.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp460496">
+            <form>
+               <orth>Am Paten</orth>
+            </form>
+            <def>Paten.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp462008">
+            <form>
+               <orth>Uisge Coisrigte</orth>
+            </form>
+            <def>Holy Water.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp463520">
+            <form>
+               <orth>Tuis</orth>
+            </form>
+            <def>Incense.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp465032">
+            <form>
+               <orth>Tuisear</orth>
+            </form>
+            <def>Censer.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp466544">
+            <form>
+               <orth>Soitheach na Tuise</orth>
+            </form>
+            <def>Incense boat.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp468920">
+            <form>
+               <orth>Leabhar na Leughaidhean</orth>
+            </form>
+            <def>Lectionary.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp470432">
+            <form>
+               <orth>Leabhar na h-Altarach</orth>
+            </form>
+            <def>Missal; Sacramentary.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp472808">
+            <form>
+               <orth>Soitheach an Uisge Choisrigte</orth>
+            </form>
+            <def>Holy Water dish.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp475184">
+            <form>
+               <orth>Fion</orth>
+            </form>
+            <def>Wine.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp476696">
+            <form>
+               <orth>Uisge</orth>
+            </form>
+            <def>Water.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp478208">
+            <form>
+               <orth>Aran (na h-Aifreinn)</orth>
+            </form>
+            <def>Altar bread.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp479720">
+            <form>
+               <orth>Na Soithichean</orth>
+            </form>
+            <def>Cruets.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp482096">
+            <form>
+               <orth>Ola</orth>
+            </form>
+            <def>Oil.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp483608">
+            <form>
+               <orth>Ola a’ Bhaistidh</orth>
+            </form>
+            <def>Baptismal oil; Oil of Catechumens.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp485120">
+            <form>
+               <orth>Ola a’ Chrism</orth>
+            </form>
+            <def>Oil of Chrism (used in Baptism and Confirmation).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp486632">
+            <form>
+               <orth>Ola an Ungaidh Naoimh</orth>
+            </form>
+            <def>Oil of the Sacrament of the Sick; Oleum Infirmorum.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_DaliburghJAMacDonaldeaglais-d0e1357"
+             subtype="h1">10. Seòrsachan ùrnaigh agus cleachdaidhean co-cheangailte rui</ab>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp489080">
+            <form>
+               <orth>An Urnaigh</orth>
+            </form>
+            <def>Prayer.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp490592">
+            <form>
+               <orth>Dean urnaigh</orth>
+            </form>
+            <def>To pray.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp492104">
+            <form>
+               <orth>Urnaigh an Tighearna</orth>
+            </form>
+            <def>The Lord’s Prayer.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp493616">
+            <form>
+               <orth>A’ Phaidir</orth>
+            </form>
+            <def>The Lord’s Prayer, The Pater Noster.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp495128">
+            <form>
+               <orth>Am Beannachadh Moire</orth>
+            </form>
+            <def>The Ave Maria, The Hail Mary.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp496640">
+            <form>
+               <orth>A’ Chreud</orth>
+            </form>
+            <def>The Creed, The Credo.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp498152">
+            <form>
+               <orth>Creud nan Abstol</orth>
+            </form>
+            <def>The Apostles’ Creed.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp499664">
+            <form>
+               <orth>An t-Aideachadh</orth>
+            </form>
+            <def>The Confiteor.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp501176">
+            <form>
+               <orth>Urnaigh Mhaidne</orth>
+            </form>
+            <def>Morning Prayer.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp502688">
+            <form>
+               <orth>Urnaigh Oidhche</orth>
+            </form>
+            <def>Night Prayer.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp504200">
+            <form>
+               <orth>An Oifis</orth>
+            </form>
+            <def>The Office, The Breviary.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp505712">
+            <form>
+               <orth>An Oifis Bheag</orth>
+            </form>
+            <def>The Officium Parvulum.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp507224">
+            <form>
+               <orth>Oifis na h-Oighe Bheannaichte</orth>
+            </form>
+            <def>The Office of Our Lady.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp508736">
+            <form>
+               <orth>Oifis na Marbh</orth>
+            </form>
+            <def>The Office for the Dead.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp510248">
+            <form>
+               <orth>Tabhartas Maidne</orth>
+            </form>
+            <def>Morning Offering.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp511760">
+            <form>
+               <orth>Urnaigh an Aingil Choimhdich</orth>
+            </form>
+            <def>Prayer to Guardian Angel.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp513272">
+            <form>
+               <orth>Comharradh na Croise</orth>
+            </form>
+            <def>Sign of the Cross.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp514784">
+            <form>
+               <orth>An t-Altachadh</orth>
+            </form>
+            <def>Grace.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp516296">
+            <form>
+               <orth>Altachadh roimh Bhiadh</orth>
+            </form>
+            <def>Grace before meals.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp517808">
+            <form>
+               <orth>Altachadh an deidh Bidh</orth>
+            </form>
+            <def>Grace after meals.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp519320">
+            <form>
+               <orth>Achanaich</orth>
+            </form>
+            <def>Prayer of petition.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp520832">
+            <form>
+               <orth>Gniomh Creidimh</orth>
+            </form>
+            <def>Act of Faith.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp522344">
+            <form>
+               <orth>Gniomh Dochais</orth>
+            </form>
+            <def>Act of Hope.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp523856">
+            <form>
+               <orth>Gniomh Graidh</orth>
+            </form>
+            <def>Act of Love/Charity.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp525368">
+            <form>
+               <orth>Gniomh Aithricheas</orth>
+            </form>
+            <def>Act of Contrition.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp526880">
+            <form>
+               <orth>An Urnaigh “Cuimhnich a’ Mhoire”</orth>
+            </form>
+            <def>The Memorare.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp528392">
+            <form>
+               <orth>An Urnaigh “Failte dhuit, a Bhanruinn”</orth>
+            </form>
+            <def>The Salve Regina.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp529904">
+            <form>
+               <orth>An Urnaigh “Failt’ an Aingil”</orth>
+            </form>
+            <def>The Angelus.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp531416">
+            <form>
+               <orth>An Urnaigh “A Bhanruinn nam Flaitheas”</orth>
+            </form>
+            <def>Regina Coeli.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp532928">
+            <form>
+               <orth>An Urnaigh “Gloir don Athair”</orth>
+            </form>
+            <def>Gloria (Patri).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp534440">
+            <form>
+               <orth>Urnaigh a’ Spioraid Naoimh</orth>
+            </form>
+            <def>Veni Sancte Spiritus.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp535952">
+            <form>
+               <orth>A’ Chonair Mhoire</orth>
+            </form>
+            <def>Rosary.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp537464">
+            <form>
+               <orth>Slighe na Croise</orth>
+            </form>
+            <def>Way of the Cross, Via Crucis.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp538976">
+            <form>
+               <orth>Stad</orth>
+            </form>
+            <def>Station (of the Cross).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp540488">
+            <form>
+               <orth>Leadan</orth>
+            </form>
+            <def>Litany.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp681296">
+            <form>
+               <orth>Leadan Moire</orth>
+            </form>
+            <def>Litany of Our Lady.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp682808">
+            <form>
+               <orth>Earrann (dhen Chonair Mhoire)</orth>
+            </form>
+            <def>Third (section of the Rosary).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp684320">
+            <form>
+               <orth>Na Coig Ruin Aoibhneach</orth>
+            </form>
+            <def>Five Joyful Mysteries of Rosary.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp685832">
+            <form>
+               <orth>Na Coig Ruin Dhoruinneach</orth>
+            </form>
+            <def>Five Sorrowful Mysteries of Rosary.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp687344">
+            <form>
+               <orth>Na Coig Ruin Glormhor</orth>
+            </form>
+            <def>Five Glorious Mysteries of Rosary.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp688856">
+            <form>
+               <orth>Urnaigh ri Ban-Tighearna nan Eileannan</orth>
+            </form>
+            <def>Prayer to Our Lady of the Isles.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp690368">
+            <form>
+               <orth>Crabhadh</orth>
+            </form>
+            <def>Prayer.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp691880">
+            <form>
+               <orth>Anam Chriosda</orth>
+            </form>
+            <def>Anima Christi.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp693392">
+            <form>
+               <orth>Gniomh Molaidh</orth>
+            </form>
+            <def>The Divine Praises.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp695768">
+            <form>
+               <orth>An Aifreann</orth>
+            </form>
+            <def>The Mass.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp697280">
+            <form>
+               <orth>An Iobairt Naomh</orth>
+            </form>
+            <def>The Holy Sacrifice (of the Mass).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp698792">
+            <form>
+               <orth>Na Modhannan</orth>
+            </form>
+            <def>The Rubrics (of the Liturgy).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp700304">
+            <form>
+               <orth>Luinneag na h-Introit</orth>
+            </form>
+            <def>Entrance (Introit), Antiphon.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp701816">
+            <form>
+               <orth>An Gloria</orth>
+            </form>
+            <def>The Gloria.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp703328">
+            <form>
+               <orth>An Gloir do Dhia</orth>
+            </form>
+            <def>The Gloria.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp704840">
+            <form>
+               <orth>An t-Aideachadh</orth>
+            </form>
+            <def>The Confiteor.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp706352">
+            <form>
+               <orth>Freagairt</orth>
+            </form>
+            <def>The Response.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp707864">
+            <form>
+               <orth>Urnaigh na h-Aifreinn</orth>
+            </form>
+            <def>Collect.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp709376">
+            <form>
+               <orth>A’ Cheud Urnaigh</orth>
+            </form>
+            <def>Collect.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp710888">
+            <form>
+               <orth>A’ Cheud Leughadh</orth>
+            </form>
+            <def>First reading.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp712400">
+            <form>
+               <orth>An Darna Leughadh</orth>
+            </form>
+            <def>Second Reading.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp713912">
+            <form>
+               <orth>A’ Salm</orth>
+            </form>
+            <def>Psalm.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp715424">
+            <form>
+               <orth>Freagairt na Sailme</orth>
+            </form>
+            <def>Response to the Psalm.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp716936">
+            <form>
+               <orth>Luinneag an t-Soisgeil</orth>
+            </form>
+            <def>Gospel Acclamation.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp718448">
+            <form>
+               <orth>An Soisgeul</orth>
+            </form>
+            <def>Gospel (Reading).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp719960">
+            <form>
+               <orth>A’ Leughadh bhon t-Soisgeul</orth>
+            </form>
+            <def>Gospel Reading.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp721472">
+            <form>
+               <orth>A’ Searmon</orth>
+            </form>
+            <def>Homily, Sermon.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp722984">
+            <form>
+               <orth>A’ Chreud</orth>
+            </form>
+            <def>Creed.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp724496">
+            <form>
+               <orth>Urnaigh nan Creideach</orth>
+            </form>
+            <def>Bidding Prayers.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp726008">
+            <form>
+               <orth>An Tabhartas</orth>
+            </form>
+            <def>The Offertory.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp727520">
+            <form>
+               <orth>An Tairgse</orth>
+            </form>
+            <def>The Offering.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp729032">
+            <form>
+               <orth>Urnaigh an Tabhartais</orth>
+            </form>
+            <def>Offertory Prayer.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp730544">
+            <form>
+               <orth>An Roimh-radh</orth>
+            </form>
+            <def>The Preface.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp732056">
+            <form>
+               <orth>An Coisrigeadh</orth>
+            </form>
+            <def>The Consecration.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp733568">
+            <form>
+               <orth>Urnaigh a’ Choisrigidh</orth>
+            </form>
+            <def>The Eucharistic Prayer.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp735080">
+            <form>
+               <orth>A’ Phaidir</orth>
+            </form>
+            <def>The Pater Noster.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp736592">
+            <form>
+               <orth>’Uain Dhe</orth>
+            </form>
+            <def>Agnus Dei.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp738104">
+            <form>
+               <orth>A’ Chomain</orth>
+            </form>
+            <def>Communion (Part of Mass or Sacred Species).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp739616">
+            <form>
+               <orth>An Comanachadh</orth>
+            </form>
+            <def>Communion (Distribution and Reception of Sacrament).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp741128">
+            <form>
+               <orth>An t-Sacramaid Naomh</orth>
+            </form>
+            <def>Holy Communion, the Blessed Sacrament.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp742640">
+            <form>
+               <orth>A’ gabhail Comain</orth>
+            </form>
+            <def>Receiving Holy Communion.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp744152">
+            <form>
+               <orth>A’ toirt seachad Comain</orth>
+            </form>
+            <def>Distributing Holy Communion.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp745664">
+            <form>
+               <orth>Comharradh na Sithe</orth>
+            </form>
+            <def>Sign of Peace.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp747176">
+            <form>
+               <orth>Ionnlad na Cailise</orth>
+            </form>
+            <def>Purification of Chalice.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp748688">
+            <form>
+               <orth>Luinneag na Comain</orth>
+            </form>
+            <def>Communion Antiphon.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp750200">
+            <form>
+               <orth>Urnaigh an deidh Comain</orth>
+            </form>
+            <def>Postcommunion Prayer.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp751712">
+            <form>
+               <orth>Am Beannachadh</orth>
+            </form>
+            <def>The Blessing.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp754088">
+            <form>
+               <orth>An Leughadair</orth>
+            </form>
+            <def>The Reader.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp755600">
+            <form>
+               <orth>An Seinneadair</orth>
+            </form>
+            <def>The Cantor.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp757112">
+            <form>
+               <orth>A’ Choisir</orth>
+            </form>
+            <def>The Choir.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp758624">
+            <form>
+               <orth>An Laoidh</orth>
+            </form>
+            <def>The Hymn.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp760136">
+            <form>
+               <orth>An Cleireach</orth>
+            </form>
+            <def>The Server, Altar Boy.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp761648">
+            <form>
+               <orth>Togail an Airgid</orth>
+            </form>
+            <def>Collection.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp763160">
+            <form>
+               <orth>Togail Araid</orth>
+            </form>
+            <def>Special Collection.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp765536">
+            <form>
+               <orth>Clar nam Marbh</orth>
+            </form>
+            <def>List of the Dead (remembered during Bidding Prayer).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp767048">
+            <form>
+               <orth>Ceann Bliadhna</orth>
+            </form>
+            <def>Anniversary (of death).</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp768560">
+            <form>
+               <orth>Na h-Easlaintich</orth>
+            </form>
+            <def>The Sick.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp770072">
+            <form>
+               <orth>Bannan Posaidh</orth>
+            </form>
+            <def>Banns of Marriage.</def>
+         </entry>
+         <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp771584">
+            <form>
+               <orth>Air eughach anns an Eaglais</orth>
+            </form>
+            <def>Announced in Church.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

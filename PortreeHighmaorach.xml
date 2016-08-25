@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WoolworkingandFishing_PortreeHighmaorach">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the words have been slipped and therefore in this file, apart from the definitions provided in the questionnaire, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[02/1968 on the slips]</date>
+            <location>
+               <placeName>An t-Eilean Sgiathanach, Portrìgh [Skye, Portree]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[school]</persName>
+            </person>
+            <person role="informant">
+               <persName>Portree High</persName>
+               <persName xml:lang="gd">Ard Sgoil Phortrìgh</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Shellfish</term>
+               <term xml:lang="gd">Maorach</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e32"
+             subtype="h1">1. Maorach</ab>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e37">
+            <form>
+               <orth>muirsgian</orth>
+            </form>
+            <def>a razor-fish.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e46">
+            <form>
+               <orth>bàirneach</orth>
+            </form>
+            <def>limpet.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e55">
+            <form>
+               <orth>strùban</orth>
+            </form>
+            <def>cockle. [NOTES: slip not found.]</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e64">
+            <form>
+               <orth>fiasgan</orth>
+            </form>
+            <def>mussel.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e73">
+            <form>
+               <orth>creachan</orth>
+            </form>
+            <def>clam, scallop.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e82">
+            <form>
+               <orth>faochag</orth>
+            </form>
+            <def>periwinkle (Uist and Harris), whelk (Skye).</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e91">
+            <form>
+               <orth>mùsgan</orth>
+            </form>
+            <def>prawn.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e100">
+            <form>
+               <orth>slige</orth>
+            </form>
+            <def>shell.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e109">
+            <form>
+               <orth>am biadh</orth>
+            </form>
+            <def>food-part. [SLIP: Food part of shellfish.]</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e118">
+            <form>
+               <orth>cnògan</orth>
+            </form>
+            <def>whelk.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e127">
+            <form>
+               <orth>eisir</orth>
+            </form>
+            <def>oyster.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e136">
+            <form>
+               <orth>madaidh</orth>
+            </form>
+            <def>horse-mussel.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e145">
+            <form>
+               <orth>giùrain</orth>
+            </form>
+            <def>barnacles. [NOTES: slipped under ‘giùrain (pl)’.]</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e154">
+            <form>
+               <orth>coilleag</orth>
+            </form>
+            <def>cockle (Skye).</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e163">
+            <form>
+               <orth>gille-fionn</orth>
+            </form>
+            <def>large periwinkle.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e171"
+             subtype="h1">2. A’ tional maorach</ab>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e176">
+            <form>
+               <orth>a’ togail fhaochag</orth>
+            </form>
+            <def>gathering whelks. [NOTES: slipped under ‘faochag’ with ‘a’ togail fhaochag’ as the quotation.]</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e185">
+            <form>
+               <orth>a’ buain bhàirneach</orth>
+            </form>
+            <def>gathering limpets. [NOTES: slipped under ‘bàirneach’ with ‘a’ buain bhàirneach’ as the quotation.]</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e194">
+            <form>
+               <orth>a’ buain fhiasgan</orth>
+            </form>
+            <def>gathering mussels. [NOTES: slipped under ‘fiasgan’ with ‘a’ buain fhiasgan’ as the quotation.]</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e203">
+            <form>
+               <orth>ag iasgach ghiomach</orth>
+            </form>
+            <def>lobster-fishing. [NOTES: slipped under ‘giomach’ with ‘ag iasgach ghiomach’ as the quotation.]</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e212">
+            <form>
+               <orth>cliabh</orth>
+            </form>
+            <def>creel.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e220"
+             subtype="h1">3. Beathaichean eile a gheibhear ’sa’ chladach</ab>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e225">
+            <form>
+               <orth>crùbag</orth>
+            </form>
+            <def>crab.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e234">
+            <form>
+               <orth>portan</orth>
+            </form>
+            <def>small crab.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e243">
+            <form>
+               <orth>siolag</orth>
+            </form>
+            <def>sand eel.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e252">
+            <form>
+               <orth>luga</orth>
+            </form>
+            <def>sand worm.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e261">
+            <form>
+               <orth>deargannan tràghad</orth>
+            </form>
+            <def>shore lice. [NOTES: slipped under ‘deargan tràghad’ with ‘deargannan tràghad’ as the quotation.]</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e270">
+            <form>
+               <orth>crosgag</orth>
+            </form>
+            <def>star-fish. [SLIP: Starfish, also crosgag-traghad [sic].]</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e279">
+            <form>
+               <orth>crosgag-tràghad</orth>
+            </form>
+            <def>star-fish.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e288">
+            <form>
+               <orth>muir-teachd</orth>
+            </form>
+            <def>jelly-fish.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e297">
+            <form>
+               <orth>cadalan-tràghad</orth>
+            </form>
+            <def>? (said of slow-moving or indolent person.) [NOTES: slipped under ‘cadalan’ with ‘cadalan-tràghad’ as the quotation.]</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e306">
+            <form>
+               <orth>sgeolltar</orth>
+            </form>
+            <def>type of jelly-fish found clinging to fishing nets (Scalpay, Harris). (“o” as “ow” in “how”)</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e315">
+            <form>
+               <orth>sporan-feannaig</orth>
+            </form>
+            <def>mermaid’s purse.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e324">
+            <form>
+               <orth>cnagan-feannaig</orth>
+            </form>
+            <def>sea-urchin.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

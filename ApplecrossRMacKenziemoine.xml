@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Peat_ApplecrossRMacKenziemoine">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Applecross</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Robert MacKenzie</persName>
+               <birth>
+                  <placeName>Sgìre na Pàirc an Leódhas [Lewis, the Park district]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Peat-Working</term>
+               <term xml:lang="gd">Mòine</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Peat_ApplecrossRMacKenziemoine-d0e26"
+             subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e31">
+            <form>
+               <orth>fosgladh poll ùr</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e37">
+            <form>
+               <orth>deanamh poll ùr</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e43">
+            <form>
+               <orth>a’ riachadh</orth>
+            </form>
+            <def>the line running the full length of bank marking the width of turf to be cut. The depth was usually 4"-6".</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e52">
+            <form>
+               <orth>a’ rusgadh</orth>
+            </form>
+            <def>turfing – removing the upper crust containing living plants and roots.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e61">
+            <form>
+               <orth>a’ sgoltadh</orth>
+            </form>
+            <def>as [‘a’ rusgadh’ (q.v.)] but less common.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e70">
+            <form>
+               <orth>ceap</orth>
+            </form>
+            <def>a segment of the ‘rusgadh’ of a size that could be conveniently handled and used afterwards in the ‘tughadh’ [q.v.] process.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_ApplecrossRMacKenziemoine-d0e78"
+             subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e83">
+            <form>
+               <orth>a’ buain</orth>
+            </form>
+            <def>cutting.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e92">
+            <form>
+               <orth>a’ gearradh</orth>
+            </form>
+            <def>cutting.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e101">
+            <form>
+               <orth>a’ sgaoileadh</orth>
+            </form>
+            <def>throwing.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e110">
+            <form>
+               <orth>iarann mònach</orth>
+            </form>
+            <def>common cutting iron.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e119">
+            <form>
+               <orth>tairisgian (tairsgian)</orth>
+            </form>
+            <def>same [as ‘iarann mònach’ (q.v.)], but not so extensively used in S. Lochs.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e128">
+            <form>
+               <orth>tairisgein</orth>
+               <pron>[See tairisgian]</pron>
+            </form>
+            <def>[See tairisgian]</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e137">
+            <form>
+               <orth>spaid</orth>
+            </form>
+            <def>common spade.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e146">
+            <form>
+               <orth>caibe-làir</orth>
+            </form>
+            <def>an iron used for the ‘rusgadh’ [q.v.] and probably introduced from Sutherland.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e155">
+            <form>
+               <orth>an carcair</orth>
+            </form>
+            <def>the block of peat to be cut shorn of the surface turf.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e164">
+            <form>
+               <orth>còrrfhad</orth>
+            </form>
+            <def>the peat nearest face and exposed to the weather.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e173">
+            <form>
+               <orth>bàrrfhad</orth>
+            </form>
+            <def>the upper layer of peat.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e182">
+            <form>
+               <orth>an dara fad</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e188">
+            <form>
+               <orth>an trìeamh (treas) fad etc.</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e194">
+            <form>
+               <orth>ath-mhoin</orth>
+            </form>
+            <def>large clumsy pieces [of peat] usually very wet and laid aside (cuir air leth).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_ApplecrossRMacKenziemoine-d0e202"
+             subtype="h1">3. A’ tiormachadh na mònach</ab>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e207">
+            <form>
+               <orth>a’ sgaoileadh</orth>
+            </form>
+            <def>the initial throw or the subsequent spreading in a dry bed ?</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e216">
+            <form>
+               <orth>an sgaoilteach</orth>
+            </form>
+            <def>the dry bed (uachdar a phoill).</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e225">
+            <form>
+               <orth>a’ tionndadh</orth>
+            </form>
+            <def>just turning the peat over during a dry season previous to ‘rùdhadh’ [q.v.].</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e234">
+            <form>
+               <orth>a’ rudhadh</orth>
+            </form>
+            <def>leaning 4 pieces to one another with a fifth flat on top.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e243">
+            <form>
+               <orth>rùdhan (n.)</orth>
+               <pron>[See a’ rudhadh]</pron>
+            </form>
+            <def>[See a’ rudhadh]</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e252">
+            <form>
+               <orth>ath-rudhadh</orth>
+            </form>
+            <def>combining several ‘rùdhans’ [q.v.], the number depending on the degree of dryness.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_ApplecrossRMacKenziemoine-d0e260"
+             subtype="h1">4. A’ cruachadh na mònach</ab>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e265">
+            <form>
+               <orth>a’ cruachadh</orth>
+            </form>
+            <def>stacking.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e274">
+            <form>
+               <orth>a’ tughadh</orth>
+            </form>
+            <def>thatching with ‘ceap’ [q.v.].</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e283">
+            <form>
+               <orth>a’ steidheadh</orth>
+            </form>
+            <def>here the outside peats were placed on edge at a steep angle in a more or less level layer.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e292">
+            <form>
+               <orth>cruach tughaidh</orth>
+            </form>
+            <def>this was rounded in shape. It kept the peat in excellent condition.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e301">
+            <form>
+               <orth>cruach steidhidh</orth>
+            </form>
+            <def>often of large size and of a pyramidal form. The top about 18" broad was thatched with turf (‘ceap’).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_ApplecrossRMacKenziemoine-d0e309"
+             subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e314">
+            <form>
+               <orth>cliabh</orth>
+            </form>
+            <def>common creel.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e323">
+            <form>
+               <orth>bach-chliabh</orth>
+            </form>
+            <def>smaller version [of creel] (often used for carrying fish).</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e332">
+            <form>
+               <orth>aisean</orth>
+            </form>
+            <def>rib or stake.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e341">
+            <form>
+               <orth>breugan or briagan</orth>
+            </form>
+            <def>perforations near edge to hold and slacken the ‘iris’ [q.v.] and lighten the creel.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e350">
+            <form>
+               <orth>iris</orth>
+            </form>
+            <def>the rope strap [of the creel].</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e359">
+            <form>
+               <orth>dronnag</orth>
+            </form>
+            <def>pad of clothes placed on buttock to soften the feel of the creel.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e368">
+            <form>
+               <orth>cairt</orth>
+            </form>
+            <def>cart.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e377">
+            <form>
+               <orth>càrn-slaoid</orth>
+            </form>
+            <def>a longish cart common round the outskirts of S. [?] but less so in Lochs.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e386">
+            <form>
+               <orth>poca</orth>
+            </form>
+            <def>jute or hessian bag.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_ApplecrossRMacKenziemoine-d0e394"
+             subtype="h1">6. Seòrsachan mònach</ab>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e399">
+            <form>
+               <orth>mòine dhubh</orth>
+            </form>
+            <def>black good quality peat usually from sloping ground where the peat formation is slower and the vegetation stronger.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e408">
+            <form>
+               <orth>mòine bhàn</orth>
+               <pron>[peat]</pron>
+            </form>
+            <def>[peat] from the softer bogs.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e417">
+            <form>
+               <orth>mòine riabhach</orth>
+            </form>
+            <def>(brindled) [peat] halfway between ‘mòine dhubh’ [q.v.] and ‘mòine bhàn’ [q.v.] in colour and quality.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e426">
+            <form>
+               <orth>mòine chalcais</orth>
+               <pron>[kind of peat]</pron>
+            </form>
+            <def>[kind of peat] probably where the plant roots were still in a good state of preservation.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e435">
+            <form>
+               <orth>mòine chràiceach</orth>
+               <pron>[peat]</pron>
+            </form>
+            <def>[peat] composed mostly of dead trees. ‘Cràic’ is used for rotting stumps and branches. ‘Giuthas’, still in a good state of preservation, is used on the mainland to describe the tree roots preserved by the peat.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e444">
+            <form>
+               <orth>mòine chriadha</orth>
+               <pron>[peat]</pron>
+            </form>
+            <def>[peat] usually from the bottom stratum. Clay in some measure is still attached to the peat.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e453">
+            <form>
+               <orth>mòine chinn</orth>
+               <pron>[peat]</pron>
+            </form>
+            <def>[peat] often cut roughly with a spade. Live vegetation still forms part of it.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e462">
+            <form>
+               <orth>grabhag</orth>
+            </form>
+            <def>a small bank in the drier parts of the moor or alternately poll a tha tighinn gu deireadh.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e471">
+            <form>
+               <orth>mòine tholltach</orth>
+               <pron>[peat]</pron>
+            </form>
+            <def>[peat] spongy and suffering from runlets and channels caused by running water.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e480">
+            <form>
+               <orth>mòine fàs</orth>
+               <pron>[peat]</pron>
+            </form>
+            <def>[peat] spongy and suffering from runlets and channels caused by running water.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e489">
+            <form>
+               <orth>mòine chailc</orth>
+            </form>
+            <def>chalky [peat].</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e498">
+            <form>
+               <orth>caoran</orth>
+            </form>
+            <def>fragment of dried peat.</def>
+         </entry>
+         <entry xml:id="Peat_ApplecrossRMacKenziemoine-d0e507">
+            <form>
+               <orth>smùr</orth>
+            </form>
+            <def>powdered peat.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_ApplecrossRMacKenziemoine-d0e515"
+             subtype="h1">7. Faclan eile</ab>
+      </body>
+   </text>
+</TEI>

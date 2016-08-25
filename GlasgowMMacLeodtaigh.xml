@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the informant uses E and I to mark the gender of the nouns, masculine and feminine respectively.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[1972 on the slips]</date>
+            <location>
+               <placeName>Glaschu [Glasgow]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Murdo MacLeod</persName>
+               <persName xml:lang="gd">Murchadh MacLeòid </persName>
+               <age>56 10 [sic – probably 10/12 meant]</age>
+               <birth>
+                  <placeName>Leòdhas [Lewis], Uig an Iar</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>House and Furnishings</term>
+               <term xml:lang="gd">Taigh Gàidhealach</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e40"
+             subtype="h1">1. An stéidh is am balla</ab>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-idola188">
+            <form>
+               <orth>[note]</orth>
+               <pron>[NOTES: the following appears on an additional slip of paper stapled between 5. and 7. It may be a part of the missing page.]</pron>
+            </form>
+            <def>[NOTES: the following appears on an additional slip of paper stapled between 5. and 7. It may be a part of the missing page.] Bha tiuighead mhór anns na ballachan aig 1. 2. 3. Grunn mór, mór throighean. Bhiodh fosgalan aig dorus feadhainn de na seann thighean airson fasgaidh agus airson ruma. Cha chreid mi nach ann anns an fhosgalan a bhiodh a’ bhrà aca air an taobh siar ’s an eilean. Aig feadhainn dhiubh có dhiù.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e53"
+             subtype="h1">2. Am mullach ’s an tughadh</ab>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e58">
+            <form>
+               <orth>connlach (I)</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e64">
+            <form>
+               <orth>muran (E)</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e70">
+            <form>
+               <orth>luachair (I)</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e76">
+            <form>
+               <orth>fraoch (E)</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-idola189">
+            <form>
+               <orth>[tughadh]</orth>
+            </form>
+            <def>B’e seo [i.e. connlach, muran, luachair, fraoch] an tughadh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e91">
+            <form>
+               <orth>ceann (E)</orth>
+            </form>
+            <def>Ceann an tighe, b’e sin am fiodh. “Chuir iad an ceann air an tigh.”</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-idola190">
+            <form>
+               <orth>[‘taigh’]</orth>
+            </form>
+            <def>A’ ruith air na h-ainmeannan a th’aig Dwelly fo’n cheann ‘taigh’ (t-d 923 Names of Parts of a “Black” House):</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e109">
+            <form>
+               <orth>1. Ceangal, Cas-cheangail</orth>
+            </form>
+            <def>Cha robh againn idir.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e118">
+            <form>
+               <orth>2. Am bun-cheangal</orth>
+            </form>
+            <def>Cha robh. No a’ chrùp. Bun-baca, bha e againn.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e127">
+            <form>
+               <orth>3. Cliathan (pl.)</orth>
+            </form>
+            <def>’S ann a bha iad againne an àirde.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e136">
+            <form>
+               <orth>4. Cabair</orth>
+            </form>
+            <def>Chanadh sinn ‘cabair ri cabair’ an cumantas mu cheann an tighe.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e145">
+            <form>
+               <orth>5. Spàrr, Spàrra-ghaoithe</orth>
+            </form>
+            <def>Aon spàrr a bhiodh againne. Ach tha an dà ainm beò air na bilean fhathast.
+        <graphic url="GlasgowMMacLeodtighillust1.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e156">
+            <form>
+               <orth>6. An gath-droma</orth>
+            </form>
+            <def>a bh’ againne.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e165">
+            <form>
+               <orth>7. Corra-thulachainn</orth>
+            </form>
+            <def>Bha e againn.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e174">
+            <form>
+               <orth>8. Cabair-oisinn</orth>
+            </form>
+            <def>Bhà.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e183">
+            <form>
+               <orth>9. Maide-eòin, maide-feannaig</orth>
+            </form>
+            <def>Bha na dhà againne. Ach ’se ‘maide-feannaig’ bu trice a chanadh sinn.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e192">
+            <form>
+               <orth>10. Similear-crochaidh</orth>
+            </form>
+            <def>Cha robh e againn idir.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e201">
+            <form>
+               <orth>11. Luidhear</orth>
+            </form>
+            <def>’S e ‘a’ bheant’ a chanadh sinne.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e210">
+            <form>
+               <orth>Acair</orth>
+            </form>
+            <def>Bha e againn.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e219">
+            <form>
+               <orth>Annainn</orth>
+            </form>
+            <def>Cha robh. ‘Bàrr-a’-bhalla’ a chanadh sinne.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e228">
+            <form>
+               <orth>Bàircean</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e237">
+            <form>
+               <orth>Balla-tarsuinn</orth>
+            </form>
+            <def>Bhà.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e246">
+            <form>
+               <orth>Bonnacha-bac</orth>
+            </form>
+            <def>Cha robh. ‘Bun-bac’ a bh’againne airson a stigh ri bonn nan ceangal air bàrr a’ bhalla. Cailleach à Beàrnaraidh (Leòdhais) – bha ‘bun-bac’ aice airson ‘bun-sgòth’.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e255">
+            <form>
+               <orth>Buabhall</orth>
+            </form>
+            <def>‘Bualla’ a chanas sinne. ‘Stàla’, an eich, a chanas sinn.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e264">
+            <form>
+               <orth>Bunntair</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e273">
+            <form>
+               <orth>Cabar-droma</orth>
+            </form>
+            <def>Smait gu’n canaist e uaireannan airson ‘gath-droma’.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e282">
+            <form>
+               <orth>Cabar-fraighe</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e291">
+            <form>
+               <orth>Calpa</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e300">
+            <form>
+               <orth>Casan-ceangail</orth>
+            </form>
+            <def>Bhà.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e309">
+            <form>
+               <orth>Cas an teannachaidh</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e318">
+            <form>
+               <orth>Ceàrn</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e327">
+            <form>
+               <orth>Clàidhean</orth>
+            </form>
+            <def>Bhà. Air a fhuaimhneachadh [sic] ‘clàimhean’ mar làimh + ean ann am ‘bean’ [?]: làimhean, clàimhean.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e336">
+            <form>
+               <orth>Sneic</orth>
+            </form>
+            <def>Bha ‘sneic’ (‘snaic’ a chanas sinne – fuaimnich mar ‘faic’) againn.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e345">
+            <form>
+               <orth>Deasp</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e351">
+            <form>
+               <orth>Clèithean-buinn</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e360">
+            <form>
+               <orth>Clèithean-mullaich</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e369">
+            <form>
+               <orth>Cotan</orth>
+            </form>
+            <def>Cha robh. Ach tha e againn an ainm àite.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e378">
+            <form>
+               <orth>Crann-thairgnean</orth>
+            </form>
+            <def>Cha robh. Ach an cas-chrom.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e387">
+            <form>
+               <orth>Cuaille</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e396">
+            <form>
+               <orth>Cùil</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e405">
+            <form>
+               <orth>Cùlaisd</orth>
+            </form>
+            <def>Cha robh. Ach ann an cuid de dh’àiteachan ’s an eilean canaidh iad ‘cùlaisd’ airson ‘uachdar-an-tighe’ againne.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e414">
+            <form>
+               <orth>Dragh</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e423">
+            <form>
+               <orth>Dromanaich</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e432">
+            <form>
+               <orth>Dronn</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e441">
+            <form>
+               <orth>Druim an tighe</orth>
+            </form>
+            <def>Bhà.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e450">
+            <form>
+               <orth>Duibheid</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e459">
+            <form>
+               <orth>Eadar-dha-bhìth</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] Bhà.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e468">
+            <form>
+               <orth>Faradh</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e477">
+            <form>
+               <orth>Fòid-buinn</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e486">
+            <form>
+               <orth>Fòid-fàil</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e495">
+            <form>
+               <orth>Fraigh</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e504">
+            <form>
+               <orth>Frioghan</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e513">
+            <form>
+               <orth>Gath-droma</orth>
+            </form>
+            <def>Bhà.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e522">
+            <form>
+               <orth>Glutranadh</orth>
+            </form>
+            <def>Bhà.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e531">
+            <form>
+               <orth>Lathus</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e540">
+            <form>
+               <orth>Maide-aide</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e549">
+            <form>
+               <orth>Maide-slabhruidh</orth>
+            </form>
+            <def>Bha.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e558">
+            <form>
+               <orth>Màs an tighe</orth>
+            </form>
+            <def>Bhà.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e567">
+            <form>
+               <orth>Mathair-shìomain</orth>
+            </form>
+            <def>Bhà.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e576">
+            <form>
+               <orth>Sgolb</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e585">
+            <form>
+               <orth>Sgonn</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e594">
+            <form>
+               <orth>Sgrathan</orth>
+            </form>
+            <def>Bhà.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e603">
+            <form>
+               <orth>Sìoman-fraoich</orth>
+            </form>
+            <def>Bhà.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e612">
+            <form>
+               <orth>Spàrr-ealaig</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e621">
+            <form>
+               <orth>Spàrr-gaoithe</orth>
+            </form>
+            <def>Bhà. “An àirde chun na spàrra-ghaoithe.”</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e630">
+            <form>
+               <orth>Spiris</orth>
+            </form>
+            <def>Bhà.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e639">
+            <form>
+               <orth>Stagh</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e648">
+            <form>
+               <orth>Stall</orth>
+            </form>
+            <def>Bhà. “Air an lic-stall”. B’e seo air an lic a bhiodh aig bonn an doruis-a-muigh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e657">
+            <form>
+               <orth>Talan</orth>
+            </form>
+            <def>Bhà.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e666">
+            <form>
+               <orth>Tràigh</orth>
+            </form>
+            <def>Cha robh.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e675">
+            <form>
+               <orth>Tughadh</orth>
+            </form>
+            <def>Bhà. ‘Bunan-dubha’ againn mar aig M.McL.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e683"
+             subtype="h1">3. Dorsan is uinneagan</ab>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e688">
+            <form>
+               <orth>dorus an tigh’ mhóir</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e694">
+            <form>
+               <orth>dorus an talain</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e700">
+            <form>
+               <orth>dorus uachdar an tighe</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e706">
+            <form>
+               <orth>dorus na clòsaid</orth>
+            </form>
+            <def>(Far am bitheadh clòsaid.)</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e715">
+            <form>
+               <orth>dorus a’ chruidh</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e721">
+            <form>
+               <orth>dorus an t-sabhail</orth>
+            </form>
+            <def>(Far am biodh tigh agus sabhal ri chèile.)
+        <graphic url="GlasgowMMacLeodtighillust3.jpg" width="300px"/>
+            </def>
+         </entry>
+         <ab type="heading"
+             xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e731"
+             subtype="h1">4. An broinn an taighe: na sèamraichean</ab>
+         <ab type="heading"
+             xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e735"
+             subtype="h2">Na seòmraichean:</ab>
+         <figure>
+            <graphic url="GlasgowMMacLeodtighillust4.jpg" width="300px"/>
+         </figure>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e742">
+            <form>
+               <orth>1. Uachdar an tighe</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e748">
+            <form>
+               <orth>2. Aig an teine</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e754">
+            <form>
+               <orth>3. Air feadh an tighe (far am biodh na h-ainmhidhean)</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e760">
+            <form>
+               <orth>clòsaid (I)</orth>
+            </form>
+            <def>(Far am biodh clòsaid.)</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-idola191">
+            <form>
+               <orth>[Tigh Bhurns]</orth>
+            </form>
+            <def>Tigh Bhurns an Alloway (Allamhaigh):
+	    <graphic url="GlasgowMMacLeodtighillust5.jpg" width="300px"/>
+	           </def>
+         </entry>
+         <ab type="heading"
+             xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e779"
+             subtype="h1">5. An t-àite-teine</ab>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e784">
+            <form>
+               <orth>an teinntean (E)</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e790">
+            <form>
+               <orth>leac an teinntean</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e796">
+            <form>
+               <orth>a’ chagailte (I)</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e802">
+            <form>
+               <orth>[similear (E)]</orth>
+            </form>
+            <def>Nuair a chaidh an teine a thoirt air falbh bho mheadhon an làir b’e seo an seòrsa àite-teine a thòisicheadh a’ deanamh. As déidh seo thòisicheadh a’ deanamh similear le sgeilpe.
+        <graphic url="GlasgowMMacLeodtighillust6.jpg" width="300px"/>
+               <graphic url="GlasgowMMacLeodtighillust7.jpg" width="300px"/>
+            </def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e815">
+            <form>
+               <orth>hobail (E agus I mar a fhreagradh)</orth>
+            </form>
+            <def>Tha mi deanamh a mach gur h-ann airson cho coltach ’s a bha an seorsa similear-sa ri sgiortaichean nam boirionnach a chaidh an t-ainm ‘hobail’ a thogail. Agus lean e ris.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e824">
+            <form>
+               <orth>sgiorta (hobble) (I)</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e829"
+             subtype="h1">6. Airneis an taighe</ab>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e834">
+            <form>
+               <orth>Aig an teine</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e840">
+            <form>
+               <orth>stùil</orth>
+            </form>
+            <def>(Beag agus mór.)</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e849">
+            <form>
+               <orth>stòl (E)</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e855">
+            <form>
+               <orth>being (I)</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e861">
+            <form>
+               <orth>ciste-chaol (being)</orth>
+            </form>
+            <def>Bha i mar an seo shìos. Bha bonn innte agus bòrd-uachdair oirre. Bha i math airson rudan a ghleidheadh. “C’àit am bheil an lìon a bha siod?” “Tha e anns a’ chiste-chaoil.”
+        <graphic url="GlasgowMMacLeodtighillust8.jpg" width="300px"/>
+            </def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e872">
+            <form>
+               <orth>séis (I)</orth>
+            </form>
+            <def>Bha i faisg air an aon seòrsa ris an tè eile [i.e. being?] ach gun bonn idir innte. Casan a bh’oirre. Bha i math airson rudan a ghleidheadh a stigh fòidhe agus airson àite do an chù. Chanadh sinn ‘beinge’ ri na dhà. ‘Séis’ agus ‘ciste-chaol’.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e881">
+            <form>
+               <orth>dreasair (E)</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e887">
+            <form>
+               <orth>ciste-mhine (I)</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e893">
+            <form>
+               <orth>séidhear (E)</orth>
+            </form>
+            <def>Airson séidhear faodaidh sibh smaoineachadh air séidhear cumanta, séidhear sìomain, agus séidhear bean an tighe. Séidhear-gàirdeanach, ’s ann a bhiodh e aig daoine a bha ’na b’ fheàrr air an dòigh ’s mar sin. An sìoman a bhiodh air séidhear sìomain b’e sìoman gathan–gainnisg no sìoman de phunnd-bàn. Agus mar sin.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e902">
+            <form>
+               <orth>An uachdar an tighe</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e908">
+            <form>
+               <orth>leabaidh (I)</orth>
+            </form>
+            <def>Box-bed.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e917">
+            <form>
+               <orth>leabaidh-phostach (I)</orth>
+            </form>
+            <def>Leabaidh fhosgailte.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e926">
+            <form>
+               <orth>preas (E)</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e932">
+            <form>
+               <orth>ciste (I)</orth>
+            </form>
+            <def>Airson ciste faic ‘seotal’. Cha bhiodh seotal anns a h-uile ciste idir. Ach a’ chiste a b’fheàrr a bhiodh a stigh bhiodh seotal innte. Bha port aig fear uaireigin anns an àite, agus bha aige: “Ciompull de na notaichean an seotal na cist’-aodaich.”</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e941">
+            <form>
+               <orth>ciste-dhràthraichean (I)</orth>
+            </form>
+            <def>(Ma dh’fhaoidte.)</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e950">
+            <form>
+               <orth>driunga (no drunga) (I)</orth>
+            </form>
+            <def>Bhiodh i aotrom. Bhiodh i mar ciste chumanta, no le mullach cruinn oirre. ’S mar sin. Drunga, is ann aig feadhainn a bhiodh a’ siubhal a bhiodh i mar clann-nighean a bhiodh a’ dol air mhuinntireas, ’s clann-nighean an sgadain, ’s feadhainn mar sin.
+        <graphic url="GlasgowMMacLeodtighillust2.jpg" width="400px"/>
+            </def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e961">
+            <form>
+               <orth>sgàthan (E)</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e966"
+             subtype="h1">7. Sobhal, bàthach, no bothanan sam bith eile</ab>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e971">
+            <form>
+               <orth>sobhal (E)</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e977">
+            <form>
+               <orth>toll-fasgnaidh (E)</orth>
+            </form>
+            <def>Toll ris an làr anns a’ bhalla ann an taobh an t-sobhail airson a’ ghaoth a leigeil a steach airson am bodach am fasgnadh a dheanamh a stigh. Bhiodh e mu 2½ troigh air àirde. Mar dorus beag ach gun còmhla idir ris. Bhiodh e dùinte ach nuair a bhiodh feum dha.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e986">
+            <form>
+               <orth>bàthach (I)</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e992">
+            <form>
+               <orth>toll-dilidh (E)</orth>
+            </form>
+            <def>Toll agus àrd-dhorus air ann am màs na bàthach airson sùghadh sam bith a thigeadh as a’ bhàthaich a leigeil a mach. Bhiodh e anns na tighean far am biodh na h-ainmhidhean cuideachd.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e1001">
+            <form>
+               <orth>tigh-òisgean (E)</orth>
+            </form>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e1007">
+            <form>
+               <orth>bothag-chearc (I)</orth>
+            </form>
+            <def>Deanta le sgrathan. Bhiodh sinn a’ deanamh fosgalan (E) aig dorus bothag nan cearc. Tha e coltach gu’n cumadh seo na fithich agus na starragan gun a dhol a steach do an bhothaig a chur dragh air na cearcan.
+        <graphic url="GlasgowMMacLeodtighillust9.jpg" width="500px"/>
+            </def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e1018">
+            <form>
+               <orth>àirigh (I)</orth>
+            </form>
+            <def>Chan eil ainmeannan àrraid sam bith agam mu àirigh seach tigh sam bith eile, ach: àrlus [q.v.], an ceap [q.v.], crabhcan [q.v.]. Àirigh – mar tigh beag, aon seòmar.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e1027">
+            <form>
+               <orth>àrlus (E)</orth>
+            </form>
+            <def>Faic fàrlus.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e1036">
+            <form>
+               <orth>an ceap (E)</orth>
+            </form>
+            <def>Faic Ceap 9. Dwelly. ’Se suidheachan dèanta de chlachan (mar gàradh) agus sgrath mhór thiugh air muin sin a bh’ann. Agus is è a bhà comhfhurtail! ’Se ‘a’ chailleach’ a chanadh iad ris ann an ceàrnaidhean eile de an eilean.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e1045">
+            <form>
+               <orth>crabhcan (E)</orth>
+            </form>
+            <def>’Se seo a bhiodh againn air a’ bhabht anns a’ bhalla a bhiodh a’ cumail an àirde na slabhruidh bhos cionn an teine.</def>
+         </entry>
+         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e1054">
+            <form>
+               <orth>muileann</orth>
+            </form>
+            <def>Mar àirigh [q.v.] bheag.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

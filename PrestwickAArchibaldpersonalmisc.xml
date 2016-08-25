@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="PersonalFiles_PrestwickAArchibaldpersonalmisc">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: ‘I am not a native Gaelic speaker but have been working at it – and Irish – since my boyhood. I am almost what is called here a “Galloway Irishman” and have been fascinated by the Gaelic influence in South Ayrshire, i.e. place-names and surviving words of which I have collected quite a few.’]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>11/11/1966</date>
+            <location>
+               <placeName>Prestwick</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Alexander Archibald</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="PersonalFiles_PrestwickAArchibaldpersonalmisc-idp161897040">
+            <form>
+               <orth>[stairs]</orth>
+            </form>
+            <def>One word that comes to mind is quite vivid with a touch of Gaelic poetry in it – the word ‘stairs’ (plural) as applied to a school of porpoises in a flat calm, surfacing with their backs gleaming, black in the water and in line astern. In Ballantrae the fishermen used this word not knowing that their great great grandfathers saw these fish as like a line of stepping stones (stair). I am sure of this.</def>
+         </entry>
+         <entry xml:id="PersonalFiles_PrestwickAArchibaldpersonalmisc-idp161898840">
+            <form>
+               <orth>[cudag]</orth>
+            </form>
+            <def>Others are scart = scarbh = parkin = partan = pickie = young saithe, also piteuchty (Girvan). This fish is the cudag – cudaige – cudann at the sprat stage and living in the harbour. We called the larger ones blockan (léiteanach? [?]). Larger still stemlet = grey fish. Could picky be from pioc nibble? Or from a totem name piocach – Pict?</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

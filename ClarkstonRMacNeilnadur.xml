@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="AOHenley_ClarkstonRMacNeilnadur">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[1987-88]</date>
+            <location>
+               <placeName>[Glasgow], Clarkston</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>A. O’Henley</persName>
+            </person>
+            <person role="informant">
+               <persName>Roderick MacNeil</persName>
+               <age>[69]</age>
+               <birth>
+                  <placeName>Barra</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Personality</term>
+               <term xml:lang="gd">Nàdur an Duine</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="AOHenley_ClarkstonRMacNeilnadur-d0e32"
+             subtype="h1">Good company / Bad company</ab>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2508280">
+            <form>
+               <orth>duine suairc</orth>
+            </form>
+            <def>good company, pleasant conversant.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2505328">
+            <form>
+               <orth>duine truasail</orth>
+            </form>
+            <def>merciful.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2502160">
+            <form>
+               <orth>duine amaiseach</orth>
+            </form>
+            <def>witty.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2498416">
+            <form>
+               <orth>gasag</orth>
+            </form>
+            <def>horrible wee man / woman.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2522752">
+            <form>
+               <orth>duine lom</orth>
+            </form>
+            <def>hard-hearted. “Cho lòm [sic] ris an deargan.”</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2524480">
+            <form>
+               <orth>duine searbh</orth>
+            </form>
+            <def>sarcastic.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2525992">
+            <form>
+               <orth>sgroileadh da theanga</orth>
+            </form>
+            <def>tongue lashing. More often applicable to women being given a tongue lashing.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_ClarkstonRMacNeilnadur-d0e99"
+             subtype="h1">Cheerful / Gloomy</ab>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2528368">
+            <form>
+               <orth>duine ciatach</orth>
+            </form>
+            <def>a patient person.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2529880">
+            <form>
+               <orth>duine gasda</orth>
+            </form>
+            <def>a pleasant person.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2531392">
+            <form>
+               <orth>duine somalta</orth>
+            </form>
+            <def>placid.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2532904">
+            <form>
+               <orth>“O nach buidhe dha”</orth>
+            </form>
+            <def>used of a satisfied person.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2534488">
+            <form>
+               <orth>duine gàbhaidh</orth>
+            </form>
+            <def>surly.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2536000">
+            <form>
+               <orth>dreunair</orth>
+            </form>
+            <def>frowning person.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2537512">
+            <form>
+               <orth>duine griofagach</orth>
+            </form>
+            <def>nervous, excitable person.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2539024">
+            <form>
+               <orth>drabasdach</orth>
+            </form>
+            <def>when Gaelic speech is spoiled by English interjections.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_ClarkstonRMacNeilnadur-d0e175"
+             subtype="h1">A good man / A bad man</ab>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2541400">
+            <form>
+               <orth>earbsach</orth>
+            </form>
+            <def>trustworthy.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2542912">
+            <form>
+               <orth>ionraic</orth>
+            </form>
+            <def>just.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2544424">
+            <form>
+               <orth>creideach</orth>
+            </form>
+            <def>religious.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2545936">
+            <form>
+               <orth>ceard</orth>
+            </form>
+            <def>a man who does not deal honourably with women.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2547448">
+            <form>
+               <orth>gròic</orth>
+            </form>
+            <def>used of an incompetent joiner / tradesman.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2548960">
+            <form>
+               <orth>leam-leat</orth>
+            </form>
+            <def>person who would be behind you one minute and the next opposed to you.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_ClarkstonRMacNeilnadur-d0e233"
+             subtype="h1">A successful man / A failure</ab>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2551336">
+            <form>
+               <orth>comasach</orth>
+            </form>
+            <def>capable.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2552848">
+            <form>
+               <orth>duine doigheil</orth>
+            </form>
+            <def>a good tradesman, someone who is good at his job.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2554360">
+            <form>
+               <orth>duine dèanadach</orth>
+            </form>
+            <def>ambitious.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2555872">
+            <form>
+               <orth>air a thuc fhein</orth>
+            </form>
+            <def>on his own initiative.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2557384">
+            <form>
+               <orth>dìcheallach</orth>
+            </form>
+            <def>earnest.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp2558896">
+            <form>
+               <orth>dìleas</orth>
+            </form>
+            <def>loyal.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3196384">
+            <form>
+               <orth>‘ceangailte ris a leisge’</orth>
+            </form>
+            <def>someone who is irrevocably lazy.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3197896">
+            <form>
+               <orth>sgliùrach</orth>
+            </form>
+            <def>a woman who makes a lot of noise.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3199408">
+            <form>
+               <orth>luid</orth>
+            </form>
+            <def>clumsy housewife.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3200920">
+            <form>
+               <orth>rolaisteach</orth>
+            </form>
+            <def>someone who tells tall stories.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_ClarkstonRMacNeilnadur-d0e327"
+             subtype="h1">A wise man / Foolish</ab>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3203296">
+            <form>
+               <orth>pungail</orth>
+            </form>
+            <def>sensible.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3204808">
+            <form>
+               <orth>ciallach</orth>
+            </form>
+            <def>as well as sensible used to mean a tame animal.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3206320">
+            <form>
+               <orth>tonaisgail</orth>
+            </form>
+            <def>sensible.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3207832">
+            <form>
+               <orth>seadhach</orth>
+            </form>
+            <def>sensible.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3209344">
+            <form>
+               <orth>glomhraisg (-each)</orth>
+            </form>
+            <def>used of a stupid person.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3210856">
+            <form>
+               <orth>sgliomair</orth>
+            </form>
+            <def>a hanger on.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3212368">
+            <form>
+               <orth>bumalair</orth>
+            </form>
+            <def>someone who does not know how to behave.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_ClarkstonRMacNeilnadur-d0e394"
+             subtype="h1">Bold / Timid</ab>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3214744">
+            <form>
+               <orth>dalba</orth>
+            </form>
+            <def>a forward person.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3216256">
+            <form>
+               <orth>ladarna</orth>
+            </form>
+            <def>a forward person.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3217768">
+            <form>
+               <orth>buatharra</orth>
+            </form>
+            <def>a bossy person. Applicable to both sexes.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3219280">
+            <form>
+               <orth>siantaiche</orth>
+            </form>
+            <def>shy person.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3220792">
+            <form>
+               <orth>leamh</orth>
+            </form>
+            <def>used of a child needing petting.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3222304">
+            <form>
+               <orth>leideil</orth>
+            </form>
+            <def>used of a child needing petting.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3223816">
+            <form>
+               <orth>eagallach</orth>
+            </form>
+            <def>timid.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3225328">
+            <form>
+               <orth>gealtach</orth>
+            </form>
+            <def>timid.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_ClarkstonRMacNeilnadur-d0e470"
+             subtype="h1">Proud / Humble</ab>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3227704">
+            <form>
+               <orth>‘mór as fhein’</orth>
+            </form>
+            <def>conceited.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3229216">
+            <form>
+               <orth>uaibhreach</orth>
+            </form>
+            <def>proud.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3230728">
+            <form>
+               <orth>duine dha fhein</orth>
+            </form>
+            <def>self-centred.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3232240">
+            <form>
+               <orth>duine feineil</orth>
+            </form>
+            <def>self-centred.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3233752">
+            <form>
+               <orth>broscul</orth>
+            </form>
+            <def>flattery.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3235264">
+            <form>
+               <orth>mascul</orth>
+            </form>
+            <def>flattery.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3236776">
+            <form>
+               <orth>sgleip</orth>
+            </form>
+            <def>flattery. “Cha robh e ach a’ sgleip.”</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_ClarkstonRMacNeilnadur-d0e537"
+             subtype="h1">Polite/ Coarse</ab>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3239368">
+            <form>
+               <orth>bainndidh</orth>
+            </form>
+            <def>a modest woman.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3240880">
+            <form>
+               <orth>deideag</orth>
+            </form>
+            <def>neat, tidy woman.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3242392">
+            <form>
+               <orth>àlainn</orth>
+            </form>
+            <def>handsome.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3243904">
+            <form>
+               <orth>deiseil</orth>
+            </form>
+            <def>handsome.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3245416">
+            <form>
+               <orth>glaoic</orth>
+            </form>
+            <def>bad-mannered.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3246928">
+            <form>
+               <orth>fearail</orth>
+            </form>
+            <def>masculine looking woman.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3248440">
+            <form>
+               <orth>curs</orth>
+            </form>
+            <def>coarse.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_ClarkstonRMacNeilnadur-d0e604"
+             subtype="h1">Bad types</ab>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3250816">
+            <form>
+               <orth>buaireasach</orth>
+            </form>
+            <def>bad-tempered.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3252328">
+            <form>
+               <orth>duine làn lagh</orth>
+            </form>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3253840">
+            <form>
+               <orth>duine amhrasach</orth>
+            </form>
+            <def>suspicious.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3255352">
+            <form>
+               <orth>rag</orth>
+            </form>
+            <def>stubborn.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_ClarkstonRMacNeilnadur-d0e641"
+             subtype="h1">Young / Old</ab>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3257728">
+            <form>
+               <orth>pocan</orth>
+            </form>
+            <def>tubby, cheeky boy.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3259240">
+            <form>
+               <orth>[ioncag]</orth>
+            </form>
+            <def>“Cha deach ioncag air.” – He has not grown an inch.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilnadur-idp3260824">
+            <form>
+               <orth>[stòlda]</orth>
+            </form>
+            <def>Bodach stòlda – for a child who talks like an adult. Cailleach stòlda – for a girl who talks like an adult.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_ElgolSMacKinnonslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>07/1970</date>
+            <location>
+               <placeName>Skye, Elgol</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>S. MacKinnon</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_ElgolSMacKinnonslips-idp166265176">
+            <form>
+               <orth>maide-froisidh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Slips_ElgolSMacKinnonslips-idp166262512">
+            <form>
+               <orth>nòs</orth>
+            </form>
+            <def>Quotation: a’ cur bàta dhan a’ nòs [n̪ɔ̃:s]. Notes: a sort of nest made for boats. Could be [ɔ̃:s].</def>
+         </entry>
+         <entry xml:id="Slips_ElgolSMacKinnonslips-idp166279792">
+            <form>
+               <orth>sguab</orth>
+            </form>
+            <def>Quotation: sguab deireadh buanadh.</def>
+         </entry>
+         <entry xml:id="Slips_ElgolSMacKinnonslips-idp166281304">
+            <form>
+               <orth>stac-fhuaim</orth>
+            </form>
+            <def>Notes: the body of a violin.</def>
+         </entry>
+         <entry xml:id="Slips_ElgolSMacKinnonslips-idp166282816">
+            <form>
+               <orth>blas</orth>
+            </form>
+            <def>Quotation: Tha iad air blas a’ chnagain a ghabhail dheth. Notes: It went against them, revolted them through getting too much of it.</def>
+         </entry>
+         <entry xml:id="Slips_ElgolSMacKinnonslips-idp166284544">
+            <form>
+               <orth>cabhanach</orth>
+               <pron>[kɑvɑ̃ṉɑx]</pron>
+            </form>
+            <def>[kɑvɑ̃ṉɑx] Notes: small brown trout.</def>
+         </entry>
+         <entry xml:id="Slips_ElgolSMacKinnonslips-idp166286272">
+            <form>
+               <orth>clisneach</orth>
+            </form>
+            <def>Quotation: clisneach duine. Notes: “Duine ’s e a dol as a rathad air e fhéin.”</def>
+         </entry>
+         <entry xml:id="Slips_ElgolSMacKinnonslips-idp166288000">
+            <form>
+               <orth>cnagan</orth>
+            </form>
+            <def>Quotation: Tha iad air blas a’ chnagain a ghabhail dheth. Notes: They’ve had enough of it.</def>
+         </entry>
+         <entry xml:id="Slips_ElgolSMacKinnonslips-idp166289728">
+            <form>
+               <orth>donalaich</orth>
+               <pron>[d̪oṉɑɫiç]</pron>
+            </form>
+            <def>[d̪oṉɑɫiç] Quotation: A’ bho a’ donalaich nuair a theid a’ laogh a thoirt air falbh uaipe. Notes: low, mourning sound.</def>
+         </entry>
+         <entry xml:id="Slips_ElgolSMacKinnonslips-idp166291600">
+            <form>
+               <orth>eadar-da-lunn</orth>
+            </form>
+            <def>Notes: half submerged but floating.</def>
+         </entry>
+         <entry xml:id="Slips_ElgolSMacKinnonslips-idp166293112">
+            <form>
+               <orth>glais-cheap</orth>
+            </form>
+            <def>Notes: on top of the wall to prevent water seeping in.</def>
+         </entry>
+         <entry xml:id="Slips_ElgolSMacKinnonslips-idp166294624">
+            <form>
+               <orth>grocach</orth>
+               <pron>[ɡɾɔxkɔx]</pron>
+            </form>
+            <def>[ɡɾɔxkɔx] Notes: heard a Staffin woman use it for thrifty; careful about money or possessions.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

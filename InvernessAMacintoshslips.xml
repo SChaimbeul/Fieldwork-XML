@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_InvernessAMacintoshslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>04/1969, 05/1969</date>
+            <location>
+               <placeName>Inverness</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Alex Macintosh</persName>
+               <age>early 50s</age>
+               <birth>
+                  <placeName>North Uist, Grimsay</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_InvernessAMacintoshslips-idp118882096">
+            <form>
+               <orth>mìreanach</orth>
+            </form>
+            <def>Notes: horse’s bit.</def>
+         </entry>
+         <entry xml:id="Slips_InvernessAMacintoshslips-idp118879432">
+            <form>
+               <orth>muir-tiachd</orth>
+               <pron>[mu̜ɾtʹiɑxk]</pron>
+            </form>
+            <def>[mu̜ɾtʹiɑxk] Notes: jellyfish.</def>
+         </entry>
+         <entry xml:id="Slips_InvernessAMacintoshslips-idp118895488">
+            <form>
+               <orth>naosg</orth>
+            </form>
+            <def>Notes: snipe.</def>
+         </entry>
+         <entry xml:id="Slips_InvernessAMacintoshslips-idp118897000">
+            <form>
+               <orth>siabadh</orth>
+               <pron>[ʃiɤbəɣ]</pron>
+            </form>
+            <def>[ʃiɤbəɣ] Notes: “seaweed washed ashore”.</def>
+         </entry>
+         <entry xml:id="Slips_InvernessAMacintoshslips-idp118898728">
+            <form>
+               <orth>siolag</orth>
+               <pron>[ʃıɔɫɑɡ]</pron>
+            </form>
+            <def>[ʃıɔɫɑɡ] Notes: a sand-eel.</def>
+         </entry>
+         <entry xml:id="Slips_InvernessAMacintoshslips-idp118900456">
+            <form>
+               <orth>sùil-an-òir</orth>
+               <pron>[su̟:lən̪ɔ:ɾ]</pron>
+            </form>
+            <def>[su̟:lən̪ɔ:ɾ] Notes: “a small fish about the size of a cuddy or smaller. Has golden coloured scales which come off easily.”</def>
+         </entry>
+         <entry xml:id="Slips_InvernessAMacintoshslips-idp118902184">
+            <form>
+               <orth>tarbh-shiolag</orth>
+               <pron>[t̪ɑɾɑvhiɤɫɑɡ]</pron>
+            </form>
+            <def>[t̪ɑɾɑvhiɤɫɑɡ] Notes: “the male sand-eel, which has a poisonous sting.”</def>
+         </entry>
+         <entry xml:id="Slips_InvernessAMacintoshslips-idp118903984">
+            <form>
+               <orth>carran-creig</orth>
+            </form>
+            <def>Notes: a small rock fish which has a big mouth like a monkfish. [NOTES: slipped under ‘carran-creige’.]</def>
+         </entry>
+         <entry xml:id="Slips_InvernessAMacintoshslips-idp118905712">
+            <form>
+               <orth>crosgag-thràghad</orth>
+            </form>
+            <def>Notes: starfish.</def>
+         </entry>
+         <entry xml:id="Slips_InvernessAMacintoshslips-idp118907224">
+            <form>
+               <orth>cullach</orth>
+            </form>
+            <def>Notes: tom-cat.</def>
+         </entry>
+         <entry xml:id="Slips_InvernessAMacintoshslips-idp118908736">
+            <form>
+               <orth>garbhag</orth>
+               <pron>[ɡɑɾɑvɑɡ]</pron>
+            </form>
+            <def>[ɡɑɾɑvɑɡ] Notes: a spotted flatfish (probably plaice).</def>
+         </entry>
+         <entry xml:id="Slips_InvernessAMacintoshslips-idp118910464">
+            <form>
+               <orth>gibneach</orth>
+               <pron>[ɡʹibnʹɔx]</pron>
+            </form>
+            <def>[ɡʹibnʹɔx] Notes: octopus.</def>
+         </entry>
+         <entry xml:id="Slips_InvernessAMacintoshslips-idp118912192">
+            <form>
+               <orth>gocan-cuthaig</orth>
+               <pron>[ɡɔxkɑ̃ṉku̟ɑɡʹ]</pron>
+            </form>
+            <def>[ɡɔxkɑ̃ṉku̟ɑɡʹ] </def>
+         </entry>
+      </body>
+   </text>
+</TEI>

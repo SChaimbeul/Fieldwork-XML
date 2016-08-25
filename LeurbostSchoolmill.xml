@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Word-lists_LeurbostSchoolmill">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: excerpts from the Leurbost School project provided by the Headmaster and passed on by Isabel Henderson, Assistant Keeper in the National Library of Scotland. The materials include: a copy of an article from Stornoway Gazette (6 July 1968) describing the project, two drawings of the Norse mill, three songs containing vocabulary connected with the Norse-type of mill, and a word-list containing terms connected with the corn-mill (supplied by Major N. T. MacLeod of Croydon and Arnol). Only the drawings and word-list have been copied here.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[1968 – date of the article describing the project begun ‘some years ago’]</date>
+            <location>
+               <placeName>[Lewis], Leurbost</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[school and Major N. T. MacLeod]</persName>
+            </person>
+            <person role="informant">
+               <persName>anonymous/Leurbost School</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Norse Mill</term>
+               <term xml:lang="gd">Muileann Lochlannach</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idola428">
+            <form>
+               <orth>[Norse mill]</orth>
+            </form>
+            <def>Sectional drawings to show mechanical parts of Norse mill by L.J.B. Johnson, technical teacher, Leurbost School
+        <graphic url="LeurbostSchoolmillillust1.jpg" width="900px"/> 
+               <graphic url="LeurbostSchoolmillillust2.jpg" width="500px"/>
+            </def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idp120783680">
+            <form>
+               <orth>a’ chlach uarach</orth>
+            </form>
+            <def>the upper mill stone.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idp120785192">
+            <form>
+               <orth>sùil</orth>
+            </form>
+            <def>the eye of the mill.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idp120786704">
+            <form>
+               <orth>cladhan a’ ghràin</orth>
+            </form>
+            <def>meal conveying grooves.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idp120788216">
+            <form>
+               <orth>leabaidh an duail</orth>
+            </form>
+            <def>the socket for the driving bar.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idp120789728">
+            <form>
+               <orth>a’ chiste mhine</orth>
+            </form>
+            <def>the meal box or chest.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idp120791240">
+            <form>
+               <orth>dealgan</orth>
+            </form>
+            <def>the upper spindle.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idp120792752">
+            <form>
+               <orth>dual</orth>
+            </form>
+            <def>the driving bar.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idp120794264">
+            <form>
+               <orth>a’ chlach iarach</orth>
+            </form>
+            <def>the lower mill stone.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idp120795776">
+            <form>
+               <orth>sail aotramachaidh</orth>
+            </form>
+            <def>the lightening beam.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idp120797288">
+            <form>
+               <orth>toll an fheuchain</orth>
+            </form>
+            <def>hand hole for inspection of caulking in lower stone.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idp120798800">
+            <form>
+               <orth>geinn</orth>
+            </form>
+            <def>wedge to raise or lower upper millstone.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idp120800312">
+            <form>
+               <orth>roth</orth>
+            </form>
+            <def>the rotor.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idp120801824">
+            <form>
+               <orth>liagh</orth>
+            </form>
+            <def>blades of the rotor.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idp120803336">
+            <form>
+               <orth>torchan</orth>
+            </form>
+            <def>the lower spindle.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idp120804848">
+            <form>
+               <orth>sail dhìreach</orth>
+            </form>
+            <def>the upright beam.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idp120806360">
+            <form>
+               <orth>lunn</orth>
+            </form>
+            <def>the bearing plate.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idp120807872">
+            <form>
+               <orth>sail bhuinn</orth>
+            </form>
+            <def>the sole beam.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idp120809384">
+            <form>
+               <orth>sorchan</orth>
+            </form>
+            <def>the rest.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Word-lists_LeurbostSchoolmill-idola429"
+             subtype="h1">CORN-MILL 4th from LOCH ORDAIS SOUTH BRAGAR</ab>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idola447">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Information supplied by Major N. T. MacLeod, Croydon and Arnol.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idola430">
+            <form>
+               <orth>[millstone]</orth>
+            </form>
+            <def>1. Millstone of granite from BEINN GHUIDIMUL above DALBEAG dia. 38", thickness 6".</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idola431">
+            <form>
+               <orth>[suil]</orth>
+            </form>
+            <def>2. Hole (SUIL) dia. 5". From the edge of the hole cut in the underside of the upper stone was the DEALGAN recess 1" deep, and extending 6" each way.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idola432">
+            <form>
+               <orth>[a’ chiste-mhine]</orth>
+            </form>
+            <def>3. A CHISTE-MHINE (AN T-SLOCHD) 2' wide by 2' 6" long held the meal cast forth by the spinning millstone. A CHISTE-MHINE was constructed of stone slabs, the joints filled with RIASG as mortar. (RIASG – peatmoss.)</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idola433">
+            <form>
+               <orth>[mill dimensions]</orth>
+            </form>
+            <def>4. Mill dimensions, inside length 14 feet, width 10 feet. Thickness of wall 6 feet to 4 feet. The size of the mill and the millstones depended on the volume of water available.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idola434">
+            <form>
+               <orth>[slugan na muilne]</orth>
+            </form>
+            <def>5. SLUGAN na MUILNE; DORUS an UISG’ far am bheil an t-amar fiodha ag gabhail an uisge as an DAMM agus g’a threorachadh direach gu LIAGHAN an ROTH.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idola435">
+            <form>
+               <orth>[damm na muilne]</orth>
+            </form>
+            <def>6. DAMM na MUILNE – mill dam.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idola436">
+            <form>
+               <orth>[roth]</orth>
+            </form>
+            <def>7. ROTH le LIAGHAN – the propeller with its blades. The ROTH was made usually from the base of a CRANN BATA.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idola437">
+            <form>
+               <orth>[clach iarach]</orth>
+            </form>
+            <def>8. CHLACH IARACH – the nether millstone.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idola438">
+            <form>
+               <orth>[clach uarach]</orth>
+            </form>
+            <def>9. CHLACH UARACH – the upper millstone.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idola439">
+            <form>
+               <orth>[amar]</orth>
+            </form>
+            <def>10. Bha an amar fiodh na dha phairt. An AMAR BEAG faisg air an ROTH agus an AMAR MOR faisg air an DAMM. Ghluaisteadh an AMAR BEAG sios no suas null no nall, chum’s gu sputadh e an TUIL direach air na LIAGHAN.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idola440">
+            <form>
+               <orth>[sail]</orth>
+            </form>
+            <def>11. An taigh – lair, ionad an ROTH, nan AMAR, agus an uisge na thuil choprach thormach agus an ROTH ’na ghille-mirein a’ cur nan car cho luath s nach fhaicte ach lasadh loinnireach nan LIAGH. Bha an t-SAIL-BHUINN fodha. Chite an t-SAIL DHIREACH dol suas tre’n lar far an robh i an amal an t-SAIL AOTROMACHAIDH – the lightening beam. An t-SAIL BHUINN was the ledger-beam on which the propeller rotated.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idola441">
+            <form>
+               <orth>[treabhailt]</orth>
+            </form>
+            <def>12. TREABHAILT agus A BHROG agus GLAGAN na BROIGE – these were the wickerwork seed container, the shoe and the shaker.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idola442">
+            <form>
+               <orth>[sluichd]</orth>
+            </form>
+            <def>13. Ann an oisean na SLUICHD, taobh nan clach bha toll duint le sop. Nuair a bhitis an amhrus gun robh a’ mhuileann a’ call an t-sil, chuireadh am muillear a ghairdean troimh ’n toll a’ dh’fhiachainn ceann an ROTH. Mur an robh air ceann an ROTH ach dudan bha a chuis ceart, ach ma bha gran air ceann an ROTH bha a’ mhuilean am feum air a CUBADH.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idola443">
+            <form>
+               <orth>[cubadh]</orth>
+            </form>
+            <def>14. CUBADH – a’ teannachadh an fhiodha a bha lionadh toll na CLOICH IARACH timchioll air an DEALGAN le bhi gur GEINNEAN dha’n fhiodh.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idola444">
+            <form>
+               <orth>[maoladh]</orth>
+            </form>
+            <def>15. MAOLADH – nuair a bhitheadh na clachan air maoladh bhitear ’ga m BREACADH le ord biorach fior-chruaidh air ur-gheurachadh leis a’ ghobha.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idola445">
+            <form>
+               <orth>[casan-ceangal]</orth>
+            </form>
+            <def>16. B’ann de shioman connlaich a bha an TREABHAILT deanta. Bha i crochte le tri buill ris na CASAN-CEANGAIL (rafters). Nuair nach bitheadh a’ BHROG direach os coinn [sic] SUIL na cloiche, chuirte caoran monach ann an toinneamh ball na TREABHAILT gus a ghiorachadh. Roth – the propeller had an iron bolt protruding from the top and from the bottom. The upper bolt was named DEALGAN. The DEALGAN carried a crossbar named Dual which fitted into a recess in the upper millstone and thus was conveyed the power which made the stone revolve. The nether bolt was named TORGHAN. The point of the TORGHAN fitted in a recess in an iron plate which was fastened on the ledger-beam (SAIL-BHUINN). This plate named LUNN had spare recesses into which in turn the torghan was fitted when the recess in use wore through the ledger-beam, (SAIL-BHUINN) was attached by the SAIL DHIREACH to the lightening beam (SAIL AOTROMACHAIDH). The raising or lowering of the SAIL AOTROMACHAIDH raised or lowered the upper stone to give a rough or fine grind.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idola446">
+            <form>
+               <orth>[bràth]</orth>
+            </form>
+            <def>Balach òg is e ri fàs / Dh’itheadh e mar mheileadh bràth / Mar thìreadh bodach air an àth / Mar dh’fhuinneadh cailleach ann an clàr.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idp120832496">
+            <form>
+               <orth>tìreadh</orth>
+            </form>
+            <def>trì poca gràin = dà phoca mine.</def>
+         </entry>
+         <entry xml:id="Word-lists_LeurbostSchoolmill-idp120834008">
+            <form>
+               <orth>càin a’ mhuilleir</orth>
+            </form>
+            <def>1/16th of the quantity milled.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_ObanDMorrisonslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1977</date>
+            <location>
+               <placeName>Oban</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>D. Morrison</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_ObanDMorrisonslips-idp115483872">
+            <form>
+               <orth>uchdach</orth>
+            </form>
+            <def>Notes: = iris (of a creel).</def>
+         </entry>
+         <entry xml:id="Slips_ObanDMorrisonslips-idp115482360">
+            <form>
+               <orth>buidse</orth>
+            </form>
+            <def>Notes: butt from a ram.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

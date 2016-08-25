@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="AssortedFieldworkers_BruernishRMacPhersonweather">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>09/1983</date>
+            <location>
+               <placeName>Barra, Bruernish</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[Ian Quick]</persName>
+            </person>
+            <person role="fieldworker">
+               <persName>[Ian Quick]</persName>
+            </person>
+            <person role="informant">
+               <persName>Roderick MacPherson</persName>
+               <age>81</age>
+               <birth>
+                  <placeName>[Barra]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Weather</term>
+               <term xml:lang="gd">Sìde</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e35"
+             subtype="h1">1. General terms</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e39"
+             subtype="h2">1.1. Good weather</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e44">
+            <form>
+               <orth>[ciùin]</orth>
+            </form>
+            <def>Tha i ciùin an-diugh.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e52"
+             subtype="h2">1.2. Bad weather</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e56"
+             subtype="h2">1.3. Temperature</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e61">
+            <form>
+               <orth>[bruthainn]</orth>
+            </form>
+            <def>Nach ann a tha a’ bhruthainn an-diugh. (sultry)</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e70">
+            <form>
+               <orth>[meilichte]</orth>
+            </form>
+            <def>Nach tu tha meilichte! (frozen)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e78"
+             subtype="h2">1.4. Dryness, wetness</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e83">
+            <form>
+               <orth>[cnainnte]</orth>
+            </form>
+            <def>Tha sìde gu math cnainnte. (tioram &amp; fuar) (on ear-thuath as t-earrach)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e91"
+             subtype="h1">2. The sky and the weather</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e95"
+             subtype="h2">2.1. A clear sky by day</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e99"
+             subtype="h2">2.2. A clear night sky</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e104">
+            <form>
+               <orth>soilleir</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e109"
+             subtype="h2">2.3. A red sky</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e113"
+             subtype="h2">2.4. An overcast sky</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e118">
+            <form>
+               <orth>gruamach</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e123"
+             subtype="h2">2.5. Unusual appearance of the moon or the sun</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e127"
+             subtype="h2">2.6. The northern lights</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e132">
+            <form>
+               <orth>Fir-Chlis</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e137"
+             subtype="h2">2.7. Stars</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e142">
+            <form>
+               <orth>an t-Seachdaran</orth>
+            </form>
+            <def>the Plough.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e151">
+            <form>
+               <orth>crann-treabhaidh</orth>
+            </form>
+            <def>the Plough.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e160">
+            <form>
+               <orth>Sgrìob Chlann Uisnich</orth>
+            </form>
+            <def>the Milky Way.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e168"
+             subtype="h1">3. Clouds</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e173">
+            <form>
+               <orth>sgùd</orth>
+            </form>
+            <def>a black cloud.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e182">
+            <form>
+               <orth>là sgùdach</orth>
+            </form>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e188">
+            <form>
+               <orth>[breacadh an rionnaich]</orth>
+            </form>
+            <def>Tha breacadh an rionnaich ann. – a mackerel sky.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e196"
+             subtype="h2">3.1. Light cloud</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e201">
+            <form>
+               <orth>neòil ghlas an fhoghair</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e206"
+             subtype="h2">3.2. Cirrus cloud</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e210"
+             subtype="h2">3.3. Thick cloud</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e214"
+             subtype="h2">3.4. Rainbow</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e219">
+            <form>
+               <orth>bogha-frois</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e224"
+             subtype="h1">4. Wind</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e228"
+             subtype="h2">4.1. Dead calm</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e233">
+            <form>
+               <orth>fiath</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e238"
+             subtype="h2">4.2. Light breeze</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e243">
+            <form>
+               <orth>[adharag]</orth>
+            </form>
+            <def>Tha adharag ann. Tha adharag a’ tighinn à tuath, etc.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e251"
+             subtype="h2">4.3. Fresh breeze</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e255"
+             subtype="h2">4.4. Gusts</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e260">
+            <form>
+               <orth>beithir</orth>
+            </form>
+            <def>a gust.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e269">
+            <form>
+               <orth>sgobag</orth>
+            </form>
+            <def>a sudden gust.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e277"
+             subtype="h2">4.5. Wind of variable direction</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e282">
+            <form>
+               <orth>[seasmhach]</orth>
+            </form>
+            <def>Chan eil a’ ghaoth seasmhach.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e290"
+             subtype="h2">4.6. Strong wind</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e294"
+             subtype="h2">4.7. Gale</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e299">
+            <form>
+               <orth>geil</orth>
+               <pron>[ɛ]</pron>
+            </form>
+            <def>[ɛ] </def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e304"
+             subtype="h2">4.8. Hurricane</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e308"
+             subtype="h2">4.9. Rising wind</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e313">
+            <form>
+               <orth>[beothachadh]</orth>
+            </form>
+            <def>Tha i beothachadh.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e321"
+             subtype="h2">4.10. Dying wind</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e326">
+            <form>
+               <orth>[sìoladh]</orth>
+            </form>
+            <def>Tha i sìoladh sìos.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e334"
+             subtype="h2">4.11. Winds associated with particular seasons of the year</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e338"
+             subtype="h1">5. Tides</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e342"
+             subtype="h2">5.1. Flowing</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e347">
+            <form>
+               <orth>[lìonadh]</orth>
+            </form>
+            <def>Tha i lìonadh.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e355"
+             subtype="h2">5.2. Ebbing</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e360">
+            <form>
+               <orth>[tràghadh]</orth>
+            </form>
+            <def>Tha i tràghadh.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e368"
+             subtype="h2">5.3. High tide</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e373">
+            <form>
+               <orth>[muir-làn]</orth>
+            </form>
+            <def>Tha muir-làn ann.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e381"
+             subtype="h2">5.4. Low tide</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e386">
+            <form>
+               <orth>[muir-tràigh]</orth>
+            </form>
+            <def>Tha muir-tràigh ann.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e394"
+             subtype="h2">5.5. Spring tide</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e399">
+            <form>
+               <orth>[reothairt]</orth>
+            </form>
+            <def>Tha an reothairt ann.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e407"
+             subtype="h2">5.6. Neap tide</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e412">
+            <form>
+               <orth>[conntraigh]</orth>
+            </form>
+            <def>Tha an conntraigh ann.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e420"
+             subtype="h2">5.7. Turn of the tide</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e424"
+             subtype="h1">6. Weather and the sea</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e428"
+             subtype="h2">6.1. A calm sea</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e433">
+            <form>
+               <orth>[fiath]</orth>
+            </form>
+            <def>Tha fiath air a’ mhuir.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e442">
+            <form>
+               <orth>[lom]</orth>
+            </form>
+            <def>Tha i gu math lom.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e450"
+             subtype="h2">6.2. A light swell</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e455">
+            <form>
+               <orth>[molach]</orth>
+            </form>
+            <def>Tha i gu math molach.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e463"
+             subtype="h2">6.3. A heavy swell</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e468">
+            <form>
+               <orth>[molach]</orth>
+            </form>
+            <def>Tha i gu math molach.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e476"
+             subtype="h2">6.4. A choppy sea</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e481">
+            <form>
+               <orth>[molach]</orth>
+            </form>
+            <def>Tha i gu math molach.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e489"
+             subtype="h2">6.5. A stormy sea</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e494">
+            <form>
+               <orth>[fiadhach]</orth>
+            </form>
+            <def>Gu math fiadhach.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e502"
+             subtype="h2">6.6. Large waves</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e507">
+            <form>
+               <orth>stuaghan</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e512"
+             subtype="h2">6.7. Breakers</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e517">
+            <form>
+               <orth>stuaghan</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e522"
+             subtype="h2">6.8. Surf</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e527">
+            <form>
+               <orth>cop</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e532"
+             subtype="h2">6.9. Spindrift</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e537">
+            <form>
+               <orth>[sàile]</orth>
+            </form>
+            <def>Tha i togail an t-sàile.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e545"
+             subtype="h1">7. Rain</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e549"
+             subtype="h2">7.1. Drizzle</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e554">
+            <form>
+               <orth>[balbh]</orth>
+            </form>
+            <def>Sileadh gu math balbh. Tha i gu math balbh.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e562"
+             subtype="h2">7.2. Light shower</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e567">
+            <form>
+               <orth>[aotrom]</orth>
+            </form>
+            <def>Fras gu math aotrom.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e575"
+             subtype="h2">7.3. Heavy shower</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e580">
+            <form>
+               <orth>[trom]</orth>
+            </form>
+            <def>Fras gu math trom.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e588"
+             subtype="h2">7.4. Prolonged rain</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e593">
+            <form>
+               <orth>[sìor-uisge]</orth>
+            </form>
+            <def>Tha sìor-uisg’ ann.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e601"
+             subtype="h2">7.5. Driving rain</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e605"
+             subtype="h2">7.6. Getting soaked</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e610">
+            <form>
+               <orth>[drùdhadh]</orth>
+            </form>
+            <def>Tha e air drùdhadh orm.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e618"
+             subtype="h1">8. Mist</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e622"
+             subtype="h2">8.1. Light mist</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e627">
+            <form>
+               <orth>ceò aotrom</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e632"
+             subtype="h2">8.2. Heavy mist</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e637">
+            <form>
+               <orth>ceò trom</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e642"
+             subtype="h2">8.3. Sea mist</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e646"
+             subtype="h2">8.4. Other terms associated with mist</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e650"
+             subtype="h1">9. Thunder and Lightning</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e654"
+             subtype="h2">9.1. Thunder</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e659">
+            <form>
+               <orth>tàirneanach</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e664"
+             subtype="h2">9.2. Lightning</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e669">
+            <form>
+               <orth>tein’-adhair</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e674"
+             subtype="h1">10. Snow and hail</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e678"
+             subtype="h2">10.1. Snowflakes</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e683">
+            <form>
+               <orth>sladhag (-an pl.)</orth>
+            </form>
+            <def>any size.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e692">
+            <form>
+               <orth>clèideag (-an)</orth>
+               <pron>[e:]</pron>
+            </form>
+            <def>[e:] Shaoil leis gun cluinnear am facal seo ann an Ìle.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e700"
+             subtype="h2">10.2. Sleet</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e705">
+            <form>
+               <orth>flinneadh</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e710"
+             subtype="h2">10.3. Different types of snow</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e714"
+             subtype="h2">10.4. Driving snow</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e719">
+            <form>
+               <orth>[caitheamh-làir]</orth>
+            </form>
+            <def>Tha caitheamh-làir ann.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e727"
+             subtype="h2">10.5. Heavy fall</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e731"
+             subtype="h2">10.6. Snowdrifts</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e735"
+             subtype="h2">10.7. A few flakes floating in the wind</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e739"
+             subtype="h2">10.8. Snowman and rolled ball of snow</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e744">
+            <form>
+               <orth>bodach-sneachda</orth>
+            </form>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e750">
+            <form>
+               <orth>boll-sneachda</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e755"
+             subtype="h2">10.9. Hailstones</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e760">
+            <form>
+               <orth>clach-mheallain (clachan-meallain)</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e765"
+             subtype="h1">11. Frost</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e769"
+             subtype="h2">11.1. Hoarfrost</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e774">
+            <form>
+               <orth>liath-reothadh</orth>
+            </form>
+            <def>(air a’ làr air fad)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e782"
+             subtype="h2">11.2. Hard frost</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e787">
+            <form>
+               <orth>[reothadh]</orth>
+            </form>
+            <def>Reothadh gu math cruaidh. Tha reothadh cruaidh ann.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e795"
+             subtype="h2">11.3. Ice</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e800">
+            <form>
+               <orth>reothadh an lodain-làir</orth>
+            </form>
+            <def>(gu math tana)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e808"
+             subtype="h2">11.4. Thaw</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e813">
+            <form>
+               <orth>aiteamh</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e818"
+             subtype="h1">12. Signs foretelling weather</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e822"
+             subtype="h2">12.1. Foretelling good weather</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-idola43">
+            <form>
+               <orth>[animals grazing]</orth>
+            </form>
+            <def>a) Animals graze high up into evening.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-idola44">
+            <form>
+               <orth>[Orosay]</orth>
+            </form>
+            <def>b) Orosay (to north of Bruernish) seems to be floating above water, i.e. suspended.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e844"
+             subtype="h2">12.2. Foretelling bad weather</ab>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-idola45">
+            <form>
+               <orth>[sheep grazing]</orth>
+            </form>
+            <def>a) Sheep stop grazing in early afternoon and seek shelter, even if weather good at the time.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-idola46">
+            <form>
+               <orth>[storm in Barra]</orth>
+            </form>
+            <def>b) There’ll be a storm in Barra the next day if the mountains of Rhum [sic] seem unusually clear, and close to Barra, when viewed from hill on point above Bruernish.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_BruernishRMacPhersonweather-d0e866"
+             subtype="h1">13. General sayings or proverbs connected with the weather</ab>
+      </body>
+   </text>
+</TEI>

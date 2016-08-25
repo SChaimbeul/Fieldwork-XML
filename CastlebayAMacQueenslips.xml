@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_CastlebayAMacQueenslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>02/1969</date>
+            <location>
+               <placeName>Barra, Castlebay</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>Fr. Angus MacQueen</persName>
+               <birth>
+                  <placeName>South Uist</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_CastlebayAMacQueenslips-idp115441336">
+            <form>
+               <orth>tarrang</orth>
+            </form>
+            <def>Quotation: Chuir mi toll is tarrang ’na chluais. Notes: (heard it in Vatersay) I hammered the point home.</def>
+         </entry>
+         <entry xml:id="Slips_CastlebayAMacQueenslips-idp115482016">
+            <form>
+               <orth>toll</orth>
+            </form>
+            <def>Quotation: “Chuir mi toll is tarrang ’na chluais.” Notes: (heard it in Vatersay) I hammered the point home.</def>
+         </entry>
+         <entry xml:id="Slips_CastlebayAMacQueenslips-idp115466824">
+            <form>
+               <orth>cluas</orth>
+            </form>
+            <def>Quotation: Chuir mi toll is tarrang ’na chluais. Notes: (heard it in Vatersay) I hammered the point home.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="TireeandMull_MullCreichDMacFarlanesheep">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>[Mull], Ross of Mull, Creich</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>Ailean Boyd [Alan Boyd]</persName>
+            </person>
+            <person role="informant">
+               <persName>Donald MacFarlane</persName>
+               <persName xml:lang="gd">Dan Dubh</persName>
+               <age>80</age>
+               <birth>
+                  <placeName>Ross of Mull</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Sheep</term>
+               <term xml:lang="gd">Caoraich</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e34"
+             subtype="h1">1. Different stages in the growth of sheep (female)</ab>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e39">
+            <form>
+               <orth>uan</orth>
+            </form>
+            <def>lamb.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e48">
+            <form>
+               <orth>oaisg, oaisgean (pl)</orth>
+            </form>
+            <def>hog.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e57">
+            <form>
+               <orth>dinneag, dinneagan (pl)</orth>
+            </form>
+            <def>gimmer.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e66">
+            <form>
+               <orth>caora</orth>
+            </form>
+            <def>ewe.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-idola202">
+            <form>
+               <orth>[uan]</orth>
+            </form>
+            <def>(Bidh uan aig an dinneag agus aig a’ chaora.)</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e84">
+            <form>
+               <orth>crog, crogaichean (pl)</orth>
+            </form>
+            <def>cast ewe. (After 5-6 years.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e92"
+             subtype="h1">2. Different stages in the growth of sheep (male)</ab>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e97">
+            <form>
+               <orth>uan</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e103">
+            <form>
+               <orth>molt, muilt (pl)</orth>
+            </form>
+            <def>wether.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e112">
+            <form>
+               <orth>air a spo</orth>
+            </form>
+            <def>castrated.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e121">
+            <form>
+               <orth>air a ghèarradh</orth>
+            </form>
+            <def>castrated.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e130">
+            <form>
+               <orth>uan-reith</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-idola203">
+            <form>
+               <orth>[reithe]</orth>
+            </form>
+            <def>(Dar a tha e ’na bhliadhna, bhiodh e ’na reithe.) [NOTES: is this meant as a definition of ‘uan-reith’?]</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e145">
+            <form>
+               <orth>seann-reithe</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e150"
+             subtype="h1">3. Different stages in the growth of the castrated male</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e154"
+             subtype="h1">4. Sheep’s appearance</ab>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e159">
+            <form>
+               <orth>dubhcheannach</orth>
+            </form>
+            <def>blackfaced sheep.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e168">
+            <form>
+               <orth>caora dhubh</orth>
+            </form>
+            <def>black sheep.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e177">
+            <form>
+               <orth>“stragelers”</orth>
+            </form>
+            <def>undipped sheep.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e186">
+            <form>
+               <orth>rùsg (m)</orth>
+            </form>
+            <def>fleece.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e195">
+            <form>
+               <orth>caoraich mhaola</orth>
+            </form>
+            <def>sheep with stunted horns.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e204">
+            <form>
+               <orth>caora nan adhaircean móra</orth>
+            </form>
+            <def>sheep with large horns.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e213">
+            <form>
+               <orth>caora reamhar</orth>
+            </form>
+            <def>fat sheep for butchering.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e221"
+             subtype="h1">5. Miscellaneous</ab>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e226">
+            <form>
+               <orth>peat’-uan, peatan</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] pet lamb.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e235">
+            <form>
+               <orth>uan-càraid</orth>
+            </form>
+            <def>twin lamb.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e244">
+            <form>
+               <orth>uan anmoch</orth>
+            </form>
+            <def>lamb late of weaning (12th August [and after]).</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e253">
+            <form>
+               <orth>caora-bhaine</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] milk ewe.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e262">
+            <form>
+               <orth>caora le càraid</orth>
+            </form>
+            <def>sheep with twins.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e271">
+            <form>
+               <orth>caora-uain</orth>
+            </form>
+            <def>breeding sheep.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e280">
+            <form>
+               <orth>peata caora</orth>
+            </form>
+            <def>pet ewe-hogg or sheep.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e289">
+            <form>
+               <orth>peate  oaisg</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] [peata?] pet ewe-hogg or sheep.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e298">
+            <form>
+               <orth>caora rachadh air iomlan</orth>
+            </form>
+            <def>strayed sheep.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e307">
+            <form>
+               <orth>rig</orth>
+            </form>
+            <def>partly castrated ram.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e316">
+            <form>
+               <orth>reithe beag</orth>
+            </form>
+            <def>small ram.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e324"
+             subtype="h1">6. Feeding and grazing</ab>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e329">
+            <form>
+               <orth>biadhadh làimh</orth>
+            </form>
+            <def>handfeeding.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e338">
+            <form>
+               <orth>troch (f), trochanan</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] trough.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e347">
+            <form>
+               <orth>ceanagan</orth>
+            </form>
+            <def>hay.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e356">
+            <form>
+               <orth>bann</orth>
+            </form>
+            <def>piece of corn. Bann de dh’arbhair.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e365">
+            <form>
+               <orth>bucaid-uisge, bucaidean</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] </def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e371">
+            <form>
+               <orth>caoraich-mhonadh</orth>
+            </form>
+            <def>beat [i.e. the regular ‘beat’ of sheep on the moor].</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e379"
+             subtype="h1">7. Handling of sheep</ab>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e384">
+            <form>
+               <orth>Leanaidh mi iad do’n mhonadh</orth>
+            </form>
+            <def>driving them to their grazing.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e393">
+            <form>
+               <orth>’gam fuadachadh do’n mhonadh</orth>
+            </form>
+            <def>driving them to their grazing.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e402">
+            <form>
+               <orth>’gan toirt dhachaidh</orth>
+            </form>
+            <def>taking them home.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e411">
+            <form>
+               <orth>’gan cur a-staigh do’n chrò</orth>
+            </form>
+            <def>enclosing them in a fank or fold.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e420">
+            <form>
+               <orth>’gan cur a-staigh do’n fhang</orth>
+            </form>
+            <def>enclosing them in a fank or fold.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e429">
+            <form>
+               <orth>sgàp chaorach</orth>
+            </form>
+            <def>flock.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e438">
+            <form>
+               <orth>sgàp mhór chaorach</orth>
+            </form>
+            <def>flock.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e447">
+            <form>
+               <orth>fang-rùsgaidh</orth>
+            </form>
+            <def>shearing [fank].</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e456">
+            <form>
+               <orth>fang-glacaidh</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e462">
+            <form>
+               <orth>smeòradair</orth>
+            </form>
+            <def>smearer.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e471">
+            <form>
+               <orth>’gan smeoradh</orth>
+            </form>
+            <def>smearing them (with tar).</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e480">
+            <form>
+               <orth>tanc-dipidh</orth>
+            </form>
+            <def>dipping trough.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e489">
+            <form>
+               <orth>tumadh</orth>
+            </form>
+            <def>dipping.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e498">
+            <form>
+               <orth>Tha mi cur kil oirre</orth>
+            </form>
+            <def>keel.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e506"
+             subtype="h2">Commands given to a sheep-dog</ab>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e511">
+            <form>
+               <orth>Fan a mach air folbh .</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] </def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e517">
+            <form>
+               <orth>Thig a-staigh.</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e523">
+            <form>
+               <orth>Thig air do chulaibh.</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e529">
+            <form>
+               <orth>Thig a nuas là(mh) rium.</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e535">
+            <form>
+               <orth>Trobhad a nuas.</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e540"
+             subtype="h2">Earmarking</ab>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e545">
+            <form>
+               <orth>barr na cluais</orth>
+            </form>
+            <def>
+               <graphic url="MullCreichDMacFarlanesheepillust1.jpg" width="300px"/>
+            </def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e554">
+            <form>
+               <orth>beum</orth>
+            </form>
+            <def>
+               <graphic url="MullCreichDMacFarlanesheepillust1.jpg" width="300px"/>
+            </def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e563">
+            <form>
+               <orth>bacan</orth>
+            </form>
+            <def>
+               <graphic url="MullCreichDMacFarlanesheepillust1.jpg" width="300px"/>
+            </def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e572">
+            <form>
+               <orth>toll</orth>
+            </form>
+            <def>
+               <graphic url="MullCreichDMacFarlanesheepillust1.jpg" width="300px"/>
+            </def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e581">
+            <form>
+               <orth>’gan spo</orth>
+            </form>
+            <def>castrating.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e589"
+             subtype="h1">8. Apparatus</ab>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e594">
+            <form>
+               <orth>feisde (f)</orth>
+            </form>
+            <def>tether.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e603">
+            <form>
+               <orth>cioban</orth>
+            </form>
+            <def>tether stake.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e612">
+            <form>
+               <orth>udalan (m)</orth>
+            </form>
+            <def>swivel.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e621">
+            <form>
+               <orth>buarach (f)</orth>
+            </form>
+            <def>band for tying legs; fetter.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e629"
+             subtype="h1">9. Diseases</ab>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e634">
+            <form>
+               <orth>cloimh</orth>
+            </form>
+            <def>scab. (‘cloich’ – Mull pron.)</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e643">
+            <form>
+               <orth>foinne (f), foinneachan</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] wart.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e652">
+            <form>
+               <orth>spot, spòtan</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] spots.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e661">
+            <form>
+               <orth>cartan, cartanan</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] ticks.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e670">
+            <form>
+               <orth>biastagan anns a’ chraiceann aice</orth>
+            </form>
+            <def>worms in skin.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e679">
+            <form>
+               <orth>an dalladh</orth>
+            </form>
+            <def>blindness.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e688">
+            <form>
+               <orth>am plochd</orth>
+            </form>
+            <def>fluke (neck swelling).</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e697">
+            <form>
+               <orth>gortachadh</orth>
+            </form>
+            <def>injury.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e705"
+             subtype="h1">10. Parts of the body</ab>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e710">
+            <form>
+               <orth>seiche (f)</orth>
+            </form>
+            <def>hide.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e719">
+            <form>
+               <orth>slinnean (f)</orth>
+            </form>
+            <def>shoulder.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e728">
+            <form>
+               <orth>uchd (f)</orth>
+            </form>
+            <def>breast.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e737">
+            <form>
+               <orth>casan-toisich</orth>
+            </form>
+            <def>forelegs.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e746">
+            <form>
+               <orth>crodhan</orth>
+            </form>
+            <def>hoofs.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e755">
+            <form>
+               <orth>glùinean</orth>
+            </form>
+            <def>knees.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e764">
+            <form>
+               <orth>speur (f), speuran</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] joints in back legs (reverse from knees).</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e773">
+            <form>
+               <orth>cruachainn</orth>
+            </form>
+            <def>hips.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e782">
+            <form>
+               <orth>cnàimh-droma</orth>
+            </form>
+            <def>spine.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e791">
+            <form>
+               <orth>bùn an urbaill</orth>
+            </form>
+            <def>rump.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e800">
+            <form>
+               <orth>ugh</orth>
+            </form>
+            <def>udder.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e809">
+            <form>
+               <orth>sine (f), sinean</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] teats.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e818">
+            <form>
+               <orth>alt (f), uilt</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] muscle.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e827">
+            <form>
+               <orth>cuisle (f), cuislean</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] artery.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e836">
+            <form>
+               <orth>féith (f), feithean</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] vein.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e845">
+            <form>
+               <orth>sgamhan (m)</orth>
+            </form>
+            <def>lung.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e854">
+            <form>
+               <orth>pìob na h-anail</orth>
+            </form>
+            <def>windpipe.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e863">
+            <form>
+               <orth>ubhal a’ sgornain</orth>
+            </form>
+            <def>larynx.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e872">
+            <form>
+               <orth>umalas (m)</orth>
+            </form>
+            <def>gallbladder.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e881">
+            <form>
+               <orth>stamag</orth>
+            </form>
+            <def>stomach.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e890">
+            <form>
+               <orth>caolan (m)</orth>
+            </form>
+            <def>intestines.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e899">
+            <form>
+               <orth>miolach (m)</orth>
+            </form>
+            <def>bowel.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e908">
+            <form>
+               <orth>reamhrad (m)</orth>
+            </form>
+            <def>fat.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e916"
+             subtype="h1">11. Lambing</ab>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e921">
+            <form>
+               <orth>Leig mi mach an reithe leatha.</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e927">
+            <form>
+               <orth>An do ghlan i?</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e933">
+            <form>
+               <orth>glanadh (m)</orth>
+            </form>
+            <def>afterbirth.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e941"
+             subtype="h1">12. Miscellaneous</ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Peat_TaransayCNMacKenziemoine">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[06/09/1967?]</date>
+            <location>
+               <placeName>Siorrach Àr, Cille Chaonaig [Ayrshire, Kilwinning]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Colin Norman MacKenzie</persName>
+               <persName xml:lang="gd">Cailein Tormod Mac Coinnich </persName>
+               <birth>
+                  <placeName>[Taransay]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Peat-Working</term>
+               <term xml:lang="gd">Mòine</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Peat_TaransayCNMacKenziemoine-d0e34"
+             subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e39">
+            <form>
+               <orth>sgoradh</orth>
+            </form>
+            <def>toirt dheth a rusg mhullaich de fhraoch na fhiariach. (English: turfing.)</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e48">
+            <form>
+               <orth>rùsgadh</orth>
+            </form>
+            <def>toirt dheth a rusg mhullaich de fhraoch na fhiariach. (English: turfing.)</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e57">
+            <form>
+               <orth>feannadh</orth>
+            </form>
+            <def>toirt dheth a rusg mhullaich de fhraoch na fhiariach. (English: turfing.)</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e66">
+            <form>
+               <orth>glanadh</orth>
+            </form>
+            <def>a còmhnardachadh a “charcaire” [q.v.] an deidh fheannadh.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e75">
+            <form>
+               <orth>carcaire</orth>
+            </form>
+            <def>an leud mònadh a leigeadh ris, e.g. 
+        <graphic url="TaransayCNMacKenziemoineillust1.jpg" width="300px"/>
+            </def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e86">
+            <form>
+               <orth>fosgladh</orth>
+            </form>
+            <def>(1) fosgladh poll ùr. (2) a’ toirt a cheud fhàd as iochdar a phuill leis a spaid, air son beul-sgathaidh a thoirt dhan tairsgeir.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e95">
+            <form>
+               <orth>poll</orth>
+            </form>
+            <def>an t-slochd sa bheil a mhòine ga cladhach. (Eng. peat bank.)</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e104">
+            <form>
+               <orth>poll-monadh</orth>
+            </form>
+            <def>an t-slochd sa bheil a mhòine ga cladhach. (Eng. peat bank.)</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e113">
+            <form>
+               <orth>grabhag</orth>
+            </form>
+            <def>poll-mònadh beag, goirid. Mar is trice cuideachd, staoin na aodainn (aon fhàd a dhoimhne).</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e122">
+            <form>
+               <orth>ceap</orth>
+            </form>
+            <def>am ploc talamhainn a thathar a feannadh far na mònadh. (Eng. turf.)</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e131">
+            <form>
+               <orth>an grinneal</orth>
+            </form>
+            <def>am morghan nan greabhal a ruigear nuair a theirgeas a mhòine.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e140">
+            <form>
+               <orth>peirceal a phuill</orth>
+            </form>
+            <def>Aghaidh a phuill-mhònadh. (E. the face of the bank.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_TaransayCNMacKenziemoine-d0e148"
+             subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e153">
+            <form>
+               <orth>sgoradair</orth>
+            </form>
+            <def>inneal colach ri spaid bhiorach ’s faobhar aig gach taobh dhi, air son moine fheannadh. 
+        <graphic url="TaransayCNMacKenziemoineillust2.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e164">
+            <form>
+               <orth>tairsginn</orth>
+            </form>
+            <def>inneal air son mòine ghearradh. Co-ionnan ’sgach àite, ach le “sgiath” na’s giorra an cuid a dh’àitichean. 
+        <graphic url="TaransayCNMacKenziemoineillust3.jpg" width="300px"/>
+            </def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e175">
+            <form>
+               <orth>tairsgir</orth>
+               <pron>[See tairsginn]</pron>
+            </form>
+            <def>[See tairsginn]</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e184">
+            <form>
+               <orth>traoisginn</orth>
+               <pron>[See tairsginn]</pron>
+            </form>
+            <def>[See tairsginn]</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e193">
+            <form>
+               <orth>iarrun monadh</orth>
+               <pron>[See tairsginn]</pron>
+            </form>
+            <def>[See tairsginn]</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e202">
+            <form>
+               <orth>cas</orth>
+            </form>
+            <def>faic os cionn seo [i.e. tairsginn].</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e211">
+            <form>
+               <orth>ceum</orth>
+            </form>
+            <def>faic os cionn seo. [i.e. tairsginn].</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e220">
+            <form>
+               <orth>sgiath</orth>
+            </form>
+            <def>faic os cionn seo. [i.e. tairsginn].</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e229">
+            <form>
+               <orth>fàd</orth>
+            </form>
+            <def>an caob monadh mar thig i o’n tairisgeir. 
+        <graphic url="TaransayCNMacKenziemoineillust4.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e240">
+            <form>
+               <orth>buain</orth>
+            </form>
+            <def>a cladhach a mach na mònadh.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e249">
+            <form>
+               <orth>gearradh</orth>
+            </form>
+            <def>a cladhach a mach na mònadh.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e258">
+            <form>
+               <orth>’cur a mach</orth>
+            </form>
+            <def>a togal na fàd o’n tairisgeir ’sgan cath a mach as a pholl.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e267">
+            <form>
+               <orth>’sgaoileadh</orth>
+            </form>
+            <def>a togal na fàd o’n tairisgeir ’sgan cath a mach as a pholl.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e276">
+            <form>
+               <orth>balla</orth>
+            </form>
+            <def>dòigh air nam fadan a chur air muin an cheile air bruaich a phuill air chor sgun tiormaich iad na’s fhearr. Cuideachd far eil am poll domhain ’se gun móran sgaoiltich a mach uaithe. 
+        <graphic url="TaransayCNMacKenziemoineillust5.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e287">
+            <form>
+               <orth>gàradh</orth>
+            </form>
+            <def>dòigh air nam fadan a chur air muin an cheile air bruaich a phuill air chor sgun tiormaich iad na’s fhearr. Cuideachd far eil am poll domhain ‘se gun móran sgaoiltich a mach uaithe. 
+        <graphic url="TaransayCNMacKenziemoineillust5.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e298">
+            <form>
+               <orth>ealagol</orth>
+            </form>
+            <def>mòine ’their tiormachadh cruaidh fo’n talamh a chionns gu robh “talamh-toll” [q.v.] na “gaoth-thalamh” [q.v.] san aite a’ ceadachadh do’n ghaoith ruigheachd orra.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e307">
+            <form>
+               <orth>talamh-toll</orth>
+            </form>
+            <def>tuill troimh thalamh mònadh.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e316">
+            <form>
+               <orth>gaoth-thalamh</orth>
+            </form>
+            <def>tuill troimh thalamh mònadh.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e325">
+            <form>
+               <orth>moine dhubh</orth>
+            </form>
+            <def>mòine tha cruaidh dubh, bristeach nuair tha e tioram, ’s anabarrach trom, ach fior mhath go gabhail.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e334">
+            <form>
+               <orth>mhoine-bhàn</orth>
+            </form>
+            <def>moine aodram, chòsach, ruadh san dath.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e343">
+            <form>
+               <orth>moine-bhàn</orth>
+            </form>
+            <def>mòine dhomain gun móran teas agus dualach an t-uisge ghabhail an deigh an tiormachadh. [NOTES: “mhoine-bhàn” and its definition appear at the bottom of page 3 and “moine-bhàn” and its definition at the top of page 4; they may be meant to be just one item.]</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e352">
+            <form>
+               <orth>mòine-chòsach</orth>
+            </form>
+            <def>mòine aodram bhog, far eil móran còinnich ’sa riasg.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e361">
+            <form>
+               <orth>amh-mhòine</orth>
+            </form>
+            <def>moine nach deach a thiormachadh doigheil, na “thàinig air ais” an deigh a tiormachadh. Bi e dualach gu robh poll sticte dubh am measg a reisg!</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e370">
+            <form>
+               <orth>fàd</orth>
+            </form>
+            <def>an doimhne ruigeas an tairisgeir le aon phutadh dhan chois a chuireas an “ceum” air cothrom ris “a’ charcaire”. Tha doimhne phuill air a thoimhis a reir ’ona th’ann a dh’fhoid os cionn a cheil.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_TaransayCNMacKenziemoine-d0e378"
+             subtype="h1">3. A’ tiormachadh na mònach</ab>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e383">
+            <form>
+               <orth>tionndadh</orth>
+            </form>
+            <def>ri side fhliuch, ma’s togaisde mhòine, thionndaisde uairean taobh eile ’n fhòid an uachdar.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e392">
+            <form>
+               <orth>togail</orth>
+            </form>
+            <def>a deanamh “coileag” [q.v.] de na fadan; sin ceithir na cóig air am bonn ’s fear air a mhullach. 
+        <graphic url="TaransayCNMacKenziemoineillust6.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e403">
+            <form>
+               <orth>coileag</orth>
+            </form>
+            <def>tha facal air a chleachdadh air son mònadh ’sair son sguaban airbhair.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e412">
+            <form>
+               <orth>“air a cois-bhig”</orth>
+            </form>
+            <def>canar sin ri mòine th’air a togail.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e421">
+            <form>
+               <orth>a rùdhadh</orth>
+            </form>
+            <def>sin a’ deanamh “cruach bheag” de’n mhonaidh mun teid a cruachadh dòigheil.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e430">
+            <form>
+               <orth>rùdhan</orth>
+            </form>
+            <def>cruach bheag fhosgailte san dean a mhoine tuilleadh tiormachaidh. 
+        <graphic url="TaransayCNMacKenziemoineillust7.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e441">
+            <form>
+               <orth>sgaoilteach</orth>
+            </form>
+            <def>am blar a mach a bhruach a phuill air a bheil a mhoine sgaoilte gus an togar i.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_TaransayCNMacKenziemoine-d0e449"
+             subtype="h1">4. A’ cruachadh na mònach</ab>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e454">
+            <form>
+               <orth>’cruachadh</orth>
+            </form>
+            <def>a deanamh dùn cnapach den mhonaidh an dara cuid aig a pholl, ’neo an deigh a toirt dhachaigh. Aig a pholl bhiodh corra chruach ann, ach aig an tigh, cha bhiodh ach aon té mhor fhada. 
+        <graphic url="TaransayCNMacKenziemoineillust8.jpg" width="400px"/>
+            </def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e465">
+            <form>
+               <orth>gniomhadh</orth>
+            </form>
+            <def>cur na fad air am bonn san oir a mach air taobh a muigh na cruaiche air son a deanamh seasgan. Mar so gheibhiste pataran “beul-sgoradh” air a chruaich. 
+        <graphic url="TaransayCNMacKenziemoineillust9.jpg" width="300px"/>
+            </def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e476">
+            <form>
+               <orth>tughadh</orth>
+            </form>
+            <def>far nach robh chruach air a tughadh, dh’feumadh i gniomhadh (na vice versa!). Bhithisde tughadh nan cruach (gu h’araidh aig a pholl) leis na ceapan a thugadh far a phuill ga fheannadh.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e485">
+            <form>
+               <orth>ceapan</orth>
+            </form>
+            <def>na pluic-fheannaidh leis a robhar a tughadh na “sgrathadh” na cruaiche.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e494">
+            <form>
+               <orth>sgrathan</orth>
+            </form>
+            <def>na pluic-fheannaidh leis a robhar a tughadh na “sgrathadh” na cruaiche.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e503">
+            <form>
+               <orth>cruach-ghniomhaidh</orth>
+            </form>
+            <def>té mhór, mar bu trice.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e512">
+            <form>
+               <orth>ceap-mullaich</orth>
+            </form>
+            <def>am ploc, na sgrath, a bha dùnadh a mhullaich aig cruach chruinn bhiorach.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_TaransayCNMacKenziemoine-d0e520"
+             subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e525">
+            <form>
+               <orth>cliabh-droma</orth>
+            </form>
+            <def>bascaid air a deanamh car comhnard air aon taobh air son laighe air druim fear an eallaich. Bhathar a cleachdadh a chleibh air son mòine, feamainn, inneir, iasg, ’sgach seòrsa ghiulain – eadhon bathar as na bùthan ma bha iad fad as! Bhathar a cleachdadh an ainm “cliabh-droma” air son eadardhealachadh o “chliabh-ghiomach”.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e534">
+            <form>
+               <orth>iris</orth>
+            </form>
+            <def>an ball, nan crios a bha laighe tarsainn uchd fhir-an-eallaich ’sa bha cumail a chleibh air a dhruim. Cliabh-droma le iris, làn moine: 
+        <graphic url="TaransayCNMacKenziemoineillust10.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e545">
+            <form>
+               <orth>sioman</orth>
+            </form>
+            <def>ròpa air a dheanamh air muran na fraoch air a shniomh na dhà na trì duail air a cheile. Sann de’n t-sioman a bha an t-seann iris daonnan.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e554">
+            <form>
+               <orth>plàta</orth>
+            </form>
+            <def>se seorsa de phlaide shiomain a bha dol air druim nan each ga chumail socair fo’n da chliabh-monadh – fear air gach taobh den “strathair”. 
+        <graphic url="TaransayCNMacKenziemoineillust11.jpg" width="300px"/>
+            </def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e565">
+            <form>
+               <orth>strathair-chliabh</orth>
+            </form>
+            <def>pios airneis a laigheadh air druim an eich air son cliabh a ghiulain air gach taobh. Bha’n iris a dol air gach adhairc.
+        <graphic url="TaransayCNMacKenziemoineillust12.jpg" width="200px"/> 
+            </def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e576">
+            <form>
+               <orth>bodrachan (bod-chrann)</orth>
+            </form>
+            <def> strap o’n strathair a bha dol mu’n cuairt earball an eich air son a luchd na’n t-eallach a chumail gun a dhol thairis air mullach cinn an eich, a dol sios leathad. (From “bod” – seann fhachal [sic] air son earball agus “crann” – uidheam, ceangail.)
+        <graphic url="TaransayCNMacKenziemoineillust13.jpg" width="300px"/>
+            </def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_TaransayCNMacKenziemoine-d0e586"
+             subtype="h1">6. Seòrsachan mònach</ab>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e591">
+            <form>
+               <orth>“riasg”</orth>
+            </form>
+            <def>mar bu trice a’ cheud fhàd. Bha e car aodram an cuideam san dath, sgun moran cosg aige.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e600">
+            <form>
+               <orth>moine chosach</orth>
+            </form>
+            <def>faic roinn 2.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e609">
+            <form>
+               <orth>mòine bhàn</orth>
+            </form>
+            <def>faic roinn 2.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e618">
+            <form>
+               <orth>mòine dhubh etc.</orth>
+            </form>
+            <def>faic roinn 2.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e627">
+            <form>
+               <orth>moine fhraoch</orth>
+            </form>
+            <def>moine dhonn, ruighinn ri gearradh, faisg air uachdar na talmhainn. S’eiginn gur ann de fhraoch a chaidh fo thalamh a bha i air a deanamh suas.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e636">
+            <form>
+               <orth>an caoran</orth>
+            </form>
+            <def>am fàd ma dheireadh a thigeadh as ùrlar a phuill mu ruigiste an grinneal. Pronn, dubh, trom, doirbh a tiormachadh ach a mhòine a b’fhearr aon uair’s gun deach i air teine.</def>
+         </entry>
+         <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e645">
+            <form>
+               <orth>“mar an caineal”</orth>
+            </form>
+            <def>sin a chanaiste ris a mhonaidh a b’fhearr – gu robh i “mar an caineal”. Neo gun gabhadh i “mar na coinnlean”. Tha e annasach mothachadh gu can cuid de na meineirean ris a ghual chruaidh, shleamhuinn a tha fo ainm “purrit coal” – “canal” or “cannal”.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_TaransayCNMacKenziemoine-d0e653"
+             subtype="h1">7. Faclan eile</ab>
+      </body>
+   </text>
+</TEI>

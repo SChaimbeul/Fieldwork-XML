@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HarrisVarious_HarrisArdveyCMacDonaldmisc">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location corresp="Harris_Ardvey"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="anonymous_D"/>
+        <person role="informant" corresp="Catriona_MacDonald_Harris_Ardvey"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Miscellaneous</term>
+          <term xml:lang="gd">Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="HarrisVarious_HarrisArdveyCMacDonaldmisc-d0e27">
+        <form>
+          <orth>smethag</orth>
+        </form>
+        <def>rope for tying cows to stall.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisArdveyCMacDonaldmisc-d0e36">
+        <form>
+          <orth>colmadh</orth>
+        </form>
+        <def>fish oil (i.e. cuddy) mixed with coloured wool.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisArdveyCMacDonaldmisc-d0e45">
+        <form>
+          <orth>amhlan</orth>
+        </form>
+        <def>butter, crowdie, cream, generally anything you could spread on bread.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisArdveyCMacDonaldmisc-d0e54">
+        <form>
+          <orth>stapag uachdar</orth>
+        </form>
+        <def>trad. regarded as best thing to keep thirst away.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisArdveyCMacDonaldmisc-d0e63">
+        <form>
+          <orth>uileachan</orth>
+        </form>
+        <def>cloak.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisArdveyCMacDonaldmisc-d0e72">
+        <form>
+          <orth>peitean</orth>
+        </form>
+        <def>waistcoat.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisArdveyCMacDonaldmisc-d0e81">
+        <form>
+          <orth>cota biorach</orth>
+        </form>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisArdveyCMacDonaldmisc-d0e87">
+        <form>
+          <orth>leibidach</orth>
+          <pron>[sic]</pron>
+        </form>
+        <def>[sic] unfortunate.</def>
+      </entry>
+    </body>
+  </text>
+</TEI>

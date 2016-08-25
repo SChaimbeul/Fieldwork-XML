@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Peat_ObanJMacLeanmoine">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the informant uses ‘beag’ and ‘bheag’ to show the gender of the noun. They have been replaced with ‘masc.’ and ‘fem.’ respectively.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>An t-Oban [Oban]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>John MacLean</persName>
+               <persName xml:lang="gd">Iain MacGilleathain </persName>
+               <age>57</age>
+               <birth>
+                  <placeName>Ratharsaireach [Raasay]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Peat-Working</term>
+               <term xml:lang="gd">Mòine</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading" xml:id="Peat_ObanJMacLeanmoine-d0e35" subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+         <entry xml:id="Peat_ObanJMacLeanmoine-idola201">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Coal and wood were so much used in Raasay that peat cutting operations were on a very small scale. Used however were these terms.</def>
+         </entry>
+         <entry xml:id="Peat_ObanJMacLeanmoine-d0e49">
+            <form>
+               <orth>mòine, G. mònadh</orth>
+            </form>
+            <def>peat.</def>
+         </entry>
+         <entry xml:id="Peat_ObanJMacLeanmoine-d0e58">
+            <form>
+               <orth>mòin(t)each ()</orth>
+               <pron>[fem.]</pron>
+            </form>
+            <def>[fem.] peat moor.</def>
+         </entry>
+         <entry xml:id="Peat_ObanJMacLeanmoine-d0e67">
+            <form>
+               <orth>poll mònadh</orth>
+            </form>
+            <def>a bog.</def>
+         </entry>
+         <entry xml:id="Peat_ObanJMacLeanmoine-d0e76">
+            <form>
+               <orth>bota ()</orth>
+               <pron>[masc.]</pron>
+            </form>
+            <def>[masc.] an unused bog which had a peat face.</def>
+         </entry>
+         <entry xml:id="Peat_ObanJMacLeanmoine-d0e85">
+            <form>
+               <orth>caoran ()</orth>
+               <pron>[masc.]</pron>
+            </form>
+            <def>[masc.] a small piece of peat.</def>
+         </entry>
+         <entry xml:id="Peat_ObanJMacLeanmoine-d0e94">
+            <form>
+               <orth>fàd (), plural fòid or fàdan</orth>
+               <pron>[masc.]</pron>
+            </form>
+            <def>[masc.] a single peat.</def>
+         </entry>
+         <entry xml:id="Peat_ObanJMacLeanmoine-d0e103">
+            <form>
+               <orth>rùghan</orth>
+            </form>
+            <def>a small heap of peat.</def>
+         </entry>
+         <entry xml:id="Peat_ObanJMacLeanmoine-d0e112">
+            <form>
+               <orth>cruach</orth>
+            </form>
+            <def>a stack.</def>
+         </entry>
+         <entry xml:id="Peat_ObanJMacLeanmoine-d0e121">
+            <form>
+               <orth>caibe làir</orth>
+            </form>
+            <def>used for skinning turf. (caibe: short closed E sound in first syllable)</def>
+         </entry>
+         <entry xml:id="Peat_ObanJMacLeanmoine-d0e130">
+            <form>
+               <orth>iarunn mònadh</orth>
+            </form>
+            <def>peat cutting implement.</def>
+         </entry>
+         <ab type="heading" xml:id="Peat_ObanJMacLeanmoine-d0e138" subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+         <ab type="heading" xml:id="Peat_ObanJMacLeanmoine-d0e142" subtype="h1">3. A’ tiormachadh na mònach</ab>
+         <ab type="heading" xml:id="Peat_ObanJMacLeanmoine-d0e146" subtype="h1">4. A’ cruachadh na mònach</ab>
+         <ab type="heading" xml:id="Peat_ObanJMacLeanmoine-d0e150" subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+         <ab type="heading" xml:id="Peat_ObanJMacLeanmoine-d0e154" subtype="h1">6. Seòrsachan mònach</ab>
+         <ab type="heading" xml:id="Peat_ObanJMacLeanmoine-d0e158" subtype="h1">7. Faclan eile</ab>
+      </body>
+   </text>
+</TEI>

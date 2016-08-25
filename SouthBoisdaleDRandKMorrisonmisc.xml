@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[1987-88]</date>
+            <location>
+               <placeName>South Uist, South Boisdale</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>A. O’Henley</persName>
+            </person>
+            <person role="informant">
+               <persName>D. R. and Kate Morrison</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idp2066184">
+            <form>
+               <orth>tuillig</orth>
+            </form>
+            <def>to have an effect. “Cha do chuir e tuillig ann.”</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idp2068848">
+            <form>
+               <orth>sogladh</orth>
+            </form>
+            <def>means to have a good chat and some refreshment. “Thig a staigh is ni sinn sogladh.” A Barra word.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idp2048760">
+            <form>
+               <orth>[garadh]</orth>
+            </form>
+            <def>Gad gharadh fhein – warming yourself.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idp2099088">
+            <form>
+               <orth>cuman</orth>
+            </form>
+            <def>an oblong wooden box used for washing dishes and scrubbing potatoes. Could also be used for feeding calves.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idp2097504">
+            <form>
+               <orth>tuba mór</orth>
+            </form>
+            <def>bigger tub used for washing clothes.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idp2095992">
+            <form>
+               <orth>guite</orth>
+            </form>
+            <def>a circular wooden scoop. Had an oblong addition at one end. Used as a scoop to put seed in bags. [NOTES: note added – = sgùirt.]</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idp2093184">
+            <form>
+               <orth>[lùb]</orth>
+            </form>
+            <def>Lùb dheiseal – plain. Lùb chearr – purl.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idp2091528">
+            <form>
+               <orth>cùta snath</orth>
+            </form>
+            <def>a hank. [NOTES: ‘cùta’ corrected to ‘cuta’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm2943832">
+            <form>
+               <orth>iarna snath</orth>
+            </form>
+            <def>a hank.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm3014464">
+            <form>
+               <orth>giurman</orth>
+            </form>
+            <def>blue colour. [NOTES: corrected to ‘guirmean’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm2951896">
+            <form>
+               <orth>sealbhag</orth>
+            </form>
+            <def>a process which prevented colours running into each other when dyeing. Urine was collected and boiled with grass roots. Cloth was then steeped in this.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-d0e128"
+             subtype="h1">Uist Isle knitting patterns</ab>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm3054352">
+            <form>
+               <orth>Stàmh na mara</orth>
+            </form>
+            <def>sea tangle. [NOTES: ‘Stàmh’ corrected to ‘Stamh’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm2930728">
+            <form>
+               <orth>Eilean Fraoich</orth>
+            </form>
+            <def>Heathery Isle.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm2991424">
+            <form>
+               <orth>Machair</orth>
+            </form>
+            <def>pattern includes heartsease, ladies bedstraw, short grass, sand, buttercups, daisies and orcis. With Iona Border.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm3053488">
+            <form>
+               <orth>Eirisgaidh</orth>
+            </form>
+            <def>pattern tries to depict the crossing from South Uist to Eriskay. Includes South Uist, yellow lichen on rocks, sand, shallow water, deeper water, centre of the sound, deeper water, shallow water, sand, yellow lichen, rocks, Eriskay. Key pattern Nigg Stone.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm3018280">
+            <form>
+               <orth>Ealachan Fiadhaich</orth>
+            </form>
+            <def>wild swans. With Iona Border.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm3009496">
+            <form>
+               <orth>Na h-Eileanan an Iar</orth>
+            </form>
+            <def>Western Isles. Celtic spiral circle. Inside these islands and sea intertwined.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm2971264">
+            <form>
+               <orth>Lilidh Locha</orth>
+            </form>
+            <def>Lily Lochan. Celtic key pattern and Iona Border.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idola29">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>(Samples of above patterns can be obtained if needed.)</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm2982208">
+            <form>
+               <orth>àrmadh</orth>
+            </form>
+            <def>butter or any oil or fat which was used to soften the wool.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm2959024">
+            <form>
+               <orth>dàladh</orth>
+            </form>
+            <def>smell. More common in Benbecula.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm3038440">
+            <form>
+               <orth>slamhcan</orth>
+            </form>
+            <def>a drink similar to ‘camhraich’. Consisted of water, milk and oats. Small measure of milk as opposed to water.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm3044200">
+            <form>
+               <orth>sìoman</orth>
+            </form>
+            <def>clothesline. Outdoors as well as indoors.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm2946712">
+            <form>
+               <orth>sgillaid</orth>
+            </form>
+            <def>a small pot.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm3014968">
+            <form>
+               <orth>rollagan cloimh</orth>
+            </form>
+            <def>what was left after carding.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm2991496">
+            <form>
+               <orth>pearda clomh</orth>
+            </form>
+            <def>this was a quantity of wool stretched flat on the card, prior [to] the actual carding.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm2999056">
+            <form>
+               <orth>grùisgainn</orth>
+            </form>
+            <def>paraffin lamp. [NOTES: note added above ‘ainn’ – ein.]</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm3013456">
+            <form>
+               <orth>òla phailm</orth>
+            </form>
+            <def>palm oil. Found on the shore in clay canisters. Used to heal cuts and grazes. [NOTES: ‘òla’ corrected to ‘ola’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm2961472">
+            <form>
+               <orth>duilleag tombaca</orth>
+            </form>
+            <def>placed over a cut to prevent poisoning. Also stopped the blood from gorging out.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm3033616">
+            <form>
+               <orth>cuach Phàdruig</orth>
+            </form>
+            <def>leaves were used to heal wounds. Placed over the wound and extracted any poison.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm2945992">
+            <form>
+               <orth>buntata luathaidh</orth>
+            </form>
+            <def>baked potatoes. Placed in hot ashes. [NOTES: ‘buntata’ corrected to ‘buntàta’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm2944336">
+            <form>
+               <orth>a’ tighinn a staigh a dh’iarraidh athainn</orth>
+            </form>
+            <def>this could mean that a person was only dropping in and could not stay for long. Reflects the custom of stopping at a house for an ember to use as a torch.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm2978104">
+            <form>
+               <orth>an tiomasgladh</orth>
+            </form>
+            <def>excess. Applied to someone who always had something spare. “Bha an tiomasgladh aice sin riabh.” [NOTES: ‘tiomasgladh’ corrected to ‘t-iomasgladh’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm2963488">
+            <form>
+               <orth>milisteach</orth>
+            </form>
+            <def>applied to a day in which you had rain, wind and sleet.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm3023464">
+            <form>
+               <orth>gliongaid</orth>
+            </form>
+            <def>same as ‘sneic’, a locking device on a barn door.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm3028072">
+            <form>
+               <orth>sèiseach</orth>
+            </form>
+            <def>a bench. Another word for ‘beinnge’.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm2990704">
+            <form>
+               <orth>croileagan eoin</orth>
+            </form>
+            <def>a number of birds gathered together. [NOTES: corrected to ‘cròileagan eòin’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm2955208">
+            <form>
+               <orth>cuilltaigh</orth>
+            </form>
+            <def>the end of an old thatched house where animals were kept. [NOTES: note added above ‘cuill’ – cùl.]</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm2968744">
+            <form>
+               <orth>déasanta</orth>
+            </form>
+            <def>decent.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm2976448">
+            <form>
+               <orth>crampaichean</orth>
+            </form>
+            <def>ankle boots worn by women who went to the herring season.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm3013528">
+            <form>
+               <orth>barran</orth>
+            </form>
+            <def>a piece of clothing worn by the aforementioned women [i.e. ‘women who went to the herring season’]. A form of headgear.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm3026632">
+            <form>
+               <orth>mnathan cnamhaidh</orth>
+            </form>
+            <def>nuns. [NOTES: note added above ‘cnamhaidh’ – [c]ràbhaidh.]</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idm2985952">
+            <form>
+               <orth>cùbach</orth>
+            </form>
+            <def>careful.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idp2375792">
+            <form>
+               <orth>uslaig</orth>
+            </form>
+            <def>a big, fat person.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idp2377304">
+            <form>
+               <orth>[coingais]</orth>
+            </form>
+            <def>“Tha e coingais dè an taobh a thig e.” – he doesn’t care which way he goes.</def>
+         </entry>
+         <entry xml:id="AOHenley_SouthBoisdaleDRandKMorrisonmisc-idp2379680">
+            <form>
+               <orth>drùbladh</orth>
+            </form>
+            <def>a few drops left in a glass or bottle.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

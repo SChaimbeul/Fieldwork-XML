@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_GairlochKMacRaeslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>12/1969</date>
+            <location>
+               <placeName>Ross-shire, Gairloch</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith]</persName>
+            </person>
+            <person role="informant">
+               <persName>Kenneth MacRae</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166287208">
+            <form>
+               <orth>lanndran</orth>
+               <pron>[ɫ[ɑ̃ũ̜]</pron>
+            </form>
+            <def>[ɫ[ɑ̃ũ̜]n̪d̪əɾɑṉ] Notes: lantern.</def>
+         </entry>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166283176">
+            <form>
+               <orth>lias</orth>
+               <pron>[lʹiɑs]</pron>
+            </form>
+            <def>[lʹiɑs] Notes: torch made from a stick with a cloth at the end, dipped in oil and lit.</def>
+         </entry>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166279720">
+            <form>
+               <orth>mealbhan</orth>
+               <pron>[mjɑɫɑvɑṉ]</pron>
+            </form>
+            <def>[mjɑɫɑvɑṉ] Notes: sand dune.</def>
+         </entry>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166300312">
+            <form>
+               <orth>meigeadaich</orth>
+               <pron>[mɛ̃gʹəd̪iç]</pron>
+            </form>
+            <def>[mɛ̃gʹəd̪iç] Notes: bleat of a goat.</def>
+         </entry>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166302040">
+            <form>
+               <orth>móine</orth>
+            </form>
+            <def>Quotation: móine phlòiteach. Notes: spongy peat.</def>
+         </entry>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166303696">
+            <form>
+               <orth>mollan</orth>
+               <pron>[mɔɫɑ̃ṉ]</pron>
+            </form>
+            <def>[mɔɫɑ̃ṉ] Notes: a corn rick.</def>
+         </entry>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166305424">
+            <form>
+               <orth>plòiteach</orth>
+            </form>
+            <def>Quotation: móine phlòiteach. Notes: spongy peat.</def>
+         </entry>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166307080">
+            <form>
+               <orth>pùdach</orth>
+            </form>
+            <def>Notes: a young bird in a nest.</def>
+         </entry>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166308592">
+            <form>
+               <orth>pùlas</orth>
+            </form>
+            <def>Notes: handle of pail, pot, etc.</def>
+         </entry>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166310104">
+            <form>
+               <orth>sléiteag</orth>
+               <pron>[ʃlʹe:tʹɑɡ]</pron>
+            </form>
+            <def>[ʃlʹe:tʹɑɡ] Notes: horse-drawn sledge.</def>
+         </entry>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166311832">
+            <form>
+               <orth>smugach</orth>
+            </form>
+            <def>Notes: damp (of weather).</def>
+         </entry>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166313344">
+            <form>
+               <orth>sòla</orth>
+            </form>
+            <def>Quotation: sòla na h-uinneige. Notes: window sill.</def>
+         </entry>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166315000">
+            <form>
+               <orth>tarbhan-dé</orth>
+            </form>
+            <def>Notes: butterfly.</def>
+         </entry>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166316512">
+            <form>
+               <orth>tobhtag</orth>
+            </form>
+            <def>Notes: stackyard.</def>
+         </entry>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166318024">
+            <form>
+               <orth>ullag</orth>
+            </form>
+            <def>Quotation: ullag mhine. Notes: a handful.</def>
+         </entry>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166319680">
+            <form>
+               <orth>cana</orth>
+            </form>
+            <def>Notes: porpoise.</def>
+         </entry>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166321192">
+            <form>
+               <orth>càrn-slaod</orth>
+            </form>
+            <def>Notes: horse-drawn sledge with a box like an ordinary cart.</def>
+         </entry>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166322776">
+            <form>
+               <orth>clid</orth>
+               <pron>[klidʹ]</pron>
+            </form>
+            <def>[klidʹ] Notes: sleet.</def>
+         </entry>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166324504">
+            <form>
+               <orth>còmhnaidh</orth>
+            </form>
+            <def>Quotation: Tha e dol a dheanamh còmhnaidh shneachd. Notes: a heavy fall of snow which will lie.</def>
+         </entry>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166326160">
+            <form>
+               <orth>dais</orth>
+            </form>
+            <def>Notes: collection of peats on the bank. A few “rùmhain” put together.</def>
+         </entry>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166327672">
+            <form>
+               <orth>dòrn-locair</orth>
+            </form>
+            <def>Notes: small hand-plane.</def>
+         </entry>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166329184">
+            <form>
+               <orth>frithleasg</orth>
+               <pron>[fɾılwsɡ]</pron>
+            </form>
+            <def>[fɾılwsɡ] Notes: earthworm.</def>
+         </entry>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166330912">
+            <form>
+               <orth>gaisidh</orth>
+            </form>
+            <def>Quotation: Tha ’m buntàta uamhasach gaisidh. Notes: diseased.</def>
+         </entry>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166332568">
+            <form>
+               <orth>garra-ghairt</orth>
+               <pron>[ɡɑrəɣɑʴsṯ]</pron>
+            </form>
+            <def>[ɡɑrəɣɑʴsṯ] Notes: corncrake. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+         </entry>
+         <entry xml:id="Slips_GairlochKMacRaeslips-idp166334440">
+            <form>
+               <orth>griogais</orth>
+            </form>
+            <def>Notes: small potatoes.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

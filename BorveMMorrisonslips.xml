@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BorveMMorrisonslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1975</date>
+            <location>
+               <placeName>Lewis, Borve</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>Murdo Morrison</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_BorveMMorrisonslips-idp115458712">
+            <form>
+               <orth>latha dubh</orth>
+            </form>
+            <def>Quotation: An latha dubh. Notes: day of reckoning.</def>
+         </entry>
+         <entry xml:id="Slips_BorveMMorrisonslips-idp115464544">
+            <form>
+               <orth>i-tigheach  (masc.)</orth>
+               <pron>[itʹiˈəx]</pron>
+            </form>
+            <def>[itʹiˈəx] Notes: oesophagus.</def>
+         </entry>
+         <entry xml:id="Slips_BorveMMorrisonslips-idp115477792">
+            <form>
+               <orth>seòtadh</orth>
+            </form>
+            <def>Notes: a thrust.</def>
+         </entry>
+         <entry xml:id="Slips_BorveMMorrisonslips-idp115468216">
+            <form>
+               <orth>bailc (fem.)</orth>
+            </form>
+            <def>Notes: squally shower of rain.</def>
+         </entry>
+         <entry xml:id="Slips_BorveMMorrisonslips-idp115456912">
+            <form>
+               <orth>balladh</orth>
+            </form>
+            <def>Notes: glimpse.</def>
+         </entry>
+         <entry xml:id="Slips_BorveMMorrisonslips-idp162093560">
+            <form>
+               <orth>diosdadh</orth>
+            </form>
+            <def>Quotation: Gheibh iad an diosdadh. Notes: “They’ll be ruthlessly rejected.”</def>
+         </entry>
+         <entry xml:id="Slips_BorveMMorrisonslips-idp162095216">
+            <form>
+               <orth>docannan</orth>
+            </form>
+            <def>Notes: ponds.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

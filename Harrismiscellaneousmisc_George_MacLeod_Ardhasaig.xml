@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Excerpt from original file AJSmith_Harrismiscellaneousmisc -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AJSmith_Harrismiscellaneousmisc_George_MacLeod_Ardhasaig">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>July 1972</date>
+        <location corresp="Harris_Ardhasaig"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="A_J_Smith"/>
+        <person role="informant" corresp="George_MacLeod_Ardhasaig"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Miscellaneous</term>
+          <term xml:lang="gd">Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37683808">
+        <form>
+          <orth>cròicean</orth>
+          <pron>[kɾɔ:cɑṉ]</pron>
+        </form>
+        <def>[kɾɔ:cɑṉ] Note: potato hook.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37633192">
+        <form>
+          <orth>bòtunn</orth>
+          <pron>[bɔ:t̪ən̪]</pron>
+        </form>
+        <def>[bɔ:t̪ən̪] Quot.: bòtunnan móra. Note: originally leather thigh boots worn by fishermen.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37678120">
+        <form>
+          <orth>ceap-bhròg</orth>
+          <pron>[cɑpvɾɔ:ɡ]</pron>
+        </form>
+        <def>[cɑpvɾɔ:ɡ] Note: cobbler’s last.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37655152">
+        <form>
+          <orth>crith</orth>
+        </form>
+        <def>Quot.: a’ chrith. Note: illness in sheep. Shaking.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37660696">
+        <form>
+          <orth>sultail</orth>
+          <pron>[su̜ɫt̪ɑl]</pron>
+        </form>
+        <def>[su̜ɫt̪ɑl] Note: having a lot of flesh on one’s body.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37637080">
+        <form>
+          <orth>cuileag-ghorm</orth>
+        </form>
+        <def>Quot.: a’ chuileag-ghorm. Note: blue fly. Said by GMcL to be cause of “a’ chloimh” (sheep scab).</def>
+      </entry>
+    </body>
+  </text>
+</TEI>

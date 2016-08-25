@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Peat_LeurbostJuniorSecondarymoine">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Lewis, Lochs, Leurbost</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[school]</persName>
+            </person>
+            <person role="informant">
+               <persName>Leurbost</persName>
+               <persName xml:lang="gd">Lurebost</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Peat-Working</term>
+               <term xml:lang="gd">Mòine</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Peat_LeurbostJuniorSecondarymoine-d0e28"
+             subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e33">
+            <form>
+               <orth>a’ rodaigeadh</orth>
+            </form>
+            <def>a’ gearradh le spaid air fad a’ phuill aig leud a’ chip agus ’nuairsin a’ gearradh tarsuinn. 
+        <graphic url="LeurbostJuniorSecondarymoineillust1.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e44">
+            <form>
+               <orth>a’ rùsgadh</orth>
+            </form>
+            <def>turfing.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e53">
+            <form>
+               <orth>leagail nan ceap</orth>
+            </form>
+            <def>a’ cur car de na cip a bhroinn a’ phuill.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e62">
+            <form>
+               <orth>càradh nan ceap</orth>
+            </form>
+            <def>laying them inside the bank with heather side uppermost.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e71">
+            <form>
+               <orth>ceaba làir</orth>
+            </form>
+            <def>turfing-spade (not used now locally).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_LeurbostJuniorSecondarymoine-d0e79"
+             subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e84">
+            <form>
+               <orth>tairisgeir</orth>
+            </form>
+            <def>peat-iron.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e93">
+            <form>
+               <orth>iarunn mònach</orth>
+            </form>
+            <def>peat-iron.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e102">
+            <form>
+               <orth>cas an iaruinn</orth>
+            </form>
+            <def>handle of peat-iron.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e111">
+            <form>
+               <orth>smeachan</orth>
+            </form>
+            <def>the ‘step’ of the peat-iron.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e120">
+            <form>
+               <orth>corrfhad</orth>
+            </form>
+            <def>the peat at the face of the bank.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e129">
+            <form>
+               <orth>barrfhad</orth>
+            </form>
+            <def>the peats in the top layer.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e138">
+            <form>
+               <orth>an dara fàd</orth>
+            </form>
+            <def>the peats in the second layer.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e147">
+            <form>
+               <orth>an caoran</orth>
+            </form>
+            <def>half peat when one reaches the hard – an aigeal.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e156">
+            <form>
+               <orth>carcair</orth>
+            </form>
+            <def>leud an rusgaidh; gu minic ochd fòid anns a’ charcair, ann am poll dà fhàd.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e165">
+            <form>
+               <orth>plòicean</orth>
+            </form>
+            <def>big thick, and usually wet peats.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e174">
+            <form>
+               <orth>sgaoilteach</orth>
+            </form>
+            <def>where the peats are thrown on top of the bank.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e183">
+            <form>
+               <orth>tilgeil</orth>
+            </form>
+            <def>throwing the peats.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e192">
+            <form>
+               <orth>cur a mach</orth>
+            </form>
+            <def>throwing the peats.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e201">
+            <form>
+               <orth>càradh na mònach</orth>
+            </form>
+            <def>throwing peats so that they lie in orderly rows starting well out. Sarcastic remark often made by those following person throwing the ‘barrfhad’ [q.v.] if he isn’t throwing them far enough: “Coma leat do chàch; dèan thusa gàradh de’n bharrfhad.”</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e210">
+            <form>
+               <orth>gàradh</orth>
+            </form>
+            <def>peats laid half on top of each other at inner edge of bank. 
+        <graphic url="LeurbostJuniorSecondarymoineillust2.jpg" width="300px"/>
+            </def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e221">
+            <form>
+               <orth>broinn a’ phuill</orth>
+            </form>
+            <def>inside the bank.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e230">
+            <form>
+               <orth>ath-foin (phonetically spelt ath-mhoine)</orth>
+            </form>
+            <def>big wet peats set aside to dry.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e239">
+            <form>
+               <orth>calcus</orth>
+            </form>
+            <def>roots found in peats – sometimes they stick to blade and make it difficult to cut peats, hence: glan an calcus far an iarunn. (Dry ‘calcus’ sometimes smoked when tobacco was scarce!)</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e248">
+            <form>
+               <orth>a’ spoth nam fàdan</orth>
+            </form>
+            <def>cutting lower edge of peats at an angle – mòine bhàn chiefly – to make it easier for thrower to lift peats away from ‘carcair’ [q.v.]. 
+        <graphic url="LeurbostJuniorSecondarymoineillust3.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e259">
+            <form>
+               <orth>pèitean</orth>
+            </form>
+            <def>big peats.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e268">
+            <form>
+               <orth>staingean ruighinn</orth>
+            </form>
+            <def>tough patches [of peat] to cut.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_LeurbostJuniorSecondarymoine-d0e276"
+             subtype="h1">3. A’ tiormachadh na mònach</ab>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e281">
+            <form>
+               <orth>rùdhadh</orth>
+            </form>
+            <def>lifting the peats.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e290">
+            <form>
+               <orth>rùdhan</orth>
+            </form>
+            <def>ceithir fòid an taca ri chéile agus boineid orra.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e299">
+            <form>
+               <orth>ag ath-ruthadh</orth>
+            </form>
+            <def>re-lifting – making bigger ‘rùdhain’ and putting the wet peats on the outside.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e308">
+            <form>
+               <orth>uinneagan</orth>
+            </form>
+            <def>gaps left in the ‘rùdhain’ so that the wind can blow through them.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_LeurbostJuniorSecondarymoine-d0e316"
+             subtype="h1">4. A’ cruachadh na mònach</ab>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e321">
+            <form>
+               <orth>a’ cruachadh</orth>
+            </form>
+            <def>stacking.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e330">
+            <form>
+               <orth>a’ stéidheadh</orth>
+            </form>
+            <def>peats laid on top of each other to prevent stacks from falling.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e339">
+            <form>
+               <orth>a’ tughadh</orth>
+            </form>
+            <def>covering with turf so that small stacks can be left on the bank during winter-time.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_LeurbostJuniorSecondarymoine-d0e347"
+             subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e352">
+            <form>
+               <orth>a’ tarruing na mònach</orth>
+            </form>
+            <def>taking the peats home.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e361">
+            <form>
+               <orth>cliabh</orth>
+            </form>
+            <def>creel</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e370">
+            <form>
+               <orth>poca</orth>
+            </form>
+            <def>sack.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e379">
+            <form>
+               <orth>cairt</orth>
+            </form>
+            <def>cart.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_LeurbostJuniorSecondarymoine-d0e387"
+             subtype="h1">6. Seòrsachan mònach</ab>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e392">
+            <form>
+               <orth>mòine bhàn</orth>
+            </form>
+            <def>light brown peats.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e401">
+            <form>
+               <orth>mòine riabhach</orth>
+            </form>
+            <def>peats that are a little darker [than mòine bhàn q.v.].</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e410">
+            <form>
+               <orth>mòine dhubh</orth>
+            </form>
+            <def>black peats.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e419">
+            <form>
+               <orth>caoran dubh</orth>
+            </form>
+            <def>small black peats.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e428">
+            <form>
+               <orth>smùr</orth>
+            </form>
+            <def>dross.</def>
+         </entry>
+         <entry xml:id="Peat_LeurbostJuniorSecondarymoine-d0e437">
+            <form>
+               <orth>mòine chràiceach</orth>
+            </form>
+            <def>peats containing bits of old trees.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_LeurbostJuniorSecondarymoine-d0e445"
+             subtype="h1">7. Faclan eile</ab>
+      </body>
+   </text>
+</TEI>

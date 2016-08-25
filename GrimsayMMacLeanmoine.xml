@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Peat_GrimsayMMacLeanmoine">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>20/09/1967</date>
+            <location>
+               <placeName>North Uist, Grimsay</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Mary [?] M. MacLean</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Peat-Working</term>
+               <term xml:lang="gd">Mòine</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Peat_GrimsayMMacLeanmoine-d0e26"
+             subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e31">
+            <form>
+               <orth>fosgladh poll-mona</orth>
+            </form>
+            <def>initial opening of new peat-bank.</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e40">
+            <form>
+               <orth>feannadh</orth>
+            </form>
+            <def>turfing the peat-bank or digging squares of the turf to expose softer layer of ground underneath (the actual peat).</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e49">
+            <form>
+               <orth>rusgadh</orth>
+            </form>
+            <def>same as above [i.e. feannadh]; another term for ‘feannadh’ – term used in Lewis.</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e58">
+            <form>
+               <orth>glanadh (a phuill)</orth>
+            </form>
+            <def>clearing away the squares of turf cut in the ‘feannadh’ [q.v.] process, also smoothing away all uneven ridges, ready for actual cutting.</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e67">
+            <form>
+               <orth>meithe</orth>
+            </form>
+            <def>the width of the peat bank.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_GrimsayMMacLeanmoine-d0e75"
+             subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e80">
+            <form>
+               <orth>tarasgeir</orth>
+            </form>
+            <def>the peat-cutting iron.</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e89">
+            <form>
+               <orth>barr-fhad</orth>
+            </form>
+            <def>name for peat on top of layer (see garadh).</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e98">
+            <form>
+               <orth>iochdar</orth>
+            </form>
+            <def>lower part of peat-bank.</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e107">
+            <form>
+               <orth>uachdar</orth>
+            </form>
+            <def>upper part of peat-bank.</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e116">
+            <form>
+               <orth>garadh</orth>
+            </form>
+            <def>layer of peats placed on ‘uachdar’ [q.v.] when cutting.</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e125">
+            <form>
+               <orth>sgaoilteach</orth>
+            </form>
+            <def>peats thrown out on top of upper bank and scattered round the ‘garadh’ [q.v.].</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e134">
+            <form>
+               <orth>fear-gearraidh</orth>
+            </form>
+            <def>the person operating the peat-cutting iron.</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e143">
+            <form>
+               <orth>fear-sradaidh</orth>
+            </form>
+            <def>the person throwing out the peats as they are cut.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_GrimsayMMacLeanmoine-d0e151"
+             subtype="h1">3. A’ tiormachadh na mònach</ab>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e156">
+            <form>
+               <orth>sadail</orth>
+            </form>
+            <def>removing the peats from lower part of bank to the upper part, where they are more likely to dry quickly.</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e165">
+            <form>
+               <orth>cruachadh</orth>
+            </form>
+            <def>stacking the peats on the bank.</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e174">
+            <form>
+               <orth>gniomhadh</orth>
+            </form>
+            <def>the ‘masonry’ of the peat stack.</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e183">
+            <form>
+               <orth>rudhadh</orth>
+            </form>
+            <def>making small stooks of six or more peats, placed in vertical position – this is the initial stage of drying.</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e192">
+            <form>
+               <orth>rudhan</orth>
+            </form>
+            <def>name for aforesaid small stooks [see rudhadh].</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e201">
+            <form>
+               <orth>ath-rudhadh</orth>
+            </form>
+            <def>this has to be done if weather is unfavourable for peat-drying. Inside peats in stooks placed outside and vice versa.</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e210">
+            <form>
+               <orth>ath arrachadh</orth>
+            </form>
+            <def>as above [i.e. ath-rudhadh].</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e219">
+            <form>
+               <orth>togail mhonadh</orth>
+            </form>
+            <def>as ‘rudhadh’ [q.v.].</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_GrimsayMMacLeanmoine-d0e227"
+             subtype="h1">4. A’ cruachadh na mònach</ab>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e232">
+            <form>
+               <orth>steidh</orth>
+            </form>
+            <def>pile of peats. This term is mostly used in Sutherlandshire.</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e241">
+            <form>
+               <orth>gobhlfhad</orth>
+            </form>
+            <def>large unbroken peat, chosen for masonry or ‘gniomhadh’ of the stack. The same terms apply in ‘cruachadh’ as in ‘tiormachadh’, i.e. gniomhadh, sadail [q.v.].</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e250">
+            <form>
+               <orth>tudan</orth>
+            </form>
+            <def>a small peat stack. (In Uist ‘tuidean’.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_GrimsayMMacLeanmoine-d0e258"
+             subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e263">
+            <form>
+               <orth>tarruing</orth>
+            </form>
+            <def>term used for transportation of peat from bank to the house.</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e272">
+            <form>
+               <orth>stairseach-mhonadh</orth>
+            </form>
+            <def>small paths made of stones and turf leading from peat-bank to wherever peats are to be carried.</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e281">
+            <form>
+               <orth>cliabh-mona</orth>
+            </form>
+            <def>creel for carrying peats.</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e290">
+            <form>
+               <orth>cairt-mhona</orth>
+            </form>
+            <def>cart for [carrying peats.]</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e299">
+            <form>
+               <orth>eathar-mona</orth>
+            </form>
+            <def>boat for [carrying peats.]</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e308">
+            <form>
+               <orth>luchd-mona</orth>
+            </form>
+            <def>name for cargo of peats in boat.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_GrimsayMMacLeanmoine-d0e316"
+             subtype="h1">6. Seòrsachan mònach</ab>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e321">
+            <form>
+               <orth>moine chruaidh dhubh</orth>
+            </form>
+            <def>heavy type of peat; very good for heat, but inclined to crumble during dry [sic] process if exposed to sun and rain.</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e330">
+            <form>
+               <orth>moine chosach</orth>
+            </form>
+            <def>porous type [of peat]; not durable in fire bur easier to dry.</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e339">
+            <form>
+               <orth>moine chiobach</orth>
+            </form>
+            <def>porous type [of peat]; not durable in fire bur easier to dry.</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e348">
+            <form>
+               <orth>cioban</orth>
+               <pron>[See moine chiobach]</pron>
+            </form>
+            <def>[See moine chiobach]</def>
+         </entry>
+         <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e357">
+            <form>
+               <orth>caoran, caorain</orth>
+            </form>
+            <def>small fragments of peat much sought after for heating purposes.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_GrimsayMMacLeanmoine-d0e365"
+             subtype="h1">7. Faclan eile</ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="AssortedFieldworkers_AnonymousBeathraichean">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation/>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>Anonymous B</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Boats</term>
+               <term xml:lang="gd">Eathraichean</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e14"
+             subtype="h1">1. Ainmean air seòrsachan eathraichean</ab>
+         <entry xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e19">
+            <form>
+               <orth>sgàf</orth>
+            </form>
+            <def>skiff.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e28">
+            <form>
+               <orth>copla</orth>
+            </form>
+            <def>cobble.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e36"
+             subtype="h1">2. Ainm gach pàirt dhen eathar eadar an druim ’s am beul, agus na broinn</ab>
+         <entry xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e41">
+            <form>
+               <orth>tobhtaichean</orth>
+            </form>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e47">
+            <form>
+               <orth>srac bheol</orth>
+            </form>
+            <def>1st layer of wood.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e56">
+            <form>
+               <orth>giuthas</orth>
+            </form>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e62">
+            <form>
+               <orth>sail</orth>
+            </form>
+            <def>(in that order)</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e71">
+            <form>
+               <orth>cnot</orth>
+               <pron>[?]</pron>
+            </form>
+            <def>[?]</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e80">
+            <form>
+               <orth>druim</orth>
+            </form>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e86">
+            <form>
+               <orth>tobhta chruinn</orth>
+            </form>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e92">
+            <form>
+               <orth>sròn</orth>
+            </form>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e98">
+            <form>
+               <orth>ball acair</orth>
+            </form>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e104">
+            <form>
+               <orth>ropa an t-siul</orth>
+            </form>
+            <def>to adjust sail up and down.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e113">
+            <form>
+               <orth>riofainean</orth>
+            </form>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e119">
+            <form>
+               <orth>àsag</orth>
+            </form>
+            <def>bung.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e128">
+            <form>
+               <orth>lodair</orth>
+            </form>
+            <def>baler, bowl with a hand.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e137">
+            <form>
+               <orth>ropa ceangail an t-siul</orth>
+            </form>
+            <def>can’t be knotted [?] [NOTES: both the definition and the accompanying illustration unclear.]</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e145"
+             subtype="h1">3. Stiùir is ailm – ainm gach pàirt</ab>
+         <entry xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e150">
+            <form>
+               <orth>an fhuilim</orth>
+            </form>
+            <def>in hand.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e159">
+            <form>
+               <orth>liath a raimh</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e164"
+             subtype="h1">4. Gach pàirt dhen ràmh, is faclan co-cheangailte ri iomradh</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e168"
+             subtype="h1">5. Crann is seòl is gach uidheam co-cheangailte riutha – ainm gach pàirt</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e172"
+             subtype="h1">6. Faclan sam bith eile co-cheangailte ri eathraichean no ri seòladh</ab>
+      </body>
+   </text>
+</TEI>

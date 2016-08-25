@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the original title of the list is “Terminology Associated with Peat-Cutting and Drying”.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>April 1962</date>
+            <location>
+               <placeName>Lewis, Carloway</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>Margaret MacLeod</persName>
+            </person>
+            <person role="informant">
+               <persName>Robert MacLeod</persName>
+               <age>60</age>
+            </person>
+            <person role="informant">
+               <persName>Alexander MacLennan</persName>
+               <age>34</age>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Peat-Working</term>
+               <term xml:lang="gd">Mòine</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e44">
+            <form>
+               <orth>riasg</orth>
+            </form>
+            <def>peat.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e53">
+            <form>
+               <orth>connadh</orth>
+            </form>
+            <def>fuel.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e62">
+            <form>
+               <orth>mòine bhàn</orth>
+            </form>
+            <def>brown peat. It is light coloured and light in weight.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e71">
+            <form>
+               <orth>mòine dhubh</orth>
+            </form>
+            <def>black peat.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e80">
+            <form>
+               <orth>mòine dhearg</orth>
+            </form>
+            <def>peat where you have iron mixture and you get red ashes.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e89">
+            <form>
+               <orth>mòine chailc</orth>
+            </form>
+            <def>the peat glows but has no flame and it remains as chalk.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e98">
+            <form>
+               <orth>mòine chaoranach</orth>
+            </form>
+            <def>broken peat.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e107">
+            <form>
+               <orth>smuir</orth>
+            </form>
+            <def>the finest of broken peat.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e116">
+            <form>
+               <orth>poll-mònach</orth>
+            </form>
+            <def>peat bank.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e125">
+            <form>
+               <orth>blàr mònach</orth>
+            </form>
+            <def>peat stretch.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e134">
+            <form>
+               <orth>bàthasdair</orth>
+            </form>
+            <def>dangerous bog. It is to be avoided for stock safety. It is dangerous because it is situated in a place where the water cannot be drained off it.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e143">
+            <form>
+               <orth>càradh-cheap</orth>
+            </form>
+            <def>cut turf for grazing. When the turf has been taken off the bog it is placed grass side up for grazing.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e152">
+            <form>
+               <orth>spaid</orth>
+            </form>
+            <def>spade for taking the turf off.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e161">
+            <form>
+               <orth>priogadh</orth>
+            </form>
+            <def>pricking down with the spade part of the turfing.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e170">
+            <form>
+               <orth>rusgadh</orth>
+            </form>
+            <def>the process of taking off the turf so as to enable one to reach the peat.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e179">
+            <form>
+               <orth>tairsgeir</orth>
+            </form>
+            <def>peat-cutter.
+        <graphic url="CarlowayRMacLeodandAMacLennanpeatillust1.jpg" width="600px"/>
+            </def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e190">
+            <form>
+               <orth>a’ chas</orth>
+            </form>
+            <def>the handle of the peat-cutter. [See tairsgeir.]</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e199">
+            <form>
+               <orth>smeachan</orth>
+            </form>
+            <def>the step, on the peat cutter, for the foot to exert pressure on the blade so as to cut the peat. [See tairsgeir.]</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e208">
+            <form>
+               <orth>an iarunn</orth>
+            </form>
+            <def>the iron blade. [See tairsgeir.]</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e217">
+            <form>
+               <orth>aodann a’ phuill</orth>
+            </form>
+            <def>the face of the bank.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e226">
+            <form>
+               <orth>broinn a’ phuill</orth>
+            </form>
+            <def>the cut-away part of the bank.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e235">
+            <form>
+               <orth>uachdar a’ phuill</orth>
+            </form>
+            <def>top of the bank.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e244">
+            <form>
+               <orth>carcair</orth>
+            </form>
+            <def>width of cut. It was never more than an average person’s throw. This was a strong tradition as it was communal work.
+        <graphic url="CarlowayRMacLeodandAMacLennanpeatillust1.jpg" width="600px"/>
+            </def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e255">
+            <form>
+               <orth>barr-fhad</orth>
+            </form>
+            <def>top layer of peat.
+        <graphic url="CarlowayRMacLeodandAMacLennanpeatillust1.jpg" width="600px"/>
+            </def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e266">
+            <form>
+               <orth>caoran</orth>
+            </form>
+            <def>the bottom layer because it was blackest.
+        <graphic url="CarlowayRMacLeodandAMacLennanpeatillust1.jpg" width="600px"/>
+            </def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e277">
+            <form>
+               <orth>dàrna fad</orth>
+            </form>
+            <def>the 2nd layer. The layers in between the top layer and the bottom layer were numbered from the top.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e286">
+            <form>
+               <orth>cor-fhad</orth>
+            </form>
+            <def>the first peat.
+        <graphic url="CarlowayRMacLeodandAMacLennanpeatillust1.jpg" width="600px"/>
+            </def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e297">
+            <form>
+               <orth>gearradh na mònach</orth>
+            </form>
+            <def>peat cutting.
+        <graphic url="CarlowayRMacLeodandAMacLennanpeatillust1.jpg" width="600px"/>
+            </def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e308">
+            <form>
+               <orth>cur-a-mach</orth>
+            </form>
+            <def>throwing or spreading the peats on the bank for drying.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e317">
+            <form>
+               <orth>sadail</orth>
+            </form>
+            <def>throwing of spreading the peats on the bank for drying.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e326">
+            <form>
+               <orth>sgaoilteach</orth>
+            </form>
+            <def>the appearance of the thrown peats.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e335">
+            <form>
+               <orth>gàrradh</orth>
+            </form>
+            <def>the wall of peat laid stagger fashioned [sic] with holes left to allow the air to circulate and thus dry the peats. The wall could be of 2 or 3 rows.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e344">
+            <form>
+               <orth>ath-bhlàr</orth>
+            </form>
+            <def>when the original peat bank was finished and no more peat could be obtained from it, a second peat bank was started where the other one had started.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e353">
+            <form>
+               <orth>bara</orth>
+            </form>
+            <def>wheel-barrow for carrying the peats.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e362">
+            <form>
+               <orth>grabhag</orth>
+            </form>
+            <def>an under-sized peat bank.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e371">
+            <form>
+               <orth>rùdhan</orth>
+            </form>
+            <def>after the peats had been allowed to lie on the bank for a considerable time they were made into piles of different sizes. The first pile is the ‘rùdhan’ and usually consists of 6 peats and 1 on top.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e380">
+            <form>
+               <orth>ath-rùdhan</orth>
+            </form>
+            <def>the 2nd pile of peat. It is the resetting of the 1st pile but it is slightly bigger.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e389">
+            <form>
+               <orth>aiseag</orth>
+            </form>
+            <def>carrying the peats from the bank to a spot near the road.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e398">
+            <form>
+               <orth>cruachadh</orth>
+            </form>
+            <def>small stacks made out on the peat banks.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e407">
+            <form>
+               <orth>ceapadh</orth>
+            </form>
+            <def>placing turf on these small stacks [i.e. cruachadh (q.v.)].</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e416">
+            <form>
+               <orth>tuthadh</orth>
+            </form>
+            <def>placing turf on these small stacks [i.e. cruachadh (q.v.)].</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e425">
+            <form>
+               <orth>tarruing na monach</orth>
+            </form>
+            <def>taking home the peats.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e434">
+            <form>
+               <orth>cliabh</orth>
+            </form>
+            <def>creel.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e443">
+            <form>
+               <orth>bath-chliabh</orth>
+            </form>
+            <def>small creel. The younger people used these as they were lighter.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e452">
+            <form>
+               <orth>dronnag</orth>
+            </form>
+            <def>pack saddle.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e461">
+            <form>
+               <orth>iris</orth>
+            </form>
+            <def>breast band.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e470">
+            <form>
+               <orth>breugan</orth>
+            </form>
+            <def>openings on the creel for the breast bands.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e479">
+            <form>
+               <orth>staingean</orth>
+            </form>
+            <def>spikes on top of creel for breast band.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e488">
+            <form>
+               <orth>tòrr-mònach</orth>
+            </form>
+            <def>heap of peats.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e497">
+            <form>
+               <orth>cruach</orth>
+            </form>
+            <def>stack.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e506">
+            <form>
+               <orth>cruach tighe</orth>
+            </form>
+            <def>peat stack at home.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e515">
+            <form>
+               <orth>stéidheadh</orth>
+            </form>
+            <def>building up the stack.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e524">
+            <form>
+               <orth>’g a do chuir a mach as an fhad</orth>
+            </form>
+            <def>driving the two working ahead of you. When cutting in company you kept your place.</def>
+         </entry>
+         <entry xml:id="Peat_CarlowayRMacLeodandAMacLennanpeat-d0e533">
+            <form>
+               <orth>sgioba</orth>
+            </form>
+            <def>the peat cutting crew.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="CattleandSheep_GlasgowMMacLeodcoin">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: all illustrations are on the second page but in this file they have been placed next to the relevant definitions.]</note>
+            <note>[NOTES: the words have been slipped and therefore, apart from the definitions provided by Mr MacLeod, the definitions from the slips have also been included (unless the two were the same).]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>[Glasgow]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Murdo MacLeod</persName>
+               <persName xml:lang="gd">Murchadh MacLeòid</persName>
+               <birth>
+                  <placeName>Leòdhas, [Lewis], Uig an Iar</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Encouraging a Dog</term>
+               <term xml:lang="gd">Stuigeadh Coin</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodcoin-d0e38">
+            <form>
+               <orth>stuigeadh</orth>
+            </form>
+            <def>“Stuig e an cù.”</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodcoin-d0e47">
+            <form>
+               <orth>casg</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] “Chaisg e an cù.” [NOTES: slipped under ‘caisg’.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodcoin-d0e56">
+            <form>
+               <orth>sgrìob</orth>
+            </form>
+            <def>“Chuir e air falbh air sgrìob e.” “Bheir an cù agam-sa sgrìob cho math ’sa thug cù a riamh.” Sgrìob:
+        <graphic url="GlasgowMMacLeodcoinillust1.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodcoin-d0e67">
+            <form>
+               <orth>seadadh</orth>
+            </form>
+            <def>A’ dealachadh nan caorach bho chèile. Aon, no dhà, no trì, no aireamh eile a mach bho chàch. “Tha e math air an seadadh.” (an cù) [SLIP: Separating one, two or several sheep from the main flock.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodcoin-d0e76">
+            <form>
+               <orth>cù-crodhaidh</orth>
+               <pron>[NOTES: slip not found.]</pron>
+            </form>
+            <def>[NOTES: slip not found.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodcoin-d0e85">
+            <form>
+               <orth>[cròdhadh]</orth>
+            </form>
+            <def>A’ dol timchioll orra agus ’gan cumail. Cròdhadh:
+        <graphic url="GlasgowMMacLeodcoinillust2.jpg" width="200px"/>
+            </def>
+            <note>[NOTES: slip not found.]</note>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodcoin-d0e99">
+            <form>
+               <orth>cù-fuadaich</orth>
+            </form>
+            <def>Cha deanadh an cù-fuadaich càil ach am fuadach fhéin. Chan eil cù-fuadaich aca againne an àite sam bith an diugh cho fada ’s is aithne dhomh. [NOTES: slip not found.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodcoin-d0e108">
+            <form>
+               <orth>[fuadach]</orth>
+            </form>
+            <def>A’ dol dìreach as am deidhidh ’g am fuadach air falbh. Fuadach:
+        <graphic url="GlasgowMMacLeodcoinillust3.jpg" width="200px"/>
+            </def>
+            <note>[NOTES: slip not found.]</note>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodcoin-d0e122">
+            <form>
+               <orth>“Tha an cù a dol cas orra.”</orth>
+            </form>
+            <def>Tha e dol faisg air na caoraich. A’ dol cas riutha:
+        <graphic url="GlasgowMMacLeodcoinillust4.jpg" width="200px"/>
+            </def>
+            <note>[NOTES: slip not found.]</note>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodcoin-d0e136">
+            <form>
+               <orth>“Tha talamh ann.”</orth>
+            </form>
+            <def>Tha e cumail a mach fada bhuapa. Tha talamh ann:
+        <graphic url="GlasgowMMacLeodcoinillust5.jpg" width="200px"/>
+            </def>
+            <note>[NOTES: slipped under ‘talamh’.]</note>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodcoin-d0e150">
+            <form>
+               <orth>“A mach á sin”, “Mach á sin.”</orth>
+            </form>
+            <def>A’ cur a’ choin air falbh.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodcoin-d0e159">
+            <form>
+               <orth>“Thig gu mo chois”, “Gu mo chois.”</orth>
+            </form>
+            <def>A’ toirt a’ choin thugad. Come ahint. “Come(r) ahint” (mar a bhiodh aig fear Port a’ Chuilinn [?]) Anns na Hearadh, an àiteachan có dhiù, ’se “cùl nan cas” a chanas iad ri “Gu mo chois” againne. [NOTES: slipped under ‘cas’.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodcoin-d0e168">
+            <form>
+               <orth>“Mu mo chulaibh.”</orth>
+            </form>
+            <def>’Ga chuir air falbh mu do chùlaibh. [NOTES: slipped under ‘culaibh’.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodcoin-d0e177">
+            <form>
+               <orth>“Fan air d’ais”, “Fan a mach.”</orth>
+            </form>
+            <def>’Ga tharruing air ais a’ dol a mach air an sgrìob. Chan ann ’ga chasg air an sgrìob ach ’ga thoirt air falbh na’s fhaide a mach bho na caoraich. Cuideachd ’ga thoirt air a ais an aghaidh ’s mar a bha e roimhe. [NOTES: slipped under ‘fan’.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodcoin-d0e186">
+            <form>
+               <orth>“Gheàrr e fead.”</orth>
+            </form>
+            <def>’Se ‘gheàrr’ a chanas sinne, có dhiù ri fead mhór le na meòir anns a’ bheul. [NOTES: slipped under ‘fead’.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodcoin-d0e195">
+            <form>
+               <orth>”Sig!”, “Sig a mach á sin.”</orth>
+            </form>
+            <def>’Se seo a chanas sinne ri cù airson a teiche as an rathad ort agus laighe. [NOTES: slipped under ‘sig!’.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowMMacLeodcoin-d0e204">
+            <form>
+               <orth>“Do sheanmhair a stigh an sin!”</orth>
+            </form>
+            <def>’Se seo a chanadh sinne ri cù aig toll airson gu’n tòisicheadh e a’ sgrìobadh. Agus abair gu’n deanadh e sin! [NOTES: slipped under ‘seanmhair’.]</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

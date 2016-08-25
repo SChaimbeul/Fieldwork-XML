@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_DiurinishDMacLennanslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>03/1970</date>
+            <location>
+               <placeName>Ross-shire, Plockton, Diurinish</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Donald MacLennan</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_DiurinishDMacLennanslips-idp162334328">
+            <form>
+               <orth>rùbhan</orth>
+            </form>
+            <def>Quotation: rùbhan mòine.</def>
+         </entry>
+         <entry xml:id="Slips_DiurinishDMacLennanslips-idp162331664">
+            <form>
+               <orth>slat</orth>
+            </form>
+            <def>Quotation: cabar-slatach.</def>
+         </entry>
+         <entry xml:id="Slips_DiurinishDMacLennanslips-idp162348368">
+            <form>
+               <orth>pùlas</orth>
+            </form>
+            <def>Notes: pail or pot handle.</def>
+         </entry>
+         <entry xml:id="Slips_DiurinishDMacLennanslips-idp162349880">
+            <form>
+               <orth>toirsginn</orth>
+               <pron>[t̪ɔʴsɡʹĩnʹ]</pron>
+            </form>
+            <def>[t̪ɔʴsɡʹĩnʹ] </def>
+         </entry>
+         <entry xml:id="Slips_DiurinishDMacLennanslips-idp162351608">
+            <form>
+               <orth>ùrlar</orth>
+            </form>
+            <def>Quotation: ùrlar a’ bhaic. Notes: cut area of peat.</def>
+         </entry>
+         <entry xml:id="Slips_DiurinishDMacLennanslips-idp162353264">
+            <form>
+               <orth>bainne</orth>
+            </form>
+            <def>Quotation: bainne slaman. Notes: curdled milk (rennet added to warm milk).</def>
+         </entry>
+         <entry xml:id="Slips_DiurinishDMacLennanslips-idp162354920">
+            <form>
+               <orth>cìrean</orth>
+            </form>
+            <def>Notes: ridging on a thatched roof. <graphic url="DiurinishDMaclennanslipsillust1.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="Slips_DiurinishDMacLennanslips-idp162356432">
+            <form>
+               <orth>còmhrad</orth>
+               <pron>[kɔ̃:rəd̪]</pron>
+            </form>
+            <def>[kɔ̃:rəd̪] Notes: straight.</def>
+         </entry>
+         <entry xml:id="Slips_DiurinishDMacLennanslips-idp162358160">
+            <form>
+               <orth>cròic</orth>
+            </form>
+            <def>Notes: muzzle put on calves to prevent them suckling.</def>
+         </entry>
+         <entry xml:id="Slips_DiurinishDMacLennanslips-idp162359672">
+            <form>
+               <orth>diaball</orth>
+               <pron>[dʹiɤbəɫ]</pron>
+            </form>
+            <def>[dʹiɤbəɫ] Notes: eaves, the thatch projecting over the top of the wall.</def>
+         </entry>
+         <entry xml:id="Slips_DiurinishDMacLennanslips-idp162361472">
+            <form>
+               <orth>dlòdhan</orth>
+            </form>
+            <def>Quotation: dlòdhan sneachd. Notes: snowflake.</def>
+         </entry>
+         <entry xml:id="Slips_DiurinishDMacLennanslips-idp162363128">
+            <form>
+               <orth>fairich</orth>
+            </form>
+            <def>Notes: always used for “hear”.</def>
+         </entry>
+         <entry xml:id="Slips_DiurinishDMacLennanslips-idp162364640">
+            <form>
+               <orth>fir-chlisnich</orth>
+            </form>
+            <def>Notes: aurora borealis.</def>
+         </entry>
+         <entry xml:id="Slips_DiurinishDMacLennanslips-idp162366152">
+            <form>
+               <orth>fluichneadh</orth>
+               <pron>[flıçṉəɣ]</pron>
+            </form>
+            <def>[flıçṉəɣ] Quotation: fluichneadh shneachd. Notes: sleet.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_TalmineGGowslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1969</date>
+            <location>
+               <placeName>Sutherland, Talmine</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith]</persName>
+            </person>
+            <person role="informant">
+               <persName>George Gow</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_TalmineGGowslips-idp117238032">
+            <form>
+               <orth>lideadh</orth>
+               <pron>[lʹidʹʒu̜]</pron>
+            </form>
+            <def>[lʹidʹʒu̜] Quotation: Cha chluinn mi [lʹidʹʒu̜] Gàidhlig. Notes: I don’t hear a word of Gaelic.</def>
+         </entry>
+         <entry xml:id="Slips_TalmineGGowslips-idp117240192">
+            <form>
+               <orth>treabh-eòrna</orth>
+               <pron>[t̪ɾɑvjɔʴṉ]</pron>
+            </form>
+            <def>[t̪ɾɑvjɔʴṉ] Quotation: Na rinn thu [n̪t̪ɾɑvjɔʴṉ] agad fhathast? Notes: Have you sown your barley yet? [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+         </entry>
+         <entry xml:id="Slips_TalmineGGowslips-idp117242712">
+            <form>
+               <orth>ceabar</orth>
+               <pron>[cɛbəɾ]</pron>
+            </form>
+            <def>[cɛbəɾ] Quotation: ceabar de dh’aran. Notes: ½ bannock with butter and crowdie on it.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

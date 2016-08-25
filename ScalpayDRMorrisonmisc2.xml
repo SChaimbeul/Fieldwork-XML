@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the words have been slipped and therefore, apart from the definitions provided by Mr Morrison, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>02/06/1975</date>
+            <location>
+               <placeName>Na Hearadh, Scalpaigh [Harris, Scalpay]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Donald R. Morrison</persName>
+               <persName xml:lang="gd">Dòmhnall R. Moireasdan</persName>
+               <age>[55]</age>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idola344"
+             subtype="h1">Letter (2/6/1975) and word-list (‘Cruinneachadh de dh’fhaclan’)</ab>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118874032">
+            <form>
+               <orth>srucail</orth>
+            </form>
+            <def>sliding, slithering.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118873312">
+            <form>
+               <orth>strucail</orth>
+            </form>
+            <def>sliding, slithering. A’ srucail a chasan – an old man’s way of walking.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118875112">
+            <form>
+               <orth>luireach</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] armour, tattered old coat. Lùireach de chòt’ air.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118883464">
+            <form>
+               <orth>ua(dh)-ruda</orth>
+            </form>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118880584">
+            <form>
+               <orth>ua-ruda</orth>
+               <pron>[NOTES: the slip is among the “Doubtful” words.]</pron>
+            </form>
+            <def>[NOTES: the slip is among the “Doubtful” words.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118889152">
+            <form>
+               <orth>ribleach</orth>
+            </form>
+            <def>(in ribbons) untidy ends.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118769992">
+            <form>
+               <orth>riobannan</orth>
+            </form>
+            <def>ribbons.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118870648">
+            <form>
+               <orth>riobann</orth>
+            </form>
+            <def>ribbon.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118866184">
+            <form>
+               <orth>ròsaid</orth>
+            </form>
+            <def>resin.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118870792">
+            <form>
+               <orth>rollaisteach</orth>
+            </form>
+            <def>confused, mixture. [NOTES: the slip is among the “Doubtful” words. Catch-word: rolaisteach.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118865320">
+            <form>
+               <orth>rabhladh</orth>
+            </form>
+            <def>fair amount. Tha rabhladh math ann! – Fishermen having a look in their drift-net(s): of fish. [SLIP: Fair amount. Used by fishermen when having a look in their drift-nets.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118864096">
+            <form>
+               <orth>tuing</orth>
+            </form>
+            <def>the rope between the boat and the drift nets, in other words, tow-rope. [SLIP: Tow-rope between boat and drift-nets.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118862440">
+            <form>
+               <orth>tiorraghais</orth>
+            </form>
+            <def>I am not sure of this one. Cho fada ris an tiorraghais. Unless it means t-shiorruidhachd fàis – a matter of guess? Perhaps some other place may have the definition.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118861360">
+            <form>
+               <orth>bancadh</orth>
+            </form>
+            <def>banking.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118859560">
+            <form>
+               <orth>paitseadh</orth>
+            </form>
+            <def>patching.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118857544">
+            <form>
+               <orth>tràileadh</orth>
+            </form>
+            <def>trawling.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118855240">
+            <form>
+               <orth>bonn-a-tacsa</orth>
+            </form>
+            <def>stand.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118853008">
+            <form>
+               <orth>spaideireachd</orth>
+            </form>
+            <def>fashion.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118852072">
+            <form>
+               <orth>spaideil</orth>
+            </form>
+            <def>well dressed. Nach h-e tha spaideil.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118850632">
+            <form>
+               <orth>sporghail</orth>
+            </form>
+            <def>grobing [groping?]. [SLIP: Groping.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118848832">
+            <form>
+               <orth>spuinns</orth>
+            </form>
+            <def>sponge.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118846600">
+            <form>
+               <orth>spithag</orth>
+            </form>
+            <def>splinter (stone). [SLIP: stone splinter.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118798792">
+            <form>
+               <orth>smiùil</orth>
+            </form>
+            <def>prim.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118799656">
+            <form>
+               <orth>spaidseireachd</orth>
+            </form>
+            <def>maurading. [marauding?] [NOTES: the slip is among the “Doubtful” words. Definition: ? Perhaps marauding.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118797496">
+            <form>
+               <orth>spuilleag</orth>
+            </form>
+            <def>a term associated with a wee boy or girl, ’spiller’.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118811320">
+            <form>
+               <orth>smoitseach</orth>
+            </form>
+            <def>billows, smoke.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118810528">
+            <form>
+               <orth>smonaigeadh</orth>
+            </form>
+            <def>smoked. Dha smonaigeadh fhéin – a boat in a spray, in a ‘smoke spray’. Bi thu air do smonaigeadh – smoked.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118822984">
+            <form>
+               <orth>spaglachadh</orth>
+            </form>
+            <def>trimming. Dha spaglachadh fhéin.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118822408">
+            <form>
+               <orth>tigh-smogaidh</orth>
+            </form>
+            <def>kipper-house (for kippering herring).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118813120">
+            <form>
+               <orth>tigh-stòir</orth>
+            </form>
+            <def>store-house.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp118818232">
+            <form>
+               <orth>tigh-dubh</orth>
+            </form>
+            <def>black-house, thatched house in the Highlands of Scotland in 19th and the early part of the 20th century.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp120013352">
+            <form>
+               <orth>tigh-sheinnse</orth>
+            </form>
+            <def>ale house, hotel.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp120009464">
+            <form>
+               <orth>tigh-na-bochd</orth>
+            </form>
+            <def>old peoples home.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp120006368">
+            <form>
+               <orth>bothag-cheap</orth>
+            </form>
+            <def>turf-bothy.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp120002840">
+            <form>
+               <orth>bòthag</orth>
+            </form>
+            <def>lark, bird. Bòthag-mhara – sea-lark.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116742936">
+            <form>
+               <orth>chorra-ghlas</orth>
+            </form>
+            <def>corn-crake or of the corn-crake species. It may not be in the list of bird-names. I take it as we in Scalpay term it: the bird.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116744664">
+            <form>
+               <orth>mulgaire</orth>
+            </form>
+            <def>I think there is a bird of this name. It may not appear in the present lists of bird-names. It pushes, and digs, pushes other birds, it may be of the làmhaire or còin-dhubha species. You may come across it somewhere or other places may have the name for a bird or the word. [NOTES: the slip is among the “Doubtful” words. Definition: Some species of bird?]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116746392">
+            <form>
+               <orth>eun-dubh</orth>
+            </form>
+            <def>sea-bird about the same size as a puffin with black short beak; black of course but for a white feather showing on its wing, its side. [NOTES: the slip is among the “Doubtful” words. Definition: Sea-bird (same size as puffin with black, short beak and white feathers on side).]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116749056">
+            <form>
+               <orth>bagaid</orth>
+            </form>
+            <def>cluster. Bagaid de chnòthan.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116750784">
+            <form>
+               <orth>tug</orth>
+            </form>
+            <def>spark. Cha’n’eil mi faighinn tig [sic] ás. This term used in the instance of a car engine or any engine refusing to start. [SLIP: Spark – e.g. of car engine.] [NOTES: the quotation on the slip – ‘Chan eil mi faighinn tug às.’]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116752944">
+            <form>
+               <orth>marbhalachd</orth>
+            </form>
+            <def>deadliness.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116754456">
+            <form>
+               <orth>meantraigeadh</orth>
+            </form>
+            <def>venture.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116756040">
+            <form>
+               <orth>sgàrd</orth>
+            </form>
+            <def>broken completely. Rinn e direach sgàrd dhe. Especially in the case of a cup or saucer or any utensil. [SLIP: Completely broken. Used especially of a cup, saucer or any utensil.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116758344">
+            <form>
+               <orth>stiùir</orth>
+            </form>
+            <def>antennae (lobster). [NOTES: the slip is among the “Doubtful” words.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116760072">
+            <form>
+               <orth>clipean</orth>
+            </form>
+            <def>a bait cut from the side of a big fish, a strip of fish on a hook being pulled after a moving boat to attract the fish. Fishing likewise le clipean – putting it this way: ‘dragging an artificial eel’. [SLIP: A strip of fish on a hook, used as bait and pulled after a moving boat to attract the fish.] [NOTES: in another word-list sent in by Mr Morrison, this word is spelled ‘cliopan’ and explained as ‘fish-lure’.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116762808">
+            <form>
+               <orth>croitse</orth>
+            </form>
+            <def>crutch.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116764320">
+            <form>
+               <orth>sgudadh</orth>
+            </form>
+            <def>sgudding [sic] [scudding?].</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116765832">
+            <form>
+               <orth>ball-mor</orth>
+            </form>
+            <def>a fisherman’s term for a length of rope behind the main mast. [NOTES: the slip has ‘ball-mór’.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116767632">
+            <form>
+               <orth>dubhan-beòil</orth>
+            </form>
+            <def>a hook in the gunwale of a boat.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116769144">
+            <form>
+               <orth>duin’-iaruinn</orth>
+            </form>
+            <def>fishing net hand hauler winch or hand (iron) winch for hauling nets. [SLIP: Hand winch for hauling in nets.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116770872">
+            <form>
+               <orth>cnàmhag</orth>
+            </form>
+            <def>segments of oatmeal in water.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116772600">
+            <form>
+               <orth>garbhag</orth>
+            </form>
+            <def>sprat (fish).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116774112">
+            <form>
+               <orth>spleadharsaich</orth>
+            </form>
+            <def>acting. [NOTES: the slip is among the “Doubtful” words.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116775840">
+            <form>
+               <orth>blasdadh</orth>
+            </form>
+            <def>blasting.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116777352">
+            <form>
+               <orth>splaidsearachd</orth>
+            </form>
+            <def>splashing.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116778864">
+            <form>
+               <orth>spliuc</orth>
+            </form>
+            <def>frown.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116780376">
+            <form>
+               <orth>sturaiceach</orth>
+            </form>
+            <def>sulky.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116781888">
+            <form>
+               <orth>stàrachd</orth>
+            </form>
+            <def>patrol, walking back and fore. [SLIP: Walking to and fro; patrol.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116783616">
+            <form>
+               <orth>studaigeadh</orth>
+            </form>
+            <def>studding.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116786928">
+            <form>
+               <orth>lionsgaradh</orth>
+            </form>
+            <def>knowledge acquired or store of knowledge, or ability of extraordinary deliverance in speech. Perhaps you will [sic] [receive? get?] other versions of meaning from other sources. I think you will?</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116788440">
+            <form>
+               <orth>godalaich</orth>
+            </form>
+            <def>mumbling.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116789952">
+            <form>
+               <orth>òpar</orth>
+            </form>
+            <def>mud stains on the bottom part of a trouser.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116791680">
+            <form>
+               <orth>lùbarnach</orth>
+            </form>
+            <def>hero. Bu tu mo lùbarnach.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116793408">
+            <form>
+               <orth>caomhan</orth>
+            </form>
+            <def>young boy, young mild boy. A chaomhain ghlais. [SLIP: Young, mild-mannered boy.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116795280">
+            <form>
+               <orth>amaladh</orth>
+            </form>
+            <def>(also) planking a wooden boat or ship by wooden pegs.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116796792">
+            <form>
+               <orth>stùr</orth>
+            </form>
+            <def>stoor.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116798520">
+            <form>
+               <orth>goile</orth>
+            </form>
+            <def>gullet. Shios ’na ghoile (fish). [SLIP: Of fish – gullet.]</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idola345"
+             subtype="h2">(common)</ab>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116802120">
+            <form>
+               <orth>basgaid</orth>
+            </form>
+            <def>basket.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116803848">
+            <form>
+               <orth>crann</orth>
+            </form>
+            <def>mast, tree, etc.; crann-sgadain.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116805576">
+            <form>
+               <orth>crann-sgadain</orth>
+            </form>
+            <def>measurement of herring (4 basket full).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116807088">
+            <form>
+               <orth>crann-beairte</orth>
+            </form>
+            <def>the roller on which the tweed is wound.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116808600">
+            <form>
+               <orth>crann-treabhaidh</orth>
+            </form>
+            <def>plough.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116810328">
+            <form>
+               <orth>àradh</orth>
+            </form>
+            <def>ladder (we say àradh).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116811840">
+            <form>
+               <orth>socadh</orth>
+            </form>
+            <def>(also) settling.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116813568">
+            <form>
+               <orth>sòrnadh</orth>
+            </form>
+            <def>rest for a burden.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116815296">
+            <form>
+               <orth>stùrs</orth>
+            </form>
+            <def>stoor. Chuir iad stùrs ás. [SLIP: Dust.] [NOTES: there is a question mark on the slip.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116817312">
+            <form>
+               <orth>drochaid</orth>
+            </form>
+            <def>bridge of a ship.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116819040">
+            <form>
+               <orth>cèibein</orth>
+            </form>
+            <def>caban [sic] (boat). [SLIP: Cabin (boat).] [NOTES: There is a question mark on the slip.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116820912">
+            <form>
+               <orth>tigh-cuibhleadh</orth>
+            </form>
+            <def>wheel-house.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116822424">
+            <form>
+               <orth>dubh-cheann</orth>
+            </form>
+            <def>black-head. Caora dhubh cheannach.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116824296">
+            <form>
+               <orth>maol</orth>
+            </form>
+            <def>bald. Ceann maol sgalach.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116826168">
+            <form>
+               <orth>beadadh</orth>
+            </form>
+            <def>tacking.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116827680">
+            <form>
+               <orth>tac</orth>
+            </form>
+            <def>tack (boat).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116829408">
+            <form>
+               <orth>fear-tac(d)</orth>
+            </form>
+            <def>tacksman.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc2-idp116831136">
+            <form>
+               <orth>-h-emadh</orth>
+            </form>
+            <def>stemming, jaming [sic].</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

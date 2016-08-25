@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Agriculture_EdinburghSCUrquhartaiteach">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[1975 – see the two letters attached to the questionnaire]</date>
+            <location>
+               <placeName>Edinburgh</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Sarah Clementina Urquhart</persName>
+               <age>80+</age>
+               <birth>
+                  <placeName>Bràigh-Lochabar [Brae Lochaber]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Agriculture</term>
+               <term xml:lang="gd">Àiteach</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e31"
+             subtype="h1">1. Na togalaichean: sobhal, bàthach is mar sin, agus ainm gach pàirt dhiubh</ab>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e36">
+            <form>
+               <orth>am bàthaich</orth>
+            </form>
+            <def>the byre.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e45">
+            <form>
+               <orth>mullach an taighe</orth>
+            </form>
+            <def>the roof.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e54">
+            <form>
+               <orth>na sgliadan</orth>
+            </form>
+            <def>the slates.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e63">
+            <form>
+               <orth>an crò, na cròthan</orth>
+            </form>
+            <def>the stall, the stalls.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e72">
+            <form>
+               <orth>an ceangal</orth>
+            </form>
+            <def>the fastening in the stall.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e81">
+            <form>
+               <orth>an teothair</orth>
+            </form>
+            <def>the rope tied round the hind legs to prevent kicks, also a tether in a field.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e90">
+            <form>
+               <orth>an dorus</orth>
+            </form>
+            <def>the door.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e99">
+            <form>
+               <orth>bith an doruis</orth>
+            </form>
+            <def>the space between the hinged side of the door and the wall.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e108">
+            <form>
+               <orth>an ursainn</orth>
+            </form>
+            <def>the wooden frame of the doorway.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e117">
+            <form>
+               <orth>an sabhull</orth>
+            </form>
+            <def>the barn.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e126">
+            <form>
+               <orth>am fiar</orth>
+            </form>
+            <def>the hay.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e135">
+            <form>
+               <orth>am fàradh</orth>
+            </form>
+            <def>the ladder.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e144">
+            <form>
+               <orth>an iodhlann</orth>
+            </form>
+            <def>the space fenced off for hay and corn stacks.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e153">
+            <form>
+               <orth>sguab arbhair</orth>
+            </form>
+            <def>a corn sheaf.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e162">
+            <form>
+               <orth>cruach arbhair</orth>
+            </form>
+            <def>stack of corn.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e171">
+            <form>
+               <orth>cruach fhèoir</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] stack of hay.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e180">
+            <form>
+               <orth>tigh nan cearc</orth>
+            </form>
+            <def>the hen-house.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e189">
+            <form>
+               <orth>spiris is nid</orth>
+            </form>
+            <def>roosts and nests.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e198">
+            <form>
+               <orth>piob-uisge is tuba airson a chruidh</orth>
+            </form>
+            <def>water tap and tub for the cattle.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e207">
+            <form>
+               <orth>an dún</orth>
+            </form>
+            <def>the midden.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e216">
+            <form>
+               <orth>cartadh a’ bhàthaich</orth>
+            </form>
+            <def>cleaning out the byre.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e225">
+            <form>
+               <orth>an taigh-bhainne</orth>
+            </form>
+            <def>the dairy.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e234">
+            <form>
+               <orth>sgeilpean airson na mìosan-bainne</orth>
+            </form>
+            <def>shelves to accommodate the milk-basins.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e243">
+            <form>
+               <orth>an siolachan</orth>
+            </form>
+            <def>the sieve.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e252">
+            <form>
+               <orth>bainne math</orth>
+            </form>
+            <def>sweet milk.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e261">
+            <form>
+               <orth>bainne goirt</orth>
+            </form>
+            <def>sour milk.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e270">
+            <form>
+               <orth>an t-uachdar</orth>
+            </form>
+            <def>cream.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e279">
+            <form>
+               <orth>am muighe</orth>
+            </form>
+            <def>the churn.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e288">
+            <form>
+               <orth>am fuarag</orth>
+            </form>
+            <def>cream after a short period of churning was a very desirable drink.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e297">
+            <form>
+               <orth>am blàthach</orth>
+            </form>
+            <def>buttermilk.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e306">
+            <form>
+               <orth>ìm úr</orth>
+            </form>
+            <def>fresh butter.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e315">
+            <form>
+               <orth>ìm sàilt</orth>
+            </form>
+            <def>salt butter.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e324">
+            <form>
+               <orth>a’ bhinid</orth>
+            </form>
+            <def>rennet.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e333">
+            <form>
+               <orth>an grudh</orth>
+            </form>
+            <def>croudy [sic].</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e342">
+            <form>
+               <orth>an gruidheam</orth>
+            </form>
+            <def>croudy [sic].</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e351">
+            <form>
+               <orth>an slaman</orth>
+            </form>
+            <def>curds.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e360">
+            <form>
+               <orth>am méog</orth>
+            </form>
+            <def>whey.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e369">
+            <form>
+               <orth>am fiodhan</orth>
+            </form>
+            <def>the cheese press.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e378">
+            <form>
+               <orth>mulchag (f) chàise</orth>
+            </form>
+            <def>a cheese.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e387">
+            <form>
+               <orth>am fuaran</orth>
+            </form>
+            <def>the well.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e396">
+            <form>
+               <orth>an t-allt</orth>
+            </form>
+            <def>the burn.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e405">
+            <form>
+               <orth>an t-srúlag</orth>
+            </form>
+            <def>the little burn.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e414">
+            <form>
+               <orth>an geata</orth>
+            </form>
+            <def>the gate.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e423">
+            <form>
+               <orth>an cachila</orth>
+            </form>
+            <def>(English ‘l’) A gate contrived by slipping a thick stick or two through loops on each side of a wall or dyke.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e431"
+             subtype="h1">2. A’ mathachadh no a’ leasachadh na talmhainn</ab>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e436">
+            <form>
+               <orth>inneir</orth>
+            </form>
+            <def>manure.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e444"
+             subtype="h1">3. A’ treabhadh no a’ ruamhar: an crann agus ainm gach pàirt dheth</ab>
+         <ab type="heading"
+             xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e448"
+             subtype="h1">4. Innealan beaga leithid spaid, gràp, ràcan is mar sin</ab>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e453">
+            <form>
+               <orth>an corran</orth>
+            </form>
+            <def>the sickle.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e462">
+            <form>
+               <orth>a’ ghràib</orth>
+            </form>
+            <def>the graip.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e471">
+            <form>
+               <orth>a’ chlach-ghiaraichidh</orth>
+            </form>
+            <def>the whetting stone.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e480">
+            <form>
+               <orth>an ràcan (maide)</orth>
+            </form>
+            <def>the rake.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e489">
+            <form>
+               <orth>am faobhar</orth>
+            </form>
+            <def>the cutting edge of knife / (scythe?).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e497"
+             subtype="h1">5. Acfhuinn an eich airson gach seòrsa obair</ab>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e502">
+            <form>
+               <orth>diollaid</orth>
+            </form>
+            <def>saddle.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e510"
+             subtype="h1">6. A’ cur an t-sìl</ab>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e515">
+            <form>
+               <orth>an talamh</orth>
+            </form>
+            <def>the ground.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e524">
+            <form>
+               <orth>an dail</orth>
+            </form>
+            <def>the field.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e533">
+            <form>
+               <orth>an achadh</orth>
+            </form>
+            <def>the field.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e542">
+            <form>
+               <orth>an iomaire</orth>
+            </form>
+            <def>a field (?) in the run-rig system.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e551">
+            <form>
+               <orth>an t-slochd</orth>
+            </form>
+            <def>low land with high ground in the immediate vicinity.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e560">
+            <form>
+               <orth>an comhnard</orth>
+            </form>
+            <def>level ground. [NOTES: the last item in pencil and hardly visible; maybe it was meant to be erased like the one below it.]</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e568"
+             subtype="h1">7. A’ buain agus a’ tiormachadh an arbhair no an fheòir</ab>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e573">
+            <form>
+               <orth>am fàladair</orth>
+            </form>
+            <def>the scythe.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e582">
+            <form>
+               <orth>an soc</orth>
+            </form>
+            <def>the front part of the scythe.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e591">
+            <form>
+               <orth>an corran</orth>
+            </form>
+            <def>the sickle.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e600">
+            <form>
+               <orth>am fiar</orth>
+            </form>
+            <def>the hay.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e609">
+            <form>
+               <orth>na prabagan</orth>
+            </form>
+            <def>very small bundles of new mown hay laid on the ground to dry.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e618">
+            <form>
+               <orth>sguab arbhair</orth>
+            </form>
+            <def>a sheaf of corn.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e627">
+            <form>
+               <orth>adag</orth>
+            </form>
+            <def>a corn stook.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e636">
+            <form>
+               <orth>a’ chruach arbhair</orth>
+            </form>
+            <def>corn stack.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e645">
+            <form>
+               <orth>ultach fhèoir</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] a bundle of hay.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e654">
+            <form>
+               <orth>eallach fhèoir</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] a load of hay.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e663">
+            <form>
+               <orth>am fochunn</orth>
+            </form>
+            <def>young growing corn.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e672">
+            <form>
+               <orth>sioman fodair</orth>
+            </form>
+            <def>a rope made of twisted straw carrying a stone as a weight and used for securing the thatch on the stack.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e680"
+             subtype="h1">8. A’ togail a’ bhuntàta</ab>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e685">
+            <form>
+               <orth>buntàta geal</orth>
+            </form>
+            <def>white potato.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e694">
+            <form>
+               <orth>buntàta dubh</orth>
+            </form>
+            <def>black potato.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e703">
+            <form>
+               <orth>an dúc bhuntata</orth>
+            </form>
+            <def>the potato pit. The potatoes were arranged in this form on the field insulated with straw and covered with a thick layer of soil.
+      <graphic url="EdinburghSCUrquhartaiteachillust1.jpg" width="200px"/>
+	           </def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e714">
+            <form>
+               <orth>galar a bhuntàta</orth>
+            </form>
+            <def>potato disease.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e722"
+             subtype="h1">9. A’ tasgadh an arbhair agus a’ bhuntàta</ab>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e727">
+            <form>
+               <orth>[cruach]</orth>
+            </form>
+            <def>Rinneadh cruach chruinn de na sguaban, an siol ris an taobh asteach. Ar leam gun robh a chruach air a tughadh le luachair.</def>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e736">
+            <form>
+               <orth>[dúc]</orth>
+            </form>
+            <def>Bha am buntàta air a chruinneachadh ann an dúc agus a chomhdachadh le fodar agus an déigh sin le úir los nach fhaigheadh an t-uisge no ’n rèothadh ’na charaibh.
+	    <graphic url="EdinburghSCUrquhartaiteachillust2.jpg" width="200px"/>
+	           </def>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e746"
+             subtype="h1">10. A’ bualadh ’s a’ criathradh</ab>
+         <ab type="heading"
+             xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e750"
+             subtype="h1">11. A’ bleith an t-sìl</ab>
+         <ab type="heading"
+             xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e754"
+             subtype="h1">12. Ainmean a chleachdar ri earrainn fearainn</ab>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e759">
+            <form>
+               <orth>dail</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e765">
+            <form>
+               <orth>achadh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e771">
+            <form>
+               <orth>iomaire</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e776"
+             subtype="h1">13. Faclan sam bith eile</ab>
+      </body>
+   </text>
+</TEI>

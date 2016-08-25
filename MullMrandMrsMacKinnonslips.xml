@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Slips_MullMrandMrsMacKinnonslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1967</date>
+            <location>
+               <placeName>Mull</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>Mr and Mrs Angus MacKinnon</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_MullMrandMrsMacKinnonslips-idp119242696">
+            <form>
+               <orth>mend</orth>
+            </form>
+            <def>Quotation: Am mend thu e? Notes: Will you manage it? (Attributed to Islay usage by Angus MacKinnon.)</def>
+         </entry>
+         <entry xml:id="Slips_MullMrandMrsMacKinnonslips-idp119244352">
+            <form>
+               <orth>sgrog</orth>
+            </form>
+            <def>Quotation: Tog sgrog. Notes: Eat up! Have something! (Attributed to Islay usage by Angus MacKinnon.)</def>
+         </entry>
+         <entry xml:id="Slips_MullMrandMrsMacKinnonslips-idp119246008">
+            <form>
+               <orth>sneachda</orth>
+            </form>
+            <def>Quotation: sneachda biorach. Notes: small-flaked, powdery snow.</def>
+         </entry>
+         <entry xml:id="Slips_MullMrandMrsMacKinnonslips-idp119247664">
+            <form>
+               <orth>bronagail</orth>
+            </form>
+            <def>Quotation: Dé bhronagail a th’ort? Notes: muttering.</def>
+         </entry>
+         <entry xml:id="Slips_MullMrandMrsMacKinnonslips-idp119249320">
+            <form>
+               <orth>clàdan</orth>
+            </form>
+            <def>Notes: large-flaked snow.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location corresp="Harris_Kyles_Stockinish"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="anonymous_D"/>
+        <person role="informant" corresp="Donald_MacLeod_Harris_Kyles_Stockinish"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Herring-Fishing</term>
+          <term xml:lang="gd">Iasgach an Sgadain</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring-d0e26">1. Fish location by natural means</head>
+        <div>
+          <head xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring-d0e30">1.1. Listening</head>
+          <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring-d0e35">
+            <form>
+              <orth>a’ cluiche</orth>
+            </form>
+            <def>listening for a herring or other fish’s breaking the surface, a much less distinct sound.</def>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring-d0e43">1.2. Losgadh / the burning</head>
+          <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring-d0e48">
+            <form>
+              <orth>sgiolltar (Bays) (jelly fish)</orth>
+            </form>
+            <def>phosphorescence in the sea.</def>
+          </entry>
+          <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring-d0e57">
+            <form>
+              <orth>sgiolltair</orth>
+            </form>
+            <def>the first sparks of ‘burning’ in early evening.</def>
+          </entry>
+          <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring-d0e66">
+            <form>
+              <orth>sgadan a losgadh</orth>
+            </form>
+            <def>individual herring seen in the ‘burning’; a thin shoal seen in the burning; a large shoal seen in the burning.</def>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring-d0e74">1.3. Herring-feeding</head>
+        </div>
+        <div>
+          <head xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring-d0e78">1.4. The gannet / emhsan</head>
+          <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring-d0e83">
+            <form>
+              <orth>a’ bualadh</orth>
+            </form>
+            <def>the high vertical plummet of gannet working on herring.</def>
+          </entry>
+          <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring-d0e92">
+            <form>
+              <orth>bualadh air “sheef”</orth>
+            </form>
+            <def>the skimming dive of a gannet, perhaps on mackerel or fry on the surface.</def>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring-d0e100">1.5. Miscellaneous</head>
+          <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring-d0e105">
+            <form>
+              <orth>“smelt”</orth>
+            </form>
+            <def>fiadh air a mhuir a deidh do sgadan a bhi ann.</def>
+          </entry>
+        </div>
+      </div>
+      <div>
+        <head xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring-d0e113">2. The ring-net</head>
+        <div>
+          <head xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring-d0e117">2.1. Its construction</head>
+        </div>
+        <div>
+          <head xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring-d0e121">2.2. Setting up and mending a ring-net</head>
+        </div>
+        <div>
+          <head xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring-d0e125">2.3. The buoy</head>
+          <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring-d0e130">
+            <form>
+              <orth>bollachan</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring-d0e136">
+            <form>
+              <orth>“wager”</orth>
+            </form>
+            <def>the plug of buoy, short for watcher.</def>
+          </entry>
+          <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring-d0e145">
+            <form>
+              <orth>spring</orth>
+            </form>
+            <def>the string by which buoy is attached to back-rope.</def>
+          </entry>
+        </div>
+      </div>
+      <div>
+        <head xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring-d0e153">3. Fishing</head>
+        <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring-d0e158">
+          <form>
+            <orth>a’ cur ’s a tarruing</orth>
+          </form>
+          <def>the shooting [and towing of the net].</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring-d0e167">
+          <form>
+            <orth>brailer</orth>
+          </form>
+          <def>[?] hauling net.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodherring-d0e176">
+          <form>
+            <orth>brèilear</orth>
+          </form>
+          <def>hauling net.</def>
+        </entry>
+        <note>[NOTES: it is not clear if the last two words are variants. The second seems to be a later addition (different ink) and may be a clarification of the first, which is illegible.]</note>
+      </div>
+    </body>
+  </text>
+</TEI>

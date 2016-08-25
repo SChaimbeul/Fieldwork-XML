@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="AOHenley_ClarkstonRMacNeilaiteach">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[1987-88]</date>
+            <location>
+               <placeName>Glasgow, Clarkston</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>A. O’Henley [and self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Roderick MacNeil</persName>
+               <persName xml:lang="gd">Ruaraidh MacNeill</persName>
+               <age>69</age>
+               <birth>
+                  <placeName>[Barra]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Agriculture</term>
+               <term xml:lang="gd">Àiteach</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e36"
+             subtype="h1">1. Na togalaichean: sobhal, bàthach is mar sin, agus ainm gach pàirt dhiubh</ab>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idola1">
+            <form>
+               <orth>sparr</orth>
+            </form>
+            <def>
+               <graphic url="ClarkstonRMacNeilaiteachillust1.jpg" width="300px"/>
+            </def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idola2">
+            <form>
+               <orth>ceangal</orth>
+            </form>
+            <def>
+               <graphic url="ClarkstonRMacNeilaiteachillust1.jpg" width="300px"/>
+            </def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idola3">
+            <form>
+               <orth>àrd-dorus</orth>
+            </form>
+            <def>
+               <graphic url="ClarkstonRMacNeilaiteachillust1.jpg" width="300px"/>
+            </def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idola4">
+            <form>
+               <orth>fàd-bhuinn</orth>
+            </form>
+            <def>
+               <graphic url="ClarkstonRMacNeilaiteachillust1.jpg" width="300px"/>
+            </def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idola5">
+            <form>
+               <orth>sìoman</orth>
+            </form>
+            <def>air taigh, bàthach no sobhal air a thugadh.<graphic url="ClarkstonRMacNeilaiteachillust2.jpg" width="700px"/>
+            </def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idola6">
+            <form>
+               <orth>màthair shiomain</orth>
+            </form>
+            <def>air taigh, bàthach no sobhal air a thugadh.<graphic url="ClarkstonRMacNeilaiteachillust2.jpg" width="700px"/>
+            </def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idola7">
+            <form>
+               <orth>clachan acraich</orth>
+            </form>
+            <def>air taigh, bàthach no sobhal air a thugadh.<graphic url="ClarkstonRMacNeilaiteachillust2.jpg" width="700px"/>
+            </def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idola8">
+            <form>
+               <orth>sparran feannaig</orth>
+            </form>
+            <def>air taigh, bàthach no sobhal air a thugadh.<graphic url="ClarkstonRMacNeilaiteachillust2.jpg" width="700px"/>
+            </def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp112067512">
+            <form>
+               <orth>stàl (stàlaichean)</orth>
+            </form>
+            <def>na h-aitean air leth airson gach beathach.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp112064848">
+            <form>
+               <orth>clais</orth>
+            </form>
+            <def>gu glacadh a’ bhuachair agus a’ mhùin.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp112090696">
+            <form>
+               <orth>feadan</orth>
+            </form>
+            <def>Ann an sobhal – fosgladh anns a’ bhalla aig a’ cheann mu choinneamh an doruis; mu ochd òirlich dheug gach taobh gu sruth gaoithe a dhèanamh; seo airson càthadh.<graphic url="ClarkstonRMacNeilaiteachillust3.jpg" width="300px"/>
+            </def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e144"
+             subtype="h1">2. A’ mathachadh no a’ leasachadh na talmhainn</ab>
+         <ab type="heading"
+             xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e148"
+             subtype="h1">3. A’ treabhadh no a’ ruamhar: an crann agus ainm gach pàirt dheth</ab>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp112094296">
+            <form>
+               <orth>crann</orth>
+            </form>
+            <def>mar ann an ‘Dwelly’ ach am facal ‘bòrd ùiridh’ (mould board).</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2416208">
+            <form>
+               <orth>spaid</orth>
+            </form>
+            <def>
+               <graphic url="ClarkstonRMacNeilaiteachillust4.jpg" width="300px"/>croisein, cas, claigeann.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e171"
+             subtype="h1">4. Innealan beaga leithid spaid, gràp, ràcan is mar sin</ab>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2419952">
+            <form>
+               <orth>sgrìoban</orth>
+            </form>
+            <def>car coltach ri ràcan ach nas giorra agus nas gairbhe. ’Se am feum a bha ann, gu lìonadh nan toll anns an cuirte buntata ann an feannaig no ann an achadh beag no gàradh. Seo an obair a dhèante le cliath air achadh nas motha. <graphic url="ClarkstonRMacNeilaiteachillust5.jpg" width="300px"/>
+            </def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2495728">
+            <form>
+               <orth>pleadhan</orth>
+            </form>
+            <def>gu dèanamh nan toll anns an cuirte am buntàta. <graphic url="ClarkstonRMacNeilaiteachillust6.jpg" width="150px"/>
+            </def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e195"
+             subtype="h1">5. Acfhuinn an eich airson gach seòrsa obair</ab>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2498752">
+            <form>
+               <orth>srian</orth>
+            </form>
+            <def>mar san dealbh.<graphic url="ClarkstonRMacNeilaiteachillust7.jpg" width="700px"/>
+            </def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2500696">
+            <form>
+               <orth>taod</orth>
+            </form>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2502640">
+            <form>
+               <orth>a’ mhinichgneag</orth>
+            </form>
+            <def>mar san dealbh.<graphic url="ClarkstonRMacNeilaiteachillust7.jpg" width="700px"/>
+            </def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2504584">
+            <form>
+               <orth>a’ phlàda</orth>
+            </form>
+            <def>mar san dealbh.<graphic url="ClarkstonRMacNeilaiteachillust7.jpg" width="700px"/>
+            </def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2506528">
+            <form>
+               <orth>an t-srathair</orth>
+            </form>
+            <def>mar san dealbh.<graphic url="ClarkstonRMacNeilaiteachillust7.jpg" width="700px"/>
+            </def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2508472">
+            <form>
+               <orth>an crios bruinne</orth>
+            </form>
+            <def>mar san dealbh.<graphic url="ClarkstonRMacNeilaiteachillust7.jpg" width="700px"/>
+            </def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2510416">
+            <form>
+               <orth>na cleibh</orth>
+            </form>
+            <def>mar san dealbh.<graphic url="ClarkstonRMacNeilaiteachillust7.jpg" width="700px"/>
+            </def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2512360">
+            <form>
+               <orth>na h-irisean</orth>
+            </form>
+            <def>mar san dealbh.<graphic url="ClarkstonRMacNeilaiteachillust7.jpg" width="700px"/>
+            </def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2514304">
+            <form>
+               <orth>na criosan</orth>
+            </form>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2516248">
+            <form>
+               <orth>am bodrachan</orth>
+            </form>
+            <def>mar san dealbh.<graphic url="ClarkstonRMacNeilaiteachillust7.jpg" width="700px"/>
+            </def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2519272">
+            <form>
+               <orth>an sac</orth>
+            </form>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2521216">
+            <form>
+               <orth>dol fon bhroinn</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e303"
+             subtype="h1">6. A’ cur an t-sìl</ab>
+         <ab type="heading"
+             xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e307"
+             subtype="h1">7. A’ buain agus a’ tiormachadh an arbhair no an fheòir</ab>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2524960">
+            <form>
+               <orth>a’ dèanamh bhannan</orth>
+            </form>
+            <def>bannan le dùsan sop comhlaich neo uime sin gus an sguab a cheangal.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2526472">
+            <form>
+               <orth>a’ ceangal</orth>
+            </form>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2527984">
+            <form>
+               <orth>sgaoileadh air a’ bhann</orth>
+            </form>
+            <def>sgaoileadh na sguaibe gus a tiormachadh ma ghabh i an t-uisge.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2529568">
+            <form>
+               <orth>a’ taghadh (an fheòir)</orth>
+            </form>
+            <def>a’ toirt as luibhean nach ith beathach.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2531080">
+            <form>
+               <orth>roladh (an fheòir)</orth>
+            </form>
+            <def>an deidh a thaghadh [q.v.] agus a chrathadh, le ràcan.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2532592">
+            <form>
+               <orth>crathadh</orth>
+            </form>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2534104">
+            <form>
+               <orth>a’ cocadh</orth>
+            </form>
+            <def>ga chur an cocannan.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2535616">
+            <form>
+               <orth>cruach</orth>
+            </form>
+            <def>feur no arbhar san iodhlainn deiseil airson geamhraidh no earraich. Cruach agus dais air an gleidheadh le sioman agus clachan acraich.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2537128">
+            <form>
+               <orth>dais</orth>
+            </form>
+            <def>mar chruaich ach air feur agus air cumadh. Cruach agus dais air an gleidheadh le sioman agus clachan acraich. <graphic url="ClarkstonRMacNeilaiteachillust8.jpg" width="300px"/>
+            </def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e387"
+             subtype="h1">8. A’ togail a’ bhuntàta</ab>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2539504">
+            <form>
+               <orth>bùthag</orth>
+            </form>
+            <def>
+               <graphic url="ClarkstonRMacNeilaiteachillust9.jpg" width="500px"/>toll san talamh air a’ chumadh seo air a lìnigeadh le comhlaich agus air a còmhdach le uir agus le pluic neo sgrathan. Mar bu trice air a dèanamh air an talamh bhuntàta no glè fhaisg air gus am buntàta a ghleidheadh gus an cuirte feum air.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e401"
+             subtype="h1">9. A’ tasgadh an arbhair agus a’ bhuntàta</ab>
+         <ab type="heading"
+             xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e405"
+             subtype="h1">10. A’ bualadh ’s a’ criathradh</ab>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2542960">
+            <form>
+               <orth>sùisde</orth>
+            </form>
+            <def>gus an siol agus an calg a thearbadh bho’n chomhlaich.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2544544">
+            <form>
+               <orth>criathar</orth>
+            </form>
+            <def>gus an siol a thearbadh bho’n chalg no bho’n mholl.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2546056">
+            <form>
+               <orth>moll</orth>
+            </form>
+            <def>còmhdach as fhaide a-muigh air an t-sìol.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e436"
+             subtype="h1">11. A’ bleith an t-sìl</ab>
+         <ab type="heading"
+             xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e440"
+             subtype="h1">12. Ainmean a chleachdar ri earrainn fearainn</ab>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2549296">
+            <form>
+               <orth>earann</orth>
+            </form>
+            <def>pìos no pìosan de fhearann comhla ri pàirt ann am mòr-fhearann (common grazing). Nas lugha feum airson àiteach no ionaltradh na croit.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e453"
+             subtype="h1">13. Faclan sam bith eile</ab>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2551672">
+            <form>
+               <orth>sùgan</orth>
+            </form>
+            <def>pìos de ròpa – meadhonach garbh – airson ceangal rud sam bith agus a ghiulain air druim duine leis an t-sùgan thar na guailne.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

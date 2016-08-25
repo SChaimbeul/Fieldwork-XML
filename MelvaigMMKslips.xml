@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_MelvaigMMKslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>12/1969</date>
+            <location>
+               <placeName>Melvaig</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>M.M.K.</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_MelvaigMMKslips-idp167337232">
+            <form>
+               <orth>losgadh</orth>
+            </form>
+            <def>Notes: phosphorescence in the sea.</def>
+         </entry>
+         <entry xml:id="Slips_MelvaigMMKslips-idp167338744">
+            <form>
+               <orth>magall</orth>
+            </form>
+            <def>Quotation: magall gharbh. Notes: local name (Melvaig) for sea urchin.</def>
+         </entry>
+         <entry xml:id="Slips_MelvaigMMKslips-idp167340400">
+            <form>
+               <orth>sòla</orth>
+            </form>
+            <def>Quotation: sòla deiridh, sòla toisich. Notes: pieces of flooring fore and aft in a boat.</def>
+         </entry>
+         <entry xml:id="Slips_MelvaigMMKslips-idp167342056">
+            <form>
+               <orth>clàrag</orth>
+            </form>
+            <def>Notes: the wooden top on a skin buoy.</def>
+         </entry>
+         <entry xml:id="Slips_MelvaigMMKslips-idp167343568">
+            <form>
+               <orth>conabhocan</orth>
+               <pron>[kɔṉɑvɔxkɑṉ]</pron>
+            </form>
+            <def>[kɔṉɑvɔxkɑṉ] Notes: the dog-whelk.</def>
+         </entry>
+         <entry xml:id="Slips_MelvaigMMKslips-idp167345296">
+            <form>
+               <orth>garbh</orth>
+            </form>
+            <def>Quotation: magall gharbh. Notes: local name (Melvaig) for sea-urchin.</def>
+         </entry>
+         <entry xml:id="Slips_MelvaigMMKslips-idp167346952">
+            <form>
+               <orth>gilleachan</orth>
+            </form>
+            <def>Notes: a smaller version of the Dog-whelk.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

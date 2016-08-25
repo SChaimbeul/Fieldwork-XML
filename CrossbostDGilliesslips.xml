@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_CrossbostDGilliesslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1978</date>
+            <location>
+               <placeName>Lewis, Crossbost</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>Rev. D. Gillies</persName>
+               <birth>
+                  <placeName>Ness</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_CrossbostDGilliesslips-idp166268992">
+            <form>
+               <orth>searrag (pl. -an)</orth>
+            </form>
+            <def>Notes: a long stride.</def>
+         </entry>
+         <entry xml:id="Slips_CrossbostDGilliesslips-idp166270504">
+            <form>
+               <orth>sgurag</orth>
+            </form>
+            <def>Notes: packed lunch for boat, or hill.</def>
+         </entry>
+         <entry xml:id="Slips_CrossbostDGilliesslips-idp166272016">
+            <form>
+               <orth>gàmag</orth>
+            </form>
+            <def>Notes: a large bite. Applecross: a long step.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

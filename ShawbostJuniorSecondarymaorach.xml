@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Isle-of-Lewis, Shawbost</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[school]</persName>
+            </person>
+            <person role="informant">
+               <persName>Shawbost Junior Secondary</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Shellfish</term>
+               <term xml:lang="gd">Maorach</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e23"
+             subtype="h1">1. Maorach</ab>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e28">
+            <form>
+               <orth>feusgan</orth>
+            </form>
+            <def>mussel.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e37">
+            <form>
+               <orth>faochag</orth>
+            </form>
+            <def>whelk.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e46">
+            <form>
+               <orth>beàrnach</orth>
+            </form>
+            <def>limpet.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e55">
+            <form>
+               <orth>partan</orth>
+            </form>
+            <def>crab.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e64">
+            <form>
+               <orth>giomach</orth>
+            </form>
+            <def>lobster.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e73">
+            <form>
+               <orth>muirsgian</orth>
+            </form>
+            <def>razor fish.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e82">
+            <form>
+               <orth>creachan</orth>
+            </form>
+            <def>clam.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e91">
+            <form>
+               <orth>faochag bhàn</orth>
+            </form>
+            <def>dog whelk.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e100">
+            <form>
+               <orth>madadh</orth>
+            </form>
+            <def>horse mussel.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e109">
+            <form>
+               <orth>eisir</orth>
+            </form>
+            <def>oyster.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e118">
+            <form>
+               <orth>coilleag</orth>
+            </form>
+            <def>cockle.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e127">
+            <form>
+               <orth>brallach</orth>
+            </form>
+            <def>hose-fish.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e136">
+            <form>
+               <orth>crùbag</orth>
+            </form>
+            <def>crab.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e145">
+            <form>
+               <orth>muir-tèachd</orth>
+            </form>
+            <def>jellyfish.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e154">
+            <form>
+               <orth>cnogan tràghad</orth>
+            </form>
+            <def>sea urchin.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e163">
+            <form>
+               <orth>cnogan feannaig</orth>
+            </form>
+            <def>sea urchin.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e172">
+            <form>
+               <orth>cnogan starraig</orth>
+            </form>
+            <def>sea urchin.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e181">
+            <form>
+               <orth>cnogan grunna</orth>
+            </form>
+            <def>sea urchin.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e190">
+            <form>
+               <orth>cluasag</orth>
+            </form>
+            <def>variegated clam.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e199">
+            <form>
+               <orth>maorach geal</orth>
+            </form>
+            <def>pullet shell.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e208">
+            <form>
+               <orth>gnogan</orth>
+            </form>
+            <def>large whelk.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e217">
+            <form>
+               <orth>giuran</orth>
+            </form>
+            <def>barnacle.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e226">
+            <form>
+               <orth>muasgan-caol</orth>
+            </form>
+            <def>prawn.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e235">
+            <form>
+               <orth>crosgag</orth>
+            </form>
+            <def>starfish.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e243"
+             subtype="h1">2. A’ tional maorach</ab>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-idola268">
+            <form>
+               <orth>[note]</orth>
+               <pron>[page missing]</pron>
+            </form>
+            <def>[page missing]</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-d0e256"
+             subtype="h1">3. Beathaichean eile a gheibhear ’sa’ chladach</ab>
+         <entry xml:id="WoolworkingandFishing_ShawbostJuniorSecondarymaorach-idola269">
+            <form>
+               <orth>[note]</orth>
+               <pron>[page missing]</pron>
+            </form>
+            <def>[page missing]</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="AssortedFieldworkers_AnonymousAland">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation/>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>Anonymous A</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Landscape Features</term>
+               <term xml:lang="gd">Cruth na Tìre</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_AnonymousAland-d0e14"
+             subtype="h1">Mountains, hills</ab>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e19">
+            <form>
+               <orth>beanntan</orth>
+            </form>
+            <def>mountains.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e28">
+            <form>
+               <orth>monaidhean</orth>
+            </form>
+            <def>hills.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e37">
+            <form>
+               <orth>sliabh</orth>
+            </form>
+            <def>the face of a hill.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e46">
+            <form>
+               <orth>gualainn</orth>
+            </form>
+            <def>shoulder.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e55">
+            <form>
+               <orth>mullach</orth>
+            </form>
+            <def>summit.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e64">
+            <form>
+               <orth>gleann</orth>
+            </form>
+            <def>valley.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e73">
+            <form>
+               <orth>slòchd</orth>
+            </form>
+            <def>hollow.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e82">
+            <form>
+               <orth>glàc</orth>
+            </form>
+            <def>hollow.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e91">
+            <form>
+               <orth>lagan</orth>
+            </form>
+            <def>corrie.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e100">
+            <form>
+               <orth>cliathaich</orth>
+            </form>
+            <def>side.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e109">
+            <form>
+               <orth>toman</orth>
+            </form>
+            <def>hillock.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e118">
+            <form>
+               <orth>cnoc</orth>
+            </form>
+            <def>knoll.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e127">
+            <form>
+               <orth>boiriche</orth>
+            </form>
+            <def>bank.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e136">
+            <form>
+               <orth>bruach</orth>
+            </form>
+            <def>bank.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e145">
+            <form>
+               <orth>boglach</orth>
+            </form>
+            <def>bog.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e154">
+            <form>
+               <orth>suil-chrithich</orth>
+            </form>
+            <def>quagmire.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e163">
+            <form>
+               <orth>binnein</orth>
+            </form>
+            <def>pinnacle.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_AnonymousAland-d0e171"
+             subtype="h1">Moorland features</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_AnonymousAland-d0e175"
+             subtype="h1">Coastal features</ab>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e180">
+            <form>
+               <orth>rudha</orth>
+            </form>
+            <def>promontory.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e189">
+            <form>
+               <orth>sgeir</orth>
+            </form>
+            <def>reef.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e198">
+            <form>
+               <orth>sgorr</orth>
+            </form>
+            <def>sharp rock.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e207">
+            <form>
+               <orth>caolas</orth>
+            </form>
+            <def>narrow stretch of water.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e216">
+            <form>
+               <orth>camus</orth>
+            </form>
+            <def>bay.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e225">
+            <form>
+               <orth>geothas</orth>
+            </form>
+            <def>inlet.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e234">
+            <form>
+               <orth>carraig</orth>
+            </form>
+            <def>cliffs (overhanging).</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e243">
+            <form>
+               <orth>creagach</orth>
+            </form>
+            <def>rocky.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e252">
+            <form>
+               <orth>acarsaid</orth>
+            </form>
+            <def>harbour.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_AnonymousAland-d0e260"
+             subtype="h1">Rivers, burns</ab>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e265">
+            <form>
+               <orth>abhainn</orth>
+            </form>
+            <def>river.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e274">
+            <form>
+               <orth>allt</orth>
+            </form>
+            <def>burn.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e283">
+            <form>
+               <orth>sruthan</orth>
+            </form>
+            <def>stream.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e292">
+            <form>
+               <orth>glumag</orth>
+            </form>
+            <def>pool.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e301">
+            <form>
+               <orth>linne</orth>
+            </form>
+            <def>pond.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e310">
+            <form>
+               <orth>eas</orth>
+            </form>
+            <def>waterfall.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_AnonymousAland-d0e318"
+             subtype="h1">Types of beach</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_AnonymousAland-d0e322"
+             subtype="h1">Sea-pools, waves</ab>
+      </body>
+   </text>
+</TEI>

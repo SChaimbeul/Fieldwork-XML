@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_KilmorackWFraserslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>05/1969</date>
+            <location>
+               <placeName>Inverness-shire, Kilmorack</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>William Fraser</persName>
+               <age>c. 90</age>
+               <birth>
+                  <placeName>Kilmorack</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_KilmorackWFraserslips-idp115459376">
+            <form>
+               <orth>fos-leth</orth>
+               <pron>[fɔslʹɛ]</pron>
+            </form>
+            <def>[fɔslʹɛ] Quotation: Cha robh ainm fos-leth aca air a’ sin. Notes: They had no special word for that.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

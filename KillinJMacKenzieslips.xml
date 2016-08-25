@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_KillinJMacKenzieslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>04/1968</date>
+            <location>
+               <placeName>Perthshire, Killin</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Jock MacKenzie</persName>
+               <age>70s</age>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_KillinJMacKenzieslips-idp115472544">
+            <form>
+               <orth>lòban</orth>
+               <pron>[ɫɔ:bɑ̃ṉ]</pron>
+            </form>
+            <def>[ɫɔ:bɑ̃ṉ] Notes: tripod for hay-making.</def>
+         </entry>
+         <entry xml:id="Slips_KillinJMacKenzieslips-idp115455840">
+            <form>
+               <orth>prabag</orth>
+            </form>
+            <def>Notes: small haycock.</def>
+         </entry>
+         <entry xml:id="Slips_KillinJMacKenzieslips-idp115494288">
+            <form>
+               <orth>cuibhleag</orth>
+               <pron>[k[ɤı]</pron>
+            </form>
+            <def>[k[ɤı]lɑɡ] Notes: very small hay “coils”.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

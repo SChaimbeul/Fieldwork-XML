@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BreakishMFarmerslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1980</date>
+            <location>
+               <placeName>Skye, Breakish</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName/>
+            </person>
+            <person role="informant">
+               <persName>Margaret Farmer</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_BreakishMFarmerslips-idp115445904">
+            <form>
+               <orth>creimisg</orth>
+            </form>
+            <def>Notes: bits left when fat rendered down. Also in sense of ‘wrinkled old woman’.</def>
+         </entry>
+         <entry xml:id="Slips_BreakishMFarmerslips-idp115474992">
+            <form>
+               <orth>creinnseag</orth>
+            </form>
+            <def>Notes: bits left when fat rendered down. = creimisg.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="list_of_people">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Title</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listPerson>
+        <person xml:id="A_MacLennan_Harris_Gobhaig">
+          <persName  xml:lang="en">
+            <forename>A.</forename>
+            <surname>MacLennan</surname>
+          </persName>
+          <persName>
+            <forename>A.</forename>
+            <surname>MacGill Fhinnein</surname>
+          </persName>
+          <age>19</age>
+        </person>
+        <person xml:id="Donald_MacLennan_Harris_Govaig">
+          <persName xml:lang="en">
+            <forename>Donald</forename>
+            <surname>MacLennan</surname>
+          </persName>
+        </person>
+        <person xml:id="Catriona_MacDonald_Harris_Ardvey">
+          <persName xml:lang="en">
+            <forename>Catriona</forename>
+            <surname>MacDonald</surname>
+          </persName>
+          <age>~80</age>
+        </person>
+        <person xml:id="Kenneth_MacSween_Harris_Borrisdale">
+          <persName xml:lang="en">
+            <forename>Kenneth</forename>
+            <surname>MacSween</surname>
+          </persName>
+        </person>
+        <person xml:id="Roderick_MacDonald_Harris_Cluer">
+          <persName xml:lang="en">
+            <forename>Roderick</forename>
+            <surname>MacDonald</surname>
+          </persName>
+          <age>~80</age>
+        </person>
+        <person xml:id="Bannantyne_MacLeod_Harris_Cluer">
+          <persName xml:lang="en">
+            <forename>Bannantyne</forename>
+            <surname>MacLeod</surname>
+          </persName>
+          <age xml:lang="en">early 40s</age>
+        </person>
+        <person xml:id="Jessie_MacLeod_Harris_Cluer">
+          <persName xml:lang="en">
+            <forename>Jessie</forename>
+            <surname>MacLeod</surname>
+          </persName>
+          <age xml:lang="en">early 40s</age>
+          <note xml:lang="en">Wife of Bannantyne_MacLeod_Harris_Cluer ?</note>
+        </person>
+        <person xml:id="Rachel_MacLeod_Harris_Cluer">
+          <persName xml:lang="en">
+            <forename>Rachel</forename>
+            <surname>MacLeod</surname>
+          </persName>
+          <age xml:lang="en">mid 60s</age>
+        </person>
+        <person xml:id="Donald_MacDonald_Harris_Horgabost">
+          <persName xml:lang="en">
+            <forename>Donald</forename>
+            <surname>MacDonald</surname>
+          </persName>
+          <persName>
+            <forename>Domhnall</forename>
+            <surname>Domhnallach</surname>
+          </persName>
+          <age>62</age>
+          <birth>
+            <location corresp="Harris_Horgabost"/>
+          </birth>
+        </person>
+        <person xml:id="Donald_MacLeod_Harris_Kyles_Stockinish">
+          <persName xml:lang="en">
+            <forename>Donald</forename>
+            <surname>MacLeod</surname>
+          </persName>
+          <age>89</age>
+          <birth>
+            <location corresp="Harris_Kyles_Stockinish"/>
+          </birth>
+        </person>
+        <person xml:id="Donald_Angus_MacLeod_Harris_Finsbay">
+          <persName xml:lang="en">
+            <forename>Donald</forename>
+            <forename>Angus</forename>
+            <surname>MacLeod</surname>
+          </persName>
+          <age>~70</age>
+        </person>
+        <person xml:id="Maryann_MacLeod_Harris_Finsbay">
+          <persName xml:lang="en">
+            <forename>Maryann</forename>
+            <surname>MacLeod</surname>
+          </persName>
+          <age>~70</age>
+          <note xml:lang="en">Wife of Donald_Angus_MacLeod_Harris_Finsbay ?</note>
+        </person>
+        <person xml:id="Peggy_Morrison_Harris_Leverburgh_Kintulavaig">
+          <persName xml:lang="en">
+            <forename>Peggy</forename>
+            <surname>Morrison</surname>
+          </persName>
+          <age>90</age>
+        </person>
+        <person xml:id="Norman_MacLeod_Harris_Leverburgh">
+          <persName xml:lang="en">
+            <forename>Norman</forename>
+            <surname>MacLeod</surname>
+          </persName>
+          <age xml:lang="en">mid/late 60s</age>
+        </person>
+        <person xml:id="George_MacLeod_Ardhasaig">
+          <persName xml:lang="en">
+            <forename>George</forename>
+            <surname>MacLeod</surname>
+          </persName>
+        </person>
+        <person xml:id="D_MacLeod_Ardhasaig">
+          <persName xml:lang="en">
+            <forename>D.</forename>
+            <surname>MacLeod</surname>
+          </persName>
+        </person>
+        <person xml:id="Murdo_MacDiarmid_Harris_Maaruig">
+          <persName xml:lang="en">
+            <forename>Murdo</forename>
+            <surname>MacDiarmid</surname>
+          </persName>
+        </person>
+        <person xml:id="Neil_MacLeod_Harris_Tarbert">
+          <persName xml:lang="en">
+            <forename>Neil</forename>
+            <surname>MacLeod</surname>
+          </persName>
+        </person>
+        <person xml:id="W_MacLeod_Harris_Maaruig">
+          <persName xml:lang="en">
+            <forename>W.</forename>
+            <surname>MacLeod</surname>
+          </persName>
+        </person>
+        <person xml:id="Duncan_MacLennan_Harris_Quidinish">
+          <persName xml:lang="en">
+            <forename>Duncan</forename>
+            <surname>MacLennan</surname>
+          </persName>
+        </person>
+        <person xml:id="Donald_MacLennan_Harris_Quidinish">
+          <persName xml:lang="en">
+            <forename>Donald</forename>
+            <surname>MacLennan</surname>
+          </persName>
+        </person>
+        <person xml:id="Marion_Montgomery_Harris">
+          <persName xml:lang="en">
+            <forename>Marion</forename>
+            <surname>Montgomery</surname>
+          </persName>
+        </person>
+        <person xml:id="Margaret_MacLeod_Harris_Rodel">
+          <persName xml:lang="en">
+            <forename>Margaret</forename>
+            <surname>MacLeod</surname>
+          </persName>
+          <age>~70</age>
+        </person>
+        <person xml:id="Mary_MacDonald_Harris_Scarista_Post_Office">
+          <persName xml:lang="en">
+            <forename>Mary</forename>
+            <surname>MacDonald</surname>
+          </persName>
+          <age xml:lang="en">late 60s</age>
+        </person>
+        <person xml:id="E_MacRae_Harris_Seilebost">
+          <persName xml:lang="en">
+            <surname>MacRae</surname>
+          </persName>
+          <persName>
+            <forename>Eoghainn</forename>
+            <surname>MacRath</surname>
+          </persName>
+          <age>~60</age>
+          <birth>
+            <location corresp="Harris_Taransay"/>
+          </birth>
+        </person>
+        <person xml:id="Angus_MacLennan_Harris_Sgarastamhor">
+          <persName xml:lang="en">
+            <forename>Angus</forename>
+            <surname>MacLennan</surname>
+          </persName>
+          <age>50</age>
+        </person>
+        <person xml:id="Morag_MacLennan_Harris_Sgarastamhor">
+          <persName xml:lang="en">
+            <forename>Morag</forename>
+            <surname>MacLennan</surname>
+          </persName>
+          <age>50</age>
+        </person>
+        <person xml:id="Flora_MacLeod_Harris_Sgarastamhor">
+          <persName xml:lang="en">
+            <forename>Flora</forename>
+            <surname>MacLeod</surname>
+          </persName>
+          <age>60</age>
+        </person>
+
+        <!-- Fieldworkers -->
+        <person xml:id="A_J_Smith">
+          <persName xml:lang="en">A. J. Smith</persName>
+        </person>
+        <person xml:id="anonymous_D"/>
+
+        <!-- Editors -->
+        <person xml:id="OSz">
+          <persName xml:lang="pl">Olga Szczesnowicz</persName>
+        </person>
+
+      </listPerson>
+    </body>
+  </text>
+</TEI>

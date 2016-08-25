@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_IonaSRMacNeilslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>05/1971</date>
+            <location>
+               <placeName>Canada, Cape Breton, Iona</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>S. R. MacNeil</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_IonaSRMacNeilslips-idp115747864">
+            <form>
+               <orth>riaghailt</orth>
+            </form>
+            <def>Quotation: gréim [sic] riaghailt. Notes: basting – a kind of stitch.</def>
+         </entry>
+         <entry xml:id="Slips_IonaSRMacNeilslips-idp115749520">
+            <form>
+               <orth>riaghailt</orth>
+               <pron>[riɤilʹtʹ]</pron>
+            </form>
+            <def>[riɤilʹtʹ] Notes: yarn spreader on loom.</def>
+         </entry>
+         <entry xml:id="Slips_IonaSRMacNeilslips-idp115751248">
+            <form>
+               <orth>sgrathail</orth>
+               <pron>[sɡɾɑɑl]</pron>
+            </form>
+            <def>[sɡɾɑɑl] Notes: terrible.</def>
+         </entry>
+         <entry xml:id="Slips_IonaSRMacNeilslips-idp115752976">
+            <form>
+               <orth>snàthad</orth>
+            </form>
+            <def>Notes: axle on pirn.</def>
+         </entry>
+         <entry xml:id="Slips_IonaSRMacNeilslips-idp115754488">
+            <form>
+               <orth>sùil</orth>
+            </form>
+            <def>Quotation: ’S fheàrr sùil a’ ghobha na tomhas an tàilleir.</def>
+         </entry>
+         <entry xml:id="Slips_IonaSRMacNeilslips-idp115756000">
+            <form>
+               <orth>tomhas</orth>
+            </form>
+            <def>Quotation: ’S fheàrr sùil a’ ghobha na tomhas an tàilleir.</def>
+         </entry>
+         <entry xml:id="Slips_IonaSRMacNeilslips-idp115757512">
+            <form>
+               <orth>earradh</orth>
+               <pron>[ɛrəɣ]</pron>
+            </form>
+            <def>[ɛrəɣ] Notes: groove in a barrel for lid or bottom to fit in.</def>
+         </entry>
+         <entry xml:id="Slips_IonaSRMacNeilslips-idp115759240">
+            <form>
+               <orth>greim</orth>
+            </form>
+            <def>Quotation: gréim [sic] riaghailt. Notes: basting – a kind of stitch.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

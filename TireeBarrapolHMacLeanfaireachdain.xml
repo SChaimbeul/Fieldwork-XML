@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Eilean Thiriodh, Goirtean Dòmhnaill [Tiree, Barrapol]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[Alan Boyd]</persName>
+            </person>
+            <person role="informant">
+               <persName>Hugh MacLean</persName>
+               <persName xml:lang="gd">Eoghann MacGilleathain </persName>
+               <age>64</age>
+               <birth>
+                  <placeName>Tiriodh [Tiree]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Senses</term>
+               <term xml:lang="gd">Faireachdain</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e32"
+             subtype="h1">FAIREACHDAIN</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e37">
+            <form>
+               <orth>mo bhuaidhean</orth>
+            </form>
+            <def>my senses.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e46">
+            <form>
+               <orth>claisteachd (f)</orth>
+            </form>
+            <def>sense of hearing. (Not ‘claisneachd’.)</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e55">
+            <form>
+               <orth>fàileadh (m)</orth>
+            </form>
+            <def>sense of smell.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e64">
+            <form>
+               <orth>sealladh (m)</orth>
+            </form>
+            <def>sense of sight.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e73">
+            <form>
+               <orth>blas (m)</orth>
+            </form>
+            <def>sense of taste.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e82">
+            <form>
+               <orth>faireachdain (f)</orth>
+            </form>
+            <def>sense of touch.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e90"
+             subtype="h1">AN T-SÙIL</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e94"
+             subtype="h2">1. Seòrsachan sùil, pàirtean de’n t-sùil, tinneasan sùil, fradharc</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e99">
+            <form>
+               <orth>sùil bhiorach</orth>
+            </form>
+            <def>good eyesight.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e108">
+            <form>
+               <orth>sùil ghiar</orth>
+            </form>
+            <def>good eyesight.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e117">
+            <form>
+               <orth>claon-shùileach</orth>
+            </form>
+            <def>tired-looking eyes.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e126">
+            <form>
+               <orth>fiar-shùileach</orth>
+            </form>
+            <def>squint-eyed.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e135">
+            <form>
+               <orth>clach na sùil</orth>
+            </form>
+            <def>pupil.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e144">
+            <form>
+               <orth>fruisg</orth>
+            </form>
+            <def>eyelashes. Fruisg na sùla.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e153">
+            <form>
+               <orth>sealladh astarach</orth>
+            </form>
+            <def>good visibility.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e162">
+            <form>
+               <orth>sealladh goirid</orth>
+            </form>
+            <def>bad visibility.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e171">
+            <form>
+               <orth>teine-sionachan (m)</orth>
+            </form>
+            <def>phosphorescence.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e179"
+             subtype="h2">2. Dòighean air coimhead air duine</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e184">
+            <form>
+               <orth>fo’n t-sùil</orth>
+            </form>
+            <def>sideways.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e193">
+            <form>
+               <orth>a’ sealltainn dur air duine</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e199">
+            <form>
+               <orth>a’ sealltainn gruamach air duine</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e205">
+            <form>
+               <orth>Sheall mi air gu gruamach.</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e210"
+             subtype="h2">3. Gnathasan-cainnte tha bointinn ris an t-sùil</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e215">
+            <form>
+               <orth>Tha mo shùil air</orth>
+            </form>
+            <def>I am interested in it.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e224">
+            <form>
+               <orth>Tha mo shùil oirre</orth>
+            </form>
+            <def>I am interested in her.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e233">
+            <form>
+               <orth>Tha sùil gle mhath agam air crodh</orth>
+            </form>
+            <def>I have a good eye for cattle.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e242">
+            <form>
+               <orth>Tha mo shùil ann</orth>
+            </form>
+            <def>I want it.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e251">
+            <form>
+               <orth>taibhsearachd</orth>
+            </form>
+            <def>second sight.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e260">
+            <form>
+               <orth>[aithneachadh]</orth>
+            </form>
+            <def>’Ga aithneachadh a reir coltas a shliochd, no a dhaoine, no a shinnsearachd – recognising a person from hereditary looks. Dh’aithnich mi e air na daoine d’am buineadh e.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e268"
+             subtype="h1">AM BEUL - Am beul, an amhaich, na fiaclan. Faclan a’ bointinn ri ithe agus òl. Faclan mu dheidhinn bruidhinn, gàireachdainn agus mar sin air adhart</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e273">
+            <form>
+               <orth>gìosgan fhiacaill</orth>
+            </form>
+            <def>gnashing of teeth.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e282">
+            <form>
+               <orth>cagnadh</orth>
+            </form>
+            <def>chewing.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e291">
+            <form>
+               <orth>deoghal</orth>
+            </form>
+            <def>sucking.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e300">
+            <form>
+               <orth>feadaireachd</orth>
+            </form>
+            <def>whistling.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e309">
+            <form>
+               <orth>dùrdail</orth>
+            </form>
+            <def>humming.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e318">
+            <form>
+               <orth>slugadh</orth>
+            </form>
+            <def>swallowing.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e327">
+            <form>
+               <orth>Cuir siud air do gholàiream</orth>
+            </form>
+            <def>Drink that up in one go!</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e336">
+            <form>
+               <orth>logamal dhiolaidh</orth>
+            </form>
+            <def>an awful amount of drink.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e345">
+            <form>
+               <orth>Tha an daorach air.</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e351">
+            <form>
+               <orth>Tha an deoch air.</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e357">
+            <form>
+               <orth>Tha smuid air.</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e363">
+            <form>
+               <orth>Tha e air an daorach.</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e369">
+            <form>
+               <orth>Tha e air an deoch.</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e375">
+            <form>
+               <orth>Ghabh e ’n daorach.</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e381">
+            <form>
+               <orth>Ghabh e ’n deoch.</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e387">
+            <form>
+               <orth>Ghabh e streallaichean</orth>
+            </form>
+            <def>he took too much (drink).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e396">
+            <form>
+               <orth>Ghabh e rathuiream</orth>
+            </form>
+            <def>he took a real bender.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e405">
+            <form>
+               <orth>bleataraich</orth>
+            </form>
+            <def>blethering.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e414">
+            <form>
+               <orth>bruidhinn bhlaodach</orth>
+            </form>
+            <def>speaking slowly.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e423">
+            <form>
+               <orth>bruidhinn shocaireach</orth>
+            </form>
+            <def>speaking slowly.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e432">
+            <form>
+               <orth>bruidhinn mhìobhail</orth>
+            </form>
+            <def>speaking rudely.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e441">
+            <form>
+               <orth>bruidhinn shiobhalta</orth>
+            </form>
+            <def>speaking politely.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e450">
+            <form>
+               <orth>bruidhinn chiùin</orth>
+            </form>
+            <def>polite, respectable talk.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e459">
+            <form>
+               <orth>mionnachadh</orth>
+            </form>
+            <def>swearing.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e468">
+            <form>
+               <orth>lachanaich</orth>
+            </form>
+            <def>loud hearty laughing.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e477">
+            <form>
+               <orth>Rinn e clap gàire</orth>
+            </form>
+            <def>he made a loud laugh of gafall [sic] [guffaw?].</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e486">
+            <form>
+               <orth>snodha gàire</orth>
+            </form>
+            <def>a sneer of chuckle.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e495">
+            <form>
+               <orth>gagach</orth>
+            </form>
+            <def>stuttered speech.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e504">
+            <form>
+               <orth>Tha mi gagail</orth>
+            </form>
+            <def>I am stuttering.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e512"
+             subtype="h1">A’ CHLUAS</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e516"
+             subtype="h2">1. Cumaidhean chluas, pàirtean de’n chluais, tinneasan cluaise</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e520"
+             subtype="h3">Cumadh nan cluasan</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e525">
+            <form>
+               <orth>cluasan biorach</orth>
+            </form>
+            <def>pointed ears and keen hearing too.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e534">
+            <form>
+               <orth>cluasan fada</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e540">
+            <form>
+               <orth>cluasan cam</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e546">
+            <form>
+               <orth>corra-chluasach</orth>
+            </form>
+            <def>stumped ears as in beast (also cauliflower ears).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e555">
+            <form>
+               <orth>cluasaire (m)</orth>
+            </form>
+            <def>a big-eared man.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e564">
+            <form>
+               <orth>céir-cluaiseag</orth>
+            </form>
+            <def>ear wax.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e573">
+            <form>
+               <orth>toll na cluaiseag</orth>
+            </form>
+            <def>the earhole.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e582">
+            <form>
+               <orth>cluasan fionnach</orth>
+            </form>
+            <def>hairy ears.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e590"
+             subtype="h3">Gnàthasan-cainnte</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e595">
+            <form>
+               <orth>Cum do chluas fosgailte</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e601">
+            <form>
+               <orth>Tha éisdeachd bheag annam</orth>
+            </form>
+            <def>I am hard of hearing.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e610">
+            <form>
+               <orth>Tha mo chlaisteachd a’ fas donna</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] </def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e615"
+             subtype="h2">2. Seòrsaichean de fhuaim: Fuaimean na mara, na gaoithe; Fuaimean bheathaichean is eòin; Fuaimean a bhios daoine deanamh dhan toil agus dha aindheoin, fuaimean anns an stamaig, seòrsaichean gàire, eubh no guth</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e620">
+            <form>
+               <orth>mualan a’ chuain</orth>
+            </form>
+            <def>the bellowing of the ocean.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e629">
+            <form>
+               <orth>sgreadail na gaoth</orth>
+            </form>
+            <def>high-pitched sound of the wind.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e638">
+            <form>
+               <orth>rànaich (f)</orth>
+            </form>
+            <def>roar.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e647">
+            <form>
+               <orth>ràn</orth>
+            </form>
+            <def>a roar.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e656">
+            <form>
+               <orth>mualanaich</orth>
+            </form>
+            <def>low-pitched.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e664"
+             subtype="h3">Fuaimean bheothaichean</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e669">
+            <form>
+               <orth>meilich chaora</orth>
+            </form>
+            <def>bleating.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e678">
+            <form>
+               <orth>geumnaich</orth>
+            </form>
+            <def>lowing.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e687">
+            <form>
+               <orth>comhartaich coin</orth>
+            </form>
+            <def>barking.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e696">
+            <form>
+               <orth>miagal cait</orth>
+            </form>
+            <def>mewing.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e705">
+            <form>
+               <orth>gogail chearc</orth>
+            </form>
+            <def>cackling.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e714">
+            <form>
+               <orth>gnothail muice</orth>
+            </form>
+            <def>grunting.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e723">
+            <form>
+               <orth>fàngail thunnagan</orth>
+            </form>
+            <def>quacking.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e732">
+            <form>
+               <orth>biogal rodan / luchaich</orth>
+            </form>
+            <def>squeaking.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e741">
+            <form>
+               <orth>biogal eun</orth>
+            </form>
+            <def>chirping.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e750">
+            <form>
+               <orth>glaodh coillich</orth>
+            </form>
+            <def>shout.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e759">
+            <form>
+               <orth>racal</orth>
+            </form>
+            <def>crow.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e768">
+            <form>
+               <orth>sgiamh faoilinn</orth>
+            </form>
+            <def>screech.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e777">
+            <form>
+               <orth>gorachdal</orth>
+            </form>
+            <def>sound of pheasant, grouse, etc.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e786">
+            <form>
+               <orth>sitear eich</orth>
+            </form>
+            <def>naying [sic] [neighing?].</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e794"
+             subtype="h3">[blank]</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e799">
+            <form>
+               <orth>bruchd (m)</orth>
+            </form>
+            <def>belch.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e808">
+            <form>
+               <orth>braim</orth>
+            </form>
+            <def>fart (!). Rinn e braim.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e817">
+            <form>
+               <orth>rot</orth>
+            </form>
+            <def>fart (a loud one!). Rinn e rot.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e826">
+            <form>
+               <orth>cast</orth>
+            </form>
+            <def>a cough.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e835">
+            <form>
+               <orth>creat</orth>
+            </form>
+            <def>a soft cough (half on purpose).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e844">
+            <form>
+               <orth>sreathart</orth>
+            </form>
+            <def>sneeze.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e853">
+            <form>
+               <orth>alag (f) (aileag?)</orth>
+            </form>
+            <def>hiccup. Tha ’n alag orm.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e862">
+            <form>
+               <orth>crith</orth>
+            </form>
+            <def>shiver. Air chrith leis an fhuachd.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e871">
+            <form>
+               <orth>Mo chorp a’ rubail</orth>
+            </form>
+            <def>movement of air in stomach when hungry.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e879"
+             subtype="h1">AN T-SRÒN</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e883"
+             subtype="h2">Cumaidhean sròine, faclan éibhinn, tinneasan</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e888">
+            <form>
+               <orth>sròn mhaol</orth>
+            </form>
+            <def>blunt nose.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e897">
+            <form>
+               <orth>sròn chrom</orth>
+            </form>
+            <def>Roman nose.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e906">
+            <form>
+               <orth>sròn cham</orth>
+            </form>
+            <def>twisted nose.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e915">
+            <form>
+               <orth>sròn ghorm</orth>
+            </form>
+            <def>drinker’s nose.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e924">
+            <form>
+               <orth>sròn dhearg</orth>
+            </form>
+            <def>drinker’s nose.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e933">
+            <form>
+               <orth>cnòsan (m)</orth>
+            </form>
+            <def>sound in chest denoting catarrh.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e941"
+             subtype="h2">Fàilidhean math is dona, fàile biadh nach eil ‘ùr’</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e946">
+            <form>
+               <orth>boladh (m)</orth>
+            </form>
+            <def>stink.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e955">
+            <form>
+               <orth>samh (m)</orth>
+            </form>
+            <def>bad smell.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e964">
+            <form>
+               <orth>fàileadh grot</orth>
+            </form>
+            <def>rotten smell.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e973">
+            <form>
+               <orth>faileadh  fuaraidh</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] stale smell.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e982">
+            <form>
+               <orth>malcte</orth>
+            </form>
+            <def>stale, rotten.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e991">
+            <form>
+               <orth>faileadh  taitneach</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] nice smell.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1000">
+            <form>
+               <orth>faileadh  cubhraidh</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] nice smell.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1008"
+             subtype="h2">Gnathasan-cainnte</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1013">
+            <form>
+               <orth>Thug a shròn ann e</orth>
+            </form>
+            <def>His nose took him there (curiosity).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1022">
+            <form>
+               <orth>Bidh a shròn ’s a h-uile rud.</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1028">
+            <form>
+               <orth>Ghabh e ’san t-sròin e</orth>
+            </form>
+            <def>He took it badly.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1036"
+             subtype="h1">AN LÀMH - Buillean air duine no leanabh, suathadh, ‘press’, ‘caress’ is mar sin</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1041">
+            <form>
+               <orth>clìbheag (f)</orth>
+            </form>
+            <def>a light slap (as with a child). Thug mi clìbheag air. – I slapped him.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1050">
+            <form>
+               <orth>deiseag</orth>
+            </form>
+            <def>a spank. Thug mi deiseag air a thon.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1059">
+            <form>
+               <orth>Shuath mi air</orth>
+            </form>
+            <def>I rubbed it.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1068">
+            <form>
+               <orth>Phluch mi e</orth>
+            </form>
+            <def>I pressed it.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1076"
+             subtype="h1">AN CRIDHE - Faclan aig a bheil bointeanas sam bith ri fearg, eagal, gaol, miann, gràin agus mar sin air adhart</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1081">
+            <form>
+               <orth>air a’ chaothach</orth>
+            </form>
+            <def>fearg.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1090">
+            <form>
+               <orth>Ghabh mi uillt</orth>
+            </form>
+            <def>eagal.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1099">
+            <form>
+               <orth>Tha sùil agam innte</orth>
+            </form>
+            <def>gaol.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1108">
+            <form>
+               <orth>Bheirinn mo chluas</orth>
+            </form>
+            <def>miann.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1117">
+            <form>
+               <orth>Bheirinn mo shùil</orth>
+            </form>
+            <def>miann.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1126">
+            <form>
+               <orth>Chuir e sgreamh orm</orth>
+            </form>
+            <def>gràin (I was disgusted with him).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1135">
+            <form>
+               <orth>Ghabh mi fuath dhuit</orth>
+            </form>
+            <def>gràin.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1144">
+            <form>
+               <orth>Dh’fhàs mi coma oirre</orth>
+            </form>
+            <def>gràin (I went off her).</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Excerpt from original file AJSmith_Harrismiscellaneousmisc -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AJSmith_Harrismiscellaneousmisc_W_MacLeod_Maaruig">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>July 1972</date>
+        <location corresp="Harris_Maaruig"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="A_J_Smith"/>
+        <person role="informant" corresp="W_MacLeod_Harris_Maaruig"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Miscellaneous</term>
+          <term xml:lang="gd">Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm39019808">
+        <form>
+          <orth>clostair</orth>
+          <pron>[kɫɔst̪əɾ]</pron>
+        </form>
+        <def>[kɫɔst̪əɾ] Quot.: “clostair” de dhuine. Note: big hulking man. Can also be used of a beast.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm39017864">
+        <form>
+          <orth>slat-chabrach</orth>
+        </form>
+        <def>Note: a deer with pointless antlers.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm39016352">
+        <form>
+          <orth>slat-chabar</orth>
+        </form>
+        <def>Note: a pointless deer antler.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm39014840">
+        <form>
+          <orth>meur</orth>
+        </form>
+        <def>Note: point on an antler.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm39013328">
+        <form>
+          <orth>damhair</orth>
+        </form>
+        <def>Note: rutting season.</def>
+      </entry>
+    </body>
+  </text>
+</TEI>

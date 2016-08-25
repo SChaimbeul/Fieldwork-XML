@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Canada_CanadaMacKinnonetalcattle">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[1969]</date>
+            <location>
+               <placeName>Canada</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>Susan Norwood</persName>
+            </person>
+            <person role="informant">
+               <persName>S.J. MacKinnon</persName>
+               <birth>
+                  <placeName>([Canada], Inverness Co.)</placeName>
+               </birth>
+            </person>
+            <person role="informant">
+               <persName>James MacKay</persName>
+               <birth>
+                  <placeName>([Canada], Inverness Co.)</placeName>
+               </birth>
+            </person>
+            <person role="informant">
+               <persName>Dan A. MacLeod</persName>
+               <birth>
+                  <placeName>([Canada], Victoria Co.)</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Cattle</term>
+               <term xml:lang="gd">Crodh</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Canada_CanadaMacKinnonetalcattle-d0e44"
+             subtype="h1">1. Different stages in the growth of cattle</ab>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e49">
+            <form>
+               <orth>laogh boirionn</orth>
+            </form>
+            <def>female calf.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e58">
+            <form>
+               <orth>laogh firionn</orth>
+            </form>
+            <def>male calf.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e67">
+            <form>
+               <orth>aghan</orth>
+            </form>
+            <def>young heifer.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e76">
+            <form>
+               <orth>atharla</orth>
+            </form>
+            <def>yearling heifer (not used in Victoria).</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e85">
+            <form>
+               <orth>agh</orth>
+            </form>
+            <def>old atharla [q.v.].</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e94">
+            <form>
+               <orth>bliadhanach</orth>
+            </form>
+            <def>yearling (generally male).</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e103">
+            <form>
+               <orth>dà-bhliadhanach (dàibhleannach)</orth>
+            </form>
+            <def>two-year-old.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e112">
+            <form>
+               <orth>gamhainn</orth>
+            </form>
+            <def>cow just after calving.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e121">
+            <form>
+               <orth>gamhnach</orth>
+            </form>
+            <def>milking farrow (you can milk her, but hadn’t calved that year).</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e130">
+            <form>
+               <orth>seasgach</orth>
+            </form>
+            <def>dry cow (also sometimes in Victoria, one that hasn’t yet calved).</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e139">
+            <form>
+               <orth>mart seasg</orth>
+            </form>
+            <def>dry cow (also sometimes in Victoria, one that hasn’t yet calved).</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e148">
+            <form>
+               <orth>mart bainne</orth>
+            </form>
+            <def>milk-cow (in Victoria sometimes -laoigh).</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e157">
+            <form>
+               <orth>mart laoigh</orth>
+            </form>
+            <def>breeding or pregnant cow .</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e166">
+            <form>
+               <orth>damh</orth>
+            </form>
+            <def>steer.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e175">
+            <form>
+               <orth>ruigeann</orth>
+            </form>
+            <def>half-castrated bull.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e184">
+            <form>
+               <orth>spoth</orth>
+            </form>
+            <def>castration.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e193">
+            <form>
+               <orth>tarbh</orth>
+            </form>
+            <def>bull.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e202">
+            <form>
+               <orth>mart</orth>
+            </form>
+            <def>‘mart’ generally preferred to ‘bò’ in Nova Scotia; the plural is either ‘mairt’ or ‘crodh’ (‘bò’ has no plural).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Canada_CanadaMacKinnonetalcattle-d0e210"
+             subtype="h1">2. Breeds of cattle</ab>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e215">
+            <form>
+               <orth>crodh dubh</orth>
+            </form>
+            <def>Angus.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e224">
+            <form>
+               <orth>crodh buidhe</orth>
+            </form>
+            <def>Jersey (?).</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e233">
+            <form>
+               <orth>crodh breac</orth>
+            </form>
+            <def>Holstein at al.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Canada_CanadaMacKinnonetalcattle-d0e241"
+             subtype="h1">3. Outward appearance of cattle</ab>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-idola47">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>(cf. ‘dubh’ and ‘buidhe’ preceding page [i.e. point 2 above])</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e255">
+            <form>
+               <orth>ruadh</orth>
+            </form>
+            <def>red of a white-face.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e264">
+            <form>
+               <orth>reamhar</orth>
+            </form>
+            <def>fat.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e273">
+            <form>
+               <orth>bochd</orth>
+            </form>
+            <def>lean.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e282">
+            <form>
+               <orth>ceann-fhionn (ceannainn)</orth>
+            </form>
+            <def>white-face.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e291">
+            <form>
+               <orth>blàrag</orth>
+            </form>
+            <def>white-face.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e300">
+            <form>
+               <orth>druimhionn</orth>
+            </form>
+            <def>white down the back.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e309">
+            <form>
+               <orth>maol</orth>
+            </form>
+            <def>polled.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Canada_CanadaMacKinnonetalcattle-d0e317"
+             subtype="h1">4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</ab>
+         <ab type="heading"
+             xml:id="Canada_CanadaMacKinnonetalcattle-d0e321"
+             subtype="h1">5. Parts of the body</ab>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e326">
+            <form>
+               <orth>seiche</orth>
+            </form>
+            <def>hide.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e335">
+            <form>
+               <orth>adhar</orth>
+            </form>
+            <def>horn.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e344">
+            <form>
+               <orth>amhach</orth>
+            </form>
+            <def>neck.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e353">
+            <form>
+               <orth>fionntrachad</orth>
+               <pron>[?]</pron>
+            </form>
+            <def>[?] hair.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e362">
+            <form>
+               <orth>uchd</orth>
+            </form>
+            <def>breast.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e371">
+            <form>
+               <orth>casan cinn</orth>
+            </form>
+            <def>front feet.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e380">
+            <form>
+               <orth>casan deiridh</orth>
+            </form>
+            <def>back feet.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e389">
+            <form>
+               <orth>ceathair deiridh</orth>
+            </form>
+            <def>hindquarters.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e398">
+            <form>
+               <orth>cruachain</orth>
+            </form>
+            <def>hips.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e407">
+            <form>
+               <orth>sionnan</orth>
+            </form>
+            <def>teats.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e416">
+            <form>
+               <orth>feithean</orth>
+            </form>
+            <def>tendons.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e425">
+            <form>
+               <orth>cuislean</orth>
+            </form>
+            <def>arteries.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e434">
+            <form>
+               <orth>sgamhan</orth>
+            </form>
+            <def>lungs.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e443">
+            <form>
+               <orth>gruthan</orth>
+            </form>
+            <def>liver.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e452">
+            <form>
+               <orth>airnean</orth>
+            </form>
+            <def>kidneys.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e461">
+            <form>
+               <orth>dumalas</orth>
+            </form>
+            <def>gall bladder.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e470">
+            <form>
+               <orth>maodal</orth>
+            </form>
+            <def>big stomach.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e479">
+            <form>
+               <orth>caolain</orth>
+            </form>
+            <def>intestines.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e488">
+            <form>
+               <orth>taigis</orth>
+            </form>
+            <def>small stomach.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e497">
+            <form>
+               <orth>crodhain</orth>
+            </form>
+            <def>hooves.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Canada_CanadaMacKinnonetalcattle-d0e505"
+             subtype="h1">6. Calving</ab>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e510">
+            <form>
+               <orth>crodh-dàil</orth>
+            </form>
+            <def>cow taken to the bull.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e519">
+            <form>
+               <orth>dàr</orth>
+            </form>
+            <def>heat (also for human beings).</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e528">
+            <form>
+               <orth>leabaidh-laoigh</orth>
+            </form>
+            <def>calf-bed.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e537">
+            <form>
+               <orth>glanadh</orth>
+            </form>
+            <def>placenta.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Canada_CanadaMacKinnonetalcattle-d0e545"
+             subtype="h1">7. Milking</ab>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e550">
+            <form>
+               <orth>bleoghain</orth>
+            </form>
+            <def>milking.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e559">
+            <form>
+               <orth>leigeil</orth>
+            </form>
+            <def>milking.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e568">
+            <form>
+               <orth>striopadh</orth>
+            </form>
+            <def>milking to the last drop (stripping).</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e577">
+            <form>
+               <orth>deurannan</orth>
+            </form>
+            <def>last milk.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e586">
+            <form>
+               <orth>deoghal</orth>
+            </form>
+            <def>suckling.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e595">
+            <form>
+               <orth>àm an eadraidh</orth>
+            </form>
+            <def>milking-time.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e604">
+            <form>
+               <orth>bainne buidhe</orth>
+            </form>
+            <def>beastings. (Inverness)</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e613">
+            <form>
+               <orth>bainne nois</orth>
+            </form>
+            <def>beastings. (Inverness)</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e622">
+            <form>
+               <orth>ceud-bainne</orth>
+            </form>
+            <def>beastings. (Victoria)</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e631">
+            <form>
+               <orth>nùis</orth>
+            </form>
+            <def>beastings. (Victoria)</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e640">
+            <form>
+               <orth>bacaid</orth>
+            </form>
+            <def>milk-pail.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Canada_CanadaMacKinnonetalcattle-d0e648"
+             subtype="h1">8. Feeding</ab>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e653">
+            <form>
+               <orth>biathadh</orth>
+            </form>
+            <def>feeding.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e662">
+            <form>
+               <orth>feuradh</orth>
+            </form>
+            <def>grazing (seldom used).</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-idola48">
+            <form>
+               <orth>[herding]</orth>
+            </form>
+            <def>(Little real herding done; one generally let the cows out of the barn to the field.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Canada_CanadaMacKinnonetalcattle-d0e679"
+             subtype="h1">9. Apparatus</ab>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e684">
+            <form>
+               <orth>teadhair</orth>
+            </form>
+            <def>tether.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e693">
+            <form>
+               <orth>buarach</orth>
+            </form>
+            <def>milking-fetter.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e702">
+            <form>
+               <orth>stainseal</orth>
+            </form>
+            <def>stanchion.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e711">
+            <form>
+               <orth>steichean</orth>
+            </form>
+            <def>stakes.</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e720">
+            <form>
+               <orth>crocan</orth>
+            </form>
+            <def>spikes put on a calf to keep it from sucking.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Canada_CanadaMacKinnonetalcattle-d0e728"
+             subtype="h1">10. Diseases</ab>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e733">
+            <form>
+               <orth>ruadh</orth>
+            </form>
+            <def>any inflammation, esp. milk-fever (V. [Victoria?] ruaidhe).</def>
+         </entry>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e742">
+            <form>
+               <orth>cailleach chribeach</orth>
+            </form>
+            <def>when a cow’s cheek gets inside her teeth and forms a sore.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Canada_CanadaMacKinnonetalcattle-d0e750"
+             subtype="h1">11. Miscellaneous</ab>
+         <entry xml:id="Canada_CanadaMacKinnonetalcattle-d0e755">
+            <form>
+               <orth>buachar</orth>
+            </form>
+            <def>dung, esp. of cows.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

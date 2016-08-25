@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_PortvollerMFergusonslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>19/04/1967</date>
+            <location>
+               <placeName>Lewis, Point, Portvoller</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>?</persName>
+            </person>
+            <person role="informant">
+               <persName>Murdo Ferguson</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_PortvollerMFergusonslips-idp115489456">
+            <form>
+               <orth>othaig</orth>
+            </form>
+            <def>Notes: used of a habit, and most especially a bad habit. (Check again in context.)</def>
+         </entry>
+         <entry xml:id="Slips_PortvollerMFergusonslips-idp115452160">
+            <form>
+               <orth>frulasg</orth>
+            </form>
+            <def>Quotation: Chaidh na lìn frulasg. Notes: frulasg = troimh-a-chéile.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

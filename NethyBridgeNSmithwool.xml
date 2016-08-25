@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WoolworkingandFishing_NethyBridgeNSmithwool">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Inverness-shire, Nethy Bridge</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>self</persName>
+            </person>
+            <person role="informant">
+               <persName>Noel Smith</persName>
+               <age>38</age>
+               <birth>
+                  <placeName>Inverness-shire, Nethy Bridge</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Wool-Working</term>
+               <term xml:lang="gd">Obair na Clòimhe</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_NethyBridgeNSmithwool-d0e29"
+             subtype="h1">1. Raw wool</ab>
+         <entry xml:id="WoolworkingandFishing_NethyBridgeNSmithwool-d0e34">
+            <form>
+               <orth>cloimh</orth>
+            </form>
+            <def>wool</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_NethyBridgeNSmithwool-d0e42"
+             subtype="h1">2. Oil or grease put on wool before carding</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_NethyBridgeNSmithwool-d0e46"
+             subtype="h1">3. Carding</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_NethyBridgeNSmithwool-d0e50"
+             subtype="h1">4. Spinning</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_NethyBridgeNSmithwool-d0e54"
+             subtype="h1">5. Parts of the spinning wheel</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_NethyBridgeNSmithwool-d0e58"
+             subtype="h1">6. Yarn and associated apparatus</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_NethyBridgeNSmithwool-d0e62"
+             subtype="h1">7. Dyeing</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_NethyBridgeNSmithwool-d0e66"
+             subtype="h1">8. Washing after dyeing</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_NethyBridgeNSmithwool-d0e70"
+             subtype="h1">9. Warping</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_NethyBridgeNSmithwool-d0e74"
+             subtype="h1">10. Beaming and tying</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_NethyBridgeNSmithwool-d0e78"
+             subtype="h1">11. Weaving</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_NethyBridgeNSmithwool-d0e82"
+             subtype="h1">12. Parts of the weaving loom</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_NethyBridgeNSmithwool-d0e86"
+             subtype="h1">13. Finishing</ab>
+      </body>
+   </text>
+</TEI>

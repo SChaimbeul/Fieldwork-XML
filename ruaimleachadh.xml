@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Word-lists_ruaimleachadh">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1951 (note dated 30/1/1976)</date>
+            <location>
+               <placeName>Uist</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>Iain [JL Campbell?]</persName>
+            </person>
+            <person role="informant">
+               <persName>?</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Word-lists_ruaimleachadh-idp2790000">
+            <form>
+               <orth>ruaimleachadh</orth>
+            </form>
+            <def>A ribald ‘oran basaidh’ recorded at a luadhadh in Uist in 1951: Hug hoireann ó, ’s e m’aighear i (ABA refrain) / ’S e Raghnall théid a laighe leat / ’S e … C. a fhuair thu / ’S e Iain Nill Mhoir a nì do ruaimleachadh (as far as I can make out). Have you instances of ‘ruaimleachadh’ in this sense?</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

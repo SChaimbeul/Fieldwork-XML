@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Peat_ShawbostJuniorSecondarymoine">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Lewis, Shawbost</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[school]</persName>
+            </person>
+            <person role="informant">
+               <persName>Shawbost Junior Secondary</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Peat-Working</term>
+               <term xml:lang="gd">Mòine</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Peat_ShawbostJuniorSecondarymoine-d0e23"
+             subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e28">
+            <form>
+               <orth>rùsgadh</orth>
+            </form>
+            <def>removing the turf to get at the soft peat.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e37">
+            <form>
+               <orth>glanadh</orth>
+            </form>
+            <def>further clearing of the surface.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_ShawbostJuniorSecondarymoine-d0e45"
+             subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e50">
+            <form>
+               <orth>poll mòna</orth>
+            </form>
+            <def>a peat bank.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e59">
+            <form>
+               <orth>blàr mòna</orth>
+            </form>
+            <def>a large area of [peat] banks.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e68">
+            <form>
+               <orth>ath bhlàr</orth>
+            </form>
+            <def>an area that has been cut [for peat] before and is being used again.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e77">
+            <form>
+               <orth>grobhag</orth>
+            </form>
+            <def>a very small peat bank.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e86">
+            <form>
+               <orth>riasg</orth>
+            </form>
+            <def>the soft peat.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e95">
+            <form>
+               <orth>carcair</orth>
+            </form>
+            <def>portion of peat bank stripped of the top turf.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e104">
+            <form>
+               <orth>bàrr-fhàd</orth>
+            </form>
+            <def>top tier of peats.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e113">
+            <form>
+               <orth>fàd a’ ghàraidh</orth>
+            </form>
+            <def>second tier of peats.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e122">
+            <form>
+               <orth>caoran</orth>
+            </form>
+            <def>lowest tier of peats.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e131">
+            <form>
+               <orth>corfhàdan</orth>
+            </form>
+            <def>thick peats cut from outer edge of bank.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e140">
+            <form>
+               <orth>gàradh</orth>
+            </form>
+            <def>rows of peats on top of each other at front edge of bank.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e149">
+            <form>
+               <orth>gearradh</orth>
+            </form>
+            <def>cutting the peats.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e158">
+            <form>
+               <orth>sadadh</orth>
+            </form>
+            <def>throwing the peats.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e167">
+            <form>
+               <orth>sgioba</orth>
+            </form>
+            <def>a band of workers for peat-cutting.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e176">
+            <form>
+               <orth>tairisgeir</orth>
+            </form>
+            <def>a peat-iron for cutting.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e185">
+            <form>
+               <orth>spaid</orth>
+            </form>
+            <def>spade for taking the turf off the bank.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e194">
+            <form>
+               <orth>ceap</orth>
+            </form>
+            <def>a small turf, sod.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e203">
+            <form>
+               <orth>ris a’ mhòine</orth>
+            </form>
+            <def>cutting the peats.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_ShawbostJuniorSecondarymoine-d0e211"
+             subtype="h1">3. A’ tiormachadh na mònach</ab>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e216">
+            <form>
+               <orth>rùdhadh</orth>
+            </form>
+            <def>standing the peats on end to dry.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e225">
+            <form>
+               <orth>ath rùdhadh</orth>
+            </form>
+            <def>making them [i.e. peats] into bigger heaps.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e234">
+            <form>
+               <orth>rùdhan</orth>
+            </form>
+            <def>a small heap of peats.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e243">
+            <form>
+               <orth>ath rùdhan</orth>
+            </form>
+            <def>a bigger heap of peat.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_ShawbostJuniorSecondarymoine-d0e251"
+             subtype="h1">4. A’ cruachadh na mònach</ab>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e256">
+            <form>
+               <orth>aiseag</orth>
+            </form>
+            <def>gathering the peats to one place.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e265">
+            <form>
+               <orth>stéidheadh</orth>
+            </form>
+            <def>making a wall of peats round the stack.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e274">
+            <form>
+               <orth>ceapadh</orth>
+            </form>
+            <def>covering the stack with turf.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_ShawbostJuniorSecondarymoine-d0e282"
+             subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e287">
+            <form>
+               <orth>cliabh</orth>
+            </form>
+            <def>creel.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e296">
+            <form>
+               <orth>cart</orth>
+            </form>
+            <def>cart.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_ShawbostJuniorSecondarymoine-d0e304"
+             subtype="h1">6. Seòrsachan mònach</ab>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e309">
+            <form>
+               <orth>mòine dhubh</orth>
+            </form>
+            <def>black peat.</def>
+         </entry>
+         <entry xml:id="Peat_ShawbostJuniorSecondarymoine-d0e318">
+            <form>
+               <orth>mòine bhàn</orth>
+            </form>
+            <def>light coloured fibrous peat.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Peat_ShawbostJuniorSecondarymoine-d0e326"
+             subtype="h1">7. Faclan eile</ab>
+      </body>
+   </text>
+</TEI>

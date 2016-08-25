@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_ShiskineJRobertsonslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1967</date>
+            <location>
+               <placeName>Arran, Shiskine</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>John Robertson</persName>
+               <age>95</age>
+               <birth>
+                  <placeName>Arran</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_ShiskineJRobertsonslips-idp161830456">
+            <form>
+               <orth>[vwɛ]</orth>
+            </form>
+            <def>Notes: bha. Pronunciation as above particularly as answer to a question.</def>
+         </entry>
+         <entry xml:id="Slips_ShiskineJRobertsonslips-idp161827504">
+            <form>
+               <orth>[skipɑiṉ]</orth>
+            </form>
+            <def>Quotation: Am bi sibh a’ buain le féith no am bi [skipɑiṉ] ann?</def>
+         </entry>
+         <entry xml:id="Slips_ShiskineJRobertsonslips-idp161823688">
+            <form>
+               <orth>[kɛriṉ]</orth>
+            </form>
+            <def>Quotation: [kɛriṉ], [kɑriṉ]. Notes: chairs. (?)</def>
+         </entry>
+         <entry xml:id="Slips_ShiskineJRobertsonslips-idp161844424">
+            <form>
+               <orth>muc-a-bhiorach</orth>
+               <pron>[muk ə birəx]</pron>
+            </form>
+            <def>[muk ə birəx] Notes: porpoise.</def>
+         </entry>
+         <entry xml:id="Slips_ShiskineJRobertsonslips-idp161846152">
+            <form>
+               <orth>Nollaig</orth>
+            </form>
+            <def>Quotation: Bhiodh là mór a’ chamhanachd Là [noɫitʹ].</def>
+         </entry>
+         <entry xml:id="Slips_ShiskineJRobertsonslips-idp161847952">
+            <form>
+               <orth>samhradh</orth>
+            </form>
+            <def>Quotation: anns a [tɔ̃vrɑk].</def>
+         </entry>
+         <entry xml:id="Slips_ShiskineJRobertsonslips-idp161849680">
+            <form>
+               <orth>timchioll</orth>
+            </form>
+            <def>Quotation: Bhiodh esan a’ dol [tʃiməɫ] a’ ceisteachadh [kɛsṉəxəɣ].</def>
+         </entry>
+         <entry xml:id="Slips_ShiskineJRobertsonslips-idp161851768">
+            <form>
+               <orth>buntàta</orth>
+            </form>
+            <def>Quotation: [pə̃tɛtə]. Notes: &lt; Eng. ‘potato’?</def>
+         </entry>
+         <entry xml:id="Slips_ShiskineJRobertsonslips-idp161853640">
+            <form>
+               <orth>ceann</orth>
+            </form>
+            <def>Quotation: a’ cur am mòine air cheann son tiormachadh [tʹirməxk] (sic).</def>
+         </entry>
+         <entry xml:id="Slips_ShiskineJRobertsonslips-idp161855512">
+            <form>
+               <orth>ceisteachadh</orth>
+               <pron>[kɛsṉəxəɣ]</pron>
+            </form>
+            <def>[kɛsṉəxəɣ] </def>
+         </entry>
+         <entry xml:id="Slips_ShiskineJRobertsonslips-idp161857240">
+            <form>
+               <orth>craobh</orth>
+            </form>
+            <def>Quotation: pl. [krɛvən].</def>
+         </entry>
+         <entry xml:id="Slips_ShiskineJRobertsonslips-idp161858968">
+            <form>
+               <orth>eileag</orth>
+            </form>
+            <def>Quotation: seachdain [eɫɑk]. Notes: For ‘eile’.</def>
+         </entry>
+         <entry xml:id="Slips_ShiskineJRobertsonslips-idp161860840">
+            <form>
+               <orth>fair</orth>
+               <pron>[fɑir]</pron>
+            </form>
+            <def>[fɑir] Quotation: Fair Ghlaschu [fɑir ɡɫɛsko]. Notes: Glasgow Fair.</def>
+         </entry>
+         <entry xml:id="Slips_ShiskineJRobertsonslips-idp161862928">
+            <form>
+               <orth>geamradh</orth>
+            </form>
+            <def>Quotation: anns a’ [jɔ̃rək].</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

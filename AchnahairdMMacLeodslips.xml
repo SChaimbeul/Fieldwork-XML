@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_AchnahairdMMacLeodslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>10/1969</date>
+            <location>
+               <placeName>Ross-shire, Achnahaird</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Murdo MacLeod</persName>
+               <age>80s</age>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_AchnahairdMMacLeodslips-idp167338112">
+            <form>
+               <orth>luid</orth>
+            </form>
+            <def>Quotation: luid uisge. Notes: thin covering of water on the ground. (pl. of lod?)</def>
+         </entry>
+         <entry xml:id="Slips_AchnahairdMMacLeodslips-idp167339840">
+            <form>
+               <orth>raide</orth>
+               <pron>[rɑdʹə]</pron>
+            </form>
+            <def>[rɑdʹə] Notes: small, broad-leafed plant which cattle won’t eat.</def>
+         </entry>
+         <entry xml:id="Slips_AchnahairdMMacLeodslips-idp167341640">
+            <form>
+               <orth>pot</orth>
+               <pron>[pɔt̪]</pron>
+            </form>
+            <def>[pɔt̪] Notes: a natural deep hole in the ground.</def>
+         </entry>
+         <entry xml:id="Slips_AchnahairdMMacLeodslips-idp167343368">
+            <form>
+               <orth>stàrn</orth>
+            </form>
+            <def>Notes: A kind of reed growing in soft places. About the height of corn. Has some leaves at the top.</def>
+         </entry>
+         <entry xml:id="Slips_AchnahairdMMacLeodslips-idp167344880">
+            <form>
+               <orth>tuanaich</orth>
+            </form>
+            <def>Quotation: tuanaich do bhòt. Notes: open, set free.</def>
+         </entry>
+         <entry xml:id="Slips_AchnahairdMMacLeodslips-idp167346536">
+            <form>
+               <orth>anamaig</orth>
+               <pron>[ɑ̃ṉɑ̃mıɡʹ]</pron>
+            </form>
+            <def>[ɑ̃ṉɑ̃mıɡʹ] Quotation: ’S ann anamaig a chunna mi e. Notes: seldom. (or anmaig)</def>
+         </entry>
+         <entry xml:id="Slips_AchnahairdMMacLeodslips-idp167348408">
+            <form>
+               <orth>buidheag-bhuidhe</orth>
+            </form>
+            <def>Notes: yellow flower growing in corn. (Prob. sgeallan.)</def>
+         </entry>
+         <entry xml:id="Slips_AchnahairdMMacLeodslips-idp167349920">
+            <form>
+               <orth>falaisg</orth>
+               <pron>[fɑɫiʃɡʹ]</pron>
+            </form>
+            <def>[fɑɫiʃɡʹ] Quotation: Dh’fhalbh iad a dh’fhalaisgeadh. Notes: vb. set fire to the heather.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

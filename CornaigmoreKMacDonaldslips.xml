@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Slips_CornaigmoreKMacDonaldslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>10/1970</date>
+            <location>
+               <placeName>Tiree, Cornaigmore</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Kenny MacDonald</persName>
+               <birth>
+                  <placeName>Uig, Lewis</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_CornaigmoreKMacDonaldslips-idp161836856">
+            <form>
+               <orth>rangais</orth>
+               <pron>[rɑŋɡiʃ]</pron>
+            </form>
+            <def>[rɑŋɡiʃ] Notes: the strap running the length of the boat on which the seats rest on each side.</def>
+         </entry>
+         <entry xml:id="Slips_CornaigmoreKMacDonaldslips-idp161838584">
+            <form>
+               <orth>reang</orth>
+            </form>
+            <def>Quotation: reangan stòbhaig [rɛ̃ɣəṉsṯɔ:viɡʹ]. Notes: ribs put between the “urlair”. Laid across the boat, steamed and stood on.</def>
+         </entry>
+         <entry xml:id="Slips_CornaigmoreKMacDonaldslips-idp161840456">
+            <form>
+               <orth>it-fhiach</orth>
+            </form>
+            <def>Notes: gullet.</def>
+         </entry>
+         <entry xml:id="Slips_CornaigmoreKMacDonaldslips-idp161841968">
+            <form>
+               <orth>tòc</orth>
+            </form>
+            <def>Quotation: a’ toirt an tòc bho bhó, bho chaora, na bho each. Notes: lump on the skin over the eye. Skin was lifted, needle put through this skin with double thread, held, and slivers were cut off the lump with a knife.</def>
+         </entry>
+         <entry xml:id="Slips_CornaigmoreKMacDonaldslips-idp161843624">
+            <form>
+               <orth>treaghanach</orth>
+               <pron>[t̪ɾɤɣɑ̃ṉɔx]</pron>
+            </form>
+            <def>[t̪ɾɤɣɑ̃ṉɔx] Notes: a cow which hasn’t calved for over three years.</def>
+         </entry>
+         <entry xml:id="Slips_CornaigmoreKMacDonaldslips-idp161845424">
+            <form>
+               <orth>ceannachradh</orth>
+               <pron>[cɑ̃nɑxɾɑɣ]</pron>
+            </form>
+            <def>[cɑ̃nɑxɾɑɣ] Notes: thwart brace.  [NOTES: slipped under ‘ceannachnadh’.]</def>
+         </entry>
+         <entry xml:id="Slips_CornaigmoreKMacDonaldslips-idp161847296">
+            <form>
+               <orth>fàladair</orth>
+               <pron>[fɑ:ɫəd̪ɛð]</pron>
+            </form>
+            <def>[fɑ:ɫəd̪ɛð] Notes: grass that comes up later on in the year in a place which has been grazed in early summer.</def>
+         </entry>
+         <entry xml:id="Slips_CornaigmoreKMacDonaldslips-idp161849024">
+            <form>
+               <orth>feannadh-builg</orth>
+               <pron>[fjɑ̃n̪əɣbu̟liɡʹ]</pron>
+            </form>
+            <def>[fjɑ̃n̪əɣbu̟liɡʹ] Quotation: a’ deanamh feannadh-builg. Notes: a method of skinning a rabbit or even a sheep (?). A hole was made in the skin. The person doing the skinning would then blow through the hole forcing the skin to rise from the carcase.</def>
+         </entry>
+         <entry xml:id="Slips_CornaigmoreKMacDonaldslips-idp161850896">
+            <form>
+               <orth>fuar</orth>
+            </form>
+            <def>Quotation: a’ toirt a mach an dòrn fhuar. Notes: feat of strength tried when a cow was killed. One of the legs was caught near the hoof and twisted till it broke from the knee, then twisting was continued till the skin broke.</def>
+         </entry>
+         <entry xml:id="Slips_CornaigmoreKMacDonaldslips-idp161852552">
+            <form>
+               <orth>gamhnach</orth>
+            </form>
+            <def>Notes: a cow which hasn’t calved for over a year.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_PortreeSMacKinnonslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>07/1970</date>
+            <location>
+               <placeName>Skye, Portree</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Sandy MacKinnon</persName>
+               <birth>
+                  <placeName>Elgol</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_PortreeSMacKinnonslips-idp162203072">
+            <form>
+               <orth>mìr</orth>
+            </form>
+            <def>Quotation: mìr arbhair, mìr fheòir. Notes: a quantity inside the barn.</def>
+         </entry>
+         <entry xml:id="Slips_PortreeSMacKinnonslips-idp162204296">
+            <form>
+               <orth>seiseach</orth>
+               <pron>[ʃ[ɤı]</pron>
+            </form>
+            <def>[ʃ[ɤı]ʃɑx] Notes: wooden seat.</def>
+         </entry>
+         <entry xml:id="Slips_PortreeSMacKinnonslips-idp162207752">
+            <form>
+               <orth>smotach</orth>
+            </form>
+            <def>Notes: nasal in speech.</def>
+         </entry>
+         <entry xml:id="Slips_PortreeSMacKinnonslips-idp162209336">
+            <form>
+               <orth>beinge</orth>
+               <pron>[b[ɤı]</pron>
+            </form>
+            <def>[b[ɤı]nʹhə] Notes: wooden seat.</def>
+         </entry>
+         <entry xml:id="Slips_PortreeSMacKinnonslips-idp162210560">
+            <form>
+               <orth>brìg</orth>
+            </form>
+            <def>Quotation: brìg bhuntàta, brìg mhòineadh. Notes: a neatly stacked quantity. Potatoes would usually be inside the barn.</def>
+         </entry>
+         <entry xml:id="Slips_PortreeSMacKinnonslips-idp162212216">
+            <form>
+               <orth>croislean</orth>
+            </form>
+            <def>Notes: a cross-piece of wood.</def>
+         </entry>
+         <entry xml:id="Slips_PortreeSMacKinnonslips-idp162195584">
+            <form>
+               <orth>crom-riabhach</orth>
+               <pron>[ɡɾɤmriɤɤx]</pron>
+            </form>
+            <def>[ɡɾɤmriɤɤx] Notes: bird, may be a snipe. Has a long beak.</def>
+         </entry>
+         <entry xml:id="Slips_PortreeSMacKinnonslips-idp162194072">
+            <form>
+               <orth>cuinneag</orth>
+            </form>
+            <def>Notes: a small wooden tub-like vessel.</def>
+         </entry>
+         <entry xml:id="Slips_PortreeSMacKinnonslips-idp162090392">
+            <form>
+               <orth>giurnalair</orth>
+               <pron>[ɡʹw:ʴnʹəlɑɾ]</pron>
+            </form>
+            <def>[ɡʹw:ʴnʹəlɑɾ] Quotation: giurnalair mineadh. Notes: a barrel for holding meal and flour, sometimes with a partition down the middle. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

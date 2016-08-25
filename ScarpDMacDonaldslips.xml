@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_ScarpDMacDonaldslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1984-86</date>
+            <location>
+               <placeName>Harris, Scarp</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>Donald MacDonald</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_ScarpDMacDonaldslips-idp161827952">
+            <form>
+               <orth>craslach</orth>
+            </form>
+            <def>Notes: bare skeleton of an animal.</def>
+         </entry>
+         <entry xml:id="Slips_ScarpDMacDonaldslips-idp161829464">
+            <form>
+               <orth>stìombaireachd</orth>
+            </form>
+            <def>Notes: used of a toddler getting into everything.</def>
+         </entry>
+         <entry xml:id="Slips_ScarpDMacDonaldslips-idp161830976">
+            <form>
+               <orth>frice-fò</orth>
+            </form>
+            <def>Quotation: Cha mhotha e na frice-fò. Notes: something small; insect?</def>
+         </entry>
+         <entry xml:id="Slips_ScarpDMacDonaldslips-idp161832632">
+            <form>
+               <orth>geamh</orth>
+            </form>
+            <def>Quotation: Tha iad ann a siod geamh air gheamh. Notes: of verbal sniping: tit for tat.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

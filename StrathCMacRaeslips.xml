@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_StrathCMacRaeslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>12/1969</date>
+            <location>
+               <placeName>Ross-shire, Gairloch, Strath</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Catherine MacRae</persName>
+               <birth>
+                  <placeName>Harris [?]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_StrathCMacRaeslips-idp115456808">
+            <form>
+               <orth>snàth</orth>
+            </form>
+            <def>Quotation: snàth cuthaigidh. Notes: marl wool.</def>
+         </entry>
+         <entry xml:id="Slips_StrathCMacRaeslips-idp115481504">
+            <form>
+               <orth>cuthaigeadh</orth>
+            </form>
+            <def>Quotation: snàth cuthaigidh. Notes: marl wool.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

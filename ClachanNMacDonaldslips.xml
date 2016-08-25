@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_ClachanNMacDonaldslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>02/1969</date>
+            <location>
+               <placeName>North Uist, Clachan</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Rev. Norman MacDonald</persName>
+               <age>c. 60</age>
+               <birth>
+                  <placeName>Skye</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_ClachanNMacDonaldslips-idp166274384">
+            <form>
+               <orth>rèip</orth>
+               <pron>[rɛ:p]</pron>
+            </form>
+            <def>[rɛ:p] Quotation: Dh’fhàg e [rɛ:p] sios air a’ bhroilleach. Notes: untidy mess on clothes.</def>
+         </entry>
+         <entry xml:id="Slips_ClachanNMacDonaldslips-idp166276544">
+            <form>
+               <orth>tòtaman</orth>
+               <pron>[ṯɔ:ṯɑ̃mɑṉ]</pron>
+            </form>
+            <def>[ṯɔ:ṯɑ̃mɑṉ] Notes: a spinning top.</def>
+         </entry>
+         <entry xml:id="Slips_ClachanNMacDonaldslips-idp166278272">
+            <form>
+               <orth>cart</orth>
+            </form>
+            <def>Quotation: Cart na cosgais. Notes: (Uist) the cart which contained the spirits, biscuits and cheese, and tobacco, and which followed the remains at a funeral. [NOTES: slipped under ‘cairt na cosgais’.]</def>
+         </entry>
+         <entry xml:id="Slips_ClachanNMacDonaldslips-idp166280072">
+            <form>
+               <orth>dànas</orth>
+            </form>
+            <def>Quotation: “Nach ann ort a tha ’n dànas.” Notes: sport, diversion.</def>
+         </entry>
+         <entry xml:id="Slips_ClachanNMacDonaldslips-idp166281728">
+            <form>
+               <orth>déile-bhogadain</orth>
+               <pron>[dʹɤıləvoɡəd̪ɑ̃nʹ]</pron>
+            </form>
+            <def>[dʹɤıləvoɡəd̪ɑ̃nʹ] Notes: see-saw.</def>
+         </entry>
+         <entry xml:id="Slips_ClachanNMacDonaldslips-idp166283456">
+            <form>
+               <orth>dóite</orth>
+               <pron>[d̪o:tʹə]</pron>
+            </form>
+            <def>[d̪o:tʹə] Notes: bare, without anything.</def>
+         </entry>
+         <entry xml:id="Slips_ClachanNMacDonaldslips-idp166285184">
+            <form>
+               <orth>[ɡɑ̃:]</orth>
+            </form>
+            <def>Quotation: [ɡɑ̃:] ris an fhardaich. Notes: in the immediate vicinity of the house.</def>
+         </entry>
+         <entry xml:id="Slips_ClachanNMacDonaldslips-idp166287272">
+            <form>
+               <orth>goirisg</orth>
+            </form>
+            <def>Notes: half-wit.</def>
+         </entry>
+         <entry xml:id="Slips_ClachanNMacDonaldslips-idp166288928">
+            <form>
+               <orth>grìseann</orth>
+            </form>
+            <def>Notes: shivering spasm due to cold.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

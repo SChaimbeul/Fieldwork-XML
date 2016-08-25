@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Peat_peatloosepage">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: a loose page that looks more like a draft than a proper word-list. The first half is divided into three columns but the purpose of the arrangement is unclear (to allow comparison between dialectal variants?).]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation/>
+         <textClass>
+            <keywords>
+               <term>Peat-Working</term>
+               <term xml:lang="gd">Mòine</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Peat_peatloosepage-d0e15">
+            <form>
+               <orth>fosgladh poll ùr</orth>
+            </form>
+         </entry>
+         <ab type="heading" xml:id="Peat_peatloosepage-d0e20" subtype="h1">[blank]</ab>
+         <entry xml:id="Peat_peatloosepage-d0e25">
+            <form>
+               <orth>am blàr mònach</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e31">
+            <form>
+               <orth>am poll mònach</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e37">
+            <form>
+               <orth>am poll ùr</orth>
+            </form>
+         </entry>
+         <ab type="heading" xml:id="Peat_peatloosepage-d0e42" subtype="h1">[blank]</ab>
+         <entry xml:id="Peat_peatloosepage-d0e47">
+            <form>
+               <orth>bac-mòine</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e53">
+            <form>
+               <orth>grunnd a’ bhaic</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e59">
+            <form>
+               <orth>mullach a’ bhaic</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e65">
+            <form>
+               <orth>ceann/ceann shìos (Skye)</orth>
+            </form>
+         </entry>
+         <ab type="heading" xml:id="Peat_peatloosepage-d0e70" subtype="h1">[blank]</ab>
+         <entry xml:id="Peat_peatloosepage-d0e75">
+            <form>
+               <orth>sgaoilteach (Gairloch)</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e81">
+            <form>
+               <orth>fuar-thalamh (Gairloch)</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e87">
+            <form>
+               <orth>mòinteach bheò (Gairloch)</orth>
+            </form>
+         </entry>
+         <ab type="heading" xml:id="Peat_peatloosepage-d0e92" subtype="h1">[blank]</ab>
+         <entry xml:id="Peat_peatloosepage-d0e97">
+            <form>
+               <orth>leigeil nam poll</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e103">
+            <form>
+               <orth>ligeadh (North Uist)</orth>
+            </form>
+         </entry>
+         <ab type="heading" xml:id="Peat_peatloosepage-d0e108" subtype="h1">[blank]</ab>
+         <entry xml:id="Peat_peatloosepage-d0e113">
+            <form>
+               <orth>riachadh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e119">
+            <form>
+               <orth>priogadh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e125">
+            <form>
+               <orth>a’ rodaigeadh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e131">
+            <form>
+               <orth>a’ breacadh (Sleat)</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e137">
+            <form>
+               <orth>a’ susadh (North Uist)</orth>
+            </form>
+         </entry>
+         <ab type="heading" xml:id="Peat_peatloosepage-d0e142" subtype="h1">[blank]</ab>
+         <entry xml:id="Peat_peatloosepage-d0e147">
+            <form>
+               <orth>cargur</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e153">
+            <form>
+               <orth>riasg / sgrath</orth>
+            </form>
+         </entry>
+         <ab type="heading" xml:id="Peat_peatloosepage-d0e158" subtype="h1">[blank]</ab>
+         <entry xml:id="Peat_peatloosepage-d0e163">
+            <form>
+               <orth>rùsgadh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e169">
+            <form>
+               <orth>feannadh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e175">
+            <form>
+               <orth>faileadh (Harris)</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e181">
+            <form>
+               <orth>barradh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e187">
+            <form>
+               <orth>a’ sgoltadh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e193">
+            <form>
+               <orth>sgoradh (Taransay)</orth>
+            </form>
+         </entry>
+         <ab type="heading" xml:id="Peat_peatloosepage-d0e198" subtype="h1">[blank]</ab>
+         <entry xml:id="Peat_peatloosepage-d0e203">
+            <form>
+               <orth>leagail nan rùsg</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e209">
+            <form>
+               <orth>a càradh nan rùsg / an fheanntach</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e215">
+            <form>
+               <orth>glanadh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e221">
+            <form>
+               <orth>leagail nan ceap / càradh nan ceap</orth>
+            </form>
+         </entry>
+         <ab type="heading" xml:id="Peat_peatloosepage-d0e226" subtype="h1">[blank]</ab>
+         <entry xml:id="Peat_peatloosepage-d0e231">
+            <form>
+               <orth>ceann is earball</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e237">
+            <form>
+               <orth>ceaba làir</orth>
+            </form>
+         </entry>
+         <ab type="heading" xml:id="Peat_peatloosepage-d0e242" subtype="h1">[blank]</ab>
+         <entry xml:id="Peat_peatloosepage-d0e247">
+            <form>
+               <orth>meighe = carcaire</orth>
+            </form>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e253">
+            <form>
+               <orth>meithe (width – Grimsay)</orth>
+            </form>
+         </entry>
+         <ab type="heading" xml:id="Peat_peatloosepage-d0e258" subtype="h1">[blank]</ab>
+         <entry xml:id="Peat_peatloosepage-d0e263">
+            <form>
+               <orth>carcaire</orth>
+            </form>
+            <def>an leud mònadh a leigeadh ris.</def>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e269">
+            <form>
+               <orth>[grabhag]</orth>
+            </form>
+            <def>grabhag – poll-mònadh beag, goirid.</def>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e275">
+            <form>
+               <orth>[grinneal]</orth>
+            </form>
+            <def>an grinneal – a ruigear nuair a theirgeas a’ mhòine.</def>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e281">
+            <form>
+               <orth>[peirceal]</orth>
+            </form>
+            <def>peirceal a’ phuill: aghaidh a’ ph[uill].</def>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e287">
+            <form>
+               <orth>sgriosadh</orth>
+            </form>
+            <def>‘slicing last portions before coming to peat proper’. (Barra)</def>
+         </entry>
+         <entry xml:id="Peat_peatloosepage-d0e293">
+            <form>
+               <orth>a’ sadhsadh</orth>
+            </form>
+            <def>stripping face of peat bog. (Skye)</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

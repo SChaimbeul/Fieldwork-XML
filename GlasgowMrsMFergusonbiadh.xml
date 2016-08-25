@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="AOHenley_GlasgowMrsMFergusonbiadh">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[1987-88]</date>
+            <location>
+               <placeName>[Glasgow]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>A. O’Henley</persName>
+            </person>
+            <person role="informant">
+               <persName>Mrs M. Ferguson</persName>
+               <birth>
+                  <placeName>Islay</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Food and Drink</term>
+               <term xml:lang="gd">Biadh is Deoch</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="AOHenley_GlasgowMrsMFergusonbiadh-d0e29"
+             subtype="h1">1. Na tràthan</ab>
+         <entry xml:id="AOHenley_GlasgowMrsMFergusonbiadh-idp112507024">
+            <form>
+               <orth>braicebhas</orth>
+            </form>
+            <def>breakfast. Usually consisted of fish.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_GlasgowMrsMFergusonbiadh-d0e42"
+             subtype="h1">2. Am biadh a bhidhte gabhail aig gach tràth</ab>
+         <ab type="heading"
+             xml:id="AOHenley_GlasgowMrsMFergusonbiadh-d0e46"
+             subtype="h1">3. Dòighean air biadh a dheasachadh</ab>
+         <entry xml:id="AOHenley_GlasgowMrsMFergusonbiadh-idp112552240">
+            <form>
+               <orth>grèat</orth>
+            </form>
+            <def>range.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowMrsMFergusonbiadh-idp112458352">
+            <form>
+               <orth>suabhaill</orth>
+            </form>
+            <def>chain on which a pot hung above the fire.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowMrsMFergusonbiadh-idp112431712">
+            <form>
+               <orth>gealabhan</orth>
+            </form>
+            <def>fire.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowMrsMFergusonbiadh-idp112546768">
+            <form>
+               <orth>gruideal</orth>
+            </form>
+            <def>griddle.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowMrsMFergusonbiadh-idp112498312">
+            <form>
+               <orth>duaich</orth>
+            </form>
+            <def>ash. Baking wrapped and placed in hot ashes to cook.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_GlasgowMrsMFergusonbiadh-d0e95"
+             subtype="h1">4. Fuine</ab>
+         <entry xml:id="AOHenley_GlasgowMrsMFergusonbiadh-idp112453960">
+            <form>
+               <orth>taois</orth>
+            </form>
+            <def>dough.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_GlasgowMrsMFergusonbiadh-d0e108"
+             subtype="h1">5. Deochan dhe gach seòrsa</ab>
+         <ab type="heading"
+             xml:id="AOHenley_GlasgowMrsMFergusonbiadh-d0e112"
+             subtype="h1">6. Biadh no deoch a bhidhte deanamh gu sònraichte do luchd euslan</ab>
+         <ab type="heading"
+             xml:id="AOHenley_GlasgowMrsMFergusonbiadh-d0e116"
+             subtype="h1">7. Nithean a bhiodh ann nuair a rachadh beathach a mharbhadh</ab>
+         <ab type="heading"
+             xml:id="AOHenley_GlasgowMrsMFergusonbiadh-d0e120"
+             subtype="h1">8. Faclan sam bith eile</ab>
+         <ab type="heading"
+             xml:id="AOHenley_GlasgowMrsMFergusonbiadh-d0e124"
+             subtype="h2">Weather terms</ab>
+         <entry xml:id="AOHenley_GlasgowMrsMFergusonbiadh-idp112488160">
+            <form>
+               <orth>uaill mhath</orth>
+            </form>
+            <def>a good day.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowMrsMFergusonbiadh-idp112535896">
+            <form>
+               <orth>dàth math</orth>
+            </form>
+            <def>clear sky.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowMrsMFergusonbiadh-idp112544752">
+            <form>
+               <orth>dàth dona</orth>
+            </form>
+            <def>cloudy sky.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

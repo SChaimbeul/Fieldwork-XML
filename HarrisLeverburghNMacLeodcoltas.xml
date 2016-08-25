@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HarrisVarious_HarrisLeverburghNMacLeodcoltas">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location corresp="Harris_Leverburgh"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="anonymous_D"/>
+        <person role="informant" corresp="Norman_MacLeod_Harris_Leverburgh"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Personal Appearance</term>
+          <term xml:lang="gd">Coltas an Duine</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head xml:id="HarrisVarious_HarrisLeverburghNMacLeodcoltas-d0e26">Shapes and general appearance</head>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodcoltas-d0e31">
+          <form>
+            <orth>rèic</orth>
+          </form>
+          <def>[?] a glutton.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisVarious_HarrisLeverburghNMacLeodcoltas-d0e39">Deformities, blemishes, scars</head>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodcoltas-d0e44">
+          <form>
+            <orth>ball-dòrain</orth>
+          </form>
+          <def>mole.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodcoltas-d0e53">
+          <form>
+            <orth>buile thig</orth>
+          </form>
+          <def>swelling due to [sic].</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodcoltas-d0e62">
+          <form>
+            <orth>deaghrach</orth>
+          </form>
+          <def>a pain.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodcoltas-d0e71">
+          <form>
+            <orth>deighreach</orth>
+          </form>
+          <def>bare-footed.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodcoltas-d0e80">
+          <form>
+            <orth>duine ciorramach</orth>
+          </form>
+          <def>disformed [sic] person.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodcoltas-d0e89">
+          <form>
+            <orth>làthrach</orth>
+          </form>
+          <def>[?] scar.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisVarious_HarrisLeverburghNMacLeodcoltas-d0e97">Beauty and ugliness</head>
+      </div>
+      <div>
+        <head xml:id="HarrisVarious_HarrisLeverburghNMacLeodcoltas-d0e101">Strength, fitness and the opposite</head>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodcoltas-d0e106">
+          <form>
+            <orth>aigeannach</orth>
+          </form>
+          <def>active man.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodcoltas-d0e115">
+          <form>
+            <orth>duine mea</orth>
+          </form>
+          <def>[?] slow moving, unfit person.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisVarious_HarrisLeverburghNMacLeodcoltas-d0e123">Ways of walking, sitting, lying</head>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodcoltas-d0e128">
+          <form>
+            <orth>a trotan</orth>
+          </form>
+          <def>walking quickly.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodcoltas-d0e137">
+          <form>
+            <orth>duine slaodach</orth>
+          </form>
+          <def>slow.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodcoltas-d0e146">
+          <form>
+            <orth>duine crotach</orth>
+          </form>
+          <def>hunchbacked man.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodcoltas-d0e155">
+          <form>
+            <orth>duine na bhoill</orth>
+          </form>
+          <def>duine cabhagach.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisVarious_HarrisLeverburghNMacLeodcoltas-d0e163">Pulling faces, frowns, other expressions</head>
+      </div>
+      <div>
+        <head xml:id="HarrisVarious_HarrisLeverburghNMacLeodcoltas-d0e167">Clean and untidy</head>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodcoltas-d0e172">
+          <form>
+            <orth>reibseach</orth>
+          </form>
+          <def>untidy person.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodcoltas-d0e181">
+          <form>
+            <orth>luibseach</orth>
+          </form>
+          <def>untidy.</def>
+        </entry>
+      </div>
+    </body>
+  </text>
+</TEI>

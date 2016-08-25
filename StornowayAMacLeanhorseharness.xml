@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Agriculture_StornowayAMacLeanhorseharness">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the page is stuck between the sheets of Mr Donald MacPhail’s ‘Land Cultivation’ questionnaire. The introductory ‘Contributed by Mr Angus MacLean…’ seems to be in Mr MacPhail’s handwriting.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>[Lewis], Stornoway</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Angus MacLean</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Horse Harness</term>
+               <term xml:lang="gd">Uidheamachd Eich</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Agriculture_StornowayAMacLeanhorseharness-d0e27">
+            <form>
+               <orth>sparrag</orth>
+            </form>
+            <def>bit.</def>
+         </entry>
+         <entry xml:id="Agriculture_StornowayAMacLeanhorseharness-d0e36">
+            <form>
+               <orth>sroinein</orth>
+            </form>
+            <def>strap across nose.</def>
+         </entry>
+         <entry xml:id="Agriculture_StornowayAMacLeanhorseharness-d0e45">
+            <form>
+               <orth>smeachan</orth>
+            </form>
+            <def>strap below jaws.</def>
+         </entry>
+         <entry xml:id="Agriculture_StornowayAMacLeanhorseharness-d0e54">
+            <form>
+               <orth>claigionn</orth>
+            </form>
+            <def>blinders.</def>
+         </entry>
+         <entry xml:id="Agriculture_StornowayAMacLeanhorseharness-d0e63">
+            <form>
+               <orth>gogalaich</orth>
+            </form>
+            <def>blinders.</def>
+         </entry>
+         <entry xml:id="Agriculture_StornowayAMacLeanhorseharness-d0e72">
+            <form>
+               <orth>braid-chluaisein</orth>
+            </form>
+            <def>hames.</def>
+         </entry>
+         <entry xml:id="Agriculture_StornowayAMacLeanhorseharness-d0e81">
+            <form>
+               <orth>cromag tarraing</orth>
+            </form>
+            <def>hooks on harness. [NOTES: originally ‘tarruing’.]</def>
+         </entry>
+         <entry xml:id="Agriculture_StornowayAMacLeanhorseharness-d0e90">
+            <form>
+               <orth>cromagan na briochis</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] hooks on harness.</def>
+         </entry>
+         <entry xml:id="Agriculture_StornowayAMacLeanhorseharness-d0e99">
+            <form>
+               <orth>sineachan tarraing</orth>
+            </form>
+            <def>parts on back sides. [NOTES: originally ‘tarruing’.]</def>
+         </entry>
+         <entry xml:id="Agriculture_StornowayAMacLeanhorseharness-d0e108">
+            <form>
+               <orth>iall na h-iasgaid</orth>
+            </form>
+            <def>parts round hindquarters.</def>
+         </entry>
+         <entry xml:id="Agriculture_StornowayAMacLeanhorseharness-d0e117">
+            <form>
+               <orth>iall na leasraidh</orth>
+            </form>
+            <def>loin strap.</def>
+         </entry>
+         <entry xml:id="Agriculture_StornowayAMacLeanhorseharness-d0e126">
+            <form>
+               <orth>giort na cartach</orth>
+            </form>
+            <def>rump band.</def>
+         </entry>
+         <entry xml:id="Agriculture_StornowayAMacLeanhorseharness-d0e135">
+            <form>
+               <orth>bonn dronain</orth>
+            </form>
+            <def>rump band.</def>
+         </entry>
+         <entry xml:id="Agriculture_StornowayAMacLeanhorseharness-d0e144">
+            <form>
+               <orth>braidghe</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] collar.</def>
+         </entry>
+         <entry xml:id="Agriculture_StornowayAMacLeanhorseharness-d0e153">
+            <form>
+               <orth>braid</orth>
+            </form>
+            <def>collar.</def>
+         </entry>
+         <entry xml:id="Agriculture_StornowayAMacLeanhorseharness-d0e162">
+            <form>
+               <orth>dromanach</orth>
+            </form>
+            <def>back chain.</def>
+         </entry>
+         <entry xml:id="Agriculture_StornowayAMacLeanhorseharness-d0e171">
+            <form>
+               <orth>diolaid</orth>
+            </form>
+            <def>riding saddle.</def>
+         </entry>
+         <entry xml:id="Agriculture_StornowayAMacLeanhorseharness-d0e180">
+            <form>
+               <orth>srein</orth>
+            </form>
+            <def>reins.</def>
+         </entry>
+         <entry xml:id="Agriculture_StornowayAMacLeanhorseharness-d0e189">
+            <form>
+               <orth>srian</orth>
+            </form>
+            <def>reins.</def>
+         </entry>
+         <entry xml:id="Agriculture_StornowayAMacLeanhorseharness-d0e198">
+            <form>
+               <orth>asair, fasair</orth>
+            </form>
+            <def>harness.</def>
+         </entry>
+         <entry xml:id="Agriculture_StornowayAMacLeanhorseharness-d0e207">
+            <form>
+               <orth>cromag tarruing</orth>
+            </form>
+            <def>draught-hook.</def>
+         </entry>
+         <entry xml:id="Agriculture_StornowayAMacLeanhorseharness-d0e216">
+            <form>
+               <orth>bonn dronnain</orth>
+            </form>
+            <def>rump band. [NOTES: see above where it is spelled ‘bonn dronain’.]</def>
+         </entry>
+         <entry xml:id="Agriculture_StornowayAMacLeanhorseharness-d0e225">
+            <form>
+               <orth>guailleachain</orth>
+            </form>
+            <def>shoulder strap.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

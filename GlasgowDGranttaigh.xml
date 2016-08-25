@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HouseandFurnishings_GlasgowDGranttaigh">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Glasgow</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Donald Grant</persName>
+               <persName xml:lang="gd">Domhnall Grannd </persName>
+               <age>66</age>
+               <birth>
+                  <placeName>[Skye, Camus Chroise]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>House and Furnishings</term>
+               <term xml:lang="gd">Taigh Gàidhealach</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e32"
+             subtype="h1">1. An stéidh is am balla</ab>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e37">
+            <form>
+               <orth>funnd (m)</orth>
+            </form>
+            <def>foundation.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e46">
+            <form>
+               <orth>starsach (f)</orth>
+            </form>
+            <def>threshold.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e55">
+            <form>
+               <orth>anainn (f)</orth>
+            </form>
+            <def>top of wall of house or byre.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e63"
+             subtype="h1">2. Am mullach ’s an tughadh</ab>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e68">
+            <form>
+               <orth>fà(r)las (m)</orth>
+            </form>
+            <def>smoke vent.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e76"
+             subtype="h1">3. Dorsan is uinneagan</ab>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e81">
+            <form>
+               <orth>leòsan (m)</orth>
+            </form>
+            <def>pane.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e90">
+            <form>
+               <orth>potai (m)</orth>
+            </form>
+            <def>putty.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e99">
+            <form>
+               <orth>dealan (m)</orth>
+            </form>
+            <def>door-catch, sneck.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e107"
+             subtype="h1">4. An broinn an taighe: na sèamraichean</ab>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e112">
+            <form>
+               <orth>an ceann-shìos</orth>
+            </form>
+            <def>the ‘parlour’, the ‘other’ room, ‘ben the house’.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e121">
+            <form>
+               <orth>an rum</orth>
+               <pron>[See an ceann-shìos]</pron>
+            </form>
+            <def>[See an ceann-shìos]</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e130">
+            <form>
+               <orth>a’ chlòsaid</orth>
+            </form>
+            <def>the closet, little off-room.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e139">
+            <form>
+               <orth>an lobhta</orth>
+            </form>
+            <def>the loft (upper space or room).</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e148">
+            <form>
+               <orth>an cidsin</orth>
+            </form>
+            <def>some houses might qualify for this description for the main living-room. I don’t remember any other special name, unless ‘an ceann shuas’.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e157">
+            <form>
+               <orth>an tallan (m)</orth>
+            </form>
+            <def>partition separating rooms.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e165"
+             subtype="h1">5. An t-àite-teine</ab>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e170">
+            <form>
+               <orth>leac-an-teintein</orth>
+            </form>
+            <def>hearth.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e179">
+            <form>
+               <orth>similear-crochaidh (m)</orth>
+            </form>
+            <def>canopy over fire (on floor at end of room).</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e188">
+            <form>
+               <orth>slabhraidh (m)</orth>
+            </form>
+            <def>chain holding hook for pot or kettle.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e196"
+             subtype="h1">6. Airneis an taighe</ab>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e201">
+            <form>
+               <orth>furm (m)</orth>
+            </form>
+            <def>stool.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e210">
+            <form>
+               <orth>séithear (m)</orth>
+            </form>
+            <def>chair.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e219">
+            <form>
+               <orth>beinge (f)</orth>
+            </form>
+            <def>bench, settle.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e228">
+            <form>
+               <orth>dreasair (m)</orth>
+            </form>
+            <def>dresser.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e236"
+             subtype="h1">7. Sobhal, bàthach, no bothanan sam bith eile</ab>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e241">
+            <form>
+               <orth>brìg (f)</orth>
+            </form>
+            <def>mass, load, heap, of hay, etc. Brìg fheòir, brìg arbhair.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e250">
+            <form>
+               <orth>buaghal (m)</orth>
+            </form>
+            <def>stall.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e259">
+            <form>
+               <orth>a’ cartadh na bàthcha</orth>
+            </form>
+            <def>cleaning the byre.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e268">
+            <form>
+               <orth>buachar (m)</orth>
+            </form>
+            <def>dung.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e277">
+            <form>
+               <orth>praise (f)</orth>
+            </form>
+            <def>manger.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e286">
+            <form>
+               <orth>crò (m)</orth>
+            </form>
+            <def>temporary henhouse (during growing season).</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e295">
+            <form>
+               <orth>sailghean (?)</orth>
+            </form>
+            <def>rafters.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

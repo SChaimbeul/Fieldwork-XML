@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WoolworkingandFishing_SiabostMJMacLeodiasgach">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the only details on the front page are the informant’s name and language (Gaelic) and the name of the school (Siabost).]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>[Lewis], Siabost</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Miss M. J. MacLeod</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Fishing Tackle</term>
+               <term xml:lang="gd">Acfhuinn Iasgaich</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_SiabostMJMacLeodiasgach-d0e26"
+             subtype="h1">1. Lìon-mór</ab>
+         <entry xml:id="WoolworkingandFishing_SiabostMJMacLeodiasgach-d0e31">
+            <form>
+               <orth>lìon-mór</orth>
+            </form>
+            <def>long fishing lines.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_SiabostMJMacLeodiasgach-d0e40">
+            <form>
+               <orth>puta</orth>
+            </form>
+            <def>buoy.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_SiabostMJMacLeodiasgach-d0e49">
+            <form>
+               <orth>biathadh</orth>
+            </form>
+            <def>bait.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_SiabostMJMacLeodiasgach-d0e57"
+             subtype="h1">2. Lìon-beag</ab>
+         <entry xml:id="WoolworkingandFishing_SiabostMJMacLeodiasgach-d0e62">
+            <form>
+               <orth>lìon-beag</orth>
+            </form>
+            <def>short fishing lines.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_SiabostMJMacLeodiasgach-d0e70"
+             subtype="h1">3. Lìon-sgadanach</ab>
+         <entry xml:id="WoolworkingandFishing_SiabostMJMacLeodiasgach-d0e75">
+            <form>
+               <orth>lìon-sgadanach</orth>
+            </form>
+            <def>herring net.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_SiabostMJMacLeodiasgach-d0e84">
+            <form>
+               <orth>mogul</orth>
+            </form>
+            <def>mesh.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_SiabostMJMacLeodiasgach-d0e92"
+             subtype="h1">4. Lìon sam bith eile</ab>
+         <entry xml:id="WoolworkingandFishing_SiabostMJMacLeodiasgach-d0e97">
+            <form>
+               <orth>lìon-leóbag</orth>
+            </form>
+            <def>flounder-net.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_SiabostMJMacLeodiasgach-d0e105"
+             subtype="h1">5. Duirgh, slatan, driamlaichean</ab>
+         <entry xml:id="WoolworkingandFishing_SiabostMJMacLeodiasgach-d0e110">
+            <form>
+               <orth>dorgh</orth>
+            </form>
+            <def>handline for fishing.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_SiabostMJMacLeodiasgach-d0e119">
+            <form>
+               <orth>sreang</orth>
+            </form>
+            <def>part of line held in the hand.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_SiabostMJMacLeodiasgach-d0e128">
+            <form>
+               <orth>clach-luaidhe</orth>
+            </form>
+            <def>lead.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_SiabostMJMacLeodiasgach-d0e137">
+            <form>
+               <orth>dubhan</orth>
+            </form>
+            <def>hook.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_SiabostMJMacLeodiasgach-d0e146">
+            <form>
+               <orth>slat</orth>
+            </form>
+            <def>rod.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_SiabostMJMacLeodiasgach-d0e155">
+            <form>
+               <orth>driamlach</orth>
+            </form>
+            <def>line for a fishing-rod.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_SiabostMJMacLeodiasgach-d0e163"
+             subtype="h1">6. Acfhuinn sam bith eile</ab>
+         <entry xml:id="WoolworkingandFishing_SiabostMJMacLeodiasgach-d0e168">
+            <form>
+               <orth>cabhull</orth>
+            </form>
+            <def>a creel for catching fish.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

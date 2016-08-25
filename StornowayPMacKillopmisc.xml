@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Word-lists_StornowayPMacKillopmisc">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>25/4/1989</date>
+            <location>
+               <placeName>Lewis, Stornoway</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>self</persName>
+            </person>
+            <person role="informant">
+               <persName>Peggy MacKillop</persName>
+               <persName xml:lang="gd">Peigi NicPhilip </persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Word-lists_StornowayPMacKillopmisc-idp161212872">
+            <form>
+               <orth>[alaid]</orth>
+            </form>
+            <def>An latha roimhe ’s mi ’fuine thainig am facal “alaid” a steach orm – a’ mhin thioram a bhios sinn ag cumail eadar an taois is an clàr. Cha chuala mi e bho dh’fhàg mi dachaidh m’òige – ’s dòcha gu e is aobhar gu bheil an fhuine air dol a mach a cleachdadh gu ire mhóir – ach chan ’eil mi ’ga lorg ’s na faclair. An alaid a bha chòrr an deidh na fuine, ’sann a shaitheach nan cearc a chuirt i ’s chan ann air ais do’n chiste – bha a’ mhin ’na ni cho glan ’s luachmhor ’san dachaidh ’s nach fhaoidte a truailleadh gu na h-ìre ud fhéin.</def>
+         </entry>
+         <entry xml:id="Word-lists_StornowayPMacKillopmisc-idp161211216">
+            <form>
+               <orth>[alair]</orth>
+            </form>
+            <def>Facail eile – alair. Muime m’athar, ’s ann a Gearradh [?] Ard an sgire nan Loch a thàinig i. ’Nuair a bhiodh bàs ’s a bhaile ’s a bhite ag cumail tigh-fhaire, ’s e a theireadh ise ri sin – “alair”. An saoil sibh an e a bh’ann “olair” [sic] – bho ungadh romh adhlac no romh bhàs (extreme unction)? Chan fhaigh mi iad sin a bharrachd ’s na faclair. ’S dòcha nach eil mo litreachadh ceart – ’s tric nach eil!</def>
+         </entry>
+         <entry xml:id="Word-lists_StornowayPMacKillopmisc-idp161209416">
+            <form>
+               <orth>[banntrach]</orth>
+            </form>
+            <def>Air m’ ais ghun nam facal – am beil, na ’n robh, facal idir air son “widower” ach banntrach?</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

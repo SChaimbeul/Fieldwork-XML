@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_ScalpayNMacSweenslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>06/1971</date>
+            <location>
+               <placeName>Harris, Scalpay</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>Rev. N. MacSween</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_ScalpayNMacSweenslips-idp115438432">
+            <form>
+               <orth>mearal</orth>
+            </form>
+            <def>Notes: “sàl is uisge ’n ceann a chéile”. Applecross: “Cho saillt ris a’ mheireal”.</def>
+         </entry>
+         <entry xml:id="Slips_ScalpayNMacSweenslips-idp115464352">
+            <form>
+               <orth>stragaidh (n.)</orth>
+            </form>
+            <def>Notes: used of the catch of fish in a net.</def>
+         </entry>
+         <entry xml:id="Slips_ScalpayNMacSweenslips-idp115475368">
+            <form>
+               <orth>sùireadh</orth>
+            </form>
+            <def>Notes: favourable current in towards shore, against main current. (&lt; sùgh + ruith?)</def>
+         </entry>
+         <entry xml:id="Slips_ScalpayNMacSweenslips-idp115479760">
+            <form>
+               <orth>abartach</orth>
+            </form>
+            <def>Quotation: duine abartach. Notes: Duine nach b’urrainn rud a chumail aige fhéin.</def>
+         </entry>
+         <entry xml:id="Slips_ScalpayNMacSweenslips-idp115478896">
+            <form>
+               <orth>cuaireadh</orth>
+            </form>
+            <def>Quotation: Cuaireadh ort! Notes: mild malediction.</def>
+         </entry>
+         <entry xml:id="Slips_ScalpayNMacSweenslips-idp161846912">
+            <form>
+               <orth>diridh-oichinn</orth>
+            </form>
+            <def>Quotation: Dé ’n diridh-oichinn a th’ort? Notes: used of person running about from one thing to another.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Slips_ScalpayNMacSweenslips-idola1000"
+             subtype="h1">Rev. Norman MacSween, Kinloch, Lewis (Scalpay), 1979</ab>
+         <entry xml:id="Slips_ScalpayNMacSweenslips-idp161843672">
+            <form>
+               <orth>cnothag</orth>
+            </form>
+            <def>Quotation: An ròs a’ tighinn ás a’ chnothaig. Notes: a bud.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

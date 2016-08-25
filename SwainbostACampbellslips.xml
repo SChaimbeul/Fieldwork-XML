@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_SwainbostACampbellslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1971</date>
+            <location>
+               <placeName>Lewis, Swainbost</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>Angus Campbell</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_SwainbostACampbellslips-idp115463536">
+            <form>
+               <orth>sliuchadh</orth>
+            </form>
+            <def>Notes: slack spell between tides.</def>
+         </entry>
+         <entry xml:id="Slips_SwainbostACampbellslips-idp115449136">
+            <form>
+               <orth>frìsligeadh</orth>
+            </form>
+            <def>Notes: probing with the fingers.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_LondubhACameronslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>12/1969</date>
+            <location>
+               <placeName>Ross-shire, Poolewe, Londubh</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Angus Cameron</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_LondubhACameronslips-idp167336448">
+            <form>
+               <orth>ileag</orth>
+            </form>
+            <def>Notes: elver.</def>
+         </entry>
+         <entry xml:id="Slips_LondubhACameronslips-idp167337960">
+            <form>
+               <orth>slaodach</orth>
+            </form>
+            <def>Quotation: an t-slaodach. Notes: long, yellowish-brown seaweed with bubbles on it.</def>
+         </entry>
+         <entry xml:id="Slips_LondubhACameronslips-idp167339688">
+            <form>
+               <orth>tomaidh-an-toll</orth>
+               <pron>[ṯɔ̃miən̪t̪ɤu̜ɫ]</pron>
+            </form>
+            <def>[ṯɔ̃miən̪t̪ɤu̜ɫ] Notes: hedge-sparrow (local).</def>
+         </entry>
+         <entry xml:id="Slips_LondubhACameronslips-idp167341632">
+            <form>
+               <orth>buidheag</orth>
+            </form>
+            <def>Notes: a sheaf that has been threshed by hand.</def>
+         </entry>
+         <entry xml:id="Slips_LondubhACameronslips-idp167343144">
+            <form>
+               <orth>doirean</orth>
+               <pron>[d̪ɤĩɑ̃ṉ]</pron>
+            </form>
+            <def>[d̪ɤĩɑ̃ṉ] Notes: young tangle.</def>
+         </entry>
+         <entry xml:id="Slips_LondubhACameronslips-idp167344872">
+            <form>
+               <orth>fóthannan</orth>
+               <pron>[fo:hən̪ɑ̃ṉ]</pron>
+            </form>
+            <def>[fo:hən̪ɑ̃ṉ] Notes: polecat.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the only details on the front page are the informant’s name and language (Gaelic) and the name of the school (Siabost).]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>[Lewis], Siabost</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Miss M. J. MacLeod</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>House and Furnishings</term>
+               <term xml:lang="gd">Taigh Gàidhealach</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e26"
+             subtype="h1">1. An stéidh is am balla</ab>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e31">
+            <form>
+               <orth>am balla muigh</orth>
+            </form>
+            <def>the outer wall.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e40">
+            <form>
+               <orth>am balla stigh</orth>
+            </form>
+            <def>the inner wall.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e49">
+            <form>
+               <orth>glutaranaich</orth>
+            </form>
+            <def>packing in stone wall.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e58">
+            <form>
+               <orth>ceann an tighe</orth>
+            </form>
+            <def>upper end.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e67">
+            <form>
+               <orth>màs an tighe</orth>
+            </form>
+            <def>lower end.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e75"
+             subtype="h1">2. Am mullach ’s an tughadh</ab>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e80">
+            <form>
+               <orth>am maide droma</orth>
+            </form>
+            <def>ridge-pole.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e89">
+            <form>
+               <orth>na ceangail</orth>
+            </form>
+            <def>couples.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e98">
+            <form>
+               <orth>na cabair</orth>
+            </form>
+            <def>side-rafters.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e107">
+            <form>
+               <orth>maide-fithich</orth>
+            </form>
+            <def>stick running through thatch at either end.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e116">
+            <form>
+               <orth>acraichean</orth>
+            </form>
+            <def>stones fixed in loops of ropes, used as weights to keep the thatch in place.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e125">
+            <form>
+               <orth>tobhta</orth>
+            </form>
+            <def>turf covered path round thatched roof.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e134">
+            <form>
+               <orth>sìoman</orth>
+            </form>
+            <def>rope of straw or heather.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e143">
+            <form>
+               <orth>tughadh</orth>
+            </form>
+            <def>thatch.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e151"
+             subtype="h1">3. Dorsan is uinneagan</ab>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e156">
+            <form>
+               <orth>an dorus mór</orth>
+            </form>
+            <def>the main door.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e165">
+            <form>
+               <orth>dorus an t-sobhail</orth>
+            </form>
+            <def>the barn door.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e174">
+            <form>
+               <orth>dorus màs an tighe</orth>
+            </form>
+            <def>a door at the lower end of the house.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e183">
+            <form>
+               <orth>uinneag balla</orth>
+            </form>
+            <def>a window in the wall.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e192">
+            <form>
+               <orth>uinneag tughaidh</orth>
+            </form>
+            <def>a window in the thatch.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e201">
+            <form>
+               <orth>uinneag nan cearc</orth>
+            </form>
+            <def>the hens’ window just above their roost.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e209"
+             subtype="h1">4. An broinn an taighe: na sèamraichean</ab>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e214">
+            <form>
+               <orth>uachdair an tighe</orth>
+            </form>
+            <def>bedroom.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e223">
+            <form>
+               <orth>aig an teine</orth>
+            </form>
+            <def>living room.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e232">
+            <form>
+               <orth>tigh ’uaraich</orth>
+            </form>
+            <def>a small room for storing meal and milk set for cream.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e241">
+            <form>
+               <orth>cùlaist</orth>
+            </form>
+            <def>recess, wall press.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e250">
+            <form>
+               <orth>cailbh</orth>
+            </form>
+            <def>partition wall.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e259">
+            <form>
+               <orth>talan</orth>
+            </form>
+            <def>partition wall.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e268">
+            <form>
+               <orth>starsach</orth>
+            </form>
+            <def>threshold.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e276"
+             subtype="h1">5. An t-àite-teine</ab>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e281">
+            <form>
+               <orth>cagailt</orth>
+            </form>
+            <def>hearth.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e290">
+            <form>
+               <orth>cùl an teine</orth>
+            </form>
+            <def>the side of the hearth nearest the threshold or door.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e299">
+            <form>
+               <orth>connadh</orth>
+            </form>
+            <def>fuel.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e308">
+            <form>
+               <orth>slabhraidh</orth>
+            </form>
+            <def>pot-hanger.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e316"
+             subtype="h1">6. Airneis an taighe</ab>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e321">
+            <form>
+               <orth>bòrd</orth>
+            </form>
+            <def>table.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e330">
+            <form>
+               <orth>being</orth>
+            </form>
+            <def>a sitting bench.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e339">
+            <form>
+               <orth>cathraichean</orth>
+            </form>
+            <def>chairs.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e348">
+            <form>
+               <orth>stòl</orth>
+            </form>
+            <def>stool.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e357">
+            <form>
+               <orth>cisteachan</orth>
+            </form>
+            <def>chests for keeping clothes, meal, etc.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e366">
+            <form>
+               <orth>dreasair</orth>
+            </form>
+            <def>dresser for dishes.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e375">
+            <form>
+               <orth>preas</orth>
+            </form>
+            <def>cupboard.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e384">
+            <form>
+               <orth>prais</orth>
+            </form>
+            <def>pot.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e393">
+            <form>
+               <orth>coire</orth>
+            </form>
+            <def>kettle.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e402">
+            <form>
+               <orth>greideal</orth>
+            </form>
+            <def>griddle.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e411">
+            <form>
+               <orth>pùlais</orth>
+            </form>
+            <def>pot-hook.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e420">
+            <form>
+               <orth>clobha</orth>
+            </form>
+            <def>tongs.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e429">
+            <form>
+               <orth>ciosan</orth>
+            </form>
+            <def>a basket for meal made from bent grass.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e438">
+            <form>
+               <orth>rùsgan</orth>
+            </form>
+            <def>a large basket of bent.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e447">
+            <form>
+               <orth>sgeap</orth>
+            </form>
+            <def>a straw basket (skelp) for carrying seed when sowing.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e456">
+            <form>
+               <orth>cuibhle-shnìomha</orth>
+            </form>
+            <def>spinning wheel.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e465">
+            <form>
+               <orth>dealgan</orth>
+            </form>
+            <def>spindle.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e474">
+            <form>
+               <orth>crois-iarna</orth>
+            </form>
+            <def>a cross for winding yarn into skeins.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e483">
+            <form>
+               <orth>càrd</orth>
+            </form>
+            <def>wool card.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e492">
+            <form>
+               <orth>criathar</orth>
+            </form>
+            <def>sieve.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e500"
+             subtype="h1">7. Sobhal, bàthach, no bothanan sam bith eile</ab>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e505">
+            <form>
+               <orth>sobhal</orth>
+            </form>
+            <def>barn.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e514">
+            <form>
+               <orth>bàthach</orth>
+            </form>
+            <def>byre.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e523">
+            <form>
+               <orth>tigh-chearc</orth>
+            </form>
+            <def>hen-house.</def>
+         </entry>
+         <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e532">
+            <form>
+               <orth>fosglan</orth>
+            </form>
+            <def>a porch where creels, spades, etc. were kept.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

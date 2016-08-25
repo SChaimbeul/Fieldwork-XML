@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HarrisVarious_Harrisloosepage">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: a loose page at the end of the box file with no staple marks. Handwriting appears the same as throughout the box file.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location corresp="Harris" cert="medium" resp="OSz"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="anonymous_D"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Miscellaneous</term>
+          <term xml:lang="gd">Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="HarrisVarious_Harrisloosepage-d0e20">
+        <form>
+          <orth>cu a meangail</orth>
+        </form>
+        <def>whining.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_Harrisloosepage-d0e29">
+        <form>
+          <orth>cu a dunalaich</orth>
+        </form>
+        <def>howling.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_Harrisloosepage-d0e38">
+        <form>
+          <orth>crodh a muallaich</orth>
+        </form>
+        <def>bellowing.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_Harrisloosepage-d0e47">
+        <form>
+          <orth>ag eumnaich</orth>
+        </form>
+        <def>lowing.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_Harrisloosepage-d0e56">
+        <form>
+          <orth>clann a’ sgiorghail</orth>
+        </form>
+        <def>children.</def>
+      </entry>
+    </body>
+  </text>
+</TEI>

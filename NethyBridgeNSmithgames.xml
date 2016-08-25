@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Games_NethyBridgeNSmithgames">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Inverness-shire, Nethy Bridge</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>self</persName>
+            </person>
+            <person role="informant">
+               <persName>Noel Smith</persName>
+               <age>38</age>
+               <birth>
+                  <placeName>Inverness-shire, Nethy Bridge</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Recreation: Toys, Games, Contests</term>
+               <term xml:lang="gd">Cur-seachadan: Dèideagan, Geamaichean is Farpaisean</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Games_NethyBridgeNSmithgames-d0e29"
+             subtype="h1">1. Toys</ab>
+         <ab type="heading"
+             xml:id="Games_NethyBridgeNSmithgames-d0e33"
+             subtype="h1">2. Swings, see-saws</ab>
+         <ab type="heading"
+             xml:id="Games_NethyBridgeNSmithgames-d0e37"
+             subtype="h1">3. Games played indoors</ab>
+         <ab type="heading"
+             xml:id="Games_NethyBridgeNSmithgames-d0e41"
+             subtype="h1">4. Outdoor games not involving a ball or puck</ab>
+         <ab type="heading"
+             xml:id="Games_NethyBridgeNSmithgames-d0e45"
+             subtype="h1">5. Ball games</ab>
+         <ab type="heading"
+             xml:id="Games_NethyBridgeNSmithgames-d0e49"
+             subtype="h1">6. Athletics</ab>
+         <ab type="heading"
+             xml:id="Games_NethyBridgeNSmithgames-d0e53"
+             subtype="h1">7. Heavy events</ab>
+         <ab type="heading"
+             xml:id="Games_NethyBridgeNSmithgames-d0e57"
+             subtype="h1">8. Contests involving pulling or pushing</ab>
+         <ab type="heading"
+             xml:id="Games_NethyBridgeNSmithgames-d0e61"
+             subtype="h1">9. Boxing and wrestling</ab>
+         <ab type="heading"
+             xml:id="Games_NethyBridgeNSmithgames-d0e65"
+             subtype="h1">10. Blows in general</ab>
+         <entry xml:id="Games_NethyBridgeNSmithgames-d0e70">
+            <form>
+               <orth>sglabhart</orth>
+               <pron>[blow.]</pron>
+            </form>
+            <def>[blow.] The ‘abh’ was sounded the same as ‘abh’ in ‘sàbhailte’.</def>
+         </entry>
+         <entry xml:id="Games_NethyBridgeNSmithgames-d0e79">
+            <form>
+               <orth>ciolp</orth>
+               <pron>[blow.]</pron>
+            </form>
+            <def>[blow.] ‘ci’ as in ‘cinnteach’ and the ‘o’ silent, sounded as ‘cilip’. There was a difference between a ‘ciolp’ and the other two [i.e. ‘sglabhart’ and ‘sgailt’ (q.v.)] in that it could be delivered with a stick or the fist or a kick from an animal and was a much more severe knock than the other two.</def>
+         </entry>
+         <entry xml:id="Games_NethyBridgeNSmithgames-d0e88">
+            <form>
+               <orth>sgailt</orth>
+               <pron>[blow.]</pron>
+            </form>
+            <def>[blow.] ‘sgail’ same as in ‘sgail’, the ‘t’ ending like ‘itch’.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Games_NethyBridgeNSmithgames-d0e96"
+             subtype="h1">11. Injury and exhaustion</ab>
+      </body>
+   </text>
+</TEI>

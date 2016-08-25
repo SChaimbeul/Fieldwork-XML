@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Ecclesiastical_FortroseJMacInneseccles">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Fortrose</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Rev. Dr John MacInnes</persName>
+               <persName xml:lang="gd">An t-Oll. Urr. Iain MacAonghais</persName>
+               <birth>
+                  <placeName>[Skye], Gleanndail [Glendale]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Ecclesiastical Terms</term>
+               <term xml:lang="gd">An Eaglais</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e29"
+             subtype="h1">1. Various denominations</ab>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e34">
+            <form>
+               <orth>na  Saederan</orth>
+               <pron>[?]</pron>
+            </form>
+            <def>[?] Free Presbyterians. (Am ministear.)</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e43">
+            <form>
+               <orth>An Eaglais Stéidhichte</orth>
+            </form>
+            <def>(pronounced Stéite) C. of S. (An cléireach.)</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e52">
+            <form>
+               <orth>An Eaglais Shaor</orth>
+            </form>
+            <def>F. C. of S. (Am ministear.)</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e61">
+            <form>
+               <orth>An Eaglais Shasunnach</orth>
+            </form>
+            <def>Anglican Church.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e70">
+            <form>
+               <orth>Na Baistich</orth>
+            </form>
+            <def>Baptist Church.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e79">
+            <form>
+               <orth>(Don’t Know)</orth>
+            </form>
+            <def>Congregational.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e88">
+            <form>
+               <orth>An Eaglais Phàpanach</orth>
+            </form>
+            <def>R. Catholic.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e96"
+             subtype="h1">2. Member of each of these denominations</ab>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e101">
+            <form>
+               <orth>Săsidear</orth>
+               <pron>[?]</pron>
+            </form>
+            <def>[?] Free Presbyterian.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e110">
+            <form>
+               <orth>Mòdereat</orth>
+               <pron>[?]</pron>
+            </form>
+            <def>[?] Established Church.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e119">
+            <form>
+               <orth>Pàpanach</orth>
+            </form>
+            <def>Roman Catholic.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e128">
+            <form>
+               <orth>Neach a bhuineas don Eaglais Shasunnach</orth>
+            </form>
+            <def>Episcopal Church.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e137">
+            <form>
+               <orth>Baisteach</orth>
+            </form>
+            <def>Baptist.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e146">
+            <form>
+               <orth>Fear aideachaidh</orth>
+            </form>
+            <def>communicant in Presbyterian Church.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e154"
+             subtype="h1">3. Different courts of the Presbyterian churches</ab>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e159">
+            <form>
+               <orth>cùirt na déucan</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e165">
+            <form>
+               <orth>an seisean</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e171">
+            <form>
+               <orth>a chléire</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e177">
+            <form>
+               <orth>an seanadh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e183">
+            <form>
+               <orth>an t-ard sheanadh</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e188"
+             subtype="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</ab>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e193">
+            <form>
+               <orth>ministear</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e199">
+            <form>
+               <orth>miseanaraidh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e205">
+            <form>
+               <orth>eildear or foirfeach</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e211">
+            <form>
+               <orth>deucan</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e217">
+            <form>
+               <orth>cleireach an t-seisein</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e223">
+            <form>
+               <orth>fear-ionmhais</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e229">
+            <form>
+               <orth>am beudal</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-idola103">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>(never heard a separate word for lay preacher)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e243"
+             subtype="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e247"
+             subtype="h1">6. Holy Orders within the Roman Catholic church</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e251"
+             subtype="h1">7. Articles of dress or adornment</ab>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e256">
+            <form>
+               <orth>gùn</orth>
+            </form>
+            <def>minister’s gown.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e265">
+            <form>
+               <orth>cleòca</orth>
+            </form>
+            <def>minster’s gown.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e274">
+            <form>
+               <orth>casag</orth>
+            </form>
+            <def>cassock.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e282"
+             subtype="h1">8. Church building and churchyard</ab>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e287">
+            <form>
+               <orth>eaglais</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e293">
+            <form>
+               <orth>cladh</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e298"
+             subtype="h1">9. Church furniture and ornaments</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e302"
+             subtype="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</ab>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e307">
+            <form>
+               <orth>Sàcramaid</orth>
+            </form>
+            <def>sacraments (Reformed).</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e316">
+            <form>
+               <orth>Suipear an Tighearna</orth>
+            </form>
+            <def>Lord’s Supper.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e325">
+            <form>
+               <orth>An Comanachadh</orth>
+            </form>
+            <def>Holy Communion.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e334">
+            <form>
+               <orth>Baisteadh</orth>
+            </form>
+            <def>Baptism.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e343">
+            <form>
+               <orth>Seinn</orth>
+            </form>
+            <def>praise.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e352">
+            <form>
+               <orth>Searmon</orth>
+            </form>
+            <def>sermon.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e361">
+            <form>
+               <orth>Sgoil Shàbaid</orth>
+            </form>
+            <def>Sunday school.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e370">
+            <form>
+               <orth>Coinneamh</orth>
+            </form>
+            <def>house meeting.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e379">
+            <form>
+               <orth>Coinneamh cheist</orth>
+            </form>
+            <def>men’s Friday [?] meeting.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e388">
+            <form>
+               <orth>Latha Irioslachaidh</orth>
+            </form>
+            <def>Day of Humiliation [?] and [?] Prayer.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e396"
+             subtype="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</ab>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e401">
+            <form>
+               <orth>Dia</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e407">
+            <form>
+               <orth>An Tighearna</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e413">
+            <form>
+               <orth>Iosa Criosd</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e419">
+            <form>
+               <orth>An Spiorad Naomh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e425">
+            <form>
+               <orth>Muire</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e431">
+            <form>
+               <orth>na h-ainglean</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e437">
+            <form>
+               <orth>na h-abstolan</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e443">
+            <form>
+               <orth>Neamh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e449">
+            <form>
+               <orth>an Soisgeul</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e455">
+            <form>
+               <orth>Urnuigh an Tighearna</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e460"
+             subtype="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</ab>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e465">
+            <form>
+               <orth>Sàtan</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e474">
+            <form>
+               <orth>an Diabhul</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e483">
+            <form>
+               <orth>an Donas</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e492">
+            <form>
+               <orth>Domhnull Dubh</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e501">
+            <form>
+               <orth>an Riabhach</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e510">
+            <form>
+               <orth>a Nàmhaid</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e519">
+            <form>
+               <orth>Braman</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e528">
+            <form>
+               <orth>iutharna</orth>
+            </form>
+            <def>Hell.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e537">
+            <form>
+               <orth>ifrinn</orth>
+            </form>
+            <def>Hell.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_FortroseJMacInneseccles-d0e546">
+            <form>
+               <orth>Purgadair</orth>
+            </form>
+            <def>Purgatory.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

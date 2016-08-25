@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WoolworkingandFishing_GlasgowDGrantwool">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Glasgow</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Donald Grant</persName>
+               <persName xml:lang="gd">Domhnall Grannd </persName>
+               <age>66</age>
+               <birth>
+                  <placeName>[Skye, Camus Chroise]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Wool-Working</term>
+               <term xml:lang="gd">Obair na Clòimhe</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e29"
+             subtype="h1">1. Raw wool</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e33"
+             subtype="h1">2. Oil or grease put on wool before carding</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e37"
+             subtype="h1">3. Carding</ab>
+         <entry xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e42">
+            <form>
+               <orth>a’ càrdadh</orth>
+               <pron>[carding.]</pron>
+            </form>
+            <def>[carding.]</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e51">
+            <form>
+               <orth>rolag</orth>
+            </form>
+            <def>roll of wool.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e59"
+             subtype="h1">4. Spinning</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e63"
+             subtype="h1">5. Parts of the spinning wheel</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e67"
+             subtype="h1">6. Yarn and associated apparatus</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e71"
+             subtype="h1">7. Dyeing</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e75"
+             subtype="h1">8. Washing after dyeing</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e79"
+             subtype="h1">9. Warping</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e83"
+             subtype="h1">10. Beaming and tying</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e87"
+             subtype="h1">11. Weaving</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e91"
+             subtype="h1">12. Parts of the weaving loom</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e95"
+             subtype="h1">13. Finishing</ab>
+      </body>
+   </text>
+</TEI>

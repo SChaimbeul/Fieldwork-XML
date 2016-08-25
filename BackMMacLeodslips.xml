@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BackMMacLeodslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1970, 1981</date>
+            <location>
+               <placeName>Lewis, Back</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>Murdo MacLeod</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_BackMMacLeodslips-idp115476568">
+            <form>
+               <orth>innealadh</orth>
+            </form>
+            <def>Quotation: Gun fhiaradh gun innealadh. Notes: see under fiaradh.</def>
+         </entry>
+         <entry xml:id="Slips_BackMMacLeodslips-idp115444816">
+            <form>
+               <orth>ailleanach</orth>
+            </form>
+            <def>Notes: = ‘shy’.</def>
+         </entry>
+         <entry xml:id="Slips_BackMMacLeodslips-idp115457776">
+            <form>
+               <orth>fiaradh</orth>
+            </form>
+            <def>Quotation: Gun fhiaradh gun innealadh. Notes: of any persistent activity.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

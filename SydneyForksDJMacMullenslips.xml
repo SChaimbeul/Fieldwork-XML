@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Slips_SydneyForksDJMacMullenslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>05/1971</date>
+            <location>
+               <placeName>Canada, Cape Breton, Sydney Forks</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>D. J. MacMullen</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_SydneyForksDJMacMullenslips-idp117237824">
+            <form>
+               <orth>sgalpan</orth>
+            </form>
+            <def>Notes: chaff.</def>
+         </entry>
+         <entry xml:id="Slips_SydneyForksDJMacMullenslips-idp117239336">
+            <form>
+               <orth>spìdeil</orth>
+               <pron>[spi:dɑl]</pron>
+            </form>
+            <def>[spi:dɑl] Notes: brazen, bold.</def>
+         </entry>
+         <entry xml:id="Slips_SydneyForksDJMacMullenslips-idp117241064">
+            <form>
+               <orth>banachdach</orth>
+            </form>
+            <def>Notes: vaccination, smallpox.</def>
+         </entry>
+         <entry xml:id="Slips_SydneyForksDJMacMullenslips-idp117242576">
+            <form>
+               <orth>fuireachail</orth>
+            </form>
+            <def>Quotation: “Bithidh mi nam fhuireachail [nɑmu̟ɾɑxɑl] nuair a bhios mi a’ ceannach tape a rithist. Notes: careful.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

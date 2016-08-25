@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[1975?]</date>
+            <location>
+               <placeName>Scalpaigh [Harris, Scalpay]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>D.R. Morrison</persName>
+               <persName xml:lang="gd">D.R. Moireasdan </persName>
+               <age>[55?]</age>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idola375"
+             subtype="h1">Word-list (‘Faclan’)</ab>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118817592">
+            <form>
+               <orth>dais</orth>
+            </form>
+            <def>cruach feòir (hay stack).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118814352">
+            <form>
+               <orth>sgot</orth>
+            </form>
+            <def>ciall (sense). Cha’n eil sgot agad.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118837176">
+            <form>
+               <orth>leabaidh-tuime</orth>
+            </form>
+            <def>a chuid sin ann an deireadh luinge anns a bi taoim a laighe.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118838760">
+            <form>
+               <orth>cronan-bleoghainn</orth>
+            </form>
+            <def>duan neo rann air a ghabhail ’s bleoghainn a’ chruidh (milking croon).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118840272">
+            <form>
+               <orth>spàrr-ghaoithe</orth>
+               <pron>[NOTES: see below.]</pron>
+            </form>
+            <def>[NOTES: see below.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118841784">
+            <form>
+               <orth>gàinne</orth>
+            </form>
+            <def>gàine [sic] an dubhain (barb of the hook).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118843296">
+            <form>
+               <orth>balg-saighid</orth>
+            </form>
+            <def>poca anns a biodhta a cumail na saighdean (i [?]).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118844808">
+            <form>
+               <orth>sgoic</orth>
+            </form>
+            <def>théid thu ann agus (frown) sgoic ort (Harris expression).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118846392">
+            <form>
+               <orth>spluc</orth>
+            </form>
+            <def>of the same class of words, similar [to sgoic?].</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118848768">
+            <form>
+               <orth>sirig</orth>
+            </form>
+            <def>decay, a person losing weight thus. Tha sirig air tighinn ann. (Harris)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118850496">
+            <form>
+               <orth>silc</orth>
+            </form>
+            <def>a drop. An tug thu bainne o’n bhoin: cha tug silc.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118852224">
+            <form>
+               <orth>sine</orth>
+            </form>
+            <def>sine bà.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118854168">
+            <form>
+               <orth>giobal</orth>
+            </form>
+            <def>gill’òg (giullan).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118856112">
+            <form>
+               <orth>talamh-toll</orth>
+            </form>
+            <def>talamh bristeach ’na thuill.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118857624">
+            <form>
+               <orth>troc</orth>
+            </form>
+            <def>neach air a dhol gu mi-dhiu – ’s e troc th’ann.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118859136">
+            <form>
+               <orth>bleiream</orth>
+            </form>
+            <def>ciall mar: Cha’n eil bleiream agad. (Harris)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118860864">
+            <form>
+               <orth>siomal</orth>
+            </form>
+            <def>not an iota of a difference as: gun siomal a dh’atharrachadh (Harris expression).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118862592">
+            <form>
+               <orth>siablaich</orth>
+            </form>
+            <def>ag iasgach le slait.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118864104">
+            <form>
+               <orth>deimeadh</orth>
+            </form>
+            <def>Thuit e gun deimeadh. “down for the count [?]”.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118866480">
+            <form>
+               <orth>trealabhaid</orth>
+            </form>
+            <def>stuth air a chruinneachadh de sheòrsa measgaichte anns nach eil mor fheum. Bha trealabhaid dhe. I think it’s an invented form of a word, perhaps originating or derived from the English word “trawling”.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118868352">
+            <form>
+               <orth>ball-dóbhrain</orth>
+            </form>
+            <def>spot, comharra air a chraiceann (beauty spot).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118869864">
+            <form>
+               <orth>conablach</orth>
+            </form>
+            <def>dà leth. Rinn mi conablach dhe.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118871592">
+            <form>
+               <orth>sòla</orth>
+            </form>
+            <def>fiodh air urlar eitheir, pios fiodha fo chasan neach ann an direadh neo toiseachd, eithear beag. Air a bithear a seasamh mar leac-fiodha.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118873104">
+            <form>
+               <orth>bial-mòr</orth>
+            </form>
+            <def>bial eithir air a bheil timchioll àrd suidhichte.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118874688">
+            <form>
+               <orth>smuig</orth>
+            </form>
+            <def>uisg’ as an t-sròin. Bha smuig as an t-sròin aice, neo aige.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118877352">
+            <form>
+               <orth>seid</orth>
+            </form>
+            <def>leabaidh de chamhlach air an làr – aodach leabadh air a chuir air a lar, neo faodaidh camlach [sic] a bhi foidhe gu cadal air.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118878864">
+            <form>
+               <orth>buidheag</orth>
+            </form>
+            <def>dìthean (buttercup).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118880376">
+            <form>
+               <orth>corra-ghlas</orth>
+            </form>
+            <def>ean (corncrake).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118881888">
+            <form>
+               <orth>boga-nid</orth>
+            </form>
+            <def>already referred to previously, is I think a tit bird not any particular one – I know for certain it’s a bird, a tit bird – very likely any tit bird or any of the tit bird family, a general term. I remember hearing the term used years back. This is my definition – perhaps someone else has some other or can have a further definition.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118884264">
+            <form>
+               <orth>tioma-taisean?</orth>
+            </form>
+            <def>fannachadh laige (1 [?]) le bhi do timchioll: bi e tighinn air caoradh? taisean? – explanation? – tuathalan, luairean. [?]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118885992">
+            <form>
+               <orth>paiseanadh</orth>
+            </form>
+            <def>(into a faint). Chuir mi ann am paiseanadh e.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118887936">
+            <form>
+               <orth>tinne</orth>
+            </form>
+            <def>link of a chain. Sometimes pronounced “teinne”. Dul de shlabhraidh.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118889448">
+            <form>
+               <orth>arspag</orth>
+            </form>
+            <def>ean, faoileag theirear anns na Hearadh: Farspach. Black backed gull.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118890960">
+            <form>
+               <orth>taisean</orth>
+            </form>
+            <def>(bones) as: Cha’n eil annad ach na taisean (bare bones).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118892688">
+            <form>
+               <orth>grimire</orth>
+            </form>
+            <def>fear a bhios a grimeadh air falbh rudan, a criomadh piosan arain. From greim. [NOTES: the last piece of information added on one of the following pages, see below.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118894416">
+            <form>
+               <orth>criomaire</orth>
+               <pron>[See grimire.]</pron>
+            </form>
+            <def>[See grimire.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp118895928">
+            <form>
+               <orth>murragan</orth>
+            </form>
+            <def>rudan a thig air a mhuir gu tir – rud ’s a bith. An t’fhuair thu murragan an diugh air a’ chladach?</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119930416">
+            <form>
+               <orth>sliuchdadan</orth>
+            </form>
+            <def>ni air a thilgeal pios de sglart [?] (slate) gu bhi srucadh air uachdar na mara neo air an uisge.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119913928">
+            <form>
+               <orth>spliongag</orth>
+            </form>
+            <def>pios leathair anns a bi clach air a cur s an leathar sin le da thraing as air a shuaibeadh gu bhi tilgeal na cloiche (sling).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119894848">
+            <form>
+               <orth>spidean</orth>
+            </form>
+            <def>cleasachd, dòigh cur seachad am measg na balach sgoile.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119895784">
+            <form>
+               <orth>clonstar</orth>
+            </form>
+            <def>(large or extra large). Clonstar mhor cloiche. Bha e lorg clach mhor ’s fhuair e ’n sin clonstar, a thilg e.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119957344">
+            <form>
+               <orth>clapanaich</orth>
+            </form>
+            <def>Bha e dha clapanaich (clapping her on the shoulder).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119927320">
+            <form>
+               <orth>cùlaisd</orth>
+            </form>
+            <def>ceann shuas tigh tubhaidh, pairt shuas an tighe etc.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119906656">
+            <form>
+               <orth>talan</orth>
+            </form>
+            <def>(division) part of a house, a dividing wall: bhiodhta cleachdadh an fhacail gu h-àraidh anns na seann tighe – tighe tubhaidh.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119923864">
+            <form>
+               <orth>làr-puill</orth>
+            </form>
+            <def>lar, seòrsa lair a bhiodhadh ann an tigh – ‘taigh’ tubhaidh.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119927248">
+            <form>
+               <orth>starragan?</orth>
+            </form>
+            <def>here (bunan fhiaclan grota) anns a bhanas or crows. Perhaps there is a proper rendering. I am not quite sure if this is exactly? I am doubtful. I know there is such a word for bunan fhiaclan grota anns a bhanas?</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119960152">
+            <form>
+               <orth>seiceil</orth>
+            </form>
+            <def>seiceil ann an cuibheal shniomh (from shackle).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119986000">
+            <form>
+               <orth>sichd</orth>
+            </form>
+            <def>aghaidh nach ann air tha an aghaidh, sichd (cheek [?]).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119907304">
+            <form>
+               <orth>dràbhag</orth>
+            </form>
+            <def>druthag uisge air ùrlar shoithich.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119960656">
+            <form>
+               <orth>caomhag</orth>
+            </form>
+            <def>an endearing female, kind, well-liked etc., nighean òg chaomh.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119899816">
+            <form>
+               <orth>calaisteach</orth>
+            </form>
+            <def>dripeil, trang (busy).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119976496">
+            <form>
+               <orth>comhachag</orth>
+            </form>
+            <def>ean cailleach oidhche (another name for it).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp120010480">
+            <form>
+               <orth>galahad</orth>
+            </form>
+            <def>An tu tha sud a ghalahad (referring to a female).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp120012496">
+            <form>
+               <orth>pannt?</orth>
+            </form>
+            <def>Tha e cho math dhuit chuir dh’an phannt, pawn (pawn shop).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp120009040">
+            <form>
+               <orth>lannsa</orth>
+            </form>
+            <def>sgian lighiche (lance).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119982256">
+            <form>
+               <orth>siola</orth>
+            </form>
+            <def>siola na h-easgainn. Part of the entrails of an eel. From siol.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119902192">
+            <form>
+               <orth>cuis-bhùird</orth>
+            </form>
+            <def>a laughing stock, cuis mhagaidh.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119981392">
+            <form>
+               <orth>piocas</orth>
+            </form>
+            <def>galair (chicken pox).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119982832">
+            <form>
+               <orth>piocach</orth>
+            </form>
+            <def>theirear anns na Hearadh smalag (nach e?).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119906080">
+            <form>
+               <orth>bloudaire</orth>
+            </form>
+            <def>a halfwit person (duine caran bharr a bhi ceart).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119979376">
+            <form>
+               <orth>spàrr-gaoithe or -ghaoithe</orth>
+            </form>
+            <def>sparr ann an tigh dubh (parting).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119917528">
+            <form>
+               <orth>spàrr-bhochd</orth>
+            </form>
+            <def>beggar’s roost. Cha urrain dhomh a radha gu firinneachd an e bochduinn mar a theirte “poor house” seo mar a shaoileas mi e?</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119892616">
+            <form>
+               <orth>spiolag</orth>
+            </form>
+            <def>’Se spiolag (naughty girl) th’innte.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119956840">
+            <form>
+               <orth>fiolag</orth>
+               <pron>[See spiolag.]</pron>
+            </form>
+            <def>[See spiolag.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119943160">
+            <form>
+               <orth>grimire</orth>
+            </form>
+            <def>from greim (previously noted) on a former page. I forgot to explain. [NOTES: see ‘grimire’ above.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119885056">
+            <form>
+               <orth>crimire</orth>
+            </form>
+            <def>from crimeag.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119960800">
+            <form>
+               <orth>crùcan</orth>
+            </form>
+            <def>(a child’s palm). Cum do chrùcan.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119930992">
+            <form>
+               <orth>treallaich-catha</orth>
+            </form>
+            <def>aftermath, ni de’n h-uile rud air fhagail a deighidh sabaist neo cath ’s a bith.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119935888">
+            <form>
+               <orth>sos</orth>
+            </form>
+            <def>quite a portion. Fhuair e sòs [sic] math, cuibhrionn mhath.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119995792">
+            <form>
+               <orth>gànrachadh</orth>
+            </form>
+            <def>(complete mess) Tha thu (mi) air do ghrànrachadh [sic] leis.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119911120">
+            <form>
+               <orth>spitheag</orth>
+            </form>
+            <def>(missile) spitheag cloiche.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119980528">
+            <form>
+               <orth>bob-bò</orth>
+            </form>
+            <def>da fhacal cuideachd gu bhi air a chleachdadh gu eagail a chuir air leanabh ma bhios e dol a àite nach saoilear a bhi freagarrach.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119959792">
+            <form>
+               <orth>duileasg</orth>
+            </form>
+            <def>nàduir feamainn (dulse).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119924224">
+            <form>
+               <orth>putan-croinn</orth>
+            </form>
+            <def>(button on the top of a mast) anns na soithichean móra, air mullach a chrionn, putan air mullach crann gu bhi cumail an uisg ás.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119976856">
+            <form>
+               <orth>iap</orth>
+            </form>
+            <def>’S e dh’iap tha sud. Yob from yob – a current expression.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119975200">
+            <form>
+               <orth>balg-meadhainn</orth>
+            </form>
+            <def>Rug e air bhalg meadhoinn [sic] air (belly bulge). Meadhainn – middle.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119981608">
+            <form>
+               <orth>fuaine</orth>
+            </form>
+            <def>bior fiodha (peg).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119980888">
+            <form>
+               <orth>liath-fàil</orth>
+            </form>
+            <def>air son cul an dùirn, bracelet.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119995720">
+            <form>
+               <orth>ceann-criche (Lewis)</orth>
+            </form>
+            <def>ciste-laighe. (Harris)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119962240">
+            <form>
+               <orth>caoirnean</orth>
+            </form>
+            <def>(small amount) caoirnean dhe a’ cliucheadh (sgadan).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119885128">
+            <form>
+               <orth>dealg</orth>
+            </form>
+            <def>prìne (pin).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119884984">
+            <form>
+               <orth>camaràd</orth>
+            </form>
+            <def>companach (from comrade).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119942728">
+            <form>
+               <orth>garbhag</orth>
+            </form>
+            <def>iasg (sprat).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119890528">
+            <form>
+               <orth>feocallan</orth>
+            </form>
+            <def>beathach (ferret).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119895064">
+            <form>
+               <orth>còmhla</orth>
+            </form>
+            <def>dorus. Cul na còmhla.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119886064">
+            <form>
+               <orth>ball-seirc</orth>
+            </form>
+            <def>beauty spot. “More associated with a beautify expression than ball-dobhrain” mark on the skin.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119929912">
+            <form>
+               <orth>suaigean</orth>
+            </form>
+            <def>rud beag de dh’aoraich aithneachadh: bha suaigean air (happy).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp119906296">
+            <form>
+               <orth>seannsal</orth>
+            </form>
+            <def>buile, droch bhuille. Fhuair e seannsal.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp115761440">
+            <form>
+               <orth>soic</orth>
+            </form>
+            <def>sròn mar a mach. Bha soic a mach oirre (protruding nose).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp115763600">
+            <form>
+               <orth>tuaim-thàmh</orth>
+            </form>
+            <def>cho marbh anns an tuaim: neo thainig tuaim-thàmh – death sleep, rest.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp115765112">
+            <form>
+               <orth>cearbadan</orth>
+            </form>
+            <def>insect of the beetle family.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp115767488">
+            <form>
+               <orth>sonc</orth>
+            </form>
+            <def>from sank. Chaidh e sonc.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp115769216">
+            <form>
+               <orth>rebeanach</orth>
+            </form>
+            <def>iasg (bodach ruadh beag).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp115770728">
+            <form>
+               <orth>linn-chlach</orth>
+            </form>
+            <def>linn air a cur le clachan gu a toirt fodha (with stone sinkers).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp115772240">
+            <form>
+               <orth>amhras</orth>
+            </form>
+            <def>amhras an linn: thoir thugad an t-amhras chuid dhe air fhidheadh.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp115773752">
+            <form>
+               <orth>crois-iarna</orth>
+            </form>
+            <def>gu bhi deanamh iarnachan de shnath.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp115775264">
+            <form>
+               <orth>boiseag</orth>
+            </form>
+            <def>làn duirn bheag mar boiseag mhine (wee handful).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp115776776">
+            <form>
+               <orth>brigeadh</orth>
+            </form>
+            <def>a deanamh striochd le oisean na spaide ’g bualadh air an talamh mar a bhios neach a bhios a’ cur buntàta ni e striochd air meud a cheap… brig an toiseachd e.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp115779152">
+            <form>
+               <orth>suitseach</orth>
+            </form>
+            <def>(force) wind blowing to a force as: Tha suitseach oirre.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp115780880">
+            <form>
+               <orth>srulais</orth>
+            </form>
+            <def>mixture of material of a distasteful approach: Cha’n eil an sud ach srulais. Srulais gu leoir aige (gossip).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp115782968">
+            <form>
+               <orth>drein-a-charois</orth>
+            </form>
+            <def>scowl on the face with the mouth to reveal it. Drein a’ cur a bheòil ann an cruth.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp115784480">
+            <form>
+               <orth>teasd</orth>
+            </form>
+            <def>(death) an old expression. “Theasd e” confined to the Mainland area: Perthshire and perhaps Argyllshire.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp115785992">
+            <form>
+               <orth>rudan</orth>
+            </form>
+            <def>substitutional [sic] term. Fac thu rudan.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp115787720">
+            <form>
+               <orth>plang</orth>
+            </form>
+            <def>planca (plank in English).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp115789232">
+            <form>
+               <orth>planca</orth>
+               <pron>[See plang.]</pron>
+            </form>
+            <def>[See plang.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp115791608">
+            <form>
+               <orth>gothadh</orth>
+            </form>
+            <def>a jerk forward. Thug e gothadh as – referring to a person falling from a pier or wall into the sea – ’s chaidh e, neo thuit e mach air a’ mhuir (1). (2) there is the word “goth” – judging.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp115793480">
+            <form>
+               <orth>drabhs</orth>
+            </form>
+            <def>Tha drabhs aig air an teine (fuaim mar a bhios ag geir ’n uair a thilgear pios dhi dh’an teine).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp115794992">
+            <form>
+               <orth>sgiuch</orth>
+            </form>
+            <def>Fhuair e sgiuch mhath ann – he got a good portion there. Thug e sgiuch bhuaipe.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp115796792">
+            <form>
+               <orth>gidseog</orth>
+            </form>
+            <def>Cè gidseog tombaca – a wee cut of tobacco.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp115798304">
+            <form>
+               <orth>shóa</orth>
+            </form>
+            <def>pios tombaca air son a chagnadh (chewing).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_ScalpayDRMorrisonmisc12-idp115799816">
+            <form>
+               <orth>sòrnach</orth>
+            </form>
+            <def>àit air son preis dhath, ait [sic] air bi preis dhath air a suidheachadh.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Ecclesiastical_StornowayAUrquhartbas">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the words have been slipped and therefore, apart from the definitions provided by the informant, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[3/1968 on the slips]</date>
+            <location>
+               <placeName>[Lewis], Steòrnabhagh [Stornoway]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Urquhart</persName>
+               <persName xml:lang="gd">A. Urchardan </persName>
+               <age>73</age>
+               <birth>
+                  <placeName>Geàrrloch (Loch Iubh) [Gairloch (Loch Ewe)]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Death and Burial</term>
+               <term xml:lang="gd">Bàs is Adhlacadh</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Ecclesiastical_StornowayAUrquhartbas-d0e39">
+            <form>
+               <orth>a’ righeadh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_StornowayAUrquhartbas-d0e45">
+            <form>
+               <orth>bòrd-righidh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_StornowayAUrquhartbas-d0e51">
+            <form>
+               <orth>léine-mhairbh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_StornowayAUrquhartbas-d0e57">
+            <form>
+               <orth>ciste-laighe</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_StornowayAUrquhartbas-d0e63">
+            <form>
+               <orth>caithris</orth>
+            </form>
+            <def>faire.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_StornowayAUrquhartbas-d0e72">
+            <form>
+               <orth>chaochail</orth>
+               <pron>[NOTES: slipped under ‘caochail’. Definition: Never ‘bhàsaich’ for a person. chaochail, shiubhail, dh’falbh [sic]</pron>
+            </form>
+            <def>[NOTES: slipped under ‘caochail’. Definition: Never ‘bhàsaich’ for a person. chaochail, shiubhail, dh’falbh [sic].]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_StornowayAUrquhartbas-d0e81">
+            <form>
+               <orth>shiubhail</orth>
+               <pron>[NOTES: slipped under ‘siubhal’. Definition: chaochail, shiubhail, dh’fhalbh. Never ‘bhàsaich’ for a person.]</pron>
+            </form>
+            <def>[NOTES: slipped under ‘siubhal’. Definition: chaochail, shiubhail, dh’fhalbh. Never ‘bhàsaich’ for a person.]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_StornowayAUrquhartbas-d0e90">
+            <form>
+               <orth>dh’fhalbh</orth>
+               <pron>[NOTES: slipped under ‘falbh’. Definition: chaochail, shiubhail, dh’fhalbh. Never ‘bhàsaich’ for a person.]</pron>
+            </form>
+            <def>[NOTES: slipped under ‘falbh’. Definition: chaochail, shiubhail, dh’fhalbh. Never ‘bhàsaich’ for a person.]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_StornowayAUrquhartbas-d0e99">
+            <form>
+               <orth>bhàsaich</orth>
+            </form>
+            <def>never for a person. [NOTES: slip not found.]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_StornowayAUrquhartbas-d0e108">
+            <form>
+               <orth>[fuil]</orth>
+            </form>
+            <def>Ag cur a’ chuirp ’sa’ chiste cha bhiodh ann ach “na bha de’n fhuil” – is e sin am facal a chuala mi. [NOTES: slip not found.]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_StornowayAUrquhartbas-d0e117">
+            <form>
+               <orth>an carbad</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_StornowayAUrquhartbas-d0e123">
+            <form>
+               <orth>an giùlan</orth>
+            </form>
+            <def>an carbad agus an luchd-giùlain. A’ dol a steach geata a’ chlaidh rachadh daoine a bhuineadh dha fo’n ghiùlan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_StornowayAUrquhartbas-d0e132">
+            <form>
+               <orth>am fàilean</orth>
+            </form>
+            <def>nùr fail cho fada ris an uaigh rachadh a chur air a h-uachdar. An rud mu dheireadh. “Dh’fhurich sinn gus an do chuir iad am fàilean air.”</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

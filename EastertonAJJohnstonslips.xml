@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_EastertonAJJohnstonslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>05/1969</date>
+            <location>
+               <placeName>Inverness-shire, Petty, Easterton</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Alexander J. Johnston</persName>
+               <age>90</age>
+               <birth>
+                  <placeName>Petty</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_EastertonAJJohnstonslips-idp115744480">
+            <form>
+               <orth>pocan-salainn</orth>
+               <pron>[pɔkɑṉsɑɫĩnʹ]</pron>
+            </form>
+            <def>[pɔkɑṉsɑɫĩnʹ] Notes: spider.</def>
+         </entry>
+         <entry xml:id="Slips_EastertonAJJohnstonslips-idp115746208">
+            <form>
+               <orth>uiseag</orth>
+            </form>
+            <def>Quotation: na h-uiseagan. Notes: said this was the general term they had for wild birds.</def>
+         </entry>
+         <entry xml:id="Slips_EastertonAJJohnstonslips-idp115747936">
+            <form>
+               <orth>àrlas (sic)</orth>
+            </form>
+            <def>Notes: chimney.</def>
+         </entry>
+         <entry xml:id="Slips_EastertonAJJohnstonslips-idp115749448">
+            <form>
+               <orth>crot</orth>
+            </form>
+            <def>Notes: a boil.</def>
+         </entry>
+         <entry xml:id="Slips_EastertonAJJohnstonslips-idp115750960">
+            <form>
+               <orth>eòin</orth>
+            </form>
+            <def>Quotation: na h-eòin. Notes: chickens.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

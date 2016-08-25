@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ecclesiastical_anonymouseccles">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: more than one informant? Two different colours of ink and what looks like two different hands but they are quite similar so it could be just one person. The handwriting in black ink in particular looks like that of Major N.T. MacLeod, the fieldworker whose name appears on a few anonymous/various questionnaires.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation/>
+         <particDesc>
+            <person role="informant">
+               <persName>[anonymous]</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Ecclesiastical Terms</term>
+               <term xml:lang="gd">An Eaglais</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Ecclesiastical_anonymouseccles-d0e20"
+             subtype="h1">1. Various denominations</ab>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e25">
+            <form>
+               <orth>na h antis</orth>
+            </form>
+            <def>anti Union e.g. [sic]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e34">
+            <form>
+               <orth>Sisèdurs</orth>
+            </form>
+            <def>seceders [sic] from Main body over doctrinal differences.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e43">
+            <form>
+               <orth>UPEES</orth>
+            </form>
+            <def>United Presbyterians (1900).</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e52">
+            <form>
+               <orth>Moderates, Monderats</orth>
+            </form>
+            <def>Established Church.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e61">
+            <form>
+               <orth>Muinntir an Aonidh 1900</orth>
+            </form>
+            <def>Union of UPEES and Free Church (1900), United Free Church.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e70">
+            <form>
+               <orth>muinntir an Aonidh 1969</orth>
+            </form>
+            <def>United Free Church and Established Church of Scotland (1930). U. F. Continuing. Those who did not join the 1930 Union. [NOTES: the last comment on U. F. added later.]</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_anonymouseccles-d0e78"
+             subtype="h2">An eaglais eile</ab>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e83">
+            <form>
+               <orth>Cathlic</orth>
+            </form>
+            <def>in Benbecula.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e92">
+            <form>
+               <orth>Pàpanich</orth>
+            </form>
+            <def>in Lewis.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_anonymouseccles-d0e100"
+             subtype="h1">2. Member of each of these denominations</ab>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e105">
+            <form>
+               <orth>togail fianuis</orth>
+            </form>
+            <def>being a church member.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e114">
+            <form>
+               <orth>commanachadh</orth>
+            </form>
+            <def>being a communicant.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e123">
+            <form>
+               <orth>Bord an Tighearn</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-idola93">
+            <form>
+               <orth>[minister maide]</orth>
+            </form>
+            <def>Bha minister maide a Tiridh / Chaidh aige chun an [?] Assembly air spree / “Mo chreach” ars easan / “Bidh mise aig an t-session / Ghabh mi tuilleadh/barrachd air coffee is ti.”</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_anonymouseccles-d0e137"
+             subtype="h1">3. Different courts of the Presbyterian churches</ab>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e142">
+            <form>
+               <orth>kúrst an dècon</orth>
+               <pron>[NOTES: ‘d’ is circled possibly to indicate pronunciation – (nasalisation?).]</pron>
+            </form>
+            <def>[NOTES: ‘d’ is circled possibly to indicate pronunciation – (nasalisation?).]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e151">
+            <form>
+               <orth>kúrst an teshàn/teshon</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e157">
+            <form>
+               <orth>a’ chlèr</orth>
+            </form>
+            <def>Presbytery.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e166">
+            <form>
+               <orth>coinniv uaignach</orth>
+            </form>
+            <def>secret [meeting].</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_anonymouseccles-d0e174"
+             subtype="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</ab>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e179">
+            <form>
+               <orth>minister</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e185">
+            <form>
+               <orth>missionary</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e191">
+            <form>
+               <orth>èildur</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e197">
+            <form>
+               <orth>àrd eildur</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e203">
+            <form>
+               <orth>dècon</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e209">
+            <form>
+               <orth>clàrc an teshan</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e215">
+            <form>
+               <orth>fer ionibh inivash, fer inivash</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e221">
+            <form>
+               <orth>maor eglaish</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_anonymouseccles-d0e226"
+             subtype="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</ab>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e231">
+            <form>
+               <orth>esbig</orth>
+            </form>
+            <def>bishop.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e240">
+            <form>
+               <orth>sagart</orth>
+            </form>
+            <def>priest.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_anonymouseccles-d0e248"
+             subtype="h1">6. Holy Orders within the Roman Catholic church</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_anonymouseccles-d0e252"
+             subtype="h1">7. Articles of dress or adornment</ab>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e257">
+            <form>
+               <orth>taigh nan calacha dubha</orth>
+            </form>
+            <def>nunnery.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_anonymouseccles-d0e265"
+             subtype="h1">8. Church building and churchyard</ab>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e270">
+            <form>
+               <orth>eglais</orth>
+            </form>
+            <def>church.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e279">
+            <form>
+               <orth>cladh</orth>
+            </form>
+            <def>churchyard.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e288">
+            <form>
+               <orth>taigh coineamh</orth>
+            </form>
+            <def>meeting house.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e297">
+            <form>
+               <orth>suidheachan mòr</orth>
+            </form>
+            <def>where the elders sat.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e306">
+            <form>
+               <orth>cùbinn mhòr</orth>
+            </form>
+            <def>for the minister.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e315">
+            <form>
+               <orth>cùbinn bheag</orth>
+            </form>
+            <def>for a lay preacher or for the precentor.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_anonymouseccles-d0e323"
+             subtype="h1">9. Church furniture and ornaments</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_anonymouseccles-d0e327"
+             subtype="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</ab>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e332">
+            <form>
+               <orth>taig</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] coinniv [illegible] </def>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e338">
+            <form>
+               <orth>orduighean</orth>
+            </form>
+            <def>communions.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e347">
+            <form>
+               <orth>orduighean beaga</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e353">
+            <form>
+               <orth>coiniv vius (mhios)</orth>
+            </form>
+            <def>monthly meeting.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e362">
+            <form>
+               <orth>coiniv ràidh</orth>
+            </form>
+            <def>quarterly meeting.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e371">
+            <form>
+               <orth>a chàisg</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] Easter, feast of Eggs.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_anonymouseccles-d0e380">
+            <form>
+               <orth>sgol Shabuin</orth>
+            </form>
+            <def>Sunday school.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_anonymouseccles-d0e388"
+             subtype="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_anonymouseccles-d0e392"
+             subtype="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</ab>
+      </body>
+   </text>
+</TEI>

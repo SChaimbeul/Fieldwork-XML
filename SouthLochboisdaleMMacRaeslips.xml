@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Slips_SouthLochboisdaleMMacRaeslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>02/1969</date>
+            <location>
+               <placeName>South Uist, South Lochboisdale</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Mary MacRae</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_SouthLochboisdaleMMacRaeslips-idp115482920">
+            <form>
+               <orth>puigean</orth>
+               <pron>[pu̜ɡʹɑ̃ṉ]</pron>
+            </form>
+            <def>[pu̜ɡʹɑ̃ṉ] Notes: a small parcel.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

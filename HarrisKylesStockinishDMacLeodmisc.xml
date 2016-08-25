@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodmisc">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location corresp="Harris_Kyles_Stockinish"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="anonymous_D"/>
+        <person role="informant" corresp="Donald_MacLeod_Harris_Kyles_Stockinish"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Miscellaneous</term>
+          <term xml:lang="gd">Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodmisc-d0e27">
+        <form>
+          <orth>dùmh ogha</orth>
+        </form>
+        <def>fourth cousin.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodmisc-d0e36">
+        <form>
+          <orth>cota drògaid</orth>
+        </form>
+        <def>a coat made up of bits of differently coloured wool. “De an cota drògaid a thoirt [sic] ann an sid?” – said if you had an unsightly piece of clothing on.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodmisc-d0e45">
+        <form>
+          <orth>uileachan</orth>
+        </form>
+        <def>cape, poncho.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodmisc-d0e54">
+        <form>
+          <orth>salach gheallach</orth>
+        </form>
+        <def>dimly lit night. “Oidhche na sallaich gheallaich”.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodmisc-d0e63">
+        <form>
+          <orth>drug(a)</orth>
+        </form>
+        <def>ball of fire, supposed to signify death.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodmisc-d0e72">
+        <form>
+          <orth>cogeal</orth>
+        </form>
+        <def>rye.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodmisc-d0e81">
+        <form>
+          <orth>cniamhaich</orth>
+        </form>
+        <def/>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodmisc-d0e89">
+        <form>
+          <orth>bean glùine</orth>
+        </form>
+        <def>midwife.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodmisc-d0e98">
+        <form>
+          <orth>a’ smùiradh</orth>
+        </form>
+        <def>tarring sheep, tar mixed with fish oil.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodmisc-d0e107">
+        <form>
+          <orth>lugachan</orth>
+        </form>
+        <def>lug worm.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodmisc-d0e116">
+        <form>
+          <orth>cearban</orth>
+        </form>
+        <def>basking shark.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodmisc-d0e125">
+        <form>
+          <orth>bràilair</orth>
+        </form>
+        <def>net on a wind on the boat, holds 28 boxes of fish.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodmisc-d0e134">
+        <form>
+          <orth>sgomair</orth>
+        </form>
+        <def>large hand-held landing net.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodmisc-d0e143">
+        <form>
+          <orth>langadal</orth>
+        </form>
+        <def>tangle.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisKylesStockinishDMacLeodmisc-d0e152">
+        <form>
+          <orth>an caoigh</orth>
+        </form>
+        <def>asthma.</def>
+      </entry>
+    </body>
+  </text>
+</TEI>

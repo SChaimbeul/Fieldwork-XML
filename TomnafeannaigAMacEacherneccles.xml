@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Ile, Baila Ghrain, [Islay, Ballygrant], Tomnafeannaig</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>MacEachern</persName>
+               <persName xml:lang="gd">Alasdair MacEachearna</persName>
+               <age>tri fichead sa deich [70]</age>
+               <birth>
+                  <placeName>[in the card index: Islay, Ballygrant] [the questionnaire gives Earraghaidhiell but it is most probably meant as the county not origin]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Ecclesiastical Terms</term>
+               <term xml:lang="gd">An Eaglais</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e32"
+             subtype="h1">1. Various denominations</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e36"
+             subtype="h1">2. Member of each of these denominations</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e40"
+             subtype="h1">3. Different courts of the Presbyterian churches</ab>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e45">
+            <form>
+               <orth>seasion</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e51">
+            <form>
+               <orth>a’ chlear</orth>
+            </form>
+            <def>presbytery.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e59"
+             subtype="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</ab>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e64">
+            <form>
+               <orth>minister</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e70">
+            <form>
+               <orth>foirbheach</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e76">
+            <form>
+               <orth>clearach seasion</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e82">
+            <form>
+               <orth>ionmhsar</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e88">
+            <form>
+               <orth>maor eaglais</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e93"
+             subtype="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</ab>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e98">
+            <form>
+               <orth>easpaig</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e104">
+            <form>
+               <orth>sagart</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e109"
+             subtype="h1">6. Holy Orders within the Roman Catholic church</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e113"
+             subtype="h1">7. Articles of dress or adornment</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e117"
+             subtype="h1">8. Church building and churchyard</ab>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e122">
+            <form>
+               <orth>eaglais</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e128">
+            <form>
+               <orth>cladh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e134">
+            <form>
+               <orth>tigh seasian</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e139"
+             subtype="h1">9. Church furniture and ornaments</ab>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e144">
+            <form>
+               <orth>crannaig</orth>
+            </form>
+            <def>pulpit.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e152"
+             subtype="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</ab>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e157">
+            <form>
+               <orth>la traisg</orth>
+            </form>
+            <def>fast day.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e166">
+            <form>
+               <orth>comanachadh</orth>
+            </form>
+            <def>communion.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e175">
+            <form>
+               <orth>urnaigh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e181">
+            <form>
+               <orth>seinn clue</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e187">
+            <form>
+               <orth>searmoin</orth>
+            </form>
+            <def>sermon.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e196">
+            <form>
+               <orth>tavartus</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e202">
+            <form>
+               <orth>sgoil shabhaid</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e208">
+            <form>
+               <orth>connaimh tigh</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e213"
+             subtype="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</ab>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e218">
+            <form>
+               <orth>Dia</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e224">
+            <form>
+               <orth>Tighiarna</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e230">
+            <form>
+               <orth>Iosa Criasd</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e236">
+            <form>
+               <orth>Spirod Naomh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e242">
+            <form>
+               <orth>aingil</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e248">
+            <form>
+               <orth>abostail</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e254">
+            <form>
+               <orth>neamh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e260">
+            <form>
+               <orth>an oigh bheanacht</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e266">
+            <form>
+               <orth>an soisgeul</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e272">
+            <form>
+               <orth>uarnaigh an Tighearna</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e277"
+             subtype="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</ab>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e282">
+            <form>
+               <orth>diabhol, taibhistear</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e288">
+            <form>
+               <orth>ifrin</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e294">
+            <form>
+               <orth>breagan</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e300">
+            <form>
+               <orth>misg</orth>
+            </form>
+            <def>drunkenness.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e309">
+            <form>
+               <orth>meirl</orth>
+            </form>
+            <def>theft.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e318">
+            <form>
+               <orth>mort</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e324">
+            <form>
+               <orth>mionnan</orth>
+            </form>
+            <def>swearing.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e333">
+            <form>
+               <orth>tuasaid</orth>
+            </form>
+            <def>fighting.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

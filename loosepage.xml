@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Word-lists_loosepage">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation/>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[K.D. MacDonald?]</persName>
+            </person>
+            <person role="informant">
+               <persName>?</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Word-lists_loosepage-idm1258232">
+            <form>
+               <orth>[kuLəʹLɔ:d]</orth>
+               <pron>[?]</pron>
+            </form>
+            <def>[?] confusion, riot.</def>
+         </entry>
+         <entry xml:id="Word-lists_loosepage-idm1244552">
+            <form>
+               <orth>falbh nam fianlaichean</orth>
+               <pron>[fiãhiçən]</pron>
+            </form>
+            <def>[fiãhiçən] (Back) = falbh nan sitigean [?].</def>
+         </entry>
+         <entry xml:id="Word-lists_loosepage-idm1242824">
+            <form>
+               <orth>bungaid</orth>
+            </form>
+            <def>big, fat, lazy woman.</def>
+         </entry>
+         <entry xml:id="Word-lists_loosepage-idm1241312">
+            <form>
+               <orth>bangaid</orth>
+            </form>
+            <def>See bungaid. (Uig)</def>
+         </entry>
+         <entry xml:id="Word-lists_loosepage-idm1239800">
+            <form>
+               <orth>ùrstan</orth>
+            </form>
+            <def>drink celebrating a birth.</def>
+         </entry>
+         <entry xml:id="Word-lists_loosepage-idm1238288">
+            <form>
+               <orth>leanan</orth>
+            </form>
+            <def>Rinn mi leanan dhi (thumb) = pull.</def>
+         </entry>
+         <entry xml:id="Word-lists_loosepage-idm1236776">
+            <form>
+               <orth>air chialladh</orth>
+            </form>
+            <def>on an empty. Chunnaic mi chuthag air chialladh / ’S dh’aithnich mi nach deigheadh a’ bhliadhna leam.</def>
+         </entry>
+         <entry xml:id="Word-lists_loosepage-idm1234832">
+            <form>
+               <orth>breaghachan</orth>
+            </form>
+            <def>a beauty (in derisory manner).</def>
+         </entry>
+         <entry xml:id="Word-lists_loosepage-idm1233320">
+            <form>
+               <orth>[flɛ:tik]</orth>
+            </form>
+            <def>rope on cow’s head when swimming channel. (Breinish)</def>
+         </entry>
+         <entry xml:id="Word-lists_loosepage-idm1231664">
+            <form>
+               <orth>corr-thulchainn</orth>
+            </form>
+            <def>maide an ceann [?] tigh-tughaidh. (S. Uist)</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

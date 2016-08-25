@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WoolworkingandFishing_DunoonJMacLeanwool">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Dunoon</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>John MacLean</persName>
+               <persName xml:lang="gd">Iain Mac ’Illeathain </persName>
+               <age>48</age>
+               <birth>
+                  <placeName>Barra</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Wool-Working</term>
+               <term xml:lang="gd">Obair na Clòimhe</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e32"
+             subtype="h1">1. Raw wool</ab>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e37">
+            <form>
+               <orth>clòimh</orth>
+               <pron>[wool.]</pron>
+            </form>
+            <def>[wool.]</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e46">
+            <form>
+               <orth>rùsg</orth>
+               <pron>[fleece.]</pron>
+            </form>
+            <def>[fleece.]</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e55">
+            <form>
+               <orth>badan</orth>
+            </form>
+            <def>tuft.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e63"
+             subtype="h1">2. Oil or grease put on wool before carding</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e67"
+             subtype="h1">3. Carding</ab>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e72">
+            <form>
+               <orth>ag càrdadh</orth>
+            </form>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e78">
+            <form>
+               <orth>cardan</orth>
+            </form>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e84">
+            <form>
+               <orth>rollag</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e89"
+             subtype="h1">4. Spinning</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e93"
+             subtype="h1">5. Parts of the spinning wheel</ab>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e98">
+            <form>
+               <orth>cuidheall</orth>
+            </form>
+            <def>spinning wheel.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e107">
+            <form>
+               <orth>asnaichean</orth>
+            </form>
+            <def>ribs of wheel.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e116">
+            <form>
+               <orth>biurna</orth>
+            </form>
+            <def>reel.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e125">
+            <form>
+               <orth>aiseal</orth>
+            </form>
+            <def>axle.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e134">
+            <form>
+               <orth>maighdeanan</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e139"
+             subtype="h1">6. Yarn and associated apparatus</ab>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e144">
+            <form>
+               <orth>cearle</orth>
+            </form>
+            <def>large ball [of yarn].</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e153">
+            <form>
+               <orth>bunnag</orth>
+            </form>
+            <def>small ball [of yarn].</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e162">
+            <form>
+               <orth>iarna</orth>
+            </form>
+            <def>hank.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e171">
+            <form>
+               <orth>cuta</orth>
+            </form>
+            <def>hank.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e180">
+            <form>
+               <orth>fearsad</orth>
+            </form>
+            <def>spindle.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e189">
+            <form>
+               <orth>crois-iarna</orth>
+            </form>
+            <def>distaff. Superstitious belief that a lad growing too quickly could be hit by a distaff and he would stop growing.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e197"
+             subtype="h1">7. Dyeing</ab>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e202">
+            <form>
+               <orth>guirmein</orth>
+            </form>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e208">
+            <form>
+               <orth>crotal</orth>
+            </form>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e214">
+            <form>
+               <orth>feusag nan creag</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e219"
+             subtype="h1">8. Washing after dyeing</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e223"
+             subtype="h1">9. Warping</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e227"
+             subtype="h1">10. Beaming and tying</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e231"
+             subtype="h1">11. Weaving</ab>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e236">
+            <form>
+               <orth>breabadair no fìdheadair</orth>
+            </form>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e242">
+            <form>
+               <orth>spàl</orth>
+            </form>
+            <def>shuttle.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e250"
+             subtype="h1">12. Parts of the weaving loom</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e254"
+             subtype="h1">13. Finishing</ab>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e259">
+            <form>
+               <orth>luadhadh</orth>
+            </form>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e265">
+            <form>
+               <orth>a chléith</orth>
+            </form>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_DunoonJMacLeanwool-d0e271">
+            <form>
+               <orth>maighistir</orth>
+            </form>
+            <def>polite term for urine.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

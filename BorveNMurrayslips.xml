@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BorveNMurrayslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>09/1971</date>
+            <location>
+               <placeName>Lewis, Borve</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Nora Murray</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_BorveNMurrayslips-idp115451160">
+            <form>
+               <orth>simide</orth>
+               <pron>[ʃĩmidʹə]</pron>
+            </form>
+            <def>[ʃĩmidʹə] Notes: wooden stick used for beating clothes when washing them. “Simide” used elsewhere for a potato-masher – shaped like a baseball-bat.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

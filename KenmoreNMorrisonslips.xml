@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_KenmoreNMorrisonslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>12/1969</date>
+            <location>
+               <placeName>Kenmore</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Mrs N. Morrison</persName>
+               <birth>
+                  <placeName>Harris</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp118995744">
+            <form>
+               <orth>null</orth>
+            </form>
+            <def>Quotation: Bha e null ’s a nall. Notes: he was non-committal.</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp118997400">
+            <form>
+               <orth>osan</orth>
+            </form>
+            <def>Quotation: osan a’ chléibh ghiomach. Notes: the entrance. (Harris)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp118999056">
+            <form>
+               <orth>poca-salainn</orth>
+            </form>
+            <def>Notes: spider.</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp119000568">
+            <form>
+               <orth>prug</orth>
+            </form>
+            <def>Quotation: prug, prug! Notes: call to a calf. (Also prugan.)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp119002224">
+            <form>
+               <orth>prugan</orth>
+               <pron>[pɾu̟ɡɑṉ]</pron>
+            </form>
+            <def>[pɾu̟ɡɑṉ] Quotation: prugan, prugan! Notes: call to a calf. (Prug also used.)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp119004960">
+            <form>
+               <orth>làir-bhreabach</orth>
+            </form>
+            <def>Quotation: làir-bhreabach [ɫɑ:ðəvðebɔx] (sic). Notes: swing.</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp119006904">
+            <form>
+               <orth>léine</orth>
+            </form>
+            <def>Quotation: léine-gheal. Notes: the skin inside the shell of an egg.</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp119008560">
+            <form>
+               <orth>mulad</orth>
+            </form>
+            <def>Notes: used in Kenmore for homesickness.</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp115456624">
+            <form>
+               <orth>ròmag</orth>
+            </form>
+            <def>Notes: mixture of oatmeal, whisky and sugar. (Harris)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp115493128">
+            <form>
+               <orth>inneadh</orth>
+            </form>
+            <def>Notes: lack of yarn to complete a tweed. (Lewis – inneamh.)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp115439200">
+            <form>
+               <orth>ìongnachan</orth>
+               <pron>[ĩ:ṉɑxɑṉ]</pron>
+            </form>
+            <def>[ĩ:ṉɑxɑṉ] Notes: sea-urchin. (Kenmore)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp115469656">
+            <form>
+               <orth>seilean</orth>
+            </form>
+            <def>Quotation: (1) seilean dubh. (2) seilean ruadh. Notes: (2) has nest deeper in the ground and has more honey.</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp115456048">
+            <form>
+               <orth>seiplisg</orth>
+               <pron>[sɛpliʃɡʹ]</pron>
+            </form>
+            <def>[sɛpliʃɡʹ] Notes: soapy water. (Harris)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166426568">
+            <form>
+               <orth>sglòpan</orth>
+            </form>
+            <def>Notes: hen’s wattle.</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166428080">
+            <form>
+               <orth>sgoradh</orth>
+            </form>
+            <def>Quotation: dà sgoradh. Notes: earmark. <graphic url="KenmoreNMorrisonslipsillust1.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166429736">
+            <form>
+               <orth>siollaichean</orth>
+            </form>
+            <def>Notes: haimes. (Kenmore)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166431248">
+            <form>
+               <orth>sionnachan</orth>
+            </form>
+            <def>Notes: phosphorescence. (Harris)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166432760">
+            <form>
+               <orth>slaodag</orth>
+            </form>
+            <def>Notes: horse-drawn sledge. (Kenmore)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166434272">
+            <form>
+               <orth>slis</orth>
+            </form>
+            <def>Quotation: dà shlis. Notes: earmark. (Harris) <graphic url="KenmoreNMorrisonslipsillust2.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166435928">
+            <form>
+               <orth>smeòrach</orth>
+            </form>
+            <def>Notes: earmark. (Kenmore) <graphic url="KenmoreNMorrisonslipsillust3.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166437440">
+            <form>
+               <orth>soitheamh</orth>
+               <pron>[sɔ̃hi]</pron>
+            </form>
+            <def>[sɔ̃hi] Notes: well-behaved, tame as e.g. a cow.</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166439168">
+            <form>
+               <orth>splungag</orth>
+               <pron>[spɫũ̜ŋɡɑɡ]</pron>
+            </form>
+            <def>[spɫũ̜ŋɡɑɡ] Notes: a sling (for throwing stones, etc.).</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166440896">
+            <form>
+               <orth>spòg</orth>
+            </form>
+            <def>Quotation: spòg an trùsair. Notes: trouser leg. (Kenmore)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166442552">
+            <form>
+               <orth>sùlag</orth>
+            </form>
+            <def>Notes: earmark. (Harris) <graphic url="KenmoreNMorrisonslipsillust4.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166444064">
+            <form>
+               <orth>tallainde</orth>
+               <pron>[t̪ɑɫɑ̃nʹdʹə]</pron>
+            </form>
+            <def>[t̪ɑɫɑ̃nʹdʹə] Notes: partition in a house.</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166445792">
+            <form>
+               <orth>tarbh</orth>
+            </form>
+            <def>Quotation: tarbh mór nathair-neimh. Notes: dragonfly. (Kenmore)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166447448">
+            <form>
+               <orth>tormachan-dé</orth>
+            </form>
+            <def>Notes: butterfly.</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166448960">
+            <form>
+               <orth>bacan</orth>
+            </form>
+            <def>Quotation: bacan aghaidh, bacan cùl. Notes: <graphic url="KenmoreNMorrisonslipsillust5.jpg" width="250px"/>
+            </def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166450616">
+            <form>
+               <orth>biadhtach</orth>
+            </form>
+            <def>Notes: raven. (Harris)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166452128">
+            <form>
+               <orth>biast</orth>
+            </form>
+            <def>Quotation: biast a’ chàil. Notes: caterpillar.</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166453784">
+            <form>
+               <orth>bior</orth>
+            </form>
+            <def>Quotation: bior eallaidh [biɾˈiɑɫi]. Notes: an iron rod used to hold lighted peat as a torch. (Harris)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166455872">
+            <form>
+               <orth>boiteas</orth>
+               <pron>[botʹəs]</pron>
+            </form>
+            <def>[botʹəs] Notes: bowel-worm.</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166457600">
+            <form>
+               <orth>breaban</orth>
+            </form>
+            <def>Notes: a half-sole.</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166459112">
+            <form>
+               <orth>brìdean</orth>
+            </form>
+            <def>Notes: oyster-catcher. (Kenmore)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166460624">
+            <form>
+               <orth>caraide-spàgach</orth>
+            </form>
+            <def>Notes: daddy longlegs. (Harris)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166462136">
+            <form>
+               <orth>casachan</orth>
+            </form>
+            <def>Notes: pedal of handloom. (Harris)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166463648">
+            <form>
+               <orth>ceap-sgiath</orth>
+            </form>
+            <def>Notes: wool-winder (same as lianradh). (Kenmore)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166465160">
+            <form>
+               <orth>cluais</orth>
+            </form>
+            <def>Quotation: cluais bhiorach. Notes: earmark. (Kenmore) <graphic url="KenmoreNMorrisonslipsillust6.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166466816">
+            <form>
+               <orth>cneaban</orth>
+               <pron>[kɾɛ̃:bɑṉ]</pron>
+            </form>
+            <def>[kɾɛ̃:bɑṉ] Notes: a small stool. (Kenmore)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166468544">
+            <form>
+               <orth>cnoimheag</orth>
+               <pron>[kɾɛ̃ɑɡ]</pron>
+            </form>
+            <def>[kɾɛ̃ɑɡ] Notes: sheep maggot.</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166470272">
+            <form>
+               <orth>cragan-feannaig</orth>
+            </form>
+            <def>Notes: sea-urchin. (Harris)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166471784">
+            <form>
+               <orth>crann-aodaich</orth>
+            </form>
+            <def>Notes: cloth beam on a handloom. (Harris)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166473296">
+            <form>
+               <orth>crann-snàth</orth>
+            </form>
+            <def>Notes: warp-beam. (Harris)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166474808">
+            <form>
+               <orth>criomag</orth>
+            </form>
+            <def>Notes: earmark. <graphic url="KenmoreNMorrisonslipsillust7.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166476320">
+            <form>
+               <orth>cròcan</orth>
+               <pron>[kɾɔ:xkɑṉ]</pron>
+            </form>
+            <def>[kɾɔ:xkɑṉ] Notes: implement used to go after sand eels.</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166478048">
+            <form>
+               <orth>cròcan</orth>
+            </form>
+            <def>Notes: earmark. (Harris) <graphic url="KenmoreNMorrisonslipsillust8.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166479560">
+            <form>
+               <orth>dùbhaich</orth>
+            </form>
+            <def>Notes: the anal passage in a beast. (Harris)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166481072">
+            <form>
+               <orth>ealladh</orth>
+            </form>
+            <def>Quotation: bior eallaidh. Notes: an iron rod used to hold lighted peat as a torch. (Harris)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166482728">
+            <form>
+               <orth>gearradh</orth>
+            </form>
+            <def>Notes: earmark. (Harris) <graphic url="KenmoreNMorrisonslipsillust9.jpg" width="250px"/>
+            </def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166484240">
+            <form>
+               <orth>gèidsear</orth>
+            </form>
+            <def>Notes: plough muzzle, to adjust its position.</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166485752">
+            <form>
+               <orth>gibneach</orth>
+               <pron>[ɡıbṉɔ̃x]</pron>
+            </form>
+            <def>[ɡıbṉɔ̃x] Notes: octopus. (Harris)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166487480">
+            <form>
+               <orth>goilebianan</orth>
+               <pron>[ɡɤləbiɤṉɑṉ]</pron>
+            </form>
+            <def>[ɡɤləbiɤṉɑṉ] Notes: phosphorescence as seen on fish which has been hanging for a few days.</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166489208">
+            <form>
+               <orth>gormunn</orth>
+               <pron>[ɡɔɾɑməṉ]</pron>
+            </form>
+            <def>[ɡɔɾɑməṉ] Quotation: gormunn-uchd. Notes: the beam on to which the cloth goes before it goes on the crann-aodaich. (Harris)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166491080">
+            <form>
+               <orth>great</orth>
+               <pron>[ɡɾɛt̪]</pron>
+            </form>
+            <def>[ɡɾɛt̪] Notes: soapy water. (Kenmore)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166492808">
+            <form>
+               <orth>gròbadh</orth>
+            </form>
+            <def>Quotation: Bheir gròbadh dhan an uinneig. Tha gròbadh air an dorus. Notes: slightly open.</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166494464">
+            <form>
+               <orth>gròmag</orth>
+            </form>
+            <def>Notes: mixture of oatmeal, whisky and sugar. (Kenmore)</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166495976">
+            <form>
+               <orth>gugaill</orth>
+               <pron>[ɡu̟ɡilʹ]</pron>
+            </form>
+            <def>[ɡu̟ɡilʹ] Quotation: Tha e na [ɣu̟ɡilʹ]. Notes: He is in a huddled position.</def>
+         </entry>
+         <entry xml:id="Slips_KenmoreNMorrisonslips-idp166499000">
+            <form>
+               <orth>bulaidh-mhuc</orth>
+            </form>
+            <def>Quotation: Cho fliuch ris a’ b(m?)hulaidh-mhuc. Notes: wild hyacinth. Above phrase used of wet potatoes.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

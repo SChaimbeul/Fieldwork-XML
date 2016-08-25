@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="AssortedFieldworkers_AnonymousAfaireachdain">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation/>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>Anonymous A</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Senses</term>
+               <term xml:lang="gd">Faireachdain</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e14"
+             subtype="h1">FAIREACHDAIN</ab>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e19">
+            <form>
+               <orth>faithnean</orth>
+            </form>
+            <def>the senses.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-idola35">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>The others as above [i.e. in the heading of the questionnaire – I have copied them below].</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e37">
+            <form>
+               <orth>[claisneachd]</orth>
+            </form>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e43">
+            <form>
+               <orth>[fàileadh]</orth>
+            </form>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e49">
+            <form>
+               <orth>[fradharc]</orth>
+            </form>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e55">
+            <form>
+               <orth>[blas]</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e60"
+             subtype="h1">AN T-SÙIL</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e64"
+             subtype="h2">1. Seòrsachan sùil, pàirtean de’n t-sùil, tinneasan sùil, fradharc</ab>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e69">
+            <form>
+               <orth>frasg, fruisg</orth>
+            </form>
+            <def>eyelash, -es.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e78">
+            <form>
+               <orth>sùil chlaon</orth>
+            </form>
+            <def>squint eye.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e87">
+            <form>
+               <orth>leònag</orth>
+            </form>
+            <def>stye.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e96">
+            <form>
+               <orth>teine-sionnachain</orth>
+            </form>
+            <def>phosphorescence.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e105">
+            <form>
+               <orth>sùil chaogach</orth>
+            </form>
+            <def>winking eye.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e114">
+            <form>
+               <orth>mala</orth>
+            </form>
+            <def>eyebrow.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e123">
+            <form>
+               <orth>rosg</orth>
+            </form>
+            <def>eyelid.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e131"
+             subtype="h2">2. Dòighean air coimhead air duine</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e135"
+             subtype="h2">3. Gnathasan-cainnte tha bointinn ris an t-sùil</ab>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e140">
+            <form>
+               <orth>[sùil]</orth>
+            </form>
+            <def>Tha mo shùil ann. – to us [it] meant “I fancy it”. [NOTES: the authors of the questionnaire give this phrase as an example with the meaning ‘I want it’.]</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e149">
+            <form>
+               <orth>[faicinn]</orth>
+            </form>
+            <def>Breagha ri fhaicinn ach geur ri bhlasad. – Fair to the eye but bitter to the taste.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e157"
+             subtype="h1">AM BEUL</ab>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e162">
+            <form>
+               <orth>bleith na fiaclan</orth>
+            </form>
+            <def>gnashing.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e171">
+            <form>
+               <orth>càirean</orth>
+            </form>
+            <def>gums.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e180">
+            <form>
+               <orth>cagnadh</orth>
+            </form>
+            <def>chewing.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e189">
+            <form>
+               <orth>[daorach]</orth>
+            </form>
+            <def>Tha e air an daorach. – He is drunk.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e198">
+            <form>
+               <orth>cabaireachd</orth>
+            </form>
+            <def>small talk or blethering.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e207">
+            <form>
+               <orth>frith ghàire</orth>
+            </form>
+            <def>giggle.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e216">
+            <form>
+               <orth>gagach</orth>
+            </form>
+            <def>stammer.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e225">
+            <form>
+               <orth>liotach</orth>
+            </form>
+            <def>lisp.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e234">
+            <form>
+               <orth>bacadh</orth>
+            </form>
+            <def>impediment.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e242"
+             subtype="h1">A’ CHLUAS</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e246"
+             subtype="h2">1. Cumaidhean chluas, pàirtean de’n chluais, tinneasan cluaise</ab>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e251">
+            <form>
+               <orth>elibhag</orth>
+            </form>
+            <def>ear-lobe.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e260">
+            <form>
+               <orth>céir</orth>
+            </form>
+            <def>wax.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e268"
+             subtype="h2">2. Seòrsaichean de fhuaim</ab>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e273">
+            <form>
+               <orth>rànnaich na mara</orth>
+            </form>
+            <def>roar of the sea.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e282">
+            <form>
+               <orth>feadan gaoithe</orth>
+            </form>
+            <def>hissing of the wind.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e291">
+            <form>
+               <orth>sgreuch</orth>
+            </form>
+            <def>scream, screech.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e300">
+            <form>
+               <orth>sgread</orth>
+            </form>
+            <def>scream, screech.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e309">
+            <form>
+               <orth>sgiamhail</orth>
+            </form>
+            <def>squealing.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e318">
+            <form>
+               <orth>sitirich</orth>
+            </form>
+            <def>neighing.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e327">
+            <form>
+               <orth>geumnaich</orth>
+            </form>
+            <def>lowing.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e336">
+            <form>
+               <orth>gnothail</orth>
+            </form>
+            <def>grunting.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e345">
+            <form>
+               <orth>comhartaich</orth>
+            </form>
+            <def>barking.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e354">
+            <form>
+               <orth>mèilich</orth>
+            </form>
+            <def>bleating.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e363">
+            <form>
+               <orth>bùrraich</orth>
+            </form>
+            <def>stags roaring.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e372">
+            <form>
+               <orth>ceileireadh</orth>
+            </form>
+            <def>chirping of birds.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e381">
+            <form>
+               <orth>maodal</orth>
+            </form>
+            <def>stomach.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e390">
+            <form>
+               <orth>rùbail</orth>
+            </form>
+            <def>rumbling of the stomach.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-idola36">
+            <form>
+               <orth>[note]</orth>
+               <pron>[NOTES: the rest of the questionnaire (i.e. an t-sròn, an làmh, an cridhe) missing.]</pron>
+            </form>
+            <def>[NOTES: the rest of the questionnaire (i.e. an t-sròn, an làmh, an cridhe) missing.]</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="AOHenley_MilngavieAMacIomhairmisc">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[1987-88]</date>
+            <location>
+               <placeName>Milngavie</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>A. O’Henley</persName>
+            </person>
+            <person role="informant">
+               <persName>Alasdair MacIomhair</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="AOHenley_MilngavieAMacIomhairmisc-idp112493120">
+            <form>
+               <orth>brod</orth>
+            </form>
+            <def>a gaff with a hook used to draw out lobsters. This could only be used at spring tide.</def>
+         </entry>
+         <entry xml:id="AOHenley_MilngavieAMacIomhairmisc-idp112499168">
+            <form>
+               <orth>ceann cròpaig</orth>
+            </form>
+            <def>a dish, most likely a starter made with the liver of a fish, preferably that of a cod or ling. This was mixed with onions, oatmeal and seasoned with salt and pepper. The mix was then pushed into the fish’s head which was wrapped in white thread. It was then cooked along with another bit of fish. Could also be used to make soup. [NOTES: ‘cròpaig’ corrected to ‘cropaig’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_MilngavieAMacIomhairmisc-idp112553672">
+            <form>
+               <orth>fiasgain</orth>
+            </form>
+            <def>mussels.</def>
+         </entry>
+         <entry xml:id="AOHenley_MilngavieAMacIomhairmisc-idp112449200">
+            <form>
+               <orth>maorach</orth>
+            </form>
+            <def>limpet.</def>
+         </entry>
+         <entry xml:id="AOHenley_MilngavieAMacIomhairmisc-idp112474040">
+            <form>
+               <orth>bearneach</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] limpet.</def>
+         </entry>
+         <entry xml:id="AOHenley_MilngavieAMacIomhairmisc-idp112546472">
+            <form>
+               <orth>faochag</orth>
+            </form>
+            <def>winkle.</def>
+         </entry>
+         <entry xml:id="AOHenley_MilngavieAMacIomhairmisc-idp112522784">
+            <form>
+               <orth>mursiunn</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] razor fish.</def>
+         </entry>
+         <entry xml:id="AOHenley_MilngavieAMacIomhairmisc-idp112428968">
+            <form>
+               <orth>conochgag</orth>
+            </form>
+            <def>oyster shell? <graphic url="MilngavieAMacIomhairmiscillust1.jpg" width="250px"/> You can hear the echo of the sea if you put it close to your ear.</def>
+         </entry>
+         <entry xml:id="AOHenley_MilngavieAMacIomhairmisc-idp112544816">
+            <form>
+               <orth>leòpag</orth>
+            </form>
+            <def>flounder. [NOTES: corrected to ‘leòbag’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_MilngavieAMacIomhairmisc-idp112515656">
+            <form>
+               <orth>portan</orth>
+            </form>
+            <def>small crab.</def>
+         </entry>
+         <entry xml:id="AOHenley_MilngavieAMacIomhairmisc-idp112539632">
+            <form>
+               <orth>liaghag</orth>
+            </form>
+            <def>seaweed moving to and fro in the sea water.</def>
+         </entry>
+         <entry xml:id="AOHenley_MilngavieAMacIomhairmisc-idp112494920">
+            <form>
+               <orth>creachain</orth>
+            </form>
+            <def>clams.</def>
+         </entry>
+         <entry xml:id="AOHenley_MilngavieAMacIomhairmisc-idp112511624">
+            <form>
+               <orth>duiseagan</orth>
+            </form>
+            <def>entrails of a sheep before they have been cleaned.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="AOHenley_GlasgowDJMacVicarmisc1">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[1987-88]</date>
+            <location>
+               <placeName>Glasgow</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>A. O’Henley</persName>
+            </person>
+            <person role="informant">
+               <persName>D. J. MacVicar</persName>
+               <birth>
+                  <placeName>? [South Uist? See the note on p. 3.]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp3227104">
+            <form>
+               <orth>spruill</orth>
+            </form>
+            <def>surly expression. “Bha spruill air.”</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp3223720">
+            <form>
+               <orth>torghan (-aich)</orth>
+            </form>
+            <def>moaning.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp3220264">
+            <form>
+               <orth>golad</orth>
+            </form>
+            <def>the mossy texture on the outside of a peat bog.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp3243880">
+            <form>
+               <orth>foraghais</orth>
+            </form>
+            <def>a subtle enquiry, not a direct question.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp3245392">
+            <form>
+               <orth>forfhais</orth>
+               <pron>[See foraghais.]</pron>
+            </form>
+            <def>[See foraghais.]</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp3246904">
+            <form>
+               <orth>magaran</orth>
+            </form>
+            <def>on all fours. [NOTES: corrected to ‘màgaran’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp3248560">
+            <form>
+               <orth>caiteag</orth>
+            </form>
+            <def>a morsel.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp3250072">
+            <form>
+               <orth>spigealan</orth>
+            </form>
+            <def>a grain. “Cha robh spigealan siùcair a staigh.”</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp3251728">
+            <form>
+               <orth>saorsnail</orth>
+            </form>
+            <def>relaxed.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp3254104">
+            <form>
+               <orth>bigearachd</orth>
+            </form>
+            <def>teasing.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp3255616">
+            <form>
+               <orth>cliostar</orth>
+            </form>
+            <def>an enema. An injection of fluid into the intestines.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp3257128">
+            <form>
+               <orth>pìob chliastar</orth>
+            </form>
+            <def>the tube used for this operation [i.e. cliostair ‘enema’].</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp3258712">
+            <form>
+               <orth>stail</orth>
+            </form>
+            <def>bandage.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp3260224">
+            <form>
+               <orth>duillain</orth>
+            </form>
+            <def>an alternative to the ‘bangaid’ to celebrate the birth of a child. [NOTES: note added above ‘duillain’ – duillean.]</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112539528">
+            <form>
+               <orth>duille</orth>
+            </form>
+            <def>condom.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112485096">
+            <form>
+               <orth>trusaitaich</orth>
+            </form>
+            <def>a field which has been ploughed three times. Could it also mean the field on which you have your third crop.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112522392">
+            <form>
+               <orth>cobhlach?</orth>
+            </form>
+            <def>a field which has been ploughed twice.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112532904">
+            <form>
+               <orth>talamh-toll</orth>
+            </form>
+            <def>land full of holes.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112523184">
+            <form>
+               <orth>talamh-glas</orth>
+            </form>
+            <def>land which has not been ploughed for some years.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112423104">
+            <form>
+               <orth>seisg</orth>
+            </form>
+            <def>a cow that is not in calf. Can also be applied to sheep. [NOTES: corrected to ‘seasg’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112543128">
+            <form>
+               <orth>seisgaich</orth>
+            </form>
+            <def>a flock of the above [i.e. seisg/seasg] usually sold. [NOTES: corrected to ‘seasgaich’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112519368">
+            <form>
+               <orth>dornallach</orth>
+            </form>
+            <def>a two year old beast/sheep. [NOTES: corrected to ‘dòrnallach’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112521168">
+            <form>
+               <orth>còig reach?</orth>
+            </form>
+            <def>a beast that is five seasons old. Pronounced without long à in S. Uist. [NOTES: note added above ‘reach’ – ‘ràitheach’. Mr O’Henley’s note about the pronunciation seems to be a later addition, possibly in response to the suggested spelling of ‘ràitheach’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112525344">
+            <form>
+               <orth>sgeilaid</orth>
+            </form>
+            <def>a small pan.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112538736">
+            <form>
+               <orth>cuaran</orth>
+            </form>
+            <def>finger bandage. Could also be applied as the term for a small slipper or light shoe.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112441248">
+            <form>
+               <orth>mogaisean</orth>
+            </form>
+            <def>moccasins.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112447584">
+            <form>
+               <orth>cuinnseachan</orth>
+            </form>
+            <def>antics. “Dè na cuinnseachan a tha air an duine sin.” [NOTE: corrected to ‘cuinseachan’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112453848">
+            <form>
+               <orth>ag uireadh</orth>
+            </form>
+            <def>laying down topsoil. [NOTES: corrected to ‘ag ùireadh’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112455936">
+            <form>
+               <orth>sussadh</orth>
+            </form>
+            <def>breaking turf with a spade. Used in peat cutting and in making lazy beds. Means the breaking of the soil in a straight line in preparation for turfing.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112425624">
+            <form>
+               <orth>trinnsigeadh</orth>
+            </form>
+            <def>digging trenches. Turning soil with a spade.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112428000">
+            <form>
+               <orth>ceannachadh</orth>
+            </form>
+            <def>ploughing the ends of a field.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112433688">
+            <form>
+               <orth>mastaig</orth>
+            </form>
+            <def>an objectionable woman.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112435200">
+            <form>
+               <orth>odhrag</orth>
+            </form>
+            <def>the young of a cormorant.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112444560">
+            <form>
+               <orth>canna</orth>
+            </form>
+            <def>a young whale. [NOTES: corrected to ‘cana’ and a note added – also means ‘porpoise’ in places.]</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112440600">
+            <form>
+               <orth>pèileag</orth>
+            </form>
+            <def>porpoise.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112546800">
+            <form>
+               <orth>duine raibhearteach</orth>
+            </form>
+            <def>a placid man.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112443264">
+            <form>
+               <orth>duine socharach</orth>
+            </form>
+            <def>gentle, easy going.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112046920">
+            <form>
+               <orth>duine stuama</orth>
+            </form>
+            <def>temperate steady.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112048432">
+            <form>
+               <orth>duine stòlda/stòlta</orth>
+            </form>
+            <def>steady, composed.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112050808">
+            <form>
+               <orth>duine caranta</orth>
+            </form>
+            <def>charitable.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112052320">
+            <form>
+               <orth>duine aoigheil</orth>
+            </form>
+            <def>cheerful.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112053832">
+            <form>
+               <orth>duine ciatach</orth>
+            </form>
+            <def>becoming.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112055344">
+            <form>
+               <orth>duine socanach</orth>
+            </form>
+            <def>bubbly personality. [NOTES: corrected to ‘soganach’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112057000">
+            <form>
+               <orth>duine fialaidh</orth>
+            </form>
+            <def>generous.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112058512">
+            <form>
+               <orth>duine foghainneach</orth>
+            </form>
+            <def>can also mean crafty as well as strong.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112060024">
+            <form>
+               <orth>duine eudmhor</orth>
+            </form>
+            <def>jealous.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112061536">
+            <form>
+               <orth>duine cas</orth>
+            </form>
+            <def>abrupt.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112063048">
+            <form>
+               <orth>duine geur</orth>
+            </form>
+            <def>incisive.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112064560">
+            <form>
+               <orth>duine tomatach</orth>
+            </form>
+            <def>benevolent.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112066072">
+            <form>
+               <orth>duine somalta</orth>
+            </form>
+            <def>equible [sic] [equitable?].</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112067584">
+            <form>
+               <orth>diunlaoch</orth>
+            </form>
+            <def>stalwart.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112069096">
+            <form>
+               <orth>sgeigaire</orth>
+            </form>
+            <def>mocker, scorner.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112071472">
+            <form>
+               <orth>caoilte</orth>
+            </form>
+            <def>lanky fellow.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112072984">
+            <form>
+               <orth>briumal</orth>
+            </form>
+            <def>clumsy.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112074496">
+            <form>
+               <orth>càraid</orth>
+            </form>
+            <def>a couple.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112076008">
+            <form>
+               <orth>buamastair</orth>
+            </form>
+            <def>bully.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112077520">
+            <form>
+               <orth>cladhaire</orth>
+            </form>
+            <def>uncoordinated.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112079032">
+            <form>
+               <orth>burraidh</orth>
+            </form>
+            <def>bully.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112080544">
+            <form>
+               <orth>eimilisg</orth>
+            </form>
+            <def>harum scarum.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112082056">
+            <form>
+               <orth>eubhaiseach</orth>
+            </form>
+            <def>large, untidy.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112083568">
+            <form>
+               <orth>drabhas</orth>
+            </form>
+            <def>dirty fellow.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112085080">
+            <form>
+               <orth>crabhalach</orth>
+            </form>
+            <def>bony, emaciated fellow. [NOTES: note added above ‘crabhalach’ – cnàmhalach.]</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112086736">
+            <form>
+               <orth>slaodanach</orth>
+            </form>
+            <def>sluggish.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112088248">
+            <form>
+               <orth>sìlaiche</orth>
+            </form>
+            <def>thin, puny person.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112089760">
+            <form>
+               <orth>bleidaire</orth>
+            </form>
+            <def>beggar. [NOTES: corrected to ‘bleidire’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112092280">
+            <form>
+               <orth>pealastair</orth>
+            </form>
+            <def>ragged youth.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112093792">
+            <form>
+               <orth>robairneach</orth>
+            </form>
+            <def>unkempt.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112095304">
+            <form>
+               <orth>iadach? / eudach</orth>
+            </form>
+            <def>jealousy.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112096816">
+            <form>
+               <orth>sliog</orth>
+            </form>
+            <def>sneak, sly person. [NOTES: corrected to ‘slìg’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112098472">
+            <form>
+               <orth>giobairneach</orth>
+            </form>
+            <def>ragged person.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112099984">
+            <form>
+               <orth>sglobaire</orth>
+            </form>
+            <def>a person who is always foaming at the mouth.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112101496">
+            <form>
+               <orth>drunngair</orth>
+            </form>
+            <def>a drunk. [NOTES: corrected to ‘drungair’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112103152">
+            <form>
+               <orth>ronngadair</orth>
+            </form>
+            <def>tardy, slow person. [NOTES: corrected to ‘rongadair’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112104808">
+            <form>
+               <orth>slaoidaire</orth>
+            </form>
+            <def>crook.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112106320">
+            <form>
+               <orth>ceacharan</orth>
+            </form>
+            <def>a venomous person.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112107832">
+            <form>
+               <orth>ròlaisteach</orth>
+            </form>
+            <def>spinner of yarns, tall tales etc.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp112109344">
+            <form>
+               <orth>truthaire</orth>
+            </form>
+            <def>an obscene, immoral person.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp2920352">
+            <form>
+               <orth>pumalair</orth>
+            </form>
+            <def>a fat, rambling kind of person.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp2921864">
+            <form>
+               <orth>miotalach</orth>
+            </form>
+            <def>a flatterer.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp2923376">
+            <form>
+               <orth>sotalach?</orth>
+            </form>
+            <def>a gossipy person.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp2924888">
+            <form>
+               <orth>fodhal</orth>
+            </form>
+            <def>a gossip.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp2926400">
+            <form>
+               <orth>fodhalag</orth>
+            </form>
+            <def>a gossipy woman.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp2927912">
+            <form>
+               <orth>sgleog</orth>
+            </form>
+            <def>feckless character.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp2929424">
+            <form>
+               <orth>beannag</orth>
+            </form>
+            <def>headsquare.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp2930936">
+            <form>
+               <orth>goralais</orth>
+            </form>
+            <def>inane, silly conversation.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp2932448">
+            <form>
+               <orth>otrag</orth>
+            </form>
+            <def>a short, dumpy woman.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp2933960">
+            <form>
+               <orth>loireag</orth>
+            </form>
+            <def>untidy woman.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp2935472">
+            <form>
+               <orth>gobag</orth>
+            </form>
+            <def>nippy person.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp2936984">
+            <form>
+               <orth>brannag</orth>
+            </form>
+            <def>a fat woman.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp2938496">
+            <form>
+               <orth>sgliat</orth>
+            </form>
+            <def>colourless, feckless character.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp2940872">
+            <form>
+               <orth>duine gun bhiuc</orth>
+            </form>
+            <def>a person who cannot sing, without a note. [NOTES: ‘bhiuc’ corrected to ‘bhiùg’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp2942528">
+            <form>
+               <orth>gibeag</orth>
+            </form>
+            <def>a ragged woman.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp2944040">
+            <form>
+               <orth>neafag</orth>
+            </form>
+            <def>venomous person.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp2945552">
+            <form>
+               <orth>speireag</orth>
+            </form>
+            <def>a lively woman, girl.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp2947064">
+            <form>
+               <orth>gobhaluisgeach</orth>
+            </form>
+            <def>a waddling, bandy legged woman.</def>
+         </entry>
+         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc1-idp2948576">
+            <form>
+               <orth>prùisgaill</orth>
+            </form>
+            <def>giggling. [NOTES: corrected to ‘prùisgil’.]</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_MullNMacLeanslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1967</date>
+            <location>
+               <placeName>Mull</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>Neil MacLean</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_MullNMacLeanslips-idp119243376">
+            <form>
+               <orth>riasg</orth>
+            </form>
+            <def>Notes: coarse grass that flourishes in the spring.</def>
+         </entry>
+         <entry xml:id="Slips_MullNMacLeanslips-idp119244888">
+            <form>
+               <orth>aorachdan</orth>
+            </form>
+            <def>Notes: peewit.</def>
+         </entry>
+         <entry xml:id="Slips_MullNMacLeanslips-idp119246400">
+            <form>
+               <orth>clabhraich</orth>
+            </form>
+            <def>Quotation: Coir’ a’ Chlabhraich (east of Ben Nevis). Notes: moaning, weeping. Place said to have taken its name from beheading of Lochiel wrongdoers.</def>
+         </entry>
+         <entry xml:id="Slips_MullNMacLeanslips-idp119248128">
+            <form>
+               <orth>fathad (?)</orth>
+            </form>
+            <def>Notes: help; assistance.</def>
+         </entry>
+         <entry xml:id="Slips_MullNMacLeanslips-idp119249640">
+            <form>
+               <orth>fionn-raineach</orth>
+            </form>
+         </entry>
+         <entry xml:id="Slips_MullNMacLeanslips-idp119251152">
+            <form>
+               <orth>glìobraich shneachd</orth>
+            </form>
+            <def>Notes: sleet.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

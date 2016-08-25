@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_InvergarryAKennedyslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the location on the slips – Mandally Road, Glengarry.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>04/1969</date>
+            <location>
+               <placeName>Inverness-shire, Invergarry</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith]</persName>
+            </person>
+            <person role="informant">
+               <persName>Angus Kennedy</persName>
+               <age>c. 55</age>
+               <birth>
+                  <placeName>Strontian</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_InvergarryAKennedyslips-idp118888288">
+            <form>
+               <orth>lus-am-baistidh (sic)</orth>
+            </form>
+            <def>Notes: St. John’s wort.</def>
+         </entry>
+         <entry xml:id="Slips_InvergarryAKennedyslips-idp118889800">
+            <form>
+               <orth>ròmach</orth>
+            </form>
+            <def>Notes: fluffy.</def>
+         </entry>
+         <entry xml:id="Slips_InvergarryAKennedyslips-idp118891312">
+            <form>
+               <orth>iomair-chrann</orth>
+               <pron>[ĩməɾxɾɑu̜n̪]</pron>
+            </form>
+            <def>[ĩməɾxɾɑu̜n̪] Notes: honeysuckle.</def>
+         </entry>
+         <entry xml:id="Slips_InvergarryAKennedyslips-idp118893328">
+            <form>
+               <orth>teumach</orth>
+               <pron>[tʹʃe:mɑx]</pron>
+            </form>
+            <def>[tʹʃe:mɑx] Notes: quick-tempered.</def>
+         </entry>
+         <entry xml:id="Slips_InvergarryAKennedyslips-idp118895056">
+            <form>
+               <orth>fearg</orth>
+               <pron>[fɑrɑɡʹ]</pron>
+            </form>
+            <def>[fɑrɑɡʹ] Notes: anger.</def>
+         </entry>
+         <entry xml:id="Slips_InvergarryAKennedyslips-idp118896784">
+            <form>
+               <orth>feargach</orth>
+               <pron>[fɑrɑɡʹɑx]</pron>
+            </form>
+            <def>[fɑrɑɡʹɑx] Notes: angry.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

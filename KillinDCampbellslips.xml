@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_KillinDCampbellslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>04/1968</date>
+            <location>
+               <placeName>Perthshire, Killin</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Danny Campbell</persName>
+               <age>70s</age>
+               <birth>
+                  <placeName>Lochtayside</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_KillinDCampbellslips-idp115467480">
+            <form>
+               <orth>cnèadan</orth>
+               <pron>[krɛ̃:d̪ɑn]</pron>
+            </form>
+            <def>[krɛ̃:d̪ɑn] Notes: word they used as boys for football.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

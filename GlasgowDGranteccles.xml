@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Ecclesiastical_GlasgowDGranteccles">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Glasgow</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Donald Grant</persName>
+               <persName xml:lang="gd">Domhnall Grannd</persName>
+               <age>66</age>
+               <birth>
+                  <placeName>[Skye, Camus Chroise]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Ecclesiastical Terms</term>
+               <term xml:lang="gd">An Eaglais</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Ecclesiastical_GlasgowDGranteccles-d0e32"
+             subtype="h1">1. Various denominations</ab>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e37">
+            <form>
+               <orth>An Eaglais Stéi(dhich)te</orth>
+            </form>
+            <def>The Established Church.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e46">
+            <form>
+               <orth>An Eaglais Shaor</orth>
+            </form>
+            <def>The Free Church.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e55">
+            <form>
+               <orth>Na Saoseudars</orth>
+            </form>
+            <def>The Free Presbyterians.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e64">
+            <form>
+               <orth>Na U F’s</orth>
+            </form>
+            <def>The United Free Church.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e73">
+            <form>
+               <orth>An Eaglais Phàpanach</orth>
+            </form>
+            <def>The R C Church.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_GlasgowDGranteccles-d0e81"
+             subtype="h1">2. Member of each of these denominations</ab>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e86">
+            <form>
+               <orth>Saoseudar</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e92">
+            <form>
+               <orth>Pàpanach</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_GlasgowDGranteccles-d0e97"
+             subtype="h1">3. Different courts of the Presbyterian churches</ab>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e102">
+            <form>
+               <orth>cléir (m)</orth>
+            </form>
+            <def>presbytery.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e111">
+            <form>
+               <orth>an seisean</orth>
+            </form>
+            <def>the session.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_GlasgowDGranteccles-d0e119"
+             subtype="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</ab>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e124">
+            <form>
+               <orth>minisdear</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e130">
+            <form>
+               <orth>misionaraidh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e136">
+            <form>
+               <orth>éildear</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e142">
+            <form>
+               <orth>deucan</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e148">
+            <form>
+               <orth>cléireach an t-seisein</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_GlasgowDGranteccles-d0e153"
+             subtype="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_GlasgowDGranteccles-d0e157"
+             subtype="h1">6. Holy Orders within the Roman Catholic church</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_GlasgowDGranteccles-d0e161"
+             subtype="h1">7. Articles of dress or adornment</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_GlasgowDGranteccles-d0e165"
+             subtype="h1">8. Church building and churchyard</ab>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e170">
+            <form>
+               <orth>an leatran  (m)</orth>
+               <pron>[?]</pron>
+            </form>
+            <def>[?] elders’ enclosure.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e179">
+            <form>
+               <orth>bocsa nan éildearan</orth>
+            </form>
+            <def>elders’ enclosure.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_GlasgowDGranteccles-d0e187"
+             subtype="h1">9. Church furniture and ornaments</ab>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e192">
+            <form>
+               <orth>a’ chùbaid</orth>
+            </form>
+            <def>the pulpit.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_GlasgowDGranteccles-d0e200"
+             subtype="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</ab>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e205">
+            <form>
+               <orth>coinneamh-ùrnuigh</orth>
+            </form>
+            <def>prayer-meeting.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e214">
+            <form>
+               <orth>an comanachadh</orth>
+            </form>
+            <def>the communion.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e223">
+            <form>
+               <orth>latha an traisg</orth>
+            </form>
+            <def>Fast Day, Thursday of communion.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_GlasgowDGranteccles-d0e231"
+             subtype="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</ab>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e236">
+            <form>
+               <orth>Dia</orth>
+            </form>
+            <def>God.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e245">
+            <form>
+               <orth>An Tighearna</orth>
+            </form>
+            <def>God.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e254">
+            <form>
+               <orth>Am Freasdal</orth>
+            </form>
+            <def>God.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e263">
+            <form>
+               <orth>An Tighearna</orth>
+            </form>
+            <def>the Lord.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e272">
+            <form>
+               <orth>Iosa</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e278">
+            <form>
+               <orth>Iosa Criosd</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e284">
+            <form>
+               <orth>an Slànuighir</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e290">
+            <form>
+               <orth>An Spiorad Naomh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e296">
+            <form>
+               <orth>na h-ainglean</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e302">
+            <form>
+               <orth>na h-abstoil</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e308">
+            <form>
+               <orth>Neamh</orth>
+            </form>
+            <def>Heaven.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e317">
+            <form>
+               <orth>Flaitheanas</orth>
+            </form>
+            <def>Heaven.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e326">
+            <form>
+               <orth>An Soisgeul</orth>
+            </form>
+            <def>the Gospel.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e335">
+            <form>
+               <orth>Urnuigh an Tighearna</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_GlasgowDGranteccles-d0e340"
+             subtype="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</ab>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e345">
+            <form>
+               <orth>Sàtan</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e351">
+            <form>
+               <orth>an Diabhol</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e357">
+            <form>
+               <orth>an Droch-fhear</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e363">
+            <form>
+               <orth>Ifrinn</orth>
+            </form>
+            <def>Hell.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e372">
+            <form>
+               <orth>Iutharna</orth>
+            </form>
+            <def>Hell.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

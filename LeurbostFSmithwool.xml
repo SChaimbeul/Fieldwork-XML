@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WoolworkingandFishing_LeurbostFSmithwool">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the original title of the list is “Weaving”.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>April 1962</date>
+            <location>
+               <placeName>[Lewis], Leurbost</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>Christine Martin</persName>
+            </person>
+            <person role="informant">
+               <persName>Frank Smith</persName>
+               <age>70</age>
+               <birth>
+                  <placeName>[Lewis], Leurbost</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Wool-Working</term>
+               <term xml:lang="gd">Obair na Clòimhe</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_LeurbostFSmithwool-d0e35"
+             subtype="h1">Process</ab>
+         <entry xml:id="WoolworkingandFishing_LeurbostFSmithwool-d0e40">
+            <form>
+               <orth>deilbh</orth>
+            </form>
+            <def>warping.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_LeurbostFSmithwool-d0e49">
+            <form>
+               <orth>cur mu chrann</orth>
+            </form>
+            <def>beaming.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_LeurbostFSmithwool-d0e58">
+            <form>
+               <orth>snaim</orth>
+            </form>
+            <def>knotting.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_LeurbostFSmithwool-d0e67">
+            <form>
+               <orth>iomlain</orth>
+            </form>
+            <def>peddles [heddles?]. Cur troimh na h-iomlain.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_LeurbostFSmithwool-d0e76">
+            <form>
+               <orth>toirt troimh an t-sleinn</orth>
+            </form>
+            <def>reeding.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_LeurbostFSmithwool-d0e85">
+            <form>
+               <orth>toirt aodach air</orth>
+            </form>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_LeurbostFSmithwool-d0e91">
+            <form>
+               <orth>’ga fhighe</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_LeurbostFSmithwool-d0e96"
+             subtype="h1">Different parts of the loom</ab>
+         <entry xml:id="WoolworkingandFishing_LeurbostFSmithwool-d0e101">
+            <form>
+               <orth>beart-fhighe</orth>
+            </form>
+            <def>loom.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_LeurbostFSmithwool-d0e110">
+            <form>
+               <orth>spàl</orth>
+            </form>
+            <def>shuttle.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_LeurbostFSmithwool-d0e119">
+            <form>
+               <orth>bucas</orth>
+            </form>
+            <def>where shuttles go.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_LeurbostFSmithwool-d0e128">
+            <form>
+               <orth>spleinn</orth>
+            </form>
+            <def>reed.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_LeurbostFSmithwool-d0e137">
+            <form>
+               <orth>druibhearan</orth>
+            </form>
+            <def>peckers.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_LeurbostFSmithwool-d0e146">
+            <form>
+               <orth>casan na beart</orth>
+            </form>
+            <def>peddles [sic].</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_LeurbostFSmithwool-d0e155">
+            <form>
+               <orth>gormaidh (?), gormainn</orth>
+            </form>
+            <def>beam. The loom has three beams which are usually called: 1. gormainn aodaich; 2. gormainn shnàth; 3. what is called the ‘rough’ beam.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_LeurbostFSmithwool-d0e164">
+            <form>
+               <orth>iteachan</orth>
+            </form>
+            <def>bobbin.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_LeurbostFSmithwool-d0e173">
+            <form>
+               <orth>beart mheadhain</orth>
+            </form>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_LeurbostFSmithwool-d0e179">
+            <form>
+               <orth>dà chlabh</orth>
+            </form>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_LeurbostFSmithwool-d0e185">
+            <form>
+               <orth>cormaichean</orth>
+            </form>
+            <def>weights.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

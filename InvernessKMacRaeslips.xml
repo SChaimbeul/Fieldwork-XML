@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_InvernessKMacRaeslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>05/1969</date>
+            <location>
+               <placeName>Inverness</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Kenneth MacRae</persName>
+               <age>c. 65?</age>
+               <birth>
+                  <placeName>Applecross</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_InvernessKMacRaeslips-idp115749160">
+            <form>
+               <orth>meanbh-chuileag</orth>
+               <pron>[mɛ̃ṉɛxu̟lɑɡ]</pron>
+            </form>
+            <def>[mɛ̃ṉɛxu̟lɑɡ] Notes: midge.</def>
+         </entry>
+         <entry xml:id="Slips_InvernessKMacRaeslips-idp115750888">
+            <form>
+               <orth>sneangan</orth>
+               <pron>[ʃnʹɛ̃ɣɑ̃ṉ]</pron>
+            </form>
+            <def>[ʃnʹɛ̃ɣɑ̃ṉ] Notes: ant.</def>
+         </entry>
+         <entry xml:id="Slips_InvernessKMacRaeslips-idp115752616">
+            <form>
+               <orth>sonasan</orth>
+               <pron>[sɔ̃ṉɑsɑṉ]</pron>
+            </form>
+            <def>[sɔ̃ṉɑsɑṉ] Notes: a frog.</def>
+         </entry>
+         <entry xml:id="Slips_InvernessKMacRaeslips-idp115754344">
+            <form>
+               <orth>tarbh-mór-nathair-neimh</orth>
+            </form>
+            <def>Notes: dragonfly.</def>
+         </entry>
+         <entry xml:id="Slips_InvernessKMacRaeslips-idp115755856">
+            <form>
+               <orth>umhag</orth>
+               <pron>[ũ̜ɑ̃ɡ]</pron>
+            </form>
+            <def>[ũ̜ɑ̃ɡ] Notes: sheep-tick.</def>
+         </entry>
+         <entry xml:id="Slips_InvernessKMacRaeslips-idp115757584">
+            <form>
+               <orth>ceanna-phollan</orth>
+               <pron>[cɑ̃n̪ɑfoɫɑṉ]</pron>
+            </form>
+            <def>[cɑ̃n̪ɑfoɫɑṉ] Notes: a tadpole.</def>
+         </entry>
+         <entry xml:id="Slips_InvernessKMacRaeslips-idp115759312">
+            <form>
+               <orth>corra-chòsag</orth>
+            </form>
+            <def>Notes: slater.</def>
+         </entry>
+         <entry xml:id="Slips_InvernessKMacRaeslips-idp115760824">
+            <form>
+               <orth>creileag</orth>
+               <pron>[kɾɛlɑɡ]</pron>
+            </form>
+            <def>[kɾɛlɑɡ] Notes: cleg.</def>
+         </entry>
+         <entry xml:id="Slips_InvernessKMacRaeslips-idp115762552">
+            <form>
+               <orth>gràbas</orth>
+               <pron>[ɡɾɑ:bəs]</pron>
+            </form>
+            <def>[ɡɾɑ:bəs] Notes: “crab-louse”.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

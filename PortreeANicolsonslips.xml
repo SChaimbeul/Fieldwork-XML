@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_PortreeANicolsonslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>06/1970</date>
+            <location>
+               <placeName>Skye, Portree</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Alex Nicolson</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_PortreeANicolsonslips-idp115493416">
+            <form>
+               <orth>muir-tiachd</orth>
+            </form>
+            <def>Notes: jellyfish.</def>
+         </entry>
+         <entry xml:id="Slips_PortreeANicolsonslips-idp115459576">
+            <form>
+               <orth>altruman</orth>
+            </form>
+            <def>Notes: female crab.</def>
+         </entry>
+         <entry xml:id="Slips_PortreeANicolsonslips-idp115492048">
+            <form>
+               <orth>cadalan</orth>
+            </form>
+            <def>Quotation: cadalan-tràghad. Notes: starfish.</def>
+         </entry>
+         <entry xml:id="Slips_PortreeANicolsonslips-idp115448560">
+            <form>
+               <orth>ciochag-thràghaid</orth>
+            </form>
+            <def>Notes: sea anemone.</def>
+         </entry>
+         <entry xml:id="Slips_PortreeANicolsonslips-idp115736704">
+            <form>
+               <orth>cléireach</orth>
+            </form>
+            <def>Notes: male crab.</def>
+         </entry>
+         <entry xml:id="Slips_PortreeANicolsonslips-idp115771048">
+            <form>
+               <orth>eileadruim</orth>
+               <pron>[eləd̪ɾəm]</pron>
+            </form>
+            <def>[eləd̪ɾəm] Notes: planks on which corpse was laid.</def>
+         </entry>
+         <entry xml:id="Slips_PortreeANicolsonslips-idp115773928">
+            <form>
+               <orth>faobhag</orth>
+               <pron>[fɤ:vɑɡ]</pron>
+            </form>
+            <def>[fɤ:vɑɡ] Notes: squid.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

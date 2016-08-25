@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Games_PirnmillDCurriegames">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Arran, Pirnmill</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Donald Currie</persName>
+               <age>72</age>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Recreation: Toys, Games, Contests</term>
+               <term xml:lang="gd">Cur-seachadan: Dèideagan, Geamaichean is Farpaisean</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Games_PirnmillDCurriegames-d0e26"
+             subtype="h1">1. Toys</ab>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e31">
+            <form>
+               <orth>tailm</orth>
+            </form>
+            <def>a sling.</def>
+         </entry>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e40">
+            <form>
+               <orth>leanabh-liùdhag</orth>
+            </form>
+            <def>doll.</def>
+         </entry>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e49">
+            <form>
+               <orth>gille-mirean</orth>
+            </form>
+            <def>top.</def>
+         </entry>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e58">
+            <form>
+               <orth>fear-bréige</orth>
+            </form>
+            <def>puppet.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Games_PirnmillDCurriegames-d0e66"
+             subtype="h1">2. Swings, see-saws</ab>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e71">
+            <form>
+               <orth>siùdain</orth>
+            </form>
+            <def>swings.</def>
+         </entry>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e80">
+            <form>
+               <orth>seògan</orth>
+            </form>
+            <def>swings.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Games_PirnmillDCurriegames-d0e88"
+             subtype="h1">3. Games played indoors</ab>
+         <ab type="heading"
+             xml:id="Games_PirnmillDCurriegames-d0e92"
+             subtype="h1">4. Outdoor games not involving a ball or puck</ab>
+         <ab type="heading"
+             xml:id="Games_PirnmillDCurriegames-d0e96"
+             subtype="h1">5. Ball games</ab>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e101">
+            <form>
+               <orth>ball-coise</orth>
+            </form>
+            <def>football.</def>
+         </entry>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e110">
+            <form>
+               <orth>ball-iomain</orth>
+            </form>
+            <def>football.</def>
+         </entry>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e119">
+            <form>
+               <orth>camanachd</orth>
+            </form>
+            <def>shinty.</def>
+         </entry>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e128">
+            <form>
+               <orth>caman</orth>
+            </form>
+            <def>shinty stick.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Games_PirnmillDCurriegames-d0e136"
+             subtype="h1">6. Athletics</ab>
+         <ab type="heading"
+             xml:id="Games_PirnmillDCurriegames-d0e140"
+             subtype="h1">7. Heavy events</ab>
+         <ab type="heading"
+             xml:id="Games_PirnmillDCurriegames-d0e144"
+             subtype="h1">8. Contests involving pulling or pushing</ab>
+         <ab type="heading"
+             xml:id="Games_PirnmillDCurriegames-d0e148"
+             subtype="h1">9. Boxing and wrestling</ab>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e153">
+            <form>
+               <orth>gleachd</orth>
+            </form>
+            <def>wrestle.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Games_PirnmillDCurriegames-d0e161"
+             subtype="h1">10. Blows in general</ab>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e166">
+            <form>
+               <orth>buillean</orth>
+            </form>
+            <def>blows.</def>
+         </entry>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e175">
+            <form>
+               <orth>bualadh</orth>
+            </form>
+            <def>blows.</def>
+         </entry>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e184">
+            <form>
+               <orth>gleadhar</orth>
+            </form>
+            <def>blow.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Games_PirnmillDCurriegames-d0e192"
+             subtype="h1">11. Injury and exhaustion</ab>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e197">
+            <form>
+               <orth>gearradh</orth>
+            </form>
+            <def>cut.</def>
+         </entry>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e206">
+            <form>
+               <orth>leon</orth>
+            </form>
+            <def>cut.</def>
+         </entry>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e215">
+            <form>
+               <orth>làrach</orth>
+            </form>
+            <def>mark.</def>
+         </entry>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e224">
+            <form>
+               <orth>sgròb</orth>
+            </form>
+            <def>scrape.</def>
+         </entry>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e233">
+            <form>
+               <orth>sgriob</orth>
+            </form>
+            <def>scratch.</def>
+         </entry>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e242">
+            <form>
+               <orth>lot domhain</orth>
+            </form>
+            <def>gash.</def>
+         </entry>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e251">
+            <form>
+               <orth>snìomh</orth>
+            </form>
+            <def>sprain.</def>
+         </entry>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e260">
+            <form>
+               <orth>plosgadh</orth>
+            </form>
+            <def>panting.</def>
+         </entry>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e269">
+            <form>
+               <orth>tha fallus ort</orth>
+            </form>
+            <def>sweating.</def>
+         </entry>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e278">
+            <form>
+               <orth>tuainealaich</orth>
+            </form>
+            <def>stagger.</def>
+         </entry>
+         <entry xml:id="Games_PirnmillDCurriegames-d0e287">
+            <form>
+               <orth>na laighe ann an neul</orth>
+            </form>
+            <def>lying in a dazed state.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

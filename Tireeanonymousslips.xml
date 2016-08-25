@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_Tireeanonymousslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Tiree (?)</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>anonymous</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_Tireeanonymousslips-idp117240048">
+            <form>
+               <orth>strannd</orth>
+            </form>
+            <def>Quotation: Tharraing e [st̪ɾɑ̃ũ̜n̪d̪]. Notes: He went into a deep sleep.</def>
+         </entry>
+         <entry xml:id="Slips_Tireeanonymousslips-idp117241920">
+            <form>
+               <orth>stranndraich</orth>
+            </form>
+            <def>Quotation: Tha e a’ stranndraich. Notes: snoring.</def>
+         </entry>
+         <entry xml:id="Slips_Tireeanonymousslips-idp117243576">
+            <form>
+               <orth>àrach</orth>
+            </form>
+            <def>Quotation: Chaneil àrach air. Notes: It can’t be helped.</def>
+         </entry>
+         <entry xml:id="Slips_Tireeanonymousslips-idp117245232">
+            <form>
+               <orth>baisinn</orth>
+               <pron>[bɑʃĩnʹ]</pron>
+            </form>
+            <def>[bɑʃĩnʹ] Notes: basin for washing. (“mias” for milk)</def>
+         </entry>
+         <entry xml:id="Slips_Tireeanonymousslips-idp117246960">
+            <form>
+               <orth>breacadh-gréineadh</orth>
+            </form>
+            <def>Notes: freckles.</def>
+         </entry>
+         <entry xml:id="Slips_Tireeanonymousslips-idp117248472">
+            <form>
+               <orth>clach-linnteal</orth>
+               <pron>[kɫɑxlĩ:nʹtʹɑl]</pron>
+            </form>
+            <def>[kɫɑxlĩ:nʹtʹɑl] Notes: lintel.</def>
+         </entry>
+         <entry xml:id="Slips_Tireeanonymousslips-idp117250200">
+            <form>
+               <orth>frontal</orth>
+               <pron>[fɾɔ̃ṉṯɑl]</pron>
+            </form>
+            <def>[fɾɔ̃ṉṯɑl] Quotation: duine frontal. Notes: bold. [NOTES: slipped under ‘frontail’.]</def>
+         </entry>
+         <entry xml:id="Slips_Tireeanonymousslips-idp117252216">
+            <form>
+               <orth>greim-mór</orth>
+            </form>
+            <def>Quotation: an greim-mór. Notes: appendicitis.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_LewisMMacIverslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1983</date>
+            <location>
+               <placeName>Lewis</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>Boyd Robertson</persName>
+            </person>
+            <person role="informant">
+               <persName>Margaret MacIver</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_LewisMMacIverslips-idp115484888">
+            <form>
+               <orth>còir</orth>
+            </form>
+            <def>Quotation: Còir gu robh Màiri aig a’ chèilidh. Notes: ‘So Mary was at the cèilidh.’</def>
+         </entry>
+         <entry xml:id="Slips_LewisMMacIverslips-idp115469768">
+            <form>
+               <orth>crìoch</orth>
+            </form>
+            <def>Quotation: Chan eil crìoch cuin a bhios sin deiseil. Notes: Goodness knows when that will be finished.</def>
+         </entry>
+         <entry xml:id="Slips_LewisMMacIverslips-idp115478768">
+            <form>
+               <orth>cromadh</orth>
+            </form>
+            <def>Quotation: Tha i cromadh air an deoch. Notes: She is becoming addicted to drink.</def>
+         </entry>
+         <entry xml:id="Slips_LewisMMacIverslips-idp115450328">
+            <form>
+               <orth>cuir</orth>
+            </form>
+            <def>Quotation: Chuir e an dà shùil air. Notes: He stared in amazement.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

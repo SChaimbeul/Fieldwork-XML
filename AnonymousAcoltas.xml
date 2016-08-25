@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="AssortedFieldworkers_AnonymousAcoltas">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation/>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>Anonymous A</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Personal Appearance</term>
+               <term xml:lang="gd">Coltas an Duine</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_AnonymousAcoltas-d0e14"
+             subtype="h1">Shapes and general appearance</ab>
+         <entry xml:id="AssortedFieldworkers_AnonymousAcoltas-d0e19">
+            <form>
+               <orth>craoileach</orth>
+            </form>
+            <def>large, clumsy person.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAcoltas-d0e28">
+            <form>
+               <orth>bagaid</orth>
+            </form>
+            <def>small fat woman.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAcoltas-d0e37">
+            <form>
+               <orth>bodach-ròcais</orth>
+            </form>
+            <def>tall, thin person.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAcoltas-d0e46">
+            <form>
+               <orth>casan spliachdach</orth>
+            </form>
+            <def>splay feet.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAcoltas-d0e55">
+            <form>
+               <orth>craiceann circe</orth>
+            </form>
+            <def>goose pimples.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_AnonymousAcoltas-d0e64">
+            <form>
+               <orth>craiceann guireineach</orth>
+            </form>
+            <def>goose pimples.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_AnonymousAcoltas-d0e72"
+             subtype="h1">Deformities, blemishes, scars</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_AnonymousAcoltas-d0e76"
+             subtype="h1">Beauty and ugliness</ab>
+      </body>
+   </text>
+</TEI>

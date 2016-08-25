@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="DRMorrisonetal_DurnessGMacKenziegames">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[1970]</date>
+            <location>
+               <placeName>Sutherland, Lairg, Durness</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>George MacKenzie</persName>
+               <age>67</age>
+               <birth>
+                  <placeName>Assynt, Stoer</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Recreation: Toys, Games, Contests</term>
+               <term xml:lang="gd">Cur-seachadan: Dèideagan, Geamaichean is Farpaisean</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziegames-d0e33"
+             subtype="h1">1. Toys</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziegames-d0e39"
+             subtype="h1">2. Swings, see-saws</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziegames-d0e45"
+             subtype="h1">3. Games played indoors</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziegames-d0e51"
+             subtype="h1">4. Outdoor games not involving a ball or puck</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziegames-d0e57"
+             subtype="h1">5. Ball games</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp119892424">
+            <form>
+               <orth>ioman</orth>
+            </form>
+            <def>shinty. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp119939224">
+            <form>
+               <orth>cammag</orth>
+            </form>
+            <def>shinty stick. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp119939080">
+            <form>
+               <orth>creg</orth>
+            </form>
+            <def>shinty ball (usually constructed of wood). (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp119942464">
+            <form>
+               <orth>tuagal</orth>
+            </form>
+            <def>goal. Subsequently called “hail” when shinty was played to modern shinty rules. (Stoer, Assynt) Shinty was always played on New Year’s Day, “Latha na Callain”. Two townships would compete, and after the match was finished the visiting team would try and dribble the “creg” out of the township. I saw old boddich of  70 running out with walking sticks to prevent the “creg” being taken out of the township, which was considered a great disgrace! So long as the numbers were equal there appeared to be no limit to the number on each side for the actual match. I played for Caberfeidh Shinty Team, but it was child’s play in comparison to those New Year’s Games! At half time – the match was usually two hours – whisky was distributed – not lemons! Incidentally, if a visiting township managed to get the creg away, they had the privilege of having the match in their township next New Year.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp119888608">
+            <form>
+               <orth>bas na cas</orth>
+            </form>
+            <def>stick thrown in the air for choosing which way to play, or who had the first choice in picking sides. If the head (bas) came down first the man who shouted that word “won the toss”. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziegames-d0e108"
+             subtype="h1">6. Athletics</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp119885656">
+            <form>
+               <orth>leam fada</orth>
+            </form>
+            <def>long jump.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp119965072">
+            <form>
+               <orth>leam ard</orth>
+            </form>
+            <def>high jump.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp119963632">
+            <form>
+               <orth>cur a muilkan</orth>
+            </form>
+            <def>somersault.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp119962048">
+            <form>
+               <orth>ruith reis</orth>
+            </form>
+            <def>run a race.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp119959384">
+            <form>
+               <orth>reis gurraid</orth>
+            </form>
+            <def>sprint.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp119958160">
+            <form>
+               <orth>reis ada</orth>
+            </form>
+            <def>long distance race.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziegames-d0e168"
+             subtype="h1">7. Heavy events</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp119955208">
+            <form>
+               <orth>cur na cloich</orth>
+            </form>
+            <def>shot putt. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp119953480">
+            <form>
+               <orth>tigal a’ ord</orth>
+            </form>
+            <def>throwing the hammer. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp119960392">
+            <form>
+               <orth>cur a cabar</orth>
+            </form>
+            <def>tossing the caber. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziegames-d0e201"
+             subtype="h1">8. Contests involving pulling or pushing</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp119927632">
+            <form>
+               <orth>mada leisg</orth>
+            </form>
+            <def>the lazy stick – two men sitting on the ground with the stick held between them. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziegames-d0e216"
+             subtype="h1">9. Boxing and wrestling</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp119922808">
+            <form>
+               <orth>boxagig</orth>
+            </form>
+            <def>boxing. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp119919208">
+            <form>
+               <orth>glec drooma</orth>
+            </form>
+            <def>wrestling. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp120005536">
+            <form>
+               <orth>pullie</orth>
+            </form>
+            <def>a boxer (probably from pugilist). (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziegames-d0e249"
+             subtype="h1">10. Blows in general</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp120000424">
+            <form>
+               <orth>bula chruiadh</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] hard or heavy blow. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp119998192">
+            <form>
+               <orth>scalk</orth>
+            </form>
+            <def>slap. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp119994304">
+            <form>
+               <orth>breb</orth>
+            </form>
+            <def>a kick. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp115761824">
+            <form>
+               <orth>put le ceann</orth>
+            </form>
+            <def>butt with the head. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziegames-d0e291"
+             subtype="h1">11. Injury and exhaustion</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp115764200">
+            <form>
+               <orth>putta</orth>
+            </form>
+            <def>a lump raised on head or forehead by a blow. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp115765784">
+            <form>
+               <orth>garraig</orth>
+            </form>
+            <def>a cut. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp115767296">
+            <form>
+               <orth>scossig</orth>
+            </form>
+            <def>a sprain. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziegames-idp115768808">
+            <form>
+               <orth>fallais</orth>
+            </form>
+            <def>sweating. (Stoer, Assynt)</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

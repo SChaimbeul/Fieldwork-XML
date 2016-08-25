@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="CattleandSheep_PirnmillDCurriecattle">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Arran, Pirnmill</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Donald Currie</persName>
+               <age>72</age>
+               <birth>
+                  <placeName>[Arran]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Cattle</term>
+               <term xml:lang="gd">Crodh</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="CattleandSheep_PirnmillDCurriecattle-d0e29"
+             subtype="h1">1. Different stages in the growth of cattle</ab>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e34">
+            <form>
+               <orth>laogh</orth>
+            </form>
+            <def>a calf.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e43">
+            <form>
+               <orth>biorach</orth>
+            </form>
+            <def>a year old or heifer.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e52">
+            <form>
+               <orth>seachlach</orth>
+            </form>
+            <def>a barren heifer.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e61">
+            <form>
+               <orth>bo bhainne</orth>
+            </form>
+            <def>a milk cow.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e70">
+            <form>
+               <orth>gamhnach</orth>
+            </form>
+            <def>a farrow cow.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_PirnmillDCurriecattle-d0e78"
+             subtype="h2">male:</ab>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e83">
+            <form>
+               <orth>laogh</orth>
+            </form>
+            <def>calf.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e92">
+            <form>
+               <orth>tarbhan</orth>
+            </form>
+            <def>a little bull.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e101">
+            <form>
+               <orth>tarbh</orth>
+            </form>
+            <def>a bull.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e110">
+            <form>
+               <orth>tarbh òg</orth>
+            </form>
+            <def>a young bull.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e119">
+            <form>
+               <orth>damh</orth>
+            </form>
+            <def>an ox.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_PirnmillDCurriecattle-d0e127"
+             subtype="h1">2. Breeds of cattle</ab>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e132">
+            <form>
+               <orth>crodh Gaidhealach</orth>
+            </form>
+            <def>Highland cattle, molach anns a chalg.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e141">
+            <form>
+               <orth>crodh “Ayrshire”</orth>
+            </form>
+            <def>mìn sleamhainn anns a chalg.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e150">
+            <form>
+               <orth>“Aberdeen Angus”</orth>
+            </form>
+            <def>trom na corp.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_PirnmillDCurriecattle-d0e158"
+             subtype="h1">3. Outward appearance of cattle</ab>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e163">
+            <form>
+               <orth>ban</orth>
+            </form>
+            <def>white.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e172">
+            <form>
+               <orth>dubh</orth>
+            </form>
+            <def>black.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e181">
+            <form>
+               <orth>ruadh</orth>
+            </form>
+            <def>red.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e190">
+            <form>
+               <orth>breac</orth>
+            </form>
+            <def>speckled.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e199">
+            <form>
+               <orth>odhar</orth>
+            </form>
+            <def>dun.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e208">
+            <form>
+               <orth>glas</orth>
+            </form>
+            <def>grey.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_PirnmillDCurriecattle-d0e216"
+             subtype="h1">4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</ab>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e221">
+            <form>
+               <orth>bo-bainne na mart-bainne</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e227">
+            <form>
+               <orth>bo òg na agh aig a cheud laogh</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_PirnmillDCurriecattle-d0e232"
+             subtype="h1">5. Parts of the body</ab>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e237">
+            <form>
+               <orth>an ceann agus am muinneil</orth>
+            </form>
+            <def>the head and neck.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e246">
+            <form>
+               <orth>adharcean</orth>
+            </form>
+            <def>horns.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e255">
+            <form>
+               <orth>bathais</orth>
+            </form>
+            <def>forehead.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e264">
+            <form>
+               <orth>clar-aodainn</orth>
+            </form>
+            <def>forehead.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e273">
+            <form>
+               <orth>beul</orth>
+            </form>
+            <def>mouth.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e282">
+            <form>
+               <orth>calg</orth>
+            </form>
+            <def>hair.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e291">
+            <form>
+               <orth>fionnadh</orth>
+            </form>
+            <def>hair.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e300">
+            <form>
+               <orth>seiche</orth>
+            </form>
+            <def>hide.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e309">
+            <form>
+               <orth>gualainn</orth>
+            </form>
+            <def>shoulder.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e318">
+            <form>
+               <orth>slinnean</orth>
+            </form>
+            <def>shoulder.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e327">
+            <form>
+               <orth>broilleach</orth>
+            </form>
+            <def>breast.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e336">
+            <form>
+               <orth>casan-toisich</orth>
+            </form>
+            <def>forelegs.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e345">
+            <form>
+               <orth>cnamh-droma</orth>
+            </form>
+            <def>backbone.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e354">
+            <form>
+               <orth>smior a chnaimh droma</orth>
+            </form>
+            <def>spinal cord.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e363">
+            <form>
+               <orth>an ceathramh deireadh</orth>
+            </form>
+            <def>hindquarter.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e372">
+            <form>
+               <orth>alt na sleinne</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] hips. [NOTES: in his ’sheep’ questionnaire, Mr Currie has here ‘alt na sleisne’.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e381">
+            <form>
+               <orth>bun an earbuill</orth>
+            </form>
+            <def>rump.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e390">
+            <form>
+               <orth>earball</orth>
+            </form>
+            <def>tail.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e399">
+            <form>
+               <orth>ugh</orth>
+            </form>
+            <def>udder.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e408">
+            <form>
+               <orth>ballan</orth>
+            </form>
+            <def>udder.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e417">
+            <form>
+               <orth>sine</orth>
+            </form>
+            <def>teats.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e426">
+            <form>
+               <orth>ballan</orth>
+            </form>
+            <def>teats.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e435">
+            <form>
+               <orth>feithean</orth>
+            </form>
+            <def>muscles.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e444">
+            <form>
+               <orth>feidh-lughaidh</orth>
+            </form>
+            <def>tendon.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e453">
+            <form>
+               <orth>ceanglachan</orth>
+            </form>
+            <def>ligament.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e462">
+            <form>
+               <orth>maoth chnaimh</orth>
+            </form>
+            <def>cartilage.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e471">
+            <form>
+               <orth>cridhe</orth>
+            </form>
+            <def>heart.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e480">
+            <form>
+               <orth>cuisle</orth>
+            </form>
+            <def>artery.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e489">
+            <form>
+               <orth>cuisle</orth>
+            </form>
+            <def>veins.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e498">
+            <form>
+               <orth>feith</orth>
+            </form>
+            <def>veins.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e507">
+            <form>
+               <orth>fuil</orth>
+            </form>
+            <def>blood.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e516">
+            <form>
+               <orth>sgamhan</orth>
+            </form>
+            <def>lungs.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e525">
+            <form>
+               <orth>aotraman</orth>
+            </form>
+            <def>bladder.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e534">
+            <form>
+               <orth>steic-braghad</orth>
+            </form>
+            <def>wind-pipe.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e543">
+            <form>
+               <orth>braig an scornain</orth>
+            </form>
+            <def>larynx.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e552">
+            <form>
+               <orth>grùdhan</orth>
+            </form>
+            <def>liver.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e561">
+            <form>
+               <orth>dubhagan</orth>
+            </form>
+            <def>kidneys.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e570">
+            <form>
+               <orth>domhlas</orth>
+            </form>
+            <def>gall bladder.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e579">
+            <form>
+               <orth>faireagan</orth>
+            </form>
+            <def>glands.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e588">
+            <form>
+               <orth>colag a chait</orth>
+            </form>
+            <def>spleen.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e597">
+            <form>
+               <orth>slugan</orth>
+            </form>
+            <def>gullet.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e606">
+            <form>
+               <orth>caolanan</orth>
+            </form>
+            <def>intestines.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e615">
+            <form>
+               <orth>an caolan mu’n cuairt</orth>
+            </form>
+            <def>colon.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e624">
+            <form>
+               <orth>geir</orth>
+            </form>
+            <def>abdominal fat.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e633">
+            <form>
+               <orth>geir na loineachan</orth>
+            </form>
+            <def>loin fat.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_PirnmillDCurriecattle-d0e641"
+             subtype="h1">6. Calving</ab>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e646">
+            <form>
+               <orth>a breith</orth>
+            </form>
+            <def>calving.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e655">
+            <form>
+               <orth>Bò na mart a dol a dhàir</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_PirnmillDCurriecattle-d0e660"
+             subtype="h1">7. Milking</ab>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e665">
+            <form>
+               <orth>a bleoghan</orth>
+            </form>
+            <def>milking.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e674">
+            <form>
+               <orth>deoghail</orth>
+            </form>
+            <def>suckling.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e683">
+            <form>
+               <orth>nùs</orth>
+            </form>
+            <def>a cow’s first milk.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e692">
+            <form>
+               <orth>am bleoghan</orth>
+            </form>
+            <def>milking time.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_PirnmillDCurriecattle-d0e700"
+             subtype="h2">Vessels and measures used at milking time:</ab>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e705">
+            <form>
+               <orth>cùman</orth>
+            </form>
+            <def>a cogue, a pail.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e714">
+            <form>
+               <orth>cuinneag</orth>
+            </form>
+            <def>a pail.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e723">
+            <form>
+               <orth>pinnt</orth>
+            </form>
+            <def>pint.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e732">
+            <form>
+               <orth>dà phinnt</orth>
+            </form>
+            <def>2 pints.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e741">
+            <form>
+               <orth>galan</orth>
+            </form>
+            <def>gallon.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_PirnmillDCurriecattle-d0e749"
+             subtype="h1">8. Feeding</ab>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e754">
+            <form>
+               <orth>biathadh</orth>
+            </form>
+            <def>feeding.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e763">
+            <form>
+               <orth>beathaich</orth>
+            </form>
+            <def>feeding.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e772">
+            <form>
+               <orth>biathadh as an laimh</orth>
+            </form>
+            <def>hand-feeding.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e781">
+            <form>
+               <orth>boitean trathaich</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e787">
+            <form>
+               <orth>boitean na feur</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e793">
+            <form>
+               <orth>boitean na arbhar</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e799">
+            <form>
+               <orth>ultach</orth>
+            </form>
+            <def>bundle of straw.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e808">
+            <form>
+               <orth>madainn agus feasgar</orth>
+            </form>
+            <def>feeding times.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e817">
+            <form>
+               <orth>crimeagan arain, buntata bruich</orth>
+            </form>
+            <def>scraps [fed to cattle].</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e826">
+            <form>
+               <orth>a toirt uisge dhaibh le cuinneag na miodar</orth>
+            </form>
+            <def>indoor watering.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e835">
+            <form>
+               <orth>ga’n leigeil a mach gus an t’ sruthan na an abhuinn</orth>
+            </form>
+            <def>outdoor watering.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e844">
+            <form>
+               <orth>a ionaltradh spreidh na crodh</orth>
+            </form>
+            <def>grazing cattle.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e853">
+            <form>
+               <orth>air ionaltradh</orth>
+            </form>
+            <def>grazing before morning milking.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e862">
+            <form>
+               <orth>buachaillachd</orth>
+            </form>
+            <def>tending of cattle.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e871">
+            <form>
+               <orth>saodadh</orth>
+            </form>
+            <def>driving cattle to and from grazing.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e880">
+            <form>
+               <orth>am buachaille</orth>
+            </form>
+            <def>the herdsman.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e889">
+            <form>
+               <orth>a bhanarach</orth>
+            </form>
+            <def>the herdsmaid.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_PirnmillDCurriecattle-d0e897"
+             subtype="h1">9. Apparatus</ab>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e902">
+            <form>
+               <orth>uidheam na acainn</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e908">
+            <form>
+               <orth>buaigheal</orth>
+            </form>
+            <def>stall.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e917">
+            <form>
+               <orth>prasach</orth>
+            </form>
+            <def>far am bheil am fodar air a chur anns a bhuaigheal air beulthaobh an spreidh.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e926">
+            <form>
+               <orth>ceangail</orth>
+            </form>
+            <def>neck rope.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e935">
+            <form>
+               <orth>teaghair</orth>
+            </form>
+            <def>tether.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e944">
+            <form>
+               <orth>cipein</orth>
+            </form>
+            <def>tether stake.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e953">
+            <form>
+               <orth>braid</orth>
+            </form>
+            <def>collar.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e962">
+            <form>
+               <orth>coileir</orth>
+            </form>
+            <def>collar.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e971">
+            <form>
+               <orth>spearag</orth>
+            </form>
+            <def>fetter for milking.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e980">
+            <form>
+               <orth>buarach</orth>
+            </form>
+            <def>fetter for milking.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e989">
+            <form>
+               <orth>spearrach</orth>
+            </form>
+            <def>fetter joining fore-leg and hind-leg.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e998">
+            <form>
+               <orth>cudthrom</orth>
+            </form>
+            <def>weight tied to an animal to prevent its escape.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e1007">
+            <form>
+               <orth>soucein</orth>
+            </form>
+            <def>instrument, usually spiked, attached to a calf’s mouth to prevent its suckling its mother.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_PirnmillDCurriecattle-d0e1015"
+             subtype="h1">10. Diseases</ab>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-idola89">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>(not answered)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_PirnmillDCurriecattle-d0e1028"
+             subtype="h1">11. Miscellaneous</ab>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e1033">
+            <form>
+               <orth>trobhad, trobhad, trobhad</orth>
+            </form>
+            <def>call to a cow.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e1042">
+            <form>
+               <orth>laoghan, laoghan, laoghan</orth>
+            </form>
+            <def>call to a calf.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e1051">
+            <form>
+               <orth>spreidh</orth>
+            </form>
+            <def>herd or any collection of cattle.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e1060">
+            <form>
+               <orth>Tha a bho ann am fèidh</orth>
+            </form>
+            <def>term used when a cow gets into a position which renders her useless [sic: the questionnaire has ‘helpless’], e.g. stuck in a bog.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e1069">
+            <form>
+               <orth>Tha a bho ann am poll moine</orth>
+            </form>
+            <def>term used when a cow gets into a position which renders her useless [sic: the questionnaire has ‘helpless’], e.g. stuck in a bog.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e1078">
+            <form>
+               <orth>inner</orth>
+            </form>
+            <def>cow dung.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_PirnmillDCurriecattle-d0e1087">
+            <form>
+               <orth>tobhar</orth>
+            </form>
+            <def>cow dung.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

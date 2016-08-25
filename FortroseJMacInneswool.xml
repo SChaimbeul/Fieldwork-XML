@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WoolworkingandFishing_FortroseJMacInneswool">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>A’ Chananaich [Fortrose]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Rev. Dr John MacInnes</persName>
+               <persName xml:lang="gd">An t-Oll. Urr. Iain MacAonghais</persName>
+               <birth>
+                  <placeName>[Skye], Gleanndail [Glendale]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Wool-Working</term>
+               <term xml:lang="gd">Obair na Clòimhe</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e29"
+             subtype="h1">1. Raw wool</ab>
+         <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e34">
+            <form>
+               <orth>clòimh</orth>
+            </form>
+            <def>(pronounced clòidh) [wool].</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e43">
+            <form>
+               <orth>rusg</orth>
+            </form>
+            <def>(pronounced rùsg) [fleece].</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e52">
+            <form>
+               <orth>cloimh  ablaich</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] wool from dead sheep.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e60"
+             subtype="h1">2. Oil or grease put on wool before carding</ab>
+         <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e65">
+            <form>
+               <orth>armadh</orth>
+            </form>
+            <def>(pron. aramadh) grease or old butter put on [wool] before carding.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e73"
+             subtype="h1">3. Carding</ab>
+         <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e78">
+            <form>
+               <orth>a’ càrdadh</orth>
+            </form>
+            <def>act of carding.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e87">
+            <form>
+               <orth>càrd</orth>
+            </form>
+            <def>card.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e96">
+            <form>
+               <orth>rollag</orth>
+            </form>
+            <def>long roll of wool.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e104"
+             subtype="h1">4. Spinning</ab>
+         <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e109">
+            <form>
+               <orth>sniomh</orth>
+            </form>
+            <def>spinning (pron. sniamh).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e117"
+             subtype="h1">5. Parts of the spinning wheel</ab>
+         <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e122">
+            <form>
+               <orth>roth</orth>
+            </form>
+            <def>wheel.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e131">
+            <form>
+               <orth>bann, acfhuinn</orth>
+            </form>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e137">
+            <form>
+               <orth>ciach</orth>
+            </form>
+            <def>centre of wheel.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e146">
+            <form>
+               <orth>cuileanan</orth>
+            </form>
+            <def>spokes.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e154"
+             subtype="h1">6. Yarn and associated apparatus</ab>
+         <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e159">
+            <form>
+               <orth>ceairle</orth>
+            </form>
+            <def>ball of yarn.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e168">
+            <form>
+               <orth>piùrna</orth>
+            </form>
+            <def>reel.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e177">
+            <form>
+               <orth>fearsaid</orth>
+            </form>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e183">
+            <form>
+               <orth>crois-iarna</orth>
+            </form>
+            <def>for making hanks.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e191"
+             subtype="h1">7. Dyeing</ab>
+         <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e196">
+            <form>
+               <orth>crotal</orth>
+            </form>
+            <def>lichen.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e205">
+            <form>
+               <orth>copag</orth>
+            </form>
+            <def>docken.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e214">
+            <form>
+               <orth>fraoch</orth>
+            </form>
+            <def>heather.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e223">
+            <form>
+               <orth>copar</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e228"
+             subtype="h1">8. Washing after dyeing</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e232"
+             subtype="h1">9. Warping</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e236"
+             subtype="h1">10. Beaming and tying</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e240"
+             subtype="h1">11. Weaving</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e244"
+             subtype="h1">12. Parts of the weaving loom</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e248"
+             subtype="h1">13. Finishing</ab>
+      </body>
+   </text>
+</TEI>

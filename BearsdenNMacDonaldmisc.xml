@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="AOHenley_BearsdenNMacDonaldmisc">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[1987-88]</date>
+            <location>
+               <placeName>[Glasgow], Bearsden</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>A. O’Henley</persName>
+            </person>
+            <person role="informant">
+               <persName>Neil MacDonald</persName>
+               <birth>
+                  <placeName>[Harris]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm228504">
+            <form>
+               <orth>atharrais obrach</orth>
+            </form>
+            <def>hotch potch job. “Dè an atharrais obrach a tha sin?”</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm231888">
+            <form>
+               <orth>taigh-earr</orth>
+            </form>
+            <def>an iron band to protect the keel of a boat. [NOTES: ‘earr’ corrected to ‘eàrr’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm211368">
+            <form>
+               <orth>maide-starraig</orth>
+            </form>
+            <def>at each end of the roof of a thatched cottage.</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm209856">
+            <form>
+               <orth>fàthachd</orth>
+            </form>
+            <def>shelter. “Fhuair e fàthachd.”</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm208200">
+            <form>
+               <orth>coinnean</orth>
+            </form>
+            <def>kindle a fire.</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm206688">
+            <form>
+               <orth>piosdal</orth>
+            </form>
+            <def>a useless young man.</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm205176">
+            <form>
+               <orth>peasan</orth>
+            </form>
+            <def>a mischievous young lad.</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm203664">
+            <form>
+               <orth>liotraigeadh</orth>
+            </form>
+            <def>a thrashing, beating. “Fhuair e liotraigeadh.” [NOTES: corrected to ‘liodraigeadh’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm201000">
+            <form>
+               <orth>glutraigeadh</orth>
+            </form>
+            <def>clay and stones packed between the inner and outer walls of a thatched house.</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm199488">
+            <form>
+               <orth>làr an latha</orth>
+            </form>
+            <def>daybreak.</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm197976">
+            <form>
+               <orth>ròtadh</orth>
+            </form>
+            <def>rooted out. “Chaidh a rhòtadh a mach as an taigh.” [NOTES: corrected to ‘rotadh’]</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm196176">
+            <form>
+               <orth>faradhruim</orth>
+            </form>
+            <def>extra support for the keel.</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm194664">
+            <form>
+               <orth>spùngag</orth>
+            </form>
+            <def>sling. Also known as ‘crann tabhuill’. <graphic url="BearsdenNMacDonaldmiscillust1.jpg" width="400px"/>
+            </def>
+            <note>[NOTES: corrected to ‘spungag’.]</note>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm192936">
+            <form>
+               <orth>biathadh na h-aona chorraig</orth>
+            </form>
+            <def>tarred with the same brush.</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm191424">
+            <form>
+               <orth>feithichean</orth>
+            </form>
+            <def>not sure of meaning but used in song context – “Pabaidh ged a dh’fhàg sibh e bu mhath e ceann na feithichean.”</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm189048">
+            <form>
+               <orth>speilean</orth>
+            </form>
+            <def>a game like cricket. A hole a few inches deep was dug with heel and a stump was placed there. The ball was made with cow’s hair being rubbed on the cow’s back till a sufficient size was attained. Hereafter the ball was placed in the aforementioned hole. Now with ten people on each side the stump was hit by a ‘caman’, a process which caused the ball to shoot up out of the hole. Once this happened the ball was met on the volley with the ‘caman’ and hit as far as possible. Play continued like this until the ball was caught.</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm187248">
+            <form>
+               <orth>figeach</orth>
+            </form>
+            <def>a plain where the game [i.e. speilean (q.v.)] was played.</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm184800">
+            <form>
+               <orth>deile-bhogan</orth>
+            </form>
+            <def>not sure of precise meaning, only that it was a plank of wood placed on the wall. [NOTES: ‘deile’ corrected to ‘dèile’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm183144">
+            <form>
+               <orth>tuathall</orth>
+            </form>
+            <def>left-handed. [NOTES: corrected to ‘tuathal’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm181488">
+            <form>
+               <orth>maor shìteagan</orth>
+            </form>
+            <def>sanitary inspector. [NOTES: corrected to ‘maor shiteagan’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm179832">
+            <form>
+               <orth>luid</orth>
+            </form>
+            <def>clumsy woman.</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm337976">
+            <form>
+               <orth>rianach</orth>
+            </form>
+            <def>clumsy woman.</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm336464">
+            <form>
+               <orth>clout sgùraidh</orth>
+            </form>
+            <def>someone who is being taken advantage of, e.g. “Tha thu ’nad chlout sgùraidh aig an sin.” [NOTES: ‘clout’ corrected to ‘clobhd’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm334808">
+            <form>
+               <orth>deile-bhogain</orth>
+            </form>
+            <def>meaning is now more precise – a sea-saw.</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm333296">
+            <form>
+               <orth>caisean-uchd</orth>
+            </form>
+            <def>breast of a sheep.</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm331784">
+            <form>
+               <orth>ciambal/ciumbal? fraoich</orth>
+            </form>
+            <def>bundle of heather. [NOTES: corrected to ‘ciombal’.]</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm329264">
+            <form>
+               <orth>sgriobadh nam preasan</orth>
+            </form>
+            <def>phrase that was used if it rained on a wedding day.</def>
+         </entry>
+         <entry xml:id="AOHenley_BearsdenNMacDonaldmisc-idm327752">
+            <form>
+               <orth>Ruith aig peilear dearg a bheatha</orth>
+            </form>
+            <def>running as fast as he could.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

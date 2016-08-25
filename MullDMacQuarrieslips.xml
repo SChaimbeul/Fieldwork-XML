@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_MullDMacQuarrieslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1967</date>
+            <location>
+               <placeName>Mull</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Duncan MacQuarrie</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_MullDMacQuarrieslips-idp119242408">
+            <form>
+               <orth>meath</orth>
+            </form>
+            <def>Quotation: Tha meath anns a’ bhuntàta. Notes: blank space in potato field, where seed has failed to grow.</def>
+         </entry>
+         <entry xml:id="Slips_MullDMacQuarrieslips-idp119244064">
+            <form>
+               <orth>mias</orth>
+            </form>
+            <def>Notes: ‘bowl’ in Mull.</def>
+         </entry>
+         <entry xml:id="Slips_MullDMacQuarrieslips-idp119245576">
+            <form>
+               <orth>seanndachail</orth>
+            </form>
+            <def>Notes: used of person who looks older than his years.</def>
+         </entry>
+         <entry xml:id="Slips_MullDMacQuarrieslips-idp119247088">
+            <form>
+               <orth>béisinn</orth>
+               <pron>[be:ʃiNʹ]</pron>
+            </form>
+            <def>[be:ʃiNʹ] Notes: basin.</def>
+         </entry>
+         <entry xml:id="Slips_MullDMacQuarrieslips-idp119248816">
+            <form>
+               <orth>giula-mhàgach</orth>
+            </form>
+            <def>Notes: toad.</def>
+         </entry>
+         <entry xml:id="Slips_MullDMacQuarrieslips-idp119250328">
+            <form>
+               <orth>giulla-mhàgach</orth>
+            </form>
+            <def>Notes: toad.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

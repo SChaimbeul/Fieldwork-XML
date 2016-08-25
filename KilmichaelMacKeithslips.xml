@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_KilmichaelMacKeithslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: according to the card index of informants: MacKeich (Brothers – one called John).]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>04/1968</date>
+            <location>
+               <placeName>Argyll, Carradale, Kilmichael Farm</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>MacKeith</persName>
+               <age>70s</age>
+               <birth>
+                  <placeName>Carradale area</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_KilmichaelMacKeithslips-idp118885752">
+            <form>
+               <orth>pollag</orth>
+            </form>
+            <def>Notes: potato pit. (Moidart)</def>
+         </entry>
+         <entry xml:id="Slips_KilmichaelMacKeithslips-idp118887264">
+            <form>
+               <orth>sluasaid</orth>
+            </form>
+            <def>Notes: long handled shovel, for cleaning bottom of drain.</def>
+         </entry>
+         <entry xml:id="Slips_KilmichaelMacKeithslips-idp118888848">
+            <form>
+               <orth>beairt</orth>
+            </form>
+            <def>Notes: plough.</def>
+         </entry>
+         <entry xml:id="Slips_KilmichaelMacKeithslips-idp118890360">
+            <form>
+               <orth>caibe</orth>
+            </form>
+            <def>Quotation: caibe-mór. Notes: drainage shovel.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

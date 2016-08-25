@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Word-lists_MuasdaleGThomsonmisc">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Argyll, Tarbert, Muasdale</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>George Thomson</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idola448">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>(...) some local Gaelic names for birds, animals, etc. along with what is probably the only Gaelic name for most of them a long time ago (…)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Word-lists_MuasdaleGThomsonmisc-idola449"
+             subtype="h1">Animals etc.</ab>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159279440">
+            <form>
+               <orth>bo</orth>
+            </form>
+            <def>cow.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159280952">
+            <form>
+               <orth>each</orth>
+            </form>
+            <def>horse.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159282464">
+            <form>
+               <orth>muc</orth>
+            </form>
+            <def>pig.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159283976">
+            <form>
+               <orth>caora</orth>
+            </form>
+            <def>sheep.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159285488">
+            <form>
+               <orth>madadh</orth>
+            </form>
+            <def>dog.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159287000">
+            <form>
+               <orth>abhac</orth>
+            </form>
+            <def>terrier.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159288512">
+            <form>
+               <orth>cat</orth>
+            </form>
+            <def>cat.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159290024">
+            <form>
+               <orth>nios</orth>
+            </form>
+            <def>weasel.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159291536">
+            <form>
+               <orth>feorag</orth>
+            </form>
+            <def>squirrel.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159293048">
+            <form>
+               <orth>doran</orth>
+            </form>
+            <def>otter. Also sometimes locally ‘madadh donn’.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159296072">
+            <form>
+               <orth>sionnach</orth>
+            </form>
+            <def>fox.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159297584">
+            <form>
+               <orth>broc</orth>
+            </form>
+            <def>badger.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159299096">
+            <form>
+               <orth>famh</orth>
+            </form>
+            <def>mole.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159300608">
+            <form>
+               <orth>fiagh</orth>
+            </form>
+            <def>deer.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159302120">
+            <form>
+               <orth>earb</orth>
+            </form>
+            <def>roe deer.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159303632">
+            <form>
+               <orth>luch</orth>
+            </form>
+            <def>mouse.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159305144">
+            <form>
+               <orth>radan</orth>
+            </form>
+            <def>rat.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159306656">
+            <form>
+               <orth>ialtag leatharich</orth>
+            </form>
+            <def>bat.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159308168">
+            <form>
+               <orth>leamachan</orth>
+            </form>
+            <def>frog.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159309680">
+            <form>
+               <orth>losgann</orth>
+            </form>
+            <def>toad.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159311192">
+            <form>
+               <orth>arc-luachrach</orth>
+            </form>
+            <def>lizard.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159312704">
+            <form>
+               <orth>coinean</orth>
+            </form>
+            <def>rabbit.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159314216">
+            <form>
+               <orth>gearragh</orth>
+            </form>
+            <def>hare.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159315728">
+            <form>
+               <orth>gobhar</orth>
+            </form>
+            <def>goat.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Word-lists_MuasdaleGThomsonmisc-idola450"
+             subtype="h1">Birds</ab>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159318104">
+            <form>
+               <orth>lon dubh</orth>
+            </form>
+            <def>blackbird.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159319616">
+            <form>
+               <orth>smeorach</orth>
+            </form>
+            <def>thrush.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159321128">
+            <form>
+               <orth>gealbhonn tighe</orth>
+            </form>
+            <def>sparrow.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159322640">
+            <form>
+               <orth>dreathan donn</orth>
+            </form>
+            <def>hedge sparrow.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159324152">
+            <form>
+               <orth>bru dhearg</orth>
+            </form>
+            <def>robin.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159325664">
+            <form>
+               <orth>dreolan</orth>
+            </form>
+            <def>wren.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159327176">
+            <form>
+               <orth>gobhlan gaoithe</orth>
+            </form>
+            <def>swallow.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159328688">
+            <form>
+               <orth>cuthag</orth>
+            </form>
+            <def>cuckoo.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp159330200">
+            <form>
+               <orth>cearc fhraoich</orth>
+            </form>
+            <def>grouse.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp161262576">
+            <form>
+               <orth>cearc thomain</orth>
+            </form>
+            <def>partridge.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp161259552">
+            <form>
+               <orth>coileach coille</orth>
+            </form>
+            <def>woodcock.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp161256600">
+            <form>
+               <orth>“crotach”</orth>
+            </form>
+            <def>curlew. (I have never seen it in writing.)</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp115364080">
+            <form>
+               <orth>feadag</orth>
+            </form>
+            <def>golden plover.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp115365592">
+            <form>
+               <orth>adharcan</orth>
+            </form>
+            <def>green plover or peewit. (From the plume on the head.)</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp115367104">
+            <form>
+               <orth>craibhach</orth>
+            </form>
+            <def>rook. (Spelling uncertain.)</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp115368616">
+            <form>
+               <orth>feannag</orth>
+            </form>
+            <def>hooded crow.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp115370128">
+            <form>
+               <orth>cadhag</orth>
+            </form>
+            <def>jackdaw.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp115371640">
+            <form>
+               <orth>fitheach</orth>
+            </form>
+            <def>raven.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp115373152">
+            <form>
+               <orth>speireag</orth>
+            </form>
+            <def>hawk. (Applied fairly generally to hawks as kestrel, merlin, sparrowhawk, etc.)</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp115374664">
+            <form>
+               <orth>seabhag</orth>
+            </form>
+            <def>falcon.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp115376176">
+            <form>
+               <orth>croman</orth>
+            </form>
+            <def>hen harrier.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp115377688">
+            <form>
+               <orth>calman</orth>
+            </form>
+            <def>pigeon.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp115379200">
+            <form>
+               <orth>bridean</orth>
+            </form>
+            <def>oyster catcher.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp115380712">
+            <form>
+               <orth>trilleachan</orth>
+            </form>
+            <def>sand piper.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp115382224">
+            <form>
+               <orth>sgarbh</orth>
+            </form>
+            <def>cormorant.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp115383736">
+            <form>
+               <orth>stearnal</orth>
+            </form>
+            <def>tern.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp115385248">
+            <form>
+               <orth>eala</orth>
+            </form>
+            <def>swan.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp115386760">
+            <form>
+               <orth>geadh</orth>
+            </form>
+            <def>goose.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp115388272">
+            <form>
+               <orth>iola</orth>
+            </form>
+            <def>eagle.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp115389784">
+            <form>
+               <orth>faoilann</orth>
+            </form>
+            <def>gull.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp115391296">
+            <form>
+               <orth>uiseag</orth>
+            </form>
+            <def>lark.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp115392808">
+            <form>
+               <orth>cailleach oidhche</orth>
+            </form>
+            <def>owl.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp115394320">
+            <form>
+               <orth>druidag</orth>
+            </form>
+            <def>starling.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Word-lists_MuasdaleGThomsonmisc-idola451"
+             subtype="h1">Insects</ab>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119304600">
+            <form>
+               <orth>beachann</orth>
+            </form>
+            <def>bee.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119306112">
+            <form>
+               <orth>seillean</orth>
+            </form>
+            <def>bumblebee.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119307624">
+            <form>
+               <orth>dealan-de</orth>
+            </form>
+            <def>butterfly.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119309136">
+            <form>
+               <orth>leoman</orth>
+            </form>
+            <def>moth.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119310648">
+            <form>
+               <orth>figheadair</orth>
+            </form>
+            <def>spider.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119312160">
+            <form>
+               <orth>tarbh-nathrach</orth>
+            </form>
+            <def>dragonfly.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119313672">
+            <form>
+               <orth>cuileag</orth>
+            </form>
+            <def>fly.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119315184">
+            <form>
+               <orth>coilag liann</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] earwig. (I haven’t a clue about spelling of last. An afterthought came to me that it may well be ‘cuileag leathann’, an earwig having a broad flat body.)</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119316696">
+            <form>
+               <orth>leumnach uaine</orth>
+            </form>
+            <def>grasshopper.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119318208">
+            <form>
+               <orth>biastag</orth>
+            </form>
+            <def>worm.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119319720">
+            <form>
+               <orth>deargann</orth>
+            </form>
+            <def>flea. (Spelling?)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Word-lists_MuasdaleGThomsonmisc-idola452"
+             subtype="h1">Trees and wild plants</ab>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119322960">
+            <form>
+               <orth>darach</orth>
+            </form>
+            <def>oak.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119324472">
+            <form>
+               <orth>fearna</orth>
+            </form>
+            <def>alder.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119325984">
+            <form>
+               <orth>uinnseaann</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] ash.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119327496">
+            <form>
+               <orth>beithe</orth>
+            </form>
+            <def>birch.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119329008">
+            <form>
+               <orth>calltunn</orth>
+            </form>
+            <def>hazel.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119330520">
+            <form>
+               <orth>seileach</orth>
+            </form>
+            <def>willow.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119332032">
+            <form>
+               <orth>giubhas</orth>
+            </form>
+            <def>fir. (Applied a bit loosely to conifers: pine, spruce, etc.)</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119333616">
+            <form>
+               <orth>iuthar</orth>
+            </form>
+            <def>yew.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119335128">
+            <form>
+               <orth>droiigheann</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] blackthorn. Fruit ‘airne’.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119371000">
+            <form>
+               <orth>dris</orth>
+            </form>
+            <def>bramble (the bush).</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119372512">
+            <form>
+               <orth>smeur</orth>
+            </form>
+            <def>bramble (the fruit).</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119374024">
+            <form>
+               <orth>groiseid</orth>
+            </form>
+            <def>gooseberry.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119375536">
+            <form>
+               <orth>dearc dubh</orth>
+            </form>
+            <def>blackcurrant.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119377048">
+            <form>
+               <orth>greushag</orth>
+            </form>
+            <def>cranberry or whortleberry. (Probably local name and doubtful spelling.)</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119378560">
+            <form>
+               <orth>rodagach</orth>
+            </form>
+            <def>bog myrtle. (Probably also local and spelling?)</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119380072">
+            <form>
+               <orth>fothanan</orth>
+            </form>
+            <def>thistle.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119381584">
+            <form>
+               <orth>iteotha</orth>
+            </form>
+            <def>hemlock.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119383096">
+            <form>
+               <orth>foclan buidhe</orth>
+            </form>
+            <def>ragwort. (Spelling?)</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119384608">
+            <form>
+               <orth>copagach</orth>
+            </form>
+            <def>dock.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119386120">
+            <form>
+               <orth>feanntag</orth>
+            </form>
+            <def>nettle.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119387632">
+            <form>
+               <orth>sobhrac</orth>
+            </form>
+            <def>primrose.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119389144">
+            <form>
+               <orth>noinean</orth>
+            </form>
+            <def>daisy.</def>
+         </entry>
+         <entry xml:id="Word-lists_MuasdaleGThomsonmisc-idp119390656">
+            <form>
+               <orth>seileastair</orth>
+            </form>
+            <def>iris.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

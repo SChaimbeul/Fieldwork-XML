@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_LocheportAJMacPhailslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>02/1969</date>
+            <location>
+               <placeName>North Uist, Locheport</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Angus John MacPhail</persName>
+               <age>c. 80</age>
+               <birth>
+                  <placeName>Locheport</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_LocheportAJMacPhailslips-idp115739568">
+            <form>
+               <orth>mòine</orth>
+            </form>
+            <def>Quotation: mòine chìb or chìbeach. Notes: light stringy peat.</def>
+         </entry>
+         <entry xml:id="Slips_LocheportAJMacPhailslips-idp115736616">
+            <form>
+               <orth>simealair-crochaidh</orth>
+            </form>
+            <def>Notes: a wooden chimney hung above the fire.</def>
+         </entry>
+         <entry xml:id="Slips_LocheportAJMacPhailslips-idp115753824">
+            <form>
+               <orth>slabhraidh</orth>
+            </form>
+            <def>Notes: the chain over the old fireplace.</def>
+         </entry>
+         <entry xml:id="Slips_LocheportAJMacPhailslips-idp115755336">
+            <form>
+               <orth>aghaidh</orth>
+            </form>
+            <def>Quotation: aghaidh na cruaiche. Notes: the open end of the peatstack.</def>
+         </entry>
+         <entry xml:id="Slips_LocheportAJMacPhailslips-idp115756992">
+            <form>
+               <orth>breac-thalamh</orth>
+            </form>
+            <def>Notes: sandy soil.</def>
+         </entry>
+         <entry xml:id="Slips_LocheportAJMacPhailslips-idp115758504">
+            <form>
+               <orth>cìb</orth>
+            </form>
+            <def>Quotation: mòine chìb. Notes: light, stringy peat. Also “mòine chìbeach”.</def>
+         </entry>
+         <entry xml:id="Slips_LocheportAJMacPhailslips-idp115760232">
+            <form>
+               <orth>cìbeach</orth>
+            </form>
+            <def>Quotation: mòine chìbeach. Notes: light, stringy peat.</def>
+         </entry>
+         <entry xml:id="Slips_LocheportAJMacPhailslips-idp115761888">
+            <form>
+               <orth>cona-chruach</orth>
+            </form>
+            <def>Notes: a small stack made on the peat bank when a lot of “rùbhain” are collected together.</def>
+         </entry>
+         <entry xml:id="Slips_LocheportAJMacPhailslips-idp115763400">
+            <form>
+               <orth>cromag</orth>
+            </form>
+            <def>Notes: the hook at the end of the “slabhraidh”.</def>
+         </entry>
+         <entry xml:id="Slips_LocheportAJMacPhailslips-idp115764912">
+            <form>
+               <orth>dubh-thalamh</orth>
+            </form>
+            <def>Notes: peaty soil.</def>
+         </entry>
+         <entry xml:id="Slips_LocheportAJMacPhailslips-idp115766424">
+            <form>
+               <orth>allaibh</orth>
+               <pron>[?]</pron>
+            </form>
+            <def>[?] [ɑɫu̜] Quotation: Thiormaich e cho [ɑɫu̜]. Notes: “It dried so quickly.” [NOTES: slipped under ‘ealamh’.]</def>
+         </entry>
+         <entry xml:id="Slips_LocheportAJMacPhailslips-idp115768656">
+            <form>
+               <orth>glutanadh</orth>
+            </form>
+            <def>Notes: the packing between the double walls of the blackhouse.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

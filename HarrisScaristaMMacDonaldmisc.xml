@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HarrisVarious_HarrisScaristaMMacDonaldmisc">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location corresp="Harris_Scarista_Post_Office"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="anonymous_D"/>
+        <person role="informant" corresp="Mary_MacDonald_Harris_Scarista_Post_Office"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Miscellaneous</term>
+          <term xml:lang="gd">Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="HarrisVarious_HarrisScaristaMMacDonaldmisc-d0e27">
+        <form>
+          <orth>stiùrag</orth>
+        </form>
+        <def>oatmeal mixed with water, a drink.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisScaristaMMacDonaldmisc-d0e36">
+        <form>
+          <orth>stabag</orth>
+        </form>
+        <def>mixture of oatmeal, cream and sugar.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisScaristaMMacDonaldmisc-d0e45">
+        <form>
+          <orth>bainne-deasgainn</orth>
+        </form>
+        <def>junket</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisScaristaMMacDonaldmisc-d0e54">
+        <form>
+          <orth>meang</orth>
+        </form>
+        <def>whey.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisScaristaMMacDonaldmisc-d0e63">
+        <form>
+          <orth>blàthadh</orth>
+          <pron>[sic]</pron>
+        </form>
+        <def>[sic] buttermilk.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisScaristaMMacDonaldmisc-d0e72">
+        <form>
+          <orth>carraichgean</orth>
+        </form>
+        <def>carrageen.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisScaristaMMacDonaldmisc-d0e81">
+        <form>
+          <orth>stuathbleis</orth>
+        </form>
+        <def>an unappealing mixture of all sorts.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisScaristaMMacDonaldmisc-d0e90">
+        <form>
+          <orth>bocsa fir-chlis</orth>
+        </form>
+        <def>radio.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisScaristaMMacDonaldmisc-d0e99">
+        <form>
+          <orth>badag fhraoich</orth>
+        </form>
+        <def>used for cleaning the floor.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisScaristaMMacDonaldmisc-d0e108">
+        <form>
+          <orth>mealltrach</orth>
+        </form>
+        <def>scrubbing brush made from old marram grass.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisScaristaMMacDonaldmisc-d0e117">
+        <form>
+          <orth>cul dubh</orth>
+        </form>
+        <def>crust of bread.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisScaristaMMacDonaldmisc-d0e126">
+        <form>
+          <orth>duine dis</orth>
+        </form>
+        <def>someone who can’t stand cold.</def>
+      </entry>
+      <entry xml:id="HarrisVarious_HarrisScaristaMMacDonaldmisc-d0e135">
+        <form>
+          <orth>breacag fhlùir</orth>
+        </form>
+        <def/>
+      </entry>
+    </body>
+  </text>
+</TEI>

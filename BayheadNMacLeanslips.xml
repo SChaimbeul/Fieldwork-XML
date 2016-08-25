@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BayheadNMacLeanslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>02/1969</date>
+            <location>
+               <placeName>North Uist, Bayhead</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Neil MacLean</persName>
+               <age>c. 65</age>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_BayheadNMacLeanslips-idp162094736">
+            <form>
+               <orth>slàn</orth>
+            </form>
+            <def>Quotation: Slàn-treothadh dhuibh! Notes: said by someone coming into a newly built house for the first time.</def>
+         </entry>
+         <entry xml:id="Slips_BayheadNMacLeanslips-idp162096392">
+            <form>
+               <orth>talamh-toll</orth>
+            </form>
+            <def>Quotation: Tha i air a dhol ’na talamh-toll. Notes: said of a narrow stream which has been overgrown in places.</def>
+         </entry>
+         <entry xml:id="Slips_BayheadNMacLeanslips-idp162098048">
+            <form>
+               <orth>treothadh</orth>
+            </form>
+            <def>Quotation: Slàn-treothadh dhuibh! Notes: said by someone coming into a newly-built house for the first time.</def>
+         </entry>
+         <entry xml:id="Slips_BayheadNMacLeanslips-idp162099704">
+            <form>
+               <orth>bogach</orth>
+            </form>
+            <def>Notes: soft boggy patch on the moor.</def>
+         </entry>
+         <entry xml:id="Slips_BayheadNMacLeanslips-idp162101216">
+            <form>
+               <orth>bruach</orth>
+            </form>
+            <def>Notes: a sand-pit on the machair.</def>
+         </entry>
+         <entry xml:id="Slips_BayheadNMacLeanslips-idp162102728">
+            <form>
+               <orth>coilleag</orth>
+            </form>
+            <def>Notes: a hillock or mound on the machair.</def>
+         </entry>
+         <entry xml:id="Slips_BayheadNMacLeanslips-idp162104240">
+            <form>
+               <orth>cuinneag</orth>
+            </form>
+            <def>Quotation: “Millidh aona [lʹebəd̪ɑɡ] a’ chuinneag.”</def>
+         </entry>
+         <entry xml:id="Slips_BayheadNMacLeanslips-idp162106040">
+            <form>
+               <orth>[fɔıdʹɑx]</orth>
+            </form>
+            <def>Notes: man-made channel, canal. [NOTES: slipped under ‘faighdeach’.]</def>
+         </entry>
+         <entry xml:id="Slips_BayheadNMacLeanslips-idp162107840">
+            <form>
+               <orth>fiath-lochan</orth>
+            </form>
+            <def>Notes: stagnant pool.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

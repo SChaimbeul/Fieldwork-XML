@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WoolworkingandFishing_TomnafeannaigAMacEachernwool">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Islay, Ballygrant, Tomnafeannaig</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Alasdair MacEachern</persName>
+               <persName xml:lang="gd">Alasdair MacEachearna</persName>
+               <age>70</age>
+               <birth>
+                  <placeName>[in the card index: Islay, Ballygrant] [the questionnaire gives Argyll but it is most probably meant as the county not origin]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Wool-Working</term>
+               <term xml:lang="gd">Obair na Clòimhe</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_TomnafeannaigAMacEachernwool-d0e32"
+             subtype="h1">1. Raw wool</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_TomnafeannaigAMacEachernwool-d0e36"
+             subtype="h1">2. Oil or grease put on wool before carding</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_TomnafeannaigAMacEachernwool-d0e40"
+             subtype="h1">3. Carding</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_TomnafeannaigAMacEachernwool-d0e44"
+             subtype="h1">4. Spinning</ab>
+         <entry xml:id="WoolworkingandFishing_TomnafeannaigAMacEachernwool-d0e49">
+            <form>
+               <orth>sniomh</orth>
+            </form>
+            <def>spinning.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_TomnafeannaigAMacEachernwool-d0e58">
+            <form>
+               <orth>cuibhail shniomh</orth>
+            </form>
+            <def>spinning wheel.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_TomnafeannaigAMacEachernwool-d0e66"
+             subtype="h1">5. Parts of the spinning wheel</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_TomnafeannaigAMacEachernwool-d0e70"
+             subtype="h1">6. Yarn and associated apparatus</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_TomnafeannaigAMacEachernwool-d0e74"
+             subtype="h1">7. Dyeing</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_TomnafeannaigAMacEachernwool-d0e78"
+             subtype="h1">8. Washing after dyeing</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_TomnafeannaigAMacEachernwool-d0e82"
+             subtype="h1">9. Warping</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_TomnafeannaigAMacEachernwool-d0e86"
+             subtype="h1">10. Beaming and tying</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_TomnafeannaigAMacEachernwool-d0e90"
+             subtype="h1">11. Weaving</ab>
+         <entry xml:id="WoolworkingandFishing_TomnafeannaigAMacEachernwool-d0e95">
+            <form>
+               <orth>figheadair</orth>
+            </form>
+            <def>weaver.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_TomnafeannaigAMacEachernwool-d0e103"
+             subtype="h1">12. Parts of the weaving loom</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_TomnafeannaigAMacEachernwool-d0e107"
+             subtype="h1">13. Finishing</ab>
+         <entry xml:id="WoolworkingandFishing_TomnafeannaigAMacEachernwool-d0e112">
+            <form>
+               <orth>luadhadh</orth>
+            </form>
+            <def>waulking the cloth.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

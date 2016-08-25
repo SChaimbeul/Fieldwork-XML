@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Peat_BerneraNCampbellpeat">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the original title of the list is “Peat-Cutting and Handling”.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>April 1962</date>
+            <location>
+               <placeName>Harris, Bernera</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>John A. Morrison</persName>
+            </person>
+            <person role="informant">
+               <persName>Neil Campbell</persName>
+               <age>48</age>
+               <birth>
+                  <placeName>Harris, Bernera</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Peat-Working</term>
+               <term xml:lang="gd">Mòine</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Peat_BerneraNCampbellpeat-d0e38">
+            <form>
+               <orth>feanntach</orth>
+            </form>
+            <def>turf.</def>
+         </entry>
+         <entry xml:id="Peat_BerneraNCampbellpeat-d0e47">
+            <form>
+               <orth>a’ feannadh</orth>
+            </form>
+            <def>taking off the turf.</def>
+         </entry>
+         <entry xml:id="Peat_BerneraNCampbellpeat-d0e56">
+            <form>
+               <orth>a’ glanadh</orth>
+            </form>
+            <def>cutting off the remaining turf.</def>
+         </entry>
+         <entry xml:id="Peat_BerneraNCampbellpeat-d0e65">
+            <form>
+               <orth>am barrad (bàrr fhàd)</orth>
+            </form>
+            <def>first tier of peat in the bog.</def>
+         </entry>
+         <entry xml:id="Peat_BerneraNCampbellpeat-d0e74">
+            <form>
+               <orth>an gàradh</orth>
+            </form>
+            <def>second tier of peat in the bog.</def>
+         </entry>
+         <entry xml:id="Peat_BerneraNCampbellpeat-d0e83">
+            <form>
+               <orth>an caoran</orth>
+            </form>
+            <def>third row of peat in the bog.</def>
+         </entry>
+         <entry xml:id="Peat_BerneraNCampbellpeat-d0e92">
+            <form>
+               <orth>an colfhad (cùl fhad)</orth>
+            </form>
+            <def>the first peat cut in the tier.</def>
+         </entry>
+         <entry xml:id="Peat_BerneraNCampbellpeat-d0e101">
+            <form>
+               <orth>gàradh</orth>
+            </form>
+            <def>arrangement used to dry the peat.
+        <graphic url="BerneraNCampbellpeatillust1.jpg" width="300px"/>
+            </def>
+         </entry>
+         <entry xml:id="Peat_BerneraNCampbellpeat-d0e112">
+            <form>
+               <orth>sgaoilteach</orth>
+            </form>
+            <def>the ground on which the peat is dried.</def>
+         </entry>
+         <entry xml:id="Peat_BerneraNCampbellpeat-d0e121">
+            <form>
+               <orth>rùghan</orth>
+            </form>
+            <def>the first heap made of the peats when lifting them.</def>
+         </entry>
+         <entry xml:id="Peat_BerneraNCampbellpeat-d0e130">
+            <form>
+               <orth>cruach</orth>
+            </form>
+            <def>the second heap made of the peats when lifting them (this one is bigger [than ‘rùghan’ (q.v.)]).</def>
+         </entry>
+         <entry xml:id="Peat_BerneraNCampbellpeat-d0e139">
+            <form>
+               <orth>an t-iaran mònadh (truimhsgeir)</orth>
+            </form>
+            <def>peat cutting iron. 
+        <graphic url="BerneraNCampbellpeatillust2.jpg" width="200px"/>
+            </def>
+         </entry>
+         <entry xml:id="Peat_BerneraNCampbellpeat-d0e150">
+            <form>
+               <orth>cliabh monadh</orth>
+            </form>
+            <def>the creel used for carrying the peats.</def>
+         </entry>
+         <entry xml:id="Peat_BerneraNCampbellpeat-d0e159">
+            <form>
+               <orth>slat bheoil</orth>
+            </form>
+            <def>the rod round the top of the creel.</def>
+         </entry>
+         <entry xml:id="Peat_BerneraNCampbellpeat-d0e168">
+            <form>
+               <orth>breagan</orth>
+            </form>
+            <def>the rectangular holes half-way up the creel.</def>
+         </entry>
+         <entry xml:id="Peat_BerneraNCampbellpeat-d0e177">
+            <form>
+               <orth>tadhaiste</orth>
+            </form>
+            <def>bottom of the creel. ??</def>
+         </entry>
+         <entry xml:id="Peat_BerneraNCampbellpeat-d0e186">
+            <form>
+               <orth>iris</orth>
+            </form>
+            <def>rope for fastening it [the creel] on your shoulder.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

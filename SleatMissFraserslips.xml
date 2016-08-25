@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_SleatMissFraserslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1967</date>
+            <location>
+               <placeName>Skye, Sleat, Duisdale School</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>Miss Fraser</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_SleatMissFraserslips-idp115447704">
+            <form>
+               <orth>abaichean</orth>
+            </form>
+            <def>Quotation: na h-abaichean. Notes: the alphabet (Badenoch).</def>
+         </entry>
+         <entry xml:id="Slips_SleatMissFraserslips-idp115444680">
+            <form>
+               <orth>cille</orth>
+            </form>
+            <def>Quotation: Cille mhainn (?) [kʹiLʹə vəiNʹ]. Notes: a pencil (Badenoch).</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

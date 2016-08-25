@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HarrisVarious_HarrisLeverburghNMacLeodland">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location corresp="Harris_Leverburgh"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="anonymous_D"/>
+        <person role="informant" corresp="Norman_MacLeod_Harris_Leverburgh"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Landscape Features</term>
+          <term xml:lang="gd">Cruth na Tìre</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e26">Mountains, hills</head>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e31">
+          <form>
+            <orth>druim</orth>
+          </form>
+          <def>ridge.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e40">
+          <form>
+            <orth>maodal</orth>
+          </form>
+          <def>beinn bheag chruinn.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e49">
+          <form>
+            <orth>gualainn na beinne</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e55">
+          <form>
+            <orth>mullach na beinne</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e61">
+          <form>
+            <orth>leathad na beinne</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e67">
+          <form>
+            <orth>sliabh</orth>
+          </form>
+          <def>beinn iosal.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e76">
+          <form>
+            <orth>meall</orth>
+          </form>
+          <def>beann mhòr mhaol, nacheil cas, le sineadh fada.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e85">
+          <form>
+            <orth>cnoc</orth>
+          </form>
+          <def>beinn bheag.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e94">
+          <form>
+            <orth>tullach</orth>
+          </form>
+          <def>beinn bheag.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e103">
+          <form>
+            <orth>màs</orth>
+          </form>
+          <def>i.e. “màs uachdar” is “màs iochdrach”.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e112">
+          <form>
+            <orth>gil</orth>
+          </form>
+          <def>gulley in hill, gil an fhidhich.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e121">
+          <form>
+            <orth>clais</orth>
+          </form>
+          <def>narrow gulley.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e129">Moorland features</head>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e134">
+          <form>
+            <orth>boglach</orth>
+          </form>
+          <def>bog.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e143">
+          <form>
+            <orth>lòn</orth>
+          </form>
+          <def>bog.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e152">
+          <form>
+            <orth>gluic</orth>
+          </form>
+          <def>hollows.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e161">
+          <form>
+            <orth>bruaich</orth>
+          </form>
+          <def>bank.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e170">
+          <form>
+            <orth>blàr</orth>
+          </form>
+          <def>mòinteach.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e178">Coastal features</head>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e183">
+          <form>
+            <orth>geodha</orth>
+          </form>
+          <def>indentation.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e192">
+          <form>
+            <orth>sheana-ghija</orth>
+            <pron>[?]</pron>
+          </form>
+          <def>[?] Taransay, name of geo comes before “geodha”.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e201">
+          <form>
+            <orth>bearrach</orth>
+          </form>
+          <def>cliff.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e210">
+          <form>
+            <orth>eas</orth>
+          </form>
+          <def>abhainn cas.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e219">
+          <form>
+            <orth>steall</orth>
+          </form>
+          <def>small waterfall.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e228">
+          <form>
+            <orth>camus</orth>
+          </form>
+          <def>cladach a tighinn cam, “Camus a’ luighre” – Beinn Taobh-Tuath.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e237">
+          <form>
+            <orth>cala</orth>
+          </form>
+          <def>aite le fasgadh.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e245">Rivers, burns</head>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e250">
+          <form>
+            <orth>eas</orth>
+          </form>
+          <def>waterfall.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e259">
+          <form>
+            <orth>abhain</orth>
+          </form>
+          <def>big river.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e268">
+          <form>
+            <orth>allt</orth>
+          </form>
+          <def>abhainn, “Alltan Aibhneageanaidh” [?] – tributary.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e277">
+          <form>
+            <orth>struthan</orth>
+          </form>
+          <def>abhainn.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e286">
+          <form>
+            <orth>aibhne na gàiraich gheal</orth>
+          </form>
+          <def>river in flood, rushing.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e294">Types of beach</head>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e299">
+          <form>
+            <orth>traigh geanmhachadh</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e305">
+          <form>
+            <orth>mol</orth>
+          </form>
+          <def>traigh de chlachan.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e314">
+          <form>
+            <orth>dùn</orth>
+          </form>
+          <def>dunes.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e322">Sea-pools, waves</head>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e327">
+          <form>
+            <orth>muir gaoitheadh</orth>
+          </form>
+          <def>tonn air an togail leis a ghaoith.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e336">
+          <form>
+            <orth>tonnan faollach</orth>
+          </form>
+          <def>sruth agus a ghaoth a’ tighinn an aghaidh a cheile.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e345">
+          <form>
+            <orth>ataireachd</orth>
+          </form>
+          <def>tonnan mòra ’s gun deògh gaoithe.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e354">
+          <form>
+            <orth>bonn mara</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e360">
+          <form>
+            <orth>sùragh (an t sruth)</orth>
+          </form>
+          <def>sruth a bualladh air sgeir agus a dol tiomchiol, also sea going back into sea from beach.</def>
+        </entry>
+        <entry xml:id="HarrisVarious_HarrisLeverburghNMacLeodland-d0e369">
+          <form>
+            <orth>cop</orth>
+          </form>
+          <def>surf.</def>
+        </entry>
+      </div>
+    </body>
+  </text>
+</TEI>

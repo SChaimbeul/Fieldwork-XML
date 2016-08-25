@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BroadfordMFarmerslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1979-83</date>
+            <location>
+               <placeName>Skye, Broadford</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>Mrs M. Farmer</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_BroadfordMFarmerslips-idp161827920">
+            <form>
+               <orth>mògais</orth>
+            </form>
+            <def>Notes: a messy mixture, e.g. of food.</def>
+         </entry>
+         <entry xml:id="Slips_BroadfordMFarmerslips-idp161829432">
+            <form>
+               <orth>rionnag</orth>
+            </form>
+            <def>Notes: ‘a spark of life in the fire.’</def>
+         </entry>
+         <entry xml:id="Slips_BroadfordMFarmerslips-idp161830944">
+            <form>
+               <orth>plìon</orth>
+            </form>
+            <def>Notes: a smile, smirk.</def>
+         </entry>
+         <entry xml:id="Slips_BroadfordMFarmerslips-idp161832456">
+            <form>
+               <orth>sgaimeic</orth>
+            </form>
+            <def>Quotation: sgaimeic (hd) – pronounced as if with -hd. Notes: stressed syllable has /ɛ/ sound. Has general meaning of ‘a mess’. Could be used of foods mixed together which aren’t usually mixed. Phrase ‘Rinn e s. dheth’ could be used of someone who’s messed some job up. [NOTES: on this slip ‘Broadford’ was crossed out and replaced with ‘Breakish’.]</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Ecclesiastical_CampbeltownMMacLeodeccles">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Argyll, Campbeltown</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Murdo MacLeod</persName>
+               <age>60</age>
+               <birth>
+                  <placeName>Lewis, Uig</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Ecclesiastical Terms</term>
+               <term xml:lang="gd">An Eaglais</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e32"
+             subtype="h1">1. Various denominations</ab>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e37">
+            <form>
+               <orth>Na Moderats</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e43">
+            <form>
+               <orth>Na Saidars</orth>
+            </form>
+            <def>(Eng. pronunciation of vowels.)</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e52">
+            <form>
+               <orth>Na Wee Frees</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e58">
+            <form>
+               <orth>An Eaglais Shaor</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e64">
+            <form>
+               <orth>An Eaglais Déit</orth>
+            </form>
+            <def>Est. Church.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e72"
+             subtype="h1">2. Member of each of these denominations</ab>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e77">
+            <form>
+               <orth>Moderat</orth>
+            </form>
+            <def>’Se Moderat a th’ann dheth.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e86">
+            <form>
+               <orth>Saidar</orth>
+            </form>
+            <def>’Se Saidar a th’ann dheth.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e94"
+             subtype="h1">3. Different courts of the Presbyterian churches</ab>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e99">
+            <form>
+               <orth>an deecon’s coort</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e105">
+            <form>
+               <orth>an seisean</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e111">
+            <form>
+               <orth>a’ chléir</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e116"
+             subtype="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</ab>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e121">
+            <form>
+               <orth>a’ ministeir</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e127">
+            <form>
+               <orth>an t-eildeir</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e133">
+            <form>
+               <orth>an deecon</orth>
+            </form>
+            <def>(The ‘d’ sound coming after ‘n’ disappears and the ‘t’ sound after ‘n’ becomes softened into ‘d’. This is always the case in Uig, Lewis.)</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e142">
+            <form>
+               <orth>am preusgair</orth>
+            </form>
+            <def>the preacher.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e151">
+            <form>
+               <orth>a’ missionary</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e157">
+            <form>
+               <orth>maor eaglais</orth>
+            </form>
+            <def>church officer.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e166">
+            <form>
+               <orth>clàrc an t-seisein</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e172">
+            <form>
+               <orth>a’ toirt brag air cùbainn</orth>
+            </form>
+            <def>preaching.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e180"
+             subtype="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e184"
+             subtype="h1">6. Holy Orders within the Roman Catholic church</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e188"
+             subtype="h1">7. Articles of dress or adornment</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e192"
+             subtype="h1">8. Church building and churchyard</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e196"
+             subtype="h1">9. Church furniture and ornaments</ab>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e201">
+            <form>
+               <orth>am brod</orth>
+            </form>
+            <def>collection box. The collection box had a long handle. The collector, an elder, went round the seats (suidheanan) with it. 
+        <graphic url="CampbeltownMMacLeodecclesillust1.jpg" width="400px"/>
+            </def>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e212">
+            <form>
+               <orth>[suidheanan]</orth>
+               <pron>[seats.]</pron>
+            </form>
+            <def>[seats.]</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e220"
+             subtype="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</ab>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e225">
+            <form>
+               <orth>la an trosgaidh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e231">
+            <form>
+               <orth>coinneamh sheachdainn</orth>
+            </form>
+            <def>Meeting held during the week. Could be in a house or in the meeting-house (tigh-coinneamh) i.e. a small hall erected by the church in an outlying village.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e240">
+            <form>
+               <orth>[tigh-coinneamh]</orth>
+               <pron>[meeting-house i.e. a small hall erected by the church in an outlying village.]</pron>
+            </form>
+            <def>[meeting-house i.e. a small hall erected by the church in an outlying village.]</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e248"
+             subtype="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</ab>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e253">
+            <form>
+               <orth>Dia</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e259">
+            <form>
+               <orth>An Tighearna</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e265">
+            <form>
+               <orth>An Cruithear</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e270"
+             subtype="h2">Sayings referring to God:</ab>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e275">
+            <form>
+               <orth>An ainm an Righ!</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e281">
+            <form>
+               <orth>Gu sealladh E ort!</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e287">
+            <form>
+               <orth>Air sgàth ni math!</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e293">
+            <form>
+               <orth>A Thi nam Buadh!</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e299">
+            <form>
+               <orth>Gu sealladh Sealbh ort!</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e305">
+            <form>
+               <orth>Gu sealladh Sealbh Mor ort!</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e311">
+            <form>
+               <orth>A Thi mhòir, fhearaibh!</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e317">
+            <form>
+               <orth>A chruthadair mhathasaich!</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e323">
+            <form>
+               <orth>[Moire]</orth>
+            </form>
+            <def>Bha sibh ag iasgach an diugh. An d’fhuair sibh tòrr/mòran? Moire, fhuair! Fhuair sinn an t-Agh. ‘Moire!’ is used quite regularly in Uig, although it is very far from Catholic influences.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e331"
+             subtype="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</ab>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e336">
+            <form>
+               <orth>An Sàtan</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e342">
+            <form>
+               <orth>am fear millidh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e348">
+            <form>
+               <orth>Domhall Dubh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e354">
+            <form>
+               <orth>piullaidh</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e360">
+            <form>
+               <orth>an donas</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e366">
+            <form>
+               <orth>an diaoull</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e372">
+            <form>
+               <orth>an droch fhear</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e378">
+            <form>
+               <orth>a’ fear nach can mi</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e384">
+            <form>
+               <orth>iuthairn</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e390">
+            <form>
+               <orth>an droch ait</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e396">
+            <form>
+               <orth>an loch teine</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e402">
+            <form>
+               <orth>ifrinn</orth>
+            </form>
+         </entry>
+      </body>
+   </text>
+</TEI>

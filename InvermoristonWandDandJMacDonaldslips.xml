@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Slips_InvermoristonWandDandJMacDonaldslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>04/1969</date>
+            <location>
+               <placeName>Inverness-shire, Invermoriston</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>William, Duncan and Jean MacDonald</persName>
+               <age>c. 75 (William)</age>
+               <birth>
+                  <placeName>Invermoriston</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_InvermoristonWandDandJMacDonaldslips-idp118877448">
+            <form>
+               <orth>mial</orth>
+            </form>
+            <def>Quotation: a’ mhial [əvĩɑ̃ɫ]. Notes: disease in horses causing the top gum to extend downwards.</def>
+         </entry>
+         <entry xml:id="Slips_InvermoristonWandDandJMacDonaldslips-idp118891920">
+            <form>
+               <orth>tarraingean</orth>
+               <pron>[t̪ɑ:ʴnʹəṉ]</pron>
+            </form>
+            <def>[t̪ɑ:ʴnʹəṉ] Notes: (pl) horse’s shoulder chains. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+         </entry>
+         <entry xml:id="Slips_InvermoristonWandDandJMacDonaldslips-idp118893792">
+            <form>
+               <orth>bolg-séid</orth>
+               <pron>[bɔɫɔɡ ʃe:dʹ]</pron>
+            </form>
+            <def>[bɔɫɔɡ ʃe:dʹ] Notes: bellows.</def>
+         </entry>
+         <entry xml:id="Slips_InvermoristonWandDandJMacDonaldslips-idp118895520">
+            <form>
+               <orth>caibe</orth>
+            </form>
+            <def>Quotation: caibe-fàd. Notes: turfing knife.</def>
+         </entry>
+         <entry xml:id="Slips_InvermoristonWandDandJMacDonaldslips-idp118897176">
+            <form>
+               <orth>ceàrdaich</orth>
+               <pron>[cɛ:rd̪iç]</pron>
+            </form>
+            <def>[cɛ:rd̪iç] </def>
+         </entry>
+         <entry xml:id="Slips_InvermoristonWandDandJMacDonaldslips-idp118898904">
+            <form>
+               <orth>druimealais</orth>
+               <pron>[d̪ɾũ̜məleʃ]</pron>
+            </form>
+            <def>[d̪ɾũ̜məleʃ] Notes: back-chain going over the saddle.</def>
+         </entry>
+         <entry xml:id="Slips_InvermoristonWandDandJMacDonaldslips-idp118900632">
+            <form>
+               <orth>duilleag</orth>
+            </form>
+            <def>Quotation: duilleag a’ speal.</def>
+         </entry>
+         <entry xml:id="Slips_InvermoristonWandDandJMacDonaldslips-idp118902144">
+            <form>
+               <orth>geat</orth>
+               <pron>[ɡʹɛxt̪]</pron>
+            </form>
+            <def>[ɡʹɛxt̪] Notes: gate.</def>
+         </entry>
+         <entry xml:id="Slips_InvermoristonWandDandJMacDonaldslips-idp118903872">
+            <form>
+               <orth>góbhlag</orth>
+            </form>
+            <def>Notes: grape.</def>
+         </entry>
+         <entry xml:id="Slips_InvermoristonWandDandJMacDonaldslips-idp118905384">
+            <form>
+               <orth>gramaich</orth>
+            </form>
+            <def>Notes: blacksmith’s vice.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

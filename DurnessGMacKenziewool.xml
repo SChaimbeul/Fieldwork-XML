@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="DRMorrisonetal_DurnessGMacKenziewool">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the questionnaire has a letter dated 10th December 1970 attached to it.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1970</date>
+            <location>
+               <placeName>Sutherland, Lairg, Durness</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>George MacKenzie</persName>
+               <age>67</age>
+               <birth>
+                  <placeName>Assynt, Stoer</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Wool-Working</term>
+               <term xml:lang="gd">Obair na Clòimhe</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziewool-d0e36"
+             subtype="h1">1. Raw wool</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziewool-d0e42"
+             subtype="h1">2. Oil or grease put on wool before carding</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziewool-d0e48"
+             subtype="h1">3. Carding</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziewool-idp119956632">
+            <form>
+               <orth>cardag</orth>
+            </form>
+            <def>carding. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziewool-idp119959728">
+            <form>
+               <orth>cir (ceer)</orth>
+            </form>
+            <def>card. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziewool-d0e72"
+             subtype="h1">4. Spinning</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziewool-d0e78"
+             subtype="h1">5. Parts of the spinning wheel</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziewool-d0e84"
+             subtype="h1">6. Yarn and associated apparatus</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziewool-d0e90"
+             subtype="h1">7. Dyeing</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziewool-idp119896800">
+            <form>
+               <orth>crotal</orth>
+            </form>
+            <def>brown dye from grey lichens. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziewool-idp119900184">
+            <form>
+               <orth>poit ghaa</orth>
+            </form>
+            <def>dye pot. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziewool-d0e114"
+             subtype="h1">8. Washing after dyeing</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziewool-d0e120"
+             subtype="h1">9. Warping</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziewool-d0e126"
+             subtype="h1">10. Beaming and tying</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziewool-d0e132"
+             subtype="h1">11. Weaving</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziewool-idp119932872">
+            <form>
+               <orth>brebadar</orth>
+            </form>
+            <def>weaver. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziewool-d0e147"
+             subtype="h1">12. Parts of the weaving loom</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziewool-d0e153"
+             subtype="h1">13. Finishing</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziewool-idp119932656">
+            <form>
+               <orth>maister</orth>
+            </form>
+            <def>urine kept specially for washing cloth. (Stoer, Assynt)</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

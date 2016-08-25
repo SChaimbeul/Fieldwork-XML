@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="AssortedFieldworkers_HiltonCRossbiadh">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: all Gaelic headings were translated into English in second hand. This, together with the phonetic spelling of the Gaelic words, seems to suggest that the fieldworker may not have had Gaelic herself.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Hilton</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>Mary MacDonald</persName>
+            </person>
+            <person role="informant">
+               <persName>Miss Cathie Ross</persName>
+               <age>born 1915</age>
+               <birth>
+                  <placeName>[Ross-shire]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Food and Drink</term>
+               <term xml:lang="gd">Biadh is Deoch</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e32"
+             subtype="h1">1. Na tràthan</ab>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e37">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>breakfast.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e46">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>tea.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e55">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>supper.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e64">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>dinner?</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e72"
+             subtype="h1">2. Am biadh a bhidhte gabhail aig gach tràth</ab>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e76"
+             subtype="h2">Breakfast</ab>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e81">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>bacon and egg.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e90">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>bread.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e99">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>tea.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e108">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>porridge.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e117">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>toast?</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e126">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>butter.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e135">
+            <form>
+               <orth>greem</orth>
+            </form>
+            <def>crowdie.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e144">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>jam?</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e153">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>cheese.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e162">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>butter.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e171">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>sugar.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e180">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>tea and biscuit.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e189">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>milk.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e198">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>kippers.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e206"
+             subtype="h2">Lunch?</ab>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e211">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>soup, broth.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e220">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>meat and potatoes.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e229">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>fish.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e238">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>fresh herring.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e247">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>salt herring.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e256">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>black pudding.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e265">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>white pudding.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e274">
+            <form>
+               <orth>sleeshacks</orth>
+            </form>
+            <def>fried mashed potatoes.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e283">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>2nd day’s broth.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e292">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>chicken.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e301">
+            <form>
+               <orth>cullach</orth>
+            </form>
+            <def>roaster.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e310">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>pork.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e319">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>beef, mutton.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e328">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>chops, mince, stew.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e337">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>salmon.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e346">
+            <form>
+               <orth>lyopack</orth>
+            </form>
+            <def>flounder.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e355">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>duck.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e364">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>cod.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e373">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>cod roe.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e382">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>herring roe.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e391">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>dogfish.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e400">
+            <form>
+               <orth>moorcan</orth>
+            </form>
+            <def>rock salmon.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e409">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>dark haddy.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e418">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>haddock.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e427">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>ling.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e436">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>whiting.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e445">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>lobster.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e454">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>crab.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e463">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>crab sandwich.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e472">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>crab and tea (for supper).</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e481">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>wilks [sic]. [whelks?]</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e490">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>mussels.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e499">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>boiled mussels.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e508">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>cockles.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e517">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>clams?</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e526">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>cabbage.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e535">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>carrots.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e544">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>custard.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e552"
+             subtype="h1">3. Dòighean air biadh a dheasachadh</ab>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e557">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>fry?</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e566">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>bake. I’m baking.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e575">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>I’m cooking.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e584">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>boil.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e592"
+             subtype="h1">4. Fuine</ab>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e597">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>I’m baking.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e606">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>oatcakes.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e615">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>baking scones.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e624">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>I’m doing a duff.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e633">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>flour.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e642">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>eggs.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e651">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>milk.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e660">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>sugar.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e669">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>treacle.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e678">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>meat.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e687">
+            <form>
+               <orth>blonnaig</orth>
+            </form>
+            <def>fat (of beef).</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e696">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>black bun.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e705">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>I’m baking bread / scones.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e713"
+             subtype="h1">5. Deochan dhe gach seòrsa</ab>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e718">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>water.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e727">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>milk.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e736">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>beer.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e745">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>whisky.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e754">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>buttermilk.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e763">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>rum.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e772">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>wine.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e780"
+             subtype="h1">6. Biadh no deoch a bhidhte deanamh gu sònraichte do luchd euslan</ab>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e785">
+            <form>
+               <orth>styoorack</orth>
+            </form>
+            <def>gruel.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e793"
+             subtype="h1">7. Nithean a bhiodh ann nuair a rachadh beathach a mharbhadh</ab>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e798">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>black pudding.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e807">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>white pudding.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e816">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>tripe?</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e825">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>cod’s head.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e833"
+             subtype="h1">8. Faclan sam bith eile</ab>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e838">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>I’m eating hard.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e847">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>I’m enjoying it.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e856">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>I’m taking / eating my food.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e865">
+            <form>
+               <orth>choran</orth>
+            </form>
+            <def>2nd day soup.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e874">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>heart.</def>
+         </entry>
+         <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e883">
+            <form>
+               <orth>[blank]</orth>
+            </form>
+            <def>brains.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

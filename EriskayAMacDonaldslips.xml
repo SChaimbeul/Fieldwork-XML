@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_EriskayAMacDonaldslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1978, 1980</date>
+            <location>
+               <placeName>Eriskay</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>?</persName>
+            </person>
+            <person role="informant">
+               <persName>Allan MacDonald</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_EriskayAMacDonaldslips-idp115442160">
+            <form>
+               <orth>meanbh</orth>
+            </form>
+            <def>Notes: used in Eriskay in sense of ‘feeble, weak’ = lag.</def>
+         </entry>
+         <entry xml:id="Slips_EriskayAMacDonaldslips-idp115469448">
+            <form>
+               <orth>Diardaoin bangaid</orth>
+            </form>
+            <def>Notes: Thursday before Easter.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

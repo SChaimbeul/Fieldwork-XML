@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the two words have been slipped and therefore in this file, apart from the definitions provided by the informant, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[02/1968 on the slips]</date>
+            <location>
+               <placeName>North Uist, Locheport, Clachan</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>(Rev.) Norman MacDonald</persName>
+               <age>63</age>
+               <birth>
+                  <placeName>Skye</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Fishing Tackle</term>
+               <term xml:lang="gd">Acfhuinn Iasgaich</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach-d0e35"
+             subtype="h1">1. Lìon-mór</ab>
+         <entry xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach-d0e40">
+            <form>
+               <orth>biathadh linn-mhór</orth>
+            </form>
+            <def>The bait put on the hooks of these lines. [NOTES: slip not found.]</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach-d0e48"
+             subtype="h1">2. Lìon-beag</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach-d0e52"
+             subtype="h1">3. Lìon-sgadanach</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach-d0e56"
+             subtype="h1">4. Lìon sam bith eile</ab>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach-d0e60"
+             subtype="h1">5. Duirgh, slatan, driamlaichean</ab>
+         <entry xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach-d0e65">
+            <form>
+               <orth>sgrìoban</orth>
+            </form>
+            <def>Hand line used for cod fishing. Line was twined around wooden frame. <graphic url="ClachanNMacDonaldiasgachillust1.jpg" width="200px"/> [SLIP: Sgrioban [sic] wooden frame round which a hand line for cod fishing was entwined.]</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach-d0e75"
+             subtype="h1">6. Acfhuinn sam bith eile</ab>
+      </body>
+   </text>
+</TEI>

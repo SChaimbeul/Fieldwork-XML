@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_ElgolMMacKinnonslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>06/1970</date>
+            <location>
+               <placeName>Skye, Elgol</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>M. MacKinnon</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_ElgolMMacKinnonslips-idp115450904">
+            <form>
+               <orth>saor-shruth</orth>
+               <pron>[sw:ɾu̜]</pron>
+            </form>
+            <def>[sw:ɾu̜] Notes: eddy; a current of water running back contrary to the main stream. Occurs about half-flood.</def>
+         </entry>
+         <entry xml:id="Slips_ElgolMMacKinnonslips-idp115455224">
+            <form>
+               <orth>croisean</orth>
+               <pron>[kɾɔʃɛ̃ṉ]</pron>
+            </form>
+            <def>[kɾɔʃɛ̃ṉ] Quotation: croisean na spaideadh. Notes: cross-piece at the top of the shaft. </def>
+         </entry>
+      </body>
+   </text>
+</TEI>

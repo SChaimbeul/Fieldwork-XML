@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>[Mull], Tobermory</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Iain Robertson</persName>
+               <persName xml:lang="gd">Iain Robesdan (MacDhonnachaidh)</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Shellfish</term>
+               <term xml:lang="gd">Maorach</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e26"
+             subtype="h1">1. Maorach</ab>
+         <entry xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e31">
+            <form>
+               <orth>lunga, lungaich</orth>
+            </form>
+            <def>lug worms.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e40">
+            <form>
+               <orth>breallach, breallaich</orth>
+            </form>
+            <def>oval shaped fish, hole in sand. <graphic url="TobermoryIRobertsonmaorachillust1.jpg" width="150px"/>
+            </def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e50">
+            <form>
+               <orth>sput fish</orth>
+            </form>
+            <def>razorfish.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e59">
+            <form>
+               <orth>cockles</orth>
+            </form>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e65">
+            <form>
+               <orth>fiasgain</orth>
+            </form>
+            <def>mussels.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e74">
+            <form>
+               <orth>faochag</orth>
+            </form>
+            <def>whelk.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e83">
+            <form>
+               <orth>na gilleacha(n) geala</orth>
+            </form>
+            <def>dogwhelk.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e92">
+            <form>
+               <orth>a’ bhàirneach</orth>
+            </form>
+            <def>limpet.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e101">
+            <form>
+               <orth>barnacles</orth>
+               <pron>[NOTES: in pencil.]</pron>
+            </form>
+            <def>[NOTES: in pencil.]</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e110">
+            <form>
+               <orth>duileasg</orth>
+            </form>
+            <def>dulse.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e119">
+            <form>
+               <orth>an slaman</orth>
+            </form>
+            <def>cabbage like bag air a’ mhuir traigh.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e128">
+            <form>
+               <orth>an fheamainn dhubh</orth>
+            </form>
+            <def>a’ chuir air fearann, tha i goirid + sinks [?].</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e137">
+            <form>
+               <orth>an fheamain  bhuidhe</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] bolgan orra is plodadh i.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e146">
+            <form>
+               <orth>feamainn chirein</orth>
+            </form>
+            <def>serrated wrack.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e155">
+            <form>
+               <orth>eisearan</orth>
+            </form>
+            <def>oyster.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e164">
+            <form>
+               <orth>creachan</orth>
+            </form>
+            <def>clams. Slige chreachain.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e173">
+            <form>
+               <orth>roc, ruic</orth>
+            </form>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e179">
+            <form>
+               <orth>am bàrr dearg</orth>
+            </form>
+            <def>barr a ruic. Leasachadh cho math ’s ghabhas, cur air grunnd [?] gu sonraichte dar tha e lethghrod.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e187"
+             subtype="h1">2. A’ tional maorach</ab>
+         <entry xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-idola273">
+            <form>
+               <orth>[a’ tional maorach]</orth>
+            </form>
+            <def>A reir de cho pailte s’ atha iad than giomach ri bhith air iasgach le cliabh ’s a chum fharlainn pailte a leabag mar bhiadh. Tha an crùban gaolach air iasg ùr, mar is bitheanta sòrnan is fhearr, air neo cudainn. A reir a pailteas air a’ ghrunnd b’e doigh(ch) a b’fhearr far a biodh faochaig pailte gach clach is feamann air neo roc a ghlanadh air fala as do rathad air thaobhs gu faodach leisinn [?] air an togail le’d dha làmh ’s gan cur anns a phail an triseach, sin do’m phoca. Fagaig an sin a fhaochaig, fiasgain ’s fhearr am fasgann dar a bhios i eadar an da luinn dluth air uisge fresh s mur a s bitheanta far am bith iad pailte mar sin gheobh thu pearls annta chionn tha iad nas mutha. ’S doich air a bhairneach darna cuid clach ma dha phùing le oir car giar agus a bualadh a sios a rathad le oir na cloicheadh [?], a bualladh [?] le cabhag. Bu [?] sput fish daonnan a miosg geineich gheal agus far a feic thu i spùtadh tha thu gan grapadh as a gheinich gus a bith do bos agad am breallach air an aon (àn) doigh[.] Tha esan a sputadh cuideach le cabhag a dheanadh tha ga fhaotain[.] Far am bith na cockles pailte tha iad air barr a ghrunnd le muir traigh (Càn a mach). Slige chreachain fheamadh tu a togail far a ghrunnd far a feicedh tu a ach gu math bitheanta tha i ’sa làthaich a bharrachd air a bhith ’s a gheinich[.] Lungaich chi thu uraball air barr na criadh, tha thu ga glaochach [?] mar gum bith [?] buain buntata ’s am piocadh a mach. Se buain lungaich a chanas iad. Feama tu an fheamainn dhubh a ghearradh far na creigeadh le corran. ’S an fhior aire a thuibhairt (a thoirbhairt) gum bith toll taomaich anns a bhata bhios ’ga giùlan[.] An doigh a bh’aig na seanna Ghàidheal b’e basgaid sgadain bhi shios mu dheireadh air urlar a bhàta ma biodh i luchdaichte chionns nach phlod (plod) an fheamainn dhubh[.] Phlodaich gach roc is gach feamann eile gad a bhiodh bata a stealladh dorlach uisge. Fear a bheil faiche ghiomaich na pairce beag de ghaineach air beulaibh an tuil agus dar a dh’itheas e am biadh tha e ’g ithe beagan de’n ghaineach. (tiomalaich [?])</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e200"
+             subtype="h1">3. Beathaichean eile a gheibhear ’sa’ chladach</ab>
+         <entry xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e205">
+            <form>
+               <orth>giomach</orth>
+            </form>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e211">
+            <form>
+               <orth>giomach-ciuil</orth>
+               <pron>[?]</pron>
+            </form>
+            <def>[?] crayfish.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e220">
+            <form>
+               <orth>cruban</orth>
+            </form>
+            <def>(male)</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e229">
+            <form>
+               <orth>partan</orth>
+            </form>
+            <def>(female)</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_TobermoryIRobertsonmaorach-d0e238">
+            <form>
+               <orth>banag</orth>
+            </form>
+            <def>(female)</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

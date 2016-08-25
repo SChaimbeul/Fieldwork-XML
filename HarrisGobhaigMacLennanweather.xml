@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location corresp="Harris_Gobhaig"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self?]</persName>
+        </person>
+        <person role="informant" corresp="A_MacLennan_Harris_Gobhaig"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Weather</term>
+          <term xml:lang="gd">Sìde</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e29">1. General terms</head>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e33">1.1. Good weather</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e38">
+            <form>
+              <orth>side – mhath</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e43">1.2. Bad weather</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e48">
+            <form>
+              <orth>droch – t-side</orth>
+              <pron>[sic]</pron>
+            </form>
+            <def>[sic] </def>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e53">1.3. Temperature</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e58">
+            <form>
+              <orth>teas bruthaineach</orth>
+            </form>
+            <def>sultry.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e67">
+            <form>
+              <orth>fuachd neimheil</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e72">1.4. Dryness, wetness</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e77">
+            <form>
+              <orth>latha na seachd sian</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e83">
+            <form>
+              <orth>teas a sgoiltean na creagan</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e89">
+            <form>
+              <orth>dortadh</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e95">
+            <form>
+              <orth>cuirich</orth>
+            </form>
+            <def>light rain, usually with mist.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e104">
+            <form>
+              <orth>an dile bhaite</orth>
+            </form>
+            <def>very heavy rain.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e113">
+            <form>
+              <orth>tha i taise</orth>
+            </form>
+            <def>moist conditions.</def>
+          </entry>
+        </div>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e121">2. The sky and the weather</head>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e125">2.1. A clear sky by day</head>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e129">2.2. A clear night sky</head>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e133">2.3. A red sky</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e138">
+            <form>
+              <orth>ròs dearg</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e144">
+            <form>
+              <orth>breacadh an rionnaich</orth>
+            </form>
+            <def>a streaky sky with light and dark blue.</def>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e152">2.4. An overcast sky</head>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e156">2.5. Unusual appearance of the moon or the sun</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e161">
+            <form>
+              <orth>buaile mu’n ghealaich</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e167">
+            <form>
+              <orth>gealach fhaobhair = gealach abachaidh</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e172">2.6. The northern lights</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e177">
+            <form>
+              <orth>fir-chlis</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e182">2.7. Stars</head>
+        </div>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e186">3. Clouds</head>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e190">3.1. Light cloud</head>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e194">3.2. Cirrus cloud</head>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e198">3.3. Thick cloud</head>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e202">3.4. Rainbow</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e207">
+            <form>
+              <orth>bogha frois</orth>
+            </form>
+          </entry>
+        </div>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e212">4. Wind</head>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e216">4.1. Dead calm</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e221">
+            <form>
+              <orth>fiath (nan eun)</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e227">
+            <form>
+              <orth>sglog fhiath</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e233">
+            <form>
+              <orth>dubh fhiath</orth>
+            </form>
+            <def>dead calm.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e242">
+            <form>
+              <orth>ciuin</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e247">4.2. Light breeze</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e252">
+            <form>
+              <orth>faiteal</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e258">
+            <form>
+              <orth>oiteag</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e264">
+            <form>
+              <orth>usbag</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e269">4.3. Fresh breeze</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e274">
+            <form>
+              <orth>fionnar</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e280">
+            <form>
+              <orth>sgalach</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e285">4.4. Gusts</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e290">
+            <form>
+              <orth>rasgalach</orth>
+            </form>
+            <def>[?] </def>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e295">4.5. Wind of variable direction</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e300">
+            <form>
+              <orth>ioma ghaoth</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e305">4.6. Strong wind</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e310">
+            <form>
+              <orth>gaoth ladair</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e316">
+            <form>
+              <orth>saireathas</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e321">4.7. Gale</head>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e325">4.8. Hurricane</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e330">
+            <form>
+              <orth>gaillean</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e336">
+            <form>
+              <orth>gailbheach</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e341">4.9. Rising wind</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e346">
+            <form>
+              <orth>a ghaoth a beothachadh</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e351">4.10. Dying wind</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e356">
+            <form>
+              <orth>a ghaoth a sioladh</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e361">4.11. Winds associated with particular seasons of the year</head>
+        </div>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e365">5. Tides</head>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e369">5.1. Flowing</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e374">
+            <form>
+              <orth>lionadh</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e379">5.2. Ebbing</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e384">
+            <form>
+              <orth>trathadh</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e389">5.3. High tide</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e394">
+            <form>
+              <orth>muir lan</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e399">5.4. Low tide</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e404">
+            <form>
+              <orth>muir traigh</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e409">5.5. Spring tide</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e414">
+            <form>
+              <orth>reothart</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e419">5.6. Neap tide</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e424">
+            <form>
+              <orth>canntraigh</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e429">5.7. Turn of the tide</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e434">
+            <form>
+              <orth>tilleadh an làn</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e440">
+            <form>
+              <orth>toiseachd a lionadh</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e446">
+            <form>
+              <orth>seol mara</orth>
+            </form>
+            <def>flowing time of tide.</def>
+          </entry>
+        </div>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e454">6. Weather and the sea</head>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e458">6.1. A calm sea</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e463">
+            <form>
+              <orth>muir air an coisicheadh na cuileagan</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e468">6.2. A light swell</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e473">
+            <form>
+              <orth>tarruing</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e478">6.3. A heavy swell</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e483">
+            <form>
+              <orth>bonn anns a mhuir</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e488">6.4. A choppy sea</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e493">
+            <form>
+              <orth>muir glogach</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e498">6.5. A stormy sea</head>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e502">6.6. Large waves</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e507">
+            <form>
+              <orth>stuagh</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e513">
+            <form>
+              <orth>tuinn</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e518">6.7. Breakers</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e523">
+            <form>
+              <orth>muir bristeach</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e528">6.8. Surf</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e533">
+            <form>
+              <orth>suradh</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e538">6.9. Spindrift</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e543">
+            <form>
+              <orth>marcan sine</orth>
+            </form>
+          </entry>
+        </div>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e548">7. Rain</head>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e552">7.1. Drizzle</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e557">
+            <form>
+              <orth>cuiraich</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e562">7.2. Light shower</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e567">
+            <form>
+              <orth>fras</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e572">7.3. Heavy shower</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e577">
+            <form>
+              <orth>dortadh</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e583">
+            <form>
+              <orth>meall</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e588">7.4. Prolonged rain</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e593">
+            <form>
+              <orth>dile</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e598">7.5. Driving rain</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e603">
+            <form>
+              <orth>sian</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e608">7.6. Getting soaked</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e613">
+            <form>
+              <orth>cho fliuch ri lach</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e619">
+            <form>
+              <orth>druite chun a chraicinn</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e625">
+            <form>
+              <orth>bog bathte</orth>
+            </form>
+          </entry>
+        </div>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e630">8. Mist</head>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e634">8.1. Light mist</head>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e638">8.2. Heavy mist</head>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e642">8.3. Sea mist</head>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e646">8.4. Other terms associated with mist</head>
+        </div>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e650">9. Thunder and lightning</head>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e654">9.1. Thunder</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e659">
+            <form>
+              <orth>tairneanaich</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e665">
+            <form>
+              <orth>torrain</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e670">9.2. Lightning</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e675">
+            <form>
+              <orth>dealanaich</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e681">
+            <form>
+              <orth>teine adhair</orth>
+            </form>
+          </entry>
+        </div>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e686">10. Snow and hail</head>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e690">10.1. Snowflakes</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e695">
+            <form>
+              <orth>bleideag</orth>
+            </form>
+            <def>large.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e704">
+            <form>
+              <orth>spiondagan</orth>
+            </form>
+            <def>small.</def>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e712">10.2. Sleet</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e717">
+            <form>
+              <orth>flin</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e722">10.3. Types of snow</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e727">
+            <form>
+              <orth>slib-sneachda</orth>
+            </form>
+            <def>wet.</def>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e735">10.4. Driving snow</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e740">
+            <form>
+              <orth>cabhagh</orth>
+              <pron>[sic]</pron>
+            </form>
+            <def>[sic] </def>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e745">10.5. Heavy fall</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e750">
+            <form>
+              <orth>cur sneachda</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e755">10.6. Snowdrifts</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e760">
+            <form>
+              <orth>cith</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e765">10.7. A few flakes floating in the wind</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e770">
+            <form>
+              <orth>spiondagan sneachd</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e775">10.8. Snowman and rolled ball of snow</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e780">
+            <form>
+              <orth>bodach sneachd</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e786">
+            <form>
+              <orth>cnapan sneachd</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e791">10.9. Hailstones</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e796">
+            <form>
+              <orth>clachan meallain</orth>
+            </form>
+          </entry>
+        </div>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e801">11. Frost</head>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e806">
+          <form>
+            <orth>reothadh</orth>
+          </form>
+        </entry>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e811">11.1. Hoarfrost</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e816">
+            <form>
+              <orth>liath reothadh</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e821">11.2. Hard frost</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e826">
+            <form>
+              <orth>reothadh cruaidh</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e831">11.3. Ice</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e836">
+            <form>
+              <orth>deigh</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e842">
+            <form>
+              <orth>an reothadh dubh</orth>
+            </form>
+            <def>black ice on roads.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e851">
+            <form>
+              <orth>strupain</orth>
+            </form>
+            <def>icicles.</def>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e859">11.4. Thaw</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e864">
+            <form>
+              <orth>eiteamh</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e870">
+            <form>
+              <orth>an t-achadh dubh ann</orth>
+            </form>
+          </entry>
+        </div>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e875">12. Signs foretelling weather</head>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e879">12.1. Foretelling good weather</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e884">
+            <form>
+              <orth>ros dearg ’san fheasgar</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e890">
+            <form>
+              <orth>toit na mara</orth>
+            </form>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e895">12.2. Foretelling bad weather</head>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e900">
+            <form>
+              <orth>breacadh an rionnaich</orth>
+            </form>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e906">
+            <form>
+              <orth>seinn na learg</orth>
+            </form>
+            <def> – uisge.</def>
+          </entry>
+          <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e915">
+            <form>
+              <orth>ealaichean air na lochan</orth>
+            </form>
+            <def> – fuachd.</def>
+          </entry>
+        </div>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-d0e923">13. General sayings or proverbs connected with the weather</head>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-idola127">
+          <form>
+            <orth>[fead]</orth>
+          </form>
+          <def>Chan e fead a bhainne tha muigh.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-idola128">
+          <form>
+            <orth>[feath]</orth>
+          </form>
+          <def>Chan ann bho’n fheath tha’n usbag.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-idola129">
+          <form>
+            <orth>[gaoth]</orth>
+          </form>
+          <def>Gaoth tuath fuachd is gaillean. Gaoth ’n iar iasg is bainne. Gaoth deas meas air chrannaibh. Gaoth n-ear teas is torradh.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-idola130">
+          <form>
+            <orth>[earrach]</orth>
+          </form>
+          <def>Ceann còin air madainn earraich.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-idola131">
+          <form>
+            <orth>[Di-haoine]</orth>
+          </form>
+          <def>Di-haoine an aghaidh na seachdainn ’s Di-sathuirne leis an t-side.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-idola132">
+          <form>
+            <orth>[ribhinn]</orth>
+          </form>
+          <def>Gu cinnteach air latha Gill Bride thig an ribhinn as an toll.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanweather-idola133">
+          <form>
+            <orth>[feath]</orth>
+          </form>
+          <def>Feath faoillich [?] mar gaol ribhinn.</def>
+        </entry>
+      </div>
+    </body>
+  </text>
+</TEI>

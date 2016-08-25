@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="list_of_places">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Title</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listPlace>
+        <place xml:id="Harris">
+          <placeName xml:lang="en">Harris</placeName>
+          <placeName>Na Hearadh</placeName>
+          <place xml:id="North_Harris">
+            <placeName xml:lang="en">North Harris</placeName>
+            <place xml:id="Harris_Gobhaig">
+              <placeName xml:lang="en">Govaig</placeName>
+              <placeName>Gòbhaig</placeName>
+              <location>
+                <geo>57.971639 -7.065223</geo>
+              </location>
+            </place>
+            <place xml:id="Harris_Ardhasaig">
+              <placeName>Ardhasaig</placeName>
+              <location>
+                <geo>57.817662 -6.968475</geo>
+              </location>
+            </place>
+            <place xml:id="Harris_Maaruig">
+              <placeName>Maaruig</placeName>
+              <location>
+                <geo>57.955696 -6.765444</geo>
+              </location>
+            </place>
+          </place>
+          <place xml:id="Harris_Tarbert">
+            <placeName xml:lang="en">Tarbert</placeName>
+            <location>
+              <geo>57.817662 -6.968475</geo>
+            </location>
+          </place>
+          <place xml:id="South_Harris">
+            <placeName xml:lang="en">South Harris</placeName>
+            <place xml:id="Harris_Ardvey">
+              <placeName>Ardvey</placeName>
+              <location>
+                <geo>57.778583 -6.926751</geo>
+              </location>
+            </place>
+            <place xml:id="Harris_Borrisdale">
+              <placeName xml:lang="en">Borrisdale</placeName>
+              <location>
+                <geo>57.745333 -6.989923</geo>
+              </location>
+            </place>
+            <place xml:id="Harris_Cluer">
+              <placeName>Cluer</placeName>
+              <location>
+                <geo>57.816139 -6.817149</geo>
+              </location>
+            </place>
+            <place xml:id="Harris_Kyles_Stockinish">
+              <placeName xml:lang="en">Kyles Stockinish</placeName>
+              <location>
+                <geo>57.817662 -6.968475</geo>
+              </location>
+            </place>
+            <place xml:id="Harris_Quidinish">
+              <placeName xml:lang="en">Quidinish</placeName>
+              <location>
+                <geo>57.779101 -6.907736</geo>
+              </location>
+            </place>
+            <place xml:id="Harris_Finsbay">
+              <placeName xml:lang="en">Finsbay</placeName>
+              <location>
+                <geo>57.817662 -6.968475</geo>
+              </location>
+            </place>
+            <place xml:id="Harris_Rodel">
+              <placeName>Rodel</placeName>
+              <location>
+                <geo>57.744527 -6.976321</geo>
+              </location>
+            </place>
+            <place xml:id="Harris_Horgabost">
+              <placeName>Horgabost</placeName>
+              <location>
+                <geo>57.861355 -6.980972</geo>
+              </location>
+            </place>
+            <place xml:id="Harris_Leverburgh">
+              <placeName xml:lang="en">Leverburgh</placeName>
+              <placeName>An t-Òb</placeName>
+              <location>
+                <geo>57.817662 -6.968475</geo>
+              </location>
+              <place xml:id="Harris_Leverburgh_Kintulavaig">
+                <placeName xml:lang="en">Kintulavaig</placeName>
+              </place>
+            </place>
+            <place xml:id="Harris_Scarista_Post_Office">
+              <placeName xml:lang="en">Scarista Post Office</placeName>
+              <location>
+                <geo>57.831693 -7.036296</geo>
+              </location>
+            </place>
+            <place xml:id="Harris_Sgarastamhor">
+              <placeName>Sgarastamhor</placeName>
+              <location>
+                <geo>57.826468 -7.050977</geo>
+              </location>
+            </place>
+            <place xml:id="Harris_Seilebost">
+              <placeName>Seilebost</placeName>
+              <location>
+                <geo>57.863869 -7.019270</geo>
+              </location>
+            </place>
+            <place xml:id="Harris_Taransay">
+              <placeName xml:lang="en">Taransay</placeName>
+              <location>
+                <geo>57.898567 -7.072051</geo>
+              </location>
+            </place>
+
+
+          </place>
+        </place>
+      </listPlace>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="CattleandSheep_TainDFrasersheep">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Tain</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>Eachann MacChoinnich [Hector MacKenzie] [and self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Donald Fraser</persName>
+               <persName xml:lang="gd">Domhnal Friseal</persName>
+               <age>60</age>
+               <birth>
+                  <placeName>Geàrrloch [Gairloch]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Sheep</term>
+               <term xml:lang="gd">Caoraich</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasersheep-d0e32"
+             subtype="h1">1. Different stages in the growth of sheep (female)</ab>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasersheep-d0e36"
+             subtype="h2">female</ab>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e41">
+            <form>
+               <orth>uan boireann</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e47">
+            <form>
+               <orth>oisg bhoireann</orth>
+            </form>
+            <def>1st shear.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e56">
+            <form>
+               <orth>dianag</orth>
+            </form>
+            <def>2nd shear.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e65">
+            <form>
+               <orth>caora</orth>
+            </form>
+            <def>sheep.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e74">
+            <form>
+               <orth>caora sheasg</orth>
+            </form>
+            <def>eild sheep.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e83">
+            <form>
+               <orth>croca</orth>
+            </form>
+            <def>cast ewe.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasersheep-d0e91"
+             subtype="h2">male</ab>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e96">
+            <form>
+               <orth>uan fiorean</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e102">
+            <form>
+               <orth>uan reithe</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e108">
+            <form>
+               <orth>oisg fhiorean</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e114">
+            <form>
+               <orth>reithe</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e120">
+            <form>
+               <orth>molt</orth>
+            </form>
+            <def>castrated.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e129">
+            <form>
+               <orth>da bhliadhnach muilt</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e135">
+            <form>
+               <orth>tri bhliadhnach muilt</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasersheep-d0e140"
+             subtype="h1">2. Different stages in the growth of sheep (male)</ab>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e145">
+            <form>
+               <orth>uan</orth>
+            </form>
+            <def>lamb.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e154">
+            <form>
+               <orth>uan reithe</orth>
+            </form>
+            <def>lamb ram.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e163">
+            <form>
+               <orth>oisg reithe</orth>
+            </form>
+            <def>1st shear ram.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e172">
+            <form>
+               <orth>ath oisg</orth>
+            </form>
+            <def>between 1st and 2nd shearing.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e181">
+            <form>
+               <orth>reithe</orth>
+            </form>
+            <def>ram.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasersheep-d0e189"
+             subtype="h1">3. Different stages in the growth of the castrated male</ab>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e194">
+            <form>
+               <orth>uan</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e200">
+            <form>
+               <orth>oisg</orth>
+            </form>
+            <def>hogg, 1st shear.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e209">
+            <form>
+               <orth>ath oisg</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e215">
+            <form>
+               <orth>molt</orth>
+            </form>
+            <def>da bhliadhnach: 2nd shear. tri bhliadhnach: 3rd shear.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasersheep-d0e223"
+             subtype="h1">4. Sheep’s appearance</ab>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e228">
+            <form>
+               <orth>caora bhreac</orth>
+            </form>
+            <def>speckled [sheep].</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e237">
+            <form>
+               <orth>caora bhàn</orth>
+            </form>
+            <def>white-faced sheep.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e246">
+            <form>
+               <orth>caora dhubh cheannach</orth>
+            </form>
+            <def>black-faced sheep.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e255">
+            <form>
+               <orth>caora gheal</orth>
+            </form>
+            <def>undipped [sheep].</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e264">
+            <form>
+               <orth>caora mhaol</orth>
+            </form>
+            <def>sheep with no horns.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e273">
+            <form>
+               <orth>ceann trom</orth>
+            </form>
+            <def>large-horned.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e282">
+            <form>
+               <orth>caora reamhar</orth>
+            </form>
+            <def>fat sheep.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasersheep-d0e290"
+             subtype="h1">5. Miscellaneous</ab>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e295">
+            <form>
+               <orth>rùd</orth>
+            </form>
+            <def>partly castrated ram.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasersheep-d0e303"
+             subtype="h1">6. Feeding and grazing</ab>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasersheep-d0e307"
+             subtype="h1">7. Handling of sheep</ab>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e312">
+            <form>
+               <orth>cuir ri feur</orth>
+            </form>
+            <def>drive out to grass.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e321">
+            <form>
+               <orth>toirt dhachaidh</orth>
+            </form>
+            <def>bringing sheep home.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e330">
+            <form>
+               <orth>fangadh</orth>
+            </form>
+            <def>fank.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e339">
+            <form>
+               <orth>gepean</orth>
+               <pron>[?]</pron>
+            </form>
+            <def>[?] small flock.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e348">
+            <form>
+               <orth>fang ghlacaidh</orth>
+            </form>
+            <def>catching fank.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasersheep-d0e356"
+             subtype="h1">8. Apparatus</ab>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasersheep-d0e360"
+             subtype="h1">9. Diseases</ab>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasersheep-d0e364"
+             subtype="h1">10. Parts of the body</ab>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-idola92">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>as in cattle. [NOTES: the following list copied from Mr Fraser’s ‘cattle’ questionnaire.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e378">
+            <form>
+               <orth>ceann</orth>
+            </form>
+            <def>head.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e387">
+            <form>
+               <orth>amhaich</orth>
+            </form>
+            <def>neck.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e396">
+            <form>
+               <orth>adharcean</orth>
+            </form>
+            <def>horns.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e405">
+            <form>
+               <orth>bathais</orth>
+            </form>
+            <def>forehead.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e414">
+            <form>
+               <orth>calg</orth>
+            </form>
+            <def>hair.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e423">
+            <form>
+               <orth>seiche</orth>
+            </form>
+            <def>hide.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e432">
+            <form>
+               <orth>gualain</orth>
+            </form>
+            <def>shoulder.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e441">
+            <form>
+               <orth>broileach</orth>
+            </form>
+            <def>breast.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e450">
+            <form>
+               <orth>caisean-uchd</orth>
+            </form>
+            <def>breast.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e459">
+            <form>
+               <orth>cnamh droma</orth>
+            </form>
+            <def>back bone.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e468">
+            <form>
+               <orth>cridhe</orth>
+            </form>
+            <def>heart.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e477">
+            <form>
+               <orth>cuisein</orth>
+            </form>
+            <def>artery.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e486">
+            <form>
+               <orth>fuil</orth>
+            </form>
+            <def>blood.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e495">
+            <form>
+               <orth>sgamhan</orth>
+            </form>
+            <def>lungs.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e504">
+            <form>
+               <orth>feith-direach</orth>
+            </form>
+            <def>windpipe.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e513">
+            <form>
+               <orth>grudhan</orth>
+            </form>
+            <def>liver.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e522">
+            <form>
+               <orth>airnean</orth>
+            </form>
+            <def>kidney.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e531">
+            <form>
+               <orth>luch-bhlian</orth>
+            </form>
+            <def>spleen.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e540">
+            <form>
+               <orth>domb-gall</orth>
+            </form>
+            <def>bladder.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e549">
+            <form>
+               <orth>maodal</orth>
+            </form>
+            <def>stomach.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e558">
+            <form>
+               <orth>caolan</orth>
+            </form>
+            <def>colon.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e567">
+            <form>
+               <orth>tanaidh</orth>
+            </form>
+            <def>fat.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasersheep-d0e575"
+             subtype="h1">11. Lambing</ab>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e580">
+            <form>
+               <orth>breith uan</orth>
+            </form>
+            <def>lambing.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e589">
+            <form>
+               <orth>cuir ri reithe</orth>
+            </form>
+            <def>put to ram.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e598">
+            <form>
+               <orth>salchair</orth>
+            </form>
+            <def>afterbirth.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_TainDFrasersheep-d0e606"
+             subtype="h1">12. Miscellaneous</ab>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e611">
+            <form>
+               <orth>bun earbuill</orth>
+            </form>
+            <def>tail stump.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_TainDFrasersheep-d0e620">
+            <form>
+               <orth>caora chlamhach</orth>
+            </form>
+            <def>scabby sheep.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Ecclesiastical_PirnmillDCurrieeccles">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Arran, Pirnmill</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Donald Currie</persName>
+               <age>72</age>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Ecclesiastical Terms</term>
+               <term xml:lang="gd">An Eaglais</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e26"
+             subtype="h1">1. Various denominations</ab>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e31">
+            <form>
+               <orth>An Eaglais Shuidhichte na Eaglais na h-Alba</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e37">
+            <form>
+               <orth>An Eaglais Shaor</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e43">
+            <form>
+               <orth>An Eaglais Shaor Aonaichte</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e48"
+             subtype="h1">2. Member of each of these denominations</ab>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e53">
+            <form>
+               <orth>fear leanmhainn</orth>
+            </form>
+            <def>adherent.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e62">
+            <form>
+               <orth>Ball do’n Eaglais</orth>
+            </form>
+            <def>member.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e71">
+            <form>
+               <orth>fear aidich</orth>
+            </form>
+            <def>member.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e79"
+             subtype="h1">3. Different courts of the Presbyterian churches</ab>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e84">
+            <form>
+               <orth>cuirt nan dacoin na cuirt nam foirfeach</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e90">
+            <form>
+               <orth>cuirt an t-seasoin</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e96">
+            <form>
+               <orth>cleir</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e101"
+             subtype="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</ab>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e106">
+            <form>
+               <orth>ministear na teachdaire</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e112">
+            <form>
+               <orth>teachdaire na ministear-shiubhail</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e118">
+            <form>
+               <orth>eildeir na foirbhich</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e124">
+            <form>
+               <orth>foirfeach na deadhan</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e130">
+            <form>
+               <orth>fear teagasg</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e136">
+            <form>
+               <orth>cleireach an t-seasoin</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e142">
+            <form>
+               <orth>fear-coimhead ionmhais an t-seasoin na ionmhasair a choimh-thionail</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e148">
+            <form>
+               <orth>maor eaglais</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e153"
+             subtype="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</ab>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-idola104">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>(Not answered.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e166"
+             subtype="h1">6. Holy Orders within the Roman Catholic church</ab>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-idola105">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>(Not answered.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e179"
+             subtype="h1">7. Articles of dress or adornment</ab>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-idola106">
+            <form>
+               <orth>[faillinn, coileir, bann]</orth>
+            </form>
+            <def>Ministers of the Protestant Churches wear a ‘faillinn’ (robe) and ‘coileir’ in reverse to ordinary collars with the stud at the back. The minister’s tie, ‘bann’, is of white linen.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e193">
+            <form>
+               <orth>[faillinn]</orth>
+               <pron>[robe worn by ministers of the Protestant churches.]</pron>
+            </form>
+            <def>[robe worn by ministers of the Protestant churches.]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e202">
+            <form>
+               <orth>[coileir]</orth>
+               <pron>[collar worn by ministers of the Protestant churches; it is worn in reverse to ordinary collars with the stud at the back.]</pron>
+            </form>
+            <def>[collar worn by ministers of the Protestant churches; it is worn in reverse to ordinary collars with the stud at the back.]</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e211">
+            <form>
+               <orth>[bann]</orth>
+               <pron>[the minister’s tie, of white linen.]</pron>
+            </form>
+            <def>[the minister’s tie, of white linen.]</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e219"
+             subtype="h1">8. Church building and churchyard</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e223"
+             subtype="h1">9. Church furniture and ornaments</ab>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e228">
+            <form>
+               <orth>altair</orth>
+            </form>
+            <def>altar.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e237">
+            <form>
+               <orth>crom-leac</orth>
+            </form>
+            <def>altar.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e246">
+            <form>
+               <orth>cùbaid</orth>
+            </form>
+            <def>pulpit.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e255">
+            <form>
+               <orth>crannag</orth>
+            </form>
+            <def>pulpit.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e264">
+            <form>
+               <orth>cuach-baisteadh</orth>
+            </form>
+            <def>baptismal font.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e273">
+            <form>
+               <orth>suidheachain</orth>
+            </form>
+            <def>seats.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e282">
+            <form>
+               <orth>suidheachan na’n Eildeiran</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e288">
+            <form>
+               <orth>sasagan</orth>
+            </form>
+            <def>cushions.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e297">
+            <form>
+               <orth>pilleanan</orth>
+            </form>
+            <def>cushions.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e306">
+            <form>
+               <orth>truinnsear togail an tabhairtas</orth>
+            </form>
+            <def>collection plate.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e315">
+            <form>
+               <orth>coilleiran</orth>
+            </form>
+            <def>candlesticks.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e324">
+            <form>
+               <orth>iomhaighean</orth>
+            </form>
+            <def>statues.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e332"
+             subtype="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</ab>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e337">
+            <form>
+               <orth>coinneamh urnuigh</orth>
+            </form>
+            <def>weekly meeting.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e346">
+            <form>
+               <orth>coinneamh sheachdainn</orth>
+            </form>
+            <def>weekly meeting.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e355">
+            <form>
+               <orth>coinneamh ràithe</orth>
+            </form>
+            <def>quarterly meeting.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e363"
+             subtype="h2">Special services</ab>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e368">
+            <form>
+               <orth>Latha an Trasgadh</orth>
+            </form>
+            <def>Fast Day service.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e377">
+            <form>
+               <orth>Latha na Ceist</orth>
+            </form>
+            <def>Question Day.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e386">
+            <form>
+               <orth>Latha nam Bodach</orth>
+            </form>
+            <def>Question Day.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e394"
+             subtype="h2">Sacraments</ab>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e399">
+            <form>
+               <orth>Sacramaid Bord an Tighearna</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e405">
+            <form>
+               <orth>urnaighean</orth>
+            </form>
+            <def>prayers.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e414">
+            <form>
+               <orth>seinn nan salm</orth>
+            </form>
+            <def>praise.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e423">
+            <form>
+               <orth>searmoinan na teagasg</orth>
+            </form>
+            <def>sermons.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e432">
+            <form>
+               <orth>an tabhairtas</orth>
+            </form>
+            <def>collection.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e441">
+            <form>
+               <orth>sgoil-Shabaid</orth>
+            </form>
+            <def>Sunday school.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e450">
+            <form>
+               <orth>coinneamhan tighe</orth>
+            </form>
+            <def>house meetings.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e458"
+             subtype="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</ab>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e463">
+            <form>
+               <orth>Dia</orth>
+            </form>
+            <def>God.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e472">
+            <form>
+               <orth>Cruithear</orth>
+            </form>
+            <def>God.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e481">
+            <form>
+               <orth>Ar n’ Athair air Neamh</orth>
+            </form>
+            <def>God.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e490">
+            <form>
+               <orth>An Tighearna</orth>
+            </form>
+            <def>The Lord.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e499">
+            <form>
+               <orth>Iosa Chriosda</orth>
+            </form>
+            <def>Jesus Christ.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e508">
+            <form>
+               <orth>An Slanaighear</orth>
+            </form>
+            <def>Jesus Christ.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e517">
+            <form>
+               <orth>Mac Dhe</orth>
+            </form>
+            <def>Jesus Christ.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e526">
+            <form>
+               <orth>Am Fear Saoraidh</orth>
+            </form>
+            <def>Jesus Christ.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e535">
+            <form>
+               <orth>An Spiorad Naomha</orth>
+            </form>
+            <def>The Holy Ghost.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e544">
+            <form>
+               <orth>An Oigh Bheannaichte Moire</orth>
+            </form>
+            <def>The Blessed Virgin.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e553">
+            <form>
+               <orth>Mathair an Tighearna Iosa Chriosda</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e559">
+            <form>
+               <orth>na h-aingealan</orth>
+            </form>
+            <def>the angels.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e568">
+            <form>
+               <orth>na h-abstoil</orth>
+            </form>
+            <def>the apostles.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e577">
+            <form>
+               <orth>Neamh</orth>
+            </form>
+            <def>Heaven.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e586">
+            <form>
+               <orth>An Soisgeul</orth>
+            </form>
+            <def>the Gospel.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e595">
+            <form>
+               <orth>Urnaigh an Tighearna</orth>
+            </form>
+            <def>The Lord’s Prayer.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e604">
+            <form>
+               <orth>guidhe, iarrtus</orth>
+            </form>
+            <def>other prayers.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e612"
+             subtype="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</ab>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e617">
+            <form>
+               <orth>Sàtan</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e626">
+            <form>
+               <orth>an diabhol</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e635">
+            <form>
+               <orth>an donas</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e644">
+            <form>
+               <orth>an dolas</orth>
+            </form>
+            <def>Satan.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e653">
+            <form>
+               <orth>Ifrinn</orth>
+            </form>
+            <def>Hell.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e662">
+            <form>
+               <orth>Iutharn</orth>
+            </form>
+            <def>Hell.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Slips_NorthUistDRMacDonaldslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1980</date>
+            <location>
+               <placeName>North Uist</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>D. R. MacDonald</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_NorthUistDRMacDonaldslips-idp115490976">
+            <form>
+               <orth>pasaidh</orth>
+            </form>
+            <def>Notes: basin.</def>
+         </entry>
+         <entry xml:id="Slips_NorthUistDRMacDonaldslips-idp115471032">
+            <form>
+               <orth>còmhla-bhigein</orth>
+            </form>
+            <def>Notes: board for trapping birds – held on stick, stick pulled by string when birds had gone underneath board for seed.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

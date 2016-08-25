@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AJSmith_Harrismiscellaneousmisc_D_MacLeod_Ardhasaig">
+  <!-- Excerpt from original file AJSmith_Harrismiscellaneousmisc -->
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>July 1972</date>
+        <location corresp="Harris_Ardhasaig"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="A_J_Smith"/>
+        <person role="informant" corresp="D_MacLeod_Ardhasaig"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Miscellaneous</term>
+          <term xml:lang="gd">Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37612744">
+        <form>
+          <orth>omhan</orth>
+          <pron>[ɔ̃hɔ̃n̪]</pron>
+        </form>
+        <def>[ɔ̃hɔ̃n̪] Note: whey whipped up till it foamed.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37616776">
+        <form>
+          <orth>bac-chliabh</orth>
+          <pron>[bɑxkləv]</pron>
+        </form>
+        <def>[bɑxkləv] Note: a child’s creel.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37682440">
+        <form>
+          <orth>àtha-cheilpeadh</orth>
+        </form>
+        <def>Note: kelp kiln.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37653712">
+        <form>
+          <orth>leig</orth>
+        </form>
+        <def>Quot.: a’ leigeil fiodh na chéile. Note: splicing wood.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37677040">
+        <form>
+          <orth>snaidhm-cruaidhmean</orth>
+          <pron>[sn̪ɑmkɾu̟ɤmɑṉ]</pron>
+        </form>
+        <def>[sn̪ɑmkɾu̟ɤmɑṉ] Note: granny knot.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37658176">
+        <form>
+          <orth>urchair</orth>
+        </form>
+        <def>Note: shot in weaving.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37617424">
+        <form>
+          <orth>mill-eàrraidh</orth>
+          <pron>[mĩlʹɑ:ɾi]</pron>
+        </form>
+        <def>[mĩlʹɑ:ɾi] Note: two pieces of wood separate but tied together with string, can be arched at the point where string is attached, the nails at each end put through edges of cloth in loom,
+          then pieces of wood flattened. To keep cloth stretched. “Mìr-earraidh” in S. Lochs.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37713760">
+        <form>
+          <orth>teannachadh</orth>
+        </form>
+        <def>Quot.: an teannachadh. Note: the tension in the cloth when weaving.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37683448">
+        <form>
+          <orth>casachan</orth>
+        </form>
+        <def>Quot.: na casachain ìseal; na casachain àrd. Note: (1) the lower pedals working the heddles in a loom. (2) the arms working the heddles from above.</def>
+      </entry>
+      <entry xml:id="AJSmith_Harrismiscellaneousmisc-idm37632256">
+        <form>
+          <orth>cliath</orth>
+          <pron>[kliɤ]</pron>
+        </form>
+        <def>[kliɤ] Quot.: “Dean cliathan beag.” Note: in weaving, the amount of cloth woven at the one time without releasing the tension and pulling the cloth back to allow room for the sley-board
+          to go back and fore.</def>
+      </entry>
+    </body>
+  </text>
+</TEI>

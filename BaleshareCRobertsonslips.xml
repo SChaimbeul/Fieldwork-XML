@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BaleshareCRobertsonslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>02/1969</date>
+            <location>
+               <placeName>North Uist, Baleshare</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Calum Robertson</persName>
+               <age>c. 80</age>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_BaleshareCRobertsonslips-idp161820792">
+            <form>
+               <orth>lobhta</orth>
+               <pron>[ɫɔtə]</pron>
+            </form>
+            <def>[ɫɔtə] Notes: a wooden floor.</def>
+         </entry>
+         <entry xml:id="Slips_BaleshareCRobertsonslips-idp161834976">
+            <form>
+               <orth>muileann</orth>
+            </form>
+            <def>Quotation: muileann gaoitheadh. Notes: windmill. (Pl. na muiltean.)</def>
+         </entry>
+         <entry xml:id="Slips_BaleshareCRobertsonslips-idp161836632">
+            <form>
+               <orth>roid</orth>
+               <pron>[rɔdʹ]</pron>
+            </form>
+            <def>[rɔdʹ] Quotation: roid eòrna. Notes: a barley sheaf with two bands.</def>
+         </entry>
+         <entry xml:id="Slips_BaleshareCRobertsonslips-idp161838504">
+            <form>
+               <orth>iullann</orth>
+               <pron>[ju̜ɫən̪]</pron>
+            </form>
+            <def>[ju̜ɫən̪] Notes: a stackyard.</def>
+         </entry>
+         <entry xml:id="Slips_BaleshareCRobertsonslips-idp161840232">
+            <form>
+               <orth>òpair</orth>
+               <pron>[ɔ:pəɾ]</pron>
+            </form>
+            <def>[ɔ:pəɾ] Notes: the mill hopper.</def>
+         </entry>
+         <entry xml:id="Slips_BaleshareCRobertsonslips-idp161841960">
+            <form>
+               <orth>stràc</orth>
+               <pron>[st̪ɾɑ:xk]</pron>
+            </form>
+            <def>[st̪ɾɑ:xk] Quotation: stràc spealadh. Notes: swathe.</def>
+         </entry>
+         <entry xml:id="Slips_BaleshareCRobertsonslips-idp161843832">
+            <form>
+               <orth>as-bhuain</orth>
+            </form>
+            <def>Notes: stubble.</def>
+         </entry>
+         <entry xml:id="Slips_BaleshareCRobertsonslips-idp161845344">
+            <form>
+               <orth>brist</orth>
+            </form>
+            <def>Quotation: a’ bristeadh as. Notes: just when the ears of corn or barley appear.</def>
+         </entry>
+         <entry xml:id="Slips_BaleshareCRobertsonslips-idp161847000">
+            <form>
+               <orth>dlòth</orth>
+               <pron>[d̪ɫɔ:]</pron>
+            </form>
+            <def>[d̪ɫɔ:] Notes: bunch cut by a sweep of the “corran”. Handful.</def>
+         </entry>
+         <entry xml:id="Slips_BaleshareCRobertsonslips-idp161848800">
+            <form>
+               <orth>gaoth</orth>
+            </form>
+            <def>Quotation: muilleann gaoitheadh.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

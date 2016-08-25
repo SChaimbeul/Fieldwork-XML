@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AOHenley_ClarkstonRMacNeilmisc">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[1987-88]</date>
+            <location>
+               <placeName>[Glasgow], Clarkston</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>A. O’Henley</persName>
+            </person>
+            <person role="informant">
+               <persName>Roderick MacNeil</persName>
+               <age>[69]</age>
+               <birth>
+                  <placeName>[Barra]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilmisc-idm113016">
+            <form>
+               <orth>roid</orth>
+            </form>
+            <def>bog myrtle. Soaked in hot water and used as a laxative.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilmisc-idm115680">
+            <form>
+               <orth>trì-bhilleach</orth>
+            </form>
+            <def>not sure of English term but the plant had three leaves. This was boiled and given to cows near calving time. A laxative for animals.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilmisc-idm119424">
+            <form>
+               <orth>stiùrag</orth>
+            </form>
+            <def>a drink used to quench thirst, consisting of oatmeal, water or milk.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilmisc-idm155712">
+            <form>
+               <orth>fuarag</orth>
+            </form>
+            <def>given to children at Halloween. Consisted of cream and oatmeal. The last treat of the year since cream would not be readily available thereafter.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilmisc-idm157224">
+            <form>
+               <orth>carraigeann</orth>
+            </form>
+            <def>found on rocks at low tide. Used to make a sort of pudding which was said to be replenishing.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilmisc-idm163992">
+            <form>
+               <orth>duillisg</orth>
+            </form>
+            <def>bits of seaweed found on tangles.</def>
+         </entry>
+         <entry xml:id="AOHenley_ClarkstonRMacNeilmisc-idp109470104">
+            <form>
+               <orth>millearach</orth>
+            </form>
+            <def>does not know English equivalent. This substance used to come ashore, and was used as a substitute for straw, especially in mattresses. Stringy, dry substance.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

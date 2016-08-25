@@ -1,0 +1,1420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="DRMorrison_ScalpayDRMorrison2medplants">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[?]</date>
+            <location>
+               <placeName>Harris, Scalpay</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName/>
+               <age>[?]</age>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Medicinal Plants</term>
+               <term xml:lang="gd">Blàthan-Leighis</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e29"
+             subtype="h1">A. Plant medicines</ab>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e35"
+             subtype="h2">1. Diseases in the head area</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idola275">
+            <form>
+               <orth>[headache]</orth>
+            </form>
+            <def>Headache – crystals of salt, the steam of them inhaled.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116358328">
+            <form>
+               <orth>uninean</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] Onion. Disease: sore throat (amhaich ghoirt). Part used: the lot, peeled and
+        broken up, and put in boiling water in a bowl and the steam coming off it inhaled. Inhaling –
+        am bial fosgailte os cionn uinnean ann am burn goileach. How prepared: boiled, infused –
+        could be used likewise, ground up as a poultice – not necessary). Sources of information: my
+        mother.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116363080">
+            <form>
+               <orth>craobh gharabhaigs (Harris)</orth>
+            </form>
+            <def>(Sprig of a) rowan tree. Also termed in Gaelic as undernoted – craobh chaorunn
+        (?). Disease: earache (greim cluaise – ola chroinn, ola theth), eye-diseases (gulamail –
+        incantation in some cases (cure)). Part used: ** To keep evil influences (as a charm) from
+        the door, a spring [sic] [sprig?] set in a cow’s tail did the job likewise to prevent the
+        cow coming under the spell of evil. Sources of information: my mother. ** traditional noted
+        by Martin Martin (?), etc.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e68"
+             subtype="h3">Noted as glossary I</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116337520">
+            <form>
+               <orth>arbhar-froisidh</orth>
+            </form>
+            <def>seedless corn.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116336008">
+            <form>
+               <orth>arbhar-buailte</orth>
+            </form>
+            <def>beaten corn. Some used to pour hot water on it to help as a ‘beverage-moistening’
+        effect.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116334352">
+            <form>
+               <orth>lus-na-Frainge</orth>
+            </form>
+            <def>French weed. Were hung in a place where flies congregated, thus potentially
+        deterrent.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116332840">
+            <form>
+               <orth>gruaigean</orth>
+            </form>
+            <def>eatable seaweed (Harris). With vitamins of the iodoine [sic] [iodine?], helpful
+        as a body-builder.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116331328">
+            <form>
+               <orth>mircean</orth>
+               <pron>[See gruaigean.]</pron>
+            </form>
+            <def>[See gruaigean.]</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116329816">
+            <form>
+               <orth>faochagan</orth>
+            </form>
+            <def>whelks. Faochagan dubha ’s faochagan geala in particular, was [sic] known for
+        their medicinal attributes.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116328160">
+            <form>
+               <orth>crotul</orth>
+            </form>
+            <def>lichen. Crotul-coille neo crotul nan creag was associated with ill-luck when in
+        the form of knitwear. A [sic] crotul-coloured socks on a person going to sea meant ill-luck,
+        pointing to ‘crotul nan creag’ in particular.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116326936">
+            <form>
+               <orth>teàrr-an-fhiodh</orth>
+            </form>
+            <def>archangel tar was used as an ointment for strains, sprains relative to
+        cattle.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116325424">
+            <form>
+               <orth>fliodh</orth>
+            </form>
+            <def>it grows in potatoes and corn, thickly in potato lazy-beds with emerald leaves,
+        perhaps lighter than emerald leaves with pinkish small flower. ‘Fliodh-a-bhuntàta’, given to
+        cattle for food, not for medicinal factors, purposely.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e155"
+             subtype="h2">2. Respiratory diseases</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116323336">
+            <form>
+               <orth>fuil na bothaig</orth>
+            </form>
+            <def>Na bothaig neo na bothaig mhara (not a plant of course) – blood of the lark or
+        sea-lark being taken. Disease: asthma (sac, caoidh). Part used / How prepared: le [?] small
+        quantities, in drops I would imagine… Drinking some of it, a little now and again, I
+        presume. Sources of information: traditionally.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116320672">
+            <form>
+               <orth>stiùrag</orth>
+            </form>
+            <def>Gruel. Disease: colds. Also: beaten eggs with rum for colds. Part used / How
+        prepared: Taken in hot water – it was or is oatmeal mixed in water infused of a thinly
+        composition and drunk. Drinking some of it, a little now and again, I presume. Sources of
+        information: traditionally.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e179"
+             subtype="h3">Noted as glossary II</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116317720">
+            <form>
+               <orth>stiom-fhuail</orth>
+            </form>
+            <def>incantation method of a cure for cattle. (Bhithte cur snàth timchioll oirre ’s a’
+        gabhal [sic] duan.)…</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116316064">
+            <form>
+               <orth>bainne-deasgain</orth>
+            </form>
+            <def>rennet, for curdling milk.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116314552">
+            <form>
+               <orth>seilleach</orth>
+            </form>
+            <def>willow. Its branches used in the making of creels for carrying manure and peat
+        (etc.).</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116313040">
+            <form>
+               <orth>drumanach</orth>
+            </form>
+            <def>alder. Boys used to fish with rods of the branches of an alder tree, the branches
+        long enough.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116311528">
+            <form>
+               <orth>seagal</orth>
+            </form>
+            <def>rye.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116310016">
+            <form>
+               <orth>feamainn-dhubh</orth>
+            </form>
+            <def>black seaweed (deep dark green) or black wrack.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116308504">
+            <form>
+               <orth>feamainn-dhearg</orth>
+            </form>
+            <def>red seaweed (‘mircean’) or ‘gruaigean’ of this species. A variety of seaweed
+        comes into the category of medicinally essence [sic] towards cattle (feeding),
+        etc.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116306992">
+            <form>
+               <orth>sealbhag</orth>
+            </form>
+            <def>sorrel. Used for dyeing wool.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116305480">
+            <form>
+               <orth>pionnt</orth>
+            </form>
+            <def>mint. Its dried leaves were used for flavouring tea.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116303968">
+            <form>
+               <orth>puineag</orth>
+            </form>
+            <def>sorrel. Eatable; by children, simply picking and eating them without
+        preparation.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116302384">
+            <form>
+               <orth>buathalan</orth>
+            </form>
+            <def>ragwort. Used in dyeing wool, giving the yellow proceeds of the colouring
+        version…</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e284"
+             subtype="h2">3. The blood</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116300080">
+            <form>
+               <orth>lus-nan-laogh</orth>
+            </form>
+            <def>Calf plant. Disease: bad blood, e.g. boils. Part used: the whole plant’s
+        infusion. How prepared: boiled in water, and then the water drunk, a little occasionally.
+        Sources of information: traditionally. A lady still living on Scalpay told me her father
+        drank it for boils on the skin, and he was cured likewise. It was traditionally referred to
+        here (Scalpay) that the plant of which the medical curable properties, [sic] necessary for
+        the patient’s cure, was within a little distance of the house he lived in.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116297704">
+            <form>
+               <orth>copag</orth>
+            </form>
+            <def>Docken. Disease: on wounds. Part used: the leaf. How prepared: by placing the
+        leaf on the wound and then the bandage on the top – wound ‘air a teannachadh’. Sources of
+        information: traditionally.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116295328">
+            <form>
+               <orth>tombaca</orth>
+            </form>
+            <def>Tobacco, tobacco leaves. Disease: cuts and bruises. Part used: leaves. How
+        prepared: tobacco leaves for cuts, placed on the cut and bandaged untwined leaves, as a
+        disinfectant. Sources of information: traditionally.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116294104">
+            <form>
+               <orth>prenistir is bainne</orth>
+            </form>
+            <def>Sulphur and milk. Disease: to prevent the blood from gushing through the bandage,
+        with healing abstraction, qualities. Part used / How prepared: mixed together. Prenisteir
+        [sic] is bainne air a measgadh. Sources of information: traditionally.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e326"
+             subtype="h3">Noted as glossary III</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116291080">
+            <form>
+               <orth>glas-fheur</orth>
+            </form>
+            <def>green, a (palish) pale green grass, on which cattle feed, of a more pithy essence
+        than ‘sliabh’. ‘Sliabh’ is longer, not so juicy in other words.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116289208">
+            <form>
+               <orth>tuineap</orth>
+            </form>
+            <def>turnip. Cattle and sheep feed on turnip. Tuineap a’ chruidh.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idola276">
+            <form>
+               <orth>[ashes]</orth>
+            </form>
+            <def>Note: I have heard of plants being burned into ashes and
+      these ashes used as a preservative for food, perhaps to give food some special flavour, or
+      preserve it further to achieve the flavour required, or to have it salted, so to speak,
+      although perhaps again not giving the same results as salt, more or less, more confined to,
+      could be, an ‘appetising’ method, or to give what was already proven, if done, it was more
+      associated with the appetite in another sense.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116287264">
+            <form>
+               <orth>buachar-a-chruidh</orth>
+            </form>
+            <def>fish, only rocker or skate I have heard of, was planted in this dung, for to
+        sour, to have a flavour (relish) which seemed to be a popular (taste) flavour in the past
+        (Harris). After the fish had been in the manure or dung, it was then washed [and] prepared
+        for eating by simply boiling it. In other words, after being in dung or manure, whatever way
+        you want to put it, for days.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e368"
+             subtype="h2">4. The bowels and stomach</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp120926288">
+            <form>
+               <orth>sobhrach</orth>
+            </form>
+            <def>Primrose. Disease: infested heel wound (at a bhuinn duibh). Part used: the leaves
+        only. How prepared: the leaves placed on the wound with poultice of oatmeal, placed as hot
+        as the patient could accept. Sources of information: my mother doing it.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp120928376">
+            <form>
+               <orth>brisgein</orth>
+            </form>
+            <def>Disease: for stomach complaint. Part used: the whole plant eaten. How
+        prepared: eating it raw, as taken from the ground.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e392"
+             subtype="h3">Noted as glossary IV</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp120931184">
+            <form>
+               <orth>cusag</orth>
+               <pron>[See cuiseag.]</pron>
+            </form>
+            <def>[See cuiseag.]</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp120932696">
+            <form>
+               <orth>cuiseag</orth>
+            </form>
+            <def>wild mustard. The stem of this plant, when at the stage, the withered stage, was
+        used as a final top pinnacle, point, in the corn-stacks.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp120934208">
+            <form>
+               <orth>cruachan-arbhair</orth>
+            </form>
+            <def>corn-stacks. (Harris)</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp120935720">
+            <form>
+               <orth>comhlach-mhor</orth>
+            </form>
+            <def>straw of the strongest for [sic] [form?], literally: big straw, was used in the
+        thatching of houses.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp120937232">
+            <form>
+               <orth>comhlach</orth>
+            </form>
+            <def>termed generally; comhlach of a lighter quality was used in bed
+        mattresses.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp120938744">
+            <form>
+               <orth>sallastair</orth>
+            </form>
+            <def>iris. Was used in thatching sheilings (airighean) and byres.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp120940328">
+            <form>
+               <orth>fraoch</orth>
+            </form>
+            <def>heather likewise [i.e. ‘used in thatching sheilings’ like ‘sallastair’ above?],
+        etc.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e461"
+             subtype="h2">5. Bladder and kidneys</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp120942704">
+            <form>
+               <orth>eòrna</orth>
+            </form>
+            <def>1. Sùgh an eòrna – barley water. 2. Brochan eòrna – barley gruel. ‘Eòrna’ was
+        always associated with kidney or bladder trouble. Disease: in the list as above [i.e.
+        infections, retaining water, cystitis, stones in kidney or bladder, discoloured urine]. How
+        prepared: 1. Simply drinking it after infusion. 2. Mixed into paste with a taste of salt.
+        Sources of information: locally informed generally.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idola277">
+            <form>
+               <orth>[skin]</orth>
+            </form>
+            <def>Note: 1 The white of an egg mixed with oatmeal served as
+      an ointment towards the removal of pimples, as a beautifying remedy. Likely still used, also
+      as a skin purifier, skin ointment. 2. Same used with flour to soothe the skin if the skin
+      showed signs of parchment.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e485"
+             subtype="h3">Noted as glossary VI</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp120947024">
+            <form>
+               <orth>fraoch-geal</orth>
+            </form>
+            <def>white heather, a symbol of luck.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp120948536">
+            <form>
+               <orth>sùgh</orth>
+            </form>
+            <def>sap or juice.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp120950048">
+            <form>
+               <orth>mucag</orth>
+            </form>
+            <def>berry or fruit as ‘mucagan-fàileag’ (Harris) – fruit of the rose bush. Mucagan
+        fàileag nan dris mheur, ann am pallachan beàrnach is bristeadh.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp120951560">
+            <form>
+               <orth>coirce</orth>
+            </form>
+            <def>oat.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp120953072">
+            <form>
+               <orth>coirce-beag</orth>
+            </form>
+            <def>small oats.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp120954584">
+            <form>
+               <orth>ola-min-fhras-linn</orth>
+            </form>
+            <def>linseed oil. Given to cattle for its beneficial products [sic] in giving the
+        animal a shiny coat.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp120956096">
+            <form>
+               <orth>luachair</orth>
+            </form>
+            <def>bulrushes. Was [sic] used in thatchings, and as an absorbent of fuel oil,
+        liver oil, etc. in giving light.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp120957608">
+            <form>
+               <orth>bàrr-an-eòrna</orth>
+            </form>
+            <def>giving [sic] to cattle in the event of, as termed in Gaelic, ‘glasadh
+        uisge’.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e563"
+             subtype="h2">6. Other internal organs</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp115179352">
+            <form>
+               <orth>greim mór</orth>
+            </form>
+            <def>appendix. Poultices, etc. I’ll attend to this subject in due time, I
+        hope.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e578"
+             subtype="h3">Noted as glossary VII</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp115174096">
+            <form>
+               <orth>brochan-teth coirce</orth>
+            </form>
+            <def>given to sheep as a beverage.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp115171072">
+            <form>
+               <orth>caora tinn air uan</orth>
+            </form>
+            <def>confinement. When in the case of a sheep giving, on the point of giving birth to
+        a lamb, it was discovered that the discharge didn’t give the elasticity necessary (uterus,
+        etc.), thus while under this complication tea mixed with whisky and thin gruel of oatmeal
+        also mixed with whisky, a glassful of whisky, this given successively proved successful, and
+        the mother gave birth to a fine healthy baby lamb. In some other instances an operation was
+        necessary, the side of the animal, or rather the appropriate place considered was cut open
+        by a knife, an ordinary (pocket) knife, and the baby lamb was received, and of course the
+        wound stitched. The baby lamb normal – and the operation successful, just, perhaps, like a
+        ceserea [sic] [Caesarean?] female operation, or again as ceserea [sic] [Caesarean?]
+        operation on a woman. This as above noted instances was observed on the island of Scalpay in
+        Harris. F.S. [?] [P.S.?] Bha na màthraichean beò – cha do rinn e càil oirre
+        [sic].</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e602"
+             subtype="h2">7. Gynaecological complaints</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idola278">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>This subject is having my further attention.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp115178344">
+            <form>
+               <orth>tuisleadh-asbhuinne</orth>
+            </form>
+            <def>miscarriage.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp115154224">
+            <form>
+               <orth>toradh-an-abaich</orth>
+            </form>
+            <def>miscarriage.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp115155664">
+            <form>
+               <orth>stamag-laoidh</orth>
+            </form>
+            <def>’s ann le stamaig laoidh (calf) air a tiormachadh ’s crimeagan air a chuir dh’an
+        a bhainne dhi a bha iad (bhatar) a’ deanamh deasgainn (curdling). Bainne-deasgainn –
+        curdling milk.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp115158688">
+            <form>
+               <orth>blàthach</orth>
+            </form>
+            <def>buttermilk was also used for burns. Putting ‘blàthach’ on burns, for healing, not
+        the antiseptic portion of the story.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e653"
+             subtype="h3">Noted as glossary VIII</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp115160272">
+            <form>
+               <orth>comharradh</orth>
+            </form>
+            <def>ears being marked. The tip cut off or a hole cut through the ear, etc. for
+        identification in sheep.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp115161640">
+            <form>
+               <orth>sgadan</orth>
+            </form>
+            <def>was given to cattle. Cooked herring, fish-meal.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp115163080">
+            <form>
+               <orth>cloimh-an-dombail</orth>
+            </form>
+            <def>loose tufts of wool left on the heather by sheep walking through
+        it.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp115164952">
+            <form>
+               <orth>cloimh-an-domail</orth>
+               <pron>[See cloimh-an-dombail.]</pron>
+            </form>
+            <def>[See cloimh-an-dombail.]</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp115166896">
+            <form>
+               <orth>gràn-as-a-chochull</orth>
+            </form>
+            <def>grain from the husk.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp115168408">
+            <form>
+               <orth>fiar-seacaidh</orth>
+            </form>
+            <def>withering grass.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp115170136">
+            <form>
+               <orth>fiar-gorm</orth>
+            </form>
+            <def>reference to new, fresh grass.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp115170568">
+            <form>
+               <orth>sguab-leis-an-t-siol</orth>
+            </form>
+            <def>reference to nutrition for cattle.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118769112">
+            <form>
+               <orth>garrabhuic-mairt</orth>
+            </form>
+            <def>a cow pad [sic] [pat?] of a soft composition through the influence of
+        dysentery.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118770624">
+            <form>
+               <orth>glanadh-mairt</orth>
+            </form>
+            <def>the aftermath of calving.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e749"
+             subtype="h2">8. Skin diseases not already mentioned</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118773000">
+            <form>
+               <orth>spealtan</orth>
+            </form>
+            <def>Splinters. Disease: broken bones. How prepared: strips of wood adjusted against
+        the injury, and kept in position by strips of cloth secured firmly round and round the
+        splinters and tied, knotted. Sources of information: local.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118774944">
+            <form>
+               <orth>fear a rugadh a comhar a chas</orth>
+            </form>
+            <def>was reputed to cure backache by standing on the patient’s back, while the patient
+        lay flat on the floor.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idola279">
+            <form>
+               <orth>[burns]</orth>
+            </form>
+            <def>Burns: cold water – by simply dipping the burnt finger
+      immediately in cold water.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118777320">
+            <form>
+               <orth>rùsgadh air a chloinn</orth>
+            </form>
+            <def>skin abrasion was cured by burning paper, and putting the burnt black charcoal
+        composition on the skin. Could be bandaged on, or if there was any means of having the paper
+        on the sore part it served its curable influences.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118778832">
+            <form>
+               <orth>crotul is im</orth>
+            </form>
+            <def>crotul is im an ceann a chéile cuideachd air a ghleachdadh mar achduinn-suathaidh
+        air son losgadh a chuir feabhas (ann an Scalpaigh).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e800"
+             subtype="h3">Noted as glossary IX</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118781208">
+            <form>
+               <orth>feamainn-shiabaidh</orth>
+            </form>
+            <def>sea-wrack lying dormant on the shore was used as manure not for the beneficial
+        use of nutrition. Naturally enough fresh seaweed species were considered more closely, to
+        the necessary medicinally [sic] purpose required.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118782720">
+            <form>
+               <orth>roc-làir</orth>
+            </form>
+            <def>seaweed broken off submerged rocks were [sic] washed ashore, and would lay for that
+        length of time on the shore – thus pithless in some cases.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118784232">
+            <form>
+               <orth>rùsg-cloimhe</orth>
+            </form>
+            <def>fleece of wool; was used as a mat through the process of cleansing by alms, alm
+        [sic], etc.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118785744">
+            <form>
+               <orth>rùsg-caorach</orth>
+            </form>
+            <def>sheep’s fleece, or the fleece of a sheep.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118787256">
+            <form>
+               <orth>clòbhar</orth>
+            </form>
+            <def>clover. An exemptional [sic] [exceptional?] nutriment, nourishment, in connection
+        with the feeding of cattle.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e851"
+             subtype="h2">9. Acute diseases</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118789632">
+            <form>
+               <orth>tobacco</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] Tobacco. Disease: smallpox (bheanachdachd bhreac). Part used: gitseog tobacca.
+        How prepared: dha shuathaigeadh (chewing). Sources of information: the individual who was in
+        contact with the disease in a foreign country, South America, and his pal, who [sic] he
+        nursed for a while, used to chew tobacco to prevent him having the disease himself – a
+        disinfectant method he adopted himself. I’ll make further enquiry.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e866"
+             subtype="h3">Noted as glossary X</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118792728">
+            <form>
+               <orth>mam</orth>
+            </form>
+            <def>infested wound cured by incantation (etc.).</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118794240">
+            <form>
+               <orth>feamainn-chìrein</orth>
+            </form>
+            <def>this seaweed ‘plant’ was boiled and the voluminous part and liquid from it, the
+        water in which [it] was boiled, the intermixture and the solid parts of it in other words,
+        was given to cattle in spring. The liquid has tonic attribution [sic] plus the seaweed part
+        or parts boiled counteract the effects of the dry straw and hay, which can be ‘administered’
+        too frequently.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118795752">
+            <form>
+               <orth>stiùil-nan-sìthichean</orth>
+            </form>
+            <def>mushrooms. (I have only this one vaguely, even although I could accept it as
+        being correct, anyway as one term.)</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118797264">
+            <form>
+               <orth>fiaras-a-ghualta</orth>
+            </form>
+            <def>black fever (?) (Harris). (I remember hearing the term. You may have, or
+        understand the meaning, or have the term already.)</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118798776">
+            <form>
+               <orth>fiaras-critheanach</orth>
+            </form>
+            <def>malaria. Sailors, island sailors, used to refer to it thus as here, those who
+        were subjected to it from foreign lands.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e917"
+             subtype="h2">10. The skeleton and muscles</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118801152">
+            <form>
+               <orth>ola chroinn ola</orth>
+            </form>
+            <def>Olive oil. Disease: rheumatism. Part used / How prepared: rubbing it on the
+        affected part. Sources of information: traditionally.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118803168">
+            <form>
+               <orth>siola-na-h-easgainn</orth>
+            </form>
+            <def>Entrails of an eel. The spawning part in particular. The earliest form of cure.
+        Disease: rheumatism. Part used: spawning part. How prepared: freshly applied. Sources of
+        information: traditionally.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118805256">
+            <form>
+               <orth>sàl teth</orth>
+            </form>
+            <def>Hot seawater. Disease: rheumatism. Part used / How prepared: bathed in hot
+        sea-water. Putting the feet in a half bucket full of seawater – hot to the extent of the
+        patient [sic] [patient’s?] acceptance of the temperature. Sources of information:
+        traditionally.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118807200">
+            <form>
+               <orth>buntàta</orth>
+            </form>
+            <def>Potato. Disease: rheumatism. Part used / How prepared: a potato with a slice cut
+        off. A potato carried by the patient in an inside pocket nearest to his skin, I believe. The
+        body seemingly responding someway to the potato? Sources of information:
+        traditionally.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118809144">
+            <form>
+               <orth>[tòrradh-rodan]</orth>
+            </form>
+            <def>I remember hearing the expression: Bu cheart cho math leam a dhol gu
+        tòrradh-rodan, when a person was asked to go to a wedding or some entertainment.
+        ‘Tòrradh-rodan’ – unless it was an invented phrase.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e968"
+             subtype="h3">Noted as glossary XI</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118811520">
+            <form>
+               <orth>lianranaich</orth>
+            </form>
+            <def>a thin layer of a plant, if I may say a plant, on water, a pool, or on a shallow
+        part of a freshwater loch. To my mind it’s something like green moss.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118813032">
+            <form>
+               <orth>sleamhnagan</orth>
+            </form>
+            <def>stye. Treated by rubbing it with a gold marriage ring, or any ring, with a little
+        incantation reference.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118814544">
+            <form>
+               <orth>sleamhtagan</orth>
+               <pron>[See sleamhnagan.]</pron>
+            </form>
+            <def>[See sleamhnagan.] I have heard it pronounced likewise in Harris.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118816056">
+            <form>
+               <orth>foinne-riobach</orth>
+            </form>
+            <def>shaggy wart; a hair tied round the wart cuts its way, cuts through it, off
+        [sic].</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118817568">
+            <form>
+               <orth>ball-dobhrain</orth>
+            </form>
+            <def>a wart like resemblance of a wart, but a birthmark.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1019"
+             subtype="h1">B. Treatments which did not involve the use of
+        plants</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118819944">
+            <form>
+               <orth>saills</orth>
+            </form>
+            <def>or salts. Was [sic] used in connection with a few ailments, ‘sore-head’,
+        headache, constipation, squeamishness and blood disorder.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118821456">
+            <form>
+               <orth>[sàil]</orth>
+            </form>
+            <def>salt in the form of seawater, ‘sàil’, was used for bathing the feet in. Boiled
+        seawater in which the feet were kept when brought to the tepid point for the feet to be
+        bathed in regularly was a recommended cure for rheumatics and sore feet, tired
+        feet.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118822968">
+            <form>
+               <orth>siola-na-h-easgainn</orth>
+            </form>
+            <def>the spawning organs of the eel was [sic] used likewise – massage.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idola280">
+            <form>
+               <orth>[baking soda]</orth>
+            </form>
+            <def>Baking soda – taken in water, for stomach complaints (and
+      bladder trouble of cattle).</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118825416">
+            <form>
+               <orth>[ola-an-ròin]</orth>
+            </form>
+            <def>heat treatment, liniment oil a more modernisation [sic], seal oil (‘ola an ròin’)
+        boiled, when cooled to the point of applying, then the oil was well rubbed on the affected
+        part of the patient.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idola281">
+            <form>
+               <orth>[heat treatment]</orth>
+            </form>
+            <def>Heat treatment – a container with hot water inside a
+      stocking, placed against the affected part.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118827792">
+            <form>
+               <orth>buachar a chruidh</orth>
+            </form>
+            <def>‘cow’s dung’ used for burns, but applied immediately meant better
+        results.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idola282">
+            <form>
+               <orth>[urine]</orth>
+            </form>
+            <def>Urine – for rash, foul shave.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1097"
+             subtype="h2">Noted as glossary XII</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118831032">
+            <form>
+               <orth>tinneas-cuim</orth>
+            </form>
+            <def>dysentery; laxative treatment.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118832544">
+            <form>
+               <orth>lionn-nam-biasd</orth>
+            </form>
+            <def>hops, fermenting into beer, fed with treacle and sugar in a glass jar, the fruit
+        of the plant… a beverage for ‘human acceptance’, in having it as a drink,
+        refreshment.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118834056">
+            <form>
+               <orth>suidh</orth>
+            </form>
+            <def>soot. Used mixed with water as a detergent [sic] [deterrent?] on cabbage against
+        flies laying their eggs, and caterpillars. It was poured on the leaves, if not used in
+        powder form.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118835568">
+            <form>
+               <orth>[at]</orth>
+            </form>
+            <def>abscess, infestation (at). Fuar-lit choirce, fuar-lit loaf, ’s ’n uair a thig an
+        t-at gu àirde ’n uair sin a’ leigeal (as termed) air le snàthaid.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118837080">
+            <form>
+               <orth>déideadh</orth>
+            </form>
+            <def>toothache. Piece of tobacco put into the hole in the tooth, and let it drip from
+        the tooth, into dripping saliva. Also coarse salt similarly. Coarse salt heated on
+        a frying pan, and then transferred into a stocking then placed externally on the cheek
+        nearest the infected tooth. Was recommended towards a relief or cure if it was ‘caused by
+        cold’, etc. (Methylated spirits injected in the tooth, was, is a more modern
+        cure.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1148"
+             subtype="h1">C. Veterinary medicine</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118839744">
+            <form>
+               <orth>a’ chloimh</orth>
+            </form>
+            <def>(sheep) infestation, etc. etc. cured by dipping.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118841256">
+            <form>
+               <orth>doille</orth>
+            </form>
+            <def>eye disease in sheep. As ‘sgiath air a sùil’ (cataract). The cure was glass
+        broken into powder and inserted in the eye or eyes.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118842768">
+            <form>
+               <orth>gulamail</orth>
+            </form>
+            <def>personal complaint not so much attributed to sheep. ‘Doille’ [q.v.] – more
+        connected with sheep.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118844280">
+            <form>
+               <orth>tuathalan</orth>
+            </form>
+            <def>dizziness in sheep, prone to collapse. Cure: cutting part of the ears and the top
+        part of the tail.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118845792">
+            <form>
+               <orth>chuileag</orth>
+            </form>
+            <def>caused by fly, maggots eating into the flesh. Tar only or [?] tar and paraffin,
+        eventually saltwater, dipped in saltwater. The brine helpful in circumstances.
+        Curable.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118847304">
+            <form>
+               <orth>brothalan (?)</orth>
+            </form>
+            <def>scab showing on the face caused by eating too much seaweed, or eating excess of
+        it, also noticeable in sheep often on the shore. Cure: giving the animal fat to eat,
+        margarine, etc. (I would say this [i.e. brothalan] is the name for the explanation. I am not
+        quite certain: is an old form beginning to go [?] if not out of use now.)</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118848816">
+            <form>
+               <orth>bial-muice</orth>
+            </form>
+            <def>swollen lips or a swollen lip, top protruding over the other (more frequently of
+        the top lip), mouth affected disease, etc. where the animal (sheep) cannot, is unable to eat
+        (grass, etc.). Also hereditary.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118850328">
+            <form>
+               <orth>glupad</orth>
+            </form>
+            <def>modern cure – pillichean a’ ghlupad. Due to the exercise [sic] of fatness
+        internally, in some cases, it’s kidney infection.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118851840">
+            <form>
+               <orth>bracsaidh</orth>
+            </form>
+            <def>caused by fat, excessive richness of fat in the animal.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118853352">
+            <form>
+               <orth>spog-dhubh</orth>
+            </form>
+            <def>the skin becoming black, perhaps through the blood circulation from the disease
+        thrombosis. Birds wouldn’t, will not eat from, disdain to eat the dead
+        carcase.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1244"
+             subtype="h2">Noted as glossary XIII</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118856592">
+            <form>
+               <orth>[stocainn]</orth>
+            </form>
+            <def>another reference to ‘stocainn le salainn teth’ is if somebody caused some
+        annoyance and due correction, thus with a slight difference: Gabhaidh mi ort le stocainn de
+        bhrochan teth. (expression) ‘Brochan’ in a covering of cloth was used, poultice of oatmeal
+        with mustard oil or paste mixed was applied to the chest, when pneumonia was suspected.
+        ‘Brochan teth’ to minor cases. Before mustard was recommended, mustard was considered a
+        stronger replacement.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1259"
+             subtype="h1">D. What do you think is the English name for the plants
+        called in Gaelic.</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idola283">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>Please do not use a dictionary. No! (not used)</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118859328">
+            <form>
+               <orth>móthan</orth>
+            </form>
+            <def>bog-violet.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118860840">
+            <form>
+               <orth>cairmeal, carra-meille</orth>
+            </form>
+            <def>derived perhaps from the sweet… caramel… (my own definition). It derived from a
+        word or words, Latin, etc. of the same meaning or pronunciation, etc. etc…
+        or…?</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118862352">
+            <form>
+               <orth>slan-lus</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] ‘sàisde’, a corruption? of ‘slàn-lus’ – healing plant. I have read of ‘sàisde’
+        for ‘slàn-lus’.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118863864">
+            <form>
+               <orth>lus nan sul</orth>
+            </form>
+            <def>I’ll enquire!</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118866888">
+            <form>
+               <orth>fearsanaich</orth>
+            </form>
+            <def>cnapan beaga air druim a chruidh, b’ann an còmhnuidh air crodh fallain a bhiodh
+        seo.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1319"
+             subtype="h2">Noted as glossary XIV</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118869264">
+            <form>
+               <orth>stapag</orth>
+            </form>
+            <def>stapag uachdair. For softening hard skin, caused by sea-spray drying on the skin.
+        A primitive form, the ointment form of procedure serving as ointment. Consisting of crowdie
+        mixed with cream, cream, [sic] say, snow-fire may have originated likewise.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118870776">
+            <form>
+               <orth>uachdar</orth>
+            </form>
+            <def>cream (Harris). Cream itself without any mixture was used as (cream) ointment for
+        skin troubles.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118872288">
+            <form>
+               <orth>stapag</orth>
+            </form>
+            <def>a mixture of oatmeal and water, accepted as a medicine for
+        constipation.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118873800">
+            <form>
+               <orth>sgudal</orth>
+            </form>
+            <def>oatmeal, herring, salted herring or fresh herring or both kinds, bread, cheese, a
+        composition of a variety of eatables for cattle.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118875312">
+            <form>
+               <orth>scramhag</orth>
+            </form>
+            <def>an undesirable covering on a melted potion [sic] of fat when in the process of being
+        melted, thus advisable as: thoir dhe’n scramhag th’air uachdar.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118876824">
+            <form>
+               <orth>sgramhag</orth>
+               <pron>[See scramhag.]</pron>
+            </form>
+            <def>[See scramhag.]</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1379"
+             subtype="h1">E. Any further information about your sources</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idola284">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>I’ll enquire.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118880064">
+            <form>
+               <orth>màm</orth>
+            </form>
+            <def>ulcerous wound, infesting, externally under the auxter. 2. Gaelic ‘at’ –
+        festing [sic] [festering?] wound approached by an expertee [sic] who used to act with an axe
+        head towards the wound and reciting [sic] a chant, etc. for cure. Have heard of it
+        (orally).</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118881792">
+            <form>
+               <orth>King’s Evil</orth>
+            </form>
+            <def>King’s Evil wound cured through the seventh member of a family, a boy or girl of
+        a successive line, that is, a family of [sic] having a member male or female, the seventh
+        coming one after another in this order so to speak: the first arrival being a boy, or an
+        arrival being a boy, and the next a boy, a boy, a boy till seven, the seventh is accounted
+        for. He is the healer in this case, using a formula representing the case. (I have seen a
+        patient who received this mode of cure, it was believed in extensively on
+        Harris.)</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118883448">
+            <form>
+               <orth>faochagan-geal</orth>
+            </form>
+            <def>medical properties, was [sic] boiled and the water in which they were
+        boiled in [sic] was drank for worms in children (cure).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1421"
+             subtype="h2">Noted as glossary XV</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118885824">
+            <form>
+               <orth>cotan</orth>
+            </form>
+            <def>cotton, cotton wool was used in cuts and bruises. The cotton wool put on the wood
+        [sic] [wound?] and bandaged, after the wound was cleansed and Epsom salts used as a
+        disinfectant in cold water, or lukewarm water, tepid, perhaps as likely cold water was more
+        appropriate in the congealation [sic] of blood, to stop the bleeding. Cotton was also used
+        in having it soaked in hot olive oil, and placed in the ear for earache. Drops of hot olive
+        oil were injected or allowed to run off a teaspoon, inside the ear, to soften hard wax in
+        the ear, etc. etc.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118887480">
+            <form>
+               <orth>olainn</orth>
+            </form>
+            <def>wool was used but disapproved of eventually as in the (suspect) case of having
+        germs.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1445"
+             subtype="h1">F. Other information not covered above</ab>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1451"
+             subtype="h2">Sheep diseases</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118890720">
+            <form>
+               <orth>spùt</orth>
+            </form>
+            <def>diarrhoea (dysentery, on [sic] sheep).</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idola285">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>In vocabulary form, order or glossary</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118893096">
+            <form>
+               <orth>bracsaidh</orth>
+            </form>
+            <def>braxy.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118894608">
+            <form>
+               <orth>spog-dhubh</orth>
+            </form>
+            <def>black-leg.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118896120">
+            <form>
+               <orth>glupad</orth>
+            </form>
+            <def>pulpy kidney, also ‘liabagan anns a ghrùthan’.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118897632">
+            <form>
+               <orth>duppadh</orth>
+            </form>
+            <def>dipping to prevent parasites.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161208112">
+            <form>
+               <orth>a chloimh</orth>
+            </form>
+            <def>dipping is helpful, is the cure also from what I have already noted previously
+        (maggots).</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161209624">
+            <form>
+               <orth>na gartain</orth>
+            </form>
+            <def>tick [sic].</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161211136">
+            <form>
+               <orth>mialan-dearga</orth>
+            </form>
+            <def>keds.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161212648">
+            <form>
+               <orth>malan-chaorach</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] [mialan as above?] sheep lice.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161214160">
+            <form>
+               <orth>a chloimh</orth>
+            </form>
+            <def>sheep scab. ‘Smiùradh’ process by tar was the originally [sic] process. Nowadays
+        the dipping fluid, etc. is the process, alternatively. (Same [i.e. as ‘a chloimh’ above] but
+        ‘smiùradh’ by the tar process was the original remedy.) (Brochan teth, stiùrag theth ma’s e
+        fuachd neo buaidh an fhuachd ’s an uisge – b’aobhar.) [NOTES: not sure if the second note in
+        brackets is part of the definition. Not clear where it belongs.]</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161216104">
+            <form>
+               <orth>[leabaidh-thiorman]</orth>
+            </form>
+            <def>Tha chaora còmhnuidh ag iarraidh leabaidh-thiorman. Thus otherwise she is prone
+        to pneumonia, etc. as one expert remarked to me…</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1565"
+             subtype="h2">Cattle</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idola286">
+            <form>
+               <orth>[the evil eye]</orth>
+            </form>
+            <def>Affected by the evil eye, subjected to its influence, was
+      sprinkled over with water in which silver coins were placed, etc., thus a cure.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161219344">
+            <form>
+               <orth>[buidheagan]</orth>
+            </form>
+            <def>Too much of buttercups (‘buidheagan’) (flowers) or variety improper in the
+        feeding caused sickness to cattle. Empoms [sic] [Epsom?] salts were recommended, doses up to
+        as was termed 6 packets were (recommended) as a dose, etc.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idola287">
+            <form>
+               <orth>[oatmeal]</orth>
+            </form>
+            <def>Oatmeal in hot water (mixed) also was observed as a
+      beverage to cattle.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161221720">
+            <form>
+               <orth>is-sproillean</orth>
+            </form>
+            <def>throat infection.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idola288">
+            <form>
+               <orth>[canna]</orth>
+            </form>
+            <def>B’ann le canna, can, a bhiodhta a cur na stiuraig na bial,
+      etc. neo nam bial.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1616"
+             subtype="h3">Noted as glossary XVI</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161225104">
+            <form>
+               <orth>spuir-eòin</orth>
+            </form>
+            <def>birthmark. The likelihood of it showing the resemblance of a bird’s claws, in the
+        most frequent of cases.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161226616">
+            <form>
+               <orth>saus’</orth>
+            </form>
+            <def>fish soup. The water in which fish is boiled is re-boiled with further amount of
+        water added to a boiling continuation, and onions and oatmeal added, and salt.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161228128">
+            <form>
+               <orth>cnuimh</orth>
+            </form>
+            <def>maggot. Used on a fishing hook for bait in fishing brown trout. Anything wriggly
+        will attract trout.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161229640">
+            <form>
+               <orth>buntàta</orth>
+            </form>
+            <def>raw bits, broken into crumbs (buntàta air a phronnadh le cloich) is [sic] used as
+        a lure for fish when fishing with a spoon-net (‘tàbh’). The mashed potato thrown above the net
+        sinks gradually luring the fish into the net and then the net lifted with the fish inside.
+        The fish is caught unawares so to speak.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161231152">
+            <form>
+               <orth>gnàthladh</orth>
+            </form>
+            <def>small collection, as in the event of collecting berries and asked ‘an t’fhuair
+        sibh gin?’ The answer: ‘Fhuair sinn gnàthladh.’ Still used on Scalpay, Harris in connection
+        with fishing: gnàthladh sgadain – scatter, small scatter.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1667"
+             subtype="h1">F. Other information not covered above</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161233528">
+            <form>
+               <orth>bratag-fhraoich</orth>
+            </form>
+            <def>if allowed to draw itself across a patient’s tongue was believed to be a cure for
+        the patient suffering from burns. I have heard this mentioned – perhaps faith
+        cure.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1682"
+             subtype="h2">Cattle (continued)</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161235904">
+            <form>
+               <orth>is broillean</orth>
+            </form>
+            <def>external throat infection. Cure: ‘prènistir’ – sulphur given in water. Also
+        ‘slòcan’ – ‘soft seaweed’ mixed with food from the pail.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161237416">
+            <form>
+               <orth>chaileach-ribeach</orth>
+            </form>
+            <def>‘wart’ inside mouth. The cure was cutting it by scissors, or an appropriate
+        instrument.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161238928">
+            <form>
+               <orth>sùil-na-leise</orth>
+            </form>
+            <def>strained limb. Piece of woollen blanket with tar applied to feet, to the strained
+        part, was the cure.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161240440">
+            <form>
+               <orth>biastan-a-chruidh</orth>
+            </form>
+            <def>little ‘red ticks’ nibbling the flesh. Cure: ‘achduinn-ghorm’ – blue ointment
+        applied usually at the back of horns to avoid it being licked. Sheep dip was also used as a
+        destroyer.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161241952">
+            <form>
+               <orth>stàrr is feamainn chirean</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] given to cattle with ‘is-sproillean’ [q.v.] and ‘nis-sproillean’, I have
+        discovered the two pronunciations, perhaps there are the two words, seemingly. I shall make
+        more investigation. Stàrr (coarse grass) is feamainn chìrean air a chuir cuide ris, ’s air
+        an goil, ’s an sin leigeil leis gu fuarachadh, ’s a h-uile cail a bh’ann a thoirt dh’an
+        bhoin, sùgh is eile…</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1733"
+             subtype="h3">Noted as glossary XVII</ab>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161244472">
+            <form>
+               <orth>spòg-an-fhithich</orth>
+            </form>
+            <def>birthmark.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161245984">
+            <form>
+               <orth>fuailit-lof</orth>
+            </form>
+            <def>poultice made of a loaf for abstraction, abstracting festering matter from a
+        festering wound.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161247496">
+            <form>
+               <orth>fuailit</orth>
+            </form>
+            <def>poultice. From ‘fuail’ urine and ‘lite’ porridge (1 [?]). Fuailit theth – hot
+        poultice, etc.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161249152">
+            <form>
+               <orth>[ola]</orth>
+            </form>
+            <def>ola-ghrùthain – liver oil, oil from melted liver, was used as a fuel for the old
+        time ‘crusee’ lighting system in the home. Taken for colds, chest troubles. Cod liver oil –
+        ‘ola nan trosg’ for colds. Originally: ola-ghriùthain ’s ola-ròin.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161250808">
+            <form>
+               <orth>cumachd-leigheas</orth>
+            </form>
+            <def>healing power.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161252320">
+            <form>
+               <orth>branndaidh</orth>
+            </form>
+            <def>brandy (spirits). A [sic] reviving medicinally spirits, medicinally drunk, as in
+        the instances or interests, if you like, of faints, weaknesses…</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

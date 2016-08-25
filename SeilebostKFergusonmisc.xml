@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AJSmith_SeilebostKFergusonmisc">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>June 1972</date>
+            <location>
+               <placeName>Harris, Seilebost, Post Office</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>A. J. Smith</persName>
+            </person>
+            <person role="informant">
+               <persName>Mrs K. Ferguson</persName>
+               <birth>
+                  <placeName>Stockinish</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="AJSmith_SeilebostKFergusonmisc-idm37712240">
+            <form>
+               <orth>griùireach</orth>
+               <pron>[ɡɾu̟:ɾɑx]</pron>
+            </form>
+            <def>[ɡɾu̟:ɾɑx] Quot.: a’ ghriùireach. Note: measles.</def>
+         </entry>
+         <entry xml:id="AJSmith_SeilebostKFergusonmisc-idm37612160">
+            <form>
+               <orth>banachdach-bhreac</orth>
+            </form>
+            <def>Quot.: a’ bhanachdach-bhreac [əvɑ̃ṉɑxkɑxvɾɛk]. Note: smallpox. A’ bhanachdach – vaccination.</def>
+         </entry>
+         <entry xml:id="AJSmith_SeilebostKFergusonmisc-idm37632752">
+            <form>
+               <orth>piocas</orth>
+               <pron>[pȷwxkəs]</pron>
+            </form>
+            <def>[pȷwxkəs] Quot.: am piocas. Note: chickenpox.</def>
+         </entry>
+         <entry xml:id="AJSmith_SeilebostKFergusonmisc-idm37714616">
+            <form>
+               <orth>triuthach</orth>
+            </form>
+            <def>Note: whooping-cough.</def>
+         </entry>
+         <entry xml:id="AJSmith_SeilebostKFergusonmisc-idm37709072">
+            <form>
+               <orth>bàsmhor</orth>
+               <pron>[bɑ:svɔɾ]</pron>
+            </form>
+            <def>[bɑ:svɔɾ] Quot.: tinneas bàsmhor. Note: a fatal illness.</def>
+         </entry>
+         <entry xml:id="AJSmith_SeilebostKFergusonmisc-idm37711952">
+            <form>
+               <orth>fiabhras-scàrlaid</orth>
+               <pron>[fıɤɾəs-skɑ:ʴɫɑdʹ]</pron>
+            </form>
+            <def>[fıɤɾəs-skɑ:ʴɫɑdʹ] Note: scarlet fever. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+         </entry>
+         <entry xml:id="AJSmith_SeilebostKFergusonmisc-idm37645064">
+            <form>
+               <orth>buidheach</orth>
+            </form>
+            <def>Quot.: a’ bhuidheach. Note: jaundice.</def>
+         </entry>
+         <entry xml:id="AJSmith_SeilebostKFergusonmisc-idm37632680">
+            <form>
+               <orth>brollach</orth>
+               <pron>[bɾɔɫɑx]</pron>
+            </form>
+            <def>[bɾɔɫɑx] Note: breast, chest.</def>
+         </entry>
+         <entry xml:id="AJSmith_SeilebostKFergusonmisc-idm37604312">
+            <form>
+               <orth>miala-crion</orth>
+               <pron>[mȷɤɫəkɾĩɤ̃ṉ]</pron>
+            </form>
+            <def>[mȷɤɫəkɾĩɤ̃ṉ] Note: chilblains.</def>
+         </entry>
+         <entry xml:id="AJSmith_SeilebostKFergusonmisc-idm37641320">
+            <form>
+               <orth>losgadh-bràghad</orth>
+            </form>
+            <def>Note: indigestion, heartburn.</def>
+         </entry>
+         <entry xml:id="AJSmith_SeilebostKFergusonmisc-idm37621952">
+            <form>
+               <orth>forc</orth>
+            </form>
+            <def>Note: cramp.</def>
+         </entry>
+         <entry xml:id="AJSmith_SeilebostKFergusonmisc-idm37595744">
+            <form>
+               <orth>sàileagan</orth>
+               <pron>[sɑ:ləɡɑṉ]</pron>
+            </form>
+            <def>[sɑ:ləɡɑṉ] Note: water-brash.</def>
+         </entry>
+         <entry xml:id="AJSmith_SeilebostKFergusonmisc-idm37604456">
+            <form>
+               <orth>foinne</orth>
+               <pron>[fonʹə]</pron>
+            </form>
+            <def>[fonʹə] Note: wart.</def>
+         </entry>
+         <entry xml:id="AJSmith_SeilebostKFergusonmisc-idm37668896">
+            <form>
+               <orth>niosgaid</orth>
+               <pron>[nʹw̃sɡɑdʹ]</pron>
+            </form>
+            <def>[nʹw̃sɡɑdʹ] Note: boil.</def>
+         </entry>
+         <entry xml:id="AJSmith_SeilebostKFergusonmisc-idm37654784">
+            <form>
+               <orth>leigheas</orth>
+               <pron>[lʹɛvəs]</pron>
+            </form>
+            <def>[lʹɛvəs] Note: healing.</def>
+         </entry>
+         <entry xml:id="AJSmith_SeilebostKFergusonmisc-idm37678904">
+            <form>
+               <orth>leum-drama</orth>
+            </form>
+            <def>Note: dislocation in the spine – slipped disc?</def>
+         </entry>
+         <entry xml:id="AJSmith_SeilebostKFergusonmisc-idm37695248">
+            <form>
+               <orth>rumatas</orth>
+               <pron>[rũ̜mɑṯəs]</pron>
+            </form>
+            <def>[rũ̜mɑṯəs] Note: rheumatism.</def>
+         </entry>
+         <entry xml:id="AJSmith_SeilebostKFergusonmisc-idm37599560">
+            <form>
+               <orth>fiabhras-rumatas</orth>
+               <pron>[fiɤɾəsɾw̃mɑṯəs]</pron>
+            </form>
+            <def>[fiɤɾəsɾw̃mɑṯəs] Note: rheumatic fever.</def>
+         </entry>
+         <entry xml:id="AJSmith_SeilebostKFergusonmisc-idm37708136">
+            <form>
+               <orth>losaid</orth>
+            </form>
+            <def>Quot.: “a’ dol as a losaid”. Note: dislocation of the hip-joint.</def>
+         </entry>
+         <entry xml:id="AJSmith_SeilebostKFergusonmisc-idm37606544">
+            <form>
+               <orth>uga</orth>
+            </form>
+            <def>Note: collarbone.</def>
+         </entry>
+         <entry xml:id="AJSmith_SeilebostKFergusonmisc-idm37311848">
+            <form>
+               <orth>frioghan</orth>
+               <pron>[fɾıɣɑṉ]</pron>
+            </form>
+            <def>[fɾıɣɑṉ] Note: ragnails.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_PointCFergusonslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1980</date>
+            <location>
+               <placeName>Lewis, Point</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>C. Ferguson</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_PointCFergusonslips-idp115455040">
+            <form>
+               <orth>deàrnag-muire</orth>
+            </form>
+            <def>Notes: ‘bonnach le grùthan ga phruich ris an teine’.</def>
+         </entry>
+         <entry xml:id="Slips_PointCFergusonslips-idp115439848">
+            <form>
+               <orth>deisneag</orth>
+            </form>
+            <def>Notes: swimming crab with hairy legs.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="DRMorrisonetal_Tireeanonymousmisc">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: a typed list with a handwritten note on the first page reading ‘List of words etc. mainly from Tiree, collected by MacGregor Whyte, the artist. [? unclear initial] Maclean’. Some corrections in black ink, which may have been added by the fieldworker himself (see below for details).]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Tiree</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[Duncan] MacGregor Whyte</persName>
+            </person>
+            <person role="informant">
+               <persName>?</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_Tireeanonymousmisc-idola409"
+             subtype="h1">Gaelic Words and Phrases, etc.</ab>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116298552">
+            <form>
+               <orth>[balg]</orth>
+            </form>
+            <def>Tha mi’ a choir a chorran cum balg a rathaid mhoir. [NOTES: originally ‘balgarathaid’, corrected to ‘balg a rathaid’.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116300280">
+            <form>
+               <orth>dlutheadh</orth>
+            </form>
+            <def>making corn stacks.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116301792">
+            <form>
+               <orth>gasenachd</orth>
+            </form>
+            <def>impudence. (Lorn)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116303304">
+            <form>
+               <orth>bideachachd an duileach’</orth>
+            </form>
+            <def>(perhaps biodachadh an duilias) – budding time. (Lorn)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116304888">
+            <form>
+               <orth>glaodh nan corr</orth>
+            </form>
+            <def>loud shout.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116306400">
+            <form>
+               <orth>mothar</orth>
+            </form>
+            <def>sound of voice.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116307912">
+            <form>
+               <orth>brathadair</orth>
+            </form>
+            <def>red embers of fire. (A kindler.)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116309424">
+            <form>
+               <orth>Tha leom orra shis</orth>
+            </form>
+            <def>high-minded.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116310936">
+            <form>
+               <orth>tuathach lion tatha</orth>
+            </form>
+            <def>binding, as lime in structure.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116312448">
+            <form>
+               <orth>clenagach</orth>
+            </form>
+            <def>curly bunch of hair.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116313960">
+            <form>
+               <orth>giragach</orth>
+            </form>
+            <def>short hair.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116315472">
+            <form>
+               <orth>iuthuchan</orth>
+            </form>
+            <def>cramp.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116316984">
+            <form>
+               <orth>Ruin iad am bith ud</orth>
+            </form>
+            <def>They made that rule.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116318712">
+            <form>
+               <orth>An t-ullach na drocharach</orth>
+            </form>
+            <def>height of misfortune.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116320224">
+            <form>
+               <orth>airbhasun</orth>
+            </form>
+            <def>certainty.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116321736">
+            <form>
+               <orth>suithe</orth>
+            </form>
+            <def>water from roof.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116323248">
+            <form>
+               <orth>froigne</orth>
+            </form>
+            <def>water from wall.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116324760">
+            <form>
+               <orth>tighinn fobha</orth>
+            </form>
+            <def>water uprising.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116326272">
+            <form>
+               <orth>an ratha dorcha</orth>
+            </form>
+            <def>dark quarter, no moon.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116327784">
+            <form>
+               <orth>glaiceain</orth>
+            </form>
+            <def>wedge or pin.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116329296">
+            <form>
+               <orth>deoch reidh iadach</orth>
+            </form>
+            <def>jealousy between husband and wife.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116330808">
+            <form>
+               <orth>buil bheur</orth>
+            </form>
+            <def>entire, ‘lock, stock and barrel’.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116332320">
+            <form>
+               <orth>aichbhal</orth>
+            </form>
+            <def>suffer for wrong done.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_Tireeanonymousmisc-idola410"
+             subtype="h2">Parts of the Spinning Wheel</ab>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116334696">
+            <form>
+               <orth>roth</orth>
+            </form>
+            <def>the wheel.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116336208">
+            <form>
+               <orth>goch</orth>
+            </form>
+            <def>the hub.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116337720">
+            <form>
+               <orth>na h’eich</orth>
+            </form>
+            <def>wheel supports.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116339232">
+            <form>
+               <orth>cir</orth>
+            </form>
+            <def>bobbin (?).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116340744">
+            <form>
+               <orth>iùran</orth>
+            </form>
+            <def>the bobbin spindle. [NOTES: the accent added.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116342472">
+            <form>
+               <orth>cròdh</orth>
+            </form>
+            <def>the hole in the bobbin spindle. [NOTES: the accent added.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116344200">
+            <form>
+               <orth>maighdeagan</orth>
+            </form>
+            <def>the bobbin supports.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116345928">
+            <form>
+               <orth>gruagach</orth>
+            </form>
+            <def>horizontal piece joining the feet of the maighdeagan [q.v.].</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116347728">
+            <form>
+               <orth>stoc</orth>
+            </form>
+            <def>the base.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116349240">
+            <form>
+               <orth>cran gleusaidh</orth>
+            </form>
+            <def>the adjusting screw in the base.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116350752">
+            <form>
+               <orth>casan</orth>
+            </form>
+            <def>the legs.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116352264">
+            <form>
+               <orth>caslachan</orth>
+            </form>
+            <def>the treadle.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116353776">
+            <form>
+               <orth>claidh damh (?)</orth>
+            </form>
+            <def>the connecting rod (?).</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116356152">
+            <form>
+               <orth>a seisibh air a ceann totadh</orth>
+            </form>
+            <def>on her beam ends.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_Tireeanonymousmisc-idola411"
+             subtype="h1">Gaelic Words and Phrases, etc. Contd. Page Two.</ab>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116358528">
+            <form>
+               <orth>faobhairt</orth>
+            </form>
+            <def>tempering steel.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116360040">
+            <form>
+               <orth>balagan</orth>
+            </form>
+            <def>clothes already worn.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116361552">
+            <form>
+               <orth>aitichean</orth>
+            </form>
+            <def>clothes already worn.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116363064">
+            <form>
+               <orth>falbhaiteach</orth>
+            </form>
+            <def>gad about from place to place.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116364576">
+            <form>
+               <orth>fiodhrach tarsuinn</orth>
+            </form>
+            <def>timbers of ship.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116366088">
+            <form>
+               <orth>blaradh an fhiodhrach tarsuinn</orth>
+            </form>
+            <def>taking rough off timbers.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116367600">
+            <form>
+               <orth>deob</orth>
+            </form>
+            <def>talk, clatter.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116369112">
+            <form>
+               <orth>fuisanach, fuisan</orth>
+            </form>
+            <def>restless, moving about.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116370624">
+            <form>
+               <orth>rimbal</orth>
+            </form>
+            <def>circle.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116372136">
+            <form>
+               <orth>rongais tarsalan</orth>
+            </form>
+            <def>step of ladder.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116373648">
+            <form>
+               <orth>oidhche nam banag</orth>
+            </form>
+            <def>Christmas Eve.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116375160">
+            <form>
+               <orth>milleadh fine</orth>
+            </form>
+            <def>a small useless man.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116376672">
+            <form>
+               <orth>[goillear]</orth>
+            </form>
+            <def>Ma bha a grinn bu naireach dha fear a ghoillear. Mu’n fhear aig an robh aodan mor goilleach. [NOTES: space inserted between ‘bu’ and ‘naireach’. The word ‘dha’ added.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116378400">
+            <form>
+               <orth>[ceann]</orth>
+            </form>
+            <def>Thainig moran nach do thog ceann idir. …did not succeed.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116379984">
+            <form>
+               <orth>sgeamhaltradh</orth>
+            </form>
+            <def>noisy excitement.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116381496">
+            <form>
+               <orth>amairt</orth>
+            </form>
+            <def>stiff neck after sleep.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116383008">
+            <form>
+               <orth>cas mar iteag</orth>
+            </form>
+            <def>upside down.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116384520">
+            <form>
+               <orth>Tha e na dhithean</orth>
+            </form>
+            <def>e.g. potatoes good and bad in patches.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116386032">
+            <form>
+               <orth>ga’n gabhail thar a cheile</orth>
+            </form>
+            <def>taking them one by one. [NOTES: originally ‘that’, corrected to ‘thar’.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116387832">
+            <form>
+               <orth>[amaladh]</orth>
+            </form>
+            <def>Tha e air amaladh air ais ’s air aghaidh. About piucaich getting mixed about in heavy weather.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116389344">
+            <form>
+               <orth>a spiorachadh air</orth>
+            </form>
+            <def>as a cat coming in on a bird.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116390856">
+            <form>
+               <orth>runaga smuidean</orth>
+            </form>
+            <def>a comet.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116392368">
+            <form>
+               <orth>goir teas</orth>
+            </form>
+            <def>heat haze over the land.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116393880">
+            <form>
+               <orth>Theid do chuin ris na talabardean</orth>
+            </form>
+            <def>Keep a man to his promise. [NOTES: originally ‘n a’, corrected to ‘na’.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_Tireeanonymousmisc-idp116395608">
+            <form>
+               <orth>moineasach</orth>
+            </form>
+            <def>slow. [NOTES: originally ‘moineaseach’, corrected to ‘moineasach’.]</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

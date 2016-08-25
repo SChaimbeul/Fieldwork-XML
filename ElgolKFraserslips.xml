@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_ElgolKFraserslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>03/1970</date>
+            <location>
+               <placeName>Skye, Elgol</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Mrs K. Fraser</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_ElgolKFraserslips-idp115442560">
+            <form>
+               <orth>dealtag-anmoch</orth>
+            </form>
+            <def>Notes: bat.</def>
+         </entry>
+         <entry xml:id="Slips_ElgolKFraserslips-idp115479352">
+            <form>
+               <orth>grulasg</orth>
+               <pron>[ɡɾu̜ɫəsɡ]</pron>
+            </form>
+            <def>[ɡɾu̜ɫəsɡ] Notes: crumbs, broken bits.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

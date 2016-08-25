@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="DRMorrisonetal_DurnessGMacKenziebiadh">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[1970]</date>
+            <location>
+               <placeName>Sutherland, Lairg, Durness</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>George MacKenzie</persName>
+               <age>67</age>
+               <birth>
+                  <placeName>Assynt, Stoer</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Food and Drink</term>
+               <term xml:lang="gd">Biadh is Deoch</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-d0e33"
+             subtype="h1">1. Na tràthan</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118820512">
+            <form>
+               <orth>bracast</orth>
+            </form>
+            <def>breakfast. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118816480">
+            <form>
+               <orth>deit</orth>
+            </form>
+            <def>dinner. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118812520">
+            <form>
+               <orth>seepar</orth>
+            </form>
+            <def>supper. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-d0e66"
+             subtype="h1">2. Am biadh a bhidhte gabhail aig gach tràth</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-d0e72"
+             subtype="h2">BRACAST</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118836928">
+            <form>
+               <orth>broase na leeit</orth>
+            </form>
+            <def>brose or porrage. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118839520">
+            <form>
+               <orth>hamma agus uighinn</orth>
+            </form>
+            <def>bacon and eggs. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-d0e96"
+             subtype="h2">DEIT</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118842328">
+            <form>
+               <orth>butata agus scadan</orth>
+            </form>
+            <def>potatoes and herring. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118845352">
+            <form>
+               <orth>broota</orth>
+            </form>
+            <def>broth. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118846864">
+            <form>
+               <orth>butata agus feooil</orth>
+            </form>
+            <def>potatoes and meat. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-d0e138"
+             subtype="h2">SEEPAR</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118849240">
+            <form>
+               <orth>tay</orth>
+            </form>
+            <def>tea. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118850752">
+            <form>
+               <orth>arran floor</orth>
+            </form>
+            <def>scones. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118852264">
+            <form>
+               <orth>arran cork</orth>
+            </form>
+            <def>oatcakes. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118853776">
+            <form>
+               <orth>arran eorna</orth>
+            </form>
+            <def>barley scones. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118855576">
+            <form>
+               <orth>eem agus greeam</orth>
+            </form>
+            <def>butter and crowdie. (Stoer, Assynt) (Greeam is crowdie in Assynt.)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118843840">
+            <form>
+               <orth>(pree)</orth>
+               <pron>[NOTES: not sure what this refers to. It is placed right above ‘bruich’ in the line below.]</pron>
+            </form>
+            <def>[NOTES: not sure what this refers to. It is placed right above ‘bruich’ in the line below.]</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118858384">
+            <form>
+               <orth>iasg bruich agus sauis (sabhs)</orth>
+            </form>
+            <def>boiled fish with the water the fish was boiled in. This latter was usually taken before going to bed. Iasg bruich agus sauis (sabhs) le arran cork. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118860328">
+            <form>
+               <orth>groo</orth>
+            </form>
+            <def>the whole cheese before being pressed.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118861840">
+            <form>
+               <orth>[butata]</orth>
+            </form>
+            <def>potatoes are never called buntata in Assynt. Always butata. The first potatoes known in Europe were brought by the Spaniards from Quito, Peru in 1553 and were known as “battata”. Perhaps the Assynt people are Spaniards and not descended from the MacLeods of Lewis and the MacKenzies of Gairloch as we were always led to believe!!!</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-d0e219"
+             subtype="h1">3. Dòighean air biadh a dheasachadh</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-d0e225"
+             subtype="h1">4. Fuine</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118865080">
+            <form>
+               <orth>fuine aran coirk</orth>
+            </form>
+            <def>baking oatcakes. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118866592">
+            <form>
+               <orth>fuine aran fluir</orth>
+            </form>
+            <def>baking flour scones. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118868104">
+            <form>
+               <orth>fuine aran urna</orth>
+            </form>
+            <def>baking barley bread. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118869616">
+            <form>
+               <orth>fuine aran shoggal</orth>
+            </form>
+            <def>mixture of flour and barley. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118871128">
+            <form>
+               <orth>“keppar”</orth>
+            </form>
+            <def>a “piece” to a boy or girl. (Stoer, Assynt) The “keppar” always consisted of a scone (flour) for preference or an oatcake with fresh butter and at least an inch of crowdie. “Hor ‘keppar’ dhan a bhallach!” – usually if the housewife was baking.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118873000">
+            <form>
+               <orth>[breacag nan</orth>
+               <pron>[?]</pron>
+            </form>
+            <def>[?] eorna] “Breacag nan [?] eorna nach eil solar na fallain.” Part of a New Year duan – the thin barley bannock was not appreciated. They would accept anything except that!</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118874728">
+            <form>
+               <orth>“mear”</orth>
+            </form>
+            <def>another word for a “piece” of bread. “Thor do cub mear.”</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118876456">
+            <form>
+               <orth>greddle</orth>
+            </form>
+            <def>girdle [sic] or griddle.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118877968">
+            <form>
+               <orth>brunder</orth>
+            </form>
+            <def>brander.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-d0e312"
+             subtype="h1">5. Deochan dhe gach seòrsa</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118880344">
+            <form>
+               <orth>deoch gheal</orth>
+            </form>
+            <def>water with oatmeal and sugar. Particularly if working outside – spring and harvest.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118881856">
+            <form>
+               <orth>sooan</orth>
+            </form>
+            <def>sowans: made from the sids after corn was at the mill.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118883368">
+            <form>
+               <orth>deoch porstar</orth>
+            </form>
+            <def>stout or porter. Each house used to get a firkin at harvest.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118884952">
+            <form>
+               <orth>deoch leion</orth>
+            </form>
+            <def>beer.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118886464">
+            <form>
+               <orth>meoag</orth>
+            </form>
+            <def>whey.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118887976">
+            <form>
+               <orth>bana grorst</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] sour milk.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118889488">
+            <form>
+               <orth>bana tiugh</orth>
+            </form>
+            <def>thick milk.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118891000">
+            <form>
+               <orth>baar</orth>
+            </form>
+            <def>cream.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-d0e390"
+             subtype="h1">6. Biadh no deoch a bhidhte deanamh gu sònraichte do luchd euslan</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-d0e396"
+             subtype="h1">7. Nithean a bhiodh ann nuair a rachadh beathach a mharbhadh</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-d0e411"
+             subtype="h1">8. Faclan sam bith eile</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118894312">
+            <form>
+               <orth>Glasgo</orth>
+            </form>
+            <def>Glasgow. Not Glascu as pronounced in most other places in the Highlands. According to Johnston’s Place Names of Scotland it was called Glasgo in 1116.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118896904">
+            <form>
+               <orth>romag</orth>
+            </form>
+            <def>Atholl brose. (Stoer, Assynt) Romag was usually made by mixing a handful of oatmeal with about ½ pint thick cream and then 1 gill of whisky, preferably malt whisky. I heard of honey being in the recipe but I never saw that. Honey was not common in the west coast.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp120014336">
+            <form>
+               <orth>Bha mi “callaigig” air</orth>
+            </form>
+            <def>I was calling on him. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp120012752">
+            <form>
+               <orth>Bha mi “callaigig” ooie</orth>
+            </form>
+            <def>I was calling on her. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp120012176">
+            <form>
+               <orth>mearanich</orth>
+            </form>
+            <def>yawning. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp120010232">
+            <form>
+               <orth>mearmin</orth>
+            </form>
+            <def>an itchy nostril, which foretold getting a letter. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp120008288">
+            <form>
+               <orth>mearculag</orth>
+            </form>
+            <def>midge.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp120007712">
+            <form>
+               <orth>errair</orth>
+            </form>
+            <def>(droch errair) heavy surf on the shore. (Stoer, Assynt) Tha fuiam [sic] mor aig a’ “errair” – when the sound of the swell on the shore was heard at a distance. I understand the word is derived from oir a’ tir – the edge of the land. I never heard it anywhere else except in Durness where it is called “ellair” – “Tha a h-ellair olc.”</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp120005840">
+            <form>
+               <orth>bruish</orth>
+            </form>
+            <def>broth. (Melness, Sutherland)</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

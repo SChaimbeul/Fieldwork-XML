@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="DRMorrisonetal_DurnessGMacKenziesheep">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[1970]</date>
+            <location>
+               <placeName>Sutherland, Lairg, Durness</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>George MacKenzie</persName>
+               <age>67</age>
+               <birth>
+                  <placeName>Assynt, Stoer</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Sheep</term>
+               <term xml:lang="gd">Caoraich</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziesheep-d0e33"
+             subtype="h1">1. Different stages in the growth of sheep (female)</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115309080">
+            <form>
+               <orth>uan “borran”</orth>
+            </form>
+            <def>female lamb. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115305408">
+            <form>
+               <orth>uan “ferrin”</orth>
+            </form>
+            <def>male lamb. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115300080">
+            <form>
+               <orth>oasg</orth>
+            </form>
+            <def>year old female. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115324416">
+            <form>
+               <orth>caora “hesk”</orth>
+            </form>
+            <def>sheep that missed the ram. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115325928">
+            <form>
+               <orth>beal “prest”</orth>
+            </form>
+            <def>broken mouthed. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziesheep-d0e84"
+             subtype="h1">2. Different stages in the growth of sheep (male)</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziesheep-d0e90"
+             subtype="h1">3. Different stages in the growth of the castrated male</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115329168">
+            <form>
+               <orth>moult</orth>
+            </form>
+            <def>wedder. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziesheep-d0e105"
+             subtype="h1">4. Sheep’s appearance</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115331544">
+            <form>
+               <orth>caorich brucach</orth>
+            </form>
+            <def>brown faced sheep. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115333056">
+            <form>
+               <orth>dubh ceannich</orth>
+            </form>
+            <def>black faced sheep. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115334568">
+            <form>
+               <orth>caora gheal</orth>
+            </form>
+            <def>white sheep. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115336080">
+            <form>
+               <orth>ruisg trom</orth>
+            </form>
+            <def>heavy fleece. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115337592">
+            <form>
+               <orth>caora “urragach”</orth>
+            </form>
+            <def>big horned sheep. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115339104">
+            <form>
+               <orth>caora maol</orth>
+            </form>
+            <def>sheep with no horns. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115340616">
+            <form>
+               <orth>[caorich mhor]</orth>
+            </form>
+            <def>Cheviots are usually called by the English name of the breed and about 50 years ago as caorich mhor.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115342128">
+            <form>
+               <orth>caora “ravar”</orth>
+            </form>
+            <def>fat sheep. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziesheep-d0e183"
+             subtype="h1">5. Miscellaneous</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115344504">
+            <form>
+               <orth>pait</orth>
+            </form>
+            <def>pet lamb. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115346016">
+            <form>
+               <orth>ruit</orth>
+            </form>
+            <def>partly castrated ram. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115347528">
+            <form>
+               <orth>riath</orth>
+            </form>
+            <def>ram. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziesheep-d0e216"
+             subtype="h1">6. Feeding and grazing</ab>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziesheep-d0e222"
+             subtype="h1">7. Handling of sheep</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115350768">
+            <form>
+               <orth>fuadachin</orth>
+            </form>
+            <def>driving to grazing. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115352280">
+            <form>
+               <orth>trusachin</orth>
+            </form>
+            <def>gathering for dipping, etc. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115353792">
+            <form>
+               <orth>fanga</orth>
+            </form>
+            <def>fank. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115355304">
+            <form>
+               <orth>dippar</orth>
+            </form>
+            <def>dipping trough. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115356816">
+            <form>
+               <orth>drippar</orth>
+            </form>
+            <def>dripping pen alongside tank. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115358328">
+            <form>
+               <orth>keel, buist</orth>
+            </form>
+            <def>marking. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115360272">
+            <form>
+               <orth>corrarich</orth>
+            </form>
+            <def>lug marking. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115362216">
+            <form>
+               <orth>spoth</orth>
+            </form>
+            <def>castrating. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115364232">
+            <form>
+               <orth>keer, keer</orth>
+            </form>
+            <def>call to a pet lamb. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziesheep-d0e309"
+             subtype="h1">8. Apparatus</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115366608">
+            <form>
+               <orth>teaghair</orth>
+            </form>
+            <def>tether. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115368120">
+            <form>
+               <orth>keepan</orth>
+            </form>
+            <def>tether stake. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115369632">
+            <form>
+               <orth>foodlan</orth>
+            </form>
+            <def>swivel. (Stoer, Assynt) The “foodlan” is usually an oblong piece of hard wood 4" x 2" x ½" (bigger for cattle) with two holes. The tether threaded through each hole from different side with an overhand knot on each rope, thus revolving in the “foodlan”. The modern iron swivel was merely called “sweevil”. <graphic url="DurnessGMacKenziesheepillust1.jpg" width="150px"/>
+            </def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziesheep-d0e343"
+             subtype="h1">9. Diseases</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115372440">
+            <form>
+               <orth>toak</orth>
+            </form>
+            <def>cataract on eyes. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115373952">
+            <form>
+               <orth>plock</orth>
+            </form>
+            <def>fluck (bag under jaw). (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115375464">
+            <form>
+               <orth>spoota</orth>
+            </form>
+            <def>diarrhoea. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115376976">
+            <form>
+               <orth>ruaidh</orth>
+            </form>
+            <def>inflamed udder. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115378920">
+            <form>
+               <orth>sclateran</orth>
+            </form>
+            <def>flukes in liver. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115380936">
+            <form>
+               <orth>silad</orth>
+            </form>
+            <def>sheep louse or keb. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115382448">
+            <form>
+               <orth>creag</orth>
+            </form>
+            <def>sheep struck by fly (maggots). (Stoer, Assynt) Tha creag “ooya” – ooya is used in Stoer for orra.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziesheep-d0e412"
+             subtype="h1">10. Parts of the body</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115385112">
+            <form>
+               <orth>ceann</orth>
+            </form>
+            <def>head. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115386624">
+            <form>
+               <orth>crackan</orth>
+            </form>
+            <def>hide. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115388136">
+            <form>
+               <orth>ugh</orth>
+            </form>
+            <def>udder. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115389648">
+            <form>
+               <orth>shinnan</orth>
+            </form>
+            <def>teats. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115391160">
+            <form>
+               <orth>arnan</orth>
+            </form>
+            <def>kidneys. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115392672">
+            <form>
+               <orth>skavan</orth>
+            </form>
+            <def>lungs. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115394184">
+            <form>
+               <orth>atha</orth>
+            </form>
+            <def>liver. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115395696">
+            <form>
+               <orth>stamag</orth>
+            </form>
+            <def>stomach. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp120011600">
+            <form>
+               <orth>culan</orth>
+            </form>
+            <def>intestines. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp120014984">
+            <form>
+               <orth>mionach</orth>
+            </form>
+            <def>intestines. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp119991368">
+            <form>
+               <orth>thannie or tannie</orth>
+            </form>
+            <def>abdominal fat. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp119990720">
+            <form>
+               <orth>geer</orth>
+            </form>
+            <def>fat round kidneys. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp119989856">
+            <form>
+               <orth>garr</orth>
+            </form>
+            <def>contents of the stomach. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp119988344">
+            <form>
+               <orth>broo (bru)</orth>
+            </form>
+            <def>belly. Tha broo mhor oyia.</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp119984456">
+            <form>
+               <orth>broinn</orth>
+            </form>
+            <def>usually applied to the inside in general. An a bhroinn na caora.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziesheep-d0e553"
+             subtype="h1">11. Lambing</ab>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp119985752">
+            <form>
+               <orth>cur uan</orth>
+            </form>
+            <def>sheep in labour. (Stoer, Assynt)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp119982296">
+            <form>
+               <orth>salachar</orth>
+            </form>
+            <def>afterbirth. (Stoer, Assynt)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="DRMorrisonetal_DurnessGMacKenziesheep-d0e577"
+             subtype="h1">12. Miscellaneous</ab>
+      </body>
+   </text>
+</TEI>

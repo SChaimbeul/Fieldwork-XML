@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Ecclesiastical_GlasgowDGrantbas">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Glasgow</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Donald Grant</persName>
+               <persName xml:lang="gd">Domhnall Grannd</persName>
+               <age>66</age>
+               <birth>
+                  <placeName>[Skye, Camus Chroise]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Death and Burial</term>
+               <term xml:lang="gd">Bàs is Adhlacadh</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Ecclesiastical_GlasgowDGrantbas-d0e32"
+             subtype="h1">1. Ag ullachadh a’ chuirp</ab>
+         <entry xml:id="Ecclesiastical_GlasgowDGrantbas-d0e37">
+            <form>
+               <orth>air an déile (f)</orth>
+            </form>
+            <def>laid out.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGrantbas-d0e46">
+            <form>
+               <orth>anart (f)</orth>
+            </form>
+            <def>shroud.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_GlasgowDGrantbas-d0e54"
+             subtype="h1">2. A’ chiste</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_GlasgowDGrantbas-d0e58"
+             subtype="h1">3. Faire</ab>
+         <entry xml:id="Ecclesiastical_GlasgowDGrantbas-d0e63">
+            <form>
+               <orth>a’ caithris</orth>
+            </form>
+            <def>keeping watch: ‘wake’.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_GlasgowDGrantbas-d0e71"
+             subtype="h1">4. A’ giùlan na ciste</ab>
+         <entry xml:id="Ecclesiastical_GlasgowDGrantbas-d0e76">
+            <form>
+               <orth>a’ ghiulan</orth>
+            </form>
+            <def>the “procession”.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGrantbas-d0e85">
+            <form>
+               <orth>“seas”, “seasaimh”</orth>
+            </form>
+            <def>stand aside for your turn to carry.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGrantbas-d0e94">
+            <form>
+               <orth>alair (m)</orth>
+            </form>
+            <def>food provided for mourners.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGrantbas-d0e103">
+            <form>
+               <orth>carbad (m)</orth>
+            </form>
+            <def>bier. (Sleat, Skye)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_GlasgowDGrantbas-d0e111"
+             subtype="h1">5. An cladh agus an uaigh</ab>
+         <entry xml:id="Ecclesiastical_GlasgowDGrantbas-d0e116">
+            <form>
+               <orth>roilig (f)</orth>
+            </form>
+            <def>lair.</def>
+         </entry>
+         <entry xml:id="Ecclesiastical_GlasgowDGrantbas-d0e125">
+            <form>
+               <orth>a’ cladhach</orth>
+            </form>
+            <def>digging (the grave).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_GlasgowDGrantbas-d0e133"
+             subtype="h1">6. Cleachdaidhean sam bith co-cheangailte ri bàs no adhlacadh</ab>
+      </body>
+   </text>
+</TEI>

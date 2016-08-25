@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="TireeandMull_TireeBarrapolHMacLeansheep">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Isle of Tiree, Barrapol</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>Ailean Boyd [Alan Boyd]</persName>
+            </person>
+            <person role="informant">
+               <persName>Hugh MacLean</persName>
+               <age>64</age>
+               <birth>
+                  <placeName>Tiree</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Sheep</term>
+               <term xml:lang="gd">Caoraich</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e29"
+             subtype="h1">1. Different stages in the growth of sheep (female)</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e34">
+            <form>
+               <orth>uan (m), uain (pl)</orth>
+            </form>
+            <def>lamb (male and female).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e43">
+            <form>
+               <orth>odharc (f), odharcain (pl)</orth>
+            </form>
+            <def>(after weaning) female up to a year old and before giving birth (hog).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e52">
+            <form>
+               <orth>caora (f)</orth>
+            </form>
+            <def>female which has lambed (ewe).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e61">
+            <form>
+               <orth>cnog (f) (crog), cnogaichean (pl)</orth>
+            </form>
+            <def>cast ewe (after 7 years).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e70">
+            <form>
+               <orth>molt (m), muilt (pl)</orth>
+            </form>
+            <def>(after weaning) wether.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e79">
+            <form>
+               <orth>spoth</orth>
+            </form>
+            <def>castrate. Tha mi dol gam spoth.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e88">
+            <form>
+               <orth>uan-reithe</orth>
+            </form>
+            <def>lamb kept for breeding (male).</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e97">
+            <form>
+               <orth>reithe, reitheachan</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] ram.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e106">
+            <form>
+               <orth>seann-reithe</orth>
+            </form>
+            <def>old ram.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e114"
+             subtype="h1">2. Different stages in the growth of sheep (male)</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e118"
+             subtype="h1">3. Different stages in the growth of the castrated male</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e122"
+             subtype="h1">4. Sheep’s appearance</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e127">
+            <form>
+               <orth>caora chros</orth>
+            </form>
+            <def>white-faced sheep.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e136">
+            <form>
+               <orth>caora dhuibhcheannach</orth>
+            </form>
+            <def>black-faced sheep.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e145">
+            <form>
+               <orth>caora dhubh, caoraich dhubha</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] black sheep.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e154">
+            <form>
+               <orth>caora adhairceach, caoraich adhairceach</orth>
+               <pron>[pl]</pron>
+            </form>
+            <def>[pl] horned sheep.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e163">
+            <form>
+               <orth>caora mhaol</orth>
+            </form>
+            <def>sheep with no horns.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e172">
+            <form>
+               <orth>caora reamhar</orth>
+            </form>
+            <def>fat sheep for butchering.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e180"
+             subtype="h1">5. Miscellaneous</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e185">
+            <form>
+               <orth>piatan</orth>
+            </form>
+            <def>pet lamb.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e194">
+            <form>
+               <orth>peuta</orth>
+            </form>
+            <def>pet lamb.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e203">
+            <form>
+               <orth>càraid (f), càraidean</orth>
+            </form>
+            <def>twin lamb.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e212">
+            <form>
+               <orth>caor’ uain</orth>
+            </form>
+            <def>milk ewe.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e221">
+            <form>
+               <orth>caora chàraid</orth>
+            </form>
+            <def>sheep with twins.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e230">
+            <form>
+               <orth>caora chaillte</orth>
+            </form>
+            <def>a sheep that has strayed.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e239">
+            <form>
+               <orth>rig (English), rigeachan (pl)</orth>
+            </form>
+            <def>partly castrated ram.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e248">
+            <form>
+               <orth>reithe beag</orth>
+            </form>
+            <def>small ram.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e256"
+             subtype="h1">6. Feeding and grazing</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e261">
+            <form>
+               <orth>a’ biadhadh</orth>
+            </form>
+            <def>handfeeding.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e270">
+            <form>
+               <orth>troch (f), trochaichean (pl)</orth>
+            </form>
+            <def>trough.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-idola219">
+            <form>
+               <orth>[hay]</orth>
+            </form>
+            <def>(No hay fed to sheep in Tiree. Sheep left to find their own water.)</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e288">
+            <form>
+               <orth>feurach</orth>
+            </form>
+            <def>grazing for sheep.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e297">
+            <form>
+               <orth>sliabh</orth>
+            </form>
+            <def>beat of a sheep on the moor.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e306">
+            <form>
+               <orth>machaire</orth>
+            </form>
+            <def>beat of a sheep on the moor.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e315">
+            <form>
+               <orth>caiticheann</orth>
+            </form>
+            <def>beat of a sheep on the moor.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e323"
+             subtype="h1">7. Handling of sheep</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e328">
+            <form>
+               <orth>cìobaireachd (f)</orth>
+            </form>
+            <def>handling of sheep.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e337">
+            <form>
+               <orth>cròth (a’ cròthag)</orth>
+            </form>
+            <def>enclosing sheep in a fank or fold.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e346">
+            <form>
+               <orth>cròth (m)</orth>
+            </form>
+            <def>enclosure, fank, fold.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e355">
+            <form>
+               <orth>caigeann chaora</orth>
+            </form>
+            <def>a few sheep.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e364">
+            <form>
+               <orth>mòran chaora</orth>
+            </form>
+            <def>many sheep. (Not ‘móran’ in Tiree.)</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e373">
+            <form>
+               <orth>’gan cnogadh</orth>
+            </form>
+            <def>taking ewes out of the breeding flock after 2 [?] years (casting). Chnog mi iad. – I cast them.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e382">
+            <form>
+               <orth>fang (m)</orth>
+            </form>
+            <def>fank.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e391">
+            <form>
+               <orth>cù-chaorach</orth>
+            </form>
+            <def>sheepdog.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e399"
+             subtype="h2">Commands</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e404">
+            <form>
+               <orth>Thig a-nuas</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e410">
+            <form>
+               <orth>Thig a-staigh</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e416">
+            <form>
+               <orth>Fan a-mach</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e422">
+            <form>
+               <orth>bocsa-dipich</orth>
+            </form>
+            <def>dipping trough.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e431">
+            <form>
+               <orth>a’ dipeadh</orth>
+            </form>
+            <def>dipping.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e440">
+            <form>
+               <orth>Tha mi cur “kil” air a’ chaora</orth>
+            </form>
+            <def>marking.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e449">
+            <form>
+               <orth>comharradh or smeòrach</orth>
+               <pron>[sic]</pron>
+            </form>
+            <def>[sic] ear-marking.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e458">
+            <form>
+               <orth>[beum-cul]</orth>
+            </form>
+            <def>
+               <graphic url="TireeBarrapolHMacLeansheepillust1.jpg" width="300px"/>
+            </def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e467">
+            <form>
+               <orth>[leigeadh]</orth>
+            </form>
+            <def>
+               <graphic url="TireeBarrapolHMacLeansheepillust1.jpg" width="300px"/>
+            </def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e476">
+            <form>
+               <orth>[toll]</orth>
+            </form>
+            <def>
+               <graphic url="TireeBarrapolHMacLeansheepillust1.jpg" width="300px"/>
+            </def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e485">
+            <form>
+               <orth>[barra-gobhlag]</orth>
+            </form>
+            <def>
+               <graphic url="TireeBarrapolHMacLeansheepillust2.jpg" width="300px"/>]</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e495">
+            <form>
+               <orth>[bàcan]</orth>
+            </form>
+            <def>
+               <graphic url="TireeBarrapolHMacLeansheepillust3.jpg" width="200px"/>
+            </def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e503"
+             subtype="h1">8. Apparatus</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e508">
+            <form>
+               <orth>feisde</orth>
+            </form>
+            <def>means of tying outdoors.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e517">
+            <form>
+               <orth>cìoban</orth>
+            </form>
+            <def>tether stake.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e526">
+            <form>
+               <orth>udalan</orth>
+            </form>
+            <def>swivel. Udalan dubailte nan robh iad ann an caigeann. 2 on one feised [sic] bha iad ann an caigeann.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-idola220">
+            <form>
+               <orth>[note]</orth>
+               <pron>[NOTES: this section in pencil and unclear.]</pron>
+            </form>
+            <def>[NOTES: this section in pencil and unclear.]</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e543"
+             subtype="h1">9. Diseases</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-idola221">
+            <form>
+               <orth>[note]</orth>
+               <pron>[NOTES: this section also in pencil.]</pron>
+            </form>
+            <def>[NOTES: this section also in pencil.]</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e556"
+             subtype="h2">(a) diseases of the skin; warts, swellings, spots; ticks, worms</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e561">
+            <form>
+               <orth>a’ choich</orth>
+            </form>
+            <def>scab.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e570">
+            <form>
+               <orth>miolan chaorach</orth>
+            </form>
+            <def>sheep louse.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e579">
+            <form>
+               <orth>galar nan gamhna</orth>
+            </form>
+            <def>ringworm in cattle, 6-18 months.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e587"
+             subtype="h2">(b) diseases of the head, neck and throat</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e592">
+            <form>
+               <orth>suirsdean (m)</orth>
+            </form>
+            <def>disease of the head, pocket of fluid pressing on the brain.</def>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e601">
+            <form>
+               <orth>dalladh</orth>
+            </form>
+            <def>blinding – cataract. Cure: – salt-peter – glaoine air a phronnadh – tobacco spat.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e609"
+             subtype="h2">(c) diseases of the bone structure</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e614">
+            <form>
+               <orth>loinidh (f)</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e620">
+            <form>
+               <orth>footrot in sheep</orth>
+            </form>
+            <def>no Gaelic.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e628"
+             subtype="h2">diseases of the internal organs</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e633">
+            <form>
+               <orth>liverfluke</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e639">
+            <form>
+               <orth>roundworm in intestines.</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e644"
+             subtype="h2">(e) disease affecting the udder and milk production</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e648"
+             subtype="h2">(f) injury of any kind</ab>
+         <entry xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e653">
+            <form>
+               <orth>cas-bhristeadh</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e658"
+             subtype="h1">10. Parts of the body</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e662"
+             subtype="h1">11. Lambing</ab>
+         <ab type="heading"
+             xml:id="TireeandMull_TireeBarrapolHMacLeansheep-d0e666"
+             subtype="h1">12. Miscellaneous</ab>
+      </body>
+   </text>
+</TEI>

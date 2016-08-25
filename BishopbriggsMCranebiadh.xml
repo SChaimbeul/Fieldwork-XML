@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="AOHenley_BishopbriggsMCranebiadh">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[1987-88]</date>
+            <location>
+               <placeName>Bishopbriggs</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>A. O’Henley</persName>
+            </person>
+            <person role="informant">
+               <persName>Mrs Mary Crane</persName>
+               <birth>
+                  <placeName>[Lewis]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Food and Drink</term>
+               <term xml:lang="gd">Biadh is Deoch</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="AOHenley_BishopbriggsMCranebiadh-d0e29"
+             subtype="h1">1. Na tràthan</ab>
+         <entry xml:id="AOHenley_BishopbriggsMCranebiadh-idm233032">
+            <form>
+               <orth>lite</orth>
+            </form>
+            <def>morning.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_BishopbriggsMCranebiadh-d0e42"
+             subtype="h1">2. Am biadh a bhidhte gabhail aig gach tràth</ab>
+         <ab type="heading"
+             xml:id="AOHenley_BishopbriggsMCranebiadh-d0e46"
+             subtype="h1">3. Dòighean air biadh a dheasachadh</ab>
+         <entry xml:id="AOHenley_BishopbriggsMCranebiadh-idm229792">
+            <form>
+               <orth>praisean</orth>
+            </form>
+            <def>3 legged pots.</def>
+         </entry>
+         <entry xml:id="AOHenley_BishopbriggsMCranebiadh-idm228280">
+            <form>
+               <orth>slabhraidh</orth>
+            </form>
+            <def>chain upon which the pot hung.</def>
+         </entry>
+         <entry xml:id="AOHenley_BishopbriggsMCranebiadh-idm226768">
+            <form>
+               <orth>greideal</orth>
+            </form>
+         </entry>
+         <entry xml:id="AOHenley_BishopbriggsMCranebiadh-idm225256">
+            <form>
+               <orth>biothd</orth>
+               <pron>[?]</pron>
+            </form>
+            <def>[?] instrument used to make cheese. </def>
+         </entry>
+         <entry xml:id="AOHenley_BishopbriggsMCranebiadh-idm223744">
+            <form>
+               <orth>blàthach</orth>
+            </form>
+            <def>buttermilk.</def>
+         </entry>
+         <entry xml:id="AOHenley_BishopbriggsMCranebiadh-idm222232">
+            <form>
+               <orth>bàrr</orth>
+            </form>
+            <def>cream.</def>
+         </entry>
+         <entry xml:id="AOHenley_BishopbriggsMCranebiadh-idm220720">
+            <form>
+               <orth>gruth</orth>
+            </form>
+            <def>crowdie.</def>
+         </entry>
+         <entry xml:id="AOHenley_BishopbriggsMCranebiadh-idm219208">
+            <form>
+               <orth>maog</orth>
+            </form>
+            <def>whey.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_BishopbriggsMCranebiadh-d0e120"
+             subtype="h1">4. Fuine</ab>
+         <entry xml:id="AOHenley_BishopbriggsMCranebiadh-idm216832">
+            <form>
+               <orth>taois</orth>
+            </form>
+            <def>dough.</def>
+         </entry>
+         <entry xml:id="AOHenley_BishopbriggsMCranebiadh-idm215320">
+            <form>
+               <orth>breacag</orth>
+            </form>
+            <def>breacag arain.</def>
+         </entry>
+         <entry xml:id="AOHenley_BishopbriggsMCranebiadh-idm213808">
+            <form>
+               <orth>bonnach</orth>
+            </form>
+            <def>bannock.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_BishopbriggsMCranebiadh-d0e151"
+             subtype="h1">5. Deochan dhe gach seòrsa</ab>
+         <ab type="heading"
+             xml:id="AOHenley_BishopbriggsMCranebiadh-d0e155"
+             subtype="h1">6. Biadh no deoch a bhidhte deanamh gu sònraichte do luchd euslan</ab>
+         <ab type="heading"
+             xml:id="AOHenley_BishopbriggsMCranebiadh-d0e159"
+             subtype="h1">7. Nithean a bhiodh ann nuair a rachadh beathach a mharbhadh</ab>
+         <entry xml:id="AOHenley_BishopbriggsMCranebiadh-idm209632">
+            <form>
+               <orth>breallan (mór, beag)</orth>
+            </form>
+            <def>sheep’s stomach.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="AOHenley_BishopbriggsMCranebiadh-d0e172"
+             subtype="h1">8. Faclan sam bith eile</ab>
+      </body>
+   </text>
+</TEI>

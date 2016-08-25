@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Ecclesiastical_NethyBridgeNSmitheccles">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Inverness-shire, Nethy Bridge</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>self</persName>
+            </person>
+            <person role="informant">
+               <persName>Noel Smith</persName>
+               <age>38</age>
+               <birth>
+                  <placeName>Inverness-shire, Nethy Bridge</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Ecclesiastical Terms</term>
+               <term xml:lang="gd">An Eaglais</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Ecclesiastical_NethyBridgeNSmitheccles-d0e29"
+             subtype="h1">1. Various denominations</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_NethyBridgeNSmitheccles-d0e33"
+             subtype="h1">2. Member of each of these denominations</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_NethyBridgeNSmitheccles-d0e37"
+             subtype="h1">3. Different courts of the Presbyterian churches</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_NethyBridgeNSmitheccles-d0e41"
+             subtype="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_NethyBridgeNSmitheccles-d0e45"
+             subtype="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</ab>
+         <entry xml:id="Ecclesiastical_NethyBridgeNSmitheccles-d0e50">
+            <form>
+               <orth>sagairt</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_NethyBridgeNSmitheccles-d0e55"
+             subtype="h1">6. Holy Orders within the Roman Catholic church</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_NethyBridgeNSmitheccles-d0e59"
+             subtype="h1">7. Articles of dress or adornment</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_NethyBridgeNSmitheccles-d0e63"
+             subtype="h1">8. Church building and churchyard</ab>
+         <entry xml:id="Ecclesiastical_NethyBridgeNSmitheccles-d0e68">
+            <form>
+               <orth>eaglais</orth>
+            </form>
+            <def>This is the word I have always heard for a church but it may be interesting to note that there are three farms in this district called Achnahannet. Not very long ago looking through the dictionary I came on the word ‘annaid’ meaning a church, which may suggest that that word was used in the district at one time.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_NethyBridgeNSmitheccles-d0e76"
+             subtype="h1">9. Church furniture and ornaments</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_NethyBridgeNSmitheccles-d0e80"
+             subtype="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</ab>
+         <ab type="heading"
+             xml:id="Ecclesiastical_NethyBridgeNSmitheccles-d0e84"
+             subtype="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</ab>
+         <entry xml:id="Ecclesiastical_NethyBridgeNSmitheccles-d0e89">
+            <form>
+               <orth>Dia</orth>
+            </form>
+         </entry>
+         <entry xml:id="Ecclesiastical_NethyBridgeNSmitheccles-d0e95">
+            <form>
+               <orth>Tighearn</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="Ecclesiastical_NethyBridgeNSmitheccles-d0e100"
+             subtype="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</ab>
+      </body>
+   </text>
+</TEI>

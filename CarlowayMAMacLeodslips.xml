@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_CarlowayMAMacLeodslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1971, 1977</date>
+            <location>
+               <placeName>Lewis, Carloway</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>Mary Ann MacLeod</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_CarlowayMAMacLeodslips-idp115468056">
+            <form>
+               <orth>siorstaigeadh</orth>
+            </form>
+            <def>Notes: ‘playing truant.’</def>
+         </entry>
+         <entry xml:id="Slips_CarlowayMAMacLeodslips-idp115484112">
+            <form>
+               <orth>criomadair</orth>
+            </form>
+            <def>Notes: ‘cleg.’</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

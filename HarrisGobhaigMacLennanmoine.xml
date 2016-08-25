@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location corresp="Harris_Gobhaig"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self?]</persName>
+        </person>
+        <person role="informant" corresp="A_MacLennan_Harris_Gobhaig"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Peat-Working</term>
+          <term xml:lang="gd">Mòine</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e31">1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e36">
+          <form>
+            <orth>a feannadh</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e42">
+          <form>
+            <orth>a rùsgadh</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e48">
+          <form>
+            <orth>striochdadh</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e54">
+          <form>
+            <orth>feanntach, na sgrath, ceap</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e60">
+          <form>
+            <orth>pol-mona</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e66">
+          <form>
+            <orth>grabhag</orth>
+          </form>
+          <def>pol-mona beag.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e75">
+          <form>
+            <orth>carcair</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e81">
+          <form>
+            <orth>peirceall</orth>
+          </form>
+          <def>aon taobh puill – fear goirid.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e89">2. A’ buain na mònach; na h-innealan a chleachdar, ainmean nam fàdan, etc.</head>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e94">
+          <form>
+            <orth>tairisgear</orth>
+          </form>
+          <def>
+            <graphic url="HarrisGobhaigMacLennanmoineillust1.jpg" width="300px"/>
+          </def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e103">
+          <form>
+            <orth>smeachan</orth>
+          </form>
+          <def>[See tairisgear.]</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e112">
+          <form>
+            <orth>sàl</orth>
+          </form>
+          <def>[See tairisgear.]</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e121">
+          <form>
+            <orth>cas</orth>
+          </form>
+          <def>[See tairisgear.]</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e130">
+          <form>
+            <orth>sgian</orth>
+          </form>
+          <def>[See tairisgear.]</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e139">
+          <form>
+            <orth>iaran monadh</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e145">
+          <form>
+            <orth>an fhad bhàn, na bàrr-fhad</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e151">
+          <form>
+            <orth>an fhad dhubh</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e157">
+          <form>
+            <orth>an caothran</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e163">
+          <form>
+            <orth>còrr-fhàd</orth>
+          </form>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e168">3. A’ tiormachadh na mònach</head>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e173">
+          <form>
+            <orth>sgaoilteach</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e179">
+          <form>
+            <orth>garradh</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e185">
+          <form>
+            <orth>cailleagan</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e191">
+          <form>
+            <orth>ruthain</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e197">
+          <form>
+            <orth>a ruthadh</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e203">
+          <form>
+            <orth>a togail</orth>
+          </form>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e208">4. A’ cruachadh na mònach</head>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e213">
+          <form>
+            <orth>cruach puill</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e219">
+          <form>
+            <orth>cruach steidhidh</orth>
+          </form>
+          <def>Lewis.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e228">
+          <form>
+            <orth>cruach gniomhaidh</orth>
+          </form>
+          <def>Harris.</def>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e237">
+          <form>
+            <orth>cruach tughaidh</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e243">
+          <form>
+            <orth>cruach geamhraidh</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e249">
+          <form>
+            <orth>cruach sgorraidh</orth>
+          </form>
+          <def>sgorraidhean deth sgrathan gus a’ ghaoth a’ leigeal a steach. <graphic url="HarrisGobhaigMacLennanmoineillust2.jpg" width="200px"/>
+          </def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e259">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e264">
+          <form>
+            <orth>cliabh</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e270">
+          <form>
+            <orth>poca</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e276">
+          <form>
+            <orth>bara-cuidhle</orth>
+          </form>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e281">6. Seòrsachan mònach</head>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e286">
+          <form>
+            <orth>moine bhan - moine chòsach</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e292">
+          <form>
+            <orth>caoran dubh</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e298">
+          <form>
+            <orth>smùr</orth>
+          </form>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e303">7. Faclan eile</head>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e308">
+          <form>
+            <orth>spionadh</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e314">
+          <form>
+            <orth>scrathadh</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e320">
+          <form>
+            <orth>tuthadh</orth>
+          </form>
+        </entry>
+        <entry xml:id="HarrisMacLennan_HarrisGobhaigMacLennanmoine-d0e326">
+          <form>
+            <orth>sgorraidhean</orth>
+          </form>
+        </entry>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="TireeandMull_MullBunessanWMacDonaldlobster">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: one word contributed by David MacClounnan from Tiree. See below for details.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Muile, Bùn Easain [Mull, Bunessan]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[Alan Boyd]</persName>
+            </person>
+            <person role="informant">
+               <persName>William MacDonald</persName>
+               <persName xml:lang="gd">Uilleam Dòmhnallach </persName>
+               <age>73</age>
+               <birth>
+                  <placeName>An Ros Muileach [Ross of Mull]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Lobster-Fishing</term>
+               <term xml:lang="gd">Iasgach a’ Ghiomaich</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e35"
+             subtype="h1">The Lobster</ab>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e40">
+            <form>
+               <orth>giomach fìreann</orth>
+            </form>
+            <def>male lobster.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e49">
+            <form>
+               <orth>giomach boireann</orth>
+            </form>
+            <def>female lobster.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e58">
+            <form>
+               <orth>spogan</orth>
+            </form>
+            <def>claws.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e67">
+            <form>
+               <orth>spog mhór</orth>
+            </form>
+            <def>large claw.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e76">
+            <form>
+               <orth>siosar</orth>
+            </form>
+            <def>large claw.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e85">
+            <form>
+               <orth>spog bheag</orth>
+            </form>
+            <def>small claw.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e94">
+            <form>
+               <orth>ceann</orth>
+            </form>
+            <def>head.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e103">
+            <form>
+               <orth>giuran</orth>
+            </form>
+            <def>gills.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e112">
+            <form>
+               <orth>urball (m)</orth>
+            </form>
+            <def>tail.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e121">
+            <form>
+               <orth>bogag (f) bogagan (pl)</orth>
+            </form>
+            <def>soft-shelled lobster.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e130">
+            <form>
+               <orth>slige</orth>
+            </form>
+            <def>shell-cast.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e139">
+            <form>
+               <orth>bomar (m)</orth>
+            </form>
+            <def>lobster with both claws missing. (From David MacClounnan, Tiree.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e147"
+             subtype="h1">The Creel</ab>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e152">
+            <form>
+               <orth>cliabh-ghiomach</orth>
+            </form>
+            <def>creel.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e161">
+            <form>
+               <orth>deanamh cléibh</orth>
+            </form>
+            <def>making a creel.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e170">
+            <form>
+               <orth>fiodh</orth>
+            </form>
+            <def>the base.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e179">
+            <form>
+               <orth>boghachan</orth>
+            </form>
+            <def>rods.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e188">
+            <form>
+               <orth>cinn bhiorach</orth>
+            </form>
+            <def>sharpened ends of rods.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e197">
+            <form>
+               <orth>lìon</orth>
+            </form>
+            <def>the netting. Attached to base by marlin twine – sreanganan (strings).</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e206">
+            <form>
+               <orth>cur lìon air cliabh</orth>
+            </form>
+            <def>netting a creel.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e215">
+            <form>
+               <orth>Tha mi comhdachadh a’ chliabh.</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e221">
+            <form>
+               <orth>sùil</orth>
+            </form>
+            <def>the eye.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e230">
+            <form>
+               <orth>clach</orth>
+            </form>
+            <def>weight.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e239">
+            <form>
+               <orth>sreang bhiathaidh</orth>
+            </form>
+            <def>bait-holder.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e248">
+            <form>
+               <orth>ròpa</orth>
+            </form>
+            <def>rope (manilla).</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e257">
+            <form>
+               <orth>buidhe, buidheachan</orth>
+            </form>
+            <def>floats.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e266">
+            <form>
+               <orth>arachd, arachdan</orth>
+            </form>
+            <def>cork floats.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e275">
+            <form>
+               <orth>dorus</orth>
+            </form>
+            <def>door (for admitting hand).</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e284">
+            <form>
+               <orth>ròbh, robhaichean (pl)</orth>
+            </form>
+            <def>fleet of creels, when attached to a single line.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e292"
+             subtype="h1">Fishing</ab>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e297">
+            <form>
+               <orth>cur a-mach nan cléibh</orth>
+            </form>
+            <def>shooting a creel.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e306">
+            <form>
+               <orth>slaodadh</orth>
+            </form>
+            <def>hauling a creel.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e315">
+            <form>
+               <orth>biadh-chléibh</orth>
+            </form>
+            <def>bait.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e323"
+             subtype="h2">kinds  used</ab>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e328">
+            <form>
+               <orth>reannach (righinn)</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e334">
+            <form>
+               <orth>lèabagan (righinn)</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e340">
+            <form>
+               <orth>sgat (righinn)</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e345"
+             subtype="h2">Cleaning a creel, what creatures found within</ab>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e350">
+            <form>
+               <orth>glanadh a’ chléibh</orth>
+            </form>
+            <def>cleaning a creel.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e359">
+            <form>
+               <orth>cruban, crubain (m)</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e365">
+            <form>
+               <orth>partan</orth>
+            </form>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e371">
+            <form>
+               <orth>conach (m), conachagan</orth>
+            </form>
+            <def>whelk, 3" [?] long.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e379"
+             subtype="h2">Other terms</ab>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e384">
+            <form>
+               <orth>milleadh air an ròp</orth>
+            </form>
+            <def>fraying, or frayed, rope.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e393">
+            <form>
+               <orth>ropa briste</orth>
+            </form>
+            <def>broken rope.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e402">
+            <form>
+               <orth>Tha an cliabh an greim</orth>
+            </form>
+            <def>creel wedged on ground.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e411">
+            <form>
+               <orth>ceangal na spògan le sreang</orth>
+            </form>
+            <def>tying claws of lobsters.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e420">
+            <form>
+               <orth>bocsa ghiomach</orth>
+            </form>
+            <def>keep-box.</def>
+         </entry>
+         <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e429">
+            <form>
+               <orth>acair, acraichean</orth>
+            </form>
+            <def>moorings of keep-box.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

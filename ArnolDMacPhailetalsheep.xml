@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="CattleandSheep_ArnolDMacPhailetalsheep">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the fieldworker gives informants as ‘various’ but then goes on to list only Donald MacPhail.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>[Lewis], Arnol</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>Major N. T. MacLeod</persName>
+            </person>
+            <person role="informant">
+               <persName>Donald MacPhail</persName>
+               <persName xml:lang="gd">Domhnull a chriomanaich [?]</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Sheep</term>
+               <term xml:lang="gd">Caoraich</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e29"
+             subtype="h1">1. Different stages in the growth of sheep (female)</ab>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e34">
+            <form>
+               <orth>uan bòrun</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e40">
+            <form>
+               <orth>uan firin</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e46">
+            <form>
+               <orth>othisg</orth>
+            </form>
+            <def>male and female.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e55">
+            <form>
+               <orth>tiarinach</orth>
+            </form>
+            <def>a year old, male and female.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e64">
+            <form>
+               <orth>caora chiad ain  (first lamb)</orth>
+               <pron>[?]</pron>
+            </form>
+            <def>[?] 2 year old female.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e73">
+            <form>
+               <orth>caora uain</orth>
+            </form>
+            <def>till toothless with age.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e82">
+            <form>
+               <orth>reith</orth>
+            </form>
+            <def>a young male lamb under one year of age.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e91">
+            <form>
+               <orth>rùda</orth>
+            </form>
+            <def>a male a year of age and over.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e100">
+            <form>
+               <orth>tiarinach mult</orth>
+            </form>
+            <def>a castrated male one year old.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e109">
+            <form>
+               <orth>mult</orth>
+            </form>
+            <def>a castrated male a year old and over (wedder).</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e118">
+            <form>
+               <orth>uanreth ( ua’reith)</orth>
+               <pron>[pron.?]</pron>
+            </form>
+            <def>[pron.?] male lamb.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e127">
+            <form>
+               <orth>an fhíor othisg</orth>
+            </form>
+            <def>othisg le uan, giving birth within a year, first year of its life.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e136">
+            <form>
+               <orth>leth uan</orth>
+            </form>
+            <def>twin.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-idola59">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>(Losin [sic] all respect for the present Gaelic orthography.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e153"
+             subtype="h1">2. Different stages in the growth of sheep (male)</ab>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-idola60">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>see page 1</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e166"
+             subtype="h1">3. Different stages in the growth of the castrated male</ab>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-idola61">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>see page 1</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e179"
+             subtype="h1">4. Sheep’s appearance</ab>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e184">
+            <form>
+               <orth>caora mhaol</orth>
+            </form>
+            <def>hornless.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e193">
+            <form>
+               <orth>caora sgrogach</orth>
+            </form>
+            <def>small twisted horns.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e202">
+            <form>
+               <orth>caora bhrògach</orth>
+            </form>
+            <def>black faced sheep.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e211">
+            <form>
+               <orth>caora bhàn</orth>
+            </form>
+            <def>white faced sheep.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e220">
+            <form>
+               <orth>caora bhreac</orth>
+            </form>
+            <def>speckled face.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e229">
+            <form>
+               <orth>caora dhubh</orth>
+            </form>
+            <def>black sheep.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e238">
+            <form>
+               <orth>caora thulloch (ballach)</orth>
+            </form>
+            <def>black-white. [NOTES: ‘ballach’ added later.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e247">
+            <form>
+               <orth>caora sheasc</orth>
+            </form>
+            <def>lambless.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e256">
+            <form>
+               <orth>dubh cheannach</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e262">
+            <form>
+               <orth>bò riabhach</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e268">
+            <form>
+               <orth>bò lachduinn</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e273"
+             subtype="h1">5. Miscellaneous</ab>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e278">
+            <form>
+               <orth>da leth-uain</orth>
+            </form>
+            <def>twins.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e287">
+            <form>
+               <orth>caora chonadail</orth>
+            </form>
+            <def>stray sheep.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e296">
+            <form>
+               <orth>teilmigair</orth>
+            </form>
+            <def>partly castrated or its testicles wanting.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e305">
+            <form>
+               <orth>rig</orth>
+            </form>
+            <def>partly castrated or its testicles wanting.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e314">
+            <form>
+               <orth>feilimgeir</orth>
+            </form>
+            <def>partly castrated or its testicles wanting.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e322"
+             subtype="h1">6. Feeding and grazing</ab>
+         <ab type="heading"
+             xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e326"
+             subtype="h1">7. Handling of sheep</ab>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e331">
+            <form>
+               <orth>faing</orth>
+            </form>
+            <def>fank.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e340">
+            <form>
+               <orth>crò</orth>
+            </form>
+            <def>fold for sheep.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e349">
+            <form>
+               <orth>crodhadh</orth>
+            </form>
+            <def>hemming sheep in.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e358">
+            <form>
+               <orth>treud chaorach</orth>
+            </form>
+            <def>flock.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e367">
+            <form>
+               <orth>faing a’ rùsgidh</orth>
+            </form>
+            <def>shearing [fank].</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e376">
+            <form>
+               <orth>faing togal nan uan</orth>
+            </form>
+            <def>weaning [fank].</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e385">
+            <form>
+               <orth>faing an Dupi (pron. an’uppi)</orth>
+            </form>
+            <def>dipping [fank].</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e394">
+            <form>
+               <orth>deargadh</orth>
+            </form>
+            <def>earmarking.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e403">
+            <form>
+               <orth>saoile</orth>
+            </form>
+            <def>wool making [marking?], liquid dye usually red or blue.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e412">
+            <form>
+               <orth>comharra cluais</orth>
+            </form>
+            <def>branding horn with number of the croft and initial letter of township. [NOTES: it is not clear if this explanation refers to ‘comharra cluais’ or ‘saoile’ or neither.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e421">
+            <form>
+               <orth>snàlc ceitin</orth>
+               <pron>[?]</pron>
+            </form>
+            <def>[?] mark in the ear, pierced with the needle. (?)</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e430">
+            <form>
+               <orth>kirra (?)</orth>
+            </form>
+            <def>call addressed to lamb or sheep when inviting it to eat.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e439">
+            <form>
+               <orth>trusadh na caora</orth>
+            </form>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e444"
+             subtype="h1">8. Apparatus</ab>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e449">
+            <form>
+               <orth>spearach</orth>
+            </form>
+            <def>tie fore and hind leg to prevent straying.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e458">
+            <form>
+               <orth>lùb</orth>
+            </form>
+            <def>to tie sheep for shearing.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e466"
+             subtype="h1">9. Diseases</ab>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e471">
+            <form>
+               <orth>pluc</orth>
+            </form>
+            <def>fluke.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e480">
+            <form>
+               <orth>tuathalan</orth>
+            </form>
+            <def>turning anticlockwise, brain disease.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e489">
+            <form>
+               <orth>seilg nam blàr</orth>
+            </form>
+            <def>poor condition, run down.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e498">
+            <form>
+               <orth>mial chaorach</orth>
+            </form>
+            <def>sheep tick.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e507">
+            <form>
+               <orth>gartan</orth>
+            </form>
+            <def>sheep tick.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e516">
+            <form>
+               <orth>doile</orth>
+            </form>
+            <def>disease of the eyes, blindness.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e525">
+            <form>
+               <orth>spùt</orth>
+            </form>
+            <def>diarrhoea.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e534">
+            <form>
+               <orth>ruadh</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e540">
+            <form>
+               <orth>ruadh an ùdh</orth>
+            </form>
+            <def>infection in the udder.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e549">
+            <form>
+               <orth>galar na h adhain</orth>
+            </form>
+            <def>liver disease.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e558">
+            <form>
+               <orth>an teanna ghalar</orth>
+            </form>
+            <def>skin disease, the old disease.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e567">
+            <form>
+               <orth>a cliamh</orth>
+            </form>
+            <def>scab.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e576">
+            <form>
+               <orth>a cloimh a  falabh</orth>
+               <pron>[?]</pron>
+            </form>
+            <def>[?] the [NOTES: unfinished and the whole unclear.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e585">
+            <form>
+               <orth>a chnuidh</orth>
+            </form>
+            <def>maggots, when dirty with diarrhoea.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e594">
+            <form>
+               <orth>gartan</orth>
+            </form>
+            <def>sheep tick.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e602"
+             subtype="h1">10. Parts of the body</ab>
+         <ab type="heading"
+             xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e606"
+             subtype="h1">11. Lambing</ab>
+         <ab type="heading"
+             xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e610"
+             subtype="h1">12. Miscellaneous</ab>
+         <entry xml:id="CattleandSheep_ArnolDMacPhailetalsheep-d0e615">
+            <form>
+               <orth>caora stùthach</orth>
+            </form>
+            <def>docked sheep.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

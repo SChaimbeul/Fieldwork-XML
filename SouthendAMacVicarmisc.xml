@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="Word-lists_SouthendAMacVicarmisc">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>3/11/1966</date>
+            <location>
+               <placeName>Southend</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Rev. Angus MacVicar</persName>
+               <birth>
+                  <placeName>[North Uist?]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Word-lists_SouthendAMacVicarmisc-idola459"
+             subtype="h1">Old Gaelic words in North Uist</ab>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idp161225504">
+            <form>
+               <orth>bodragan</orth>
+            </form>
+            <def>the part of the horse’s harness which fits over the tail.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idp161222264">
+            <form>
+               <orth>cuidhe</orth>
+            </form>
+            <def>enclosure for a township’s cattle. (Supposed to be Norse.)</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idp161218160">
+            <form>
+               <orth>di-leum</orth>
+            </form>
+            <def>halter tying a horse’s fore-feet. Each air di-leum.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idp161243216">
+            <form>
+               <orth>buaile mu’n ghealaich</orth>
+            </form>
+            <def>ring round the moon.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idp161244728">
+            <form>
+               <orth>cluainn</orth>
+            </form>
+            <def>sneck (of a door).</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idp161246240">
+            <form>
+               <orth>ceum Gràsaich</orth>
+            </form>
+            <def>slow pace. (Gràsaich was a big farm – the workers were never in a hurry. The crofter’s pace was lively.)</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Word-lists_SouthendAMacVicarmisc-idola460"
+             subtype="h1">North Uist Proverbs</ab>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola464">
+            <form>
+               <orth>[foghar]</orth>
+            </form>
+            <def>’S cuideachadh culagan ’s an fhoghar.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola465">
+            <form>
+               <orth>[caora]</orth>
+            </form>
+            <def>Math na caorach, cron an eich, oidhche muigh is oidhche stigh.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola466">
+            <form>
+               <orth>[caora]</orth>
+            </form>
+            <def>’N uair a bhitheas a chaora caol bithidh a’ maorach reamhar.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola467">
+            <form>
+               <orth>[cailleach]</orth>
+            </form>
+            <def>Sannd na caillich ’s a chruaich mhonadh.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola468">
+            <form>
+               <orth>[aodann]</orth>
+            </form>
+            <def>Chaidheadh e ann an aodann cruaich mhónadh.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola469">
+            <form>
+               <orth>[cruach]</orth>
+            </form>
+            <def>An do loisg thu seachd cruachan mónadh ri thaobh fhathast?</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola470">
+            <form>
+               <orth>[feadarachd]</orth>
+            </form>
+            <def>Cha dean feadarachd ‘kelp’, ’s cha dean sglogaireachd buain-mhónadh.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola471">
+            <form>
+               <orth>[sagart]</orth>
+            </form>
+            <def>Sannd na seachd sagairt, sannd fear is bean gun mhac gun nighinn.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola472">
+            <form>
+               <orth>[iolair]</orth>
+            </form>
+            <def>Spòg iolaire is cròg sagairt, no ministeir.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola473">
+            <form>
+               <orth>[muilleann]</orth>
+            </form>
+            <def>Ruigidh each mall muilleann.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola474">
+            <form>
+               <orth>[each]</orth>
+            </form>
+            <def>Neart an eich ’s an rathad.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola475">
+            <form>
+               <orth>[comhairle]</orth>
+            </form>
+            <def>Comhairle Clab-Sgàin, an rud nach buin duit na buin da.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola476">
+            <form>
+               <orth>[gaoth]</orth>
+            </form>
+            <def>Rud a thig leis a ghaoith, falbhaidh e leis an uisge.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola477">
+            <form>
+               <orth>[cadal]</orth>
+            </form>
+            <def>Leisg, leisg a’ dol a chadal, seachd leisg gu eiridh.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola478">
+            <form>
+               <orth>[treun]</orth>
+            </form>
+            <def>Chan eil treun ris nach cuirear.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola479">
+            <form>
+               <orth>[foighneachd]</orth>
+            </form>
+            <def>Foighneachd air fios, rud is miosa na mheurla.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola480">
+            <form>
+               <orth>[sùil]</orth>
+            </form>
+            <def>Rud nach fhaic suil, cha mhiannaich cridhe.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola481">
+            <form>
+               <orth>[cridhe]</orth>
+            </form>
+            <def>Chan innis cridhe misgeach breug.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola482">
+            <form>
+               <orth>[tobar]</orth>
+            </form>
+            <def>Cha bhi mios air an tobair gus an tràigh e.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola483">
+            <form>
+               <orth>[faoileag]</orth>
+            </form>
+            <def>Cho fiadhlaidh ris an fhaoileig.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola484">
+            <form>
+               <orth>[cliabh]</orth>
+            </form>
+            <def>Tuitidh cliabh gun iris / iorais, is tuitidh a’ bhreug gu h-ionad fhein.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola485">
+            <form>
+               <orth>[sean fhacal]</orth>
+            </form>
+            <def>Ged a sharuichear a’ sean fhacal, cha bhreugnaichear e.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola486">
+            <form>
+               <orth>[duine]</orth>
+            </form>
+            <def>A h-uile duine a’ bruidhinn ’na chùbaid fhein.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola487">
+            <form>
+               <orth>[sùil]</orth>
+            </form>
+            <def>Suil a ghleidheas seilbh ’s e bhi moch is anmoch air a sgàth.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola488">
+            <form>
+               <orth>[caraid]</orth>
+            </form>
+            <def>’S fhearr caraid ’sa chùirt na crùn ’s a’ sporran.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola489">
+            <form>
+               <orth>[ionnsachadh]</orth>
+            </form>
+            <def>An t-ionnsachadh òg, an t-ionnsachadh bòidheach.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola490">
+            <form>
+               <orth>[là]</orth>
+            </form>
+            <def>Am fear nach cuir ’s an la fhuar, cha bhuainn ’s an la theth.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola491">
+            <form>
+               <orth>[cat]</orth>
+            </form>
+            <def>Miann a chait ’s an traigh, ’s cha toir e fhein as e.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola492">
+            <form>
+               <orth>[clach]</orth>
+            </form>
+            <def>Is sleamhainn a’ chlach tha an dorus an tigh mhòir.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola493">
+            <form>
+               <orth>[olc]</orth>
+            </form>
+            <def>Chan ann am Bòid uile tha an t-olc, no na Cuimrich [?] bheag tha lamh ris.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola494">
+            <form>
+               <orth>[còta]</orth>
+            </form>
+            <def>Cha tig an còta glas cho math do na h-uile fear.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola495">
+            <form>
+               <orth>[poit]</orth>
+            </form>
+            <def>Cha tig as a phoit ach an toit a bhios innte.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola496">
+            <form>
+               <orth>[cnoc]</orth>
+            </form>
+            <def>Tachraidh na daoine ged nach tachair na cnuic.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola497">
+            <form>
+               <orth>[maide]</orth>
+            </form>
+            <def>An car tha ’s an t-seana mhaide ’s doirbh a thoirt as.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola498">
+            <form>
+               <orth>[lagh]</orth>
+            </form>
+            <def>Càm is dìreach a thig an lagh.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola499">
+            <form>
+               <orth>[marag]</orth>
+            </form>
+            <def>Cha truagh leam cù is marag mu amhaich.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola500">
+            <form>
+               <orth>[cù]</orth>
+            </form>
+            <def>Tha ’eigeadh fhein air cù dubh Mhic-a-phi fhathast.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola501">
+            <form>
+               <orth>[dualchas]</orth>
+            </form>
+            <def>Theid dualchas an aghaidh nan creag.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola502">
+            <form>
+               <orth>[diomhain]</orth>
+            </form>
+            <def>’Se duine diomhain is fhaide mhaireas.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola503">
+            <form>
+               <orth>[gaoth]</orth>
+            </form>
+            <def>Fhalbh, thuirt an Righ, fuirich thuirt a’ ghaoth.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Word-lists_SouthendAMacVicarmisc-idola461"
+             subtype="h1">Lorne Proverbs</ab>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola504">
+            <form>
+               <orth>[tiodhlaig]</orth>
+            </form>
+            <def>Tha la so coltach ris an là a thiodhlaig iad an Càirsealach Mór. (a day of high wind and rain from S.W.)</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola505">
+            <form>
+               <orth>[meas]</orth>
+            </form>
+            <def>’N uair a theirgeas gach meas, ’s math na mucagan.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola506">
+            <form>
+               <orth>[Cruachan]</orth>
+            </form>
+            <def>Teirgidh Cruachan Beann gun dad a chur ’na ceann.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Word-lists_SouthendAMacVicarmisc-idola507"
+             subtype="h1">Kintyre Proverbs</ab>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola508">
+            <form>
+               <orth>[gealachadh]</orth>
+            </form>
+            <def>Gealachadh bho thuath, comharradh math. Gealachadh bho dheas, droch comharradh.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola509">
+            <form>
+               <orth>[uiseag]</orth>
+            </form>
+            <def>Saoilidh uiseag na moine gur h e a moine ’s fhearr a th’ann.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola510">
+            <form>
+               <orth>[dias]</orth>
+            </form>
+            <def>An dias is truime tha ’s an fhaiche, ’si is isle ceann.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Word-lists_SouthendAMacVicarmisc-idola462"
+             subtype="h1">Old Uist expressions</ab>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola511">
+            <form>
+               <orth>[coibhneas]</orth>
+            </form>
+            <def>Còm a choibhneis. (Kind man!)</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola512">
+            <form>
+               <orth>[bo]</orth>
+            </form>
+            <def>Bo air a h-aineoil.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola513">
+            <form>
+               <orth>[uan]</orth>
+            </form>
+            <def>Falbh lom is thig mollach, uan boireann Bealtuinn.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola514">
+            <form>
+               <orth>[mios]</orth>
+            </form>
+            <def>Mios roimh gach ràidh, a choltas.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola515">
+            <form>
+               <orth>[samhradh]</orth>
+            </form>
+            <def>Samhradh breac riabhach, foghar geal grianach.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola516">
+            <form>
+               <orth>[Di-luain]</orth>
+            </form>
+            <def>Obair mhoch Di-luain bi i luath no bi i mall.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola517">
+            <form>
+               <orth>[obair]</orth>
+            </form>
+            <def>Obair is ath-obair.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola518">
+            <form>
+               <orth>[cuan]</orth>
+            </form>
+            <def>Bithidh duil ri cuan ach cha bhi dùil ri aoigh.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola519">
+            <form>
+               <orth>[clann]</orth>
+            </form>
+            <def>Rud a chi a chlann bheag ’s e a ni chlann bheag.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola520">
+            <form>
+               <orth>[muileann]</orth>
+            </form>
+            <def>Ceardach gobha is muileann sgireachd. (For gossip)</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola521">
+            <form>
+               <orth>[ceardach]</orth>
+            </form>
+            <def>Bha mise ri [?] ceardach gobha roimhe.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola522">
+            <form>
+               <orth>[lamh]</orth>
+            </form>
+            <def>’Lamh a bheir , ’s i a gheibh.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola523">
+            <form>
+               <orth>[mulchag]</orth>
+            </form>
+            <def>Mulchag chàis is botul Uisge bheath, da rud nach mair fada.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola524">
+            <form>
+               <orth>[farmad]</orth>
+            </form>
+            <def>’Se farmad a ni treabhadh.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola525">
+            <form>
+               <orth>[uasal]</orth>
+            </form>
+            <def>Duin uasal chan fhaighnich, ’s ceard chan fhaigh a mach.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola526">
+            <form>
+               <orth>[comhairle]</orth>
+            </form>
+            <def>Thig comhairle le latha.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola527">
+            <form>
+               <orth>[chó]</orth>
+            </form>
+            <def>Cha bu chó sin.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola528">
+            <form>
+               <orth>[cadal]</orth>
+            </form>
+            <def>Cadal fada le gaoith mhoir.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola529">
+            <form>
+               <orth>[cadal]</orth>
+            </form>
+            <def>Cadal fada nan ceannaichean.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola530">
+            <form>
+               <orth>[faoileag]</orth>
+            </form>
+            <def>Faoileag an droch cladaich.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola531">
+            <form>
+               <orth>[feannag]</orth>
+            </form>
+            <def>Mar thuirt an fheannag ri da chois, ’s dubh sibh le cheile.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola532">
+            <form>
+               <orth>[bliadhna]</orth>
+            </form>
+            <def>Chuala mi chuthag ’s gun dad ’nam bhroinn / Chunnaic mi clacharan air cloich luim / Chunnaic mi searrach sean larach ’s a chul thaobh rium / Is dh’aithnich mi nach teidheadh a bhliadhna leam.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola533">
+            <form>
+               <orth>[bó]</orth>
+            </form>
+            <def>Cha toirinn bó a Bàigh, Is cha toirinn bàt a Grianaig.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola534">
+            <form>
+               <orth>[truagh]</orth>
+            </form>
+            <def>Nach truagh leam thu!</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola535">
+            <form>
+               <orth>[feasgar]</orth>
+            </form>
+            <def>Mar bho chaoil ’tighinn gu baile, feasgar ciuin Earraich. Mar chloich [?] ’dol le gleann, feasgar fann foghair.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola536">
+            <form>
+               <orth>[coireach]</orth>
+            </form>
+            <def>Ge bi co an coireach, is mise an ciontach.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola537">
+            <form>
+               <orth>[uaigh]</orth>
+            </form>
+            <def>Cha do dhiult uaigh a riamh fosgladh.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola538">
+            <form>
+               <orth>[maorach]</orth>
+            </form>
+            <def>Maorach Caillich Nic Artair, partan is da fhaochaig.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola539">
+            <form>
+               <orth>[prine]</orth>
+            </form>
+            <def>Mar thuirt am prine ri ’cheann, tha thu beag, ach ’se mo cheann fhein a th’ann.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola540">
+            <form>
+               <orth>[iomraich]</orth>
+            </form>
+            <def>Iomraich Shathurna mu thuath, iomraich Luain a’ dol mu dheas.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola541">
+            <form>
+               <orth>[uan]</orth>
+            </form>
+            <def>Ged nach biodh agam ach an t-uan ’s ann Diluain a dh’fhalbhainn leis.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola542">
+            <form>
+               <orth>[seòlta]</orth>
+            </form>
+            <def>Cho seòlta ris an t-sionnach.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola543">
+            <form>
+               <orth>[gaoth]</orth>
+            </form>
+            <def>Ri cùl gaoithe is ri aghaidh gréine.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola544">
+            <form>
+               <orth>[suath]</orth>
+            </form>
+            <def>Suath a’ ghlùin, ’s thoir fois do’n t-sùil.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola545">
+            <form>
+               <orth>[seachdain]</orth>
+            </form>
+            <def>Seachd seachdainean gu bràth eadar Inid agus Càisg.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola546">
+            <form>
+               <orth>[ugh]</orth>
+            </form>
+            <def>Ugh air Inid is eun air Caisg, mur bi sin aig an fhitheach, bithidh am bàs.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola547">
+            <form>
+               <orth>[latha]</orth>
+            </form>
+            <def>Tri latha de’n Fhaoilteach ’san Iuchar, is tri latha de’n Iuchar ’san Fhaoilteach.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola548">
+            <form>
+               <orth>[Àgh]</orth>
+            </form>
+            <def>Aig an Àgh tha brath!</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola549">
+            <form>
+               <orth>[latha]</orth>
+            </form>
+            <def>Cha robh duine riamh gun da latha.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="Word-lists_SouthendAMacVicarmisc-idola463"
+             subtype="h1">North Uist Gaelic expressions which couldn’t be told in a drawing-room</ab>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola550">
+            <form>
+               <orth>[bod]</orth>
+            </form>
+            <def>Bod an eich, mor a muigh is beag a stigh.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola551">
+            <form>
+               <orth>[bod]</orth>
+            </form>
+            <def>Chan’eil nàir air bod ’na sheasamh.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola552">
+            <form>
+               <orth>[ugh]</orth>
+            </form>
+            <def>Ugh gun salainn is bean gun fhiannadh.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola553">
+            <form>
+               <orth>[sròn]</orth>
+            </form>
+            <def>Sròn coin is tón boireannaich. (always cold)</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola554">
+            <form>
+               <orth>[aois]</orth>
+            </form>
+            <def>Fear gu aois is bean gu bàs.</def>
+         </entry>
+         <entry xml:id="Word-lists_SouthendAMacVicarmisc-idola555">
+            <form>
+               <orth>[gàradh]</orth>
+            </form>
+            <def>Chan ann air cùl gàraidh a roinneadh no rugadh mise.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

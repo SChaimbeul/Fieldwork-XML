@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WoolworkingandFishing_StaffinSchoolmaorach">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>An t-Eilean Sgitheanach, Stafainn [Skye, Staffin]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[school]</persName>
+            </person>
+            <person role="informant">
+               <persName>Staffin School</persName>
+               <persName xml:lang="gd">Sgoil Stafainn</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Shellfish</term>
+               <term xml:lang="gd">Maorach</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_StaffinSchoolmaorach-d0e26"
+             subtype="h1">1. Maorach</ab>
+         <entry xml:id="WoolworkingandFishing_StaffinSchoolmaorach-d0e31">
+            <form>
+               <orth>feusgan</orth>
+            </form>
+            <def>mussel.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_StaffinSchoolmaorach-d0e40">
+            <form>
+               <orth>madadh</orth>
+            </form>
+            <def>large mussel.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_StaffinSchoolmaorach-d0e49">
+            <form>
+               <orth>coileag</orth>
+            </form>
+            <def>cockle.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_StaffinSchoolmaorach-d0e58">
+            <form>
+               <orth>bairneach</orth>
+            </form>
+            <def>limpet. ‘Maorach’ often used for ‘bairneach’ in Trotternish district of Skye.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_StaffinSchoolmaorach-d0e67">
+            <form>
+               <orth>muir sgian</orth>
+            </form>
+            <def>razor shellfish.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_StaffinSchoolmaorach-d0e76">
+            <form>
+               <orth>faochag</orth>
+            </form>
+            <def>whelk.</def>
+         </entry>
+         <entry xml:id="WoolworkingandFishing_StaffinSchoolmaorach-d0e85">
+            <form>
+               <orth>cnogan feannaig</orth>
+            </form>
+            <def>sea urchin.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_StaffinSchoolmaorach-d0e93"
+             subtype="h1">2. A’ tional maorach</ab>
+         <entry xml:id="WoolworkingandFishing_StaffinSchoolmaorach-idola270">
+            <form>
+               <orth>[note]</orth>
+               <pron>[page missing]</pron>
+            </form>
+            <def>[page missing]</def>
+         </entry>
+         <ab type="heading"
+             xml:id="WoolworkingandFishing_StaffinSchoolmaorach-d0e106"
+             subtype="h1">3. Beathaichean eile a gheibhear ’sa’ chladach</ab>
+         <entry xml:id="WoolworkingandFishing_StaffinSchoolmaorach-idola271">
+            <form>
+               <orth>[note]</orth>
+               <pron>[page missing]</pron>
+            </form>
+            <def>[page missing]</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

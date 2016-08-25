@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="CattleandSheep_SouthBragarDMacPhailcattle">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Lewis, [Barvas,] South Bragar</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Donald MacPhail</persName>
+               <age>59</age>
+               <birth>
+                  <placeName>[the questionnaire gives Ross-shire but it is most probably meant as the county not origin]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Cattle</term>
+               <term xml:lang="gd">Crodh</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e29"
+             subtype="h1">1. Different stages in the growth of cattle</ab>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e34">
+            <form>
+               <orth>laogh boirionn</orth>
+            </form>
+            <def>female calf.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e43">
+            <form>
+               <orth>laogh firionn</orth>
+            </form>
+            <def>male calf.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e52">
+            <form>
+               <orth>gamhainn</orth>
+            </form>
+            <def>female under one year and over six months.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e61">
+            <form>
+               <orth>damh</orth>
+            </form>
+            <def>castrated [bull].</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e70">
+            <form>
+               <orth>agh</orth>
+            </form>
+            <def>heifer.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e79">
+            <form>
+               <orth>agh air a ceud laogh</orth>
+            </form>
+            <def>heifer in calf, usually 2-3 years old.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e88">
+            <form>
+               <orth>bo bhainne</orth>
+            </form>
+            <def>cow in milk.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e96"
+             subtype="h1">2. Breeds of cattle</ab>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e101">
+            <form>
+               <orth>Crodh Beag</orth>
+            </form>
+            <def>Highland cattle, also those of no special breed.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e110">
+            <form>
+               <orth>Crodh Mor</orth>
+            </form>
+            <def>Ayrshires, Black Polled.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e118"
+             subtype="h1">3. Outward appearance of cattle</ab>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e123">
+            <form>
+               <orth>crodh odhar</orth>
+            </form>
+            <def>grey coated cattle.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e132">
+            <form>
+               <orth>crodh dubh</orth>
+            </form>
+            <def>black coated cattle.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e141">
+            <form>
+               <orth>crodh breac</orth>
+            </form>
+            <def>black and white or black and red coated cattle.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e149"
+             subtype="h1">4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</ab>
+         <ab type="heading"
+             xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e153"
+             subtype="h1">5. Parts of the body</ab>
+         <ab type="heading"
+             xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e157"
+             subtype="h1">6. Calving</ab>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e162">
+            <form>
+               <orth>Tha bho leis an air</orth>
+               <pron>[NOTES: pronunciation spelling for ‘an dàir’?]</pron>
+            </form>
+            <def>[NOTES: pronunciation spelling for ‘an dàir’?]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e171">
+            <form>
+               <orth>Tha bho dol a bhreith</orth>
+            </form>
+            <def>The cow is going to calf.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e180">
+            <form>
+               <orth>salchair</orth>
+            </form>
+            <def>afterbirth.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e189">
+            <form>
+               <orth>cruthach</orth>
+            </form>
+            <def>afterbirth.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e197"
+             subtype="h1">7. Milking</ab>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e202">
+            <form>
+               <orth>ri bleoghan</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e208">
+            <form>
+               <orth>bleoghan tioriom</orth>
+            </form>
+            <def>milked dry.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e217">
+            <form>
+               <orth>uinse, ùmhs</orth>
+            </form>
+            <def>milk yielded the first three days after calving. [NOTES: not clear if the two words are synonyms or variants, or if one is the pronunciation spelling of the other.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e226">
+            <form>
+               <orth>moch</orth>
+            </form>
+            <def>morning milking time.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e235">
+            <form>
+               <orth>feasgar</orth>
+            </form>
+            <def>evening milking time.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e244">
+            <form>
+               <orth>muga seipean ( shapann)</orth>
+               <pron>[pron.?]</pron>
+            </form>
+            <def>[pron.?] a quart sized tin mug. In days gone by frequently obtained from the Gipsy people. [See also muga ceard.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e253">
+            <form>
+               <orth>muga ceard</orth>
+            </form>
+            <def>a quart sized tin mug. In days gone by frequently obtained from the Gipsy people. [See also muga seipean.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e262">
+            <form>
+               <orth>peile caol</orth>
+            </form>
+            <def>milking vessel.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e271">
+            <form>
+               <orth>peile enamel</orth>
+            </form>
+            <def>milking vessel.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e279"
+             subtype="h1">8. Feeding</ab>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e284">
+            <form>
+               <orth>ultach feoir</orth>
+            </form>
+            <def>feeding. [NOTES: the only explanation given.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e293">
+            <form>
+               <orth>bad corc</orth>
+            </form>
+            <def>feeding. [NOTES: the only explanation given.]</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e302">
+            <form>
+               <orth>peile zinc</orth>
+               <pron>[pail used for]</pron>
+            </form>
+            <def>[pail used for] watering [cattle] inside.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e311">
+            <form>
+               <orth>buachaile</orth>
+            </form>
+            <def>herdsman.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e319"
+             subtype="h1">9. Apparatus</ab>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e324">
+            <form>
+               <orth>ceangail air stiall</orth>
+            </form>
+            <def>tethered inside.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e333">
+            <form>
+               <orth>buarach</orth>
+            </form>
+            <def>cow fetter tying the hind legs together when milking.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e342">
+            <form>
+               <orth>spearrach</orth>
+            </form>
+            <def>a tether tying the fore and hind legs to prevent jumping over dykes and fences.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e351">
+            <form>
+               <orth>stroinan</orth>
+            </form>
+            <def>spiked instrument to prevent the calf sucking its mother.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e359"
+             subtype="h1">10. Diseases</ab>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e364">
+            <form>
+               <orth>fearsainnan</orth>
+            </form>
+            <def>warble fly.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e372"
+             subtype="h1">11. Miscellaneous</ab>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e377">
+            <form>
+               <orth>ann’ a’ athbhunn</orth>
+               <pron>[cow]</pron>
+            </form>
+            <def>[cow] stuck in a bog.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e386">
+            <form>
+               <orth>ann a’ sàs</orth>
+               <pron>[cow]</pron>
+            </form>
+            <def>[cow] stuck in a bog.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e395">
+            <form>
+               <orth>buachair</orth>
+            </form>
+            <def>cow dung.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_SouthBragarDMacPhailcattle-d0e404">
+            <form>
+               <orth>todhar</orth>
+            </form>
+            <def>cow dung.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

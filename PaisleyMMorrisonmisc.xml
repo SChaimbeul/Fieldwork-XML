@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="DRMorrisonetal_PaisleyMMorrisonmisc">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Paisley</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Murdo Morrison</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="DRMorrisonetal_PaisleyMMorrisonmisc-d0e24">
+            <form>
+               <orth>starag, rocais</orth>
+            </form>
+         </entry>
+         <entry xml:id="DRMorrisonetal_PaisleyMMorrisonmisc-d0e30">
+            <form>
+               <orth>haet</orth>
+               <pron>[?]</pron>
+            </form>
+            <def>[?] (nothing)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_PaisleyMMorrisonmisc-d0e39">
+            <form>
+               <orth>glugach</orth>
+            </form>
+         </entry>
+         <entry xml:id="DRMorrisonetal_PaisleyMMorrisonmisc-d0e45">
+            <form>
+               <orth>draothadh</orth>
+            </form>
+         </entry>
+         <entry xml:id="DRMorrisonetal_PaisleyMMorrisonmisc-d0e51">
+            <form>
+               <orth>dubhailt (searbhadair)</orth>
+            </form>
+         </entry>
+         <entry xml:id="DRMorrisonetal_PaisleyMMorrisonmisc-d0e57">
+            <form>
+               <orth>* Luchd-seirbhis na Stàite</orth>
+            </form>
+            <def>(Civil Service)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_PaisleyMMorrisonmisc-d0e66">
+            <form>
+               <orth>congag</orth>
+            </form>
+            <def>(horn)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_PaisleyMMorrisonmisc-d0e75">
+            <form>
+               <orth>boghal</orth>
+            </form>
+         </entry>
+         <entry xml:id="DRMorrisonetal_PaisleyMMorrisonmisc-d0e81">
+            <form>
+               <orth>* inntinn fo mhothachail</orth>
+            </form>
+         </entry>
+         <entry xml:id="DRMorrisonetal_PaisleyMMorrisonmisc-d0e87">
+            <form>
+               <orth>Rùibht</orth>
+            </form>
+            <def>(offence)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_PaisleyMMorrisonmisc-d0e96">
+            <form>
+               <orth>gucag</orth>
+            </form>
+            <def>(egg cup)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_PaisleyMMorrisonmisc-d0e105">
+            <form>
+               <orth>durrghail</orth>
+            </form>
+         </entry>
+         <entry xml:id="DRMorrisonetal_PaisleyMMorrisonmisc-d0e111">
+            <form>
+               <orth>copraich</orth>
+            </form>
+         </entry>
+         <entry xml:id="DRMorrisonetal_PaisleyMMorrisonmisc-d0e117">
+            <form>
+               <orth>éisdear</orth>
+            </form>
+            <def>(receiver)</def>
+         </entry>
+         <entry xml:id="DRMorrisonetal_PaisleyMMorrisonmisc-d0e126">
+            <form>
+               <orth>suaile</orth>
+            </form>
+            <def>(wave)</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

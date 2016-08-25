@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_StaffinBMacKenzieslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>07/1970</date>
+            <location>
+               <placeName>Skye, Staffin</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Bertie MacKenzie</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_StaffinBMacKenzieslips-idp118681968">
+            <form>
+               <orth>lamp-eòlan</orth>
+               <pron>[ɫ[ɑ̃ũ̟]</pron>
+            </form>
+            <def>[ɫ[ɑ̃ũ̟]mpjɔ:ɫɑ̃ṉ] Notes: oil lamp, sometimes applied to the crùisgean.</def>
+         </entry>
+         <entry xml:id="Slips_StaffinBMacKenzieslips-idp118697520">
+            <form>
+               <orth>lonaig</orth>
+            </form>
+            <def>Notes: a path through the croft.</def>
+         </entry>
+         <entry xml:id="Slips_StaffinBMacKenzieslips-idp118699032">
+            <form>
+               <orth>maor-cladaich</orth>
+            </form>
+            <def>Notes: he regulated the distribution of seaweed.</def>
+         </entry>
+         <entry xml:id="Slips_StaffinBMacKenzieslips-idp118700544">
+            <form>
+               <orth>milteag</orth>
+            </form>
+            <def>Notes: bundle of 12 “slògagan” q.v.</def>
+         </entry>
+         <entry xml:id="Slips_StaffinBMacKenzieslips-idp118702056">
+            <form>
+               <orth>slògag</orth>
+               <pron>[sɫɔ:ɡɑɡ]</pron>
+            </form>
+            <def>[sɫɔ:ɡɑɡ] Notes: “slates” made up of small sheaves of corn. The seed was removed and the sheaf tied at the top of the stalks. The bottom part was then spread out like a fan. This was done in autumn. They were then laid in “bundles” of a dozen over the winter. By spring they were placed flat. Put on roof like slates.</def>
+         </entry>
+         <entry xml:id="Slips_StaffinBMacKenzieslips-idp118703784">
+            <form>
+               <orth>traon</orth>
+               <pron>[t̪ɾw̃:ṉ]</pron>
+            </form>
+            <def>[t̪ɾw̃:ṉ] Notes: corncrake.</def>
+         </entry>
+         <entry xml:id="Slips_StaffinBMacKenzieslips-idp118705512">
+            <form>
+               <orth>beart-shùgan</orth>
+            </form>
+            <def>Notes: rope-making tool. <graphic url="StaffinBMacKenzieslipsillust1.jpg" width="300px"/>
+            </def>
+         </entry>
+         <entry xml:id="Slips_StaffinBMacKenzieslips-idp118707024">
+            <form>
+               <orth>ceirle-shiomain</orth>
+            </form>
+            <def>Notes: could be a ball of hay, straw or heather rope.</def>
+         </entry>
+         <entry xml:id="Slips_StaffinBMacKenzieslips-idp118708536">
+            <form>
+               <orth>froigh-shnighe</orth>
+            </form>
+            <def>Notes: a slight dripping of water from the thatch after it had been newly thatched.</def>
+         </entry>
+         <entry xml:id="Slips_StaffinBMacKenzieslips-idp118710048">
+            <form>
+               <orth>glùn</orth>
+            </form>
+            <def>Notes: support for the rafter between it and the top of the wall inside. <graphic url="StaffinBMacKenzieslipsillust2.jpg" width="250px"/>
+            </def>
+         </entry>
+         <entry xml:id="Slips_StaffinBMacKenzieslips-idp118711560">
+            <form>
+               <orth>gormariachan</orth>
+               <pron>[ɡɔɾɔmɑɾiɑxɑṉ]</pron>
+            </form>
+            <def>[ɡɔɾɔmɑɾiɑxɑṉ] Notes: a snipe.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

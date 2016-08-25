@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="DRMorrison_ScalpayDRMorrison2misc5">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note>[NOTES: the original title of the list is “Harris words”.]</note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>[?]</date>
+            <location>
+               <placeName>[Harris], Scalpaigh [Scalpay]</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Donald R. Morrison</persName>
+               <persName xml:lang="gd">D.R. Moireasdan </persName>
+               <age>[?]</age>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc5-idp164250552">
+            <form>
+               <orth>tralabhaid</orth>
+            </form>
+            <def>haberdashery.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc5-idp164248320">
+            <form>
+               <orth>eagadh</orth>
+            </form>
+            <def>notching, cutting a notch in wood. (Harris)</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc5-idp164245152">
+            <form>
+               <orth>giuchag (pl. giuchagan)</orth>
+            </form>
+            <def>breasts of a junior female.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc5-idp164242344">
+            <form>
+               <orth>coidseach</orth>
+            </form>
+            <def>his fill, fill, his amount. Nach gabh e choidseach dhe. (Harris).</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc5-idp164192736">
+            <form>
+               <orth>brùag</orth>
+            </form>
+            <def>small belly. (Harris)</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc5-idp164189640">
+            <form>
+               <orth>bibli, bibli, boan (interj.)</orth>
+            </form>
+            <def>term used to draw, introduce, the attention of a baby by touching the entertainer’s lips, thence touching the baby with the fingers to revive him to humour.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc5-idp164199936">
+            <form>
+               <orth>garach</orth>
+            </form>
+            <def>more than enough in eating process. A’ garach air.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc5-idp164203392">
+            <form>
+               <orth>mearal</orth>
+            </form>
+            <def>Cho saillte ris a mhearal.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc5-idp164157744">
+            <form>
+               <orth>ioramaidh</orth>
+               <pron>[?]</pron>
+            </form>
+            <def>[?] worry.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc5-idp164160120">
+            <form>
+               <orth>capàll</orth>
+            </form>
+            <def>roudysm [sic].</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc5-idp164162136">
+            <form>
+               <orth>slaopadh</orth>
+            </form>
+            <def>Slaopadh a fhrith-iasg – limpets being wringed in boiling water.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc5-idp164163720">
+            <form>
+               <orth>fiuchdan</orth>
+            </form>
+            <def>fastener for clothes.</def>
+         </entry>
+         <entry xml:id="DRMorrison_ScalpayDRMorrison2misc5-idp164165016">
+            <form>
+               <orth>clàr-meidhe</orth>
+            </form>
+            <def>Cinn [?] [Rinn?] e clàr meidhe [sic] dhe.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

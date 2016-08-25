@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Word-lists_CastlebayDBoydmisc">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>8/10/1970</date>
+            <location>
+               <placeName>Barra, Castlebay</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>D[onald] Boyd</persName>
+               <birth>
+                  <placeName>[North Uist acc. to the card index of informants]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="Word-lists_CastlebayDBoydmisc-idola427"
+             subtype="h1">Words of interest to Gaelic speakers:</ab>
+         <entry xml:id="Word-lists_CastlebayDBoydmisc-idp161207952">
+            <form>
+               <orth>féicheantas</orth>
+            </form>
+            <def>verbal sparring, parleying [?] with words.</def>
+         </entry>
+         <entry xml:id="Word-lists_CastlebayDBoydmisc-idp161209464">
+            <form>
+               <orth>tathanta</orth>
+               <pron>[?]</pron>
+            </form>
+            <def>[?] contrary, in speech or action. [NOTES: slipped as ‘tathanta’.]</def>
+         </entry>
+         <entry xml:id="Word-lists_CastlebayDBoydmisc-idp161211120">
+            <form>
+               <orth>plamaranta</orth>
+            </form>
+            <def>soft (as applied to fish or fowl).</def>
+         </entry>
+         <entry xml:id="Word-lists_CastlebayDBoydmisc-idp161212632">
+            <form>
+               <orth>briuthasach</orth>
+            </form>
+            <def>sexy (in North Uist parlance).</def>
+         </entry>
+         <entry xml:id="Word-lists_CastlebayDBoydmisc-idp161214144">
+            <form>
+               <orth>dion(n)ruigeach</orth>
+            </form>
+            <def>vindictive. [NOTES: slipped as ‘dionruigeach’.]</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_TalmineBMacKayslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1969</date>
+            <location>
+               <placeName>Sutherland, Talmine</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Barbara MacKay</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_TalmineBMacKayslips-idp117238608">
+            <form>
+               <orth>muinntir</orth>
+               <pron>[mɔ̃ĩnʹtʹəɾ]</pron>
+            </form>
+            <def>[mɔ̃ĩnʹtʹəɾ] Quotation: “Bha muinntir dhiubh ann.” Notes: applied in Durness to “several” of anything.</def>
+         </entry>
+         <entry xml:id="Slips_TalmineBMacKayslips-idp117240552">
+            <form>
+               <orth>ràmh</orth>
+            </form>
+            <def>Quotation: O, a’ ràmh! Notes: said to a person talking a lot on nonsense.</def>
+         </entry>
+         <entry xml:id="Slips_TalmineBMacKayslips-idp117242208">
+            <form>
+               <orth>ràmhach</orth>
+               <pron>[rɑ̃:vɑx]</pron>
+            </form>
+            <def>[rɑ̃:vɑx] Notes: loud-mouthed.</def>
+         </entry>
+         <entry xml:id="Slips_TalmineBMacKayslips-idp117243936">
+            <form>
+               <orth>cleamag</orth>
+               <pron>[klemɑɡ]</pron>
+            </form>
+            <def>[klemɑɡ] Notes: applied to a tinkerwife. (Proper name? Clementine?)</def>
+         </entry>
+         <entry xml:id="Slips_TalmineBMacKayslips-idp117245736">
+            <form>
+               <orth>faoilidh</orth>
+               <pron>[fw:li]</pron>
+            </form>
+            <def>[fw:li] Notes: easy-going, opp. of haughty, aloof.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

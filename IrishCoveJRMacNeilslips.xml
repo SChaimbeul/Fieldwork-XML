@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_IrishCoveJRMacNeilslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>05/1971</date>
+            <location>
+               <placeName>Canada, Cape Breton, Irish Cove</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>Mrs J. R. MacNeil</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_IrishCoveJRMacNeilslips-idp115743304">
+            <form>
+               <orth>pilceadh</orth>
+            </form>
+            <def>Notes: pickle.</def>
+         </entry>
+         <entry xml:id="Slips_IrishCoveJRMacNeilslips-idp115744816">
+            <form>
+               <orth>crannachd (sic)</orth>
+               <pron>[kɾɑ̃n̪ɑxk]</pron>
+            </form>
+            <def>[kɾɑ̃n̪ɑxk] Notes: wheat.</def>
+         </entry>
+         <entry xml:id="Slips_IrishCoveJRMacNeilslips-idp115746544">
+            <form>
+               <orth>cuman</orth>
+            </form>
+            <def>Notes: wooden vessel with holes bored in it for making cheese.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

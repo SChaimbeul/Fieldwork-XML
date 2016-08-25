@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_EdinburghWMathesonslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>1978, 1988</date>
+            <location>
+               <placeName>Edinburgh</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="informant">
+               <persName>Rev. W. Matheson</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_EdinburghWMathesonslips-idp115743512">
+            <form>
+               <orth>searsanach</orth>
+            </form>
+            <def>Notes: a large potato. (Lewis)</def>
+         </entry>
+         <entry xml:id="Slips_EdinburghWMathesonslips-idp115745024">
+            <form>
+               <orth>taisean</orth>
+            </form>
+            <def>Quotation: na taisean. Notes: the skeleton.</def>
+         </entry>
+         <entry xml:id="Slips_EdinburghWMathesonslips-idp115746680">
+            <form>
+               <orth>ballan</orth>
+            </form>
+            <def>Quotation: in phr. a’ cur nam ballan. Notes: ‘cupping’ – raising a blister and pricking it. (Lewis usage)</def>
+         </entry>
+         <entry xml:id="Slips_EdinburghWMathesonslips-idp115748336">
+            <form>
+               <orth>còta-tòin-giomaich</orth>
+            </form>
+            <def>Notes: ‘swallow-tail coat.’ Heard in N. Uist.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

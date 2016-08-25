@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="PersonalFiles_MuirofOrdPDKellypersonalmisc">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>09/10/1966</date>
+            <location>
+               <placeName>Ross-shire, Muir-of-Ord</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Peter D. Kelly</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="PersonalFiles_MuirofOrdPDKellypersonalmisc-idola978">
+            <form>
+               <orth>[note]</orth>
+            </form>
+            <def>‘Here are the words I collected in the N. Perthshire Highlands, from Estate workers etc., in the order of most use.’</def>
+         </entry>
+         <ab type="heading"
+             xml:id="PersonalFiles_MuirofOrdPDKellypersonalmisc-idola979"
+             subtype="h1">N. Perthshire Gaelic</ab>
+         <entry xml:id="PersonalFiles_MuirofOrdPDKellypersonalmisc-idp161894480">
+            <form>
+               <orth>niarraidh</orth>
+            </form>
+            <def>same as “meadhonach” in rest of Gaeldom (i.e. “so-so” or “middling”).</def>
+         </entry>
+         <entry xml:id="PersonalFiles_MuirofOrdPDKellypersonalmisc-idp161891456">
+            <form>
+               <orth>mùganach</orth>
+            </form>
+            <def>as a kilt or something thick getting damp on the hill.</def>
+         </entry>
+         <entry xml:id="PersonalFiles_MuirofOrdPDKellypersonalmisc-idp161909528">
+            <form>
+               <orth>toman-eallaidh</orth>
+            </form>
+            <def>a spider.</def>
+         </entry>
+         <entry xml:id="PersonalFiles_MuirofOrdPDKellypersonalmisc-idp161911040">
+            <form>
+               <orth>bleithteach</orth>
+            </form>
+            <def>usually gruel.</def>
+         </entry>
+         <entry xml:id="PersonalFiles_MuirofOrdPDKellypersonalmisc-idp161912552">
+            <form>
+               <orth>bulbhag</orth>
+            </form>
+            <def>a boulder or very large stone.</def>
+         </entry>
+         <entry xml:id="PersonalFiles_MuirofOrdPDKellypersonalmisc-idp161914064">
+            <form>
+               <orth>luis</orth>
+            </form>
+            <def>water rushing-out.</def>
+         </entry>
+         <entry xml:id="PersonalFiles_MuirofOrdPDKellypersonalmisc-idp161915576">
+            <form>
+               <orth>bùta</orth>
+            </form>
+            <def>a young bird.</def>
+         </entry>
+         <entry xml:id="PersonalFiles_MuirofOrdPDKellypersonalmisc-idp161917088">
+            <form>
+               <orth>ruaig</orth>
+            </form>
+            <def>a shower of rain.</def>
+         </entry>
+         <entry xml:id="PersonalFiles_MuirofOrdPDKellypersonalmisc-idp161918600">
+            <form>
+               <orth>prosbaig</orth>
+            </form>
+            <def>telescope of shepherds or stalkers.</def>
+         </entry>
+         <entry xml:id="PersonalFiles_MuirofOrdPDKellypersonalmisc-idp161920112">
+            <form>
+               <orth>riasgach</orth>
+            </form>
+            <def>blustering.</def>
+         </entry>
+         <entry xml:id="PersonalFiles_MuirofOrdPDKellypersonalmisc-idp161921624">
+            <form>
+               <orth>eitealan</orth>
+            </form>
+            <def>aeroplane.</def>
+         </entry>
+         <entry xml:id="PersonalFiles_MuirofOrdPDKellypersonalmisc-idp161923136">
+            <form>
+               <orth>ceapaire</orth>
+            </form>
+            <def>a sandwich.</def>
+         </entry>
+         <entry xml:id="PersonalFiles_MuirofOrdPDKellypersonalmisc-idp161924648">
+            <form>
+               <orth>bara-làimh</orth>
+            </form>
+            <def>wheel-barrow.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

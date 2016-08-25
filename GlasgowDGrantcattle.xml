@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="CattleandSheep_GlasgowDGrantcattle">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <location>
+               <placeName>Glasgow</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[self]</persName>
+            </person>
+            <person role="informant">
+               <persName>Donald Grant</persName>
+               <persName xml:lang="gd">Domhnall Grannd</persName>
+               <age>66</age>
+               <birth>
+                  <placeName>[Skye, Camus Chroise]</placeName>
+               </birth>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Cattle</term>
+               <term xml:lang="gd">Crodh</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowDGrantcattle-d0e29"
+             subtype="h1">1. Different stages in the growth of cattle</ab>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e34">
+            <form>
+               <orth>crodh</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e40">
+            <form>
+               <orth>laogh (m)</orth>
+            </form>
+            <def>male/female.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e49">
+            <form>
+               <orth>gamhainn (m)</orth>
+            </form>
+            <def>male/female. (“Oidhche Shamhna theirear gamhna ris na laoigh.”)</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e58">
+            <form>
+               <orth>dòi(bh)lianach (m)</orth>
+            </form>
+            <def>two-year old.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e67">
+            <form>
+               <orth>agh (m)</orth>
+            </form>
+            <def>heifer, female (?).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowDGrantcattle-d0e75"
+             subtype="h1">2. Breeds of cattle</ab>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowDGrantcattle-d0e79"
+             subtype="h1">3. Outward appearance of cattle</ab>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e84">
+            <form>
+               <orth>ruadh</orth>
+            </form>
+            <def>ruddy.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e93">
+            <form>
+               <orth>glas</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e99">
+            <form>
+               <orth>dubh</orth>
+            </form>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e105">
+            <form>
+               <orth>riabhach</orth>
+            </form>
+            <def>greyish brown.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e114">
+            <form>
+               <orth>grìseann</orth>
+            </form>
+            <def>applied as name: dun.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e123">
+            <form>
+               <orth>maol</orth>
+            </form>
+            <def>hornless or shorthorn.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e132">
+            <form>
+               <orth>culaidh</orth>
+            </form>
+            <def>good condition.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowDGrantcattle-d0e140"
+             subtype="h1">4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</ab>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowDGrantcattle-d0e144"
+             subtype="h1">5. Parts of the body</ab>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e149">
+            <form>
+               <orth>gaosaid (f)</orth>
+            </form>
+            <def>hair.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e158">
+            <form>
+               <orth>craiceann (m)</orth>
+            </form>
+            <def>hide.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e167">
+            <form>
+               <orth>ùgh (m)</orth>
+            </form>
+            <def>udder.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e176">
+            <form>
+               <orth>sithne (m)</orth>
+            </form>
+            <def>teat.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e185">
+            <form>
+               <orth>sgamhan (m)</orth>
+            </form>
+            <def>lungs.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e194">
+            <form>
+               <orth>griùthan (m)</orth>
+            </form>
+            <def>liver.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e203">
+            <form>
+               <orth>àirnean</orth>
+            </form>
+            <def>kidneys.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e212">
+            <form>
+               <orth>geir (m)</orth>
+            </form>
+            <def>fat.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e221">
+            <form>
+               <orth>caolannan</orth>
+            </form>
+            <def>colon.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e230">
+            <form>
+               <orth>an dubh-liath</orth>
+            </form>
+            <def>pancreas (?).</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowDGrantcattle-d0e238"
+             subtype="h1">6. Calving</ab>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e243">
+            <form>
+               <orth>dàir</orth>
+            </form>
+            <def>heat. Chaidh i a dhàir. – … has been served.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowDGrantcattle-d0e251"
+             subtype="h1">7. Milking</ab>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e256">
+            <form>
+               <orth>a’ bleoghann</orth>
+            </form>
+            <def>milking.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e265">
+            <form>
+               <orth>ciad-bhainne</orth>
+            </form>
+            <def>first milk (after calving).</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e274">
+            <form>
+               <orth>cuman (m)</orth>
+            </form>
+            <def>coggie (?), milk-pail.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowDGrantcattle-d0e282"
+             subtype="h1">8. Feeding</ab>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e287">
+            <form>
+               <orth>a’ biathadh na boine (bà)</orth>
+            </form>
+            <def>feeding [cows].</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e296">
+            <form>
+               <orth>ultach (m)</orth>
+            </form>
+            <def>bundle, fairly large, of hay etc.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e305">
+            <form>
+               <orth>greimean (m)</orth>
+            </form>
+            <def>a little bite.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e314">
+            <form>
+               <orth>a’ fiarach</orth>
+            </form>
+            <def>grazing.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e323">
+            <form>
+               <orth>a’ bhuaile</orth>
+            </form>
+            <def>the milking-place.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowDGrantcattle-d0e331"
+             subtype="h1">9. Apparatus</ab>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e336">
+            <form>
+               <orth>teadhair (f)</orth>
+            </form>
+            <def>tether.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e345">
+            <form>
+               <orth>cipean (m)</orth>
+            </form>
+            <def>tether stake.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowDGrantcattle-d0e353"
+             subtype="h1">10. Diseases</ab>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e358">
+            <form>
+               <orth>spùt (m)</orth>
+            </form>
+            <def>diarrhoea.</def>
+         </entry>
+         <ab type="heading"
+             xml:id="CattleandSheep_GlasgowDGrantcattle-d0e366"
+             subtype="h1">11. Miscellaneous</ab>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e371">
+            <form>
+               <orth>saogan</orth>
+            </form>
+            <def>call to a calf.</def>
+         </entry>
+         <entry xml:id="CattleandSheep_GlasgowDGrantcattle-d0e380">
+            <form>
+               <orth>taorais</orth>
+            </form>
+            <def>stop call to a cow.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_RaasayJCummingsslips">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>07/1970</date>
+            <location>
+               <placeName>Raasay</placeName>
+            </location>
+         </creation>
+         <particDesc>
+            <person role="fieldworker">
+               <persName>[AJ Smith?]</persName>
+            </person>
+            <person role="informant">
+               <persName>John Cummings</persName>
+            </person>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term>Miscellaneous</term>
+               <term xml:lang="gd">Measgaichte</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp118789072">
+            <form>
+               <orth>lagais</orth>
+            </form>
+            <def>Quotation: (1) lagais inneir. (2) Nach tu a rinn a’ lagais dhiot fhéin. Notes: dung-heap.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp118785688">
+            <form>
+               <orth>lamaiseadh</orth>
+            </form>
+            <def>Notes: severe punishment.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp118782736">
+            <form>
+               <orth>làmhadh</orth>
+               <pron>[ɫɑ̃:həɣ]</pron>
+            </form>
+            <def>[ɫɑ̃:həɣ] Notes: axe.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp118803328">
+            <form>
+               <orth>làmhaid</orth>
+               <pron>[ɫɑ̃:vɛdʹ]</pron>
+            </form>
+            <def>[ɫɑ̃:vɛdʹ] Notes: handle of cas-chrom.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp118805056">
+            <form>
+               <orth>leumnach-uaine</orth>
+            </form>
+            <def>Notes: grass-hopper.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp118806568">
+            <form>
+               <orth>lodair</orth>
+            </form>
+            <def>Notes: ladle.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp118808080">
+            <form>
+               <orth>losgadh</orth>
+            </form>
+            <def>Notes: phosphorescence in the sea.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp118809592">
+            <form>
+               <orth>mac-làmhraisg (sic)</orth>
+               <pron>[mɑxkɫɑ̃:ɾiʃɡʹ]</pron>
+            </form>
+            <def>[mɑxkɫɑ̃:ɾiʃɡʹ] Notes: monkfish.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp118811320">
+            <form>
+               <orth>muc-bhiorach</orth>
+            </form>
+            <def>Notes: porpoise.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161821704">
+            <form>
+               <orth>muc-chreigeadh</orth>
+            </form>
+            <def>Notes: wrasse.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161823216">
+            <form>
+               <orth>mula-mhàgag</orth>
+            </form>
+            <def>Quotation: sgeth na mulaichean-màgag (sic). Notes: frog-spawn.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161824872">
+            <form>
+               <orth>rùdhan</orth>
+               <pron>[ru:ɣɑṉ]</pron>
+            </form>
+            <def>[ru:ɣɑṉ] </def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161826600">
+            <form>
+               <orth>riabh</orth>
+            </form>
+            <def>Quotation: riabh buntàta. Notes: row of potatoes.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161828256">
+            <form>
+               <orth>peinig</orth>
+               <pron>[pɛ̃ṉiɡ]</pron>
+            </form>
+            <def>[pɛ̃ṉiɡ] Quotation: pl. [pɛṉiɡʹəṉ]. Notes: small stones used for filling in gaps between larger stones in a dry-stone wall.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161830488">
+            <form>
+               <orth>sàil</orth>
+            </form>
+            <def>Notes: “heel” of cas-chrom.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161832000">
+            <form>
+               <orth>sgàth-fhras</orth>
+            </form>
+            <def>Notes: a passing shower.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161833512">
+            <form>
+               <orth>sgeth</orth>
+            </form>
+            <def>Quotation: sgeth na mulaichean-màgag (sic) [mũ̜ɫiçəṉmɑ̃:ɡɑɡ]. Notes: frog-spawn.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161835384">
+            <form>
+               <orth>sgonnan</orth>
+            </form>
+            <def>Notes: foot-rest of cas-chrom.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161836896">
+            <form>
+               <orth>sgrùbhan</orth>
+               <pron>[sɡɾu̟:ɑ̃ṉ]</pron>
+            </form>
+            <def>[sɡɾu̟:ɑ̃ṉ] Notes: corn-rick.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161838624">
+            <form>
+               <orth>sgùil</orth>
+               <pron>[sɡu̟:l]</pron>
+            </form>
+            <def>[sɡu̟:l] Quotation: sgùil buntàta, sgùil lion mhóir. Notes: basket made from willow wands.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161840496">
+            <form>
+               <orth>simid</orth>
+               <pron>[ʃĩmidʹ]</pron>
+            </form>
+            <def>[ʃĩmidʹ] Notes: potato masher, shaped like a baseball bat.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161842224">
+            <form>
+               <orth>spagh</orth>
+               <pron>[spɤɣ]</pron>
+            </form>
+            <def>[spɤɣ] Notes: swathe, e.g. of corn.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161843952">
+            <form>
+               <orth>steàrnan</orth>
+               <pron>[ʃtʹɑ:ʴṉɛ̃ṉ]</pron>
+            </form>
+            <def>[ʃtʹɑ:ʴṉɛ̃ṉ] Notes: tern. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161845824">
+            <form>
+               <orth>tarbh-nathrach</orth>
+            </form>
+            <def>Notes: dragonfly.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161847336">
+            <form>
+               <orth>tobhta</orth>
+            </form>
+            <def>Quotation: an tobhta thogarrach. Notes: removable seat.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161848992">
+            <form>
+               <orth>togarrach</orth>
+            </form>
+            <def>Quotation: an tobhta thogarrach. Notes: removable seat in a boat.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161850648">
+            <form>
+               <orth>toirisginn</orth>
+               <pron>[t̪ɤɾɤʃɡʹĩnʹ]</pron>
+            </form>
+            <def>[t̪ɤɾɤʃɡʹĩnʹ] Notes: peat-cutting iron.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161852376">
+            <form>
+               <orth>tòrr</orth>
+            </form>
+            <def>Quotation: tòrr buntata. Notes: potato pit.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161854032">
+            <form>
+               <orth>tudan</orth>
+               <pron>[t̪ud̪ɛ̃ṉ]</pron>
+            </form>
+            <def>[t̪ud̪ɛ̃ṉ] Notes: makeshift corn-rick. Smaller than a sgrùbhan (q.v.) – made hurriedly because of impending bad weather.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161855760">
+            <form>
+               <orth>banais</orth>
+            </form>
+            <def>Quotation: banais-chullaich. Notes: a collection of wailing cats at night (Kilmuir).</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161857488">
+            <form>
+               <orth>beart</orth>
+            </form>
+            <def>Quotation: beart mhór. Notes: tackle used for lythe fishing. It consisted of a line with a rubber eel and lead weight towed after the boat.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161859144">
+            <form>
+               <orth>bior-chrith</orth>
+            </form>
+            <def>Notes: iron spike, e.g. for making holes in zinc.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161860656">
+            <form>
+               <orth>bioran</orth>
+            </form>
+            <def>Quotation: Bioran-Ceit[?]-Mhóir. Notes: piece of wood with wool wrapped round the end of it, dipped in oil and used as a torch.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161862312">
+            <form>
+               <orth>blian</orth>
+            </form>
+            <def>Quotation: pìos blian. Notes: a bit of flank.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161863968">
+            <form>
+               <orth>bodach-baic</orth>
+            </form>
+            <def>Notes: the outside peat.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161865480">
+            <form>
+               <orth>boiteag</orth>
+               <pron>[bɔtʹɑɡ]</pron>
+            </form>
+            <def>[bɔtʹɑɡ] Notes: earthworm.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161867208">
+            <form>
+               <orth>breacadh</orth>
+            </form>
+            <def>Quotation: breacadh a’ phuill. Notes: lining the peat-bank for skinning.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161868864">
+            <form>
+               <orth>buail-an-t-òrd</orth>
+            </form>
+            <def>Notes: a beetle which makes a striking noise. (Dw. Buail a’ chnag – Balm cricket.)</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161870376">
+            <form>
+               <orth>buala</orth>
+               <pron>[bu̜ɤɫə]</pron>
+            </form>
+            <def>[bu̜ɤɫə] Quotation: buala a’ chruidh. Notes: cow-stall. [NOTES: slipped under ‘buaile’.]</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161872392">
+            <form>
+               <orth>bùlasg</orth>
+               <pron>[bu̟:ləsɡ]</pron>
+            </form>
+            <def>[bu̟:ləsɡ] Notes: can be used for iron hoop on a barrel.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161874120">
+            <form>
+               <orth>buna-bhuachaille</orth>
+            </form>
+            <def>Notes: Great Northern Diver.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161875632">
+            <form>
+               <orth>buntàta</orth>
+            </form>
+            <def>Quotation: tòrr buntàta. Notes: potato pit.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161877288">
+            <form>
+               <orth>buntàta</orth>
+            </form>
+            <def>Quotation: riabh buntàta. Notes: row of potatoes.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161878944">
+            <form>
+               <orth>bùthach</orth>
+               <pron>[bu̟:hɔx]</pron>
+            </form>
+            <def>[bu̟:hɔx] Notes: spiked muzzle put on a calf.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161880672">
+            <form>
+               <orth>cabadh</orth>
+            </form>
+            <def>Quotation: a’ cabadh a’ bhuntàta. Notes: cleaning potatoes with a hoe.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161882328">
+            <form>
+               <orth>cabhanach</orth>
+               <pron>[kɛvɛṉɑx]</pron>
+            </form>
+            <def>[kɛvɛṉɑx] Notes: a small brown trout.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161884056">
+            <form>
+               <orth>cabhsair</orth>
+            </form>
+            <def>Notes: paving stones outside a house.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161885568">
+            <form>
+               <orth>carcair</orth>
+            </form>
+            <def>Notes: byre drain.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161887080">
+            <form>
+               <orth>ceaba</orth>
+               <pron>[cebə]</pron>
+            </form>
+            <def>[cebə] Notes: cutting part of the cas-chrom.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161888808">
+            <form>
+               <orth>ceanna-phullan</orth>
+            </form>
+            <def>Notes: tadpole.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161890320">
+            <form>
+               <orth>ceàrd-fhiullan</orth>
+               <pron>[cɑ:ʴd̠iu̜ɫɑ̃ṉ]</pron>
+            </form>
+            <def>[cɑ:ʴd̠iu̜ɫɑ̃ṉ] Notes: a brown insect with a hard body found on dungheaps. Has a “srann”. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161892408">
+            <form>
+               <orth>ciste-mhineadh</orth>
+            </form>
+            <def>Notes: meal-chest.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161893920">
+            <form>
+               <orth>ciubhrach</orth>
+               <pron>[cu̟ɾɔx]</pron>
+            </form>
+            <def>[cu̟ɾɔx] Quotation: Tha ciubhrach uisge ann. Notes: drizzle.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161895792">
+            <form>
+               <orth>claban-muilleadh</orth>
+            </form>
+            <def>Quotation: Nach tu an claban-muilleadh. Notes: used for a gossip.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161897448">
+            <form>
+               <orth>clàrag</orth>
+            </form>
+            <def>Notes: square stern of a boat.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161898960">
+            <form>
+               <orth>cliabh-taobhaisdeach</orth>
+               <pron>[klwft̪ɤıʃdʹɑx]</pron>
+            </form>
+            <def>[klwft̪ɤıʃdʹɑx] Notes: half-size creel for taking fish from cairidh. (Would it not be any kind of creel?)</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161900688">
+            <form>
+               <orth>cnag</orth>
+               <pron>[kṉɑ̃ɡ]</pron>
+            </form>
+            <def>[kṉɑ̃ɡ] Notes: thole-pin.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161902416">
+            <form>
+               <orth>cnot</orth>
+               <pron>[kṉɔ̃t̪]</pron>
+            </form>
+            <def>[kṉɔ̃t̪] Notes: piece of wood put on the gunwhale to save it from the chafing of the oars.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161904144">
+            <form>
+               <orth>coileach-gaoitheadh</orth>
+            </form>
+            <def>Notes: a round basket with a hole in the top for holding wool for spinning.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161905656">
+            <form>
+               <orth>coile-bianan</orth>
+               <pron>[kɤləbĩɤ̃ṉɑṉ]</pron>
+            </form>
+            <def>[kɤləbĩɤ̃ṉɑṉ] Notes: phosphorescence at sea.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161907384">
+            <form>
+               <orth>corra-chagailt</orth>
+               <pron>[kɔrəxɑɡılʹtʹ]</pron>
+            </form>
+            <def>[kɔrəxɑɡılʹtʹ] Notes: coloured glow from embers among ashes.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161909112">
+            <form>
+               <orth>corra-chòsag</orth>
+            </form>
+            <def>Notes: slater.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161910624">
+            <form>
+               <orth>crasgag-tràghad</orth>
+            </form>
+            <def>Notes: starfish.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161912136">
+            <form>
+               <orth>croman</orth>
+            </form>
+            <def>Notes: used for hoeing and lifting potatoes.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161913648">
+            <form>
+               <orth>cullach</orth>
+            </form>
+            <def>Quotation: banais-chullaich. Notes: a collection of cats wailing at night. (Kilmuir)</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161915376">
+            <form>
+               <orth>dearc-luachrach</orth>
+            </form>
+            <def>Notes: lizard.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161916888">
+            <form>
+               <orth>deiseag</orth>
+            </form>
+            <def>Notes: crab with a velvety back.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161918400">
+            <form>
+               <orth>dìobradh</orth>
+            </form>
+            <def>Quotation: Chaneil dìobradh air. Notes: used of incessant rain.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161920056">
+            <form>
+               <orth>dorbh</orth>
+               <pron>[d̪ɔɾɔv]</pron>
+            </form>
+            <def>[d̪ɔɾɔv] Notes: fishing tackle. Worked up and down. </def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161921856">
+            <form>
+               <orth>feallag</orth>
+               <pron>[fjɑɫɑɡ]</pron>
+            </form>
+            <def>[fjɑɫɑɡ] Notes: a chopping-block.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161923584">
+            <form>
+               <orth>geola</orth>
+            </form>
+            <def>Notes: [ɡʹɔɫə] rather than [ɡʹɔ:ɫə] for a boat.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161925672">
+            <form>
+               <orth>glanadh</orth>
+            </form>
+            <def>Quotation: Cha dean mi glanadh dheth. Notes: I can’t make head or tail of it. (From Caol-Rónach.)</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161927400">
+            <form>
+               <orth>gnoigean</orth>
+               <pron>[ɡɾɔ̃ɡʹɛ̃ṉ]</pron>
+            </form>
+            <def>[ɡɾɔ̃ɡʹɛ̃ṉ] Notes: hand-grip on a scythe.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161929128">
+            <form>
+               <orth>gobhladair-na-lampa</orth>
+            </form>
+            <def>Notes: daddy-long-legs.</def>
+         </entry>
+         <entry xml:id="Slips_RaasayJCummingsslips-idp161930640">
+            <form>
+               <orth>góbhlag</orth>
+            </form>
+            <def>Notes: V-shaped twigs taken from small trees. Put through roof divots to secure them.</def>
+         </entry>
+      </body>
+   </text>
+</TEI>
