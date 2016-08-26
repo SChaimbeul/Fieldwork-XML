@@ -41,9 +41,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_SouthBragarDMacPhailsheep-d0e29"
-             subtype="h1">1. Different stages in the growth of sheep (female)</ab>
+            >1. Different stages in the growth of sheep (female)</head>
          <entry xml:id="CattleandSheep_SouthBragarDMacPhailsheep-d0e34">
             <form>
                <orth>uan firionn</orth>
@@ -106,9 +106,9 @@
                <orth>seann caora</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_SouthBragarDMacPhailsheep-d0e111"
-             subtype="h1">2. Different stages in the growth of sheep (male)</ab>
+            >2. Different stages in the growth of sheep (male)</head>
          <entry xml:id="CattleandSheep_SouthBragarDMacPhailsheep-d0e116">
             <form>
                <orth>reith</orth>
@@ -138,9 +138,9 @@
                <orth>tri bliadhnach etc.</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_SouthBragarDMacPhailsheep-d0e154"
-             subtype="h1">3. Different stages in the growth of the castrated male</ab>
+            >3. Different stages in the growth of the castrated male</head>
          <entry xml:id="CattleandSheep_SouthBragarDMacPhailsheep-d0e159">
             <form>
                <orth>oisg fhirionn</orth>
@@ -163,9 +163,9 @@
                <orth>tri bliadhnach etc.</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_SouthBragarDMacPhailsheep-d0e188"
-             subtype="h1">4. Sheep’s appearance</ab>
+            >4. Sheep’s appearance</head>
          <entry xml:id="CattleandSheep_SouthBragarDMacPhailsheep-d0e193">
             <form>
                <orth>caora bhreac</orth>
@@ -221,9 +221,9 @@
             </form>
             <def>fat sheep.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_SouthBragarDMacPhailsheep-d0e273"
-             subtype="h1">5. Miscellaneous</ab>
+            >5. Miscellaneous</head>
          <entry xml:id="CattleandSheep_SouthBragarDMacPhailsheep-d0e278">
             <form>
                <orth>piatan</orth>
@@ -285,9 +285,9 @@
             </form>
             <def>small ram.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_SouthBragarDMacPhailsheep-d0e367"
-             subtype="h1">6. Feeding and grazing</ab>
+            >6. Feeding and grazing</head>
          <entry xml:id="CattleandSheep_SouthBragarDMacPhailsheep-d0e372">
             <form>
                <orth>phrasach</orth>
@@ -306,9 +306,9 @@
             </form>
             <def>regular beat on the moor.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_SouthBragarDMacPhailsheep-d0e398"
-             subtype="h1">7. Handling of sheep</ab>
+            >7. Handling of sheep</head>
          <entry xml:id="CattleandSheep_SouthBragarDMacPhailsheep-d0e403">
             <form>
                <orth>cur a mach na caorach</orth>
@@ -381,9 +381,9 @@
             </form>
             <def>call addressed to lamb or sheep.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_SouthBragarDMacPhailsheep-d0e510"
-             subtype="h1">8. Apparatus</ab>
+            >8. Apparatus</head>
          <entry xml:id="CattleandSheep_SouthBragarDMacPhailsheep-d0e515">
             <form>
                <orth>stiall</orth>
@@ -408,9 +408,9 @@
             </form>
             <def>band for tying legs while shearing.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_SouthBragarDMacPhailsheep-d0e550"
-             subtype="h1">9. Diseases</ab>
+            >9. Diseases</head>
          <entry xml:id="CattleandSheep_SouthBragarDMacPhailsheep-d0e555">
             <form>
                <orth>cliambh</orth>
@@ -465,12 +465,12 @@
             </form>
             <def>the common sheep lice.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_SouthBragarDMacPhailsheep-d0e632"
-             subtype="h1">10. Parts of the body</ab>
-         <ab type="heading"
+            >10. Parts of the body</head>
+         <head
              xml:id="CattleandSheep_SouthBragarDMacPhailsheep-d0e636"
-             subtype="h1">11. Lambing</ab>
+            >11. Lambing</head>
          <entry xml:id="CattleandSheep_SouthBragarDMacPhailsheep-d0e641">
             <form>
                <orth>tide an reitheachd</orth>
@@ -487,9 +487,9 @@
                <orth>salchair</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_SouthBragarDMacPhailsheep-d0e661"
-             subtype="h1">12. Miscellaneous: short tail that remains after docking, small tuft of hair under the chin of a ram, scabby sheep losing their wool, any other words</ab>
+            >12. Miscellaneous: short tail that remains after docking, small tuft of hair under the chin of a ram, scabby sheep losing their wool, any other words</head>
          <entry xml:id="CattleandSheep_SouthBragarDMacPhailsheep-d0e666">
             <form>
                <orth>earbull stúuach (stùthach)</orth>

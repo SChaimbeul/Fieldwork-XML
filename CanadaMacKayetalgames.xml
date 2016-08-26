@@ -55,21 +55,21 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Canada_CanadaMacKayetalgames-d0e47"
-             subtype="h1">1. Toys</ab>
-         <ab type="heading"
+            >1. Toys</head>
+         <head
              xml:id="Canada_CanadaMacKayetalgames-d0e51"
-             subtype="h1">2. Swings, sea-saws etc.</ab>
+            >2. Swings, sea-saws etc.</head>
          <entry xml:id="Canada_CanadaMacKayetalgames-d0e56">
             <form>
                <orth>dreallag</orth>
             </form>
             <def>swing.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Canada_CanadaMacKayetalgames-d0e64"
-             subtype="h1">3. Games played indoors</ab>
+            >3. Games played indoors</head>
          <entry xml:id="Canada_CanadaMacKayetalgames-d0e69">
             <form>
                <orth>dallan-dà</orth>
@@ -82,21 +82,21 @@
             </form>
             <def>hide-and-go-seek.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Canada_CanadaMacKayetalgames-d0e86"
-             subtype="h1">4. Outdoor games not involving a ball or puck</ab>
+            >4. Outdoor games not involving a ball or puck</head>
          <entry xml:id="Canada_CanadaMacKayetalgames-d0e91">
             <form>
                <orth>sgiobag</orth>
             </form>
             <def>tag.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Canada_CanadaMacKayetalgames-d0e99"
-             subtype="h1">5. Ball games</ab>
-         <ab type="heading"
+            >5. Ball games</head>
+         <head
              xml:id="Canada_CanadaMacKayetalgames-d0e103"
-             subtype="h1">6. Athletics</ab>
+            >6. Athletics</head>
          <entry xml:id="Canada_CanadaMacKayetalgames-d0e108">
             <form>
                <orth>leum fhada</orth>
@@ -128,9 +128,9 @@
             </form>
             <def>[sic] somersault.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Canada_CanadaMacKayetalgames-d0e152"
-             subtype="h1">7. Heavy events</ab>
+            >7. Heavy events</head>
          <entry xml:id="Canada_CanadaMacKayetalgames-d0e157">
             <form>
                <orth>ceitheamh na chloiche</orth>
@@ -149,9 +149,9 @@
             </form>
             <def>caber-throwing.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Canada_CanadaMacKayetalgames-d0e183"
-             subtype="h1">8. Contests involving pulling or pushing</ab>
+            >8. Contests involving pulling or pushing</head>
          <entry xml:id="Canada_CanadaMacKayetalgames-d0e188" resp="SJMacKinnon">
             <form>
                <orth>bata-leisg</orth>
@@ -164,9 +164,9 @@
             </form>
             <def>lazy-stick.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Canada_CanadaMacKayetalgames-d0e205"
-             subtype="h1">9. Boxing and wrestling</ab>
+            >9. Boxing and wrestling</head>
          <entry xml:id="Canada_CanadaMacKayetalgames-d0e210" resp="SJMacKinnon">
             <form>
                <orth>carachd</orth>
@@ -197,18 +197,18 @@
             </form>
             <def>a shove or push with the elbow.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Canada_CanadaMacKayetalgames-d0e254"
-             subtype="h1">10. Blows in general</ab>
+            >10. Blows in general</head>
          <entry xml:id="Canada_CanadaMacKayetalgames-d0e259">
             <form>
                <orth>ùbag</orth>
             </form>
             <def>shove or push with the elbow.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Canada_CanadaMacKayetalgames-d0e267"
-             subtype="h1">11. Injury and exhaustion</ab>
+            >11. Injury and exhaustion</head>
          <entry xml:id="Canada_CanadaMacKayetalgames-d0e272">
             <form>
                <orth>fallus</orth>

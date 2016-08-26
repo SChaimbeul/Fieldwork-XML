@@ -42,9 +42,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e31"
-             subtype="h1">1. Na togalaichean: sobhal, bàthach is mar sin, agus ainm gach pàirt dhiubh</ab>
+            >1. Na togalaichean: sobhal, bàthach is mar sin, agus ainm gach pàirt dhiubh</head>
          <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e36">
             <form>
                <orth>am bàthaich</orth>
@@ -310,21 +310,21 @@
             </form>
             <def>(English ‘l’) A gate contrived by slipping a thick stick or two through loops on each side of a wall or dyke.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e431"
-             subtype="h1">2. A’ mathachadh no a’ leasachadh na talmhainn</ab>
+            >2. A’ mathachadh no a’ leasachadh na talmhainn</head>
          <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e436">
             <form>
                <orth>inneir</orth>
             </form>
             <def>manure.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e444"
-             subtype="h1">3. A’ treabhadh no a’ ruamhar: an crann agus ainm gach pàirt dheth</ab>
-         <ab type="heading"
+            >3. A’ treabhadh no a’ ruamhar: an crann agus ainm gach pàirt dheth</head>
+         <head
              xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e448"
-             subtype="h1">4. Innealan beaga leithid spaid, gràp, ràcan is mar sin</ab>
+            >4. Innealan beaga leithid spaid, gràp, ràcan is mar sin</head>
          <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e453">
             <form>
                <orth>an corran</orth>
@@ -355,18 +355,18 @@
             </form>
             <def>the cutting edge of knife / (scythe?).</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e497"
-             subtype="h1">5. Acfhuinn an eich airson gach seòrsa obair</ab>
+            >5. Acfhuinn an eich airson gach seòrsa obair</head>
          <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e502">
             <form>
                <orth>diollaid</orth>
             </form>
             <def>saddle.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e510"
-             subtype="h1">6. A’ cur an t-sìl</ab>
+            >6. A’ cur an t-sìl</head>
          <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e515">
             <form>
                <orth>an talamh</orth>
@@ -403,9 +403,9 @@
             </form>
             <def>level ground. [NOTES: the last item in pencil and hardly visible; maybe it was meant to be erased like the one below it.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e568"
-             subtype="h1">7. A’ buain agus a’ tiormachadh an arbhair no an fheòir</ab>
+            >7. A’ buain agus a’ tiormachadh an arbhair no an fheòir</head>
          <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e573">
             <form>
                <orth>am fàladair</orth>
@@ -480,9 +480,9 @@
             </form>
             <def>a rope made of twisted straw carrying a stone as a weight and used for securing the thatch on the stack.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e680"
-             subtype="h1">8. A’ togail a’ bhuntàta</ab>
+            >8. A’ togail a’ bhuntàta</head>
          <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e685">
             <form>
                <orth>buntàta geal</orth>
@@ -509,9 +509,9 @@
             </form>
             <def>potato disease.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e722"
-             subtype="h1">9. A’ tasgadh an arbhair agus a’ bhuntàta</ab>
+            >9. A’ tasgadh an arbhair agus a’ bhuntàta</head>
          <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e727">
             <form>
                <orth>[cruach]</orth>
@@ -526,15 +526,15 @@
 	    <graphic url="EdinburghSCUrquhartaiteachillust2.jpg" width="200px"/>
 	           </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e746"
-             subtype="h1">10. A’ bualadh ’s a’ criathradh</ab>
-         <ab type="heading"
+            >10. A’ bualadh ’s a’ criathradh</head>
+         <head
              xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e750"
-             subtype="h1">11. A’ bleith an t-sìl</ab>
-         <ab type="heading"
+            >11. A’ bleith an t-sìl</head>
+         <head
              xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e754"
-             subtype="h1">12. Ainmean a chleachdar ri earrainn fearainn</ab>
+            >12. Ainmean a chleachdar ri earrainn fearainn</head>
          <entry xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e759">
             <form>
                <orth>dail</orth>
@@ -550,9 +550,9 @@
                <orth>iomaire</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_EdinburghSCUrquhartaiteach-d0e776"
-             subtype="h1">13. Faclan sam bith eile</ab>
+            >13. Faclan sam bith eile</head>
       </body>
    </text>
 </TEI>

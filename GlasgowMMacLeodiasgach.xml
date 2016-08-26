@@ -47,9 +47,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowMMacLeodiasgach-d0e41"
-             subtype="h1">1. Lìon-mór</ab>
+            >1. Lìon-mór</head>
          <entry xml:id="WoolworkingandFishing_GlasgowMMacLeodiasgach-d0e46">
             <form>
                <orth>lìon-mór</orth>
@@ -154,9 +154,9 @@
             </form>
             <def>Chanadh iad ris a’ chuan eadar na h-Eileanan Flannach agus tìr-mór Leòdhais. [NOTES: slipped under ‘cuan’ with ‘Cuan nan Eilean’ as the quotation. Definition: Between the Flannan Isles and Lewis.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowMMacLeodiasgach-d0e206"
-             subtype="h1">2. Lìon-beag</ab>
+            >2. Lìon-beag</head>
          <entry xml:id="WoolworkingandFishing_GlasgowMMacLeodiasgach-d0e211">
             <form>
                <orth>lìon-beag (E)</orth>
@@ -203,9 +203,9 @@
             </form>
             <def>Siol (I) (siol-ghainmheach). An t-siol na b’fheàrr airson cnòdain (cnòdan – E). Luga (I). An luga na b’fheàrr airson adaig (adag – I). Là blàth agus grianach, làtha a b’fheàrr airson cnòdain.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowMMacLeodiasgach-d0e276"
-             subtype="h1">3. Lìon-sgadanach</ab>
+            >3. Lìon-sgadanach</head>
          <entry xml:id="WoolworkingandFishing_GlasgowMMacLeodiasgach-d0e281">
             <form>
                <orth>lìon-sgadanach (E)</orth>
@@ -273,9 +273,9 @@
             </form>
             <def>Ged nach eil mi ag amais air, tha mi de’n bheachd gu robh ainm aca airson craicionn airson puta. Chan eil fhios nach e ‘peallaid’ a bh’ann. [SLIP: Suggested as name for the buoy’s ‘craicionn’. Not sure.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowMMacLeodiasgach-d0e376"
-             subtype="h1">4. Lìon sam bith eile</ab>
+            >4. Lìon sam bith eile</head>
          <entry xml:id="WoolworkingandFishing_GlasgowMMacLeodiasgach-d0e381">
             <form>
                <orth>lìon-leòbag (E)</orth>
@@ -286,9 +286,9 @@
                <orth>lìon-bhreac (E)</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowMMacLeodiasgach-d0e392"
-             subtype="h1">5. Duirgh, slatan, driamlaichean</ab>
+            >5. Duirgh, slatan, driamlaichean</head>
          <entry xml:id="WoolworkingandFishing_GlasgowMMacLeodiasgach-d0e397">
             <form>
                <orth>dorgh (I)</orth>
@@ -351,9 +351,9 @@
             </form>
             <def>Am biathadh (E) a bhiodh againne. Feusgan ’s mar sin, anns Na Bàigh.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowMMacLeodiasgach-d0e486"
-             subtype="h1">6. Acfhuinn sam bith eile</ab>
+            >6. Acfhuinn sam bith eile</head>
          <entry xml:id="WoolworkingandFishing_GlasgowMMacLeodiasgach-d0e491">
             <form>
                <orth>cliabh-ghiomach</orth>

@@ -33,7 +33,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term>Peat-Working</term>
+               <term xml:lang="en">Peat-Working</term>
                <term>Mòine</term>
             </keywords>
          </textClass>
@@ -41,9 +41,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Peat_CampbeltownMMacLeodmoine-d0e34"
-             subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+            >1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
          <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e39">
             <form>
                <orth>poll mònadh</orth>
@@ -83,9 +83,9 @@
             </form>
             <def>laying the turf neatly grassy side up inside the peat bank. This arrangement actually improves the growth of grass.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_CampbeltownMMacLeodmoine-d0e94"
-             subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+            >2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
          <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e99">
             <form>
                <orth>teireisgeir ()</orth>
@@ -157,9 +157,9 @@
             </form>
             <def>fibry, brown material in peat. Pockets of it are sometimes found in quite hard peat. It used to be smoked in home-made pipes by boys. The pipes were either made of potato hollowed out with a stem of ‘cuiseag’ (docken plant) or of a section from a cabbage stem (the tough part above the ground was best) with the ‘cuiseag’ stem: piob phuntàt and piob chàil.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_CampbeltownMMacLeodmoine-d0e201"
-             subtype="h1">3. A’ tiormachadh na mònach</ab>
+            >3. A’ tiormachadh na mònach</head>
          <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e206">
             <form>
                <orth>rùdhadh</orth>
@@ -199,12 +199,12 @@
             </form>
             <def>safe under cover. This may be a Lewis expression. It rhymes with ‘tigh’ as pronounced in Lewis. The ‘l’ is single as in ‘loch’. I’m not at all sure of the spelling.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_CampbeltownMMacLeodmoine-d0e261"
-             subtype="h1">4. A’ cruachadh na mònach</ab>
-         <ab type="heading"
+            >4. A’ cruachadh na mònach</head>
+         <head
              xml:id="Peat_CampbeltownMMacLeodmoine-d0e265"
-             subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+            >5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
          <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e270">
             <form>
                <orth>cliabh</orth>
@@ -317,12 +317,12 @@
             </form>
             <def>(Sorry for the digression and not keeping to the strict headings of the faclan.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_CampbeltownMMacLeodmoine-d0e428"
-             subtype="h1">6. Seòrsachan mònach</ab>
-         <ab type="heading"
+            >6. Seòrsachan mònach</head>
+         <head
              xml:id="Peat_CampbeltownMMacLeodmoine-d0e432"
-             subtype="h1">7. Faclan eile</ab>
+            >7. Faclan eile</head>
       </body>
    </text>
 </TEI>

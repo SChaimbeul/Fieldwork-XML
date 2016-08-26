@@ -38,9 +38,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e26"
-             subtype="h1">1. Maorach</ab>
+            >1. Maorach</head>
          <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e31">
             <form>
                <orth>bàirneach</orth>
@@ -143,12 +143,12 @@
             </form>
             <def>large mussel.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e183"
-             subtype="h1">2. A’ tional maorach</ab>
-         <ab type="heading"
+            >2. A’ tional maorach</head>
+         <head
              xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e187"
-             subtype="h1">3. Beathaichean eile a gheibhear ’sa’ chladach</ab>
+            >3. Beathaichean eile a gheibhear ’sa’ chladach</head>
          <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e192">
             <form>
                <orth>luga</orth>

@@ -42,9 +42,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e32"
-             subtype="h1">1. Lìon-mór</ab>
+            >1. Lìon-mór</head>
          <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e37">
             <form>
                <orth>bascaid</orth>
@@ -65,9 +65,9 @@
                <orth>druim</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e60"
-             subtype="h1">2. Lìon-beag</ab>
+            >2. Lìon-beag</head>
          <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e65">
             <form>
                <orth>scùil</orth>
@@ -146,9 +146,9 @@
             </form>
             <def>taking off the fish.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e181"
-             subtype="h1">3. Lìon-sgadanach</ab>
+            >3. Lìon-sgadanach</head>
          <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e186">
             <form>
                <orth>magul</orth>
@@ -254,12 +254,12 @@
             </form>
             <def>barking.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e338"
-             subtype="h1">4. Lìon sam bith eile</ab>
-         <ab type="heading"
+            >4. Lìon sam bith eile</head>
+         <head
              xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e342"
-             subtype="h1">5. Duirgh, slatan, driamlaichean</ab>
+            >5. Duirgh, slatan, driamlaichean</head>
          <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e347">
             <form>
                <orth>stiodhaidh</orth>
@@ -296,9 +296,9 @@
             </form>
             <def>a welcome catch of fish.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e400"
-             subtype="h1">6. Acfhuinn sam bith eile</ab>
+            >6. Acfhuinn sam bith eile</head>
       </body>
    </text>
 </TEI>

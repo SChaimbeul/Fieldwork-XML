@@ -33,7 +33,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term>Peat-Working</term>
+               <term xml:lang="en">Peat-Working</term>
                <term>Mòine</term>
             </keywords>
          </textClass>
@@ -41,7 +41,7 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading" xml:id="Peat_DunoonJMacLeanmoine-d0e32" subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+         <head xml:id="Peat_DunoonJMacLeanmoine-d0e32">1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
          <entry xml:id="Peat_DunoonJMacLeanmoine-d0e37">
             <form>
                <orth>feannadh</orth>
@@ -114,9 +114,9 @@
             </form>
             <def>bottom part where peat are laid out.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_DunoonJMacLeanmoine-d0e144"
-             subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+            >2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
          <entry xml:id="Peat_DunoonJMacLeanmoine-idola195">
             <form>
                <orth>[note]</orth>
@@ -202,9 +202,9 @@
             </form>
             <def>Christmas Day. Extra time from 22nd-25th December. Difference in time amounts to the cockerel taken [sic] the hens an extra step to feed. [Cf. Latha Ghille Chonnaidh.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_DunoonJMacLeanmoine-d0e274"
-             subtype="h1">3. A’ tiormachadh na mònach</ab>
+            >3. A’ tiormachadh na mònach</head>
          <entry xml:id="Peat_DunoonJMacLeanmoine-d0e279">
             <form>
                <orth>tinnteadh, n. tinntean</orth>
@@ -222,9 +222,9 @@
                <orth>cruach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_DunoonJMacLeanmoine-d0e302"
-             subtype="h1">4. A’ cruachadh na mònach</ab>
+            >4. A’ cruachadh na mònach</head>
          <entry xml:id="Peat_DunoonJMacLeanmoine-d0e307">
             <form>
                <orth>cruach</orth>
@@ -243,9 +243,9 @@
             </form>
             <def>covering the stack with the turf taken off the poll – only when left in the hills to be taken home later.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_DunoonJMacLeanmoine-d0e333"
-             subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+            >5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
          <entry xml:id="Peat_DunoonJMacLeanmoine-d0e338">
             <form>
                <orth>cliabh, pl. cleibh</orth>
@@ -378,9 +378,9 @@
             </form>
             <def>fragments of peat at the bottom of creel.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_DunoonJMacLeanmoine-d0e535"
-             subtype="h2">[Horse]</ab>
+             subtype="h2">[Horse]</head>
          <entry xml:id="Peat_DunoonJMacLeanmoine-d0e540">
             <form>
                <orth>each</orth>
@@ -424,18 +424,18 @@
                <orth>àigeach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_DunoonJMacLeanmoine-d0e590"
-             subtype="h1">6. Seòrsachan mònach</ab>
+            >6. Seòrsachan mònach</head>
          <entry xml:id="Peat_DunoonJMacLeanmoine-idola196">
             <form>
                <orth>[note]</orth>
             </form>
             <def>as page 2.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_DunoonJMacLeanmoine-d0e603"
-             subtype="h1">7. Faclan eile</ab>
+            >7. Faclan eile</head>
       </body>
    </text>
 </TEI>

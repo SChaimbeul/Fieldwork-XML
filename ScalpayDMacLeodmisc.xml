@@ -42,9 +42,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idola349"
-             subtype="h1">Eoin</ab>
+            >Eoin</head>
          <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118767400">
             <form>
                <orth>stearrag</orth>
@@ -268,9 +268,9 @@
             </form>
             <def>buzzard.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idola350"
-             subtype="h1">Trees in Gaelic</ab>
+            >Trees in Gaelic</head>
          <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118834648">
             <form>
                <orth>sicamor</orth>
@@ -314,9 +314,9 @@
             </form>
             <def>fir, pine.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idola351"
-             subtype="h1">Flowers in Gaelic</ab>
+            >Flowers in Gaelic</head>
          <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118846096">
             <form>
                <orth>neòinean</orth>
@@ -395,12 +395,12 @@
             </form>
             <def>cinquefoil.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idola353"
-             subtype="h1">Fish in Gaelic</ab>
-         <ab type="heading"
+            >Fish in Gaelic</head>
+         <head
              xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idola354"
-             subtype="h2">Iasgan</ab>
+             subtype="h2">Iasgan</head>
          <entry xml:id="DRMorrisonetal_ScalpayDMacLeodmisc-idp118868128">
             <form>
                <orth>easgunn</orth>

@@ -45,9 +45,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e36"
-             subtype="h1">1. Ainm an inneil-chiùil fhéin, agus ainm gach pàirt air leth</ab>
+            >1. Ainm an inneil-chiùil fhéin, agus ainm gach pàirt air leth</head>
          <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp486688">
             <form>
                <orth>màl</orth>
@@ -119,9 +119,9 @@
             </form>
             <def>tassels.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e143"
-             subtype="h1">2. A’ cluich na pìoba; ’ga gleusadh; gluasad nam meòirean</ab>
+            >2. A’ cluich na pìoba; ’ga gleusadh; gluasad nam meòirean</head>
          <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp523840">
             <form>
                <orth>alltair</orth>
@@ -152,9 +152,9 @@
             </form>
             <def>tuning.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e192"
-             subtype="h1">3. Ceòl pìoba: ainm gach seòrsa ciùil</ab>
+            >3. Ceòl pìoba: ainm gach seòrsa ciùil</head>
          <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109314424">
             <form>
                <orth>caismeachd</orth>
@@ -227,9 +227,9 @@
             </form>
             <def>same as ‘ceòl beag’ [q.v.].</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e304"
-             subtype="h1">4. Faclan sam bith eile co-cheangailte ri pìobaireachd</ab>
+            >4. Faclan sam bith eile co-cheangailte ri pìobaireachd</head>
          <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109333720">
             <form>
                <orth>pìobaireachd</orth>
@@ -272,9 +272,9 @@
             </form>
             <def>grace note.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e371"
-             subtype="h2">Ceòl mór</ab>
+             subtype="h2">Ceòl mór</head>
          <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109345816">
             <form>
                <orth>ùrlar</orth>
@@ -295,9 +295,9 @@
                <orth>crunnlùth</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e399"
-             subtype="h1">Variations on the  these themes:</ab>
+            >Variations on the  these themes:</head>
          <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109352728">
             <form>
                <orth>dithist</orth>
@@ -362,9 +362,9 @@
             </form>
             <def>corrupted into crunluath [sic].</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e496"
-             subtype="h1">The word-list</ab>
+            >The word-list</head>
          <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109372024">
             <form>
                <orth>iulach</orth>
@@ -413,9 +413,9 @@
             </form>
             <def>closed movement.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e572"
-             subtype="h1">Harp terms. Those which have been borrowed into piping are marked</ab>
+            >Harp terms. Those which have been borrowed into piping are marked</head>
          <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109386512">
             <form>
                <orth>barr lùth</orth>
@@ -484,9 +484,9 @@
             </form>
             <def>leading. Borrowed from Irish ‘iluidh’. Came down to us as [sic]. Same as ‘siubhal’.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e672"
-             subtype="h1">As used by General Thomason in his Ceol  Mór</ab>
+            >As used by General Thomason in his Ceol  Mór</head>
          <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109405016">
             <form>
                <orth>eallach</orth>

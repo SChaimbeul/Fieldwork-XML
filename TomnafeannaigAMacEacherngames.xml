@@ -42,24 +42,24 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Games_TomnafeannaigAMacEacherngames-d0e32"
-             subtype="h1">1. Toys</ab>
-         <ab type="heading"
+            >1. Toys</head>
+         <head
              xml:id="Games_TomnafeannaigAMacEacherngames-d0e36"
-             subtype="h1">2. Swings, see-saws</ab>
+            >2. Swings, see-saws</head>
          <entry xml:id="Games_TomnafeannaigAMacEacherngames-d0e41">
             <form>
                <orth>greallag</orth>
             </form>
             <def>swing.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Games_TomnafeannaigAMacEacherngames-d0e49"
-             subtype="h1">3. Games played indoors</ab>
-         <ab type="heading"
+            >3. Games played indoors</head>
+         <head
              xml:id="Games_TomnafeannaigAMacEacherngames-d0e53"
-             subtype="h1">4. Outdoor games not involving a ball or puck</ab>
+            >4. Outdoor games not involving a ball or puck</head>
          <entry xml:id="Games_TomnafeannaigAMacEacherngames-d0e58">
             <form>
                <orth>falach fead</orth>
@@ -72,9 +72,9 @@
             </form>
             <def>throwing coins.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Games_TomnafeannaigAMacEacherngames-d0e75"
-             subtype="h1">5. Ball games</ab>
+            >5. Ball games</head>
          <entry xml:id="Games_TomnafeannaigAMacEacherngames-d0e80">
             <form>
                <orth>iomain</orth>
@@ -92,9 +92,9 @@
             </form>
             <def>goal.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Games_TomnafeannaigAMacEacherngames-d0e103"
-             subtype="h1">6. Athletics</ab>
+            >6. Athletics</head>
          <entry xml:id="Games_TomnafeannaigAMacEacherngames-d0e108">
             <form>
                <orth>leum fada</orth>
@@ -125,9 +125,9 @@
                <orth>ruith an reis</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Games_TomnafeannaigAMacEacherngames-d0e143"
-             subtype="h1">7. Heavy events</ab>
+            >7. Heavy events</head>
          <entry xml:id="Games_TomnafeannaigAMacEacherngames-d0e148">
             <form>
                <orth>tilgeil an ord</orth>
@@ -138,12 +138,12 @@
                <orth>cur car an cabar</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Games_TomnafeannaigAMacEacherngames-d0e159"
-             subtype="h1">8. Contests involving pulling or pushing</ab>
-         <ab type="heading"
+            >8. Contests involving pulling or pushing</head>
+         <head
              xml:id="Games_TomnafeannaigAMacEacherngames-d0e163"
-             subtype="h1">9. Boxing and wrestling</ab>
+            >9. Boxing and wrestling</head>
          <entry xml:id="Games_TomnafeannaigAMacEacherngames-d0e168">
             <form>
                <orth>searsadh</orth>
@@ -160,9 +160,9 @@
                <orth>casbachaid</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Games_TomnafeannaigAMacEacherngames-d0e188"
-             subtype="h1">10. Blows in general</ab>
+            >10. Blows in general</head>
          <entry xml:id="Games_TomnafeannaigAMacEacherngames-d0e193">
             <form>
                <orth>buille trom</orth>
@@ -198,9 +198,9 @@
             </form>
             <def>[sic] </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Games_TomnafeannaigAMacEacherngames-d0e231"
-             subtype="h1">11. Injury and exhaustion</ab>
+            >11. Injury and exhaustion</head>
          <entry xml:id="Games_TomnafeannaigAMacEacherngames-d0e236">
             <form>
                <orth>sgriobadh</orth>

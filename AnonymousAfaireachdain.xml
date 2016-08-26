@@ -30,9 +30,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e14"
-             subtype="h1">FAIREACHDAIN</ab>
+            >FAIREACHDAIN</head>
          <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e19">
             <form>
                <orth>faithnean</orth>
@@ -65,12 +65,12 @@
                <orth>[blas]</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e60"
-             subtype="h1">AN T-SÙIL</ab>
-         <ab type="heading"
+            >AN T-SÙIL</head>
+         <head
              xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e64"
-             subtype="h2">1. Seòrsachan sùil, pàirtean de’n t-sùil, tinneasan sùil, fradharc</ab>
+             subtype="h2">1. Seòrsachan sùil, pàirtean de’n t-sùil, tinneasan sùil, fradharc</head>
          <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e69">
             <form>
                <orth>frasg, fruisg</orth>
@@ -113,12 +113,12 @@
             </form>
             <def>eyelid.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e131"
-             subtype="h2">2. Dòighean air coimhead air duine</ab>
-         <ab type="heading"
+             subtype="h2">2. Dòighean air coimhead air duine</head>
+         <head
              xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e135"
-             subtype="h2">3. Gnathasan-cainnte tha bointinn ris an t-sùil</ab>
+             subtype="h2">3. Gnathasan-cainnte tha bointinn ris an t-sùil</head>
          <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e140">
             <form>
                <orth>[sùil]</orth>
@@ -131,9 +131,9 @@
             </form>
             <def>Breagha ri fhaicinn ach geur ri bhlasad. – Fair to the eye but bitter to the taste.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e157"
-             subtype="h1">AM BEUL</ab>
+            >AM BEUL</head>
          <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e162">
             <form>
                <orth>bleith na fiaclan</orth>
@@ -188,12 +188,12 @@
             </form>
             <def>impediment.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e242"
-             subtype="h1">A’ CHLUAS</ab>
-         <ab type="heading"
+            >A’ CHLUAS</head>
+         <head
              xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e246"
-             subtype="h2">1. Cumaidhean chluas, pàirtean de’n chluais, tinneasan cluaise</ab>
+             subtype="h2">1. Cumaidhean chluas, pàirtean de’n chluais, tinneasan cluaise</head>
          <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e251">
             <form>
                <orth>elibhag</orth>
@@ -206,9 +206,9 @@
             </form>
             <def>wax.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e268"
-             subtype="h2">2. Seòrsaichean de fhuaim</ab>
+             subtype="h2">2. Seòrsaichean de fhuaim</head>
          <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e273">
             <form>
                <orth>rànnaich na mara</orth>

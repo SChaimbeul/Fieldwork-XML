@@ -324,6 +324,33 @@
         <person xml:id="SMK_Nova_Scotia_Antigonish">
           <persName xml:lang="en">SMK</persName>
         </person>
+        <person xml:id="Rev_K_MacDonald_Applecross">
+          <persName xml:lang="en">
+            <roleName>Rev.</roleName>
+            <forename>K.</forename>
+            <surname>MacDonald</surname>
+          </persName>
+          <birth>
+            <location corresp="Lewis_Point_Garrabost"/>
+          </birth>
+        </person>
+        <person xml:id="Mrs_P_MacDonald_Applecross">
+          <persName xml:lang="en">
+            <roleName>Mrs.</roleName>
+            <forename>P.</forename>
+            <surname>MacDonald</surname>
+          </persName>
+        </person>
+        <person xml:id="Robert_MacKenzie_Applecross">
+          <persName xml:lang="en">
+            <forename>Robert</forename>
+            <surname>MacKenzie</surname>
+          </persName>
+          <birth>
+            <location corresp="Lewis_Park"/>
+            <placeName>Sgìre na Pàirc an Leódhas [Lewis, the Park district]</placeName>
+          </birth>
+        </person>
 
         <!-- Fieldworkers -->
         <person xml:id="A_J_Smith">
@@ -332,6 +359,9 @@
         <person xml:id="anonymous_D"/>
         <person xml:id="Tony_Dilworth">
           <persName xml:lang="en">Tony Dilworth</persName>
+        </person>
+        <person xml:id="K_D_MacDonald">
+          <persName xml:lang="en">K. D. MacDonald</persName>
         </person>
 
 

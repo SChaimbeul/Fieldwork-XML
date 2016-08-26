@@ -42,9 +42,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e32"
-             subtype="h1">1. Lìon-mór</ab>
+            >1. Lìon-mór</head>
          <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e37">
             <form>
                <orth>dubhan mor</orth>
@@ -96,9 +96,9 @@
             </form>
             <def>baiting the net.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e106"
-             subtype="h1">2. Lìon-beag</ab>
+            >2. Lìon-beag</head>
          <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e111">
             <form>
                <orth>lion caol</orth>
@@ -164,9 +164,9 @@
             </form>
             <def>a large hook or hooked piece of iron attached to a wooden handle to pull in a large fish which would be liable to get away by breaking the snead or the hook.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e206"
-             subtype="h1">3. Lìon-sgadan</ab>
+            >3. Lìon-sgadan</head>
          <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-idola225">
             <form>
                <orth>[note]</orth>
@@ -270,12 +270,12 @@
             </form>
             <def>horse mackerel.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e363"
-             subtype="h1">4. Lìon sam bith eile</ab>
-         <ab type="heading"
+            >4. Lìon sam bith eile</head>
+         <head
              xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e367"
-             subtype="h1">5. Duirgh, slatan, driamlaichean</ab>
+            >5. Duirgh, slatan, driamlaichean</head>
          <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e372">
             <form>
                <orth>slat</orth>
@@ -438,9 +438,9 @@
             </form>
             <def>phosphorescent light in the sea or on fish.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e614"
-             subtype="h1">6. Acfhuinn sam bith eile</ab>
+            >6. Acfhuinn sam bith eile</head>
       </body>
    </text>
 </TEI>

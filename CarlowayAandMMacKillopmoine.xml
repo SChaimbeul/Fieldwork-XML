@@ -36,7 +36,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term>Peat-Working</term>
+               <term xml:lang="en">Peat-Working</term>
                <term>Mòine</term>
             </keywords>
          </textClass>
@@ -44,9 +44,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Peat_CarlowayAandMMacKillopmoine-d0e32"
-             subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+            >1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
          <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e37">
             <form>
                <orth>a’ riachadh</orth>
@@ -108,9 +108,9 @@
             </form>
             <def>draining a peat-bank.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_CarlowayAandMMacKillopmoine-d0e126"
-             subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+            >2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
          <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e131">
             <form>
                <orth>a’ buain na mònach</orth>
@@ -293,9 +293,9 @@
             </form>
             <def>a backward tilt to the iron after the downward cut: to enable the peat to come off clearly.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_CarlowayAandMMacKillopmoine-d0e400"
-             subtype="h1">3. A’ tiormachadh na mònach</ab>
+            >3. A’ tiormachadh na mònach</head>
          <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e405">
             <form>
                <orth>rùghadh</orth>
@@ -355,9 +355,9 @@
             </form>
             <def>[masc.] </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_CarlowayAandMMacKillopmoine-d0e482"
-             subtype="h1">4. A’ cruachadh na mònach</ab>
+            >4. A’ cruachadh na mònach</head>
          <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e487">
             <form>
                <orth>torr ()</orth>
@@ -448,9 +448,9 @@
             </form>
             <def>peat-dross.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_CarlowayAandMMacKillopmoine-d0e612"
-             subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+            >5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
          <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e617">
             <form>
                <orth>cliabh ()</orth>
@@ -593,9 +593,9 @@
             </form>
             <def>a small insignificant heap of peats – or of anything.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_CarlowayAandMMacKillopmoine-d0e823"
-             subtype="h1">6. Seòrsachan mònach</ab>
+            >6. Seòrsachan mònach</head>
          <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e828">
             <form>
                <orth>moine dhubh</orth>
@@ -680,9 +680,9 @@
             </form>
             <def>peats suitable for banking the fire overnight – mòine amh or mòine phlòiceach were preferred for this.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_CarlowayAandMMacKillopmoine-d0e953"
-             subtype="h1">7. Faclan eile</ab>
+            >7. Faclan eile</head>
          <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e958">
             <form>
                <orth>dòrlach</orth>

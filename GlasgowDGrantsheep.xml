@@ -42,9 +42,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowDGrantsheep-d0e32"
-             subtype="h1">1. Different stages in the growth of sheep (female)</ab>
+            >1. Different stages in the growth of sheep (female)</head>
          <entry xml:id="CattleandSheep_GlasgowDGrantsheep-idola63">
             <form>
                <orth>[caora]</orth>
@@ -84,15 +84,15 @@
                <orth>croga</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowDGrantsheep-d0e90"
-             subtype="h1">2. Different stages in the growth of sheep (male)</ab>
-         <ab type="heading"
+            >2. Different stages in the growth of sheep (male)</head>
+         <head
              xml:id="CattleandSheep_GlasgowDGrantsheep-d0e94"
-             subtype="h1">3. Different stages in the growth of the castrated male</ab>
-         <ab type="heading"
+            >3. Different stages in the growth of the castrated male</head>
+         <head
              xml:id="CattleandSheep_GlasgowDGrantsheep-d0e98"
-             subtype="h1">4. Sheep’s appearance</ab>
+            >4. Sheep’s appearance</head>
          <entry xml:id="CattleandSheep_GlasgowDGrantsheep-d0e103">
             <form>
                <orth>caora dhubh-cheannach</orth>
@@ -108,9 +108,9 @@
                <orth>caora reamhar</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowDGrantsheep-d0e120"
-             subtype="h1">5. Miscellaneous</ab>
+            >5. Miscellaneous</head>
          <entry xml:id="CattleandSheep_GlasgowDGrantsheep-d0e125">
             <form>
                <orth>peata uain</orth>
@@ -122,12 +122,12 @@
             </form>
             <def>twin lamb.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowDGrantsheep-d0e139"
-             subtype="h1">6. Feeding and grazing</ab>
-         <ab type="heading"
+            >6. Feeding and grazing</head>
+         <head
              xml:id="CattleandSheep_GlasgowDGrantsheep-d0e143"
-             subtype="h1">7. Handling of sheep</ab>
+            >7. Handling of sheep</head>
          <entry xml:id="CattleandSheep_GlasgowDGrantsheep-d0e148">
             <form>
                <orth>cire, cire</orth>
@@ -140,33 +140,33 @@
             </form>
             <def>call to lamb.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowDGrantsheep-d0e165"
-             subtype="h1">8. Apparatus</ab>
+            >8. Apparatus</head>
          <entry xml:id="CattleandSheep_GlasgowDGrantsheep-d0e170">
             <form>
                <orth>an t-udalan</orth>
             </form>
             <def>swivel.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowDGrantsheep-d0e178"
-             subtype="h1">9. Diseases</ab>
-         <ab type="heading"
+            >9. Diseases</head>
+         <head
              xml:id="CattleandSheep_GlasgowDGrantsheep-d0e182"
-             subtype="h1">10. Parts of the body</ab>
+            >10. Parts of the body</head>
          <entry xml:id="CattleandSheep_GlasgowDGrantsheep-d0e187">
             <form>
                <orth>rùsg (m)</orth>
             </form>
             <def>hide.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowDGrantsheep-d0e195"
-             subtype="h1">11. Lambing</ab>
-         <ab type="heading"
+            >11. Lambing</head>
+         <head
              xml:id="CattleandSheep_GlasgowDGrantsheep-d0e199"
-             subtype="h1">12. Miscellaneous</ab>
+            >12. Miscellaneous</head>
       </body>
    </text>
 </TEI>

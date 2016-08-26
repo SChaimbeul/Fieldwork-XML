@@ -43,9 +43,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_anonymoustaigh1-d0e28"
-             subtype="h1">1. An stéidh is am balla</ab>
+            >1. An stéidh is am balla</head>
          <entry xml:id="HouseandFurnishings_anonymoustaigh1-d0e33">
             <form>
                <orth>[an stéidh]</orth>
@@ -65,9 +65,9 @@
             </form>
             <def>[?]] Bha ghlaic eadar an da bhalla air a lionadh le criadh agus clachan meanbh (clachan meanbh agus criadh air am measgachadh. Theiridh mid  [sic] – gludruigeadh [?] ris a sin).</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_anonymoustaigh1-d0e59"
-             subtype="h1">2. Am mullach ’s an tughadh</ab>
+            >2. Am mullach ’s an tughadh</head>
          <entry xml:id="HouseandFurnishings_anonymoustaigh1-d0e64">
             <form>
                <orth>[an tughadh]</orth>
@@ -88,9 +88,9 @@
             </form>
             <def>chimney. Sometimes called ‘similear’.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_anonymoustaigh1-d0e92"
-             subtype="h1">3. Dorsan is uinneagan</ab>
+            >3. Dorsan is uinneagan</head>
          <entry xml:id="HouseandFurnishings_anonymoustaigh1-d0e97">
             <form>
                <orth>an dorus am muigh</orth>
@@ -111,12 +111,12 @@
             </form>
             <def>Bha tri seomraichean san taigh seo – agus uinneag anns gach aon dhiubh. Bha uinneag ceann an teine mu thri troighean air gach rathad, agus uinneag ceann shios an taighe mun aon mheadachd. Bha uinneag na closaid na bu lutha [sic]. Be uinneag na closaid an aon te a ghabhadh fosgladh.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_anonymoustaigh1-d0e125"
-             subtype="h1">4. An broinn an taighe: na sèamraichean</ab>
-         <ab type="heading"
+            >4. An broinn an taighe: na sèamraichean</head>
+         <head
              xml:id="HouseandFurnishings_anonymoustaigh1-d0e129"
-             subtype="h1">5. An t-àite-teine</ab>
+            >5. An t-àite-teine</head>
          <entry xml:id="HouseandFurnishings_anonymoustaigh1-d0e134">
             <form>
                <orth>[mot]</orth>
@@ -137,9 +137,9 @@
             </form>
             <def>Bha balla cloiche air cuil a mhoir (far an robh a chlosaid) – theireadh cuid culaiste ris an t-seomar seo.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_anonymoustaigh1-d0e162"
-             subtype="h1">6. Airneis an taighe</ab>
+            >6. Airneis an taighe</head>
          <entry xml:id="HouseandFurnishings_anonymoustaigh1-d0e167">
             <form>
                <orth>[trannsa]</orth>
@@ -158,9 +158,9 @@
             </form>
             <def>Ann a ceann shios an taighe bha na leabanan agus caithir neo dha.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_anonymoustaigh1-d0e193"
-             subtype="h1">7. Sobhal, bàthach, no bothanan sam bith eile</ab>
+            >7. Sobhal, bàthach, no bothanan sam bith eile</head>
          <entry xml:id="HouseandFurnishings_anonymoustaigh1-d0e198">
             <form>
                <orth>[an sobhal ’s a’ bhathach]</orth>

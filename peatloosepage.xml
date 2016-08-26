@@ -19,7 +19,7 @@
          <creation/>
          <textClass>
             <keywords>
-               <term>Peat-Working</term>
+               <term xml:lang="en">Peat-Working</term>
                <term>Mòine</term>
             </keywords>
          </textClass>
@@ -32,7 +32,7 @@
                <orth>fosgladh poll ùr</orth>
             </form>
          </entry>
-         <ab type="heading" xml:id="Peat_peatloosepage-d0e20" subtype="h1">[blank]</ab>
+         <head xml:id="Peat_peatloosepage-d0e20">[blank]</head>
          <entry xml:id="Peat_peatloosepage-d0e25">
             <form>
                <orth>am blàr mònach</orth>
@@ -48,7 +48,7 @@
                <orth>am poll ùr</orth>
             </form>
          </entry>
-         <ab type="heading" xml:id="Peat_peatloosepage-d0e42" subtype="h1">[blank]</ab>
+         <head xml:id="Peat_peatloosepage-d0e42">[blank]</head>
          <entry xml:id="Peat_peatloosepage-d0e47">
             <form>
                <orth>bac-mòine</orth>
@@ -69,7 +69,7 @@
                <orth>ceann/ceann shìos (Skye)</orth>
             </form>
          </entry>
-         <ab type="heading" xml:id="Peat_peatloosepage-d0e70" subtype="h1">[blank]</ab>
+         <head xml:id="Peat_peatloosepage-d0e70">[blank]</head>
          <entry xml:id="Peat_peatloosepage-d0e75">
             <form>
                <orth>sgaoilteach (Gairloch)</orth>
@@ -85,7 +85,7 @@
                <orth>mòinteach bheò (Gairloch)</orth>
             </form>
          </entry>
-         <ab type="heading" xml:id="Peat_peatloosepage-d0e92" subtype="h1">[blank]</ab>
+         <head xml:id="Peat_peatloosepage-d0e92">[blank]</head>
          <entry xml:id="Peat_peatloosepage-d0e97">
             <form>
                <orth>leigeil nam poll</orth>
@@ -96,7 +96,7 @@
                <orth>ligeadh (North Uist)</orth>
             </form>
          </entry>
-         <ab type="heading" xml:id="Peat_peatloosepage-d0e108" subtype="h1">[blank]</ab>
+         <head xml:id="Peat_peatloosepage-d0e108">[blank]</head>
          <entry xml:id="Peat_peatloosepage-d0e113">
             <form>
                <orth>riachadh</orth>
@@ -122,7 +122,7 @@
                <orth>a’ susadh (North Uist)</orth>
             </form>
          </entry>
-         <ab type="heading" xml:id="Peat_peatloosepage-d0e142" subtype="h1">[blank]</ab>
+         <head xml:id="Peat_peatloosepage-d0e142">[blank]</head>
          <entry xml:id="Peat_peatloosepage-d0e147">
             <form>
                <orth>cargur</orth>
@@ -133,7 +133,7 @@
                <orth>riasg / sgrath</orth>
             </form>
          </entry>
-         <ab type="heading" xml:id="Peat_peatloosepage-d0e158" subtype="h1">[blank]</ab>
+         <head xml:id="Peat_peatloosepage-d0e158">[blank]</head>
          <entry xml:id="Peat_peatloosepage-d0e163">
             <form>
                <orth>rùsgadh</orth>
@@ -164,7 +164,7 @@
                <orth>sgoradh (Taransay)</orth>
             </form>
          </entry>
-         <ab type="heading" xml:id="Peat_peatloosepage-d0e198" subtype="h1">[blank]</ab>
+         <head xml:id="Peat_peatloosepage-d0e198">[blank]</head>
          <entry xml:id="Peat_peatloosepage-d0e203">
             <form>
                <orth>leagail nan rùsg</orth>
@@ -185,7 +185,7 @@
                <orth>leagail nan ceap / càradh nan ceap</orth>
             </form>
          </entry>
-         <ab type="heading" xml:id="Peat_peatloosepage-d0e226" subtype="h1">[blank]</ab>
+         <head xml:id="Peat_peatloosepage-d0e226">[blank]</head>
          <entry xml:id="Peat_peatloosepage-d0e231">
             <form>
                <orth>ceann is earball</orth>
@@ -196,7 +196,7 @@
                <orth>ceaba làir</orth>
             </form>
          </entry>
-         <ab type="heading" xml:id="Peat_peatloosepage-d0e242" subtype="h1">[blank]</ab>
+         <head xml:id="Peat_peatloosepage-d0e242">[blank]</head>
          <entry xml:id="Peat_peatloosepage-d0e247">
             <form>
                <orth>meighe = carcaire</orth>
@@ -207,7 +207,7 @@
                <orth>meithe (width – Grimsay)</orth>
             </form>
          </entry>
-         <ab type="heading" xml:id="Peat_peatloosepage-d0e258" subtype="h1">[blank]</ab>
+         <head xml:id="Peat_peatloosepage-d0e258">[blank]</head>
          <entry xml:id="Peat_peatloosepage-d0e263">
             <form>
                <orth>carcaire</orth>

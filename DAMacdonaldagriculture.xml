@@ -30,15 +30,15 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e20"
-             subtype="h1">1. Land division and allocation</ab>
-         <ab type="heading"
+            >1. Land division and allocation</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e24"
-             subtype="h2">(a) Specific portions or allotments into which arable land is divided</ab>
-         <ab type="heading"
+             subtype="h2">(a) Specific portions or allotments into which arable land is divided</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e28"
-             subtype="h3">(1)</ab>
+             subtype="h3">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e33">
             <form>
                <orth>buaile</orth>
@@ -84,9 +84,9 @@
                <orth>talamh bàn; dubh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e86"
-             subtype="h3">(2)</ab>
+             subtype="h3">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e91">
             <form>
                <orth>foireag</orth>
@@ -164,9 +164,9 @@
                <orth>iomair</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e186"
-             subtype="h3">(3)</ab>
+             subtype="h3">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e191">
             <form>
                <orth>feannag bheag</orth>
@@ -207,9 +207,9 @@
                <orth>leas</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e238"
-             subtype="h3">(4)</ab>
+             subtype="h3">(4)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e243">
             <form>
                <orth>feannag</orth>
@@ -225,9 +225,9 @@
                <orth>ach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e260"
-             subtype="h3">(5)</ab>
+             subtype="h3">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e265">
             <form>
                <orth>iomaire feoir</orth>
@@ -261,9 +261,9 @@
                <orth>druim na feannaig</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e303"
-             subtype="h3">(6)</ab>
+             subtype="h3">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e308">
             <form>
                <orth>sgriob</orth>
@@ -306,9 +306,9 @@
                <orth>cramhan glasa</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e355"
-             subtype="h3">(7)</ab>
+             subtype="h3">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e360">
             <form>
                <orth>drilla</orth>
@@ -329,9 +329,9 @@
                <orth>imegidh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e383"
-             subtype="h3">(8)</ab>
+             subtype="h3">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e388">
             <form>
                <orth>feannag</orth>
@@ -402,9 +402,9 @@
                <orth>sgurr</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e471"
-             subtype="h3">(9)</ab>
+             subtype="h3">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e476">
             <form>
                <orth>iomaire</orth>
@@ -465,9 +465,9 @@
                <orth>druimean</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e547"
-             subtype="h3">(10)</ab>
+             subtype="h3">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e552">
             <form>
                <orth>talamh feoir</orth>
@@ -540,12 +540,12 @@
                <orth>talamh dubh; talamh loisgte</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e632"
-             subtype="h3">(11)</ab>
-         <ab type="heading"
+             subtype="h3">(11)</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e636"
-             subtype="h3">(12)</ab>
+             subtype="h3">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e641">
             <form>
                <orth>sreath</orth>
@@ -576,12 +576,12 @@
                <orth>raon</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e676"
-             subtype="h2">(b) Various types of arable land</ab>
-         <ab type="heading"
+             subtype="h2">(b) Various types of arable land</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e680"
-             subtype="h3">(2)</ab>
+             subtype="h3">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e685">
             <form>
                <orth>talamh bàn</orth>
@@ -607,9 +607,9 @@
                <orth>lotaichean</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e714"
-             subtype="h3">(3)</ab>
+             subtype="h3">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e719">
             <form>
                <orth>talamh bàn</orth>
@@ -625,18 +625,18 @@
                <orth>talamh àitich</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e736"
-             subtype="h3">(4)</ab>
+             subtype="h3">(4)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e741">
             <form>
                <orth>càrr</orth>
             </form>
             <def>between arable and hill.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e749"
-             subtype="h3">(5)</ab>
+             subtype="h3">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e754">
             <form>
                <orth>talamh laidir</orth>
@@ -664,9 +664,9 @@
                <orth>barr laomaidh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e783"
-             subtype="h3">(6)</ab>
+             subtype="h3">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e788">
             <form>
                <orth>talamh dubh</orth>
@@ -682,9 +682,9 @@
                <orth>seileir</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e805"
-             subtype="h3">(7)</ab>
+             subtype="h3">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e810">
             <form>
                <orth>talamh lag</orth>
@@ -705,9 +705,9 @@
                <orth>gearraidh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e833"
-             subtype="h3">(8)</ab>
+             subtype="h3">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e838">
             <form>
                <orth>talamh fann</orth>
@@ -775,9 +775,9 @@
             </form>
             <def>[NOTES: added later.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e918"
-             subtype="h3">(9)</ab>
+             subtype="h3">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e923">
             <form>
                <orth>talamh laidir / dearg</orth>
@@ -803,9 +803,9 @@
                <orth>machair</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e952"
-             subtype="h3">(10)</ab>
+             subtype="h3">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e957">
             <form>
                <orth>interbhal</orth>
@@ -865,9 +865,9 @@
                <orth>cliath</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1022"
-             subtype="h3">(12)</ab>
+             subtype="h3">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1027">
             <form>
                <orth>glas-thalamh</orth>
@@ -893,12 +893,12 @@
                <orth>monadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1056"
-             subtype="h2">(c) Actual dividing and allocating of land, e.g. casting lots</ab>
-         <ab type="heading"
+             subtype="h2">(c) Actual dividing and allocating of land, e.g. casting lots</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1060"
-             subtype="h3">(1)</ab>
+             subtype="h3">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1065">
             <form>
                <orth>lot</orth>
@@ -931,9 +931,9 @@
                <orth>clais</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1106"
-             subtype="h3">(2)</ab>
+             subtype="h3">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1111">
             <form>
                <orth>a’ cur chrann</orth>
@@ -944,9 +944,9 @@
                <orth>a’ cur a mach chriochan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1122"
-             subtype="h3">(3)</ab>
+             subtype="h3">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1127">
             <form>
                <orth>a’ cur cruinn</orth>
@@ -957,9 +957,9 @@
                <orth>a’ comharrachadh nan crioch</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1138"
-             subtype="h3">(5)</ab>
+             subtype="h3">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1143">
             <form>
                <orth>crioch</orth>
@@ -990,9 +990,9 @@
                <orth>gàradh droma</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1178"
-             subtype="h3">(6)</ab>
+             subtype="h3">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1183">
             <form>
                <orth>garadh criche</orth>
@@ -1014,9 +1014,9 @@
             </form>
             <def>drain.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1209"
-             subtype="h3">(7)</ab>
+             subtype="h3">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1214">
             <form>
                <orth>cur chrann</orth>
@@ -1032,9 +1032,9 @@
                <orth>cuidhe</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1231"
-             subtype="h3">(8)</ab>
+             subtype="h3">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1236">
             <form>
                <orth>crioch</orth>
@@ -1050,9 +1050,9 @@
                <orth>ceumannan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1253"
-             subtype="h3">(9)</ab>
+             subtype="h3">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1258">
             <form>
                <orth>a cur chrann</orth>
@@ -1119,15 +1119,15 @@
                <orth>stap</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1338"
-             subtype="h3">(10)</ab>
-         <ab type="heading"
+             subtype="h3">(10)</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1342"
-             subtype="h3">(11)</ab>
-         <ab type="heading"
+             subtype="h3">(11)</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1346"
-             subtype="h3">(12)</ab>
+             subtype="h3">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1351">
             <form>
                <orth>criochan</orth>
@@ -1138,12 +1138,12 @@
                <orth>clachan crìche</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1362"
-             subtype="h2">(d) Land owned or held under leases of various duration</ab>
-         <ab type="heading"
+             subtype="h2">(d) Land owned or held under leases of various duration</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1366"
-             subtype="h3">(1)</ab>
+             subtype="h3">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1371">
             <form>
                <orth>lot</orth>
@@ -1154,9 +1154,9 @@
                <orth>croit</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1382"
-             subtype="h3">(2)</ab>
+             subtype="h3">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1387">
             <form>
                <orth>taca</orth>
@@ -1173,9 +1173,9 @@
                <orth>gabhailichean</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1407"
-             subtype="h3">(3)</ab>
+             subtype="h3">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1412">
             <form>
                <orth>croit</orth>
@@ -1192,9 +1192,9 @@
                <orth>tac</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1432"
-             subtype="h3">(5)</ab>
+             subtype="h3">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1437">
             <form>
                <orth>craoit</orth>
@@ -1210,9 +1210,9 @@
                <orth>tac</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1454"
-             subtype="h3">(6)</ab>
+             subtype="h3">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1459">
             <form>
                <orth>lot</orth>
@@ -1228,17 +1228,17 @@
                <orth>tac</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1476"
-             subtype="h3">(7)</ab>
+             subtype="h3">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1481">
             <form>
                <orth>blar mona</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1486"
-             subtype="h3">(8)</ab>
+             subtype="h3">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1491">
             <form>
                <orth>croit</orth>
@@ -1254,9 +1254,9 @@
                <orth>tac</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1508"
-             subtype="h3">(9)</ab>
+             subtype="h3">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1513">
             <form>
                <orth>croit</orth>
@@ -1272,17 +1272,17 @@
                <orth>tac</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1530"
-             subtype="h3">(10)</ab>
+             subtype="h3">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1535">
             <form>
                <orth>baile</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1540"
-             subtype="h3">(12)</ab>
+             subtype="h3">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1545">
             <form>
                <orth>croit</orth>
@@ -1298,15 +1298,15 @@
                <orth>tuathanas</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1562"
-             subtype="h1">2. Harness of a horse</ab>
-         <ab type="heading"
+            >2. Harness of a horse</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1566"
-             subtype="h2">(a) The harness of a horse as used in the performance of different tasks</ab>
-         <ab type="heading"
+             subtype="h2">(a) The harness of a horse as used in the performance of different tasks</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1570"
-             subtype="h3">(2)</ab>
+             subtype="h3">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1575">
             <form>
                <orth>air ceann a’ chroinn treabh</orth>
@@ -1317,9 +1317,9 @@
                <orth>gàradh an arbh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1586"
-             subtype="h3">(3)</ab>
+             subtype="h3">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1591">
             <form>
                <orth>strion</orth>
@@ -1356,9 +1356,9 @@
                <orth>roidhneas</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1635"
-             subtype="h3">(5)</ab>
+             subtype="h3">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1640">
             <form>
                <orth>siollachan</orth>
@@ -1370,9 +1370,9 @@
             </form>
             <def>traces.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1654"
-             subtype="h3">(6)</ab>
+             subtype="h3">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1659">
             <form>
                <orth>na trams</orth>
@@ -1393,9 +1393,9 @@
                <orth>dreallag</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1682"
-             subtype="h3">(7)</ab>
+             subtype="h3">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1687">
             <form>
                <orth>acainn treabhaidh</orth>
@@ -1411,9 +1411,9 @@
                <orth>acainn chliabh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1704"
-             subtype="h3">(8)</ab>
+             subtype="h3">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1709">
             <form>
                <orth>acfhuinn cairt</orth>
@@ -1494,9 +1494,9 @@
                <orth>guibal</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1804"
-             subtype="h3">(9)</ab>
+             subtype="h3">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1809">
             <form>
                <orth>srathair</orth>
@@ -1507,12 +1507,12 @@
                <orth>druimeal</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1820"
-             subtype="h2">(b) Different parts of the harness for carting</ab>
-         <ab type="heading"
+             subtype="h2">(b) Different parts of the harness for carting</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1824"
-             subtype="h3">(2)</ab>
+             subtype="h3">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1829">
             <form>
                <orth>am but</orth>
@@ -1548,9 +1548,9 @@
                <orth>a’ bhriogais</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1870"
-             subtype="h3">(4)</ab>
+             subtype="h3">(4)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1875">
             <form>
                <orth>siollachan</orth>
@@ -1571,9 +1571,9 @@
                <orth>diollaid</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1898"
-             subtype="h3">(5)</ab>
+             subtype="h3">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1903">
             <form>
                <orth>claigionn</orth>
@@ -1609,9 +1609,9 @@
                <orth>teannachan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e1944"
-             subtype="h3">(7)</ab>
+             subtype="h3">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e1949">
             <form>
                <orth>mìreanach</orth>
@@ -1694,9 +1694,9 @@
             </form>
          </entry>
          <note>(see diagram) [NOTES: most probably refers to a diagram provided by the informant, although it could also refer to the diagram on the last page of Mr MacDonald’s “Scottish Gaelic Vocabulary of Agriculture”.]</note>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2050"
-             subtype="h3">(8)</ab>
+             subtype="h3">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2055">
             <form>
                <orth>claigionn</orth>
@@ -1767,9 +1767,9 @@
                <orth>na gallais</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2138"
-             subtype="h3">(9)</ab>
+             subtype="h3">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2143">
             <form>
                <orth>taod</orth>
@@ -1790,20 +1790,20 @@
                <orth>sugan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2166"
-             subtype="h2">(c) Different parts of the harness for ploughing or harrowing</ab>
-         <ab type="heading"
+             subtype="h2">(c) Different parts of the harness for ploughing or harrowing</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2170"
-             subtype="h3">(7)</ab>
+             subtype="h3">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2175">
             <form>
                <orth>strap droma</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2180"
-             subtype="h3">(8)</ab>
+             subtype="h3">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2185">
             <form>
                <orth>na siontean</orth>
@@ -1834,17 +1834,17 @@
                <orth>cluasag</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2220"
-             subtype="h3">(9)</ab>
+             subtype="h3">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2225">
             <form>
                <orth>druimeal</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2230"
-             subtype="h3">(10)</ab>
+             subtype="h3">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2235">
             <form>
                <orth>harneis</orth>
@@ -1905,23 +1905,23 @@
                <orth>giort</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2306"
-             subtype="h1">3. Carts</ab>
-         <ab type="heading"
+            >3. Carts</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2310"
-             subtype="h2">(a) The common farm-yard cart</ab>
-         <ab type="heading"
+             subtype="h2">(a) The common farm-yard cart</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2314"
-             subtype="h3">(2)</ab>
+             subtype="h3">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2319">
             <form>
                <orth>cairt</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2324"
-             subtype="h3">(3)</ab>
+             subtype="h3">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2329">
             <form>
                <orth>cairt-chopaig</orth>
@@ -1932,55 +1932,55 @@
                <orth>bucas na cairt</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2340"
-             subtype="h3">(7)</ab>
+             subtype="h3">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2345">
             <form>
                <orth>cairt chòpaidh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2350"
-             subtype="h3">(8)</ab>
+             subtype="h3">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2355">
             <form>
                <orth>cairt chlach / carn chlach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2360"
-             subtype="h3">(9)</ab>
+             subtype="h3">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2365">
             <form>
                <orth>cairt mhor</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2370"
-             subtype="h3">(10)</ab>
+             subtype="h3">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2375">
             <form>
                <orth>carbaid obaireach / wagan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2380"
-             subtype="h3">(12)</ab>
+             subtype="h3">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2385">
             <form>
                <orth>cairt</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2390"
-             subtype="h2">(b) Different parts of a cart</ab>
-         <ab type="heading"
+             subtype="h2">(b) Different parts of a cart</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2394"
-             subtype="h3">1. Body</ab>
-         <ab type="heading"
+             subtype="h3">1. Body</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2398"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2403">
             <form>
                <orth>na tramaichean</orth>
@@ -2001,9 +2001,9 @@
                <orth>carn-treadaig</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2426"
-             subtype="h4">(3)</ab>
+             subtype="h4">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2431">
             <form>
                <orth>toiseach na cairt</orth>
@@ -2014,9 +2014,9 @@
                <orth>na tramachan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2442"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2447">
             <form>
                <orth>boxa na cairt</orth>
@@ -2062,9 +2062,9 @@
                <orth>glas</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2500"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2505">
             <form>
                <orth>am branndair (?)</orth>
@@ -2090,9 +2090,9 @@
                <orth>bord toiseach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2534"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2539">
             <form>
                <orth>sliders</orth>
@@ -2123,9 +2123,9 @@
                <orth>càrn</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2574"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2579">
             <form>
                <orth>stringear</orth>
@@ -2183,32 +2183,32 @@
             </form>
             <def>travellers.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2650"
-             subtype="h4">(11)</ab>
-         <ab type="heading"
+             subtype="h4">(11)</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2654"
-             subtype="h3">2. Trams</ab>
-         <ab type="heading"
+             subtype="h3">2. Trams</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2658"
-             subtype="h4">(4)</ab>
+             subtype="h4">(4)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2663">
             <form>
                <orth>luirg</orth>
             </form>
             <def>tram.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2671"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2676">
             <form>
                <orth>tramsaichean</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2681"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2686">
             <form>
                <orth>na trams</orth>
@@ -2229,9 +2229,9 @@
                <orth>gluineanan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2709"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2714">
             <form>
                <orth>gairdeannan</orth>
@@ -2258,9 +2258,9 @@
             </form>
             <def>(chain with swivel)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2746"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2751">
             <form>
                <orth>cromag na gualainn</orth>
@@ -2281,9 +2281,9 @@
                <orth>glas bheag</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2774"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2779">
             <form>
                <orth>traimichean</orth>
@@ -2301,12 +2301,12 @@
             </form>
             <def>staple.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2802"
-             subtype="h3">3. Wheel and axle</ab>
-         <ab type="heading"
+             subtype="h3">3. Wheel and axle</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2806"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2811">
             <form>
                <orth>a’ chuibhle</orth>
@@ -2332,26 +2332,26 @@
                <orth>puna</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2840"
-             subtype="h4">(3)</ab>
+             subtype="h4">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2845">
             <form>
                <orth>asnaichean</orth>
             </form>
             <def>spokes.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2853"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2858">
             <form>
                <orth>roth</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2863"
-             subtype="h4">(6)</ab>
+             subtype="h4">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2868">
             <form>
                <orth>cuibhle</orth>
@@ -2362,9 +2362,9 @@
                <orth>spòg</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2879"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2884">
             <form>
                <orth>cearcall</orth>
@@ -2397,9 +2397,9 @@
                <orth>lugs pin</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2922"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2927">
             <form>
                <orth>roth</orth>
@@ -2442,9 +2442,9 @@
                <orth>ailabhag</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2974"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e2979">
             <form>
                <orth>cruaidh</orth>
@@ -2460,9 +2460,9 @@
                <orth>aiseal</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e2996"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3001">
             <form>
                <orth>aiseal</orth>
@@ -2513,12 +2513,12 @@
                <orth>iuchair</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3060"
-             subtype="h3">4. Decorations</ab>
-         <ab type="heading"
+             subtype="h3">4. Decorations</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3064"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3069">
             <form>
                <orth>dearg</orth>
@@ -2534,9 +2534,9 @@
                <orth>fiodh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3086"
-             subtype="h4">(4)</ab>
+             subtype="h4">(4)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3091">
             <form>
                <orth>brass plate</orth>
@@ -2552,9 +2552,9 @@
                <orth>blue / red</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3108"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3113">
             <form>
                <orth>larch for main beams</orth>
@@ -2575,9 +2575,9 @@
                <orth>blue – taobhannan, 12 ins of trams, blocks</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3136"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3141">
             <form>
                <orth>blue or green</orth>
@@ -2588,28 +2588,28 @@
                <orth>front board decorations</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3152"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3157">
             <form>
                <orth>clàr ainme</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3162"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3167">
             <form>
                <orth>wagons - black</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3172"
-             subtype="h2">(c) Other words associated with carting</ab>
-         <ab type="heading"
+             subtype="h2">(c) Other words associated with carting</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3176"
-             subtype="h3">(2)</ab>
+             subtype="h3">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3181">
             <form>
                <orth>a’ cur an eich do an chairt</orth>
@@ -2625,9 +2625,9 @@
                <orth>copig a’ chart</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3198"
-             subtype="h3">(5)</ab>
+             subtype="h3">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3203">
             <form>
                <orth>cuir a stigh an t-each</orth>
@@ -2660,9 +2660,9 @@
                <orth>fuasgail</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3238"
-             subtype="h3">(7)</ab>
+             subtype="h3">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3243">
             <form>
                <orth>beartachadh</orth>
@@ -2678,9 +2678,9 @@
                <orth>còpadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3260"
-             subtype="h3">(8)</ab>
+             subtype="h3">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3265">
             <form>
                <orth>beartachadh</orth>
@@ -2701,9 +2701,9 @@
                <orth>bristeadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3288"
-             subtype="h3">(12)</ab>
+             subtype="h3">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3293">
             <form>
                <orth>sac (m)</orth>
@@ -2717,15 +2717,15 @@
             </form>
             <def>[NOTES: added later; the phrase in 2a is ‘air ceann a chroinn treabh’.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3310"
-             subtype="h1">4. The plough</ab>
-         <ab type="heading"
+            >4. The plough</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3314"
-             subtype="h2">(a) Different kinds of ploughs</ab>
-         <ab type="heading"
+             subtype="h2">(a) Different kinds of ploughs</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3318"
-             subtype="h3">(2)</ab>
+             subtype="h3">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3323">
             <form>
                <orth>crann</orth>
@@ -2746,9 +2746,9 @@
                <orth>crann nan gad</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3346"
-             subtype="h3">(3)</ab>
+             subtype="h3">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3351">
             <form>
                <orth>crann iarainn</orth>
@@ -2759,17 +2759,17 @@
                <orth>crann-troth</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3362"
-             subtype="h3">(5)</ab>
+             subtype="h3">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3367">
             <form>
                <orth>crann-treoghaidh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3372"
-             subtype="h3">(6)</ab>
+             subtype="h3">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3377">
             <form>
                <orth>crann treabhaidh</orth>
@@ -2799,9 +2799,9 @@
             </form>
             <def>(next sect.) [NOTES: i.e. (b) Parts of a plough in detail; comment added later.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3418"
-             subtype="h3">(7)</ab>
+             subtype="h3">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3423">
             <form>
                <orth>croinn fhiodha ante 1920.</orth>
@@ -2817,9 +2817,9 @@
                <orth>croinn iaruinn</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3440"
-             subtype="h3">(8)</ab>
+             subtype="h3">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3445">
             <form>
                <orth>crann Gallda (Grayach ) Nos. 63/57</orth>
@@ -2827,9 +2827,9 @@
             </form>
             <def>[?] </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3450"
-             subtype="h3">(9)</ab>
+             subtype="h3">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3455">
             <form>
                <orth>crann fiodha</orth>
@@ -2840,9 +2840,9 @@
                <orth>crann iaruinn</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3466"
-             subtype="h3">(10)</ab>
+             subtype="h3">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3471">
             <form>
                <orth>crann treabhaidh</orth>
@@ -2863,20 +2863,20 @@
                <orth>cas-chrom</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3494"
-             subtype="h3">(12)</ab>
+             subtype="h3">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3499">
             <form>
                <orth>crann</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3504"
-             subtype="h2">(b) Parts of a plough in detail</ab>
-         <ab type="heading"
+             subtype="h2">(b) Parts of a plough in detail</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3508"
-             subtype="h3">(2)</ab>
+             subtype="h3">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3513">
             <form>
                <orth>soc</orth>
@@ -2897,9 +2897,9 @@
                <orth>gobhal a’ chroinn</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3536"
-             subtype="h3">(7)</ab>
+             subtype="h3">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3541">
             <form>
                <orth>grealag</orth>
@@ -2966,9 +2966,9 @@
                <orth>muiseal</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3621"
-             subtype="h3">(8)</ab>
+             subtype="h3">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3626">
             <form>
                <orth>smuiseal / muiseal</orth>
@@ -3059,9 +3059,9 @@
             </form>
             <def>see diag. [NOTES: probably refers to a diagram provided by the informant.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3742"
-             subtype="h3">(9)</ab>
+             subtype="h3">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3747">
             <form>
                <orth>smuiseal</orth>
@@ -3092,9 +3092,9 @@
                <orth>spàgan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3782"
-             subtype="h3">(10)</ab>
+             subtype="h3">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3787">
             <form>
                <orth>soc</orth>
@@ -3140,9 +3140,9 @@
                <orth>muisealan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3840"
-             subtype="h3">[?]</ab>
+             subtype="h3">[?]</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3845">
             <form>
                <orth>air cheann a chroinn treabh</orth>
@@ -3157,15 +3157,15 @@
             </form>
             <def>[NOTES: added later, not clear what it refers to.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3862"
-             subtype="h1">5. Harrows and swingle trees</ab>
-         <ab type="heading"
+            >5. Harrows and swingle trees</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3866"
-             subtype="h2">(a) Different types of harrows</ab>
-         <ab type="heading"
+             subtype="h2">(a) Different types of harrows</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3870"
-             subtype="h2">(2)</ab>
+             subtype="h2">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3875">
             <form>
                <orth>cliath</orth>
@@ -3192,9 +3192,9 @@
                <orth>dul iaruinn</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3907"
-             subtype="h3">(3)</ab>
+             subtype="h3">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3912">
             <form>
                <orth>cliath iarainn</orth>
@@ -3206,17 +3206,17 @@
                <orth>cliath iodha</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3926"
-             subtype="h3">(4)</ab>
+             subtype="h3">(4)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3931">
             <form>
                <orth>cliadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3936"
-             subtype="h3">(5)</ab>
+             subtype="h3">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3941">
             <form>
                <orth>cliath</orth>
@@ -3227,9 +3227,9 @@
                <orth>a’ cliathadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3952"
-             subtype="h3">(6)</ab>
+             subtype="h3">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3957">
             <form>
                <orth>cliatha</orth>
@@ -3240,9 +3240,9 @@
                <orth>fiacaill</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3968"
-             subtype="h3">(7)</ab>
+             subtype="h3">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3973">
             <form>
                <orth>V-type</orth>
@@ -3259,9 +3259,9 @@
                <orth>daimh (def)</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e3993"
-             subtype="h3">(8)</ab>
+             subtype="h3">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e3998">
             <form>
                <orth>see diag.</orth>
@@ -3294,9 +3294,9 @@
                <orth>fiaclan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4036"
-             subtype="h3">(9)</ab>
+             subtype="h3">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4041">
             <form>
                <orth>cliath bhiorach</orth>
@@ -3323,9 +3323,9 @@
                <orth>seinichean</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4073"
-             subtype="h3">(10)</ab>
+             subtype="h3">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4078">
             <form>
                <orth>cliath</orth>
@@ -3343,20 +3343,20 @@
             </form>
             <def>see defin.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4101"
-             subtype="h3">(12)</ab>
+             subtype="h3">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4106">
             <form>
                <orth>cliath</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4111"
-             subtype="h2">(b) Swingle trees</ab>
-         <ab type="heading"
+             subtype="h2">(b) Swingle trees</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4115"
-             subtype="h3">(2)</ab>
+             subtype="h3">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4120">
             <form>
                <orth>amall</orth>
@@ -3364,18 +3364,18 @@
             </form>
             <def>[NOTES: second ‘l’ added later.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4128"
-             subtype="h3">(3)</ab>
+             subtype="h3">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4133">
             <form>
                <orth>craolachan</orth>
             </form>
             <def>main tree.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4141"
-             subtype="h3">(7)</ab>
+             subtype="h3">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4146">
             <form>
                <orth>grealagan</orth>
@@ -3387,9 +3387,9 @@
                <orth>sìnteachan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4160"
-             subtype="h3">(8)</ab>
+             subtype="h3">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4165">
             <form>
                <orth>see diag.</orth>
@@ -3407,9 +3407,9 @@
                <orth>greallag</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4185"
-             subtype="h3">(9)</ab>
+             subtype="h3">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4190">
             <form>
                <orth>piorsa</orth>
@@ -3441,9 +3441,9 @@
                <orth>seinichean</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4228"
-             subtype="h3">(10)</ab>
+             subtype="h3">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4233">
             <form>
                <orth>amal beag</orth>
@@ -3454,18 +3454,18 @@
                <orth>amal mor; amal dubailte</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4244"
-             subtype="h1">6. Spring work</ab>
-         <ab type="heading"
+            >6. Spring work</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4248"
-             subtype="h2">(a) Fertilisers and fertilising</ab>
-         <ab type="heading"
+             subtype="h2">(a) Fertilisers and fertilising</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4252"
-             subtype="h3">1. Fertilisers</ab>
-         <ab type="heading"
+             subtype="h3">1. Fertilisers</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4256"
-             subtype="h4">(1)</ab>
+             subtype="h4">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4261">
             <form>
                <orth>feamainn dubh</orth>
@@ -3496,9 +3496,9 @@
                <orth>briagan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4296"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4301">
             <form>
                <orth>todhar a’ chruidh / an eich / nan caorach</orth>
@@ -3539,9 +3539,9 @@
                <orth>leagail an t-suithe</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4348"
-             subtype="h4">(3)</ab>
+             subtype="h4">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4353">
             <form>
                <orth>todhar a’ chruidh</orth>
@@ -3562,9 +3562,9 @@
                <orth>feamainn bhuilgeanach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4376"
-             subtype="h4">(4)</ab>
+             subtype="h4">(4)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4381">
             <form>
                <orth>inneir</orth>
@@ -3575,9 +3575,9 @@
                <orth>òtrach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4392"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4397">
             <form>
                <orth>sitig</orth>
@@ -3620,9 +3620,9 @@
                <orth>bheir an t-sitig ort</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4444"
-             subtype="h4">(6)</ab>
+             subtype="h4">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4449">
             <form>
                <orth>inneir</orth>
@@ -3648,9 +3648,9 @@
                <orth>mathachadh gallda</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4478"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4483">
             <form>
                <orth>feamainn</orth>
@@ -3678,9 +3678,9 @@
                <orth>a’ cur a mach na h-innearach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4518"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4523">
             <form>
                <orth>see for months – feamainn</orth>
@@ -3716,9 +3716,9 @@
                <orth>traghach (?)</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4564"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4569">
             <form>
                <orth>dùnan</orth>
@@ -3729,9 +3729,9 @@
                <orth>stuth Gallda</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4580"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4585">
             <form>
                <orth>todhar</orth>
@@ -3777,9 +3777,9 @@
                <orth>aol</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4638"
-             subtype="h4">(12)</ab>
+             subtype="h4">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4643">
             <form>
                <orth>mathachdainn (m)</orth>
@@ -3837,12 +3837,12 @@
             </form>
             <def>ash midden.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4714"
-             subtype="h3">2. The actual work performed, e.g. transporting seaweed/manure to field</ab>
-         <ab type="heading"
+             subtype="h3">2. The actual work performed, e.g. transporting seaweed/manure to field</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4718"
-             subtype="h4">(1)</ab>
+             subtype="h4">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4723">
             <form>
                <orth>todhar a’ chruidh</orth>
@@ -3865,9 +3865,9 @@
                <orth>gràp</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4749"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4754">
             <form>
                <orth>eilghe Dwelly 390</orth>
@@ -3895,9 +3895,9 @@
                <orth>a’ sgaoileadh na h-innearach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4786"
-             subtype="h4">(3)</ab>
+             subtype="h4">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4791">
             <form>
                <orth>inneir</orth>
@@ -3940,17 +3940,17 @@
                <orth>ag innearadh na feannaig</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4838"
-             subtype="h4">(4)</ab>
+             subtype="h4">(4)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4843">
             <form>
                <orth>sgaoileadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4848"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4853">
             <form>
                <orth>a’ feamanadh</orth>
@@ -3986,9 +3986,9 @@
                <orth>builgeinean</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4894"
-             subtype="h4">(6)</ab>
+             subtype="h4">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4899">
             <form>
                <orth>a tarraing na feamann</orth>
@@ -4004,9 +4004,9 @@
                <orth>a’ cur sa chlais</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4916"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4921">
             <form>
                <orth>grapa</orth>
@@ -4027,9 +4027,9 @@
                <orth>toradh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4944"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4949">
             <form>
                <orth>cuir an torr</orth>
@@ -4050,9 +4050,9 @@
                <orth>biadhadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e4972"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e4977">
             <form>
                <orth>sa chladach</orth>
@@ -4079,17 +4079,17 @@
                <orth>a spriodadh stuth Gallda</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5009"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5014">
             <form>
                <orth>sguir (?) an todhar</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5019"
-             subtype="h4">(12)</ab>
+             subtype="h4">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5024">
             <form>
                <orth>a’ cur a mach an òcraich</orth>
@@ -4110,12 +4110,12 @@
                <orth>a’ cur ’san t-sreath</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5047"
-             subtype="h3">3. Implements used for lifting, carrying and spreading manure or seaweed</ab>
-         <ab type="heading"
+             subtype="h3">3. Implements used for lifting, carrying and spreading manure or seaweed</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5051"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5056">
             <form>
                <orth>corran gallda</orth>
@@ -4191,9 +4191,9 @@
                <orth>dul</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5145"
-             subtype="h4">(3)</ab>
+             subtype="h4">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5150">
             <form>
                <orth>lamh a’ ghrapa</orth>
@@ -4247,9 +4247,9 @@
                <orth>muran</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5215"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5220">
             <form>
                <orth>croisean</orth>
@@ -4277,9 +4277,9 @@
                <orth>lamh a ghrapa</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5249"
-             subtype="h4">(6)</ab>
+             subtype="h4">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5254">
             <form>
                <orth>corran</orth>
@@ -4310,9 +4310,9 @@
                <orth>bara-roth</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5289"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5294">
             <form>
                <orth>gràp</orth>
@@ -4333,9 +4333,9 @@
                <orth>cleibhean feamad</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5317"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5322">
             <form>
                <orth>graip &amp; cairt</orth>
@@ -4346,9 +4346,9 @@
                <orth>cliabh &amp; crocan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5333"
-             subtype="h4">(12)</ab>
+             subtype="h4">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5338">
             <form>
                <orth>cliabh</orth>
@@ -4395,15 +4395,15 @@
                <orth>bara</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5394"
-             subtype="h2">(b) Turning and tilling the soil</ab>
-         <ab type="heading"
+             subtype="h2">(b) Turning and tilling the soil</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5398"
-             subtype="h3">1. Implements used for turning or tilling the soil</ab>
-         <ab type="heading"
+             subtype="h3">1. Implements used for turning or tilling the soil</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5402"
-             subtype="h4">(1)</ab>
+             subtype="h4">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5407">
             <form>
                <orth>spaid</orth>
@@ -4454,17 +4454,17 @@
                <orth>an smeachan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5466"
-             subtype="h4">(3)</ab>
+             subtype="h4">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5471">
             <form>
                <orth>spaid</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5476"
-             subtype="h4">(4)</ab>
+             subtype="h4">(4)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5481">
             <form>
                <orth>caibe</orth>
@@ -4476,17 +4476,17 @@
                <orth>cas chrom</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5495"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5500">
             <form>
                <orth>cas-direach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5505"
-             subtype="h4">(6)</ab>
+             subtype="h4">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5510">
             <form>
                <orth>sgonnan</orth>
@@ -4497,15 +4497,15 @@
                <orth>soc</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5521"
-             subtype="h4">(7)</ab>
-         <ab type="heading"
+             subtype="h4">(7)</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5525"
-             subtype="h4">(8)</ab>
-         <ab type="heading"
+             subtype="h4">(8)</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5529"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5534">
             <form>
                <orth>caibe</orth>
@@ -4517,9 +4517,9 @@
                <orth>oir gearraidh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5548"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5553">
             <form>
                <orth>tobha</orth>
@@ -4530,9 +4530,9 @@
                <orth>racan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5564"
-             subtype="h4">(12)</ab>
+             subtype="h4">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5569">
             <form>
                <orth>spaid</orth>
@@ -4544,12 +4544,12 @@
             </form>
             <def>foot plough.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5583"
-             subtype="h3">2. Parts of the implements used</ab>
-         <ab type="heading"
+             subtype="h3">2. Parts of the implements used</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5587"
-             subtype="h4">(3)</ab>
+             subtype="h4">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5592">
             <form>
                <orth>cas na spaid</orth>
@@ -4570,12 +4570,12 @@
                <orth>iarunn na spaid</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5615"
-             subtype="h4">(5)</ab>
-         <ab type="heading"
+             subtype="h4">(5)</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5619"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5624">
             <form>
                <orth>spaid</orth>
@@ -4596,9 +4596,9 @@
                <orth>iarann na spaid</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5647"
-             subtype="h4">(12)</ab>
+             subtype="h4">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5652">
             <form>
                <orth>cas</orth>
@@ -4619,12 +4619,12 @@
                <orth>bròg-sgoireag</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5675"
-             subtype="h3">3. Words used in connection with tilling the soil, e.g. digging</ab>
-         <ab type="heading"
+             subtype="h3">3. Words used in connection with tilling the soil, e.g. digging</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5679"
-             subtype="h4">(1)</ab>
+             subtype="h4">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5684">
             <form>
                <orth>taomadh</orth>
@@ -4656,9 +4656,9 @@
                <orth>clar</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5722"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5727">
             <form>
                <orth>ag aiteach</orth>
@@ -4691,9 +4691,9 @@
                <orth>a’ briseadh an talaimh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5762"
-             subtype="h4">(3)</ab>
+             subtype="h4">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5767">
             <form>
                <orth>taomadh</orth>
@@ -4727,17 +4727,17 @@
                <orth>a’ prigeadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5805"
-             subtype="h4">(4)</ab>
+             subtype="h4">(4)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5810">
             <form>
                <orth>ban</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5815"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5820">
             <form>
                <orth>a ruadhar</orth>
@@ -4779,9 +4779,9 @@
                <orth>sgrioban</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5870"
-             subtype="h4">(6)</ab>
+             subtype="h4">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5875">
             <form>
                <orth>a tionndadh</orth>
@@ -4802,9 +4802,9 @@
                <orth>a togail mu’n bhuntata</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5898"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5903">
             <form>
                <orth>claodhach</orth>
@@ -4820,9 +4820,9 @@
                <orth>druim</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5920"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5925">
             <form>
                <orth>sussadh</orth>
@@ -4863,9 +4863,9 @@
                <orth>sgoltadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5972"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5977">
             <form>
                <orth>druim an iomaire</orth>
@@ -4876,9 +4876,9 @@
                <orth>clois an iomaire</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e5988"
-             subtype="h4">(12)</ab>
+             subtype="h4">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e5993">
             <form>
                <orth>a’ ruamhar</orth>
@@ -4894,15 +4894,15 @@
                <orth>ceap</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6010"
-             subtype="h2">(c) Seed planting</ab>
-         <ab type="heading"
+             subtype="h2">(c) Seed planting</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6014"
-             subtype="h3">1. Names of seeds planted and words used for sowing or planting these</ab>
-         <ab type="heading"
+             subtype="h3">1. Names of seeds planted and words used for sowing or planting these</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6018"
-             subtype="h4">(1)</ab>
+             subtype="h4">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6023">
             <form>
                <orth>buntata cur</orth>
@@ -4913,9 +4913,9 @@
                <orth>siol cura</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6034"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6039">
             <form>
                <orth>coirce dubh / geal</orth>
@@ -4951,9 +4951,9 @@
                <orth>na gartans</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6080"
-             subtype="h4">(3)</ab>
+             subtype="h4">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6085">
             <form>
                <orth>a cur buntata</orth>
@@ -5004,9 +5004,9 @@
                <orth>dorlach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6144"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6149">
             <form>
                <orth>siol buntata</orth>
@@ -5037,9 +5037,9 @@
                <orth>turnapp</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6184"
-             subtype="h4">(6)</ab>
+             subtype="h4">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6189">
             <form>
                <orth>clòvar</orth>
@@ -5066,9 +5066,9 @@
                <orth>cnamhan; cramhan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6221"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6226">
             <form>
                <orth>gran eorna</orth>
@@ -5089,9 +5089,9 @@
                <orth>tuineap</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6249"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6254">
             <form>
                <orth>por buntata</orth>
@@ -5107,9 +5107,9 @@
                <orth>a’ curachd</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6271"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6276">
             <form>
                <orth>siol</orth>
@@ -5120,9 +5120,9 @@
                <orth>suil</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6287"
-             subtype="h4">(12)</ab>
+             subtype="h4">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6292">
             <form>
                <orth>siol</orth>
@@ -5148,12 +5148,12 @@
                <orth>glaodhanan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6321"
-             subtype="h3">2. Names of any special sack, basket etc. used for carrying seed when sowing or planting</ab>
-         <ab type="heading"
+             subtype="h3">2. Names of any special sack, basket etc. used for carrying seed when sowing or planting</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6325"
-             subtype="h4">(1)</ab>
+             subtype="h4">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6330">
             <form>
                <orth>poc</orth>
@@ -5164,36 +5164,36 @@
                <orth>peile</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6341"
-             subtype="h4">(2)</ab>
-         <ab type="heading"
+             subtype="h4">(2)</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6345"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6350">
             <form>
                <orth>aparsac</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6355"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6360">
             <form>
                <orth>sgurs</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6365"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6370">
             <form>
                <orth>sgùird</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6375"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6380">
             <form>
                <orth>peall curachd</orth>
@@ -5204,9 +5204,9 @@
                <orth>fidheall</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6391"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6396">
             <form>
                <orth>cliabh</orth>
@@ -5222,12 +5222,12 @@
                <orth>creileag</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6413"
-             subtype="h3">3. Names of any special implement used for planting</ab>
-         <ab type="heading"
+             subtype="h3">3. Names of any special implement used for planting</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6417"
-             subtype="h4">(1)</ab>
+             subtype="h4">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6422">
             <form>
                <orth>putag</orth>
@@ -5243,26 +5243,26 @@
                <orth>grap</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6439"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6444">
             <form>
                <orth>sleaghag</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6449"
-             subtype="h4">(4)</ab>
+             subtype="h4">(4)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6454">
             <form>
                <orth>pliag</orth>
             </form>
             <def>dibble.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6462"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6467">
             <form>
                <orth>pluggan</orth>
@@ -5273,25 +5273,25 @@
                <orth>sgrioban</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6478"
-             subtype="h4">(6)</ab>
+             subtype="h4">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6483">
             <form>
                <orth>putaire</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6488"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6493">
             <form>
                <orth>slifeag</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6498"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6503">
             <form>
                <orth>pleag</orth>
@@ -5332,31 +5332,31 @@
             </form>
             <def>[NOTES: added later and not clear if it belongs under 8.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6553"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6558">
             <form>
                <orth>a’ stobadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6563"
-             subtype="h4">(12)</ab>
+             subtype="h4">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6568">
             <form>
                <orth>putag</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6573"
-             subtype="h1">7. Summer work</ab>
-         <ab type="heading"
+            >7. Summer work</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6577"
-             subtype="h2">(a) Cleaning and weeding potatoes</ab>
-         <ab type="heading"
+             subtype="h2">(a) Cleaning and weeding potatoes</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6581"
-             subtype="h3">(1)</ab>
+             subtype="h3">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6586">
             <form>
                <orth>priogadh</orth>
@@ -5372,9 +5372,9 @@
                <orth>a’ todhaigeadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6603"
-             subtype="h3">(2)</ab>
+             subtype="h3">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6608">
             <form>
                <orth>a’ briogadh</orth>
@@ -5391,25 +5391,25 @@
                <orth>bàrr</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6628"
-             subtype="h3">(3)</ab>
+             subtype="h3">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6633">
             <form>
                <orth>a priogadh le croman</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6638"
-             subtype="h3">(4)</ab>
+             subtype="h3">(4)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6643">
             <form>
                <orth>croman</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6648"
-             subtype="h3">(5)</ab>
+             subtype="h3">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6653">
             <form>
                <orth>a glanadh</orth>
@@ -5425,9 +5425,9 @@
                <orth>odha</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6670"
-             subtype="h3">(6)</ab>
+             subtype="h3">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6675">
             <form>
                <orth>ag  artlan</orth>
@@ -5445,9 +5445,9 @@
                <orth>hodha</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6692"
-             subtype="h3">(7)</ab>
+             subtype="h3">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6697">
             <form>
                <orth>todha</orth>
@@ -5463,9 +5463,9 @@
                <orth>crann todhaigidh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6714"
-             subtype="h3">(8)</ab>
+             subtype="h3">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6719">
             <form>
                <orth>ùireadh</orth>
@@ -5481,17 +5481,17 @@
                <orth>a glanadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6736"
-             subtype="h3">(9)</ab>
+             subtype="h3">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6741">
             <form>
                <orth>cliath bhiorach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6746"
-             subtype="h3">(10)</ab>
+             subtype="h3">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6751">
             <form>
                <orth>spionnaidh luighean</orth>
@@ -5537,9 +5537,9 @@
                <orth>tobha</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6804"
-             subtype="h3">(12)</ab>
+             subtype="h3">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6809">
             <form>
                <orth>a’ glanadh</orth>
@@ -5565,12 +5565,12 @@
                <orth>croman</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6838"
-             subtype="h2">(b) Thinning and weeding other crops</ab>
-         <ab type="heading"
+             subtype="h2">(b) Thinning and weeding other crops</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6842"
-             subtype="h3">(2)</ab>
+             subtype="h3">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6847">
             <form>
                <orth>a’ tannachadh</orth>
@@ -5591,9 +5591,9 @@
                <orth>sgathadh D.817</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6870"
-             subtype="h3">(3)</ab>
+             subtype="h3">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6875">
             <form>
                <orth>tanachadh</orth>
@@ -5604,9 +5604,9 @@
                <orth>glanadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6886"
-             subtype="h3">(5)</ab>
+             subtype="h3">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6891">
             <form>
                <orth>tannachadh</orth>
@@ -5622,50 +5622,50 @@
                <orth>a’ tanachadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6908"
-             subtype="h3">(7)</ab>
+             subtype="h3">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6913">
             <form>
                <orth>tanachadh na tunaip</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6918"
-             subtype="h3">(8)</ab>
+             subtype="h3">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6923">
             <form>
                <orth>tannachadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6928"
-             subtype="h3">(9)</ab>
+             subtype="h3">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6933">
             <form>
                <orth>a chliath bhiorach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6938"
-             subtype="h3">(12)</ab>
+             subtype="h3">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6943">
             <form>
                <orth>a’ tanachdain</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6948"
-             subtype="h1">8. Autumn work</ab>
-         <ab type="heading"
+            >8. Autumn work</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6952"
-             subtype="h2">(a) Hay making</ab>
-         <ab type="heading"
+             subtype="h2">(a) Hay making</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6956"
-             subtype="h3">1. The implement used for (a) cutting (b) raking and turning (c) lifting and stacking</ab>
-         <ab type="heading"
+             subtype="h3">1. The implement used for (a) cutting (b) raking and turning (c) lifting and stacking</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6960"
-             subtype="h4">(1)</ab>
+             subtype="h4">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6965">
             <form>
                <orth>coran</orth>
@@ -5686,9 +5686,9 @@
                <orth>racan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e6988"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e6993">
             <form>
                <orth>a’ racadh</orth>
@@ -5719,9 +5719,9 @@
                <orth>racan feoir</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7028"
-             subtype="h4">(3)</ab>
+             subtype="h4">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7033">
             <form>
                <orth>cocadh an fheoir</orth>
@@ -5732,9 +5732,9 @@
                <orth>a deanamh sìg</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7044"
-             subtype="h4">(4)</ab>
+             subtype="h4">(4)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7049">
             <form>
                <orth>faldair</orth>
@@ -5748,9 +5748,9 @@
             </form>
             <def>sharpening stone.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7066"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7071">
             <form>
                <orth>speal ghobhlach</orth>
@@ -5776,9 +5776,9 @@
                <orth>cocadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7100"
-             subtype="h4">(6)</ab>
+             subtype="h4">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7105">
             <form>
                <orth>coran</orth>
@@ -5824,9 +5824,9 @@
                <orth>[a deanamh?] phrabag</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7158"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7163">
             <form>
                <orth>speal fheoir</orth>
@@ -5847,9 +5847,9 @@
                <orth>forc</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7186"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7191">
             <form>
                <orth>faobharachadh</orth>
@@ -5886,9 +5886,9 @@
                <orth>coca stampadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7235"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7240">
             <form>
                <orth>crann na speala</orth>
@@ -5919,9 +5919,9 @@
                <orth>cas</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7275"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7280">
             <form>
                <orth>corran</orth>
@@ -5947,9 +5947,9 @@
                <orth>forc mhor</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7309"
-             subtype="h4">(12)</ab>
+             subtype="h4">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7314">
             <form>
                <orth>speal</orth>
@@ -6010,12 +6010,12 @@
             </form>
             <def>handle.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7388"
-             subtype="h3">2. Name the parts of the implements mentioned</ab>
-         <ab type="heading"
+             subtype="h3">2. Name the parts of the implements mentioned</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7392"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7397">
             <form>
                <orth>speal dha laimh</orth>
@@ -6036,9 +6036,9 @@
                <orth>a leagail an iaruinn</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7420"
-             subtype="h4">(3)</ab>
+             subtype="h4">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7425">
             <form>
                <orth>speal chrom</orth>
@@ -6054,9 +6054,9 @@
                <orth>dorn / cas</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7442"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7447">
             <form>
                <orth>crann</orth>
@@ -6075,9 +6075,9 @@
             </form>
             <def>iron ring.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7473"
-             subtype="h4">(6)</ab>
+             subtype="h4">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7478">
             <form>
                <orth>speal ghobhlach</orth>
@@ -6088,9 +6088,9 @@
                <orth>iarann speala</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7489"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7494">
             <form>
                <orth>speal</orth>
@@ -6127,9 +6127,9 @@
                <orth>fearsad</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7538"
-             subtype="h4">(12)</ab>
+             subtype="h4">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7543">
             <form>
                <orth>fiaclan</orth>
@@ -6142,12 +6142,12 @@
             </form>
             <def>(of rake)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7560"
-             subtype="h3">3. Various stages of hay-making</ab>
-         <ab type="heading"
+             subtype="h3">3. Various stages of hay-making</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7564"
-             subtype="h4">(1)</ab>
+             subtype="h4">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7569">
             <form>
                <orth>spealladh</orth>
@@ -6173,9 +6173,9 @@
                <orth>cireadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7598"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7603">
             <form>
                <orth>a cur car</orth>
@@ -6206,9 +6206,9 @@
                <orth>ceann / taobh sìg</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7638"
-             subtype="h4">(3)</ab>
+             subtype="h4">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7643">
             <form>
                <orth>a spealadh na trathach</orth>
@@ -6234,9 +6234,9 @@
                <orth>a deanamh nan sìg</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7672"
-             subtype="h4">(4)</ab>
+             subtype="h4">(4)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7677">
             <form>
                <orth>buan</orth>
@@ -6252,9 +6252,9 @@
                <orth>caoineachadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7694"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7699">
             <form>
                <orth>spealadh</orth>
@@ -6300,9 +6300,9 @@
                <orth>a cur a stigh an fheoir</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7752"
-             subtype="h4">(6)</ab>
+             subtype="h4">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7757">
             <form>
                <orth>a buain</orth>
@@ -6344,9 +6344,9 @@
             </form>
             <def>defin.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7807"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7812">
             <form>
                <orth>spealadh</orth>
@@ -6372,9 +6372,9 @@
                <orth>dluthadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7841"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7846">
             <form>
                <orth>prabag</orth>
@@ -6401,9 +6401,9 @@
             </form>
             <def>(corn)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7878"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7883">
             <form>
                <orth>a gearradh an fheoir</orth>
@@ -6434,9 +6434,9 @@
                <orth>mullan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7918"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7923">
             <form>
                <orth>tionndadh</orth>
@@ -6452,9 +6452,9 @@
                <orth>cocan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e7940"
-             subtype="h4">(12)</ab>
+             subtype="h4">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e7945">
             <form>
                <orth>a’ buain</orth>
@@ -6529,15 +6529,15 @@
             </form>
             <def>stamping hay.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8040"
-             subtype="h2">(b) Corn cutting and securing</ab>
-         <ab type="heading"
+             subtype="h2">(b) Corn cutting and securing</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8044"
-             subtype="h3">1. Implements used for cutting, raking, binding, lifting into stacks etc.</ab>
-         <ab type="heading"
+             subtype="h3">1. Implements used for cutting, raking, binding, lifting into stacks etc.</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8048"
-             subtype="h4">(1)</ab>
+             subtype="h4">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8053">
             <form>
                <orth>coran</orth>
@@ -6573,9 +6573,9 @@
                <orth>adag</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8094"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8099">
             <form>
                <orth>racan feoir</orth>
@@ -6601,9 +6601,9 @@
                <orth>a’ badadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8128"
-             subtype="h4">(4)</ab>
+             subtype="h4">(4)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8133">
             <form>
                <orth>faldair</orth>
@@ -6614,9 +6614,9 @@
                <orth>ràit</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8144"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8149">
             <form>
                <orth>corran</orth>
@@ -6642,12 +6642,12 @@
                <orth>forcadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8178"
-             subtype="h4">(7)</ab>
-         <ab type="heading"
+             subtype="h4">(7)</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8182"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8187">
             <form>
                <orth>adag buinn</orth>
@@ -6665,20 +6665,20 @@
             </form>
             <def>see diag. [NOTES: probably refers to a diagram provided by the informant.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8210"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8215">
             <form>
                <orth>binder</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8220"
-             subtype="h3">2. Bands (for tying corn), sheaves, stooks etc.</ab>
-         <ab type="heading"
+             subtype="h3">2. Bands (for tying corn), sheaves, stooks etc.</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8224"
-             subtype="h4">(1)</ab>
+             subtype="h4">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8229">
             <form>
                <orth>tòrr</orth>
@@ -6689,9 +6689,9 @@
                <orth>curucag</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8240"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8245">
             <form>
                <orth>bann</orth>
@@ -6712,9 +6712,9 @@
                <orth>adag</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8268"
-             subtype="h4">(3)</ab>
+             subtype="h4">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8273">
             <form>
                <orth>bad</orth>
@@ -6757,9 +6757,9 @@
                <orth>fo laidh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8326"
-             subtype="h4">(4)</ab>
+             subtype="h4">(4)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8331">
             <form>
                <orth>bannan</orth>
@@ -6780,9 +6780,9 @@
                <orth>rucan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8354"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8359">
             <form>
                <orth>bann</orth>
@@ -6803,9 +6803,9 @@
                <orth>mullan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8382"
-             subtype="h4">(6)</ab>
+             subtype="h4">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8387">
             <form>
                <orth>sguab</orth>
@@ -6836,9 +6836,9 @@
                <orth>cruach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8422"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8427">
             <form>
                <orth>bann dùbailte</orth>
@@ -6872,9 +6872,9 @@
             </form>
             <def>definitions.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8471"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8476">
             <form>
                <orth>bann</orth>
@@ -6898,9 +6898,9 @@
             </form>
             <def>defs.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8508"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8513">
             <form>
                <orth>bann</orth>
@@ -6941,9 +6941,9 @@
                <orth>maighdeann bhuana</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8560"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8565">
             <form>
                <orth>cocan</orth>
@@ -6964,9 +6964,9 @@
                <orth>mullan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8588"
-             subtype="h4">(12)</ab>
+             subtype="h4">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8593">
             <form>
                <orth>a’ buain a’ choirce</orth>
@@ -6997,12 +6997,12 @@
                <orth>a ceangal a’ choirce</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8628"
-             subtype="h3">3. Stack making (in yard)</ab>
-         <ab type="heading"
+             subtype="h3">3. Stack making (in yard)</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8632"
-             subtype="h4">(1)</ab>
+             subtype="h4">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8637">
             <form>
                <orth>sioman / connlaich / fraoich</orth>
@@ -7013,9 +7013,9 @@
                <orth>spuincan (?)</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8648"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8653">
             <form>
                <orth>bonn</orth>
@@ -7097,9 +7097,9 @@
                <orth>a’ torradh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8751"
-             subtype="h4">(3)</ab>
+             subtype="h4">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8756">
             <form>
                <orth>larach na sìg</orth>
@@ -7120,9 +7120,9 @@
                <orth>sioman Thearlaich</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8779"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8784">
             <form>
                <orth>bonn</orth>
@@ -7163,9 +7163,9 @@
                <orth>tha car cliatach ann</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8831"
-             subtype="h4">(6)</ab>
+             subtype="h4">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8836">
             <form>
                <orth>crianach</orth>
@@ -7196,9 +7196,9 @@
                <orth>ag eirigh fo’n eallach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8871"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8876">
             <form>
                <orth>bonn na cruaiche</orth>
@@ -7234,9 +7234,9 @@
                <orth>dlùthadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8917"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8922">
             <form>
                <orth>bun</orth>
@@ -7277,9 +7277,9 @@
                <orth>mathair shiomain</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e8969"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e8974">
             <form>
                <orth>clachan laraich</orth>
@@ -7310,9 +7310,9 @@
                <orth>sreth</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9009"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9014">
             <form>
                <orth>mullan</orth>
@@ -7333,12 +7333,12 @@
                <orth>rollag</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9037"
-             subtype="h3">4. Methods of carrying or transporting corn from field to corn yard</ab>
-         <ab type="heading"
+             subtype="h3">4. Methods of carrying or transporting corn from field to corn yard</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9041"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9046">
             <form>
                <orth>eallach</orth>
@@ -7349,9 +7349,9 @@
                <orth>a’ tarruing a choirce</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9057"
-             subtype="h4">(3)</ab>
+             subtype="h4">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9062">
             <form>
                <orth>eallach</orth>
@@ -7364,9 +7364,9 @@
             </form>
             <def>[?] </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9073"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9078">
             <form>
                <orth>boitein</orth>
@@ -7377,25 +7377,25 @@
                <orth>sachd</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9089"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9094">
             <form>
                <orth>eallach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9099"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9104">
             <form>
                <orth>barrag</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9109"
-             subtype="h4">(12)</ab>
+             subtype="h4">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9114">
             <form>
                <orth>eallach</orth>
@@ -7406,15 +7406,15 @@
                <orth>ròp-eallaich</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9125"
-             subtype="h2">(c) Potato lifting and storing</ab>
-         <ab type="heading"
+             subtype="h2">(c) Potato lifting and storing</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9129"
-             subtype="h3">1. Implements</ab>
-         <ab type="heading"
+             subtype="h3">1. Implements</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9133"
-             subtype="h4">(1)</ab>
+             subtype="h4">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9138">
             <form>
                <orth>dusgadh</orth>
@@ -7425,9 +7425,9 @@
                <orth>croman</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9149"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9154">
             <form>
                <orth>croman / cas / ceann</orth>
@@ -7443,9 +7443,9 @@
                <orth>a dusgadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9171"
-             subtype="h4">(3)</ab>
+             subtype="h4">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9176">
             <form>
                <orth>cùil bhuntata</orth>
@@ -7456,9 +7456,9 @@
                <orth>sloc bhuntata</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9187"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9192">
             <form>
                <orth>cròcan</orth>
@@ -7471,9 +7471,9 @@
             </form>
             <def>[sic] </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9203"
-             subtype="h4">(6)</ab>
+             subtype="h4">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9208">
             <form>
                <orth>ròd</orth>
@@ -7489,9 +7489,9 @@
                <orth>pollag</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9225"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9230">
             <form>
                <orth>crann</orth>
@@ -7502,9 +7502,9 @@
                <orth>crocan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9241"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9246">
             <form>
                <orth>crann</orth>
@@ -7525,17 +7525,17 @@
                <orth>croman</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9269"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9274">
             <form>
                <orth>a cur dhachaidh a bhuntata</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9279"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9284">
             <form>
                <orth>crann</orth>
@@ -7546,9 +7546,9 @@
                <orth>tobha</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9295"
-             subtype="h4">(12)</ab>
+             subtype="h4">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9300">
             <form>
                <orth>a’ togail a’ bhuntàta</orth>
@@ -7564,12 +7564,12 @@
                <orth>croman</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9317"
-             subtype="h3">2. Sack, creel, barrow etc. used for carrying potatoes in field and to steading</ab>
-         <ab type="heading"
+             subtype="h3">2. Sack, creel, barrow etc. used for carrying potatoes in field and to steading</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9321"
-             subtype="h4">(1)</ab>
+             subtype="h4">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9326">
             <form>
                <orth>poca</orth>
@@ -7591,9 +7591,9 @@
                <orth>seic shioman luachrach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9352"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9357">
             <form>
                <orth>poca</orth>
@@ -7609,17 +7609,17 @@
                <orth>bara</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9374"
-             subtype="h4">(4)</ab>
+             subtype="h4">(4)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9379">
             <form>
                <orth>poca</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9384"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9389">
             <form>
                <orth>poca</orth>
@@ -7640,9 +7640,9 @@
                <orth>bascaid</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9412"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9417">
             <form>
                <orth>poca</orth>
@@ -7653,9 +7653,9 @@
                <orth>cairt</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9428"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9433">
             <form>
                <orth>poca</orth>
@@ -7666,9 +7666,9 @@
                <orth>cliabh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9444"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9449">
             <form>
                <orth>aparan</orth>
@@ -7679,9 +7679,9 @@
                <orth>poca</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9460"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9465">
             <form>
                <orth>poca</orth>
@@ -7704,12 +7704,12 @@
             </form>
             <def>[sic] [NOTES: added later.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9491"
-             subtype="h3">3. Where potatoes are kept or stored</ab>
-         <ab type="heading"
+             subtype="h3">3. Where potatoes are kept or stored</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9495"
-             subtype="h4">(1)</ab>
+             subtype="h4">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9500">
             <form>
                <orth>slochd</orth>
@@ -7731,27 +7731,27 @@
                <orth>scrathan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9526"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9531">
             <form>
                <orth>sloc deanta</orth>
             </form>
             <def>see diag. [NOTES: probably refers to a diagram provided by the informant.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9539"
-             subtype="h4">(3)</ab>
+             subtype="h4">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9544">
             <form>
                <orth>cùil</orth>
             </form>
             <def>(def.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9552"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9557">
             <form>
                <orth>bùthag</orth>
@@ -7769,18 +7769,18 @@
             </form>
             <def>[sic] </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9574"
-             subtype="h4">(6)</ab>
+             subtype="h4">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9579">
             <form>
                <orth>pollag</orth>
             </form>
             <def>defin.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9587"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9592">
             <form>
                <orth>sloc</orth>
@@ -7812,18 +7812,18 @@
                <orth>sgrath mhullaich</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9630"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9635">
             <form>
                <orth>sloc</orth>
             </form>
             <def>(def.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9643"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9648">
             <form>
                <orth>tigh a bhuntata</orth>
@@ -7835,9 +7835,9 @@
             </form>
             <def>2 types.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9662"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9667">
             <form>
                <orth>silear</orth>
@@ -7858,9 +7858,9 @@
                <orth>polagan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9690"
-             subtype="h4">(12)</ab>
+             subtype="h4">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9695">
             <form>
                <orth>toll / tolla-buntàta</orth>
@@ -7872,12 +7872,12 @@
             </form>
             <def>covering of pit.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9709"
-             subtype="h3">4. Potato diseases</ab>
-         <ab type="heading"
+             subtype="h3">4. Potato diseases</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9713"
-             subtype="h4">(1)</ab>
+             subtype="h4">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9718">
             <form>
                <orth>buntata dubh</orth>
@@ -7898,9 +7898,9 @@
                <orth>lobhadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9741"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9746">
             <form>
                <orth>gaiseadh</orth>
@@ -7911,9 +7911,9 @@
                <orth>cnamh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9757"
-             subtype="h4">(3)</ab>
+             subtype="h4">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9762">
             <form>
                <orth>an gaiseadh</orth>
@@ -7934,17 +7934,17 @@
                <orth>buntata carrach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9785"
-             subtype="h4">(4)</ab>
+             subtype="h4">(4)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9790">
             <form>
                <orth>sloc</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9795"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9800">
             <form>
                <orth>gaiseadh</orth>
@@ -7967,9 +7967,9 @@
                <orth>an dubhadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9823"
-             subtype="h4">(6)</ab>
+             subtype="h4">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9828">
             <form>
                <orth>an dubhadh</orth>
@@ -8000,9 +8000,9 @@
                <orth>cuiseagan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9863"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9868">
             <form>
                <orth>gaiseadh</orth>
@@ -8013,9 +8013,9 @@
                <orth>eelworm</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9879"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9884">
             <form>
                <orth>gaiseadh dubh</orth>
@@ -8026,17 +8026,17 @@
                <orth>gaiseadh bog</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9895"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9900">
             <form>
                <orth>an dubhadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9905"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9910">
             <form>
                <orth>dubhadh</orth>
@@ -8072,9 +8072,9 @@
                <orth>buntata carrach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9951"
-             subtype="h4">(12)</ab>
+             subtype="h4">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9956">
             <form>
                <orth>gaiseadh</orth>
@@ -8095,15 +8095,15 @@
                <orth>cairrcean</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9979"
-             subtype="h2">(d) Other crops (Lifting and storing)</ab>
-         <ab type="heading"
+             subtype="h2">(d) Other crops (Lifting and storing)</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9983"
-             subtype="h3">1. Implements used for lifting</ab>
-         <ab type="heading"
+             subtype="h3">1. Implements used for lifting</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e9987"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e9992">
             <form>
                <orth>a spealadh an fheoir</orth>
@@ -8149,17 +8149,17 @@
                <orth>bun</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10045"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10050">
             <form>
                <orth>see for turnips, carrots</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10055"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10060">
             <form>
                <orth>a cur thuirneap</orth>
@@ -8175,12 +8175,12 @@
                <orth>barra thuirneap</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10077"
-             subtype="h3">2. How and where crop is stored</ab>
-         <ab type="heading"
+             subtype="h3">2. How and where crop is stored</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10081"
-             subtype="h4">(6)</ab>
+             subtype="h4">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10086">
             <form>
                <orth>iodhlann</orth>
@@ -8191,20 +8191,20 @@
                <orth>sabhal</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10097"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10102">
             <form>
                <orth>barn and yard</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10107"
-             subtype="h3">3. Diseases/insects which attack the particular crop(s)</ab>
-         <ab type="heading"
+             subtype="h3">3. Diseases/insects which attack the particular crop(s)</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10111"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10116">
             <form>
                <orth>buillig</orth>
@@ -8215,9 +8215,9 @@
                <orth>pudharan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10127"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10132">
             <form>
                <orth>biastan</orth>
@@ -8228,17 +8228,17 @@
                <orth>an daol</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10143"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10148">
             <form>
                <orth>pùran</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10153"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10158">
             <form>
                <orth>dudan</orth>
@@ -8255,18 +8255,18 @@
                <orth>dias dhubh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10178"
-             subtype="h1">9. Winter work</ab>
-         <ab type="heading"
+            >9. Winter work</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10182"
-             subtype="h2">(a) Land drainage</ab>
-         <ab type="heading"
+             subtype="h2">(a) Land drainage</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10186"
-             subtype="h3">1. Drains, ditches etc.</ab>
-         <ab type="heading"
+             subtype="h3">1. Drains, ditches etc.</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10190"
-             subtype="h4">(1)</ab>
+             subtype="h4">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10195">
             <form>
                <orth>clais</orth>
@@ -8278,9 +8278,9 @@
                <orth>thoir a steach talamh aitich</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10209"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10214">
             <form>
                <orth>dreinigeadh</orth>
@@ -8296,9 +8296,9 @@
                <orth>clais</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10231"
-             subtype="h4">(3)</ab>
+             subtype="h4">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10236">
             <form>
                <orth>taomadh</orth>
@@ -8309,9 +8309,9 @@
                <orth>clais</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10247"
-             subtype="h4">(4)</ab>
+             subtype="h4">(4)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10252">
             <form>
                <orth>clais</orth>
@@ -8322,9 +8322,9 @@
                <orth>staing</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10263"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10268">
             <form>
                <orth>dìg</orth>
@@ -8335,9 +8335,9 @@
                <orth>loopa</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10279"
-             subtype="h4">(6)</ab>
+             subtype="h4">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10284">
             <form>
                <orth>drèin</orth>
@@ -8348,9 +8348,9 @@
                <orth>clais</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10295"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10300">
             <form>
                <orth>dreana mhor</orth>
@@ -8366,9 +8366,9 @@
                <orth>stang</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10317"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10322">
             <form>
                <orth>drèan</orth>
@@ -8379,9 +8379,9 @@
                <orth>dig chaorach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10333"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10338">
             <form>
                <orth>drein</orth>
@@ -8392,9 +8392,9 @@
                <orth>dige</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10349"
-             subtype="h4">(12)</ab>
+             subtype="h4">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10354">
             <form>
                <orth>drèana</orth>
@@ -8411,28 +8411,28 @@
             </form>
             <def>opening / clearing drains.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10374"
-             subtype="h3">2. Implements used</ab>
-         <ab type="heading"
+             subtype="h3">2. Implements used</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10378"
-             subtype="h4">(1)</ab>
+             subtype="h4">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10383">
             <form>
                <orth>spaid</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10388"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10393">
             <form>
                <orth>corran mór</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10398"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10403">
             <form>
                <orth>spaid</orth>
@@ -8448,9 +8448,9 @@
                <orth>forc</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10420"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10425">
             <form>
                <orth>spaid</orth>
@@ -8483,9 +8483,9 @@
                <orth>bas</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10466"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10471">
             <form>
                <orth>spaid mhor</orth>
@@ -8496,9 +8496,9 @@
                <orth>sgiath</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10482"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10487">
             <form>
                <orth>todha</orth>
@@ -8509,23 +8509,23 @@
                <orth>spaid</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10498"
-             subtype="h2">(b) Potato cutting for seed</ab>
-         <ab type="heading"
+             subtype="h2">(b) Potato cutting for seed</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10502"
-             subtype="h3">1. Instruments used</ab>
-         <ab type="heading"
+             subtype="h3">1. Instruments used</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10506"
-             subtype="h4">(1)</ab>
+             subtype="h4">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10511">
             <form>
                <orth>sgealban</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10516"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10521">
             <form>
                <orth>na suilean</orth>
@@ -8561,9 +8561,9 @@
                <orth>cuil bhuntata</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10562"
-             subtype="h4">(3)</ab>
+             subtype="h4">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10567">
             <form>
                <orth>sgian bhuird air a gliasadh</orth>
@@ -8584,9 +8584,9 @@
                <orth>suilean a phunàt</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10590"
-             subtype="h4">(4)</ab>
+             subtype="h4">(4)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10595">
             <form>
                <orth>sgaoiltean</orth>
@@ -8597,9 +8597,9 @@
                <orth>roiseacan (?)</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10606"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10611">
             <form>
                <orth>gearradh a bhuntata</orth>
@@ -8642,9 +8642,9 @@
                <orth>scriobadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10661"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10666">
             <form>
                <orth>sgian</orth>
@@ -8660,9 +8660,9 @@
                <orth>glaodhain</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10683"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10688">
             <form>
                <orth>gearradh</orth>
@@ -8683,9 +8683,9 @@
                <orth>suil bhuinn</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10711"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10716">
             <form>
                <orth>suil</orth>
@@ -8701,9 +8701,9 @@
                <orth>snodhach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10733"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10738">
             <form>
                <orth>sgian</orth>
@@ -8719,9 +8719,9 @@
                <orth>glaodhain</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10755"
-             subtype="h4">(12)</ab>
+             subtype="h4">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10760">
             <form>
                <orth>sùilean</orth>
@@ -8732,13 +8732,13 @@
                <orth>glaodhanan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10771"
-             subtype="h3">2. Different kinds of potatoes</ab>
+             subtype="h3">2. Different kinds of potatoes</head>
          <note>(see seed planting)</note>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10778"
-             subtype="h4">(1)</ab>
+             subtype="h4">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10783">
             <form>
                <orth>buntata dubh</orth>
@@ -8759,9 +8759,9 @@
                <orth>Duke of York</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10806"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10811">
             <form>
                <orth>na gartans</orth>
@@ -8772,9 +8772,9 @@
                <orth>see seed planting</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10822"
-             subtype="h4">(3)</ab>
+             subtype="h4">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10827">
             <form>
                <orth>champions</orth>
@@ -8801,9 +8801,9 @@
             </form>
             <def>purple.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10859"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10864">
             <form>
                <orth>K</orth>
@@ -8830,17 +8830,17 @@
             </form>
             <def>[ion] </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10887"
-             subtype="h4">(6)</ab>
+             subtype="h4">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10892">
             <form>
                <orth>buntata gorm: Skerry Blues / Edzell blues</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10897"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10902">
             <form>
                <orth>record</orth>
@@ -8877,9 +8877,9 @@
             </form>
             <def>[?] </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10937"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10942">
             <form>
                <orth>Epicure</orth>
@@ -8911,9 +8911,9 @@
             </form>
             <def>[ion] </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e10971"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e10976">
             <form>
                <orth>K</orth>
@@ -8945,9 +8945,9 @@
             </form>
             <def>[?] </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11005"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11010">
             <form>
                <orth>buntata dubh</orth>
@@ -8968,23 +8968,23 @@
                <orth>spoganain</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11033"
-             subtype="h4">(12)</ab>
+             subtype="h4">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11038">
             <form>
                <orth>English names generally</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11043"
-             subtype="h2">(c) Corn threshing</ab>
-         <ab type="heading"
+             subtype="h2">(c) Corn threshing</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11047"
-             subtype="h3">1. Implements used</ab>
-         <ab type="heading"
+             subtype="h3">1. Implements used</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11051"
-             subtype="h4">(1)</ab>
+             subtype="h4">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11056">
             <form>
                <orth>suist</orth>
@@ -9017,9 +9017,9 @@
                <orth>maide frasaidh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11097"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11102">
             <form>
                <orth>sùist</orth>
@@ -9041,9 +9041,9 @@
                <orth>snathadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11128"
-             subtype="h4">(3)</ab>
+             subtype="h4">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11133">
             <form>
                <orth>suisd</orth>
@@ -9066,26 +9066,26 @@
                <orth>muillin bhualaidh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11162"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11167">
             <form>
                <orth>suist</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11172"
-             subtype="h4">(6)</ab>
+             subtype="h4">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11177">
             <form>
                <orth>suiste</orth>
             </form>
             <def>wooden, one piece.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11185"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11190">
             <form>
                <orth>roisein</orth>
@@ -9117,9 +9117,9 @@
                <orth>urlar bualaidh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11228"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11233">
             <form>
                <orth>sùisd</orth>
@@ -9137,9 +9137,9 @@
                <orth>stamh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11256"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11261">
             <form>
                <orth>lamhchrann</orth>
@@ -9160,9 +9160,9 @@
                <orth>iall</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11284"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11289">
             <form>
                <orth>sùiste</orth>
@@ -9183,20 +9183,20 @@
                <orth>muilean fhasganaidh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11312"
-             subtype="h4">(12)</ab>
+             subtype="h4">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11317">
             <form>
                <orth>buailtean</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11322"
-             subtype="h3">2. Threshing</ab>
-         <ab type="heading"
+             subtype="h3">2. Threshing</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11326"
-             subtype="h4">(1)</ab>
+             subtype="h4">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11331">
             <form>
                <orth>see diagr.</orth>
@@ -9225,17 +9225,17 @@
             </form>
             <def>(see def.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11366"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11371">
             <form>
                <orth>a’ bualadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11376"
-             subtype="h4">(3)</ab>
+             subtype="h4">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11381">
             <form>
                <orth>frasadh</orth>
@@ -9246,25 +9246,25 @@
                <orth>lamhcharan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11392"
-             subtype="h4">(4)</ab>
+             subtype="h4">(4)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11397">
             <form>
                <orth>bualadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11402"
-             subtype="h4">(5)</ab>
+             subtype="h4">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11407">
             <form>
                <orth>sùisteadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11412"
-             subtype="h4">(6)</ab>
+             subtype="h4">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11417">
             <form>
                <orth>a froiseadh</orth>
@@ -9275,9 +9275,9 @@
                <orth>moll</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11428"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11433">
             <form>
                <orth>urlar bualaidh</orth>
@@ -9288,23 +9288,23 @@
                <orth>muileann bualaidh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11444"
-             subtype="h4">(12)</ab>
+             subtype="h4">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11449">
             <form>
                <orth>a’ bualadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11454"
-             subtype="h2">(d) Grain winnowing</ab>
-         <ab type="heading"
+             subtype="h2">(d) Grain winnowing</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11458"
-             subtype="h3">1. Devices used</ab>
-         <ab type="heading"
+             subtype="h3">1. Devices used</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11462"
-             subtype="h4">(1)</ab>
+             subtype="h4">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11467">
             <form>
                <orth>see diag. for constr.</orth>
@@ -9324,9 +9324,9 @@
             </form>
             <def>[?] </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11487"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11492">
             <form>
                <orth>criathar</orth>
@@ -9337,9 +9337,9 @@
                <orth>pill fhasgnaidh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11503"
-             subtype="h4">(3)</ab>
+             subtype="h4">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11508">
             <form>
                <orth>fasganadh</orth>
@@ -9351,18 +9351,18 @@
             </form>
             <def>see def.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11522"
-             subtype="h4">(4)</ab>
+             subtype="h4">(4)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11527">
             <form>
                <orth>fasgan</orth>
             </form>
             <def>sieve / fan.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11535"
-             subtype="h4">(6)</ab>
+             subtype="h4">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11540">
             <form>
                <orth>a fasgnadh</orth>
@@ -9373,9 +9373,9 @@
                <orth>criathar</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11551"
-             subtype="h4">(7)</ab>
+             subtype="h4">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11556">
             <form>
                <orth>càthadh</orth>
@@ -9421,9 +9421,9 @@
             </form>
             <def>see definitions.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11618"
-             subtype="h4">(8)</ab>
+             subtype="h4">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11623">
             <form>
                <orth>criathar</orth>
@@ -9455,9 +9455,9 @@
                <orth>criathar mìn</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11661"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11666">
             <form>
                <orth>fasgnag</orth>
@@ -9473,9 +9473,9 @@
                <orth>criathar</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11683"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11688">
             <form>
                <orth>criathar</orth>
@@ -9493,20 +9493,20 @@
             </form>
             <def>[?] </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11705"
-             subtype="h4">(12)</ab>
+             subtype="h4">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11710">
             <form>
                <orth>criathar</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11715"
-             subtype="h3">2. How constructed and materials used. Winnowing.</ab>
-         <ab type="heading"
+             subtype="h3">2. How constructed and materials used. Winnowing.</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11719"
-             subtype="h4">(1)</ab>
+             subtype="h4">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11724">
             <form>
                <orth>fasgnadh</orth>
@@ -9528,9 +9528,9 @@
             </form>
             <def>see gairm.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11750"
-             subtype="h4">(2)</ab>
+             subtype="h4">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11755">
             <form>
                <orth>criathar</orth>
@@ -9542,18 +9542,18 @@
                <orth>bior dearg</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11769"
-             subtype="h4">(4)</ab>
+             subtype="h4">(4)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11774">
             <form>
                <orth>fasgan</orth>
             </form>
             <def>see def.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11782"
-             subtype="h4">(9)</ab>
+             subtype="h4">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11787">
             <form>
                <orth>a cathadh</orth>
@@ -9564,9 +9564,9 @@
                <orth>dealg</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11798"
-             subtype="h4">(10)</ab>
+             subtype="h4">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11803">
             <form>
                <orth>cathadh</orth>
@@ -9577,23 +9577,23 @@
                <orth>fasganadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11814"
-             subtype="h4">(12)</ab>
+             subtype="h4">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11819">
             <form>
                <orth>a criathradh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11824"
-             subtype="h1">10. Permanent structures/buildings for storing crops</ab>
-         <ab type="heading"
+            >10. Permanent structures/buildings for storing crops</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11828"
-             subtype="h2">(a) Stack-yard</ab>
-         <ab type="heading"
+             subtype="h2">(a) Stack-yard</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11832"
-             subtype="h3">(1)</ab>
+             subtype="h3">(1)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11837">
             <form>
                <orth>iodhlainn</orth>
@@ -9609,9 +9609,9 @@
                <orth>làrach na sìg / cruaich</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11854"
-             subtype="h3">(2)</ab>
+             subtype="h3">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11859">
             <form>
                <orth>garadh na h-iodhlann</orth>
@@ -9622,9 +9622,9 @@
                <orth>geata na h-iodhlann</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11870"
-             subtype="h3">(3)</ab>
+             subtype="h3">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11875">
             <form>
                <orth>iodhlann</orth>
@@ -9635,42 +9635,42 @@
                <orth>cachalaidh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11886"
-             subtype="h3">(4)</ab>
+             subtype="h3">(4)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11891">
             <form>
                <orth>iollainn</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11896"
-             subtype="h3">(5)</ab>
+             subtype="h3">(5)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11901">
             <form>
                <orth>iolann</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11906"
-             subtype="h3">(6)</ab>
+             subtype="h3">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11911">
             <form>
                <orth>iodhlann</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11916"
-             subtype="h3">(7)</ab>
+             subtype="h3">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11921">
             <form>
                <orth>iolann</orth>
             </form>
             <def>stone wall.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11929"
-             subtype="h3">(8)</ab>
+             subtype="h3">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11934">
             <form>
                <orth>calpa</orth>
@@ -9682,9 +9682,9 @@
                <orth>cachalaidh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11948"
-             subtype="h3">(9)</ab>
+             subtype="h3">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11953">
             <form>
                <orth>iodhlann</orth>
@@ -9695,20 +9695,20 @@
                <orth>geata</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11964"
-             subtype="h3">(12)</ab>
+             subtype="h3">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11969">
             <form>
                <orth>iolainn</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11974"
-             subtype="h2">(b) Barn and parts of a barn</ab>
-         <ab type="heading"
+             subtype="h2">(b) Barn and parts of a barn</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11978"
-             subtype="h3">(2)</ab>
+             subtype="h3">(2)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11983">
             <form>
                <orth>sabhal</orth>
@@ -9719,9 +9719,9 @@
                <orth>toll fasgnaidh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e11994"
-             subtype="h3">(3)</ab>
+             subtype="h3">(3)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e11999">
             <form>
                <orth>sobhal</orth>
@@ -9742,17 +9742,17 @@
                <orth>an cùlan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e12022"
-             subtype="h3">(6)</ab>
+             subtype="h3">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e12027">
             <form>
                <orth>sobhal</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e12032"
-             subtype="h3">(7)</ab>
+             subtype="h3">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e12037">
             <form>
                <orth>sobhal</orth>
@@ -9763,9 +9763,9 @@
                <orth>feadan àthadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e12048"
-             subtype="h3">(8)</ab>
+             subtype="h3">(8)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e12053">
             <form>
                <orth>athamh</orth>
@@ -9823,9 +9823,9 @@
                <orth>an t-sùil</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e12124"
-             subtype="h3">(9)</ab>
+             subtype="h3">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e12129">
             <form>
                <orth>soran</orth>
@@ -9836,9 +9836,9 @@
                <orth>lobhta</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e12140"
-             subtype="h3">(10)</ab>
+             subtype="h3">(10)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e12145">
             <form>
                <orth>dorus a chàthaidh</orth>
@@ -9865,9 +9865,9 @@
                <orth>lobhta</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e12177"
-             subtype="h3">(12)</ab>
+             subtype="h3">(12)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e12182">
             <form>
                <orth>sobhal</orth>
@@ -9879,20 +9879,20 @@
             </form>
             <def>latticed section in barn wall for ventilation.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e12196"
-             subtype="h1">11. Modern implements and machines</ab>
-         <ab type="heading"
+            >11. Modern implements and machines</head>
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e12200"
-             subtype="h2">(6)</ab>
+             subtype="h2">(6)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e12205">
             <form>
                <orth>tractair</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e12210"
-             subtype="h2">(7)</ab>
+             subtype="h2">(7)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e12215">
             <form>
                <orth>each iarainn</orth>
@@ -9923,9 +9923,9 @@
                <orth>inneal roisidh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_DAMacdonaldagriculture-d0e12250"
-             subtype="h2">(9)</ab>
+             subtype="h2">(9)</head>
          <entry xml:id="Agriculture_DAMacdonaldagriculture-d0e12255">
             <form>
                <orth>an grapa mór</orth>

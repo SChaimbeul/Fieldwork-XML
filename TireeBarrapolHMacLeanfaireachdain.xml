@@ -42,9 +42,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e32"
-             subtype="h1">FAIREACHDAIN</ab>
+            >FAIREACHDAIN</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e37">
             <form>
                <orth>mo bhuaidhean</orth>
@@ -81,12 +81,12 @@
             </form>
             <def>sense of touch.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e90"
-             subtype="h1">AN T-SÙIL</ab>
-         <ab type="heading"
+            >AN T-SÙIL</head>
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e94"
-             subtype="h2">1. Seòrsachan sùil, pàirtean de’n t-sùil, tinneasan sùil, fradharc</ab>
+             subtype="h2">1. Seòrsachan sùil, pàirtean de’n t-sùil, tinneasan sùil, fradharc</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e99">
             <form>
                <orth>sùil bhiorach</orth>
@@ -141,9 +141,9 @@
             </form>
             <def>phosphorescence.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e179"
-             subtype="h2">2. Dòighean air coimhead air duine</ab>
+             subtype="h2">2. Dòighean air coimhead air duine</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e184">
             <form>
                <orth>fo’n t-sùil</orth>
@@ -165,9 +165,9 @@
                <orth>Sheall mi air gu gruamach.</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e210"
-             subtype="h2">3. Gnathasan-cainnte tha bointinn ris an t-sùil</ab>
+             subtype="h2">3. Gnathasan-cainnte tha bointinn ris an t-sùil</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e215">
             <form>
                <orth>Tha mo shùil air</orth>
@@ -204,9 +204,9 @@
             </form>
             <def>’Ga aithneachadh a reir coltas a shliochd, no a dhaoine, no a shinnsearachd – recognising a person from hereditary looks. Dh’aithnich mi e air na daoine d’am buineadh e.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e268"
-             subtype="h1">AM BEUL - Am beul, an amhaich, na fiaclan. Faclan a’ bointinn ri ithe agus òl. Faclan mu dheidhinn bruidhinn, gàireachdainn agus mar sin air adhart</ab>
+            >AM BEUL - Am beul, an amhaich, na fiaclan. Faclan a’ bointinn ri ithe agus òl. Faclan mu dheidhinn bruidhinn, gàireachdainn agus mar sin air adhart</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e273">
             <form>
                <orth>gìosgan fhiacaill</orth>
@@ -374,15 +374,15 @@
             </form>
             <def>I am stuttering.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e512"
-             subtype="h1">A’ CHLUAS</ab>
-         <ab type="heading"
+            >A’ CHLUAS</head>
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e516"
-             subtype="h2">1. Cumaidhean chluas, pàirtean de’n chluais, tinneasan cluaise</ab>
-         <ab type="heading"
+             subtype="h2">1. Cumaidhean chluas, pàirtean de’n chluais, tinneasan cluaise</head>
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e520"
-             subtype="h3">Cumadh nan cluasan</ab>
+             subtype="h3">Cumadh nan cluasan</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e525">
             <form>
                <orth>cluasan biorach</orth>
@@ -429,9 +429,9 @@
             </form>
             <def>hairy ears.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e590"
-             subtype="h3">Gnàthasan-cainnte</ab>
+             subtype="h3">Gnàthasan-cainnte</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e595">
             <form>
                <orth>Cum do chluas fosgailte</orth>
@@ -450,9 +450,9 @@
             </form>
             <def>[sic] </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e615"
-             subtype="h2">2. Seòrsaichean de fhuaim: Fuaimean na mara, na gaoithe; Fuaimean bheathaichean is eòin; Fuaimean a bhios daoine deanamh dhan toil agus dha aindheoin, fuaimean anns an stamaig, seòrsaichean gàire, eubh no guth</ab>
+             subtype="h2">2. Seòrsaichean de fhuaim: Fuaimean na mara, na gaoithe; Fuaimean bheathaichean is eòin; Fuaimean a bhios daoine deanamh dhan toil agus dha aindheoin, fuaimean anns an stamaig, seòrsaichean gàire, eubh no guth</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e620">
             <form>
                <orth>mualan a’ chuain</orth>
@@ -483,9 +483,9 @@
             </form>
             <def>low-pitched.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e664"
-             subtype="h3">Fuaimean bheothaichean</ab>
+             subtype="h3">Fuaimean bheothaichean</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e669">
             <form>
                <orth>meilich chaora</orth>
@@ -570,9 +570,9 @@
             </form>
             <def>naying [sic] [neighing?].</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e794"
-             subtype="h3">[blank]</ab>
+             subtype="h3">[blank]</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e799">
             <form>
                <orth>bruchd (m)</orth>
@@ -627,12 +627,12 @@
             </form>
             <def>movement of air in stomach when hungry.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e879"
-             subtype="h1">AN T-SRÒN</ab>
-         <ab type="heading"
+            >AN T-SRÒN</head>
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e883"
-             subtype="h2">Cumaidhean sròine, faclan éibhinn, tinneasan</ab>
+             subtype="h2">Cumaidhean sròine, faclan éibhinn, tinneasan</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e888">
             <form>
                <orth>sròn mhaol</orth>
@@ -669,9 +669,9 @@
             </form>
             <def>sound in chest denoting catarrh.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e941"
-             subtype="h2">Fàilidhean math is dona, fàile biadh nach eil ‘ùr’</ab>
+             subtype="h2">Fàilidhean math is dona, fàile biadh nach eil ‘ùr’</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e946">
             <form>
                <orth>boladh (m)</orth>
@@ -717,9 +717,9 @@
             </form>
             <def>[sic] nice smell.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1008"
-             subtype="h2">Gnathasan-cainnte</ab>
+             subtype="h2">Gnathasan-cainnte</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1013">
             <form>
                <orth>Thug a shròn ann e</orth>
@@ -737,9 +737,9 @@
             </form>
             <def>He took it badly.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1036"
-             subtype="h1">AN LÀMH - Buillean air duine no leanabh, suathadh, ‘press’, ‘caress’ is mar sin</ab>
+            >AN LÀMH - Buillean air duine no leanabh, suathadh, ‘press’, ‘caress’ is mar sin</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1041">
             <form>
                <orth>clìbheag (f)</orth>
@@ -764,9 +764,9 @@
             </form>
             <def>I pressed it.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1076"
-             subtype="h1">AN CRIDHE - Faclan aig a bheil bointeanas sam bith ri fearg, eagal, gaol, miann, gràin agus mar sin air adhart</ab>
+            >AN CRIDHE - Faclan aig a bheil bointeanas sam bith ri fearg, eagal, gaol, miann, gràin agus mar sin air adhart</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanfaireachdain-d0e1081">
             <form>
                <orth>air a’ chaothach</orth>

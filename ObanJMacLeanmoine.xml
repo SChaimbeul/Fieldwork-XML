@@ -36,7 +36,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term>Peat-Working</term>
+               <term xml:lang="en">Peat-Working</term>
                <term>Mòine</term>
             </keywords>
          </textClass>
@@ -44,7 +44,7 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading" xml:id="Peat_ObanJMacLeanmoine-d0e35" subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+         <head xml:id="Peat_ObanJMacLeanmoine-d0e35">1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
          <entry xml:id="Peat_ObanJMacLeanmoine-idola201">
             <form>
                <orth>[note]</orth>
@@ -115,12 +115,12 @@
             </form>
             <def>peat cutting implement.</def>
          </entry>
-         <ab type="heading" xml:id="Peat_ObanJMacLeanmoine-d0e138" subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
-         <ab type="heading" xml:id="Peat_ObanJMacLeanmoine-d0e142" subtype="h1">3. A’ tiormachadh na mònach</ab>
-         <ab type="heading" xml:id="Peat_ObanJMacLeanmoine-d0e146" subtype="h1">4. A’ cruachadh na mònach</ab>
-         <ab type="heading" xml:id="Peat_ObanJMacLeanmoine-d0e150" subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
-         <ab type="heading" xml:id="Peat_ObanJMacLeanmoine-d0e154" subtype="h1">6. Seòrsachan mònach</ab>
-         <ab type="heading" xml:id="Peat_ObanJMacLeanmoine-d0e158" subtype="h1">7. Faclan eile</ab>
+         <head xml:id="Peat_ObanJMacLeanmoine-d0e138">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
+         <head xml:id="Peat_ObanJMacLeanmoine-d0e142">3. A’ tiormachadh na mònach</head>
+         <head xml:id="Peat_ObanJMacLeanmoine-d0e146">4. A’ cruachadh na mònach</head>
+         <head xml:id="Peat_ObanJMacLeanmoine-d0e150">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
+         <head xml:id="Peat_ObanJMacLeanmoine-d0e154">6. Seòrsachan mònach</head>
+         <head xml:id="Peat_ObanJMacLeanmoine-d0e158">7. Faclan eile</head>
       </body>
    </text>
 </TEI>

@@ -41,12 +41,12 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e31"
-             subtype="h1">Caoirich</ab>
-         <ab type="heading"
+            >Caoirich</head>
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e35"
-             subtype="h2">Comharran nan cluas</ab>
+             subtype="h2">Comharran nan cluas</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-idola186">
             <form>
                <orth>[note]</orth>

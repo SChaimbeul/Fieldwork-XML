@@ -29,7 +29,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term>Peat-Working</term>
+               <term xml:lang="en">Peat-Working</term>
                <term>Mòine</term>
             </keywords>
          </textClass>
@@ -37,9 +37,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Peat_SirEScottJuniorSecondarymoine-d0e23"
-             subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+            >1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
          <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e28">
             <form>
                <orth>mòinteach</orth>
@@ -191,9 +191,9 @@
             </form>
             <def>end (usually upper) of the bank.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_SirEScottJuniorSecondarymoine-d0e252"
-             subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+            >2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
          <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e257">
             <form>
                <orth>iarunn mònadh</orth>
@@ -424,9 +424,9 @@
             </form>
             <def>said when the cutter is too slow.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_SirEScottJuniorSecondarymoine-d0e595"
-             subtype="h1">3. A’ tiormachadh na mònach</ab>
+            >3. A’ tiormachadh na mònach</head>
          <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e600">
             <form>
                <orth>a’ togail (na mònadh)</orth>
@@ -463,9 +463,9 @@
             </form>
             <def>making medium-sized stacks on the banks and ‘slating’ the peats to throw off the rain, if the peats are being left on the banks for some time. Such stacks may sometimes be ‘thatched’ (air an tughadh) with turf (‘sgrathan’).</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_SirEScottJuniorSecondarymoine-d0e653"
-             subtype="h1">4. A’ cruachadh na mònach</ab>
+            >4. A’ cruachadh na mònach</head>
          <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e658">
             <form>
                <orth>a’ grìomhadh</orth>
@@ -496,9 +496,9 @@
             </form>
             <def>buttress of turfs or divots (ceapan) usually placed one on each corner of a stack. “Cuir sgoran rithe.”</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_SirEScottJuniorSecondarymoine-d0e702"
-             subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+            >5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
          <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e707">
             <form>
                <orth>ag aiseag</orth>
@@ -535,9 +535,9 @@
             </form>
             <def>rope used to support bag of peats being carried on the back. (cf. “gàdag ’s a dhà cheann sgaoilte”, metaphorically of assumptions based on dubious premises. Probably a rope of heather originally and if the two ends were ‘loose’ i.e. free to run, the rope would be unsafe.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_SirEScottJuniorSecondarymoine-d0e760"
-             subtype="h1">6. Seòrsachan mònach</ab>
+            >6. Seòrsachan mònach</head>
          <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e765">
             <form>
                <orth>mòine chruaidh dhubh etc.</orth>
@@ -568,9 +568,9 @@
             </form>
             <def>Tha a’ mhòine air a dhol ’na h-urpuill (leis an uisge). When peat is swollen with rain. Geàrr ’na h-urpuill i – cut it big. (Cf. urpull de bhalach – a big lump of a boy.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_SirEScottJuniorSecondarymoine-d0e809"
-             subtype="h1">7. Faclan eile</ab>
+            >7. Faclan eile</head>
          <entry xml:id="Peat_SirEScottJuniorSecondarymoine-d0e814">
             <form>
                <orth>obair iaruinn</orth>

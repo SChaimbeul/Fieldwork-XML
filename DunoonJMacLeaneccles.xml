@@ -42,9 +42,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e32"
-             subtype="h1">1. Various denominations</ab>
+            >1. Various denominations</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e37">
             <form>
                <orth>Prostanaich</orth>
@@ -55,21 +55,21 @@
                <orth>Catlaigich no Papanaich</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e48"
-             subtype="h1">2. Member of each of these denominations</ab>
+            >2. Member of each of these denominations</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-idola98">
             <form>
                <orth>[note]</orth>
             </form>
             <def>(as above)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e61"
-             subtype="h1">3. Different courts of the Presbyterian churches</ab>
-         <ab type="heading"
+            >3. Different courts of the Presbyterian churches</head>
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e65"
-             subtype="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</ab>
+            >4. Members of the clergy and office-bearers with the Presbyterian churches</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e70">
             <form>
                <orth>ministeir</orth>
@@ -80,9 +80,9 @@
                <orth>oillteir</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e81"
-             subtype="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</ab>
+            >5. Members of the clergy and office-bearers in the Roman Catholic church</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e86">
             <form>
                <orth>ard easbuig</orth>
@@ -109,29 +109,29 @@
             </form>
             <def>in last number of years used for canon.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e118"
-             subtype="h1">6. Holy Orders within the Roman Catholic church</ab>
+            >6. Holy Orders within the Roman Catholic church</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e123">
             <form>
                <orth>manach</orth>
             </form>
             <def>monk or missionary.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e131"
-             subtype="h1">7. Articles of dress or adornment</ab>
+            >7. Articles of dress or adornment</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e136">
             <form>
                <orth>culaidh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e141"
-             subtype="h1">8. Church building and churchyard</ab>
-         <ab type="heading"
+            >8. Church building and churchyard</head>
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e145"
-             subtype="h1">9. Church furniture and ornaments</ab>
+            >9. Church furniture and ornaments</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e150">
             <form>
                <orth>altair</orth>
@@ -205,9 +205,9 @@
             </form>
             <def>priest’s due (stipend).</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e248"
-             subtype="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</ab>
+            >10. Different services during the week, feast days, sacraments, Sunday school etc.</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e253">
             <form>
                <orth>An Aireann</orth>
@@ -226,9 +226,9 @@
             </form>
             <def>A Chonair Mhoire agus Beannachadh na Sacramaid.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e279"
-             subtype="h2">[blank]</ab>
+             subtype="h2">[blank]</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e284">
             <form>
                <orth>Lathaichean Feile</orth>
@@ -295,9 +295,9 @@
             </form>
             <def>Immaculate Conception.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e382"
-             subtype="h2">Days of Devotion</ab>
+             subtype="h2">Days of Devotion</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e387">
             <form>
                <orth>La ’Ill Moire nan coinnlean</orth>
@@ -320,17 +320,17 @@
             </form>
             <def>etc. etc.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e416"
-             subtype="h2">Sacraments</ab>
+             subtype="h2">Sacraments</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e421">
             <form>
                <orth>Baisteach etc.</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e426"
-             subtype="h2">[blank]</ab>
+             subtype="h2">[blank]</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e431">
             <form>
                <orth>urnaigh</orth>
@@ -346,9 +346,9 @@
                <orth>am Beannachadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e448"
-             subtype="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</ab>
+            >11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e453">
             <form>
                <orth>Dia</orth>
@@ -400,9 +400,9 @@
                <orth>Dia nan gràs</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e515"
-             subtype="h2">[blank]</ab>
+             subtype="h2">[blank]</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e520">
             <form>
                <orth>An Tighearna</orth>
@@ -438,9 +438,9 @@
                <orth>An Darna Pearsa</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e561"
-             subtype="h2">[the Holy Ghost]</ab>
+             subtype="h2">[the Holy Ghost]</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e566">
             <form>
                <orth>A Spiorad Naomh</orth>
@@ -451,9 +451,9 @@
                <orth>An Treas Pearsa</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e577"
-             subtype="h2">[the Trinity]</ab>
+             subtype="h2">[the Trinity]</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e582">
             <form>
                <orth>An Trionaid</orth>
@@ -466,9 +466,9 @@
             </form>
             <def>The Trinity.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e599"
-             subtype="h2">[the Blessed Virgin]</ab>
+             subtype="h2">[the Blessed Virgin]</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e604">
             <form>
                <orth>Moire Mhathar</orth>
@@ -484,9 +484,9 @@
                <orth>Oigh nan Oighean</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e621"
-             subtype="h2">[the angels]</ab>
+             subtype="h2">[the angels]</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e626">
             <form>
                <orth>na h-ainglean</orth>
@@ -498,9 +498,9 @@
             </form>
             <def>Guardian angel.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e640"
-             subtype="h2">[Heaven]</ab>
+             subtype="h2">[Heaven]</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e645">
             <form>
                <orth>Neamh</orth>
@@ -516,17 +516,17 @@
                <orth>an Soisgeul</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e662"
-             subtype="h2">[blank]</ab>
+             subtype="h2">[blank]</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e667">
             <form>
                <orth>Urnaigh an Tighearna no Phaidir</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e672"
-             subtype="h2">[blank]</ab>
+             subtype="h2">[blank]</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e677">
             <form>
                <orth>Comharra na Croise</orth>
@@ -583,12 +583,12 @@
             </form>
             <def>etc.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e754"
-             subtype="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</ab>
-         <ab type="heading"
+            >12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</head>
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e758"
-             subtype="h2">[Satan]</ab>
+             subtype="h2">[Satan]</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e763">
             <form>
                <orth>Sàtan</orth>
@@ -679,9 +679,9 @@
             </form>
             <def>Some older people associated the name Eoghan (Hugh) with the devil but I could never find out why.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e897"
-             subtype="h2">[Hell]</ab>
+             subtype="h2">[Hell]</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e902">
             <form>
                <orth>Ireann</orth>
@@ -700,18 +700,18 @@
             </form>
             <def>Hell.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e928"
-             subtype="h2">[Purgatory]</ab>
+             subtype="h2">[Purgatory]</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e933">
             <form>
                <orth>Purgadair</orth>
             </form>
             <def>Purgatory.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e941"
-             subtype="h2">[Limbo]</ab>
+             subtype="h2">[Limbo]</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e946">
             <form>
                <orth>Ireann nan Athraichean Naomh</orth>
@@ -724,9 +724,9 @@
             </form>
             <def>Limbo.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e963"
-             subtype="h2">[the different kinds of sin]</ab>
+             subtype="h2">[the different kinds of sin]</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e968">
             <form>
                <orth>am peacadh ginneadh</orth>
@@ -757,9 +757,9 @@
             </form>
             <def>(Numerous others listed in Gaelic Catechism, as uamhar, sannd etc. etc.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e1012"
-             subtype="h2">Evil curses</ab>
+             subtype="h2">Evil curses</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e1017">
             <form>
                <orth>Aire na h-Aoine ort.</orth>
@@ -790,9 +790,9 @@
             </form>
             <def>May the devil devour you.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e1061"
-             subtype="h2">Benedictions</ab>
+             subtype="h2">Benedictions</head>
          <entry xml:id="Ecclesiastical_DunoonJMacLeaneccles-d0e1066">
             <form>
                <orth>Dia gad shabhaladh.</orth>

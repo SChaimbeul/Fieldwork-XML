@@ -42,9 +42,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e32"
-             subtype="h1">1. Lìon-mór</ab>
+            >1. Lìon-mór</head>
          <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e37">
             <form>
                <orth>sgul (m)</orth>
@@ -63,12 +63,12 @@
             </form>
             <def>lugworms.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e63"
-             subtype="h1">2. Lìon-beag</ab>
-         <ab type="heading"
+            >2. Lìon-beag</head>
+         <head
              xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e67"
-             subtype="h1">3. Lìon-sgadanach</ab>
+            >3. Lìon-sgadanach</head>
          <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e72">
             <form>
                <orth>lìon-sgadain (m)</orth>
@@ -99,12 +99,12 @@
             </form>
             <def>cork.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e116"
-             subtype="h1">4. Lìon sam bith eile</ab>
-         <ab type="heading"
+            >4. Lìon sam bith eile</head>
+         <head
              xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e120"
-             subtype="h1">5. Duirgh, slatan, driamlaichean</ab>
+            >5. Duirgh, slatan, driamlaichean</head>
          <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e125">
             <form>
                <orth>doraghach</orth>
@@ -141,9 +141,9 @@
             </form>
             <def>line for lythe.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e178"
-             subtype="h1">6. Acfhuinn sam bith eile</ab>
+            >6. Acfhuinn sam bith eile</head>
       </body>
    </text>
 </TEI>

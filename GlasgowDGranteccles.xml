@@ -42,9 +42,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_GlasgowDGranteccles-d0e32"
-             subtype="h1">1. Various denominations</ab>
+            >1. Various denominations</head>
          <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e37">
             <form>
                <orth>An Eaglais Stéi(dhich)te</orth>
@@ -75,9 +75,9 @@
             </form>
             <def>The R C Church.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_GlasgowDGranteccles-d0e81"
-             subtype="h1">2. Member of each of these denominations</ab>
+            >2. Member of each of these denominations</head>
          <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e86">
             <form>
                <orth>Saoseudar</orth>
@@ -88,9 +88,9 @@
                <orth>Pàpanach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_GlasgowDGranteccles-d0e97"
-             subtype="h1">3. Different courts of the Presbyterian churches</ab>
+            >3. Different courts of the Presbyterian churches</head>
          <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e102">
             <form>
                <orth>cléir (m)</orth>
@@ -103,9 +103,9 @@
             </form>
             <def>the session.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_GlasgowDGranteccles-d0e119"
-             subtype="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</ab>
+            >4. Members of the clergy and office-bearers with the Presbyterian churches</head>
          <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e124">
             <form>
                <orth>minisdear</orth>
@@ -131,18 +131,18 @@
                <orth>cléireach an t-seisein</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_GlasgowDGranteccles-d0e153"
-             subtype="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</ab>
-         <ab type="heading"
+            >5. Members of the clergy and office-bearers in the Roman Catholic church</head>
+         <head
              xml:id="Ecclesiastical_GlasgowDGranteccles-d0e157"
-             subtype="h1">6. Holy Orders within the Roman Catholic church</ab>
-         <ab type="heading"
+            >6. Holy Orders within the Roman Catholic church</head>
+         <head
              xml:id="Ecclesiastical_GlasgowDGranteccles-d0e161"
-             subtype="h1">7. Articles of dress or adornment</ab>
-         <ab type="heading"
+            >7. Articles of dress or adornment</head>
+         <head
              xml:id="Ecclesiastical_GlasgowDGranteccles-d0e165"
-             subtype="h1">8. Church building and churchyard</ab>
+            >8. Church building and churchyard</head>
          <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e170">
             <form>
                <orth>an leatran  (m)</orth>
@@ -156,18 +156,18 @@
             </form>
             <def>elders’ enclosure.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_GlasgowDGranteccles-d0e187"
-             subtype="h1">9. Church furniture and ornaments</ab>
+            >9. Church furniture and ornaments</head>
          <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e192">
             <form>
                <orth>a’ chùbaid</orth>
             </form>
             <def>the pulpit.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_GlasgowDGranteccles-d0e200"
-             subtype="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</ab>
+            >10. Different services during the week, feast days, sacraments, Sunday school etc.</head>
          <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e205">
             <form>
                <orth>coinneamh-ùrnuigh</orth>
@@ -186,9 +186,9 @@
             </form>
             <def>Fast Day, Thursday of communion.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_GlasgowDGranteccles-d0e231"
-             subtype="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</ab>
+            >11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</head>
          <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e236">
             <form>
                <orth>Dia</orth>
@@ -266,9 +266,9 @@
                <orth>Urnuigh an Tighearna</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_GlasgowDGranteccles-d0e340"
-             subtype="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</ab>
+            >12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</head>
          <entry xml:id="Ecclesiastical_GlasgowDGranteccles-d0e345">
             <form>
                <orth>Sàtan</orth>

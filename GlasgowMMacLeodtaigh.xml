@@ -46,9 +46,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e40"
-             subtype="h1">1. An stéidh is am balla</ab>
+            >1. An stéidh is am balla</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-idola188">
             <form>
                <orth>[note]</orth>
@@ -56,9 +56,9 @@
             </form>
             <def>[NOTES: the following appears on an additional slip of paper stapled between 5. and 7. It may be a part of the missing page.] Bha tiuighead mhór anns na ballachan aig 1. 2. 3. Grunn mór, mór throighean. Bhiodh fosgalan aig dorus feadhainn de na seann thighean airson fasgaidh agus airson ruma. Cha chreid mi nach ann anns an fhosgalan a bhiodh a’ bhrà aca air an taobh siar ’s an eilean. Aig feadhainn dhiubh có dhiù.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e53"
-             subtype="h1">2. Am mullach ’s an tughadh</ab>
+            >2. Am mullach ’s an tughadh</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e58">
             <form>
                <orth>connlach (I)</orth>
@@ -484,9 +484,9 @@
             </form>
             <def>Bhà. ‘Bunan-dubha’ againn mar aig M.McL.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e683"
-             subtype="h1">3. Dorsan is uinneagan</ab>
+            >3. Dorsan is uinneagan</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e688">
             <form>
                <orth>dorus an tigh’ mhóir</orth>
@@ -521,12 +521,12 @@
         <graphic url="GlasgowMMacLeodtighillust3.jpg" width="300px"/>
             </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e731"
-             subtype="h1">4. An broinn an taighe: na sèamraichean</ab>
-         <ab type="heading"
+            >4. An broinn an taighe: na sèamraichean</head>
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e735"
-             subtype="h2">Na seòmraichean:</ab>
+             subtype="h2">Na seòmraichean:</head>
          <figure>
             <graphic url="GlasgowMMacLeodtighillust4.jpg" width="300px"/>
          </figure>
@@ -559,9 +559,9 @@
 	    <graphic url="GlasgowMMacLeodtighillust5.jpg" width="300px"/>
 	           </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e779"
-             subtype="h1">5. An t-àite-teine</ab>
+            >5. An t-àite-teine</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e784">
             <form>
                <orth>an teinntean (E)</orth>
@@ -597,9 +597,9 @@
                <orth>sgiorta (hobble) (I)</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e829"
-             subtype="h1">6. Airneis an taighe</ab>
+            >6. Airneis an taighe</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e834">
             <form>
                <orth>Aig an teine</orth>
@@ -698,9 +698,9 @@
                <orth>sgàthan (E)</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e966"
-             subtype="h1">7. Sobhal, bàthach, no bothanan sam bith eile</ab>
+            >7. Sobhal, bàthach, no bothanan sam bith eile</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodtaigh-d0e971">
             <form>
                <orth>sobhal (E)</orth>

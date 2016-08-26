@@ -42,15 +42,15 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e32"
-             subtype="h1">1. Various denominations</ab>
-         <ab type="heading"
+            >1. Various denominations</head>
+         <head
              xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e36"
-             subtype="h1">2. Member of each of these denominations</ab>
-         <ab type="heading"
+            >2. Member of each of these denominations</head>
+         <head
              xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e40"
-             subtype="h1">3. Different courts of the Presbyterian churches</ab>
+            >3. Different courts of the Presbyterian churches</head>
          <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e45">
             <form>
                <orth>seasion</orth>
@@ -62,9 +62,9 @@
             </form>
             <def>presbytery.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e59"
-             subtype="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</ab>
+            >4. Members of the clergy and office-bearers with the Presbyterian churches</head>
          <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e64">
             <form>
                <orth>minister</orth>
@@ -90,9 +90,9 @@
                <orth>maor eaglais</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e93"
-             subtype="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</ab>
+            >5. Members of the clergy and office-bearers in the Roman Catholic church</head>
          <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e98">
             <form>
                <orth>easpaig</orth>
@@ -103,15 +103,15 @@
                <orth>sagart</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e109"
-             subtype="h1">6. Holy Orders within the Roman Catholic church</ab>
-         <ab type="heading"
+            >6. Holy Orders within the Roman Catholic church</head>
+         <head
              xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e113"
-             subtype="h1">7. Articles of dress or adornment</ab>
-         <ab type="heading"
+            >7. Articles of dress or adornment</head>
+         <head
              xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e117"
-             subtype="h1">8. Church building and churchyard</ab>
+            >8. Church building and churchyard</head>
          <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e122">
             <form>
                <orth>eaglais</orth>
@@ -127,18 +127,18 @@
                <orth>tigh seasian</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e139"
-             subtype="h1">9. Church furniture and ornaments</ab>
+            >9. Church furniture and ornaments</head>
          <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e144">
             <form>
                <orth>crannaig</orth>
             </form>
             <def>pulpit.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e152"
-             subtype="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</ab>
+            >10. Different services during the week, feast days, sacraments, Sunday school etc.</head>
          <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e157">
             <form>
                <orth>la traisg</orth>
@@ -182,9 +182,9 @@
                <orth>connaimh tigh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e213"
-             subtype="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</ab>
+            >11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</head>
          <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e218">
             <form>
                <orth>Dia</orth>
@@ -235,9 +235,9 @@
                <orth>uarnaigh an Tighearna</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e277"
-             subtype="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</ab>
+            >12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</head>
          <entry xml:id="Ecclesiastical_TomnafeannaigAMacEacherneccles-d0e282">
             <form>
                <orth>diabhol, taibhistear</orth>

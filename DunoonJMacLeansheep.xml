@@ -42,12 +42,12 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_DunoonJMacLeansheep-d0e34"
-             subtype="h1">1. Different stages in the growth of sheep (female)</ab>
-         <ab type="heading"
+            >1. Different stages in the growth of sheep (female)</head>
+         <head
              xml:id="CattleandSheep_DunoonJMacLeansheep-d0e38"
-             subtype="h2">(female)</ab>
+             subtype="h2">(female)</head>
          <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e43">
             <form>
                <orth>ogan</orth>
@@ -83,9 +83,9 @@
                <orth>croca or crocsa</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_DunoonJMacLeansheep-d0e84"
-             subtype="h2">(male)</ab>
+             subtype="h2">(male)</head>
          <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e89">
             <form>
                <orth>ogan</orth>
@@ -117,20 +117,20 @@
             </form>
             <def>two year old female. Heard this word in the Mallaig area and [it] is equivalent to ‘othaisg’ in Barra.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_DunoonJMacLeansheep-d0e127"
-             subtype="h1">2. Different stages in the growth of sheep (male)</ab>
-         <ab type="heading"
+            >2. Different stages in the growth of sheep (male)</head>
+         <head
              xml:id="CattleandSheep_DunoonJMacLeansheep-d0e131"
-             subtype="h1">3. Different stages in the growth of the castrated male</ab>
+            >3. Different stages in the growth of the castrated male</head>
          <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e136">
             <form>
                <orth>molt</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_DunoonJMacLeansheep-d0e141"
-             subtype="h1">4. Sheep’s appearance</ab>
+            >4. Sheep’s appearance</head>
          <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e146">
             <form>
                <orth>caora bhan</orth>
@@ -161,9 +161,9 @@
                <orth>caora Nollag</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_DunoonJMacLeansheep-d0e181"
-             subtype="h1">5. Miscellaneous</ab>
+            >5. Miscellaneous</head>
          <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e186">
             <form>
                <orth>piatan</orth>
@@ -176,9 +176,9 @@
             </form>
             <def>partly castrated.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_DunoonJMacLeansheep-d0e203"
-             subtype="h1">6. Feeding and grazing</ab>
+            >6. Feeding and grazing</head>
          <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e208">
             <form>
                <orth>rathad nan caorach</orth>
@@ -189,9 +189,9 @@
                <orth>frith-rathad</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_DunoonJMacLeansheep-d0e219"
-             subtype="h1">7. Handling of sheep</ab>
+            >7. Handling of sheep</head>
          <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e224">
             <form>
                <orth>cartadh a bhaile</orth>
@@ -260,9 +260,9 @@
             </form>
             <def>watching that no sheep come in through the hill fence after the crops are sown.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_DunoonJMacLeansheep-d0e310"
-             subtype="h2">[commands given to a sheep-dog]</ab>
+             subtype="h2">[commands given to a sheep-dog]</head>
          <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e315">
             <form>
                <orth>Beir orra</orth>
@@ -298,9 +298,9 @@
                <orth>Sios</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_DunoonJMacLeansheep-d0e356"
-             subtype="h1">8. Apparatus</ab>
+            >8. Apparatus</head>
          <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e361">
             <form>
                <orth>ceangal</orth>
@@ -331,12 +331,12 @@
             </form>
             <def>[See udalan.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_DunoonJMacLeansheep-d0e398"
-             subtype="h1">9. Diseases</ab>
-         <ab type="heading"
+            >9. Diseases</head>
+         <head
              xml:id="CattleandSheep_DunoonJMacLeansheep-d0e402"
-             subtype="h2">diseases of the skin affecting the wool; warts, swellings, spots; ticks found in wool, worms in the skin</ab>
+             subtype="h2">diseases of the skin affecting the wool; warts, swellings, spots; ticks found in wool, worms in the skin</head>
          <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e407">
             <form>
                <orth>mial-chaorach</orth>
@@ -352,9 +352,9 @@
                <orth>a chuileag</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_DunoonJMacLeansheep-d0e424"
-             subtype="h2">diseases of the head, neck and throat</ab>
+             subtype="h2">diseases of the head, neck and throat</head>
          <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e429">
             <form>
                <orth>at-sclopan</orth>
@@ -367,17 +367,17 @@
             </form>
             <def>blindness.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_DunoonJMacLeansheep-d0e446"
-             subtype="h2">diseases of the internal organs including digestive upsets</ab>
+             subtype="h2">diseases of the internal organs including digestive upsets</head>
          <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e451">
             <form>
                <orth>spùt no bhuinneach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_DunoonJMacLeansheep-d0e456"
-             subtype="h1">10. Parts of the body</ab>
+            >10. Parts of the body</head>
          <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e461">
             <form>
                <orth>ceann</orth>
@@ -465,17 +465,17 @@
                <orth>geir</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_DunoonJMacLeansheep-d0e568"
-             subtype="h1">11. Lambing</ab>
+            >11. Lambing</head>
          <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e573">
             <form>
                <orth>reathachas</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_DunoonJMacLeansheep-d0e578"
-             subtype="h1">12. Miscellaneous</ab>
+            >12. Miscellaneous</head>
          <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e583">
             <form>
                <orth>caora ghibeach</orth>

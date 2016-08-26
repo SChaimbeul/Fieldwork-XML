@@ -30,9 +30,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e14"
-             subtype="h1">1. Maorach</ab>
+            >1. Maorach</head>
          <entry xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e19">
             <form>
                <orth>fiasgain</orth>
@@ -92,12 +92,12 @@
             </form>
             <def>clams.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e105"
-             subtype="h1">2. A’ tional maorach</ab>
-         <ab type="heading"
+            >2. A’ tional maorach</head>
+         <head
              xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e109"
-             subtype="h1">3. Beathaichean eile a gheibhear ’sa’ chladach</ab>
+            >3. Beathaichean eile a gheibhear ’sa’ chladach</head>
       </body>
    </text>
 </TEI>

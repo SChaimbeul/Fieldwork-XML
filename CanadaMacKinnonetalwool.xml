@@ -52,9 +52,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Canada_CanadaMacKinnonetalwool-d0e46"
-             subtype="h1">1. Raw wool</ab>
+            >1. Raw wool</head>
          <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e51">
             <form>
                <orth>clòimh</orth>
@@ -79,18 +79,18 @@
             </form>
             <def>tuft of wool.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Canada_CanadaMacKinnonetalwool-d0e86"
-             subtype="h1">2. Oil or grease put on wool before carding</ab>
+            >2. Oil or grease put on wool before carding</head>
          <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e91">
             <form>
                <orth>smearadh</orth>
             </form>
             <def>putting oil on wool.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Canada_CanadaMacKinnonetalwool-d0e99"
-             subtype="h1">3. Carding</ab>
+            >3. Carding</head>
          <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e104">
             <form>
                <orth>cardadh</orth>
@@ -116,9 +116,9 @@
             </form>
             <def>roll of wool.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Canada_CanadaMacKinnonetalwool-d0e139"
-             subtype="h1">4. Spinning</ab>
+            >4. Spinning</head>
          <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e144">
             <form>
                <orth>snìomh</orth>
@@ -149,9 +149,9 @@
             </form>
             <def>thick thread.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Canada_CanadaMacKinnonetalwool-d0e188"
-             subtype="h1">5. Parts of the spinning wheel</ab>
+            >5. Parts of the spinning wheel</head>
          <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e193">
             <form>
                <orth>cuidheall</orth>
@@ -231,9 +231,9 @@
             </form>
             <def>distaff.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Canada_CanadaMacKinnonetalwool-d0e309"
-             subtype="h1">6. Yarn and associated apparatus</ab>
+            >6. Yarn and associated apparatus</head>
          <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e314">
             <form>
                <orth>cearsla ~ ceirsle</orth>
@@ -296,9 +296,9 @@
             </form>
             <def>bar with hooks to shift thread.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Canada_CanadaMacKinnonetalwool-d0e400"
-             subtype="h1">7. Dyeing</ab>
+            >7. Dyeing</head>
          <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e405">
             <form>
                <orth>dathadh</orth>
@@ -323,21 +323,21 @@
             </form>
             <def>urine.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Canada_CanadaMacKinnonetalwool-d0e440"
-             subtype="h1">8. Washing after dyeing</ab>
-         <ab type="heading"
+            >8. Washing after dyeing</head>
+         <head
              xml:id="Canada_CanadaMacKinnonetalwool-d0e444"
-             subtype="h1">9. Warping</ab>
+            >9. Warping</head>
          <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e449">
             <form>
                <orth>crann dealbh</orth>
             </form>
             <def>warping frame.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Canada_CanadaMacKinnonetalwool-d0e457"
-             subtype="h1">10. Beaming and tying</ab>
+            >10. Beaming and tying</head>
          <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e462">
             <form>
                <orth>riaghailt</orth>
@@ -350,9 +350,9 @@
             </form>
             <def>starch for warp threads.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Canada_CanadaMacKinnonetalwool-d0e479"
-             subtype="h1">11. Weaving</ab>
+            >11. Weaving</head>
          <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e484">
             <form>
                <orth>figheadaireachd</orth>
@@ -377,9 +377,9 @@
             </form>
             <def>cloth.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Canada_CanadaMacKinnonetalwool-d0e519"
-             subtype="h1">12. Parts of the weaving loom</ab>
+            >12. Parts of the weaving loom</head>
          <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e524">
             <form>
                <orth>beart</orth>
@@ -434,9 +434,9 @@
             </form>
             <def>wood (us. cattail) which can be cored to make bobbin.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Canada_CanadaMacKinnonetalwool-d0e604"
-             subtype="h1">13. Finishing</ab>
+            >13. Finishing</head>
          <entry xml:id="Canada_CanadaMacKinnonetalwool-idola56">
             <form>
                <orth>[washing cloth]</orth>

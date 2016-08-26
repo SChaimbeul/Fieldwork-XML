@@ -45,12 +45,12 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodland-d0e37"
-             subtype="h1">Mountains, hills</ab>
-         <ab type="heading"
+            >Mountains, hills</head>
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodland-d0e41"
-             subtype="h1">Beanntan agus Cnuic</ab>
+            >Beanntan agus Cnuic</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodland-d0e46">
             <form>
                <orth>[beinn]</orth>
@@ -207,9 +207,9 @@
             </form>
             <def>Faic ‘ùidh’ ’s na faclairean.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodland-d0e271"
-             subtype="h1">Moorland features</ab>
+            >Moorland features</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodland-d0e276">
             <form>
                <orth>mòinteach (I)</orth>
@@ -421,9 +421,9 @@
             </form>
             <def>(Fuaimnich mar sliasaid.) Tha fear dhiubh seo aig loch aig Aird Uige. ’Se seòrsa de chladach tioram – pìos mór, mór dheth – a th’ann. Cladach agus morghan, agus smait gainmheach. Shuas aig Bréidhnis tha Druim a’ Mhiasaid. Chan eil eòlas sam bith agam de an seòrsa àite a th’ann.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodland-d0e565"
-             subtype="h1">Coastal features</ab>
+            >Coastal features</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodland-d0e570">
             <form>
                <orth>camus (E)</orth>
@@ -609,9 +609,9 @@
             </form>
             <def>Chan eil cinnt sam bith agam c’arson a tha an t-ainm ‘ruith-fhaodhail’. [See faodhail]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodland-d0e818"
-             subtype="h1">Rivers, burns</ab>
+            >Rivers, burns</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodland-d0e823">
             <form>
                <orth>abhainn</orth>
@@ -675,12 +675,12 @@
             </form>
             <def>Tha seo againn airson fearann a stigh aig a’ bhaile. Cha chuala mi tric a riamh e airson fearann a muigh ’s a’ mhòintich. Tha dhà dhiubh seo faisg air mansa Bhaile na Cille. (Faic na faclairean.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodland-d0e908"
-             subtype="h1">Types of beach</ab>
-         <ab type="heading"
+            >Types of beach</head>
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodland-d0e912"
-             subtype="h1">Sea-pools, waves</ab>
+            >Sea-pools, waves</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodland-d0e917">
             <form>
                <orth>lòn (E)</orth>
@@ -732,9 +732,9 @@
             </form>
             <def>“Anns an t-suab.” Suab: na tonnan a thilleas a mach bho an chreig as dèidh na tonnan móra bualadh oirre. Tillidh iad a mach, ’s théid iad a null ’s a nall.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodland-d0e988"
-             subtype="h1">Facail ann an ainmeannan</ab>
+            >Facail ann an ainmeannan</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodland-d0e993">
             <form>
                <orth>gnùig</orth>

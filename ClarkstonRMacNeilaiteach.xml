@@ -43,9 +43,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e36"
-             subtype="h1">1. Na togalaichean: sobhal, bàthach is mar sin, agus ainm gach pàirt dhiubh</ab>
+            >1. Na togalaichean: sobhal, bàthach is mar sin, agus ainm gach pàirt dhiubh</head>
          <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idola1">
             <form>
                <orth>sparr</orth>
@@ -125,12 +125,12 @@
             <def>Ann an sobhal – fosgladh anns a’ bhalla aig a’ cheann mu choinneamh an doruis; mu ochd òirlich dheug gach taobh gu sruth gaoithe a dhèanamh; seo airson càthadh.<graphic url="ClarkstonRMacNeilaiteachillust3.jpg" width="300px"/>
             </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e144"
-             subtype="h1">2. A’ mathachadh no a’ leasachadh na talmhainn</ab>
-         <ab type="heading"
+            >2. A’ mathachadh no a’ leasachadh na talmhainn</head>
+         <head
              xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e148"
-             subtype="h1">3. A’ treabhadh no a’ ruamhar: an crann agus ainm gach pàirt dheth</ab>
+            >3. A’ treabhadh no a’ ruamhar: an crann agus ainm gach pàirt dheth</head>
          <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp112094296">
             <form>
                <orth>crann</orth>
@@ -144,9 +144,9 @@
             <def>
                <graphic url="ClarkstonRMacNeilaiteachillust4.jpg" width="300px"/>croisein, cas, claigeann.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e171"
-             subtype="h1">4. Innealan beaga leithid spaid, gràp, ràcan is mar sin</ab>
+            >4. Innealan beaga leithid spaid, gràp, ràcan is mar sin</head>
          <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2419952">
             <form>
                <orth>sgrìoban</orth>
@@ -161,9 +161,9 @@
             <def>gu dèanamh nan toll anns an cuirte am buntàta. <graphic url="ClarkstonRMacNeilaiteachillust6.jpg" width="150px"/>
             </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e195"
-             subtype="h1">5. Acfhuinn an eich airson gach seòrsa obair</ab>
+            >5. Acfhuinn an eich airson gach seòrsa obair</head>
          <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2498752">
             <form>
                <orth>srian</orth>
@@ -240,12 +240,12 @@
                <orth>dol fon bhroinn</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e303"
-             subtype="h1">6. A’ cur an t-sìl</ab>
-         <ab type="heading"
+            >6. A’ cur an t-sìl</head>
+         <head
              xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e307"
-             subtype="h1">7. A’ buain agus a’ tiormachadh an arbhair no an fheòir</ab>
+            >7. A’ buain agus a’ tiormachadh an arbhair no an fheòir</head>
          <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2524960">
             <form>
                <orth>a’ dèanamh bhannan</orth>
@@ -299,9 +299,9 @@
             <def>mar chruaich ach air feur agus air cumadh. Cruach agus dais air an gleidheadh le sioman agus clachan acraich. <graphic url="ClarkstonRMacNeilaiteachillust8.jpg" width="300px"/>
             </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e387"
-             subtype="h1">8. A’ togail a’ bhuntàta</ab>
+            >8. A’ togail a’ bhuntàta</head>
          <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2539504">
             <form>
                <orth>bùthag</orth>
@@ -309,12 +309,12 @@
             <def>
                <graphic url="ClarkstonRMacNeilaiteachillust9.jpg" width="500px"/>toll san talamh air a’ chumadh seo air a lìnigeadh le comhlaich agus air a còmhdach le uir agus le pluic neo sgrathan. Mar bu trice air a dèanamh air an talamh bhuntàta no glè fhaisg air gus am buntàta a ghleidheadh gus an cuirte feum air.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e401"
-             subtype="h1">9. A’ tasgadh an arbhair agus a’ bhuntàta</ab>
-         <ab type="heading"
+            >9. A’ tasgadh an arbhair agus a’ bhuntàta</head>
+         <head
              xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e405"
-             subtype="h1">10. A’ bualadh ’s a’ criathradh</ab>
+            >10. A’ bualadh ’s a’ criathradh</head>
          <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2542960">
             <form>
                <orth>sùisde</orth>
@@ -333,21 +333,21 @@
             </form>
             <def>còmhdach as fhaide a-muigh air an t-sìol.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e436"
-             subtype="h1">11. A’ bleith an t-sìl</ab>
-         <ab type="heading"
+            >11. A’ bleith an t-sìl</head>
+         <head
              xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e440"
-             subtype="h1">12. Ainmean a chleachdar ri earrainn fearainn</ab>
+            >12. Ainmean a chleachdar ri earrainn fearainn</head>
          <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2549296">
             <form>
                <orth>earann</orth>
             </form>
             <def>pìos no pìosan de fhearann comhla ri pàirt ann am mòr-fhearann (common grazing). Nas lugha feum airson àiteach no ionaltradh na croit.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_ClarkstonRMacNeilaiteach-d0e453"
-             subtype="h1">13. Faclan sam bith eile</ab>
+            >13. Faclan sam bith eile</head>
          <entry xml:id="AOHenley_ClarkstonRMacNeilaiteach-idp2551672">
             <form>
                <orth>sùgan</orth>

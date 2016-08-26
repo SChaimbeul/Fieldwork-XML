@@ -43,12 +43,12 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e35"
-             subtype="h1">A. Plant medicines</ab>
-         <ab type="heading"
+            >A. Plant medicines</head>
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e39"
-             subtype="h1">1. Diseases in the head area</ab>
+            >1. Diseases in the head area</head>
          <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e44">
             <form>
                <orth>pionnd</orth>
@@ -61,18 +61,18 @@
             </form>
             <def>pepper. Disease: sore tonsils. How prepared: put on tonsils with spoon-handle. Sources of information: parents and people around.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e61"
-             subtype="h2">2. Respiratory diseases</ab>
+             subtype="h2">2. Respiratory diseases</head>
          <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e66">
             <form>
                <orth>pionnd</orth>
             </form>
             <def>mint. Disease: asthma. How prepared: mint-tea.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e74"
-             subtype="h2">3. The blood</ab>
+             subtype="h2">3. The blood</head>
          <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e79">
             <form>
                <orth>cuach Phàdraig</orth>
@@ -85,42 +85,42 @@
             </form>
             <def>sphagnum moss. Disease: burst blister. Blister caused by back of shoe rubbing back of foot. Chafing between shoe and back of shoe [sic], after blister had burst and left open wound. How prepared: kept wet, and plaster on top.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e96"
-             subtype="h2">4. The bowels and stomach</ab>
+             subtype="h2">4. The bowels and stomach</head>
          <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e101">
             <form>
                <orth>pionnd</orth>
             </form>
             <def>mint. Disease: ruadh (rud sam bith a tha ceàrr air an stamaig). How prepared: tè.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e109"
-             subtype="h2">5. Bladder and kidneys</ab>
-         <ab type="heading"
+             subtype="h2">5. Bladder and kidneys</head>
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e113"
-             subtype="h2">6. Other internal organs</ab>
-         <ab type="heading"
+             subtype="h2">6. Other internal organs</head>
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e117"
-             subtype="h2">7. Gynaecological complaints</ab>
-         <ab type="heading"
+             subtype="h2">7. Gynaecological complaints</head>
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e121"
-             subtype="h2">8. Skin diseases not already mentioned</ab>
-         <ab type="heading"
+             subtype="h2">8. Skin diseases not already mentioned</head>
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e125"
-             subtype="h2">9. Acute diseases</ab>
-         <ab type="heading"
+             subtype="h2">9. Acute diseases</head>
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e129"
-             subtype="h2">10. The skeleton and muscles</ab>
+             subtype="h2">10. The skeleton and muscles</head>
          <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e134">
             <form>
                <orth>an fheanndag</orth>
             </form>
             <def>nettle. Disease: rheumatics. How prepared: sting part affected.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e142"
-             subtype="h1">B. Treatments which did not involve the use of plants</ab>
+            >B. Treatments which did not involve the use of plants</head>
          <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e147">
             <form>
                <orth>cnàimh bod an dòbhrain</orth>
@@ -181,24 +181,24 @@
             </form>
             <def>rubbed on strained muscles.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e236"
-             subtype="h1">C. Veterinary medicine</ab>
+            >C. Veterinary medicine</head>
          <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e241">
             <form>
                <orth>[faochagan]</orth>
             </form>
             <def>faochagan beaga glas gam pronnadh – for constipation in cattle.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e249"
-             subtype="h1">D. What do you think is the English name for the plants called in Gaelic:</ab>
-         <ab type="heading"
+            >D. What do you think is the English name for the plants called in Gaelic:</head>
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e253"
-             subtype="h1">E. Any further information about your sources</ab>
-         <ab type="heading"
+            >E. Any further information about your sources</head>
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e257"
-             subtype="h1">F. Other information not covered above</ab>
+            >F. Other information not covered above</head>
       </body>
    </text>
 </TEI>

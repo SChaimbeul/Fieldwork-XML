@@ -44,9 +44,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_GlasgowDJMacVicarlobster-d0e32"
-             subtype="h1">The Lobster</ab>
+            >The Lobster</head>
          <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109754168">
             <form>
                <orth>firionn</orth>
@@ -95,9 +95,9 @@
             </form>
             <def>a lobster found in crevices near the shore after casting its shell in summertime.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_GlasgowDJMacVicarlobster-d0e108"
-             subtype="h1">The Creel</ab>
+            >The Creel</head>
          <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109776776">
             <form>
                <orth>sgùill</orth>
@@ -158,9 +158,9 @@
             </form>
             <def>Fleet of creels, when attached to a single line: creels placed individually and not in a line as such.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_GlasgowDJMacVicarlobster-d0e202"
-             subtype="h1">Fishing</ab>
+            >Fishing</head>
          <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109723352">
             <form>
                <orth>biathadh</orth>
@@ -173,9 +173,9 @@
             </form>
             <def>kinds [of bait] used.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_GlasgowDJMacVicarlobster-d0e224"
-             subtype="h1">Cleaning a creel, what creatures found within</ab>
+            >Cleaning a creel, what creatures found within</head>
          <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idola21">
             <form>
                <orth>crùbagan</orth>
@@ -186,9 +186,9 @@
                <orth>easgannan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_GlasgowDJMacVicarlobster-d0e240"
-             subtype="h1">Other terms</ab>
+            >Other terms</head>
          <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109687784">
             <form>
                <orth>brothadh</orth>

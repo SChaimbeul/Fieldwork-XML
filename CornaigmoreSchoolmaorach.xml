@@ -38,9 +38,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e26"
-             subtype="h1">1. Maorach</ab>
+            >1. Maorach</head>
          <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e31">
             <form>
                <orth>feusgan</orth>
@@ -144,9 +144,9 @@
             </form>
             <def>crab.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e183"
-             subtype="h1">2. A’ tional maorach</ab>
+            >2. A’ tional maorach</head>
          <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e188">
             <form>
                <orth>a’ trusadh fhaochag</orth>
@@ -177,9 +177,9 @@
             </form>
             <def>gathering cockles.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e232"
-             subtype="h1">3. Beathaichean eile a gheibhear ’sa’ chladach</ab>
+            >3. Beathaichean eile a gheibhear ’sa’ chladach</head>
       </body>
    </text>
 </TEI>

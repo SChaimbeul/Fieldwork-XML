@@ -47,9 +47,9 @@ MacLeod</persName>
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e38"
-             subtype="h1">Facail – E agus I</ab>
+            >Facail – E agus I</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e43">
             <form>
                <orth>spiorsag (I)</orth>
@@ -75,9 +75,9 @@ MacLeod</persName>
                <orth>durra-mheig (E)</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e72"
-             subtype="h1">[blank]</ab>
+            >[blank]</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e77">
             <form>
                <orth>laogh (E)</orth>
@@ -128,12 +128,12 @@ MacLeod</persName>
                <orth>tri-ghamhnach (I)</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e136"
-             subtype="h1">(Biadhtach, dubh-chladach, spicean, ’se E a bhios unnda-san.)</ab>
-         <ab type="heading"
+            >(Biadhtach, dubh-chladach, spicean, ’se E a bhios unnda-san.)</head>
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e140"
-             subtype="h1">[blank]</ab>
+            >[blank]</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e145">
             <form>
                <orth>calg (E)</orth>
@@ -194,9 +194,9 @@ MacLeod</persName>
                <orth>slabhaig (I)</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e216"
-             subtype="h1">[blank]</ab>
+            >[blank]</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e221">
             <form>
                <orth>mèin darach (I)</orth>
@@ -243,9 +243,9 @@ MacLeod</persName>
             </form>
             <def>‘Fèadhaichean’, cha chuala mi riamh iad ach ann am plural.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e277"
-             subtype="h1">[blank]</ab>
+            >[blank]</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e282">
             <form>
                <orth>(sreangan) sreang (I)</orth>
@@ -261,9 +261,9 @@ MacLeod</persName>
                <orth>bonnach comaineach (E)</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e299"
-             subtype="h1">[blank]</ab>
+            >[blank]</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e304">
             <form>
                <orth>bleoghan (E)</orth>
@@ -309,9 +309,9 @@ MacLeod</persName>
                <orth>stòp (E)</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e357"
-             subtype="h1">[blank]</ab>
+            >[blank]</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e362">
             <form>
                <orth>biota (I)</orth>
@@ -352,9 +352,9 @@ MacLeod</persName>
                <orth>buidheann (E)</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e409"
-             subtype="h1">[blank]</ab>
+            >[blank]</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e414">
             <form>
                <orth>inghilt (I)</orth>
@@ -405,9 +405,9 @@ MacLeod</persName>
                <orth>muillean (E)</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e473"
-             subtype="h1">[blank]</ab>
+            >[blank]</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e478">
             <form>
                <orth>stàla (I)</orth>
@@ -453,9 +453,9 @@ MacLeod</persName>
                <orth>spearrach (Cha chreid mi nach robh an dà chuid againn E agus I.)</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e531"
-             subtype="h1">[blank]</ab>
+            >[blank]</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e536">
             <form>
                <orth>spùt (E) (No smait na dhà E agus I.)</orth>

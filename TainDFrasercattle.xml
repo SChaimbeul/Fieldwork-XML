@@ -42,12 +42,12 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_TainDFrasercattle-d0e32"
-             subtype="h1">1. Different stages in the growth of cattle</ab>
-         <ab type="heading"
+            >1. Different stages in the growth of cattle</head>
+         <head
              xml:id="CattleandSheep_TainDFrasercattle-d0e36"
-             subtype="h2">male:</ab>
+             subtype="h2">male:</head>
          <entry xml:id="CattleandSheep_TainDFrasercattle-d0e41">
             <form>
                <orth>laogh fioran</orth>
@@ -89,9 +89,9 @@
                <orth>damh tri bhliadhnach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_TainDFrasercattle-d0e94"
-             subtype="h2">female:</ab>
+             subtype="h2">female:</head>
          <entry xml:id="CattleandSheep_TainDFrasercattle-d0e99">
             <form>
                <orth>laogh boirean</orth>
@@ -136,9 +136,9 @@
             </form>
             <def>an old done cow.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_TainDFrasercattle-d0e161"
-             subtype="h1">2. Breeds of cattle</ab>
+            >2. Breeds of cattle</head>
          <entry xml:id="CattleandSheep_TainDFrasercattle-d0e166">
             <form>
                <orth>crodh Gaidhealach</orth>
@@ -151,9 +151,9 @@
             </form>
             <def>polled cattle.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_TainDFrasercattle-d0e183"
-             subtype="h1">3. Outward appearance of cattle</ab>
+            >3. Outward appearance of cattle</head>
          <entry xml:id="CattleandSheep_TainDFrasercattle-d0e188">
             <form>
                <orth>breac</orth>
@@ -196,17 +196,17 @@
             </form>
             <def>lean.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_TainDFrasercattle-d0e250"
-             subtype="h1">4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</ab>
+            >4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</head>
          <entry xml:id="CattleandSheep_TainDFrasercattle-d0e255">
             <form>
                <orth>bodhan or bodha</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_TainDFrasercattle-d0e260"
-             subtype="h1">5. Parts of the body</ab>
+            >5. Parts of the body</head>
          <entry xml:id="CattleandSheep_TainDFrasercattle-d0e265">
             <form>
                <orth>ceann</orth>
@@ -339,9 +339,9 @@
             </form>
             <def>fat.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_TainDFrasercattle-d0e462"
-             subtype="h1">6. Calving</ab>
+            >6. Calving</head>
          <entry xml:id="CattleandSheep_TainDFrasercattle-d0e467">
             <form>
                <orth>bo fodh ghair</orth>
@@ -360,9 +360,9 @@
             </form>
             <def>afterbirth.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_TainDFrasercattle-d0e493"
-             subtype="h1">7. Milking</ab>
+            >7. Milking</head>
          <entry xml:id="CattleandSheep_TainDFrasercattle-d0e498">
             <form>
                <orth>bleodhan</orth>
@@ -387,9 +387,9 @@
             </form>
             <def>milking pail.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_TainDFrasercattle-d0e533"
-             subtype="h1">8. Feeding</ab>
+            >8. Feeding</head>
          <entry xml:id="CattleandSheep_TainDFrasercattle-d0e538">
             <form>
                <orth>biadhadh</orth>
@@ -420,9 +420,9 @@
             </form>
             <def>herdsman.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_TainDFrasercattle-d0e582"
-             subtype="h1">9. Apparatus</ab>
+            >9. Apparatus</head>
          <entry xml:id="CattleandSheep_TainDFrasercattle-d0e587">
             <form>
                <orth>teadhar</orth>
@@ -453,9 +453,9 @@
             </form>
             <def>skinning calf for stuffing.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_TainDFrasercattle-d0e631"
-             subtype="h1">10. Diseases</ab>
+            >10. Diseases</head>
          <entry xml:id="CattleandSheep_TainDFrasercattle-d0e636">
             <form>
                <orth>faileadh</orth>
@@ -498,9 +498,9 @@
             </form>
             <def>red water.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_TainDFrasercattle-d0e698"
-             subtype="h1">11. Miscellaneous</ab>
+            >11. Miscellaneous</head>
          <entry xml:id="CattleandSheep_TainDFrasercattle-d0e703">
             <form>
                <orth>pruic, pruicean</orth>

@@ -42,9 +42,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-d0e33"
-             subtype="h1">1. Na tràthan</ab>
+            >1. Na tràthan</head>
          <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118820512">
             <form>
                <orth>bracast</orth>
@@ -63,12 +63,12 @@
             </form>
             <def>supper. (Stoer, Assynt)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-d0e66"
-             subtype="h1">2. Am biadh a bhidhte gabhail aig gach tràth</ab>
-         <ab type="heading"
+            >2. Am biadh a bhidhte gabhail aig gach tràth</head>
+         <head
              xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-d0e72"
-             subtype="h2">BRACAST</ab>
+             subtype="h2">BRACAST</head>
          <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118836928">
             <form>
                <orth>broase na leeit</orth>
@@ -81,9 +81,9 @@
             </form>
             <def>bacon and eggs. (Stoer, Assynt)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-d0e96"
-             subtype="h2">DEIT</ab>
+             subtype="h2">DEIT</head>
          <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118842328">
             <form>
                <orth>butata agus scadan</orth>
@@ -102,9 +102,9 @@
             </form>
             <def>potatoes and meat. (Stoer, Assynt)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-d0e138"
-             subtype="h2">SEEPAR</ab>
+             subtype="h2">SEEPAR</head>
          <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118849240">
             <form>
                <orth>tay</orth>
@@ -160,12 +160,12 @@
             </form>
             <def>potatoes are never called buntata in Assynt. Always butata. The first potatoes known in Europe were brought by the Spaniards from Quito, Peru in 1553 and were known as “battata”. Perhaps the Assynt people are Spaniards and not descended from the MacLeods of Lewis and the MacKenzies of Gairloch as we were always led to believe!!!</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-d0e219"
-             subtype="h1">3. Dòighean air biadh a dheasachadh</ab>
-         <ab type="heading"
+            >3. Dòighean air biadh a dheasachadh</head>
+         <head
              xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-d0e225"
-             subtype="h1">4. Fuine</ab>
+            >4. Fuine</head>
          <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118865080">
             <form>
                <orth>fuine aran coirk</orth>
@@ -221,9 +221,9 @@
             </form>
             <def>brander.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-d0e312"
-             subtype="h1">5. Deochan dhe gach seòrsa</ab>
+            >5. Deochan dhe gach seòrsa</head>
          <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118880344">
             <form>
                <orth>deoch gheal</orth>
@@ -273,15 +273,15 @@
             </form>
             <def>cream.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-d0e390"
-             subtype="h1">6. Biadh no deoch a bhidhte deanamh gu sònraichte do luchd euslan</ab>
-         <ab type="heading"
+            >6. Biadh no deoch a bhidhte deanamh gu sònraichte do luchd euslan</head>
+         <head
              xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-d0e396"
-             subtype="h1">7. Nithean a bhiodh ann nuair a rachadh beathach a mharbhadh</ab>
-         <ab type="heading"
+            >7. Nithean a bhiodh ann nuair a rachadh beathach a mharbhadh</head>
+         <head
              xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-d0e411"
-             subtype="h1">8. Faclan sam bith eile</ab>
+            >8. Faclan sam bith eile</head>
          <entry xml:id="DRMorrisonetal_DurnessGMacKenziebiadh-idp118894312">
             <form>
                <orth>Glasgo</orth>

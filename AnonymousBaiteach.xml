@@ -30,9 +30,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e14"
-             subtype="h1">1. Na togalaichean: sobhal, bàthach is mar sin, agus ainm gach pàirt dhiubh</ab>
+            >1. Na togalaichean: sobhal, bàthach is mar sin, agus ainm gach pàirt dhiubh</head>
          <entry xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e19">
             <form>
                <orth>airidh</orth>
@@ -81,42 +81,42 @@
             </form>
             <def>grinding. Drying of the grain in the barn.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e90"
-             subtype="h1">2. A’ mathachadh no a’ leasachadh na talmhainn</ab>
-         <ab type="heading"
+            >2. A’ mathachadh no a’ leasachadh na talmhainn</head>
+         <head
              xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e94"
-             subtype="h1">3. A’ treabhadh no a’ ruamhar: an crann agus ainm gach pàirt dheth</ab>
-         <ab type="heading"
+            >3. A’ treabhadh no a’ ruamhar: an crann agus ainm gach pàirt dheth</head>
+         <head
              xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e98"
-             subtype="h1">4. Innealan beaga leithid spaid, gràp, ràcan is mar sin</ab>
-         <ab type="heading"
+            >4. Innealan beaga leithid spaid, gràp, ràcan is mar sin</head>
+         <head
              xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e102"
-             subtype="h1">5. Acfhuinn an eich airson gach seòrsa obair</ab>
-         <ab type="heading"
+            >5. Acfhuinn an eich airson gach seòrsa obair</head>
+         <head
              xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e106"
-             subtype="h1">6. A’ cur an t-sìl</ab>
-         <ab type="heading"
+            >6. A’ cur an t-sìl</head>
+         <head
              xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e110"
-             subtype="h1">7. A’ buain agus a’ tiormachadh an arbhair no an fheòir</ab>
-         <ab type="heading"
+            >7. A’ buain agus a’ tiormachadh an arbhair no an fheòir</head>
+         <head
              xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e114"
-             subtype="h1">8. A’ togail a’ bhuntàta</ab>
-         <ab type="heading"
+            >8. A’ togail a’ bhuntàta</head>
+         <head
              xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e118"
-             subtype="h1">9. A’ tasgadh an arbhair agus a’ bhuntàta</ab>
-         <ab type="heading"
+            >9. A’ tasgadh an arbhair agus a’ bhuntàta</head>
+         <head
              xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e122"
-             subtype="h1">10. A’ bualadh ’s a’ criathradh</ab>
-         <ab type="heading"
+            >10. A’ bualadh ’s a’ criathradh</head>
+         <head
              xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e126"
-             subtype="h1">11. A’ bleith an t-sìl</ab>
-         <ab type="heading"
+            >11. A’ bleith an t-sìl</head>
+         <head
              xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e130"
-             subtype="h1">12. Ainmean a chleachdar ri earrainn fearainn</ab>
-         <ab type="heading"
+            >12. Ainmean a chleachdar ri earrainn fearainn</head>
+         <head
              xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e134"
-             subtype="h1">13. Faclan sam bith eile</ab>
+            >13. Faclan sam bith eile</head>
       </body>
    </text>
 </TEI>

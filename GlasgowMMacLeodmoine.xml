@@ -31,7 +31,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term>Peat-Working</term>
+               <term xml:lang="en">Peat-Working</term>
                <term>Mòine</term>
             </keywords>
          </textClass>
@@ -39,9 +39,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Peat_GlasgowMMacLeodmoine-d0e28"
-             subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+            >1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
          <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e33">
             <form>
                <orth>am blàr mòna</orth>
@@ -78,9 +78,9 @@
             </form>
             <def>“Rinn e poll anns a’ bhruthaich.”</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_GlasgowMMacLeodmoine-d0e86"
-             subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+            >2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
          <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e91">
             <form>
                <orth>carcaire</orth>
@@ -185,9 +185,9 @@
             </form>
             <def>Nuair a bhiodh grunn mór thoirbhsgearan de mhuinntir eile a bhaile agad a buain na mona. Bhuaineadh iad i ’s an aon latha. Bhitheadh tu fhéin a rithist aca-san air là an sgiobaidh aca. Chan eil fhios agam dé cho tràth ’s a thòisich an obair-sa, an sgiobadh. Iomadach uair do dhuine leth-làmhach a rinn sinn a bhuain dha ’s an aon latha. Cha chanadh sinn sgiobadh ris an seo idir.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_GlasgowMMacLeodmoine-d0e242"
-             subtype="h1">3. A’ tiormachadh na mònach</ab>
+            >3. A’ tiormachadh na mònach</head>
          <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e247">
             <form>
                <orth>rùghan</orth>
@@ -206,9 +206,9 @@
             </form>
             <def>Chan eil cuimhne agam a riamh mi fhìn an obair-sa a dheanamh, ach ’s ann mar siod a bhà cho fad agus a tha lorg agam-sa. Nì àrraid eile, chan fhaca mi a riamh poll air a rodaigeadh. Agus mi air mo bhreith ’s air m’ àrach ann an saoghal na monach.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_GlasgowMMacLeodmoine-d0e273"
-             subtype="h1">4. A’ cruachadh na mònach</ab>
+            >4. A’ cruachadh na mònach</head>
          <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e278">
             <form>
                <orth>cruachadh</orth>
@@ -221,9 +221,9 @@
             </form>
             <def>A’ tughadh nan cruach airson nan siantaidhnean le na cip a bha thu air a thoirt as an rùsgadh. Mur a biodh na cip slàn gu leòir, no mur a biodh na cip ann, airson an aobhair, dheanadh tu cip leis an spaid.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_GlasgowMMacLeodmoine-d0e295"
-             subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+            >5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
          <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e300">
             <form>
                <orth>poca</orth>
@@ -275,9 +275,9 @@
             </form>
             <def>Chan eil móran each a’ dol an diugh an àite sam bith, cò dhiù mu ghabhas e seachnadh. Ach am bheil fhios aca de an fhìor rud a th’ ann horse-power? Cha robh duine de an obair mhóir a bh’aca ann an Aird Uige uaireigin a bha comasach air a’ cheist fhuasgladh, agus bràthair dhomh ’n am measg. ’Se mise a thachair a bhith comasach airson fuasgladh a thoirt dhaibh. Thug mi dhaibh togail 33,000 punnd aon troigh ann an aon mhionaid. Gheibh sibh an aon suidheachadh aig daoine ’s a’ bhaile-sa fhéin. Bha fear ag argumaid rium aig Kelvindale nach robh a leithid a rud agus differential ann an càr. Gu robh easan air a bhith a’ draibheadh fad bhliadhnachan.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_GlasgowMMacLeodmoine-d0e373"
-             subtype="h1">6. Seòrsachan mònach</ab>
+            >6. Seòrsachan mònach</head>
          <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e378">
             <form>
                <orth>mòine-dhubh</orth>
@@ -314,9 +314,9 @@
             </form>
             <def>An riasg a bhiodh air cruadhachadh ’s air tiormachadh a’ stigh fo na bruthaichean. Connadh math. Is ann ri àm a bhiodh connadh air leth gann a bhithist a’ cur thairis nam bruthaichean airson an stuth-sa.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_GlasgowMMacLeodmoine-d0e431"
-             subtype="h1">7. Faclan eile</ab>
+            >7. Faclan eile</head>
          <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e436">
             <form>
                <orth>dronnag</orth>

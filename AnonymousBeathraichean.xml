@@ -30,9 +30,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e14"
-             subtype="h1">1. Ainmean air seòrsachan eathraichean</ab>
+            >1. Ainmean air seòrsachan eathraichean</head>
          <entry xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e19">
             <form>
                <orth>sgàf</orth>
@@ -45,9 +45,9 @@
             </form>
             <def>cobble.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e36"
-             subtype="h1">2. Ainm gach pàirt dhen eathar eadar an druim ’s am beul, agus na broinn</ab>
+            >2. Ainm gach pàirt dhen eathar eadar an druim ’s am beul, agus na broinn</head>
          <entry xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e41">
             <form>
                <orth>tobhtaichean</orth>
@@ -126,9 +126,9 @@
             </form>
             <def>can’t be knotted [?] [NOTES: both the definition and the accompanying illustration unclear.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e145"
-             subtype="h1">3. Stiùir is ailm – ainm gach pàirt</ab>
+            >3. Stiùir is ailm – ainm gach pàirt</head>
          <entry xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e150">
             <form>
                <orth>an fhuilim</orth>
@@ -140,15 +140,15 @@
                <orth>liath a raimh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e164"
-             subtype="h1">4. Gach pàirt dhen ràmh, is faclan co-cheangailte ri iomradh</ab>
-         <ab type="heading"
+            >4. Gach pàirt dhen ràmh, is faclan co-cheangailte ri iomradh</head>
+         <head
              xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e168"
-             subtype="h1">5. Crann is seòl is gach uidheam co-cheangailte riutha – ainm gach pàirt</ab>
-         <ab type="heading"
+            >5. Crann is seòl is gach uidheam co-cheangailte riutha – ainm gach pàirt</head>
+         <head
              xml:id="AssortedFieldworkers_AnonymousBeathraichean-d0e172"
-             subtype="h1">6. Faclan sam bith eile co-cheangailte ri eathraichean no ri seòladh</ab>
+            >6. Faclan sam bith eile co-cheangailte ri eathraichean no ri seòladh</head>
       </body>
    </text>
 </TEI>

@@ -42,9 +42,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_GlasgowDGrantbas-d0e32"
-             subtype="h1">1. Ag ullachadh a’ chuirp</ab>
+            >1. Ag ullachadh a’ chuirp</head>
          <entry xml:id="Ecclesiastical_GlasgowDGrantbas-d0e37">
             <form>
                <orth>air an déile (f)</orth>
@@ -57,21 +57,21 @@
             </form>
             <def>shroud.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_GlasgowDGrantbas-d0e54"
-             subtype="h1">2. A’ chiste</ab>
-         <ab type="heading"
+            >2. A’ chiste</head>
+         <head
              xml:id="Ecclesiastical_GlasgowDGrantbas-d0e58"
-             subtype="h1">3. Faire</ab>
+            >3. Faire</head>
          <entry xml:id="Ecclesiastical_GlasgowDGrantbas-d0e63">
             <form>
                <orth>a’ caithris</orth>
             </form>
             <def>keeping watch: ‘wake’.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_GlasgowDGrantbas-d0e71"
-             subtype="h1">4. A’ giùlan na ciste</ab>
+            >4. A’ giùlan na ciste</head>
          <entry xml:id="Ecclesiastical_GlasgowDGrantbas-d0e76">
             <form>
                <orth>a’ ghiulan</orth>
@@ -96,9 +96,9 @@
             </form>
             <def>bier. (Sleat, Skye)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_GlasgowDGrantbas-d0e111"
-             subtype="h1">5. An cladh agus an uaigh</ab>
+            >5. An cladh agus an uaigh</head>
          <entry xml:id="Ecclesiastical_GlasgowDGrantbas-d0e116">
             <form>
                <orth>roilig (f)</orth>
@@ -111,9 +111,9 @@
             </form>
             <def>digging (the grave).</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_GlasgowDGrantbas-d0e133"
-             subtype="h1">6. Cleachdaidhean sam bith co-cheangailte ri bàs no adhlacadh</ab>
+            >6. Cleachdaidhean sam bith co-cheangailte ri bàs no adhlacadh</head>
       </body>
    </text>
 </TEI>

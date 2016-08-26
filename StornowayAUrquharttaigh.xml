@@ -46,9 +46,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e40"
-             subtype="h1">1. An stéidh is am balla</ab>
+            >1. An stéidh is am balla</head>
          <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e45">
             <form>
                <orth>bonn ...</orth>
@@ -131,9 +131,9 @@
             </form>
             <def>maidean fada caola air uachdar an tughaidh.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e164"
-             subtype="h1">2. Am mullach ’s an tughadh</ab>
+            >2. Am mullach ’s an tughadh</head>
          <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e169">
             <form>
                <orth>maide-ceangail</orth>
@@ -233,12 +233,12 @@
         <graphic url="StornowayAUrquharttaighillust3.jpg" width="100px"/>
             </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e309"
-             subtype="h1">3. Dorsan is uinneagan</ab>
-         <ab type="heading"
+            >3. Dorsan is uinneagan</head>
+         <head
              xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e313"
-             subtype="h1">4. An broinn an taighe: na sèamraichean</ab>
+            >4. An broinn an taighe: na sèamraichean</head>
          <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e318">
             <form>
                <orth>ceann-shios</orth>
@@ -343,9 +343,9 @@
             </form>
             <def>ag gleidheadh seo (maighistir) airson nighe is còmhla ri dath. Chunna mi maighistir ann an stabull, ’ga shuathadh ri guilleann nan each ’san earrach (a’ dèanamh a’ chraicinn làidir).</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e458"
-             subtype="h1">5. An t-àite-teine</ab>
+            >5. An t-àite-teine</head>
          <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e463">
             <form>
                <orth>leid (mhór)</orth>
@@ -370,12 +370,12 @@
             </form>
             <def>spurtle, airson lite.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e498"
-             subtype="h1">6. Airneis an taighe</ab>
-         <ab type="heading"
+            >6. Airneis an taighe</head>
+         <head
              xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e502"
-             subtype="h1">7. Sobhal, bàthach, no bothanan sam bith eile</ab>
+            >7. Sobhal, bàthach, no bothanan sam bith eile</head>
          <entry xml:id="HouseandFurnishings_StornowayAUrquharttaigh-d0e507">
             <form>
                <orth>acair</orth>

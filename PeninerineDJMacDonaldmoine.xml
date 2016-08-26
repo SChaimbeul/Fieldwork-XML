@@ -30,7 +30,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term>Peat-Working</term>
+               <term xml:lang="en">Peat-Working</term>
                <term>Mòine</term>
             </keywords>
          </textClass>
@@ -38,9 +38,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Peat_PeninerineDJMacDonaldmoine-d0e26"
-             subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+            >1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
          <entry xml:id="Peat_PeninerineDJMacDonaldmoine-d0e31">
             <form>
                <orth>feannadh</orth>
@@ -59,9 +59,9 @@
             </form>
             <def>se seo a bhi a glanadh uachdar a phuill-mhònadh nuair a bhiodh e air fheannadh. Sann le spaid a bhiodh seo ga dheanamh cuideachd.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_PeninerineDJMacDonaldmoine-d0e57"
-             subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+            >2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
          <entry xml:id="Peat_PeninerineDJMacDonaldmoine-d0e62">
             <form>
                <orth>traoisgeir</orth>
@@ -92,18 +92,18 @@
             </form>
             <def>be seo am fad iosal.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_PeninerineDJMacDonaldmoine-d0e106"
-             subtype="h1">3. A’ tiormachadh na mònach</ab>
+            >3. A’ tiormachadh na mònach</head>
          <entry xml:id="Peat_PeninerineDJMacDonaldmoine-d0e111">
             <form>
                <orth>rubhan</orth>
             </form>
             <def>ceithir no coig do fhoidean air an cur na seasamh air an ceann, ann an tacsa a cheile agus fear eile tarsuinn air an uachdar. So an rud ris an cante “togail na mònadh”.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_PeninerineDJMacDonaldmoine-d0e119"
-             subtype="h1">4. A’ cruachadh na mònach</ab>
+            >4. A’ cruachadh na mònach</head>
          <entry xml:id="Peat_PeninerineDJMacDonaldmoine-d0e124">
             <form>
                <orth>cruach</orth>
@@ -117,9 +117,9 @@
             </form>
             <def>[a hyphen?] cruach bheag mhònadh.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_PeninerineDJMacDonaldmoine-d0e141"
-             subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+            >5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
          <entry xml:id="Peat_PeninerineDJMacDonaldmoine-d0e146">
             <form>
                <orth>cliabh</orth>
@@ -132,9 +132,9 @@
             </form>
             <def>an ropa a bhiodh a [sic] as a chliabh as e tarsuinn air uchd an duine bha tarruing a chleibh.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_PeninerineDJMacDonaldmoine-d0e163"
-             subtype="h1">6. Seòrsachan mònach</ab>
+            >6. Seòrsachan mònach</head>
          <entry xml:id="Peat_PeninerineDJMacDonaldmoine-d0e168">
             <form>
                <orth>caoran-dubh</orth>
@@ -147,9 +147,9 @@
             </form>
             <def>moine bhog agus moran fhreumhaichean na measg.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_PeninerineDJMacDonaldmoine-d0e185"
-             subtype="h1">7. Faclan eile</ab>
+            >7. Faclan eile</head>
       </body>
    </text>
 </TEI>

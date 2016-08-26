@@ -34,7 +34,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term>Peat-Working</term>
+               <term xml:lang="en">Peat-Working</term>
                <term>Mòine</term>
             </keywords>
          </textClass>
@@ -42,12 +42,12 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Peat_BoreraigMMacLeodmoine-d0e35"
-             subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
-         <ab type="heading"
+            >1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
+         <head
              xml:id="Peat_BoreraigMMacLeodmoine-d0e39"
-             subtype="h2">Am blàr mona:</ab>
+             subtype="h2">Am blàr mona:</head>
          <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e44">
             <form>
                <orth>breacadh</orth>
@@ -66,12 +66,12 @@
             </form>
             <def>riasg – mu throigh air leud agus mu dhà throigh gu leth air fhad.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_BoreraigMMacLeodmoine-d0e70"
-             subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
-         <ab type="heading"
+            >2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
+         <head
              xml:id="Peat_BoreraigMMacLeodmoine-d0e74"
-             subtype="h2">Am poll mona:</ab>
+             subtype="h2">Am poll mona:</head>
          <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e79">
             <form>
                <orth>am barrad</orth>
@@ -90,9 +90,9 @@
             </form>
             <def>an treas fàd.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_BoreraigMMacLeodmoine-d0e105"
-             subtype="h2">[blank]</ab>
+             subtype="h2">[blank]</head>
          <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e110">
             <form>
                <orth>an sgaoilteach</orth>
@@ -123,9 +123,9 @@
             </form>
             <def>seachd fàdan as a’ bharrad air leud, sia as a’ ghrunnad agus cóig as an dubhad.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_BoreraigMMacLeodmoine-d0e154"
-             subtype="h2">Innealan:</ab>
+             subtype="h2">Innealan:</head>
          <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e159">
             <form>
                <orth>an tairsgian (no an t-iarunn-mona)</orth>
@@ -160,12 +160,12 @@
             </form>
             <def>a mach dìreach o’n iarunn air an taobh chlì.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_BoreraigMMacLeodmoine-d0e206"
-             subtype="h1">3. A’ tiormachadh na mònach</ab>
-         <ab type="heading"
+            >3. A’ tiormachadh na mònach</head>
+         <head
              xml:id="Peat_BoreraigMMacLeodmoine-d0e210"
-             subtype="h2">A’ togail na mòna:</ab>
+             subtype="h2">A’ togail na mòna:</head>
          <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e215">
             <form>
                <orth>1. casa beaga</orth>
@@ -196,9 +196,9 @@
             </form>
             <def>bha a’ chruach seo aig an tigh.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_BoreraigMMacLeodmoine-d0e259"
-             subtype="h2">[blank]</ab>
+             subtype="h2">[blank]</head>
          <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e264">
             <form>
                <orth>griodhadh</orth>
@@ -223,24 +223,24 @@
             </form>
             <def>mòine ’na mìrean.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_BoreraigMMacLeodmoine-d0e299"
-             subtype="h1">4. A’ cruachadh na mònach</ab>
-         <ab type="heading"
+            >4. A’ cruachadh na mònach</head>
+         <head
              xml:id="Peat_BoreraigMMacLeodmoine-d0e303"
-             subtype="h2">Tughadh:</ab>
+             subtype="h2">Tughadh:</head>
          <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e308">
             <form>
                <orth>sgrathan</orth>
             </form>
             <def>nuair a bhios a’ chruach mhór ullamh bidh sgrathan fada réisg air an cur tarsuinn air a mullach air an aghaidh fodhpa.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_BoreraigMMacLeodmoine-d0e316"
-             subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
-         <ab type="heading"
+            >5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
+         <head
              xml:id="Peat_BoreraigMMacLeodmoine-d0e320"
-             subtype="h2">An cliabh:</ab>
+             subtype="h2">An cliabh:</head>
          <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e325">
             <form>
                <orth>caol beag</orth>
@@ -282,9 +282,9 @@
             </form>
             <def>(Tha mi duilich nach d’ fhuair mi cothrom ceart air na faclan uile mun chliabh a thional nuair a bha mi san Eilean Sgitheanach air an t-samhradh seo. RM [Ruairidh MacFhionghuin] 27/7/68)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_BoreraigMMacLeodmoine-d0e384"
-             subtype="h1">6. Seòrsachan mònach</ab>
+            >6. Seòrsachan mònach</head>
          <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e389">
             <form>
                <orth>mòine chóinntich</orth>
@@ -309,9 +309,9 @@
             </form>
             <def>mòine dhubh, throm, anns a bheil criadh – agus móran luatha.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_BoreraigMMacLeodmoine-d0e424"
-             subtype="h1">7. Faclan eile</ab>
+            >7. Faclan eile</head>
       </body>
    </text>
 </TEI>

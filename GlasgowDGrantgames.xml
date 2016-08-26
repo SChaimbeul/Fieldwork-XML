@@ -41,7 +41,7 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading" xml:id="Games_GlasgowDGrantgames-d0e32" subtype="h1">1. Toys</ab>
+         <head xml:id="Games_GlasgowDGrantgames-d0e32">1. Toys</head>
          <entry xml:id="Games_GlasgowDGrantgames-d0e37">
             <form>
                <orth>doileag (f)</orth>
@@ -72,7 +72,7 @@
             </form>
             <def>hammock of string.</def>
          </entry>
-         <ab type="heading" xml:id="Games_GlasgowDGrantgames-d0e81" subtype="h1">2. Swings, see-saws</ab>
+         <head xml:id="Games_GlasgowDGrantgames-d0e81">2. Swings, see-saws</head>
          <entry xml:id="Games_GlasgowDGrantgames-d0e86">
             <form>
                <orth>dreallag (f)</orth>
@@ -85,12 +85,12 @@
             </form>
             <def>see-saw.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Games_GlasgowDGrantgames-d0e103"
-             subtype="h1">3. Games played indoors</ab>
-         <ab type="heading"
+            >3. Games played indoors</head>
+         <head
              xml:id="Games_GlasgowDGrantgames-d0e107"
-             subtype="h1">4. Outdoor games not involving a ball or puck</ab>
+            >4. Outdoor games not involving a ball or puck</head>
          <entry xml:id="Games_GlasgowDGrantgames-d0e112">
             <form>
                <orth>goid a’ chrùin</orth>
@@ -103,9 +103,9 @@
             </form>
             <def>hide-and-seek.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Games_GlasgowDGrantgames-d0e129"
-             subtype="h1">5. Ball games</ab>
+            >5. Ball games</head>
          <entry xml:id="Games_GlasgowDGrantgames-d0e134">
             <form>
                <orth>iomain (f)</orth>
@@ -136,9 +136,9 @@
             </form>
             <def>game played with bat and stick which hoisted ball from hollow (cat and bat?). I have forgotten the rules.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Games_GlasgowDGrantgames-d0e178"
-             subtype="h1">6. Athletics</ab>
+            >6. Athletics</head>
          <entry xml:id="Games_GlasgowDGrantgames-d0e183">
             <form>
                <orth>car-a-mhoiltein</orth>
@@ -151,30 +151,30 @@
             </form>
             <def>jogging, trotting.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Games_GlasgowDGrantgames-d0e200"
-             subtype="h1">7. Heavy events</ab>
+            >7. Heavy events</head>
          <entry xml:id="Games_GlasgowDGrantgames-idola107">
             <form>
                <orth>[note]</orth>
             </form>
             <def>(I do not have any special words for these activities. Parallel expressions were used e.g. a’ tilgeil an ùird.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Games_GlasgowDGrantgames-d0e213"
-             subtype="h1">8. Contests involving pulling or pushing</ab>
-         <ab type="heading"
+            >8. Contests involving pulling or pushing</head>
+         <head
              xml:id="Games_GlasgowDGrantgames-d0e217"
-             subtype="h1">9. Boxing and wrestling</ab>
+            >9. Boxing and wrestling</head>
          <entry xml:id="Games_GlasgowDGrantgames-d0e222">
             <form>
                <orth>a’ carachd</orth>
             </form>
             <def>wrestling.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Games_GlasgowDGrantgames-d0e230"
-             subtype="h1">10. Blows in general</ab>
+            >10. Blows in general</head>
          <entry xml:id="Games_GlasgowDGrantgames-d0e235">
             <form>
                <orth>sgleog (f)</orth>
@@ -193,9 +193,9 @@
             </form>
             <def>a severe blow.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Games_GlasgowDGrantgames-d0e261"
-             subtype="h1">11. Injury and exhaustion</ab>
+            >11. Injury and exhaustion</head>
          <entry xml:id="Games_GlasgowDGrantgames-d0e266">
             <form>
                <orth>sùil ghorm</orth>

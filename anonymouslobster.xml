@@ -29,9 +29,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_anonymouslobster-d0e17"
-             subtype="h1">The Lobster</ab>
+            >The Lobster</head>
          <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e22">
             <form>
                <orth>gimach</orth>
@@ -79,9 +79,9 @@
             </form>
             <def>[accent above w] eggs.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_anonymouslobster-d0e84"
-             subtype="h1">The Creel</ab>
+            >The Creel</head>
          <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e89">
             <form>
                <orth>scoolene</orth>

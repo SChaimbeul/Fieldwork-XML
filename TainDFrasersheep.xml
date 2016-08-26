@@ -42,12 +42,12 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_TainDFrasersheep-d0e32"
-             subtype="h1">1. Different stages in the growth of sheep (female)</ab>
-         <ab type="heading"
+            >1. Different stages in the growth of sheep (female)</head>
+         <head
              xml:id="CattleandSheep_TainDFrasersheep-d0e36"
-             subtype="h2">female</ab>
+             subtype="h2">female</head>
          <entry xml:id="CattleandSheep_TainDFrasersheep-d0e41">
             <form>
                <orth>uan boireann</orth>
@@ -83,9 +83,9 @@
             </form>
             <def>cast ewe.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_TainDFrasersheep-d0e91"
-             subtype="h2">male</ab>
+             subtype="h2">male</head>
          <entry xml:id="CattleandSheep_TainDFrasersheep-d0e96">
             <form>
                <orth>uan fiorean</orth>
@@ -122,9 +122,9 @@
                <orth>tri bhliadhnach muilt</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_TainDFrasersheep-d0e140"
-             subtype="h1">2. Different stages in the growth of sheep (male)</ab>
+            >2. Different stages in the growth of sheep (male)</head>
          <entry xml:id="CattleandSheep_TainDFrasersheep-d0e145">
             <form>
                <orth>uan</orth>
@@ -155,9 +155,9 @@
             </form>
             <def>ram.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_TainDFrasersheep-d0e189"
-             subtype="h1">3. Different stages in the growth of the castrated male</ab>
+            >3. Different stages in the growth of the castrated male</head>
          <entry xml:id="CattleandSheep_TainDFrasersheep-d0e194">
             <form>
                <orth>uan</orth>
@@ -180,9 +180,9 @@
             </form>
             <def>da bhliadhnach: 2nd shear. tri bhliadhnach: 3rd shear.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_TainDFrasersheep-d0e223"
-             subtype="h1">4. Sheep’s appearance</ab>
+            >4. Sheep’s appearance</head>
          <entry xml:id="CattleandSheep_TainDFrasersheep-d0e228">
             <form>
                <orth>caora bhreac</orth>
@@ -225,21 +225,21 @@
             </form>
             <def>fat sheep.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_TainDFrasersheep-d0e290"
-             subtype="h1">5. Miscellaneous</ab>
+            >5. Miscellaneous</head>
          <entry xml:id="CattleandSheep_TainDFrasersheep-d0e295">
             <form>
                <orth>rùd</orth>
             </form>
             <def>partly castrated ram.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_TainDFrasersheep-d0e303"
-             subtype="h1">6. Feeding and grazing</ab>
-         <ab type="heading"
+            >6. Feeding and grazing</head>
+         <head
              xml:id="CattleandSheep_TainDFrasersheep-d0e307"
-             subtype="h1">7. Handling of sheep</ab>
+            >7. Handling of sheep</head>
          <entry xml:id="CattleandSheep_TainDFrasersheep-d0e312">
             <form>
                <orth>cuir ri feur</orth>
@@ -271,15 +271,15 @@
             </form>
             <def>catching fank.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_TainDFrasersheep-d0e356"
-             subtype="h1">8. Apparatus</ab>
-         <ab type="heading"
+            >8. Apparatus</head>
+         <head
              xml:id="CattleandSheep_TainDFrasersheep-d0e360"
-             subtype="h1">9. Diseases</ab>
-         <ab type="heading"
+            >9. Diseases</head>
+         <head
              xml:id="CattleandSheep_TainDFrasersheep-d0e364"
-             subtype="h1">10. Parts of the body</ab>
+            >10. Parts of the body</head>
          <entry xml:id="CattleandSheep_TainDFrasersheep-idola92">
             <form>
                <orth>[note]</orth>
@@ -418,9 +418,9 @@
             </form>
             <def>fat.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_TainDFrasersheep-d0e575"
-             subtype="h1">11. Lambing</ab>
+            >11. Lambing</head>
          <entry xml:id="CattleandSheep_TainDFrasersheep-d0e580">
             <form>
                <orth>breith uan</orth>
@@ -439,9 +439,9 @@
             </form>
             <def>afterbirth.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_TainDFrasersheep-d0e606"
-             subtype="h1">12. Miscellaneous</ab>
+            >12. Miscellaneous</head>
          <entry xml:id="CattleandSheep_TainDFrasersheep-d0e611">
             <form>
                <orth>bun earbuill</orth>

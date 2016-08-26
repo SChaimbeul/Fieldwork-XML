@@ -48,9 +48,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e46"
-             subtype="h1">SEORSAICHEAN DUINE</ab>
+            >SEORSAICHEAN DUINE</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e51">
             <form>
                <orth>bumailear (E)</orth>
@@ -216,9 +216,9 @@
             </form>
             <def>Bidh e seo air a chleachdadh faisg air an aon dòigh anns a h-uile h-àit. “’Se ceàrd a bh’ann.” “Nach b’e an ceàrd e.” [SLIP: no definitions.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e299"
-             subtype="h2">Boirionnaich</ab>
+             subtype="h2">Boirionnaich</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e304">
             <form>
                <orth>cearchaill (I)</orth>
@@ -285,12 +285,12 @@
             </form>
             <def>An aon seòrsa ri raod [q.v.]. Faisg, faisg air co dhiu. “Sgriot eagalach a th’innte.” [SLIP: A very thin woman.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e402"
-             subtype="h1">BAD COMPANY</ab>
-         <ab type="heading"
+            >BAD COMPANY</head>
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e406"
-             subtype="h2">(1)</ab>
+             subtype="h2">(1)</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e411">
             <form>
                <orth>sgoladh d’a theangaidh</orth>
@@ -316,9 +316,9 @@
             </form>
             <def>“Thug e seatha dha.” – He gave him a telling off. “Thug mi seatha dha.” Cha chreid mi nach robh againn cuideachd ‘seatha’ airson ‘cheek’: “Thug e seatha dha.” – He gave him cheek. [SLIP 1: Thug e seatha dha. He gave him a telling-off. Also: he gave him cheek.] [SLIP 2: Cheek, telling-off.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e446"
-             subtype="h2">(2)</ab>
+             subtype="h2">(2)</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e451">
             <form>
                <orth>duine fada as</orth>
@@ -331,9 +331,9 @@
             </form>
             <def>“Tha e cho faisg (ort).” (Faic ‘duine amhaidh’ [q.v.] air an duilleig eile.) [SLIP: Friendly.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e468"
-             subtype="h2">(3)</ab>
+             subtype="h2">(3)</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e473">
             <form>
                <orth>cabag</orth>
@@ -367,9 +367,9 @@
             </form>
             <def>agus mar sin air adhair [sic]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e517"
-             subtype="h1">GOOD COMPANY</ab>
+            >GOOD COMPANY</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e522">
             <form>
                <orth>[cuideachd]</orth>
@@ -505,9 +505,9 @@
             </form>
             <def>Iad seo uile airson mar gu’n canadh sibh ‘funny man’. Tuigidh sibh fhéin. Tha barrachd air an seo againn na’n cuimhnichinn orra.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e719"
-             subtype="h1">CHEERFUL</ab>
+            >CHEERFUL</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e724">
             <form>
                <orth>[sona]</orth>
@@ -520,9 +520,9 @@
             </form>
             <def>Easy-going, self-control, patience. “Tha e cho dòigheil.” “’Se duine dòigheil a tha an Calum.” “Dòmhnull, ’s e cho dòigheil.” – happy, easy-going, patient. [NOTES: slipped under ‘dòigheil’. Definition: Easy-going.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e741"
-             subtype="h1">GLOOMY</ab>
+            >GLOOMY</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e746">
             <form>
                <orth>dreunasach, dreunaire</orth>
@@ -609,9 +609,9 @@
             </form>
             <def>[Impetuous.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e862"
-             subtype="h1">A GOOD MAN</ab>
+            >A GOOD MAN</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola174">
             <form>
                <orth>[note]</orth>
@@ -661,9 +661,9 @@
             </form>
             <def>Canaidh sinn ‘grinn’ cuideachd mu dhuine a bhios ’n a aodach ’s mar sin. Snog, glan, sgiobalta. “Tha Calum cho grinn.” “Tha e cho grinn a h-uile turus a théid e a mach.” “Tha e ’ga chumail fhéin cho grinn.” Canaidh sinn ‘grinn’ cuideachd mu ghrinn ann an giùlan. [SLIP: Tidy; also ‘fine’ of behaviour.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e932"
-             subtype="h1">A BAD MAN</ab>
+            >A BAD MAN</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e937">
             <form>
                <orth>[gràisg]</orth>
@@ -714,9 +714,9 @@
             </form>
             <def>[See daorach.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1008"
-             subtype="h1">A SUCCESSFUL MAN</ab>
+            >A SUCCESSFUL MAN</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1013">
             <form>
                <orth>sùil-dhìleas</orth>
@@ -748,9 +748,9 @@
             </form>
             <def>Hard-working, ambitious, capable, lively. “’Se cosnaiche math a bh’ann.” (Faic na faclairean.) Tha ‘cosnaiche’ againn, cuideachd, airson nam fiaclan gearraidh (incisors) gu h-araidh ann an ainmhidhean, bó ’s mar sin. “Na cosnaichean” – the incisors.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1057"
-             subtype="h1">A FAILURE</ab>
+            >A FAILURE</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1062">
             <form>
                <orth>[sgluis]</orth>
@@ -788,18 +788,18 @@
             </form>
             <def>Tha seo againn air an aon sraoin ri sgluis [q.v.]. “’Se luid a th’innte.” Canaidh sinn ‘luid’ mar as trice ri boirionnach.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1115"
-             subtype="h1">A WISE MAN</ab>
+            >A WISE MAN</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1120">
             <form>
                <orth>tùrail</orth>
             </form>
             <def>Intelligent or skilful. Tha e againn an dà chuid. Ach na’s motha ‘skilful’. Tùrail – math air a làmhan a thaobh fiodha agus gnothaichean eile, math air tuigsinn dé mar a tha cùisean mu na cuspairean sin etc. agus math agus grinn air dèanamh.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1128"
-             subtype="h1">FOOLISH</ab>
+            >FOOLISH</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1133">
             <form>
                <orth>sgimileir</orth>
@@ -858,9 +858,9 @@
             </form>
             <def>Chanainn gu bheil ‘bumalair’ agus ‘buaisteir’ [sic] ann an iomadh àite.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1210"
-             subtype="h1">BOLD</ab>
+            >BOLD</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1215">
             <form>
                <orth>aghannail</orth>
@@ -903,9 +903,9 @@
             </form>
             <def>’Se (1) agus (3) as fheàrr a fhreagras mar a tha e againne.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1277"
-             subtype="h1">TIMID</ab>
+            >TIMID</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola181">
             <form>
                <orth>[note]</orth>
@@ -948,9 +948,9 @@
             </form>
             <def>Cha chreid mi gu bheil ‘leannan-òinsich’ againn idir. [NOTES: one of the phrases suggested in the questionnaire – ‘an easily led man’.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1344"
-             subtype="h1">PROUD</ab>
+            >PROUD</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1349">
             <form>
                <orth>[bòsda]</orth>
@@ -970,9 +970,9 @@
             </form>
             <def>Ma thà facail ann, cha chuimnich mise orra aig an àm-sa.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1375"
-             subtype="h1">HUMBLE</ab>
+            >HUMBLE</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1380">
             <form>
                <orth>iriosal</orth>
@@ -1009,9 +1009,9 @@
             </form>
             <def>’S mar sin.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1433"
-             subtype="h1">POLITE</ab>
+            >POLITE</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1438">
             <form>
                <orth>[boirionn]</orth>
@@ -1024,9 +1024,9 @@
             </form>
             <def>Well-mannered. “Tha e cho grinn ’s cho modhail.” “Tha e cho grinn.”</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1455"
-             subtype="h1">COARSE</ab>
+            >COARSE</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1460">
             <form>
                <orth>[curs]</orth>
@@ -1065,9 +1065,9 @@
             </form>
             <def>[See biast.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1513"
-             subtype="h1">BAD TYPES</ab>
+            >BAD TYPES</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1518">
             <form>
                <orth>duine droch nàdurach</orth>
@@ -1129,12 +1129,12 @@
             </form>
             <def>“Tha e cho seòlta.” – duine cunning.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1607"
-             subtype="h1">YOUNG</ab>
-         <ab type="heading"
+            >YOUNG</head>
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1611"
-             subtype="h2">“Growing up”</ab>
+             subtype="h2">“Growing up”</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1616">
             <form>
                <orth>pocan</orth>
@@ -1159,9 +1159,9 @@
             </form>
             <def>’Se ‘seanacharra’ a chanas sinne [for ‘seanabheulach’ – one of the words suggested in the questionnaire – ‘used of a child who talks like a grown-up’.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1651"
-             subtype="h1">OLD</ab>
+            >OLD</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1656">
             <form>
                <orth>bramalaid</orth>
@@ -1174,9 +1174,9 @@
             </form>
             <def>Cha chreid mi gu bheil am facal ’sa ann an Leòdhas air fad. [NOTES: one of the words suggested in the questionnaire – ‘a spry old man’.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1673"
-             subtype="h1">AGUS FACLAN SAM BITH EILE</ab>
+            >AGUS FACLAN SAM BITH EILE</head>
          <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1678">
             <form>
                <orth>griupag (I)</orth>

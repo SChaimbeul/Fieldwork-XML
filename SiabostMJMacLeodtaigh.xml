@@ -40,9 +40,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e26"
-             subtype="h1">1. An stéidh is am balla</ab>
+            >1. An stéidh is am balla</head>
          <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e31">
             <form>
                <orth>am balla muigh</orth>
@@ -73,9 +73,9 @@
             </form>
             <def>lower end.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e75"
-             subtype="h1">2. Am mullach ’s an tughadh</ab>
+            >2. Am mullach ’s an tughadh</head>
          <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e80">
             <form>
                <orth>am maide droma</orth>
@@ -124,9 +124,9 @@
             </form>
             <def>thatch.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e151"
-             subtype="h1">3. Dorsan is uinneagan</ab>
+            >3. Dorsan is uinneagan</head>
          <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e156">
             <form>
                <orth>an dorus mór</orth>
@@ -163,9 +163,9 @@
             </form>
             <def>the hens’ window just above their roost.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e209"
-             subtype="h1">4. An broinn an taighe: na sèamraichean</ab>
+            >4. An broinn an taighe: na sèamraichean</head>
          <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e214">
             <form>
                <orth>uachdair an tighe</orth>
@@ -208,9 +208,9 @@
             </form>
             <def>threshold.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e276"
-             subtype="h1">5. An t-àite-teine</ab>
+            >5. An t-àite-teine</head>
          <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e281">
             <form>
                <orth>cagailt</orth>
@@ -235,9 +235,9 @@
             </form>
             <def>pot-hanger.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e316"
-             subtype="h1">6. Airneis an taighe</ab>
+            >6. Airneis an taighe</head>
          <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e321">
             <form>
                <orth>bòrd</orth>
@@ -358,9 +358,9 @@
             </form>
             <def>sieve.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e500"
-             subtype="h1">7. Sobhal, bàthach, no bothanan sam bith eile</ab>
+            >7. Sobhal, bàthach, no bothanan sam bith eile</head>
          <entry xml:id="HouseandFurnishings_SiabostMJMacLeodtaigh-d0e505">
             <form>
                <orth>sobhal</orth>

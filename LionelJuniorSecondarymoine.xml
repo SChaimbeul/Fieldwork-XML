@@ -30,7 +30,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term>Peat-Working</term>
+               <term xml:lang="en">Peat-Working</term>
                <term>Mòine</term>
             </keywords>
          </textClass>
@@ -38,9 +38,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Peat_LionelJuniorSecondarymoine-d0e28"
-             subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+            >1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
          <entry xml:id="Peat_LionelJuniorSecondarymoine-d0e33">
             <form>
                <orth>am blàr monach</orth>
@@ -95,9 +95,9 @@
             </form>
             <def>Na’n gabhadh e deanamh bha am poll air a thoirt an ruith an leothaid, no air shiobhadh an leothaid, gus an ruitheadh an t-uisge. Chainte ‘Ceann a’ phuill ris a’ cheann ard, agus an ‘t-earball ris a’ cheann aig am biodh am bùirn ga fhàgail. Ceann – Earball – Uachdair no Broinn – Aodann no Agaidh eadar an druim ’s am broinn bho cheann gu earball.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_LionelJuniorSecondarymoine-d0e113"
-             subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+            >2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
          <entry xml:id="Peat_LionelJuniorSecondarymoine-d0e118">
             <form>
                <orth>tairsgeir</orth>
@@ -158,9 +158,9 @@
             </form>
             <def>Tha cuid ann a tha cho ealanta air tilgeil is gun cuir iad gach fàd air a shliomas ri oir fir eile fada muigh air an sgaoilteach, mar bun a’ ghàrraidh. Tha cuid de phuill ann as an tig tri fòid is caoran, is gus nach bi a’ mhoine air muin a cheile air an sgaoilteach cha bhi an cargur ga thoirt cho leathann.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_LionelJuniorSecondarymoine-d0e207"
-             subtype="h1">3. A’ tiormachadh na mònach</ab>
+            >3. A’ tiormachadh na mònach</head>
          <entry xml:id="Peat_LionelJuniorSecondarymoine-d0e212">
             <form>
                <orth>togail</orth>
@@ -179,9 +179,9 @@
             </form>
             <def>Mar a tiormaich a’ mhoine anns an rudhan tha dha no tri de rudhain gan cur an ceann a cheile is bidh iad air a fàgail greis eile gus an tiormaich i. Bidh, aig amannan, bho sheachduinn gu tri seachdainnean eadar an rùdhadh ’s an ath-rùdhadh.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_LionelJuniorSecondarymoine-d0e238"
-             subtype="h1">4. A’ cruachadh na mònach</ab>
+            >4. A’ cruachadh na mònach</head>
          <entry xml:id="Peat_LionelJuniorSecondarymoine-d0e243">
             <form>
                <orth>cruinneachadh</orth>
@@ -206,9 +206,9 @@
             </form>
             <def>’S e so a bhith comhdach nan cruachan no na torran beaga so le cip gus an dian bho shiantan a’ gheamhraidh.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_LionelJuniorSecondarymoine-d0e278"
-             subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+            >5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
          <entry xml:id="Peat_LionelJuniorSecondarymoine-d0e283">
             <form>
                <orth>a’ cur gu rathad</orth>
@@ -257,9 +257,9 @@
             </form>
             <def>So an ceann duinte – ceart dhìreach mu choinneamh an doruis. Canar ‘ceann na cruaiche’ ris a’ cheann so cuideachd.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_LionelJuniorSecondarymoine-d0e354"
-             subtype="h1">6. Seòrsachan mònach</ab>
+            >6. Seòrsachan mònach</head>
          <entry xml:id="Peat_LionelJuniorSecondarymoine-d0e359">
             <form>
                <orth>moine bhàn</orth>
@@ -302,9 +302,9 @@
             </form>
             <def>Fadan a chaidh fhàgail an sud ’san so air na puill. Bha iad so ro fhliuch air son an cur gu rathad. Bidh iad tioram gu leòr gus teine a dheanamh aig am buain, rùdhadh is cur gu tìr. ’S e ath-mhoine cuideachd a chanar ris na bhios air fhàgail do mhoine na bliadhna ’n uiridh as deidh a’ chruach ùr a bhith air a deanamh.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_LionelJuniorSecondarymoine-d0e421"
-             subtype="h1">7. Faclan eile</ab>
+            >7. Faclan eile</head>
          <entry xml:id="Peat_LionelJuniorSecondarymoine-idola199">
             <form>
                <orth>[la buain na monach]</orth>

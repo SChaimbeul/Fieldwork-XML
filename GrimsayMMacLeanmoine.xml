@@ -29,7 +29,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term>Peat-Working</term>
+               <term xml:lang="en">Peat-Working</term>
                <term>Mòine</term>
             </keywords>
          </textClass>
@@ -37,9 +37,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Peat_GrimsayMMacLeanmoine-d0e26"
-             subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+            >1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
          <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e31">
             <form>
                <orth>fosgladh poll-mona</orth>
@@ -70,9 +70,9 @@
             </form>
             <def>the width of the peat bank.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_GrimsayMMacLeanmoine-d0e75"
-             subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+            >2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
          <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e80">
             <form>
                <orth>tarasgeir</orth>
@@ -121,9 +121,9 @@
             </form>
             <def>the person throwing out the peats as they are cut.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_GrimsayMMacLeanmoine-d0e151"
-             subtype="h1">3. A’ tiormachadh na mònach</ab>
+            >3. A’ tiormachadh na mònach</head>
          <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e156">
             <form>
                <orth>sadail</orth>
@@ -172,9 +172,9 @@
             </form>
             <def>as ‘rudhadh’ [q.v.].</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_GrimsayMMacLeanmoine-d0e227"
-             subtype="h1">4. A’ cruachadh na mònach</ab>
+            >4. A’ cruachadh na mònach</head>
          <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e232">
             <form>
                <orth>steidh</orth>
@@ -193,9 +193,9 @@
             </form>
             <def>a small peat stack. (In Uist ‘tuidean’.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_GrimsayMMacLeanmoine-d0e258"
-             subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+            >5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
          <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e263">
             <form>
                <orth>tarruing</orth>
@@ -232,9 +232,9 @@
             </form>
             <def>name for cargo of peats in boat.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_GrimsayMMacLeanmoine-d0e316"
-             subtype="h1">6. Seòrsachan mònach</ab>
+            >6. Seòrsachan mònach</head>
          <entry xml:id="Peat_GrimsayMMacLeanmoine-d0e321">
             <form>
                <orth>moine chruaidh dhubh</orth>
@@ -266,9 +266,9 @@
             </form>
             <def>small fragments of peat much sought after for heating purposes.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_GrimsayMMacLeanmoine-d0e365"
-             subtype="h1">7. Faclan eile</ab>
+            >7. Faclan eile</head>
       </body>
    </text>
 </TEI>

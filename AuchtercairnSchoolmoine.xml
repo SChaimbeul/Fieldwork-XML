@@ -29,7 +29,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term>Peat-Working</term>
+               <term xml:lang="en">Peat-Working</term>
                <term>Mòine</term>
             </keywords>
          </textClass>
@@ -37,9 +37,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Peat_AuchtercairnSchoolmoine-d0e26"
-             subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+            >1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
          <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e31">
             <form>
                <orth>a’ riachadh</orth>
@@ -113,9 +113,9 @@
             </form>
             <def>peat to be cut.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_AuchtercairnSchoolmoine-d0e138"
-             subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+            >2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
          <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e143">
             <form>
                <orth>tair-sgian</orth>
@@ -182,9 +182,9 @@
             </form>
             <def>drying on a narrow area, as a wall.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_AuchtercairnSchoolmoine-d0e235"
-             subtype="h1">3. A’ tiormachadh na mònach</ab>
+            >3. A’ tiormachadh na mònach</head>
          <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e240">
             <form>
                <orth>togail na mona</orth>
@@ -209,9 +209,9 @@
             </form>
             <def>(Not in common use but one child brought the phrase without being able to say quite what it was!) [NOTES: see also Duncan MacLeod’s comment in his letter of 29/8/67 (under ‘rughan Frangach’).]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_AuchtercairnSchoolmoine-d0e275"
-             subtype="h1">4. A’ cruachadh na mònach</ab>
+            >4. A’ cruachadh na mònach</head>
          <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e280">
             <form>
                <orth>cruach</orth>
@@ -236,9 +236,9 @@
             </form>
             <def>finishing the stack (with the final top peats).</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_AuchtercairnSchoolmoine-d0e315"
-             subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+            >5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
          <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e320">
             <form>
                <orth>cliabh</orth>
@@ -275,18 +275,18 @@
             </form>
             <def>load.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_AuchtercairnSchoolmoine-d0e373"
-             subtype="h1">6. Seòrsachan mònach</ab>
+            >6. Seòrsachan mònach</head>
          <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e378">
             <form>
                <orth>moine dhubh</orth>
             </form>
             <def>hard, black peat, best for burning.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_AuchtercairnSchoolmoine-d0e386"
-             subtype="h1">7. Faclan eile</ab>
+            >7. Faclan eile</head>
       </body>
    </text>
 </TEI>

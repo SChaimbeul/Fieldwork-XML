@@ -29,7 +29,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term>Peat-Working</term>
+               <term xml:lang="en">Peat-Working</term>
                <term>Mòine</term>
             </keywords>
          </textClass>
@@ -37,14 +37,14 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading" xml:id="Peat_StaffinSchoolmoine-d0e26" subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+         <head xml:id="Peat_StaffinSchoolmoine-d0e26">1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
          <entry xml:id="Peat_StaffinSchoolmoine-d0e31">
             <form>
                <orth>rusgadh</orth>
             </form>
             <def>turfing.</def>
          </entry>
-         <ab type="heading" xml:id="Peat_StaffinSchoolmoine-d0e39" subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+         <head xml:id="Peat_StaffinSchoolmoine-d0e39">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
          <entry xml:id="Peat_StaffinSchoolmoine-d0e44">
             <form>
                <orth>spaid</orth>
@@ -69,7 +69,7 @@
             </form>
             <def>bottom peat.</def>
          </entry>
-         <ab type="heading" xml:id="Peat_StaffinSchoolmoine-d0e79" subtype="h1">3. A’ tiormachadh na mònach</ab>
+         <head xml:id="Peat_StaffinSchoolmoine-d0e79">3. A’ tiormachadh na mònach</head>
          <entry xml:id="Peat_StaffinSchoolmoine-d0e84">
             <form>
                <orth>togail na mona</orth>
@@ -94,16 +94,16 @@
             </form>
             <def>one peat lifted on its side with other two resting against it to dry.</def>
          </entry>
-         <ab type="heading" xml:id="Peat_StaffinSchoolmoine-d0e119" subtype="h1">4. A’ cruachadh na mònach</ab>
+         <head xml:id="Peat_StaffinSchoolmoine-d0e119">4. A’ cruachadh na mònach</head>
          <entry xml:id="Peat_StaffinSchoolmoine-d0e124">
             <form>
                <orth>gniomhadh</orth>
             </form>
             <def>preparing the outside edge of the peat stack.</def>
          </entry>
-         <ab type="heading" xml:id="Peat_StaffinSchoolmoine-d0e132" subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
-         <ab type="heading" xml:id="Peat_StaffinSchoolmoine-d0e136" subtype="h1">6. Seòrsachan mònach</ab>
-         <ab type="heading" xml:id="Peat_StaffinSchoolmoine-d0e140" subtype="h1">7. Faclan eile</ab>
+         <head xml:id="Peat_StaffinSchoolmoine-d0e132">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
+         <head xml:id="Peat_StaffinSchoolmoine-d0e136">6. Seòrsachan mònach</head>
+         <head xml:id="Peat_StaffinSchoolmoine-d0e140">7. Faclan eile</head>
       </body>
    </text>
 </TEI>

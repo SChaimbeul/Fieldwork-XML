@@ -44,9 +44,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e32"
-             subtype="h1">1. Na tràthan</ab>
+            >1. Na tràthan</head>
          <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e37">
             <form>
                <orth>[blank]</orth>
@@ -71,12 +71,12 @@
             </form>
             <def>dinner?</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e72"
-             subtype="h1">2. Am biadh a bhidhte gabhail aig gach tràth</ab>
-         <ab type="heading"
+            >2. Am biadh a bhidhte gabhail aig gach tràth</head>
+         <head
              xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e76"
-             subtype="h2">Breakfast</ab>
+             subtype="h2">Breakfast</head>
          <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e81">
             <form>
                <orth>[blank]</orth>
@@ -161,9 +161,9 @@
             </form>
             <def>kippers.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e206"
-             subtype="h2">Lunch?</ab>
+             subtype="h2">Lunch?</head>
          <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e211">
             <form>
                <orth>[blank]</orth>
@@ -392,9 +392,9 @@
             </form>
             <def>custard.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e552"
-             subtype="h1">3. Dòighean air biadh a dheasachadh</ab>
+            >3. Dòighean air biadh a dheasachadh</head>
          <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e557">
             <form>
                <orth>[blank]</orth>
@@ -419,9 +419,9 @@
             </form>
             <def>boil.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e592"
-             subtype="h1">4. Fuine</ab>
+            >4. Fuine</head>
          <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e597">
             <form>
                <orth>[blank]</orth>
@@ -500,9 +500,9 @@
             </form>
             <def>I’m baking bread / scones.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e713"
-             subtype="h1">5. Deochan dhe gach seòrsa</ab>
+            >5. Deochan dhe gach seòrsa</head>
          <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e718">
             <form>
                <orth>[blank]</orth>
@@ -545,18 +545,18 @@
             </form>
             <def>wine.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e780"
-             subtype="h1">6. Biadh no deoch a bhidhte deanamh gu sònraichte do luchd euslan</ab>
+            >6. Biadh no deoch a bhidhte deanamh gu sònraichte do luchd euslan</head>
          <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e785">
             <form>
                <orth>styoorack</orth>
             </form>
             <def>gruel.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e793"
-             subtype="h1">7. Nithean a bhiodh ann nuair a rachadh beathach a mharbhadh</ab>
+            >7. Nithean a bhiodh ann nuair a rachadh beathach a mharbhadh</head>
          <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e798">
             <form>
                <orth>[blank]</orth>
@@ -581,9 +581,9 @@
             </form>
             <def>cod’s head.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e833"
-             subtype="h1">8. Faclan sam bith eile</ab>
+            >8. Faclan sam bith eile</head>
          <entry xml:id="AssortedFieldworkers_HiltonCRossbiadh-d0e838">
             <form>
                <orth>[blank]</orth>

@@ -43,9 +43,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="DRMorrisonetal_BornishJMacMillanmisc-d0e36"
-             subtype="h1">May, 1970. blue diary</ab>
+            >May, 1970. blue diary</head>
          <entry xml:id="DRMorrisonetal_BornishJMacMillanmisc-idp120895056">
             <form>
                <orth>lethbhuinn</orth>
@@ -1240,9 +1240,9 @@
             </form>
             <def>(lamh chrann) a thin pole, used for the handle of a suisde, as a rule.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrisonetal_BornishJMacMillanmisc-d0e1824"
-             subtype="h1">South Uist. December, 1971.</ab>
+            >South Uist. December, 1971.</head>
          <entry xml:id="DRMorrisonetal_BornishJMacMillanmisc-idp165259512">
             <form>
                <orth>garradh-phloc</orth>

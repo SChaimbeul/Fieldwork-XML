@@ -41,12 +41,12 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e29"
-             subtype="h1">1. General terms</ab>
-         <ab type="heading"
+            >1. General terms</head>
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e33"
-             subtype="h2">1.1. Good weather</ab>
+             subtype="h2">1.1. Good weather</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e38">
             <form>
                <orth>an t-sìde mhath</orth>
@@ -63,9 +63,9 @@
             </form>
             <def>a beautiful day.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e58"
-             subtype="h2">1.2. Bad weather</ab>
+             subtype="h2">1.2. Bad weather</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e63">
             <form>
                <orth>droch shìd’</orth>
@@ -95,9 +95,9 @@
             </form>
             <def>troubled weather.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e104"
-             subtype="h2">1.3. Temperature</ab>
+             subtype="h2">1.3. Temperature</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e109">
             <form>
                <orth>sìd’ chas</orth>
@@ -138,9 +138,9 @@
                <orth>blath</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e165"
-             subtype="h2">1.4. Dryness, wetness</ab>
+             subtype="h2">1.4. Dryness, wetness</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e170">
             <form>
                <orth>sìde thioram</orth>
@@ -157,20 +157,20 @@
             </form>
             <def>damp.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e190"
-             subtype="h1">2. The sky and the weather</ab>
-         <ab type="heading"
+            >2. The sky and the weather</head>
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e194"
-             subtype="h2">2.1. A clear sky by day</ab>
+             subtype="h2">2.1. A clear sky by day</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e199">
             <form>
                <orth>speur glan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e204"
-             subtype="h2">2.2. A clear night sky</ab>
+             subtype="h2">2.2. A clear night sky</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e209">
             <form>
                <orth>oidhche bhriagha</orth>
@@ -186,18 +186,18 @@
                <orth>speur glan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e226"
-             subtype="h2">2.3. A red sky</ab>
+             subtype="h2">2.3. A red sky</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e231">
             <form>
                <orth>speur dearg</orth>
             </form>
             <def>Ma tha e ri ’fhaicinn tha fiughair ri gaoth an eara-dheas gun dàil. Speur dearg anns a’ mhadainn trath anns an Earrach bha fiughair ri an-shìd gun dàil.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e239"
-             subtype="h2">2.4. An overcast sky</ab>
+             subtype="h2">2.4. An overcast sky</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e244">
             <form>
                <orth>salach</orth>
@@ -221,9 +221,9 @@
             </form>
             <def>hazey.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e273"
-             subtype="h2">2.5. Unusual appearance of the moon or the sun</ab>
+             subtype="h2">2.5. Unusual appearance of the moon or the sun</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e278">
             <form>
                <orth>buaile (f)</orth>
@@ -255,17 +255,17 @@
             </form>
             <def>[See casan o’n ghréin]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e322"
-             subtype="h2">2.6. The northern lights</ab>
+             subtype="h2">2.6. The northern lights</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e327">
             <form>
                <orth>fir chlis</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e332"
-             subtype="h2">2.7. Stars</ab>
+             subtype="h2">2.7. Stars</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e337">
             <form>
                <orth>runnag (f), runnagan (pl)</orth>
@@ -306,12 +306,12 @@
                <orth>(Stars twinkling – frost.)</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e393"
-             subtype="h1">3. Clouds</ab>
-         <ab type="heading"
+            >3. Clouds</head>
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e397"
-             subtype="h2">3.1. Light cloud</ab>
+             subtype="h2">3.1. Light cloud</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e402">
             <form>
                <orth>neòil shoilleir</orth>
@@ -322,9 +322,9 @@
                <orth>neòil aotrom</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e413"
-             subtype="h2">3.2. Cirrus cloud</ab>
+             subtype="h2">3.2. Cirrus cloud</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e418">
             <form>
                <orth>neòil àrd</orth>
@@ -336,9 +336,9 @@
             </form>
             <def>mares tails. (Fiughair ri gaoth.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e432"
-             subtype="h2">3.3. Thick cloud</ab>
+             subtype="h2">3.3. Thick cloud</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e437">
             <form>
                <orth>neòil thairneanach</orth>
@@ -351,9 +351,9 @@
             </form>
             <def>grey and heavily overcast.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e454"
-             subtype="h2">3.4. Rainbow</ab>
+             subtype="h2">3.4. Rainbow</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e459">
             <form>
                <orth>bogha-froiseadh</orth>
@@ -366,12 +366,12 @@
             </form>
             <def>small section of rainbow suspended in sky. Includes all rainbow colours. Generally seen in showery weather.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e476"
-             subtype="h1">4. Wind</ab>
-         <ab type="heading"
+            >4. Wind</head>
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e480"
-             subtype="h2">4.1. Dead calm</ab>
+             subtype="h2">4.1. Dead calm</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e485">
             <form>
                <orth>fiath (noun)</orth>
@@ -389,27 +389,27 @@
             </form>
             <def>also can mean the smir of drizzle.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e508"
-             subtype="h2">4.2. Light breeze</ab>
+             subtype="h2">4.2. Light breeze</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e513">
             <form>
                <orth>oiteag (f)</orth>
             </form>
             <def>could also be a whirlwind as experienced at springtime and harvest-time.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e521"
-             subtype="h2">4.3. Fresh breeze</ab>
+             subtype="h2">4.3. Fresh breeze</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e526">
             <form>
                <orth>brios</orth>
             </form>
             <def>breeze.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e534"
-             subtype="h2">4.4. Gusts</ab>
+             subtype="h2">4.4. Gusts</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e539">
             <form>
                <orth>gaoth ’na deannaichean</orth>
@@ -421,49 +421,49 @@
             </form>
             <def>a gust.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e553"
-             subtype="h2">4.5. Wind of variable direction</ab>
+             subtype="h2">4.5. Wind of variable direction</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e558">
             <form>
                <orth>very seldom</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e563"
-             subtype="h2">4.6. Strong wind</ab>
+             subtype="h2">4.6. Strong wind</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e568">
             <form>
                <orth>gaoth làidir</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e573"
-             subtype="h2">4.7. Gale</ab>
+             subtype="h2">4.7. Gale</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e578">
             <form>
                <orth>geal (f)</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e583"
-             subtype="h2">4.8. Hurricane</ab>
+             subtype="h2">4.8. Hurricane</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e588">
             <form>
                <orth>stoirm (f)</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e593"
-             subtype="h2">4.9. Rising wind</ab>
+             subtype="h2">4.9. Rising wind</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e598">
             <form>
                <orth>a’ ghaoth a’ buannachd</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e603"
-             subtype="h2">4.10. Dying wind</ab>
+             subtype="h2">4.10. Dying wind</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e608">
             <form>
                <orth>a’ ghaoth a’ toirt dheth</orth>
@@ -474,9 +474,9 @@
                <orth>a’ ghaoth a’ sìleadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e619"
-             subtype="h2">4.11. Winds associated with particular seasons of the year</ab>
+             subtype="h2">4.11. Winds associated with particular seasons of the year</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e624">
             <form>
                <orth>gaoth-earraich</orth>
@@ -489,9 +489,9 @@
             </form>
             <def>an ear-thuath (NE).</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e641"
-             subtype="h2">Trì gaothan a’s fuaire:</ab>
+             subtype="h2">Trì gaothan a’s fuaire:</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e646">
             <form>
                <orth>gaoth roimh tholl</orth>
@@ -510,17 +510,17 @@
             </form>
             <def>3rd coldest.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e672"
-             subtype="h1">5. Tides</ab>
+            >5. Tides</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e677">
             <form>
                <orth>làin</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e682"
-             subtype="h2">5.1. Flowing</ab>
+             subtype="h2">5.1. Flowing</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e687">
             <form>
                <orth>làn a’ buannachd</orth>
@@ -531,9 +531,9 @@
                <orth>làn a’ tighinn a-staigh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e698"
-             subtype="h2">5.2. Ebbing</ab>
+             subtype="h2">5.2. Ebbing</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e703">
             <form>
                <orth>lan  a’ toirt dheth</orth>
@@ -541,25 +541,25 @@
             </form>
             <def>[sic] </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e708"
-             subtype="h2">5.3. High tide</ab>
+             subtype="h2">5.3. High tide</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e713">
             <form>
                <orth>muir làn</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e718"
-             subtype="h2">5.4. Low tide</ab>
+             subtype="h2">5.4. Low tide</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e723">
             <form>
                <orth>muir tràigh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e728"
-             subtype="h2">5.5. Spring tide</ab>
+             subtype="h2">5.5. Spring tide</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e733">
             <form>
                <orth>traigh reothairt</orth>
@@ -572,92 +572,92 @@
             </form>
             <def>high spring tide.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e750"
-             subtype="h2">5.6. Neap tide</ab>
+             subtype="h2">5.6. Neap tide</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e755">
             <form>
                <orth>contraigh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e760"
-             subtype="h2">5.7. Turn of the tide</ab>
+             subtype="h2">5.7. Turn of the tide</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e765">
             <form>
                <orth>tionndadh a’ làin</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e770"
-             subtype="h1">6. Weather and the sea</ab>
-         <ab type="heading"
+            >6. Weather and the sea</head>
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e774"
-             subtype="h2">6.1. A calm sea</ab>
+             subtype="h2">6.1. A calm sea</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e779">
             <form>
                <orth>cuan lom</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e784"
-             subtype="h2">6.2. A light swell</ab>
+             subtype="h2">6.2. A light swell</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e789">
             <form>
                <orth>“swell” beag</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e794"
-             subtype="h2">6.3. A heavy swell</ab>
+             subtype="h2">6.3. A heavy swell</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e799">
             <form>
                <orth>“swell” trom</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e804"
-             subtype="h2">6.4. A choppy sea</ab>
+             subtype="h2">6.4. A choppy sea</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e809">
             <form>
                <orth>fairge chas</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e814"
-             subtype="h2">6.5. A stormy sea</ab>
+             subtype="h2">6.5. A stormy sea</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e819">
             <form>
                <orth>fairge churs</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e824"
-             subtype="h2">6.6. Large waves</ab>
+             subtype="h2">6.6. Large waves</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e829">
             <form>
                <orth>tonnan móra</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e834"
-             subtype="h2">6.7. Breakers</ab>
+             subtype="h2">6.7. Breakers</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e839">
             <form>
                <orth>bristichean (aon bhristeadh)</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e844"
-             subtype="h2">6.8. Surf</ab>
+             subtype="h2">6.8. Surf</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e849">
             <form>
                <orth>stoth</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e854"
-             subtype="h2">6.9. Spindrift</ab>
+             subtype="h2">6.9. Spindrift</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e859">
             <form>
                <orth>cath a’ chuain</orth>
@@ -669,28 +669,28 @@
             </form>
             <def>a wave, but not breaking.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e873"
-             subtype="h1">7. Rain</ab>
-         <ab type="heading"
+            >7. Rain</head>
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e877"
-             subtype="h2">7.1. Drizzle</ab>
+             subtype="h2">7.1. Drizzle</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e882">
             <form>
                <orth>smugalach-uisge</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e887"
-             subtype="h2">7.2. Light shower</ab>
+             subtype="h2">7.2. Light shower</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e892">
             <form>
                <orth>fras aotrom</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e897"
-             subtype="h2">7.3. Heavy shower</ab>
+             subtype="h2">7.3. Heavy shower</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e902">
             <form>
                <orth>fras throm</orth>
@@ -701,25 +701,25 @@
                <orth>steall-uisge</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e913"
-             subtype="h2">7.4. Prolonged rain</ab>
+             subtype="h2">7.4. Prolonged rain</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e918">
             <form>
                <orth>fìor uisge</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e923"
-             subtype="h2">7.5. Driving rain</ab>
+             subtype="h2">7.5. Driving rain</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e928">
             <form>
                <orth>uisge sgaoil</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e933"
-             subtype="h2">7.6. Getting soaked</ab>
+             subtype="h2">7.6. Getting soaked</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e938">
             <form>
                <orth>bog-fliuch</orth>
@@ -731,36 +731,36 @@
             </form>
             <def>drizzle.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e952"
-             subtype="h1">8. Mist</ab>
-         <ab type="heading"
+            >8. Mist</head>
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e956"
-             subtype="h2">8.1. Light mist</ab>
+             subtype="h2">8.1. Light mist</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e961">
             <form>
                <orth>ceòban</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e966"
-             subtype="h2">8.2. Heavy mist</ab>
+             subtype="h2">8.2. Heavy mist</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e971">
             <form>
                <orth>ceò</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e976"
-             subtype="h2">8.3. Sea mist</ab>
+             subtype="h2">8.3. Sea mist</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e981">
             <form>
                <orth>ceò-mara</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e986"
-             subtype="h2">8.4. Other terms associated with mist</ab>
+             subtype="h2">8.4. Other terms associated with mist</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e991">
             <form>
                <orth>[ceò-earraich]</orth>
@@ -773,12 +773,12 @@
             </form>
             <def>misty.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1008"
-             subtype="h1">9. Thunder and lightning</ab>
-         <ab type="heading"
+            >9. Thunder and lightning</head>
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1012"
-             subtype="h2">9.1. Thunder</ab>
+             subtype="h2">9.1. Thunder</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1017">
             <form>
                <orth>tairneanach cruaidh</orth>
@@ -791,9 +791,9 @@
             </form>
             <def>distant thunder.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1034"
-             subtype="h2">9.2. Lightning</ab>
+             subtype="h2">9.2. Lightning</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1039">
             <form>
                <orth>tein’-adhair</orth>
@@ -812,12 +812,12 @@
             </form>
             <def>sheet lightning between clouds.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1065"
-             subtype="h1">10. Snow and hail</ab>
-         <ab type="heading"
+            >10. Snow and hail</head>
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1069"
-             subtype="h2">10.1. Snowflakes</ab>
+             subtype="h2">10.1. Snowflakes</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1074">
             <form>
                <orth>clàdan (m), clàdain (pl)</orth>
@@ -830,53 +830,53 @@
             </form>
             <def>(No word in Tiree for small snowflakes.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1091"
-             subtype="h2">10.2. Sleet</ab>
+             subtype="h2">10.2. Sleet</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1096">
             <form>
                <orth>fliuchana-shneachda</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1101"
-             subtype="h2">10.3. Different types of snow</ab>
+             subtype="h2">10.3. Different types of snow</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1106">
             <form>
                <orth>sneachd fliuch</orth>
             </form>
             <def>wet snow.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1114"
-             subtype="h2">10.4. Driving snow</ab>
+             subtype="h2">10.4. Driving snow</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1119">
             <form>
                <orth>cathadh-shneachda</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1124"
-             subtype="h2">10.5. Heavy fall</ab>
+             subtype="h2">10.5. Heavy fall</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1129">
             <form>
                <orth>sneachda trom</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1134"
-             subtype="h2">10.6. Snowdrifts</ab>
+             subtype="h2">10.6. Snowdrifts</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1139">
             <form>
                <orth>bòta-sneachda, botaichean-sneachda (pl)</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1144"
-             subtype="h2">10.7. A few flakes floating in the wind</ab>
-         <ab type="heading"
+             subtype="h2">10.7. A few flakes floating in the wind</head>
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1148"
-             subtype="h2">10.8. Snowman and rolled ball of snow</ab>
+             subtype="h2">10.8. Snowman and rolled ball of snow</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1153">
             <form>
                <orth>bodach-sneachda</orth>
@@ -892,36 +892,36 @@
                <orth>muc-bhàn</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1170"
-             subtype="h2">10.9. Hailstones</ab>
+             subtype="h2">10.9. Hailstones</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1175">
             <form>
                <orth>clach-mheallan</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1180"
-             subtype="h1">11. Frost</ab>
-         <ab type="heading"
+            >11. Frost</head>
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1184"
-             subtype="h2">11.1. Hoarfrost</ab>
+             subtype="h2">11.1. Hoarfrost</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1189">
             <form>
                <orth>liath-reothadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1194"
-             subtype="h2">11.2. Hard frost</ab>
+             subtype="h2">11.2. Hard frost</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1199">
             <form>
                <orth>reothadh cruaidh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1204"
-             subtype="h2">11.3. Ice</ab>
+             subtype="h2">11.3. Ice</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1209">
             <form>
                <orth>deigheanach (f)</orth>
@@ -933,20 +933,20 @@
                <orth>“Cha robh reothadh an loin làin riamh buan.”</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1223"
-             subtype="h2">11.4. Thaw</ab>
+             subtype="h2">11.4. Thaw</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1228">
             <form>
                <orth>aiteamh (f)</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1233"
-             subtype="h1">12. Signs foretelling weather.</ab>
-         <ab type="heading"
+            >12. Signs foretelling weather.</head>
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1237"
-             subtype="h2">12.1. Foretelling good weather</ab>
+             subtype="h2">12.1. Foretelling good weather</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1242">
             <form>
                <orth>[foretelling good weather 1]</orth>
@@ -965,9 +965,9 @@
             </form>
             <def>Deep red sky at night.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1262"
-             subtype="h2">12.2. Foretelling bad weather</ab>
+             subtype="h2">12.2. Foretelling bad weather</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1267">
             <form>
                <orth>[foretelling bad weather 1]</orth>
@@ -1016,9 +1016,9 @@
             </form>
             <def>Badag chruaidh.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1317"
-             subtype="h1">13. General sayings or proverbs connected with the weather</ab>
+            >13. General sayings or proverbs connected with the weather</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeanweather-d0e1322">
             <form>
                <orth>[general sayings or proverbs 1]</orth>

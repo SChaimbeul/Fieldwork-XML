@@ -41,9 +41,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_NethyBridgeNSmithsheep-d0e29"
-             subtype="h1">1. Different stages in the growth of sheep (female)</ab>
+            >1. Different stages in the growth of sheep (female)</head>
          <entry xml:id="CattleandSheep_NethyBridgeNSmithsheep-d0e34">
             <form>
                <orth>uan</orth>
@@ -62,27 +62,27 @@
             </form>
             <def>I have heard the word ‘oisg’ used for a sheep but I don’t know did the word belong to any particular age group. The ‘o’ sounded like ‘o’ in ‘òran’.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_NethyBridgeNSmithsheep-d0e60"
-             subtype="h1">2. Different stages in the growth of sheep (male)</ab>
+            >2. Different stages in the growth of sheep (male)</head>
          <entry xml:id="CattleandSheep_NethyBridgeNSmithsheep-d0e65">
             <form>
                <orth>reithe</orth>
             </form>
             <def>this is the only word I ever heard applied to a ram.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_NethyBridgeNSmithsheep-d0e73"
-             subtype="h1">3. Different stages in the growth of the castrated male</ab>
+            >3. Different stages in the growth of the castrated male</head>
          <entry xml:id="CattleandSheep_NethyBridgeNSmithsheep-d0e78">
             <form>
                <orth>mult</orth>
             </form>
             <def>this was the general term given to a castrated or wedder lamb after he had been clipped for the first time.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_NethyBridgeNSmithsheep-d0e86"
-             subtype="h1">4. Sheep’s appearance</ab>
+            >4. Sheep’s appearance</head>
          <entry xml:id="CattleandSheep_NethyBridgeNSmithsheep-d0e91">
             <form>
                <orth>maol</orth>
@@ -95,15 +95,15 @@
             </form>
             <def>this word described a sheep with short pointed horns and also narrow and pointed look of the face generally.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_NethyBridgeNSmithsheep-d0e108"
-             subtype="h1">5. Miscellaneous</ab>
-         <ab type="heading"
+            >5. Miscellaneous</head>
+         <head
              xml:id="CattleandSheep_NethyBridgeNSmithsheep-d0e112"
-             subtype="h1">6. Feeding and grazing</ab>
-         <ab type="heading"
+            >6. Feeding and grazing</head>
+         <head
              xml:id="CattleandSheep_NethyBridgeNSmithsheep-d0e116"
-             subtype="h1">7. Handling of sheep</ab>
+            >7. Handling of sheep</head>
          <entry xml:id="CattleandSheep_NethyBridgeNSmithsheep-d0e121">
             <form>
                <orth>faoch</orth>
@@ -122,21 +122,21 @@
             </form>
             <def>pushing the sheep into the fank.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_NethyBridgeNSmithsheep-d0e147"
-             subtype="h1">8. Apparatus</ab>
-         <ab type="heading"
+            >8. Apparatus</head>
+         <head
              xml:id="CattleandSheep_NethyBridgeNSmithsheep-d0e151"
-             subtype="h1">9. Diseases</ab>
+            >9. Diseases</head>
          <entry xml:id="CattleandSheep_NethyBridgeNSmithsheep-d0e156">
             <form>
                <orth>ploc</orth>
             </form>
             <def>this was the name given for liver fluke which shows on the sheep by a swelling under the jaw.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_NethyBridgeNSmithsheep-d0e164"
-             subtype="h1">10. Parts of the body</ab>
+            >10. Parts of the body</head>
          <entry xml:id="CattleandSheep_NethyBridgeNSmithsheep-d0e169">
             <form>
                <orth>ceann</orth>
@@ -195,12 +195,12 @@
             </form>
             <def>Being on the subject of sheep I will add a phrase which I have heard here in connection with the cold north east winds we get here often in March. This wind was known as Gaoth na Seicean, the reason being that the grass, the little that is on the fields at that time of year, was all brown and withered as it is usually a frosty wind; the sheep would become very poor in condition and giving the appearance that there was nothing left but the skin.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_NethyBridgeNSmithsheep-d0e243"
-             subtype="h1">11. Lambing</ab>
-         <ab type="heading"
+            >11. Lambing</head>
+         <head
              xml:id="CattleandSheep_NethyBridgeNSmithsheep-d0e247"
-             subtype="h1">12. Miscellaneous</ab>
+            >12. Miscellaneous</head>
       </body>
    </text>
 </TEI>

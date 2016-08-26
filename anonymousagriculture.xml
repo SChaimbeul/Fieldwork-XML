@@ -42,12 +42,12 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e32"
-             subtype="h1">1. Land division and allocation</ab>
-         <ab type="heading"
+            >1. Land division and allocation</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e36"
-             subtype="h2">(a) Specific portions or allotments into which arable land is divided</ab>
+             subtype="h2">(a) Specific portions or allotments into which arable land is divided</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e41">
             <form>
                <orth>iomaire</orth>
@@ -66,9 +66,9 @@
             </form>
             <def>a division of land about 3 rigs in width used when farm was held separately between two tenants.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e67"
-             subtype="h3">Rotation of crop</ab>
+             subtype="h3">Rotation of crop</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e72">
             <form>
                <orth>shiol feer (f)</orth>
@@ -105,9 +105,9 @@
             </form>
             <def>pasture.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e125"
-             subtype="h2">(b) Various types of arable land</ab>
+             subtype="h2">(b) Various types of arable land</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e130">
             <form>
                <orth>an dreel (f)</orth>
@@ -168,12 +168,12 @@
             </form>
             <def>word for divisions of land held separately between two tenants.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e219"
-             subtype="h2">(c) Actual dividing and allocating of land, e.g. casting lots</ab>
-         <ab type="heading"
+             subtype="h2">(c) Actual dividing and allocating of land, e.g. casting lots</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e223"
-             subtype="h2">(d) Land owned or held under leases of various duration</ab>
+             subtype="h2">(d) Land owned or held under leases of various duration</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e228">
             <form>
                <orth>croit</orth>
@@ -192,15 +192,15 @@
             </form>
             <def>lease.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e254"
-             subtype="h1">2. Harness of a horse</ab>
-         <ab type="heading"
+            >2. Harness of a horse</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e258"
-             subtype="h2">(a) The harness of a horse as used in the performance of different tasks</ab>
-         <ab type="heading"
+             subtype="h2">(a) The harness of a horse as used in the performance of different tasks</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e262"
-             subtype="h3">For carting:</ab>
+             subtype="h3">For carting:</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e267">
             <form>
                <orth>braìdh</orth>
@@ -225,9 +225,9 @@
             </form>
             <def>blinders.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e302"
-             subtype="h3">For ploughing:</ab>
+             subtype="h3">For ploughing:</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e307">
             <form>
                <orth>braìdh</orth>
@@ -252,9 +252,9 @@
             </form>
             <def>plough trees.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e342"
-             subtype="h3">Harrowing:</ab>
+             subtype="h3">Harrowing:</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e347">
             <form>
                <orth>cliadhan</orth>
@@ -267,18 +267,18 @@
             </form>
             <def>harrowing in field.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e364"
-             subtype="h2">(b) Different parts of the harness for carting</ab>
-         <ab type="heading"
+             subtype="h2">(b) Different parts of the harness for carting</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e368"
-             subtype="h2">(c) Different parts of the harness for ploughing or harrowing</ab>
-         <ab type="heading"
+             subtype="h2">(c) Different parts of the harness for ploughing or harrowing</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e372"
-             subtype="h1">3. Carts</ab>
-         <ab type="heading"
+            >3. Carts</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e376"
-             subtype="h2">(a) The common farm-yard cart</ab>
+             subtype="h2">(a) The common farm-yard cart</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e381">
             <form>
                <orth>“cartch”</orth>
@@ -303,18 +303,18 @@
             </form>
             <def>(No couping carts in Arran.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e416"
-             subtype="h2">(b) Different parts of a cart</ab>
-         <ab type="heading"
+             subtype="h2">(b) Different parts of a cart</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e420"
-             subtype="h3">1. Body</ab>
-         <ab type="heading"
+             subtype="h3">1. Body</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e424"
-             subtype="h3">2. Trams</ab>
-         <ab type="heading"
+             subtype="h3">2. Trams</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e428"
-             subtype="h3">3. Wheel and axle</ab>
+             subtype="h3">3. Wheel and axle</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e433">
             <form>
                <orth>an roth</orth>
@@ -333,12 +333,12 @@
             </form>
             <def>nave.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e459"
-             subtype="h3">4. Decorations</ab>
-         <ab type="heading"
+             subtype="h3">4. Decorations</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e463"
-             subtype="h4">Colour:</ab>
+             subtype="h4">Colour:</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e468">
             <form>
                <orth>doan</orth>
@@ -351,15 +351,15 @@
             </form>
             <def>green.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e485"
-             subtype="h2">(c) Other words associated with carting</ab>
-         <ab type="heading"
+             subtype="h2">(c) Other words associated with carting</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e489"
-             subtype="h1">4. The plough</ab>
-         <ab type="heading"
+            >4. The plough</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e493"
-             subtype="h2">(a) Different kinds of ploughs</ab>
+             subtype="h2">(a) Different kinds of ploughs</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e498">
             <form>
                <orth>beartch èiran</orth>
@@ -372,9 +372,9 @@
             </form>
             <def>a pair of horses. Two horses for ploughing in light soil.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e515"
-             subtype="h2">(b) Parts of a plough in detail</ab>
+             subtype="h2">(b) Parts of a plough in detail</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e520">
             <form>
                <orth>reest</orth>
@@ -387,12 +387,12 @@
             </form>
             <def>coltair.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e537"
-             subtype="h1">5. Harrows and swingle trees</ab>
-         <ab type="heading"
+            >5. Harrows and swingle trees</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e541"
-             subtype="h2">(a) Different types of harrows</ab>
+             subtype="h2">(a) Different types of harrows</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e546">
             <form>
                <orth>cliathan</orth>
@@ -405,24 +405,24 @@
             </form>
             <def>swingle trees.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e563"
-             subtype="h2">(b) Swingle trees</ab>
+             subtype="h2">(b) Swingle trees</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e568">
             <form>
                <orth>na toughachan</orth>
             </form>
             <def>chains.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e576"
-             subtype="h1">6. Spring work</ab>
-         <ab type="heading"
+            >6. Spring work</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e580"
-             subtype="h2">(a) Fertilisers and fertilising</ab>
-         <ab type="heading"
+             subtype="h2">(a) Fertilisers and fertilising</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e584"
-             subtype="h3">1. Fertilisers</ab>
+             subtype="h3">1. Fertilisers</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e589">
             <form>
                <orth>feamaire</orth>
@@ -441,9 +441,9 @@
             </form>
             <def>farm yard manure.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e615"
-             subtype="h3">2. The actual work performed, e.g. transporting seaweed/manure to field</ab>
+             subtype="h3">2. The actual work performed, e.g. transporting seaweed/manure to field</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e620">
             <form>
                <orth>kartach feumari (f)</orth>
@@ -456,9 +456,9 @@
             </form>
             <def>carting farmyard manure.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e637"
-             subtype="h3">3. Implements used for lifting, carrying and spreading manure or seaweed</ab>
+             subtype="h3">3. Implements used for lifting, carrying and spreading manure or seaweed</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e642">
             <form>
                <orth>gràpa cròm</orth>
@@ -471,12 +471,12 @@
             </form>
             <def>wheelbarrow. [NOTES: ‘th’ added in pencil.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e659"
-             subtype="h2">(b) Turning and tilling the soil</ab>
-         <ab type="heading"
+             subtype="h2">(b) Turning and tilling the soil</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e663"
-             subtype="h3">1. Implements used for turning or tilling the soil</ab>
+             subtype="h3">1. Implements used for turning or tilling the soil</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e668">
             <form>
                <orth>beartch</orth>
@@ -489,12 +489,12 @@
             </form>
             <def>harrows.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e685"
-             subtype="h3">2. Parts of the implements used</ab>
-         <ab type="heading"
+             subtype="h3">2. Parts of the implements used</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e689"
-             subtype="h3">3. Words used in connection with tilling the soil, e.g. digging</ab>
+             subtype="h3">3. Words used in connection with tilling the soil, e.g. digging</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e694">
             <form>
                <orth>gaida</orth>
@@ -507,12 +507,12 @@
             </form>
             <def>first furrow.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e711"
-             subtype="h2">(c) Seed planting</ab>
-         <ab type="heading"
+             subtype="h2">(c) Seed planting</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e715"
-             subtype="h3">1. Names of seeds planted and words used for sowing or planting these</ab>
+             subtype="h3">1. Names of seeds planted and words used for sowing or planting these</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e720">
             <form>
                <orth>cuir corka</orth>
@@ -531,48 +531,48 @@
             </form>
             <def>single potato. [NOTES: the last item added in pencil.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e746"
-             subtype="h3">2. Names of any special sack, basket etc. used for carrying seed when sowing or planting</ab>
+             subtype="h3">2. Names of any special sack, basket etc. used for carrying seed when sowing or planting</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e751">
             <form>
                <orth>am bràt</orth>
             </form>
             <def>apron for plating potatoes.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e759"
-             subtype="h3">3. Names of any special implement used for planting</ab>
-         <ab type="heading"
+             subtype="h3">3. Names of any special implement used for planting</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e763"
-             subtype="h1">7. Summer work</ab>
-         <ab type="heading"
+            >7. Summer work</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e767"
-             subtype="h2">(a) Cleaning and weeding potatoes</ab>
+             subtype="h2">(a) Cleaning and weeding potatoes</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e772">
             <form>
                <orth>gartlan</orth>
             </form>
             <def>weeding.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e780"
-             subtype="h2">(b) Thinning and weeding other crops</ab>
+             subtype="h2">(b) Thinning and weeding other crops</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e785">
             <form>
                <orth>tennach (f)</orth>
             </form>
             <def>thinning turnips.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e793"
-             subtype="h1">8. Autumn work</ab>
-         <ab type="heading"
+            >8. Autumn work</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e797"
-             subtype="h2">(a) Hay making</ab>
-         <ab type="heading"
+             subtype="h2">(a) Hay making</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e801"
-             subtype="h3">1. The implement used for (a) cutting (b) raking and turning (c) lifting and stacking</ab>
+             subtype="h3">1. The implement used for (a) cutting (b) raking and turning (c) lifting and stacking</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e806">
             <form>
                <orth>coran</orth>
@@ -591,24 +591,24 @@
             </form>
             <def>sharpener.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e832"
-             subtype="h3">2. Name the parts of the implements mentioned</ab>
+             subtype="h3">2. Name the parts of the implements mentioned</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e837">
             <form>
                <orth>coran</orth>
             </form>
             <def>reaping hook.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e845"
-             subtype="h3">3. Various stages of hay-making</ab>
-         <ab type="heading"
+             subtype="h3">3. Various stages of hay-making</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e849"
-             subtype="h2">(b) Corn cutting and securing</ab>
-         <ab type="heading"
+             subtype="h2">(b) Corn cutting and securing</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e853"
-             subtype="h3">1. Implements used for cutting, raking, binding, lifting into stacks etc.</ab>
+             subtype="h3">1. Implements used for cutting, raking, binding, lifting into stacks etc.</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e858">
             <form>
                <orth>speal (f)</orth>
@@ -634,18 +634,18 @@
             </form>
             <def>[sic] taking in to stackyard.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e893"
-             subtype="h3">2. Bands (for tying corn), sheaves, stooks etc.</ab>
+             subtype="h3">2. Bands (for tying corn), sheaves, stooks etc.</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e898">
             <form>
                <orth>adag</orth>
             </form>
             <def>stook. 6 sheaves for redland corn, 8 sheaves for lea corn.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e906"
-             subtype="h3">3. Stack making (in yard)</ab>
+             subtype="h3">3. Stack making (in yard)</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e911">
             <form>
                <orth>moulin</orth>
@@ -670,30 +670,30 @@
             </form>
             <def>heather and/or straw ropes.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e946"
-             subtype="h3">4. Methods of carrying or transporting corn from field to cornyard</ab>
+             subtype="h3">4. Methods of carrying or transporting corn from field to cornyard</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e951">
             <form>
                <orth>cur is stach</orth>
             </form>
             <def>carting in corn.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e959"
-             subtype="h2">(c) Potato lifting and storing</ab>
-         <ab type="heading"
+             subtype="h2">(c) Potato lifting and storing</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e963"
-             subtype="h3">1. Implements</ab>
+             subtype="h3">1. Implements</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e968">
             <form>
                <orth>claioch lei graipa (f)</orth>
             </form>
             <def>digging with graips.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e976"
-             subtype="h3">2. Sack, creel, barrow etc. used for carrying potatoes in field and to steading</ab>
+             subtype="h3">2. Sack, creel, barrow etc. used for carrying potatoes in field and to steading</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e981">
             <form>
                <orth>bascaid (f)</orth>
@@ -706,9 +706,9 @@
             </form>
             <def>basket. [NOTES: ‘caiteag’ added in pencil.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e998"
-             subtype="h3">3. Where potatoes are kept or stored</ab>
+             subtype="h3">3. Where potatoes are kept or stored</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e1003">
             <form>
                <orth>f.</orth>
@@ -716,60 +716,60 @@
             </form>
             <def>[gender?] cheevitch [?] for covering potatoes.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e1011"
-             subtype="h3">4. Potato diseases</ab>
-         <ab type="heading"
+             subtype="h3">4. Potato diseases</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e1015"
-             subtype="h2">(d) Other crops (Lifting and storing)</ab>
-         <ab type="heading"
+             subtype="h2">(d) Other crops (Lifting and storing)</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e1019"
-             subtype="h3">1. Implements used for lifting</ab>
-         <ab type="heading"
+             subtype="h3">1. Implements used for lifting</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e1023"
-             subtype="h3">2. How and where crop is stored</ab>
-         <ab type="heading"
+             subtype="h3">2. How and where crop is stored</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e1027"
-             subtype="h3">3. Diseases/insects which attack the particular crop(s)</ab>
-         <ab type="heading"
+             subtype="h3">3. Diseases/insects which attack the particular crop(s)</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e1031"
-             subtype="h1">9. Winter work</ab>
-         <ab type="heading"
+            >9. Winter work</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e1035"
-             subtype="h2">(a) Land drainage</ab>
-         <ab type="heading"
+             subtype="h2">(a) Land drainage</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e1039"
-             subtype="h3">1. Drains, ditches etc.</ab>
+             subtype="h3">1. Drains, ditches etc.</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e1044">
             <form>
                <orth>dig (jeek) (f)</orth>
             </form>
             <def>ditch.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e1052"
-             subtype="h3">2. Implements used</ab>
+             subtype="h3">2. Implements used</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e1057">
             <form>
                <orth>sluasid cas fada (f)</orth>
             </form>
             <def>long shafted shovel.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e1065"
-             subtype="h2">(b) Potato cutting for seed</ab>
-         <ab type="heading"
+             subtype="h2">(b) Potato cutting for seed</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e1069"
-             subtype="h3">1. Instruments used</ab>
-         <ab type="heading"
+             subtype="h3">1. Instruments used</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e1073"
-             subtype="h3">2. Different kinds of potatoes</ab>
-         <ab type="heading"
+             subtype="h3">2. Different kinds of potatoes</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e1077"
-             subtype="h2">(c) Corn threshing</ab>
-         <ab type="heading"
+             subtype="h2">(c) Corn threshing</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e1081"
-             subtype="h3">1. Implements used</ab>
+             subtype="h3">1. Implements used</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e1086">
             <form>
                <orth>f  suisead buailtean</orth>
@@ -783,30 +783,30 @@
             </form>
             <def>heaps of sheaves.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e1103"
-             subtype="h3">2. Threshing</ab>
+             subtype="h3">2. Threshing</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e1108">
             <form>
                <orth>boidenach</orth>
             </form>
             <def>battleing [sic] straw. [NOTES: this item added in pencil.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e1116"
-             subtype="h2">(d) Grain winnowing</ab>
-         <ab type="heading"
+             subtype="h2">(d) Grain winnowing</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e1120"
-             subtype="h3">1. Devices used</ab>
-         <ab type="heading"
+             subtype="h3">1. Devices used</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e1124"
-             subtype="h3">2. How constructed and materials used. Winnowing.</ab>
-         <ab type="heading"
+             subtype="h3">2. How constructed and materials used. Winnowing.</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e1128"
-             subtype="h1">10. Permanent structures/buildings for storing crops</ab>
-         <ab type="heading"
+            >10. Permanent structures/buildings for storing crops</head>
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e1132"
-             subtype="h2">(a) Stack-yard</ab>
+             subtype="h2">(a) Stack-yard</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e1137">
             <form>
                <orth>f  iolainn</orth>
@@ -820,18 +820,18 @@
             </form>
             <def>barn yard.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e1154"
-             subtype="h2">(b) Barn and parts of a barn</ab>
+             subtype="h2">(b) Barn and parts of a barn</head>
          <entry xml:id="Agriculture_anonymousagriculture-d0e1159">
             <form>
                <orth>sabhal</orth>
             </form>
             <def>barn.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_anonymousagriculture-d0e1167"
-             subtype="h1">11. Modern implements and machines</ab>
+            >11. Modern implements and machines</head>
       </body>
    </text>
 </TEI>

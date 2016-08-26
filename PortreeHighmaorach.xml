@@ -42,9 +42,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e32"
-             subtype="h1">1. Maorach</ab>
+            >1. Maorach</head>
          <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e37">
             <form>
                <orth>muirsgian</orth>
@@ -135,9 +135,9 @@
             </form>
             <def>large periwinkle.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e171"
-             subtype="h1">2. A’ tional maorach</ab>
+            >2. A’ tional maorach</head>
          <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e176">
             <form>
                <orth>a’ togail fhaochag</orth>
@@ -168,9 +168,9 @@
             </form>
             <def>creel.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e220"
-             subtype="h1">3. Beathaichean eile a gheibhear ’sa’ chladach</ab>
+            >3. Beathaichean eile a gheibhear ’sa’ chladach</head>
          <entry xml:id="WoolworkingandFishing_PortreeHighmaorach-d0e225">
             <form>
                <orth>crùbag</orth>

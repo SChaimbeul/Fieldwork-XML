@@ -33,7 +33,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term>Peat-Working</term>
+               <term xml:lang="en">Peat-Working</term>
                <term>Mòine</term>
             </keywords>
          </textClass>
@@ -41,9 +41,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Peat_TaransayCNMacKenziemoine-d0e34"
-             subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+            >1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
          <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e39">
             <form>
                <orth>sgoradh</orth>
@@ -118,9 +118,9 @@
             </form>
             <def>Aghaidh a phuill-mhònadh. (E. the face of the bank.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_TaransayCNMacKenziemoine-d0e148"
-             subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+            >2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
          <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e153">
             <form>
                <orth>sgoradair</orth>
@@ -278,9 +278,9 @@
             </form>
             <def>an doimhne ruigeas an tairisgeir le aon phutadh dhan chois a chuireas an “ceum” air cothrom ris “a’ charcaire”. Tha doimhne phuill air a thoimhis a reir ’ona th’ann a dh’fhoid os cionn a cheil.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_TaransayCNMacKenziemoine-d0e378"
-             subtype="h1">3. A’ tiormachadh na mònach</ab>
+            >3. A’ tiormachadh na mònach</head>
          <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e383">
             <form>
                <orth>tionndadh</orth>
@@ -327,9 +327,9 @@
             </form>
             <def>am blar a mach a bhruach a phuill air a bheil a mhoine sgaoilte gus an togar i.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_TaransayCNMacKenziemoine-d0e449"
-             subtype="h1">4. A’ cruachadh na mònach</ab>
+            >4. A’ cruachadh na mònach</head>
          <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e454">
             <form>
                <orth>’cruachadh</orth>
@@ -376,9 +376,9 @@
             </form>
             <def>am ploc, na sgrath, a bha dùnadh a mhullaich aig cruach chruinn bhiorach.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_TaransayCNMacKenziemoine-d0e520"
-             subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+            >5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
          <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e525">
             <form>
                <orth>cliabh-droma</orth>
@@ -423,9 +423,9 @@
         <graphic url="TaransayCNMacKenziemoineillust13.jpg" width="300px"/>
             </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_TaransayCNMacKenziemoine-d0e586"
-             subtype="h1">6. Seòrsachan mònach</ab>
+            >6. Seòrsachan mònach</head>
          <entry xml:id="Peat_TaransayCNMacKenziemoine-d0e591">
             <form>
                <orth>“riasg”</orth>
@@ -468,9 +468,9 @@
             </form>
             <def>sin a chanaiste ris a mhonaidh a b’fhearr – gu robh i “mar an caineal”. Neo gun gabhadh i “mar na coinnlean”. Tha e annasach mothachadh gu can cuid de na meineirean ris a ghual chruaidh, shleamhuinn a tha fo ainm “purrit coal” – “canal” or “cannal”.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_TaransayCNMacKenziemoine-d0e653"
-             subtype="h1">7. Faclan eile</ab>
+            >7. Faclan eile</head>
       </body>
    </text>
 </TEI>

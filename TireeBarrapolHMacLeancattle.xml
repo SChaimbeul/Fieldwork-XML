@@ -41,9 +41,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e28"
-             subtype="h1">1. Different stages in the growth of cattle</ab>
+            >1. Different stages in the growth of cattle</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e33">
             <form>
                <orth>laogh (m), laoigh (pl)</orth>
@@ -104,9 +104,9 @@
             </form>
             <def>a cow not in calf.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e122"
-             subtype="h1">2. Breeds of cattle</ab>
+            >2. Breeds of cattle</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e127">
             <form>
                <orth>crodh Gallda</orth>
@@ -125,9 +125,9 @@
             </form>
             <def>Aberdeen; Angus; Galloway.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e153"
-             subtype="h1">3. Outward appearance of cattle</ab>
+            >3. Outward appearance of cattle</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e158">
             <form>
                <orth>droch òrdan</orth>
@@ -158,18 +158,18 @@
             </form>
             <def>good condition.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e202"
-             subtype="h1">4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</ab>
+            >4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e207">
             <form>
                <orth>peata (m), peatachan (pl)</orth>
             </form>
             <def>pet cow.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e215"
-             subtype="h1">5. Parts of the body</ab>
+            >5. Parts of the body</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e220">
             <form>
                <orth>ceann</orth>
@@ -357,9 +357,9 @@
             </form>
             <def>coat.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e492"
-             subtype="h1">6. Calving</ab>
+            >6. Calving</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e497">
             <form>
                <orth>a’ toirt mart do’n tarbh</orth>
@@ -376,9 +376,9 @@
             </form>
             <def>afterbirth.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e517"
-             subtype="h1">7. Milking</ab>
+            >7. Milking</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e522">
             <form>
                <orth>a’ bleoghann</orth>
@@ -421,9 +421,9 @@
             </form>
             <def>vessels.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e584"
-             subtype="h1">8. Feeding</ab>
+            >8. Feeding</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e589">
             <form>
                <orth>a’ biadhadh</orth>
@@ -466,9 +466,9 @@
             </form>
             <def>tending of cattle. Buachailleachd a’ chruidh.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e651"
-             subtype="h1">9. Apparatus</ab>
+            >9. Apparatus</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e656">
             <form>
                <orth>ceangail</orth>
@@ -517,12 +517,12 @@
             </form>
             <def>instrument to prevent calf suckling.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e727"
-             subtype="h1">10. Diseases</ab>
-         <ab type="heading"
+            >10. Diseases</head>
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e731"
-             subtype="h2">(a) diseases of the skin; warts, swellings, spots; ticks, worms found in the hide</ab>
+             subtype="h2">(a) diseases of the skin; warts, swellings, spots; ticks, worms found in the hide</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e736">
             <form>
                <orth>a’ chloich</orth>
@@ -547,9 +547,9 @@
             </form>
             <def>swelling.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e771"
-             subtype="h2">(b) diseases of the head and neck</ab>
+             subtype="h2">(b) diseases of the head and neck</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e776">
             <form>
                <orth>galar a’ chinn</orth>
@@ -568,12 +568,12 @@
             </form>
             <def>TB.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e802"
-             subtype="h2">(c) diseases of the bone structure</ab>
-         <ab type="heading"
+             subtype="h2">(c) diseases of the bone structure</head>
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e806"
-             subtype="h2">(d) diseases of the internal organs</ab>
+             subtype="h2">(d) diseases of the internal organs</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e811">
             <form>
                <orth>a’ spùd</orth>
@@ -598,9 +598,9 @@
             </form>
             <def>urine trouble in horses, connected with kidneys.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e846"
-             subtype="h2">(e) diseases affecting the udder and milk production</ab>
+             subtype="h2">(e) diseases affecting the udder and milk production</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e851">
             <form>
                <orth>fiabhras a’ bhainne</orth>
@@ -613,12 +613,12 @@
             </form>
             <def>pine. (Due to a lack of cobalt.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e867"
-             subtype="h2">(f) injury of any kind</ab>
-         <ab type="heading"
+             subtype="h2">(f) injury of any kind</head>
+         <head
              xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e872"
-             subtype="h1">11. Miscellaneous [misnumbered as 12]</ab>
+            >11. Miscellaneous [misnumbered as 12]</head>
          <entry xml:id="TireeandMull_TireeBarrapolHMacLeancattle-d0e877">
             <form>
                <orth>Tarraing</orth>

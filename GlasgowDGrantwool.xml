@@ -42,15 +42,15 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e29"
-             subtype="h1">1. Raw wool</ab>
-         <ab type="heading"
+            >1. Raw wool</head>
+         <head
              xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e33"
-             subtype="h1">2. Oil or grease put on wool before carding</ab>
-         <ab type="heading"
+            >2. Oil or grease put on wool before carding</head>
+         <head
              xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e37"
-             subtype="h1">3. Carding</ab>
+            >3. Carding</head>
          <entry xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e42">
             <form>
                <orth>a’ càrdadh</orth>
@@ -64,36 +64,36 @@
             </form>
             <def>roll of wool.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e59"
-             subtype="h1">4. Spinning</ab>
-         <ab type="heading"
+            >4. Spinning</head>
+         <head
              xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e63"
-             subtype="h1">5. Parts of the spinning wheel</ab>
-         <ab type="heading"
+            >5. Parts of the spinning wheel</head>
+         <head
              xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e67"
-             subtype="h1">6. Yarn and associated apparatus</ab>
-         <ab type="heading"
+            >6. Yarn and associated apparatus</head>
+         <head
              xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e71"
-             subtype="h1">7. Dyeing</ab>
-         <ab type="heading"
+            >7. Dyeing</head>
+         <head
              xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e75"
-             subtype="h1">8. Washing after dyeing</ab>
-         <ab type="heading"
+            >8. Washing after dyeing</head>
+         <head
              xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e79"
-             subtype="h1">9. Warping</ab>
-         <ab type="heading"
+            >9. Warping</head>
+         <head
              xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e83"
-             subtype="h1">10. Beaming and tying</ab>
-         <ab type="heading"
+            >10. Beaming and tying</head>
+         <head
              xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e87"
-             subtype="h1">11. Weaving</ab>
-         <ab type="heading"
+            >11. Weaving</head>
+         <head
              xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e91"
-             subtype="h1">12. Parts of the weaving loom</ab>
-         <ab type="heading"
+            >12. Parts of the weaving loom</head>
+         <head
              xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e95"
-             subtype="h1">13. Finishing</ab>
+            >13. Finishing</head>
       </body>
    </text>
 </TEI>

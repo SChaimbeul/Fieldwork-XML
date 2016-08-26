@@ -37,7 +37,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term>Peat-Working</term>
+               <term xml:lang="en">Peat-Working</term>
                <term>Mòine</term>
             </keywords>
          </textClass>
@@ -45,9 +45,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Peat_FoindleDAMacLeodmoine-d0e40"
-             subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+            >1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
          <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e45">
             <form>
                <orth>rusgadh</orth>
@@ -56,9 +56,9 @@
 	  <graphic url="FoindleDAMacLeodmoineillust2.jpg" width="200px"/>
 	           </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_FoindleDAMacLeodmoine-d0e55"
-             subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+            >2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
          <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e60">
             <form>
                <orth>taraisgil</orth>
@@ -97,9 +97,9 @@
         <graphic url="FoindleDAMacLeodmoineillust1.jpg" width="200px"/>
             </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_FoindleDAMacLeodmoine-d0e115"
-             subtype="h1">3. A’ tiormachadh na mònach</ab>
+            >3. A’ tiormachadh na mònach</head>
          <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e120">
             <form>
                <orth>stoireag</orth>
@@ -112,18 +112,18 @@
             </form>
             <def>a larger heap – the size of which is according to weather condition.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_FoindleDAMacLeodmoine-d0e137"
-             subtype="h1">4. A’ cruachadh na mònach</ab>
+            >4. A’ cruachadh na mònach</head>
          <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e142">
             <form>
                <orth>cruachadh</orth>
             </form>
             <def>Air do’n mhoine bhi lan thioram theid a cruinneachadh uile cuideachd nan dunan mòr, agus air a steidhibh ceithir-thimchioll oirre gu’cumail cuimte agus tioram.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_FoindleDAMacLeodmoine-d0e150"
-             subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+            >5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
          <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e155">
             <form>
                <orth>cliabh  cleibh</orth>
@@ -131,9 +131,9 @@
             </form>
             <def>[pl.] creel. Is ann le cleibh bha a’ mhoine air a’ to’airt dhachaigh anns an t-sheann aimsir. Is e sealladh gle chumanta bh’ann gach fear-tigh fhaicinn a’ dol gach la dhiarraidh cliabh moine do an cruach, a’ dhaodadh bhi suas ri mile air falbh o’n tigh. Ach cha-neil aon chliabh ri fhaicinn anns a’ chearn so o chionn iomadh bliadhna air ais. Tha a’ mhoine nis air a giulan dhachaidh le carbaidean ola de gach seorsa. Tha rathaidean nis anns gach aite, agus mar sin tha a’ mhoine air a buain cho faisg air an rathad ’s a ghabhas deanamh.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_FoindleDAMacLeodmoine-d0e163"
-             subtype="h1">6. Seòrsachan mònach</ab>
+            >6. Seòrsachan mònach</head>
          <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e168">
             <form>
                <orth>moine bhuidh</orth>
@@ -144,9 +144,9 @@
                <orth>moine dhubh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_FoindleDAMacLeodmoine-d0e179"
-             subtype="h1">7. Faclan eile</ab>
+            >7. Faclan eile</head>
       </body>
    </text>
 </TEI>

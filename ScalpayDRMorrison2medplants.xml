@@ -39,12 +39,12 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e29"
-             subtype="h1">A. Plant medicines</ab>
-         <ab type="heading"
+            >A. Plant medicines</head>
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e35"
-             subtype="h2">1. Diseases in the head area</ab>
+             subtype="h2">1. Diseases in the head area</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idola275">
             <form>
                <orth>[headache]</orth>
@@ -73,9 +73,9 @@
         cow coming under the spell of evil. Sources of information: my mother. ** traditional noted
         by Martin Martin (?), etc.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e68"
-             subtype="h3">Noted as glossary I</ab>
+             subtype="h3">Noted as glossary I</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116337520">
             <form>
                <orth>arbhar-froisidh</orth>
@@ -140,9 +140,9 @@
         perhaps lighter than emerald leaves with pinkish small flower. ‘Fliodh-a-bhuntàta’, given to
         cattle for food, not for medicinal factors, purposely.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e155"
-             subtype="h2">2. Respiratory diseases</ab>
+             subtype="h2">2. Respiratory diseases</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116323336">
             <form>
                <orth>fuil na bothaig</orth>
@@ -161,9 +161,9 @@
         composition and drunk. Drinking some of it, a little now and again, I presume. Sources of
         information: traditionally.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e179"
-             subtype="h3">Noted as glossary II</ab>
+             subtype="h3">Noted as glossary II</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116317720">
             <form>
                <orth>stiom-fhuail</orth>
@@ -237,9 +237,9 @@
             <def>ragwort. Used in dyeing wool, giving the yellow proceeds of the colouring
         version…</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e284"
-             subtype="h2">3. The blood</ab>
+             subtype="h2">3. The blood</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116300080">
             <form>
                <orth>lus-nan-laogh</orth>
@@ -275,9 +275,9 @@
         with healing abstraction, qualities. Part used / How prepared: mixed together. Prenisteir
         [sic] is bainne air a measgadh. Sources of information: traditionally.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e326"
-             subtype="h3">Noted as glossary III</ab>
+             subtype="h3">Noted as glossary III</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp116291080">
             <form>
                <orth>glas-fheur</orth>
@@ -312,9 +312,9 @@
         for eating by simply boiling it. In other words, after being in dung or manure, whatever way
         you want to put it, for days.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e368"
-             subtype="h2">4. The bowels and stomach</ab>
+             subtype="h2">4. The bowels and stomach</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp120926288">
             <form>
                <orth>sobhrach</orth>
@@ -330,9 +330,9 @@
             <def>Disease: for stomach complaint. Part used: the whole plant eaten. How
         prepared: eating it raw, as taken from the ground.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e392"
-             subtype="h3">Noted as glossary IV</ab>
+             subtype="h3">Noted as glossary IV</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp120931184">
             <form>
                <orth>cusag</orth>
@@ -380,9 +380,9 @@
             <def>heather likewise [i.e. ‘used in thatching sheilings’ like ‘sallastair’ above?],
         etc.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e461"
-             subtype="h2">5. Bladder and kidneys</ab>
+             subtype="h2">5. Bladder and kidneys</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp120942704">
             <form>
                <orth>eòrna</orth>
@@ -402,9 +402,9 @@
       as a skin purifier, skin ointment. 2. Same used with flour to soothe the skin if the skin
       showed signs of parchment.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e485"
-             subtype="h3">Noted as glossary VI</ab>
+             subtype="h3">Noted as glossary VI</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp120947024">
             <form>
                <orth>fraoch-geal</orth>
@@ -457,9 +457,9 @@
             <def>giving [sic] to cattle in the event of, as termed in Gaelic, ‘glasadh
         uisge’.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e563"
-             subtype="h2">6. Other internal organs</ab>
+             subtype="h2">6. Other internal organs</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp115179352">
             <form>
                <orth>greim mór</orth>
@@ -467,9 +467,9 @@
             <def>appendix. Poultices, etc. I’ll attend to this subject in due time, I
         hope.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e578"
-             subtype="h3">Noted as glossary VII</ab>
+             subtype="h3">Noted as glossary VII</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp115174096">
             <form>
                <orth>brochan-teth coirce</orth>
@@ -493,9 +493,9 @@
         Harris. F.S. [?] [P.S.?] Bha na màthraichean beò – cha do rinn e càil oirre
         [sic].</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e602"
-             subtype="h2">7. Gynaecological complaints</ab>
+             subtype="h2">7. Gynaecological complaints</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idola278">
             <form>
                <orth>[note]</orth>
@@ -529,9 +529,9 @@
             <def>buttermilk was also used for burns. Putting ‘blàthach’ on burns, for healing, not
         the antiseptic portion of the story.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e653"
-             subtype="h3">Noted as glossary VIII</ab>
+             subtype="h3">Noted as glossary VIII</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp115160272">
             <form>
                <orth>comharradh</orth>
@@ -596,9 +596,9 @@
             </form>
             <def>the aftermath of calving.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e749"
-             subtype="h2">8. Skin diseases not already mentioned</ab>
+             subtype="h2">8. Skin diseases not already mentioned</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118773000">
             <form>
                <orth>spealtan</orth>
@@ -636,9 +636,9 @@
             <def>crotul is im an ceann a chéile cuideachd air a ghleachdadh mar achduinn-suathaidh
         air son losgadh a chuir feabhas (ann an Scalpaigh).</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e800"
-             subtype="h3">Noted as glossary IX</ab>
+             subtype="h3">Noted as glossary IX</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118781208">
             <form>
                <orth>feamainn-shiabaidh</orth>
@@ -674,9 +674,9 @@
             <def>clover. An exemptional [sic] [exceptional?] nutriment, nourishment, in connection
         with the feeding of cattle.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e851"
-             subtype="h2">9. Acute diseases</ab>
+             subtype="h2">9. Acute diseases</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118789632">
             <form>
                <orth>tobacco</orth>
@@ -688,9 +688,9 @@
         nursed for a while, used to chew tobacco to prevent him having the disease himself – a
         disinfectant method he adopted himself. I’ll make further enquiry.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e866"
-             subtype="h3">Noted as glossary X</ab>
+             subtype="h3">Noted as glossary X</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118792728">
             <form>
                <orth>mam</orth>
@@ -728,9 +728,9 @@
             <def>malaria. Sailors, island sailors, used to refer to it thus as here, those who
         were subjected to it from foreign lands.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e917"
-             subtype="h2">10. The skeleton and muscles</ab>
+             subtype="h2">10. The skeleton and muscles</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118801152">
             <form>
                <orth>ola chroinn ola</orth>
@@ -772,9 +772,9 @@
         tòrradh-rodan, when a person was asked to go to a wedding or some entertainment.
         ‘Tòrradh-rodan’ – unless it was an invented phrase.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e968"
-             subtype="h3">Noted as glossary XI</ab>
+             subtype="h3">Noted as glossary XI</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118811520">
             <form>
                <orth>lianranaich</orth>
@@ -809,10 +809,10 @@
             </form>
             <def>a wart like resemblance of a wart, but a birthmark.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1019"
-             subtype="h1">B. Treatments which did not involve the use of
-        plants</ab>
+            >B. Treatments which did not involve the use of
+        plants</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118819944">
             <form>
                <orth>saills</orth>
@@ -870,9 +870,9 @@
             </form>
             <def>Urine – for rash, foul shave.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1097"
-             subtype="h2">Noted as glossary XII</ab>
+             subtype="h2">Noted as glossary XII</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118831032">
             <form>
                <orth>tinneas-cuim</orth>
@@ -913,9 +913,9 @@
         cold’, etc. (Methylated spirits injected in the tooth, was, is a more modern
         cure.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1148"
-             subtype="h1">C. Veterinary medicine</ab>
+            >C. Veterinary medicine</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118839744">
             <form>
                <orth>a’ chloimh</orth>
@@ -989,9 +989,9 @@
         thrombosis. Birds wouldn’t, will not eat from, disdain to eat the dead
         carcase.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1244"
-             subtype="h2">Noted as glossary XIII</ab>
+             subtype="h2">Noted as glossary XIII</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118856592">
             <form>
                <orth>[stocainn]</orth>
@@ -1003,10 +1003,10 @@
         ‘Brochan teth’ to minor cases. Before mustard was recommended, mustard was considered a
         stronger replacement.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1259"
-             subtype="h1">D. What do you think is the English name for the plants
-        called in Gaelic.</ab>
+            >D. What do you think is the English name for the plants
+        called in Gaelic.</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idola283">
             <form>
                <orth>[note]</orth>
@@ -1048,9 +1048,9 @@
             <def>cnapan beaga air druim a chruidh, b’ann an còmhnuidh air crodh fallain a bhiodh
         seo.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1319"
-             subtype="h2">Noted as glossary XIV</ab>
+             subtype="h2">Noted as glossary XIV</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118869264">
             <form>
                <orth>stapag</orth>
@@ -1094,9 +1094,9 @@
             </form>
             <def>[See scramhag.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1379"
-             subtype="h1">E. Any further information about your sources</ab>
+            >E. Any further information about your sources</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idola284">
             <form>
                <orth>[note]</orth>
@@ -1131,9 +1131,9 @@
             <def>medical properties, was [sic] boiled and the water in which they were
         boiled in [sic] was drank for worms in children (cure).</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1421"
-             subtype="h2">Noted as glossary XV</ab>
+             subtype="h2">Noted as glossary XV</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118885824">
             <form>
                <orth>cotan</orth>
@@ -1153,12 +1153,12 @@
             <def>wool was used but disapproved of eventually as in the (suspect) case of having
         germs.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1445"
-             subtype="h1">F. Other information not covered above</ab>
-         <ab type="heading"
+            >F. Other information not covered above</head>
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1451"
-             subtype="h2">Sheep diseases</ab>
+             subtype="h2">Sheep diseases</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp118890720">
             <form>
                <orth>spùt</orth>
@@ -1238,9 +1238,9 @@
             <def>Tha chaora còmhnuidh ag iarraidh leabaidh-thiorman. Thus otherwise she is prone
         to pneumonia, etc. as one expert remarked to me…</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1565"
-             subtype="h2">Cattle</ab>
+             subtype="h2">Cattle</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idola286">
             <form>
                <orth>[the evil eye]</orth>
@@ -1276,9 +1276,9 @@
             <def>B’ann le canna, can, a bhiodhta a cur na stiuraig na bial,
       etc. neo nam bial.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1616"
-             subtype="h3">Noted as glossary XVI</ab>
+             subtype="h3">Noted as glossary XVI</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161225104">
             <form>
                <orth>spuir-eòin</orth>
@@ -1317,9 +1317,9 @@
         sibh gin?’ The answer: ‘Fhuair sinn gnàthladh.’ Still used on Scalpay, Harris in connection
         with fishing: gnàthladh sgadain – scatter, small scatter.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1667"
-             subtype="h1">F. Other information not covered above</ab>
+            >F. Other information not covered above</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161233528">
             <form>
                <orth>bratag-fhraoich</orth>
@@ -1328,9 +1328,9 @@
         the patient suffering from burns. I have heard this mentioned – perhaps faith
         cure.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1682"
-             subtype="h2">Cattle (continued)</ab>
+             subtype="h2">Cattle (continued)</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161235904">
             <form>
                <orth>is broillean</orth>
@@ -1371,9 +1371,9 @@
         an goil, ’s an sin leigeil leis gu fuarachadh, ’s a h-uile cail a bh’ann a thoirt dh’an
         bhoin, sùgh is eile…</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrison_ScalpayDRMorrison2medplants-d0e1733"
-             subtype="h3">Noted as glossary XVII</ab>
+             subtype="h3">Noted as glossary XVII</head>
          <entry xml:id="DRMorrison_ScalpayDRMorrison2medplants-idp161244472">
             <form>
                <orth>spòg-an-fhithich</orth>

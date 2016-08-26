@@ -42,9 +42,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_DaliburghJAMacDonaldeaglais-d0e32"
-             subtype="h1">1. Dreuchdan na h-eaglais</ab>
+            >1. Dreuchdan na h-eaglais</head>
          <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idm109571888">
             <form>
                <orth>Am Pàpa</orth>
@@ -309,9 +309,9 @@
             </form>
             <def>Jesuit.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_DaliburghJAMacDonaldeaglais-d0e432"
-             subtype="h1">2. Aodaichean sagairt, easbuig, etc.</ab>
+            >2. Aodaichean sagairt, easbuig, etc.</head>
          <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp204440">
             <form>
                <orth>An Coilear</orth>
@@ -444,9 +444,9 @@
             </form>
             <def>Vestments’ Chest.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_DaliburghJAMacDonaldeaglais-d0e634"
-             subtype="h1">3. Laithean fèille na bliadhna agus cleachdaidhean co-cheangailte rui</ab>
+            >3. Laithean fèille na bliadhna agus cleachdaidhean co-cheangailte rui</head>
          <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp243536">
             <form>
                <orth>An Aidbhean</orth>
@@ -682,9 +682,9 @@
             </form>
             <def>Candlemas (2nd February).</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_DaliburghJAMacDonaldeaglais-d0e989"
-             subtype="h1">4. Gach pàirt dhen eaglais agus àiteachan sonraichte am broinn na h-eaglais</ab>
+            >4. Gach pàirt dhen eaglais agus àiteachan sonraichte am broinn na h-eaglais</head>
          <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp423344">
             <form>
                <orth>Am Poirte</orth>
@@ -775,9 +775,9 @@
             </form>
             <def>Vestry door.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_DaliburghJAMacDonaldeaglais-d0e1128"
-             subtype="h1">5. Nìthean a tha air a cleachdadh ann a bhith deanamh aifreann neo seirbheis</ab>
+            >5. Nìthean a tha air a cleachdadh ann a bhith deanamh aifreann neo seirbheis</head>
          <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp446888">
             <form>
                <orth>Buill na h-Altarach</orth>
@@ -928,9 +928,9 @@
             </form>
             <def>Oil of the Sacrament of the Sick; Oleum Infirmorum.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_DaliburghJAMacDonaldeaglais-d0e1357"
-             subtype="h1">10. Seòrsachan ùrnaigh agus cleachdaidhean co-cheangailte rui</ab>
+            >10. Seòrsachan ùrnaigh agus cleachdaidhean co-cheangailte rui</head>
          <entry xml:id="AOHenley_DaliburghJAMacDonaldeaglais-idp489080">
             <form>
                <orth>An Urnaigh</orth>

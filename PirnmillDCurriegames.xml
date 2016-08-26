@@ -37,9 +37,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Games_PirnmillDCurriegames-d0e26"
-             subtype="h1">1. Toys</ab>
+            >1. Toys</head>
          <entry xml:id="Games_PirnmillDCurriegames-d0e31">
             <form>
                <orth>tailm</orth>
@@ -64,9 +64,9 @@
             </form>
             <def>puppet.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Games_PirnmillDCurriegames-d0e66"
-             subtype="h1">2. Swings, see-saws</ab>
+            >2. Swings, see-saws</head>
          <entry xml:id="Games_PirnmillDCurriegames-d0e71">
             <form>
                <orth>siùdain</orth>
@@ -79,15 +79,15 @@
             </form>
             <def>swings.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Games_PirnmillDCurriegames-d0e88"
-             subtype="h1">3. Games played indoors</ab>
-         <ab type="heading"
+            >3. Games played indoors</head>
+         <head
              xml:id="Games_PirnmillDCurriegames-d0e92"
-             subtype="h1">4. Outdoor games not involving a ball or puck</ab>
-         <ab type="heading"
+            >4. Outdoor games not involving a ball or puck</head>
+         <head
              xml:id="Games_PirnmillDCurriegames-d0e96"
-             subtype="h1">5. Ball games</ab>
+            >5. Ball games</head>
          <entry xml:id="Games_PirnmillDCurriegames-d0e101">
             <form>
                <orth>ball-coise</orth>
@@ -112,27 +112,27 @@
             </form>
             <def>shinty stick.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Games_PirnmillDCurriegames-d0e136"
-             subtype="h1">6. Athletics</ab>
-         <ab type="heading"
+            >6. Athletics</head>
+         <head
              xml:id="Games_PirnmillDCurriegames-d0e140"
-             subtype="h1">7. Heavy events</ab>
-         <ab type="heading"
+            >7. Heavy events</head>
+         <head
              xml:id="Games_PirnmillDCurriegames-d0e144"
-             subtype="h1">8. Contests involving pulling or pushing</ab>
-         <ab type="heading"
+            >8. Contests involving pulling or pushing</head>
+         <head
              xml:id="Games_PirnmillDCurriegames-d0e148"
-             subtype="h1">9. Boxing and wrestling</ab>
+            >9. Boxing and wrestling</head>
          <entry xml:id="Games_PirnmillDCurriegames-d0e153">
             <form>
                <orth>gleachd</orth>
             </form>
             <def>wrestle.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Games_PirnmillDCurriegames-d0e161"
-             subtype="h1">10. Blows in general</ab>
+            >10. Blows in general</head>
          <entry xml:id="Games_PirnmillDCurriegames-d0e166">
             <form>
                <orth>buillean</orth>
@@ -151,9 +151,9 @@
             </form>
             <def>blow.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Games_PirnmillDCurriegames-d0e192"
-             subtype="h1">11. Injury and exhaustion</ab>
+            >11. Injury and exhaustion</head>
          <entry xml:id="Games_PirnmillDCurriegames-d0e197">
             <form>
                <orth>gearradh</orth>

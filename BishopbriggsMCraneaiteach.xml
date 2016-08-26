@@ -41,9 +41,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e29"
-             subtype="h1">1. Na togalaichean: sobhal, bàthach is mar sin, agus ainm gach pàirt dhiubh</ab>
+            >1. Na togalaichean: sobhal, bàthach is mar sin, agus ainm gach pàirt dhiubh</head>
          <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp112048704">
             <form>
                <orth>spiris</orth>
@@ -98,24 +98,24 @@
             </form>
             <def>for holding down the thatch.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e114"
-             subtype="h1">2. A’ mathachadh no a’ leasachadh na talmhainn</ab>
-         <ab type="heading"
+            >2. A’ mathachadh no a’ leasachadh na talmhainn</head>
+         <head
              xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e118"
-             subtype="h1">3. A’ treabhadh no a’ ruamhar: an crann agus ainm gach pàirt dheth</ab>
-         <ab type="heading"
+            >3. A’ treabhadh no a’ ruamhar: an crann agus ainm gach pàirt dheth</head>
+         <head
              xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e122"
-             subtype="h1">4. Innealan beaga leithid spaid, gràp, ràcan is mar sin</ab>
-         <ab type="heading"
+            >4. Innealan beaga leithid spaid, gràp, ràcan is mar sin</head>
+         <head
              xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e126"
-             subtype="h1">5. Acfhuinn an eich airson gach seòrsa obair</ab>
-         <ab type="heading"
+            >5. Acfhuinn an eich airson gach seòrsa obair</head>
+         <head
              xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e130"
-             subtype="h1">6. A’ cur an t-sìl</ab>
-         <ab type="heading"
+            >6. A’ cur an t-sìl</head>
+         <head
              xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e134"
-             subtype="h1">7. A’ buain agus a’ tiormachadh an arbhair no an fheòir</ab>
+            >7. A’ buain agus a’ tiormachadh an arbhair no an fheòir</head>
          <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2554176">
             <form>
                <orth>corran</orth>
@@ -146,9 +146,9 @@
             </form>
             <def>rick of corn. Equivalent of ‘toit’ in Uist.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e183"
-             subtype="h1">8. A’ togail a’ bhuntàta</ab>
+            >8. A’ togail a’ bhuntàta</head>
          <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2525304">
             <form>
                <orth>gràp</orth>
@@ -166,12 +166,12 @@
             </form>
             <def>choosing which potatoes to eat and those to be used for seed potatoes next year. Potato needs 2 eyes to be used for seed purposes. Some of larger potatoes cut up and given to sheep. No name provided for this process.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e211"
-             subtype="h1">9. A’ tasgadh an arbhair agus a’ bhuntàta</ab>
-         <ab type="heading"
+            >9. A’ tasgadh an arbhair agus a’ bhuntàta</head>
+         <head
              xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e215"
-             subtype="h1">10. A’ bualadh ’s a’ criathradh</ab>
+            >10. A’ bualadh ’s a’ criathradh</head>
          <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2531928">
             <form>
                <orth>cliathadh</orth>
@@ -190,12 +190,12 @@
                <orth>suisteadh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e244"
-             subtype="h1">11. A’ bleith an t-sìl</ab>
-         <ab type="heading"
+            >11. A’ bleith an t-sìl</head>
+         <head
              xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e248"
-             subtype="h1">12. Ainmean a chleachdar ri earrainn fearainn</ab>
+            >12. Ainmean a chleachdar ri earrainn fearainn</head>
          <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2534664">
             <form>
                <orth>lòt</orth>
@@ -208,9 +208,9 @@
             </form>
             <def>separate fields of corn or potatoes.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e270"
-             subtype="h1">13. Faclan sam bith eile</ab>
+            >13. Faclan sam bith eile</head>
       </body>
    </text>
 </TEI>

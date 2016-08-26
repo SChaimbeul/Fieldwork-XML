@@ -32,7 +32,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term>Peat-Working</term>
+               <term xml:lang="en">Peat-Working</term>
                <term>Mòine</term>
             </keywords>
          </textClass>
@@ -40,9 +40,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Peat_EdinburghCFergusonmoine-d0e28"
-             subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+            >1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
          <entry xml:id="Peat_EdinburghCFergusonmoine-d0e33">
             <form>
                <orth>poll</orth>
@@ -121,9 +121,9 @@
                <graphic url="EdinburghCFergusonmoineillust5.jpg" width="300px"/>
             </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_EdinburghCFergusonmoine-d0e143"
-             subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+            >2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
          <entry xml:id="Peat_EdinburghCFergusonmoine-d0e148">
             <form>
                <orth>an taraisgeir</orth>
@@ -226,9 +226,9 @@
             </form>
             <def>the last bank to be cut.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_EdinburghCFergusonmoine-d0e290"
-             subtype="h1">3. A’ tiormachadh na mònach</ab>
+            >3. A’ tiormachadh na mònach</head>
          <entry xml:id="Peat_EdinburghCFergusonmoine-d0e295">
             <form>
                <orth>a’ rùmhadh (the ù is nasal)</orth>
@@ -329,9 +329,9 @@
             </form>
             <def>rubble left after main mass of peat has been carted away. This word is also used to describe inferior seed potato.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_EdinburghCFergusonmoine-d0e436"
-             subtype="h1">4. A’ cruachadh na mònach</ab>
+            >4. A’ cruachadh na mònach</head>
          <entry xml:id="Peat_EdinburghCFergusonmoine-d0e441">
             <form>
                <orth>glutadh na cruaich</orth>
@@ -370,9 +370,9 @@
             </form>
             <def>(This incidentally is in our district the final operation, at the crofter’s house.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_EdinburghCFergusonmoine-d0e493"
-             subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+            >5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
          <entry xml:id="Peat_EdinburghCFergusonmoine-d0e498">
             <form>
                <orth>‘an eallach’</orth>
@@ -423,12 +423,12 @@
                <graphic url="EdinburghCFergusonmoineillust18.jpg" width="400px"/>
             </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_EdinburghCFergusonmoine-d0e565"
-             subtype="h1">6. Seòrsachan mònach</ab>
-         <ab type="heading"
+            >6. Seòrsachan mònach</head>
+         <head
              xml:id="Peat_EdinburghCFergusonmoine-d0e569"
-             subtype="h1">7. Faclan eile</ab>
+            >7. Faclan eile</head>
          <entry xml:id="Peat_EdinburghCFergusonmoine-d0e574">
             <form>
                <orth>sorachan mònach</orth>

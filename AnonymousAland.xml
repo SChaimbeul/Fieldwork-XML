@@ -30,9 +30,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_AnonymousAland-d0e14"
-             subtype="h1">Mountains, hills</ab>
+            >Mountains, hills</head>
          <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e19">
             <form>
                <orth>beanntan</orth>
@@ -135,12 +135,12 @@
             </form>
             <def>pinnacle.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_AnonymousAland-d0e171"
-             subtype="h1">Moorland features</ab>
-         <ab type="heading"
+            >Moorland features</head>
+         <head
              xml:id="AssortedFieldworkers_AnonymousAland-d0e175"
-             subtype="h1">Coastal features</ab>
+            >Coastal features</head>
          <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e180">
             <form>
                <orth>rudha</orth>
@@ -195,9 +195,9 @@
             </form>
             <def>harbour.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_AnonymousAland-d0e260"
-             subtype="h1">Rivers, burns</ab>
+            >Rivers, burns</head>
          <entry xml:id="AssortedFieldworkers_AnonymousAland-d0e265">
             <form>
                <orth>abhainn</orth>
@@ -234,12 +234,12 @@
             </form>
             <def>waterfall.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_AnonymousAland-d0e318"
-             subtype="h1">Types of beach</ab>
-         <ab type="heading"
+            >Types of beach</head>
+         <head
              xml:id="AssortedFieldworkers_AnonymousAland-d0e322"
-             subtype="h1">Sea-pools, waves</ab>
+            >Sea-pools, waves</head>
       </body>
    </text>
 </TEI>

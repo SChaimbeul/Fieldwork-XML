@@ -45,9 +45,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e35"
-             subtype="h1">1. Raw wool</ab>
+            >1. Raw wool</head>
          <entry xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e40">
             <form>
                <orth>clòimh (I)</orth>
@@ -78,18 +78,18 @@
             </form>
             <def>(Fuaimnich ar'-chlòimh mar far-chluais.) A’ chlòimh ùr a bhios a’ fàs air na caoraich fo an t-seann chlòimh. “Bha ar-chlòimh mhath air na caoraich am bliadhna.”</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e84"
-             subtype="h1">2. Oil or grease put on wool before carding</ab>
+            >2. Oil or grease put on wool before carding</head>
          <entry xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e89">
             <form>
                <orth>armadh (E)</orth>
             </form>
             <def>Oil or grease put on wool before carding.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e97"
-             subtype="h1">3. Carding</ab>
+            >3. Carding</head>
          <entry xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e102">
             <form>
                <orth>càrdadh (E), a’ cardadh</orth>
@@ -116,9 +116,9 @@
             </form>
             <def>Tuft of wool off the cards in the first carding; the first card in carding; the long roll of wool as it leaves the cards for the spinning wheel. Chan eil ainm sam bith agam ach ‘peàrd’ airson na tha an seo shuas.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e138"
-             subtype="h1">4. Spinning</ab>
+            >4. Spinning</head>
          <entry xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e143">
             <form>
                <orth>snìomh, a’ snìomh</orth>
@@ -149,18 +149,18 @@
             </form>
             <def>Chan eil nì agam mu an seo [i.e. a long thread and too much slenderness or too much thickness in a portion of thread]. (Feuchaibh Nic Neacail mu an seo.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e187"
-             subtype="h1">5. Parts of the spinning wheel</ab>
+            >5. Parts of the spinning wheel</head>
          <entry xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-idola238">
             <form>
                <orth>[note]</orth>
             </form>
             <def>(Mar a tha iad aig Dwelly, agus na h-ainmeannan nach eil againne.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e200"
-             subtype="h2">[Dealbh 245]</ab>
+             subtype="h2">[Dealbh 245]</head>
          <entry xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e205">
             <form>
                <orth>1. Teic. (I)</orth>
@@ -245,9 +245,9 @@
             </form>
             <def>(Againn.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e330"
-             subtype="h2">Dealbh 246</ab>
+             subtype="h2">Dealbh 246</head>
          <entry xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e335">
             <form>
                <orth>1. Bann-mór. (E)</orth>
@@ -344,9 +344,9 @@
             </form>
             <def>(Againn, sg. ‘cas’.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e478"
-             subtype="h1">6. Yarn and associated apparatus</ab>
+            >6. Yarn and associated apparatus</head>
          <entry xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e483">
             <form>
                <orth>snàth (E)</orth>
@@ -434,9 +434,9 @@
             </form>
             <def>Ri cuairt de’n t-snàth air a’ chrois-iarna [q.v.] chanadh iad àireamh. Bha lorg aca air na h-uibhir àireamhan airson nan nithean fa-leth. Na h-uibhir àireamhan airson plaide, na h-uibhir àireamhan airson siod ’s na h-uibhir àireamhan airson seo. Bha uair a bha lorg agam air an àireamh cheart airson plaide, ach tha sin air chall orm an diugh. (Feuchaibh Nic Neacail.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e613"
-             subtype="h1">7. Dyeing</ab>
+            >7. Dyeing</head>
          <entry xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e618">
             <form>
                <orth>dath, a’ dath</orth>
@@ -511,18 +511,18 @@
             </form>
             <def>(Feuchaibh Nic Neacail mu ghnothaichean an datha.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e727"
-             subtype="h1">8. Washing after dyeing</ab>
+            >8. Washing after dyeing</head>
          <entry xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-idola241">
             <form>
                <orth>[note]</orth>
             </form>
             <def>Cha chreid mi gu bheil ni sam bith as fhiach dhomh a chur sìos mu an seo. Ni ùr sam bith có dhiù. (Feuchaibh Nic Neacail.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e740"
-             subtype="h1">9. Warping</ab>
+            >9. Warping</head>
          <entry xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e745">
             <form>
                <orth>deilbh, a’ deilbh</orth>
@@ -543,9 +543,9 @@
             </form>
             <def>[See beart-dhealbh]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e772"
-             subtype="h1">10. Beaming and tying</ab>
+            >10. Beaming and tying</head>
          <entry xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-idola242">
             <form>
                <orth>[note]</orth>
@@ -578,9 +578,9 @@
             </form>
             <def>Is e aon uair a riamh a chunnaic mi clò ’ga dheilbh. Agus, rud glé àrraid, chan fhaca mi clò a riamh ’ga chur mu chrann. (Nach bochd nach robh na nithean seo shuas air m’aire ’san Iuchar a dh’fhalbh agus mi air a theinntean aig Calum Og.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e821"
-             subtype="h1">11. Weaving</ab>
+            >11. Weaving</head>
          <entry xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e826">
             <form>
                <orth>breabadaireachd (I)</orth>
@@ -624,18 +624,18 @@
             </form>
             <def>Chan eil ainm sam bith agam airson seo [i.e. the fine waste wool that collects under the loom].</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e888"
-             subtype="h1">12. Parts of the weaving loom</ab>
+            >12. Parts of the weaving loom</head>
          <entry xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-idola245">
             <form>
                <orth>[note]</orth>
             </form>
             <def>Ag gabhail mar a tha iad aig Dwelly.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e901"
-             subtype="h2">[Dealbh 38]</ab>
+             subtype="h2">[Dealbh 38]</head>
          <entry xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e906">
             <form>
                <orth>1. Beart. (I)</orth>
@@ -774,9 +774,9 @@
             </form>
             <def>(Chan eil nì agam.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e1112"
-             subtype="h2">Other weaving terms</ab>
+             subtype="h2">Other weaving terms</head>
          <entry xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e1117">
             <form>
                <orth>Ceithir-chuairt, 4-ply.</orth>
@@ -825,9 +825,9 @@
             </form>
             <def>Na’m biodh Donnchadh MacDhòmhnaill air ceann shìos a’ bhaile againn fhìn beò bheireadh e cuideachadh dhuinn mu chùisean na beairte. Cha deacha làmh a riamh air cùl beairte na b’fheàrr na e air dhòigh sam bith. Bheir mi dhuibh ainm fear a tha beò an diugh a bha ag obair air a’ bheairt mu’n d’thàinig na beartan ùra, na beartan abhtamataiceach: Calum MacMhathain (Calum Og), 6 Aird Uige, Ann an Leòdhas. Bhiodh e ag obair air a’ bheairt còmhla ri a athair. Tha a athair beò fhathast agus e gu bhith ceud bliadhna. “An Leddie” am far-ainm a bh’air. Chanainn gu’m bi na h-ainmeannan Uigeadh aig Calum Og. Is iongantach mur a h-eil mise air feadhainn dhiubh a chall.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e1188"
-             subtype="h1">13. Finishing</ab>
+            >13. Finishing</head>
          <entry xml:id="WoolworkingandFishing_GlasgowMMacLeodwool-d0e1193">
             <form>
                <orth>air a fhighe (an clò (E))</orth>

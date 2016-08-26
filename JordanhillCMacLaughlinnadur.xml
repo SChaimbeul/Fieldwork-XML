@@ -45,9 +45,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_JordanhillCMacLaughlinnadur-d0e35"
-             subtype="h1">Nadur an duine (Personality)</ab>
+            >Nadur an duine (Personality)</head>
          <entry xml:id="AOHenley_JordanhillCMacLaughlinnadur-idp2525416">
             <form>
                <orth>ludaire</orth>
@@ -102,9 +102,9 @@
             </form>
             <def>well-built, stocky. [NOTES: corrected to ‘tomadach’.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_JordanhillCMacLaughlinnadur-d0e117"
-             subtype="h1">Seorsaichean Duine</ab>
+            >Seorsaichean Duine</head>
          <entry xml:id="AOHenley_JordanhillCMacLaughlinnadur-idp2552128">
             <form>
                <orth>sliomach</orth>
@@ -148,9 +148,9 @@
             </form>
             <def>gander (male goose).</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_JordanhillCMacLaughlinnadur-d0e184"
-             subtype="h1">Good company / Bad company</ab>
+            >Good company / Bad company</head>
          <entry xml:id="AOHenley_JordanhillCMacLaughlinnadur-idp112503840">
             <form>
                <orth>spòrsail</orth>
@@ -217,9 +217,9 @@
             </form>
             <def>“Dhall mi air.” – in physical sense.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_JordanhillCMacLaughlinnadur-d0e287"
-             subtype="h1">Cheerful / Gloomy</ab>
+            >Cheerful / Gloomy</head>
          <entry xml:id="AOHenley_JordanhillCMacLaughlinnadur-idp112516944">
             <form>
                <orth>solta</orth>
@@ -297,12 +297,12 @@
             </form>
             <def>puffing and panting.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_JordanhillCMacLaughlinnadur-d0e405"
-             subtype="h1">A good man / A bad man</ab>
-         <ab type="heading"
+            >A good man / A bad man</head>
+         <head
              xml:id="AOHenley_JordanhillCMacLaughlinnadur-d0e409"
-             subtype="h1">A successful man / A failure</ab>
+            >A successful man / A failure</head>
          <entry xml:id="AOHenley_JordanhillCMacLaughlinnadur-idp112526520">
             <form>
                <orth>comasach</orth>
@@ -342,9 +342,9 @@
             </form>
             <def>untidy, dirty.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_JordanhillCMacLaughlinnadur-d0e467"
-             subtype="h1">A wise man / Foolish</ab>
+            >A wise man / Foolish</head>
          <entry xml:id="AOHenley_JordanhillCMacLaughlinnadur-idp112497648">
             <form>
                <orth>emaid</orth>
@@ -357,9 +357,9 @@
             </form>
             <def>foolish chatter.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_JordanhillCMacLaughlinnadur-d0e489"
-             subtype="h1">Bold / Timid</ab>
+            >Bold / Timid</head>
          <entry xml:id="AOHenley_JordanhillCMacLaughlinnadur-idp112583472">
             <form>
                <orth>adhach</orth>
@@ -378,9 +378,9 @@
             </form>
             <def>bossy. [NOTES: corrected to ‘stràiceil’.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_JordanhillCMacLaughlinnadur-d0e520"
-             subtype="h1">Proud / Humble</ab>
+            >Proud / Humble</head>
          <entry xml:id="AOHenley_JordanhillCMacLaughlinnadur-idp112577928">
             <form>
                <orth>proiseil</orth>
@@ -409,9 +409,9 @@
             </form>
             <def>humble.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_JordanhillCMacLaughlinnadur-d0e563"
-             subtype="h1">Polite / Coarse</ab>
+            >Polite / Coarse</head>
          <entry xml:id="AOHenley_JordanhillCMacLaughlinnadur-idp3196600">
             <form>
                <orth>cruinn</orth>
@@ -453,9 +453,9 @@
             </form>
             <def>warm-hearted. [NOTES: corrected to ‘dàimheil’.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_JordanhillCMacLaughlinnadur-d0e627"
-             subtype="h1">Bad types</ab>
+            >Bad types</head>
          <entry xml:id="AOHenley_JordanhillCMacLaughlinnadur-idp3208192">
             <form>
                <orth>buaireasach</orth>
@@ -481,9 +481,9 @@
             </form>
             <def>bully. [NOTES: corrected to ‘burraidh’.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_JordanhillCMacLaughlinnadur-d0e667"
-             subtype="h1">Young / Old</ab>
+            >Young / Old</head>
          <entry xml:id="AOHenley_JordanhillCMacLaughlinnadur-idp3215248">
             <form>
                <orth>pocan</orth>
@@ -502,9 +502,9 @@
                <orth>siogada sìdh seanarach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_JordanhillCMacLaughlinnadur-d0e695"
-             subtype="h1">Agus faclan sam bith eile</ab>
+            >Agus faclan sam bith eile</head>
       </body>
    </text>
 </TEI>

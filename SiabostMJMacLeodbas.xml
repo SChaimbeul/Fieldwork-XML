@@ -40,18 +40,18 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e26"
-             subtype="h1">1. Ag ullachadh a’ chuirp</ab>
+            >1. Ag ullachadh a’ chuirp</head>
          <entry xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e31">
             <form>
                <orth>aodach mairbh</orth>
             </form>
             <def>graveclothes.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e39"
-             subtype="h1">2. A’ chiste</ab>
+            >2. A’ chiste</head>
          <entry xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e44">
             <form>
                <orth>ciste-laidhe</orth>
@@ -64,18 +64,18 @@
             </form>
             <def>lid of coffin.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e61"
-             subtype="h1">3. Faire</ab>
+            >3. Faire</head>
          <entry xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e66">
             <form>
                <orth>tigh faire</orth>
             </form>
             <def>wake.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e74"
-             subtype="h1">4. A’ giùlan na ciste</ab>
+            >4. A’ giùlan na ciste</head>
          <entry xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e79">
             <form>
                <orth>giùlan</orth>
@@ -94,9 +94,9 @@
             </form>
             <def>hearse.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e105"
-             subtype="h1">5. An cladh agus an uaigh</ab>
+            >5. An cladh agus an uaigh</head>
          <entry xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e110">
             <form>
                <orth>cladh</orth>
@@ -127,9 +127,9 @@
             </form>
             <def>lair.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_SiabostMJMacLeodbas-d0e154"
-             subtype="h1">6. Cleachdaidhean sam bith co-cheangailte ri bàs no adhlacadh</ab>
+            >6. Cleachdaidhean sam bith co-cheangailte ri bàs no adhlacadh</head>
       </body>
    </text>
 </TEI>

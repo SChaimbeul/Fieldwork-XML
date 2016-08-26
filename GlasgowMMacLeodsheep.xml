@@ -42,18 +42,18 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e34"
-             subtype="h1">1. Different stages in the growth of sheep (female)</ab>
+            >1. Different stages in the growth of sheep (female)</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola65">
             <form>
                <orth>[note]</orth>
             </form>
             <def>Dwelly (t-d 165.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e47"
-             subtype="h2">[Male and female before weaning:]</ab>
+             subtype="h2">[Male and female before weaning:]</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e52">
             <form>
                <orth>uan (s.m. never s.f.)</orth>
@@ -72,27 +72,27 @@
             </form>
             <def>female lamb.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e78"
-             subtype="h2">[blank]</ab>
+             subtype="h2">[blank]</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e83">
             <form>
                <orth>weaning</orth>
             </form>
             <def>Canaidh sinn: “a’ togail nan uan” agus “’g an toirt bho am màthraichean”.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e91"
-             subtype="h2">Female after weaning till first shearing:</ab>
+             subtype="h2">Female after weaning till first shearing:</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e96">
             <form>
                <orth>othaisg</orth>
             </form>
             <def>(Chan è ‘òthaisg’ mar a th’aig Dwelly.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e104"
-             subtype="h2">[blank]</ab>
+             subtype="h2">[blank]</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e109">
             <form>
                <orth>ciora</orth>
@@ -111,9 +111,9 @@
             </form>
             <def>Chan eil seo idir againn airson othaisge, ach tha e againn mar a chì sibh air t-d 809 (3) ‘Lean beast, … the worst beast’.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e135"
-             subtype="h2">[blank]</ab>
+             subtype="h2">[blank]</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e140">
             <form>
                <orth>bliadhnach</orth>
@@ -130,9 +130,9 @@
             </form>
             <def>Tha na trì againn.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e160"
-             subtype="h2">[blank]</ab>
+             subtype="h2">[blank]</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e165">
             <form>
                <orth>uan othaisge</orth>
@@ -145,9 +145,9 @@
             </form>
             <def>Chuala mi feadhainn ag ràdh gur h-e sia raidheach a bha seo a’ ciallachadh: gur h-ann bho an sin a thàinig e.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e182"
-             subtype="h2">After 1st shearing if not put to ram:</ab>
+             subtype="h2">After 1st shearing if not put to ram:</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e187">
             <form>
                <orth>tiaraineach</orth>
@@ -159,9 +159,9 @@
             </form>
             <def>Chan eil e againne idir, ach bhiodh e aig na cìobairean.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e201"
-             subtype="h2">After 2nd shearing if with lamb:</ab>
+             subtype="h2">After 2nd shearing if with lamb:</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e206">
             <form>
                <orth>caora uain</orth>
@@ -174,18 +174,18 @@
             </form>
             <def>Tha seo againn. (‘dò-bhliadhnach’ againne airson ‘dà-bhliadhnach’.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e223"
-             subtype="h2">After 2nd shearing if not with lamb:</ab>
+             subtype="h2">After 2nd shearing if not with lamb:</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e228">
             <form>
                <orth>caora sheasg</orth>
             </form>
             <def>(Chan è ‘caora sheisg’.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e236"
-             subtype="h2">[After 2nd shearing if not put to ram:]</ab>
+             subtype="h2">[After 2nd shearing if not put to ram:]</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e241">
             <form>
                <orth>dò-bhliadhnach seasg</orth>
@@ -198,9 +198,9 @@
             </form>
             <def>(Chan eil e idir againn.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e258"
-             subtype="h2">[After 3rd shearing:]</ab>
+             subtype="h2">[After 3rd shearing:]</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e263">
             <form>
                <orth>trì-bhliadhnach</orth>
@@ -213,9 +213,9 @@
             </form>
             <def>Chan eil e idir againn. Ach tha ‘croga’ againn (mar ‘crog’ air t-d 275: ‘aged and effete ewe, sheep past bearing’. (Cho fada agus a tha cuimhne agam, ’se seo an seadh anns am bheil e againn.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e280"
-             subtype="h2">[After 4th shearing:]</ab>
+             subtype="h2">[After 4th shearing:]</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e285">
             <form>
                <orth>crog</orth>
@@ -233,9 +233,9 @@
             </form>
             <def>draft gimmer. (Chan eil e againn.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e308"
-             subtype="h2">Male not castrated:</ab>
+             subtype="h2">Male not castrated:</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e313">
             <form>
                <orth>uan reithe</orth>
@@ -266,9 +266,9 @@
             </form>
             <def>(‘Ceithir bhliadhnach rùid’ againne.) Is mait gu’n canadh sinn, uaireannan, ‘seann rùd’.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e357"
-             subtype="h2">Male castrated:</ab>
+             subtype="h2">Male castrated:</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e362">
             <form>
                <orth>uan firionn, uan spothta</orth>
@@ -316,9 +316,9 @@
             </form>
             <def>Tha seo againn.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e430"
-             subtype="h2">Other names:</ab>
+             subtype="h2">Other names:</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e435">
             <form>
                <orth>caora bhainne</orth>
@@ -496,15 +496,15 @@
             </form>
             <def>pet lamb, chan eil.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e695"
-             subtype="h1">2. Different stages in the growth of sheep (male)</ab>
-         <ab type="heading"
+            >2. Different stages in the growth of sheep (male)</head>
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e699"
-             subtype="h1">3. Different stages in the growth of the castrated male</ab>
-         <ab type="heading"
+            >3. Different stages in the growth of the castrated male</head>
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e703"
-             subtype="h1">4. Sheep’s appearance</ab>
+            >4. Sheep’s appearance</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e708">
             <form>
                <orth>caora bhreac</orth>
@@ -547,9 +547,9 @@
             </form>
             <def>sheep with no horns.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e770"
-             subtype="h1">5. Miscellaneous</ab>
+            >5. Miscellaneous</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e775">
             <form>
                <orth>peata (uain)</orth>
@@ -604,9 +604,9 @@
             </form>
             <def>pet ewe or hogg. (smait)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e855"
-             subtype="h1">6. Feeding and grazing</ab>
+            >6. Feeding and grazing</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola66">
             <form>
                <orth>[note]</orth>
@@ -619,9 +619,9 @@
             </form>
             <def>handfeeding. B’e seo a bhith toirt cuideachadh do an bheathach le biathachadh a muigh a thuilleadh air na bha i-fhéin a’ cosnadh.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e877"
-             subtype="h2">Vessels used for feeding:</ab>
+             subtype="h2">Vessels used for feeding:</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e882">
             <form>
                <orth>bucas oisgean</orth>
@@ -630,9 +630,9 @@
         <graphic url="GlasgowMMacLeodsheepillust1.jpg" width="200px"/>
             </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e892"
-             subtype="h2">Names for different amounts of hay:</ab>
+             subtype="h2">Names for different amounts of hay:</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e897">
             <form>
                <orth>cuid nan òisgean</orth>
@@ -670,44 +670,44 @@
             <def>Means of tying hay, corn, etc. for feeding: sreang crochte ris an lobhta no ris a’ bhalla agus clach fhreagarrach slaoda rithe ’ga cumail stòlda ’na h-àite. Lobhta – an t-sreang a’ deanamh snaim ann an seo. Am bad no a’ ghibeag fheòir am broinn na sreinge agus na creutaran a’ draghadh cho math ’s a dheadh aca air. Bhiodh a’ chlach dìreach aig bonn na lùibe de’n t-sreing, aig àirde fhreagarrach do na beathaichean. <graphic url="GlasgowMMacLeodsheepillust2.jpg" width="400px"/>
             </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e951"
-             subtype="h2">Watering indoors and outdoors</ab>
+             subtype="h2">Watering indoors and outdoors</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola70">
             <form>
                <orth>[note]</orth>
             </form>
             <def>Chan eil ainm àrraid ’s am bith air lorg agam airson seo.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e964"
-             subtype="h2">Vessels used</ab>
+             subtype="h2">Vessels used</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e969">
             <form>
                <orth>mias no pòbhla</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e974"
-             subtype="h2">Grazing of sheep</ab>
+             subtype="h2">Grazing of sheep</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola71">
             <form>
                <orth>[note]</orth>
             </form>
             <def>Tha eagal orm gu bheil ainm no dhà, no barrachd, air chall orm mu’ an seo.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e987"
-             subtype="h2">Term used for the regular ‘beat’ of a sheep on the moor</ab>
+             subtype="h2">Term used for the regular ‘beat’ of a sheep on the moor</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e992">
             <form>
                <orth>[gabhail]</orth>
             </form>
             <def>Mur a h-e ‘gabhail’. “Sin far am bheil i ag gabhail.” – regular ‘beat’ mar a th’ agaibh. Feuchaibh na cinn-sa ri Alasdair mo bhràthair. “Tha i a’ gabhail shuas mu Eileartan.” “Sin far am bheil i a’ geamhrachadh.” (agus mar sin)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1000"
-             subtype="h1">7. Handling of sheep</ab>
+            >7. Handling of sheep</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1005">
             <form>
                <orth>[gan cur a mach]</orth>
@@ -738,9 +738,9 @@
             </form>
             <def>hemming them in.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1049"
-             subtype="h2">Names for various sizes of flocks or collections of sheep (if any)</ab>
+             subtype="h2">Names for various sizes of flocks or collections of sheep (if any)</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1054">
             <form>
                <orth>caora</orth>
@@ -771,18 +771,18 @@
             </form>
             <def>a whole flock. “An treud uile” mar a chanadh Tormod.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1098"
-             subtype="h2">Commands given to a sheep-dog</ab>
+             subtype="h2">Commands given to a sheep-dog</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola72">
             <form>
                <orth>[note]</orth>
             </form>
             <def>Thug mi seo seachad ann am pàipear eile, mar a bhios fhios agaibh.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1111"
-             subtype="h2">Names for the different fanks</ab>
+             subtype="h2">Names for the different fanks</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola73">
             <form>
                <orth>[faing]</orth>
@@ -815,9 +815,9 @@
             </form>
             <def>dipping.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1162"
-             subtype="h2">Parts of a fank</ab>
+             subtype="h2">Parts of a fank</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1167">
             <form>
                <orth>ceann shuas na faing(e)</orth>
@@ -833,9 +833,9 @@
                <orth>ceann shìos na faing(e)</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1184"
-             subtype="h2">[blank]</ab>
+             subtype="h2">[blank]</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1189">
             <form>
                <orth>an t-amar</orth>
@@ -878,9 +878,9 @@
             </form>
             <def>call addressed to a lamb or sheep. “Trobhad, ciorag.” “Trobhad, ciora.”</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1251"
-             subtype="h1">8. Apparatus</ab>
+            >8. Apparatus</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1256">
             <form>
                <orth>Tying indoors</orth>
@@ -944,21 +944,21 @@
         <graphic url="GlasgowMMacLeodsheepillust8.jpg" width="200px"/>
             </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1346"
-             subtype="h1">9. Diseases</ab>
-         <ab type="heading"
+            >9. Diseases</head>
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1350"
-             subtype="h2">Diseases of the skin affecting the wool</ab>
+             subtype="h2">Diseases of the skin affecting the wool</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola74">
             <form>
                <orth>[note]</orth>
             </form>
             <def>Chan eil lorg agam air nì.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1363"
-             subtype="h2">Warts, swellings, spots</ab>
+             subtype="h2">Warts, swellings, spots</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola75">
             <form>
                <orth>[note]</orth>
@@ -977,54 +977,54 @@
             </form>
             <def>worms in the skin.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1394"
-             subtype="h2">Diseases of the head</ab>
+             subtype="h2">Diseases of the head</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1399">
             <form>
                <orth>ceanna-ghalair</orth>
             </form>
             <def>(Chan eil an t-ainm Beurla agam.) Bhiodh na cluasan aca a’ séid agus as déidh sin a’ seacadh. ’S ann air na h-uain a bhiodh seo a’ tighinn.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1407"
-             subtype="h2">Diseases of the eyes</ab>
+             subtype="h2">Diseases of the eyes</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1412">
             <form>
                <orth>doille, an doille</orth>
             </form>
             <def>Air na caoirich mhóra a bhiodh seo a’ tighinn. Chan fhaca mi riamh air uan e. Bhiodh iad a’ pronnadh cailc agus ’ga chur fo na sùilean aca. Ri tìde dheadh iad am feabhas.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1420"
-             subtype="h2">Diseases of the mouth, neck and throat</ab>
+             subtype="h2">Diseases of the mouth, neck and throat</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola76">
             <form>
                <orth>[note]</orth>
             </form>
             <def>Chan aithne dhomh gu’m faca mi dad de’n t-seòrsa a riamh.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1433"
-             subtype="h2">Diseases of the bone structure</ab>
+             subtype="h2">Diseases of the bone structure</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola77">
             <form>
                <orth>[note]</orth>
             </form>
             <def>Chan eil lorg agam air càil mu an seo.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1446"
-             subtype="h2">Disease affecting the hooves</ab>
+             subtype="h2">Disease affecting the hooves</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola78">
             <form>
                <orth>[note]</orth>
             </form>
             <def>Chan fhaca mi dad de’n t-seòrsa a riamh cho fada ’s a tha cuimhne agam.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1459"
-             subtype="h2">Diseases of the internal organs:</ab>
+             subtype="h2">Diseases of the internal organs:</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1464">
             <form>
                <orth>am pluc</orth>
@@ -1037,9 +1037,9 @@
             </form>
             <def>diarrhoea.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1481"
-             subtype="h2">Bhiodh na galairean a leanas a’ dol mar a b’aithne dhomsa</ab>
+             subtype="h2">Bhiodh na galairean a leanas a’ dol mar a b’aithne dhomsa</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1486">
             <form>
                <orth>am pluc</orth>
@@ -1071,9 +1071,9 @@
             </form>
             <def>Cha chuir mi iad seo air na h-ainmeannan ceart Beurla idir. (Feuch mo bhràthair, Alasdair Seòras, 13 Crabhlastadh, Sgire Uige, ann an Leòdhas.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1524"
-             subtype="h2">Seo ainmeannan Beurla air cuid de ghalairean nan caorach</ab>
+             subtype="h2">Seo ainmeannan Beurla air cuid de ghalairean nan caorach</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1529">
             <form>
                <orth>braxy</orth>
@@ -1110,18 +1110,18 @@
             </form>
             <def>(Chan eil na h-ainmeannan Gàidhlig a tha dol agam orra seo idir.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1573"
-             subtype="h2">Disease affecting the udder and milk</ab>
+             subtype="h2">Disease affecting the udder and milk</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-idola81">
             <form>
                <orth>[note]</orth>
             </form>
             <def>Chan eil lorg agam air dad mu an seo. Cha chreid mi gu’m faca mi càil ceàrr mu an seo a riamh.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1586"
-             subtype="h2">Injury of any kind:</ab>
+             subtype="h2">Injury of any kind:</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1591">
             <form>
                <orth>a’ dol as a losaid</orth>
@@ -1143,9 +1143,9 @@
             </form>
             <def>Agus mar sin.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1617"
-             subtype="h1">10. Parts of the body</ab>
+            >10. Parts of the body</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e1622">
             <form>
                <orth>the head and neck (parts)</orth>
@@ -1409,9 +1409,9 @@
             </form>
             <def>Faic lòinean Dwelly t-d. 596. 2. (D.M.K.) ‘The fat covering of the kidneys of beef or mutton (Caithness).’ Tha againne lòineachan. “Tha geir mhath air na lòineachan aige.” ’Se seo a’ gheir a tha ris an druim aige a’ bheathach. Nuair a tha an t-ainmhidh marbh agad air a’ dhruim, tha am muinne air uachdar agus na lòineachan gu h-ìosal, ’se sin ris an drùim.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2010"
-             subtype="h1">11. Lambing</ab>
+            >11. Lambing</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2015">
             <form>
                <orth>a’ breith</orth>
@@ -1436,9 +1436,9 @@
             </form>
             <def>Agus mar sin, a chanas sinn. (Faic an taobh-duilleig thairis.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2050"
-             subtype="h2">Terms associated with lambing</ab>
+             subtype="h2">Terms associated with lambing</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2055">
             <form>
                <orth>bathar, am bathar</orth>
@@ -1457,9 +1457,9 @@
             </form>
             <def>covering on a lamb when born. Na glodhan. (‘Na gleodhan’ a chanas sinne.) “Uan anns na gleodhan.” Canadh sinn cuideachd “laogh anns na gleodhan.”</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2081"
-             subtype="h2">Terms used when sheep are put to ram</ab>
+             subtype="h2">Terms used when sheep are put to ram</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2086">
             <form>
                <orth>reitheachd</orth>
@@ -1480,9 +1480,9 @@
             </form>
             <def>a’ cur bhréid. “C’ait am bheil na balaich?” “Tha iad ri bréideadh.“</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2114"
-             subtype="h1">12. Miscellaneous</ab>
+            >12. Miscellaneous</head>
          <entry xml:id="CattleandSheep_GlasgowMMacLeodsheep-d0e2119">
             <form>
                <orth>[earball stùbhach]</orth>

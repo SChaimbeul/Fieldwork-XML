@@ -42,9 +42,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e34"
-             subtype="h1">1. Different stages in the growth of sheep (female)</ab>
+            >1. Different stages in the growth of sheep (female)</head>
          <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e39">
             <form>
                <orth>uan</orth>
@@ -81,9 +81,9 @@
             </form>
             <def>cast ewe. (After 5-6 years.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e92"
-             subtype="h1">2. Different stages in the growth of sheep (male)</ab>
+            >2. Different stages in the growth of sheep (male)</head>
          <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e97">
             <form>
                <orth>uan</orth>
@@ -123,12 +123,12 @@
                <orth>seann-reithe</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e150"
-             subtype="h1">3. Different stages in the growth of the castrated male</ab>
-         <ab type="heading"
+            >3. Different stages in the growth of the castrated male</head>
+         <head
              xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e154"
-             subtype="h1">4. Sheep’s appearance</ab>
+            >4. Sheep’s appearance</head>
          <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e159">
             <form>
                <orth>dubhcheannach</orth>
@@ -171,9 +171,9 @@
             </form>
             <def>fat sheep for butchering.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e221"
-             subtype="h1">5. Miscellaneous</ab>
+            >5. Miscellaneous</head>
          <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e226">
             <form>
                <orth>peat’-uan, peatan</orth>
@@ -243,9 +243,9 @@
             </form>
             <def>small ram.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e324"
-             subtype="h1">6. Feeding and grazing</ab>
+            >6. Feeding and grazing</head>
          <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e329">
             <form>
                <orth>biadhadh làimh</orth>
@@ -284,9 +284,9 @@
             </form>
             <def>beat [i.e. the regular ‘beat’ of sheep on the moor].</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e379"
-             subtype="h1">7. Handling of sheep</ab>
+            >7. Handling of sheep</head>
          <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e384">
             <form>
                <orth>Leanaidh mi iad do’n mhonadh</orth>
@@ -370,9 +370,9 @@
             </form>
             <def>keel.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e506"
-             subtype="h2">Commands given to a sheep-dog</ab>
+             subtype="h2">Commands given to a sheep-dog</head>
          <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e511">
             <form>
                <orth>Fan a mach air folbh .</orth>
@@ -400,9 +400,9 @@
                <orth>Trobhad a nuas.</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e540"
-             subtype="h2">Earmarking</ab>
+             subtype="h2">Earmarking</head>
          <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e545">
             <form>
                <orth>barr na cluais</orth>
@@ -441,9 +441,9 @@
             </form>
             <def>castrating.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e589"
-             subtype="h1">8. Apparatus</ab>
+            >8. Apparatus</head>
          <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e594">
             <form>
                <orth>feisde (f)</orth>
@@ -468,9 +468,9 @@
             </form>
             <def>band for tying legs; fetter.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e629"
-             subtype="h1">9. Diseases</ab>
+            >9. Diseases</head>
          <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e634">
             <form>
                <orth>cloimh</orth>
@@ -522,9 +522,9 @@
             </form>
             <def>injury.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e705"
-             subtype="h1">10. Parts of the body</ab>
+            >10. Parts of the body</head>
          <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e710">
             <form>
                <orth>seiche (f)</orth>
@@ -668,9 +668,9 @@
             </form>
             <def>fat.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e916"
-             subtype="h1">11. Lambing</ab>
+            >11. Lambing</head>
          <entry xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e921">
             <form>
                <orth>Leig mi mach an reithe leatha.</orth>
@@ -687,9 +687,9 @@
             </form>
             <def>afterbirth.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_MullCreichDMacFarlanesheep-d0e941"
-             subtype="h1">12. Miscellaneous</ab>
+            >12. Miscellaneous</head>
       </body>
    </text>
 </TEI>

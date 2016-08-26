@@ -41,21 +41,21 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_BishopbriggsMCranebiadh-d0e29"
-             subtype="h1">1. Na tràthan</ab>
+            >1. Na tràthan</head>
          <entry xml:id="AOHenley_BishopbriggsMCranebiadh-idm233032">
             <form>
                <orth>lite</orth>
             </form>
             <def>morning.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_BishopbriggsMCranebiadh-d0e42"
-             subtype="h1">2. Am biadh a bhidhte gabhail aig gach tràth</ab>
-         <ab type="heading"
+            >2. Am biadh a bhidhte gabhail aig gach tràth</head>
+         <head
              xml:id="AOHenley_BishopbriggsMCranebiadh-d0e46"
-             subtype="h1">3. Dòighean air biadh a dheasachadh</ab>
+            >3. Dòighean air biadh a dheasachadh</head>
          <entry xml:id="AOHenley_BishopbriggsMCranebiadh-idm229792">
             <form>
                <orth>praisean</orth>
@@ -104,9 +104,9 @@
             </form>
             <def>whey.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_BishopbriggsMCranebiadh-d0e120"
-             subtype="h1">4. Fuine</ab>
+            >4. Fuine</head>
          <entry xml:id="AOHenley_BishopbriggsMCranebiadh-idm216832">
             <form>
                <orth>taois</orth>
@@ -125,24 +125,24 @@
             </form>
             <def>bannock.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_BishopbriggsMCranebiadh-d0e151"
-             subtype="h1">5. Deochan dhe gach seòrsa</ab>
-         <ab type="heading"
+            >5. Deochan dhe gach seòrsa</head>
+         <head
              xml:id="AOHenley_BishopbriggsMCranebiadh-d0e155"
-             subtype="h1">6. Biadh no deoch a bhidhte deanamh gu sònraichte do luchd euslan</ab>
-         <ab type="heading"
+            >6. Biadh no deoch a bhidhte deanamh gu sònraichte do luchd euslan</head>
+         <head
              xml:id="AOHenley_BishopbriggsMCranebiadh-d0e159"
-             subtype="h1">7. Nithean a bhiodh ann nuair a rachadh beathach a mharbhadh</ab>
+            >7. Nithean a bhiodh ann nuair a rachadh beathach a mharbhadh</head>
          <entry xml:id="AOHenley_BishopbriggsMCranebiadh-idm209632">
             <form>
                <orth>breallan (mór, beag)</orth>
             </form>
             <def>sheep’s stomach.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_BishopbriggsMCranebiadh-d0e172"
-             subtype="h1">8. Faclan sam bith eile</ab>
+            >8. Faclan sam bith eile</head>
       </body>
    </text>
 </TEI>

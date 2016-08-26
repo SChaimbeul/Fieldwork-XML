@@ -41,9 +41,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e29"
-             subtype="h1">1. Raw wool</ab>
+            >1. Raw wool</head>
          <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e34">
             <form>
                <orth>clòimh</orth>
@@ -63,18 +63,18 @@
             </form>
             <def>[sic] wool from dead sheep.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e60"
-             subtype="h1">2. Oil or grease put on wool before carding</ab>
+            >2. Oil or grease put on wool before carding</head>
          <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e65">
             <form>
                <orth>armadh</orth>
             </form>
             <def>(pron. aramadh) grease or old butter put on [wool] before carding.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e73"
-             subtype="h1">3. Carding</ab>
+            >3. Carding</head>
          <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e78">
             <form>
                <orth>a’ càrdadh</orth>
@@ -93,18 +93,18 @@
             </form>
             <def>long roll of wool.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e104"
-             subtype="h1">4. Spinning</ab>
+            >4. Spinning</head>
          <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e109">
             <form>
                <orth>sniomh</orth>
             </form>
             <def>spinning (pron. sniamh).</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e117"
-             subtype="h1">5. Parts of the spinning wheel</ab>
+            >5. Parts of the spinning wheel</head>
          <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e122">
             <form>
                <orth>roth</orth>
@@ -128,9 +128,9 @@
             </form>
             <def>spokes.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e154"
-             subtype="h1">6. Yarn and associated apparatus</ab>
+            >6. Yarn and associated apparatus</head>
          <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e159">
             <form>
                <orth>ceairle</orth>
@@ -154,9 +154,9 @@
             </form>
             <def>for making hanks.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e191"
-             subtype="h1">7. Dyeing</ab>
+            >7. Dyeing</head>
          <entry xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e196">
             <form>
                <orth>crotal</orth>
@@ -180,24 +180,24 @@
                <orth>copar</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e228"
-             subtype="h1">8. Washing after dyeing</ab>
-         <ab type="heading"
+            >8. Washing after dyeing</head>
+         <head
              xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e232"
-             subtype="h1">9. Warping</ab>
-         <ab type="heading"
+            >9. Warping</head>
+         <head
              xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e236"
-             subtype="h1">10. Beaming and tying</ab>
-         <ab type="heading"
+            >10. Beaming and tying</head>
+         <head
              xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e240"
-             subtype="h1">11. Weaving</ab>
-         <ab type="heading"
+            >11. Weaving</head>
+         <head
              xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e244"
-             subtype="h1">12. Parts of the weaving loom</ab>
-         <ab type="heading"
+            >12. Parts of the weaving loom</head>
+         <head
              xml:id="WoolworkingandFishing_FortroseJMacInneswool-d0e248"
-             subtype="h1">13. Finishing</ab>
+            >13. Finishing</head>
       </body>
    </text>
 </TEI>

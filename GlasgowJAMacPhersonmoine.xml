@@ -33,7 +33,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term>Peat-Working</term>
+               <term xml:lang="en">Peat-Working</term>
                <term>Mòine</term>
             </keywords>
          </textClass>
@@ -41,9 +41,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Peat_GlasgowJAMacPhersonmoine-d0e32"
-             subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+            >1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
          <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e37">
             <form>
                <orth>feannadh (v.n.)</orth>
@@ -80,9 +80,9 @@
             </form>
             <def>leud na sgrath. Ma tha ‘meighe’ mór agad tha barrachd fhòid ann agus tha iad na’s duilighe ’n tilgeil chun an uachdar. Bha ‘meighe mór’ ’na chomharra air neart an luchd buana.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_GlasgowJAMacPhersonmoine-d0e90"
-             subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+            >2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
          <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e95">
             <form>
                <orth>spaid (f)</orth>
@@ -131,9 +131,9 @@
             </form>
             <def>a’ mhòine fo’n sgrath a bhithear a’ glanadh mus gearrar am barrfhad. Bithear ’ga cur gu feum uaireannan.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_GlasgowJAMacPhersonmoine-d0e166"
-             subtype="h1">3. A’ tiormachadh na mònach</ab>
+            >3. A’ tiormachadh na mònach</head>
          <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e171">
             <form>
                <orth>rùdhan (f)</orth>
@@ -152,12 +152,12 @@
             </form>
             <def>cruachan beaga – seachd no h-òchd de rùdhain.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_GlasgowJAMacPhersonmoine-d0e197"
-             subtype="h1">4. A’ cruachadh na mònach</ab>
-         <ab type="heading"
+            >4. A’ cruachadh na mònach</head>
+         <head
              xml:id="Peat_GlasgowJAMacPhersonmoine-d0e201"
-             subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+            >5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
          <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e206">
             <form>
                <orth>a’ tarruing mhòna</orth>
@@ -169,9 +169,9 @@
             </form>
             <def>a’ togail na cruaiche aig an taigh.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_GlasgowJAMacPhersonmoine-d0e220"
-             subtype="h1">6. Seòrsachan mònach</ab>
+            >6. Seòrsachan mònach</head>
          <entry xml:id="Peat_GlasgowJAMacPhersonmoine-d0e225">
             <form>
                <orth>mòine bhàn</orth>
@@ -198,9 +198,9 @@
                <orth>pluic</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Peat_GlasgowJAMacPhersonmoine-d0e257"
-             subtype="h1">7. Faclan eile</ab>
+            >7. Faclan eile</head>
       </body>
    </text>
 </TEI>

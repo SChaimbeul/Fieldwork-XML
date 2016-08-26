@@ -21,6 +21,19 @@
       <listPlace>
         <place xml:id="Outer_Hebrides">
           <placeName xml:lang="en">the Outer Hebrides</placeName>
+          <place xml:id="Lewis">
+            <placeName xml:lang="en">Lewis</placeName>
+            <place xml:id="Lewis_Point">
+              <placeName xml:lang="en">Point</placeName>
+              <place xml:id="Lewis_Point_Garrabost">
+                <placeName xml:lang="en">Garrabost</placeName>
+              </place>
+            </place>
+            <place xml:id="Lewis_Park">
+              <placeName>Sgìre na Pàirc an Leódhas</placeName> 
+              <placeName xml:lang="en">Lewis, the Park district</placeName>
+            </place>
+          </place>
           <place xml:id="Harris">
             <placeName xml:lang="en">Harris</placeName>
             <placeName>Na Hearadh</placeName>
@@ -179,6 +192,9 @@
             <place xml:id="Ross-shire_Torridon_Alligin">
               <placeName xml:lang="en">Alligin</placeName>
             </place>
+          </place>
+          <place corresp="Ross-shire_Applecross">
+            <placeName xml:lang="en">Applecross</placeName>
           </place>
         </place>
         <place xml:id="Sutherland">

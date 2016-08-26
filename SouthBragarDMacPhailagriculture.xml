@@ -44,12 +44,12 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e34"
-             subtype="h1">1. Land division and allocation</ab>
-         <ab type="heading"
+            >1. Land division and allocation</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e38"
-             subtype="h2">(a) Specific portions or allotments into which arable land is divided</ab>
+             subtype="h2">(a) Specific portions or allotments into which arable land is divided</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e43">
             <form>
                <orth>obair an’ earraich</orth>
@@ -133,9 +133,9 @@
             </form>
             <def>reclaimed portion of arable between crofts and moor and made stock proof with stone dykes, having no title to it in some cases. Nowadays it is fencing [sic] through appointments from Crofters’ Commission.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e165"
-             subtype="h3">Seann fhacail co-cheangailte ri cur agus buan</ab>
+             subtype="h3">Seann fhacail co-cheangailte ri cur agus buan</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e170">
             <form>
                <orth>[seanfhaclan]</orth>
@@ -148,9 +148,9 @@
             </form>
             <def>furrow.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e187"
-             subtype="h2">(b) Various types of arable land</ab>
+             subtype="h2">(b) Various types of arable land</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e192">
             <form>
                <orth>talamh bàn</orth>
@@ -217,9 +217,9 @@
                <orth>cinn</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e281"
-             subtype="h2">(c) Actual dividing and allocating of land, e.g. casting lots</ab>
+             subtype="h2">(c) Actual dividing and allocating of land, e.g. casting lots</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e286">
             <form>
                <orth>garadh crìche</orth>
@@ -265,9 +265,9 @@
             </form>
             <def>the place of the stray animal pound.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e348"
-             subtype="h2">(d) Land owned or held under leases of various duration</ab>
+             subtype="h2">(d) Land owned or held under leases of various duration</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e353">
             <form>
                <orth>Tha croit agam air mhal.</orth>
@@ -279,12 +279,12 @@
                <orth>Tha croit agam air ‘rent’.</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e367"
-             subtype="h1">2. Harness of a horse</ab>
-         <ab type="heading"
+            >2. Harness of a horse</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e371"
-             subtype="h2">(a) The harness of a horse as used in the performance of different tasks</ab>
+             subtype="h2">(a) The harness of a horse as used in the performance of different tasks</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e376">
             <form>
                <orth>clagan</orth>
@@ -352,12 +352,12 @@
             </form>
             <def>put the horse in the cart.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e474"
-             subtype="h2">(b) Different parts of the harness for carting</ab>
-         <ab type="heading"
+             subtype="h2">(b) Different parts of the harness for carting</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e478"
-             subtype="h2">(c) Different parts of the harness for ploughing or harrowing</ab>
+             subtype="h2">(c) Different parts of the harness for ploughing or harrowing</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e483">
             <form>
                <orth>sliosean</orth>
@@ -376,24 +376,24 @@
             </form>
             <def>or back rope; the back band keeping the traces in position.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e509"
-             subtype="h1">3. Carts</ab>
-         <ab type="heading"
+            >3. Carts</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e513"
-             subtype="h2">(a) The common farm-yard cart</ab>
+             subtype="h2">(a) The common farm-yard cart</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e518">
             <form>
                <orth>cairt copic</orth>
             </form>
             <def>couping cart.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e526"
-             subtype="h2">(b) Different parts of a cart</ab>
-         <ab type="heading"
+             subtype="h2">(b) Different parts of a cart</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e530"
-             subtype="h3">1. Body</ab>
+             subtype="h3">1. Body</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e535">
             <form>
                <orth>carn</orth>
@@ -422,12 +422,12 @@
             </form>
             <def>the pieces of wood separating trams from axle.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e573"
-             subtype="h3">2. Trams</ab>
-         <ab type="heading"
+             subtype="h3">2. Trams</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e577"
-             subtype="h3">3. Wheel and axle</ab>
+             subtype="h3">3. Wheel and axle</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e582">
             <form>
                <orth>cearcall</orth>
@@ -458,18 +458,18 @@
             </form>
             <def>the axle pins.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e626"
-             subtype="h3">4. Decorations</ab>
+             subtype="h3">4. Decorations</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e631">
             <form>
                <orth>[painting carts]</orth>
             </form>
             <def>Normally a cart was painted red with blue on that portion of the trams where the back rope or back band sliders are fixed in. The reason for this part being painted blue, I presume, was because the sliders were always greased and grease running on to the blue did not show so much as it would if the paint was red. Sometimes the trams were also painted blue about six inches on rear and front. Some carters also painted these parts of trams in black. Blue and black paint counteracted grease marks.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e639"
-             subtype="h2">(c) Other words associated with carting</ab>
+             subtype="h2">(c) Other words associated with carting</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e644">
             <form>
                <orth>cur an eich do’n cairt</orth>
@@ -488,12 +488,12 @@
             </form>
             <def>emptying the cart.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e670"
-             subtype="h1">4. The plough</ab>
-         <ab type="heading"
+            >4. The plough</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e674"
-             subtype="h2">(a) Different kinds of ploughs</ab>
+             subtype="h2">(a) Different kinds of ploughs</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e679">
             <form>
                <orth>crann mor</orth>
@@ -512,21 +512,21 @@
             </form>
             <def>the small common Highland plough of wood and iron and pulled by one horse suitable for stony crofts such as we have in Lewis.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e705"
-             subtype="h2">(b) Parts of a plough in detail</ab>
+             subtype="h2">(b) Parts of a plough in detail</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e710">
             <form>
                <orth>[crann-na-gad]</orth>
             </form>
             <def>I refer you to Dwelly’s Gaelic Dictionary, as a very detailed list is given under Crann-na-Gad. The names and expressions are pertaining to that of the parish of Barvas, Isle-of-Lewis.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e718"
-             subtype="h1">5. Harrows and swingle trees</ab>
-         <ab type="heading"
+            >5. Harrows and swingle trees</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e722"
-             subtype="h2">(a) Different types of harrows</ab>
+             subtype="h2">(a) Different types of harrows</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e727">
             <form>
                <orth>cliath an eich</orth>
@@ -539,18 +539,18 @@
             </form>
             <def>a man drawn harrow very suitable for small plots of arable.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e744"
-             subtype="h2">(b) Swingle trees</ab>
-         <ab type="heading"
+             subtype="h2">(b) Swingle trees</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e748"
-             subtype="h1">6. Spring work</ab>
-         <ab type="heading"
+            >6. Spring work</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e752"
-             subtype="h2">(a) Fertilisers and fertilising</ab>
-         <ab type="heading"
+             subtype="h2">(a) Fertilisers and fertilising</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e756"
-             subtype="h3">1. Fertilisers</ab>
+             subtype="h3">1. Fertilisers</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e761">
             <form>
                <orth>sitig</orth>
@@ -569,9 +569,9 @@
             </form>
             <def>brought on to shore by the incoming tide; also suitable for potatoes as is also for oats and barley.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e787"
-             subtype="h3">2. The actual work performed, e.g. transporting seaweed/manure to field</ab>
+             subtype="h3">2. The actual work performed, e.g. transporting seaweed/manure to field</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e792">
             <form>
                <orth>gearradh na feamaida duibhe</orth>
@@ -620,9 +620,9 @@
             </form>
             <def>[sic] on a sunny, dry day the thatch was removed and the soot collected and stored for use as fertiliser or it may have been taken straight to the croft (not sure of this point).</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e851"
-             subtype="h3">3. Implements used for lifting, carrying and spreading manure or seaweed</ab>
+             subtype="h3">3. Implements used for lifting, carrying and spreading manure or seaweed</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e856">
             <form>
                <orth>graip</orth>
@@ -639,12 +639,12 @@
             </form>
             <def>wheelbarrow.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e876"
-             subtype="h2">(b) Turning and tilling the soil</ab>
-         <ab type="heading"
+             subtype="h2">(b) Turning and tilling the soil</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e880"
-             subtype="h3">1. Implements used for turning or tilling the soil</ab>
+             subtype="h3">1. Implements used for turning or tilling the soil</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e885">
             <form>
                <orth>spaid</orth>
@@ -666,24 +666,24 @@
             </form>
          </entry>
          <note>[NOTES: the way the last three terms are written down – one under another – it is not clear if there is any link between them.]</note>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e911"
-             subtype="h3">2. Parts of the implements used</ab>
-         <ab type="heading"
+             subtype="h3">2. Parts of the implements used</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e915"
-             subtype="h3">3. Words used in connection with tilling the soil, e.g. digging</ab>
+             subtype="h3">3. Words used in connection with tilling the soil, e.g. digging</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e920">
             <form>
                <orth>túmadh</orth>
             </form>
             <def>cleaning of drains and spreading the cleanings over the arable, then ploughed in giving the soil renewed fertility.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e928"
-             subtype="h2">(c) Seed planting</ab>
-         <ab type="heading"
+             subtype="h2">(c) Seed planting</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e932"
-             subtype="h3">1. Names of seeds planted and words used for sowing or planting these</ab>
+             subtype="h3">1. Names of seeds planted and words used for sowing or planting these</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e937">
             <form>
                <orth>siol corc</orth>
@@ -702,9 +702,9 @@
             </form>
             <def>planting cabbages.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e963"
-             subtype="h3">2. Names of any special sack, basket etc. used for carrying seed when sowing or planting</ab>
+             subtype="h3">2. Names of any special sack, basket etc. used for carrying seed when sowing or planting</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e968">
             <form>
                <orth>seic</orth>
@@ -717,21 +717,21 @@
             </form>
             <def>bag made of sackcloth.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e985"
-             subtype="h3">3. Names of any special implement used for planting</ab>
+             subtype="h3">3. Names of any special implement used for planting</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e990">
             <form>
                <orth>putair</orth>
             </form>
             <def>for putting down potatoes when soil is already turned and ploughed. An ordinary wooden shaft with one end somewhat pointed to make the holes more easier [sic].</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e998"
-             subtype="h1">7. Summer work</ab>
-         <ab type="heading"
+            >7. Summer work</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1002"
-             subtype="h2">(a) Cleaning and weeding potatoes</ab>
+             subtype="h2">(a) Cleaning and weeding potatoes</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1007">
             <form>
                <orth>tobha</orth>
@@ -750,24 +750,24 @@
             </form>
             <def>earthing to prevent the grown shaws from being broken by strong winds.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1033"
-             subtype="h2">(b) Thinning and weeding other crops</ab>
+             subtype="h2">(b) Thinning and weeding other crops</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1038">
             <form>
                <orth>tannachadh</orth>
             </form>
             <def>thinning with broad hoe.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1046"
-             subtype="h1">8. Autumn work</ab>
-         <ab type="heading"
+            >8. Autumn work</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1050"
-             subtype="h2">(a) Hay making</ab>
-         <ab type="heading"
+             subtype="h2">(a) Hay making</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1054"
-             subtype="h3">1. The implement used for (a) cutting (b) raking and turning (c) lifting and stacking</ab>
+             subtype="h3">1. The implement used for (a) cutting (b) raking and turning (c) lifting and stacking</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1059">
             <form>
                <orth>corran</orth>
@@ -816,9 +816,9 @@
             </form>
             <def>stacked oblong shaped and tapered in the top so as to throw off oncoming rains.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1130"
-             subtype="h3">2. Name the parts of the implements mentioned</ab>
+             subtype="h3">2. Name the parts of the implements mentioned</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1135">
             <form>
                <orth>iarunn</orth>
@@ -831,9 +831,9 @@
             </form>
             <def>handle.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1152"
-             subtype="h3">3. Various stages of hay-making</ab>
+             subtype="h3">3. Various stages of hay-making</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1157">
             <form>
                <orth>gearradh fheoir</orth>
@@ -863,12 +863,12 @@
                <orth>deanamh sìg</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1198"
-             subtype="h2">(b) Corn cutting and securing</ab>
-         <ab type="heading"
+             subtype="h2">(b) Corn cutting and securing</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1202"
-             subtype="h3">1. Implements used for cutting, raking, binding, lifting into stacks etc.</ab>
+             subtype="h3">1. Implements used for cutting, raking, binding, lifting into stacks etc.</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1207">
             <form>
                <orth>speal</orth>
@@ -884,9 +884,9 @@
                <orth>ceangal</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1224"
-             subtype="h3">2. Bands (for tying corn), sheaves, stooks etc.</ab>
+             subtype="h3">2. Bands (for tying corn), sheaves, stooks etc.</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1229">
             <form>
                <orth>bann</orth>
@@ -915,9 +915,9 @@
             </form>
             <def>a stook of ten sheaves; beum.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1267"
-             subtype="h3">3. Stack making (in yard)</ab>
+             subtype="h3">3. Stack making (in yard)</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1272">
             <form>
                <orth>clachan buinn</orth>
@@ -960,9 +960,9 @@
             </form>
             <def>coir rope etc.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1334"
-             subtype="h3">4. Methods of carrying or transporting corn from field to corn yard</ab>
+             subtype="h3">4. Methods of carrying or transporting corn from field to corn yard</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1339">
             <form>
                <orth>taod</orth>
@@ -975,12 +975,12 @@
             </form>
             <def>the more modern.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1356"
-             subtype="h2">(c) Potato lifting and storing</ab>
-         <ab type="heading"
+             subtype="h2">(c) Potato lifting and storing</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1360"
-             subtype="h3">1. Implements</ab>
+             subtype="h3">1. Implements</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1365">
             <form>
                <orth>tobhain</orth>
@@ -999,18 +999,18 @@
                <graphic url="SouthBragarDMacPhailagricultureillust1.jpg" width="300px"/>
             </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1387"
-             subtype="h3">2. Sack, creel, barrow etc. used for carrying potatoes in field and to steading</ab>
+             subtype="h3">2. Sack, creel, barrow etc. used for carrying potatoes in field and to steading</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1392">
             <form>
                <orth>cliabh</orth>
             </form>
             <def>or creel. The most commonly used.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1400"
-             subtype="h3">3. Where potatoes are kept or stored</ab>
+             subtype="h3">3. Where potatoes are kept or stored</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1405">
             <form>
                <orth>slochd bhunata</orth>
@@ -1023,9 +1023,9 @@
             </form>
             <def>when potatoes are stored in barn.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1422"
-             subtype="h3">4. Potato diseases</ab>
+             subtype="h3">4. Potato diseases</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1427">
             <form>
                <orth>cnamh</orth>
@@ -1038,24 +1038,24 @@
             </form>
             <def>rotting, caused by too much wet, signs: withering shaws.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1444"
-             subtype="h2">(d) Other crops (Lifting and storing)</ab>
-         <ab type="heading"
+             subtype="h2">(d) Other crops (Lifting and storing)</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1448"
-             subtype="h3">1. Implements used for lifting</ab>
-         <ab type="heading"
+             subtype="h3">1. Implements used for lifting</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1452"
-             subtype="h3">2. How and where crop is stored</ab>
+             subtype="h3">2. How and where crop is stored</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1457">
             <form>
                <orth>iodhlann</orth>
             </form>
             <def>corn yard.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1465"
-             subtype="h3">3. Diseases/insects which attack the particular crop(s)</ab>
+             subtype="h3">3. Diseases/insects which attack the particular crop(s)</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1470">
             <form>
                <orth>pudharan</orth>
@@ -1068,15 +1068,15 @@
             </form>
             <def>a black stalk of corn in a field of growing oats.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1487"
-             subtype="h1">9. Winter work</ab>
-         <ab type="heading"
+            >9. Winter work</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1491"
-             subtype="h2">(a) Land drainage</ab>
-         <ab type="heading"
+             subtype="h2">(a) Land drainage</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1495"
-             subtype="h3">1. Drains, ditches etc.</ab>
+             subtype="h3">1. Drains, ditches etc.</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1500">
             <form>
                <orth>clais</orth>
@@ -1089,30 +1089,30 @@
             </form>
             <def>clearing drain of debris, which is spread on adjoining fields.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1517"
-             subtype="h3">2. Implements used</ab>
+             subtype="h3">2. Implements used</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1522">
             <form>
                <orth>spaid</orth>
             </form>
             <def>spade.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1530"
-             subtype="h2">(b) Potato cutting for seed</ab>
-         <ab type="heading"
+             subtype="h2">(b) Potato cutting for seed</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1534"
-             subtype="h3">1. Instruments used</ab>
+             subtype="h3">1. Instruments used</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1539">
             <form>
                <orth>sgealbadh</orth>
             </form>
             <def>cutting the potato leaving an eye in each part.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1547"
-             subtype="h3">2. Different kinds of potatoes</ab>
+             subtype="h3">2. Different kinds of potatoes</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1552">
             <form>
                <orth>Kerr’s pink</orth>
@@ -1128,12 +1128,12 @@
                <orth>Golden Wonder</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1569"
-             subtype="h2">(c) Corn threshing</ab>
-         <ab type="heading"
+             subtype="h2">(c) Corn threshing</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1573"
-             subtype="h3">1. Implements used</ab>
+             subtype="h3">1. Implements used</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1578">
             <form>
                <orth>sùist</orth>
@@ -1176,9 +1176,9 @@
         <graphic url="SouthBragarDMacPhailagricultureillust3.jpg" width="200px"/>
             </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1631"
-             subtype="h3">2. Threshing</ab>
+             subtype="h3">2. Threshing</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1636">
             <form>
                <orth>bualadh</orth>
@@ -1195,12 +1195,12 @@
             </form>
             <def>cutting the base and roots off barley sheaves with an old scythe blade and shaking all down into a thorough mixture for thatch.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1656"
-             subtype="h2">(d) Grain winnowing</ab>
-         <ab type="heading"
+             subtype="h2">(d) Grain winnowing</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1660"
-             subtype="h3">1. Devices used</ab>
+             subtype="h3">1. Devices used</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1665">
             <form>
                <orth>fasganadh</orth>
@@ -1219,21 +1219,21 @@
                <orth>criathradh</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1687"
-             subtype="h3">2. How constructed and materials used. Winnowing</ab>
+             subtype="h3">2. How constructed and materials used. Winnowing</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1692">
             <form>
                <orth>[siol agus scalpan]</orth>
             </form>
             <def>Siol agus scalpan air a cur ri gaoith, siol ri tuiteam faisg a laimh ach a scalpan no moll falb [sic] leis a gaoith.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1700"
-             subtype="h1">10. Permanent structures/buildings for storing crops</ab>
-         <ab type="heading"
+            >10. Permanent structures/buildings for storing crops</head>
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1704"
-             subtype="h2">(a) Stack-yard</ab>
+             subtype="h2">(a) Stack-yard</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1709">
             <form>
                <orth>iodhlainn</orth>
@@ -1251,9 +1251,9 @@
                <orth>gàradh na h-iodhlainn</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1732"
-             subtype="h2">(b) Barn and parts of a barn</ab>
+             subtype="h2">(b) Barn and parts of a barn</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1737">
             <form>
                <orth>toll an shabhail</orth>
@@ -1278,9 +1278,9 @@
             </form>
             <def>separate part for housing this year’s lambs in winter.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1772"
-             subtype="h1">11. Modern implements and machines</ab>
+            >11. Modern implements and machines</head>
          <entry xml:id="Agriculture_SouthBragarDMacPhailagriculture-d0e1777">
             <form>
                <orth>[tractor, reaper, binder]</orth>

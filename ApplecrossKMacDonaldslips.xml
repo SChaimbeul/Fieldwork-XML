@@ -1,97 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="Slips_ApplecrossKMacDonaldslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>1980, 1988</date>
-            <location>
-               <placeName>Applecross</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="informant">
-               <persName>Rev. K. MacDonald</persName>
-               <birth>
-                  <placeName>Garrabost</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_ApplecrossKMacDonaldslips-idp167433368">
-            <form>
-               <orth>mulad</orth>
-            </form>
-            <def>Notes: birth labour in animals or humans.</def>
-         </entry>
-         <entry xml:id="Slips_ApplecrossKMacDonaldslips-idp167348336">
-            <form>
-               <orth>sgleòtag</orth>
-            </form>
-            <def>Notes: young cole fish = smalag in series cudaig, smalag, saoidhean, ucas.</def>
-         </entry>
-         <entry xml:id="Slips_ApplecrossKMacDonaldslips-idp167399816">
-            <form>
-               <orth>traille</orth>
-            </form>
-            <def>Notes: tusk fish.</def>
-         </entry>
-         <entry xml:id="Slips_ApplecrossKMacDonaldslips-idp167402984">
-            <form>
-               <orth>turbaid</orth>
-            </form>
-            <def>Notes: halibut (Garrabost).</def>
-         </entry>
-         <entry xml:id="Slips_ApplecrossKMacDonaldslips-idp167348768">
-            <form>
-               <orth>beingean</orth>
-            </form>
-            <def>son-in-law who married to get possession of property. (West Lewis usage)</def>
-         </entry>
-         <entry xml:id="Slips_ApplecrossKMacDonaldslips-idp167339912">
-            <form>
-               <orth>buigneag</orth>
-            </form>
-            <def>Notes: a ‘softy’.</def>
-         </entry>
-         <entry xml:id="Slips_ApplecrossKMacDonaldslips-idp167397008">
-            <form>
-               <orth>càrnag</orth>
-            </form>
-            <def>Notes: eel, easgann.</def>
-         </entry>
-         <entry xml:id="Slips_ApplecrossKMacDonaldslips-idp167394632">
-            <form>
-               <orth>càrnaidh</orth>
-            </form>
-            <def>Notes: small cod. ‘Bodach ruadh beag’. (Garrabost)</def>
-         </entry>
-         <entry xml:id="Slips_ApplecrossKMacDonaldslips-idp167391104">
-            <form>
-               <orth>glasag</orth>
-            </form>
-            <def>Notes: Garrabost word for cod roe.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_ApplecrossKMacDonaldslips">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>1980, 1988</date>
+        <location corresp="Ross-shire_Applecross"/>
+      </creation>
+      <particDesc>
+        <person role="informant" corresp="Rev_K_MacDonald_Applecross"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_ApplecrossKMacDonaldslips-idp167433368">
+        <form>
+          <orth>mulad</orth>
+        </form>
+        <def>Notes: birth labour in animals or humans.</def>
+      </entry>
+      <entry xml:id="Slips_ApplecrossKMacDonaldslips-idp167348336">
+        <form>
+          <orth>sgleòtag</orth>
+        </form>
+        <def>Notes: young cole fish = smalag in series cudaig, smalag, saoidhean, ucas.</def>
+      </entry>
+      <entry xml:id="Slips_ApplecrossKMacDonaldslips-idp167399816">
+        <form>
+          <orth>traille</orth>
+        </form>
+        <def>Notes: tusk fish.</def>
+      </entry>
+      <entry xml:id="Slips_ApplecrossKMacDonaldslips-idp167402984">
+        <form>
+          <orth>turbaid</orth>
+        </form>
+        <def>Notes: halibut (Garrabost).</def>
+      </entry>
+      <entry xml:id="Slips_ApplecrossKMacDonaldslips-idp167348768">
+        <form>
+          <orth>beingean</orth>
+        </form>
+        <def>son-in-law who married to get possession of property. (West Lewis usage)</def>
+      </entry>
+      <entry xml:id="Slips_ApplecrossKMacDonaldslips-idp167339912">
+        <form>
+          <orth>buigneag</orth>
+        </form>
+        <def>Notes: a ‘softy’.</def>
+      </entry>
+      <entry xml:id="Slips_ApplecrossKMacDonaldslips-idp167397008">
+        <form>
+          <orth>càrnag</orth>
+        </form>
+        <def>Notes: eel, easgann.</def>
+      </entry>
+      <entry xml:id="Slips_ApplecrossKMacDonaldslips-idp167394632">
+        <form>
+          <orth>càrnaidh</orth>
+        </form>
+        <def>Notes: small cod. ‘Bodach ruadh beag’. (Garrabost)</def>
+      </entry>
+      <entry xml:id="Slips_ApplecrossKMacDonaldslips-idp167391104">
+        <form>
+          <orth>glasag</orth>
+        </form>
+        <def>Notes: Garrabost word for cod roe.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

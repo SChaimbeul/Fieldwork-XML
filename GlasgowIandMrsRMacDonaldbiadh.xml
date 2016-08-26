@@ -41,18 +41,18 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-d0e30"
-             subtype="h1">1. Na tràthan</ab>
+            >1. Na tràthan</head>
          <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112423352">
             <form>
                <orth>bròs</orth>
             </form>
             <def>form of porridge made with corn. Taken for breakfast.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-d0e43"
-             subtype="h1">2. Am biadh a bhidhte gabhail aig gach tràth</ab>
+            >2. Am biadh a bhidhte gabhail aig gach tràth</head>
          <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112429040">
             <form>
                <orth>lìte</orth>
@@ -71,9 +71,9 @@
             </form>
             <def>an oatmeal orientated drink likely to be used to quench the thirst.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-d0e74"
-             subtype="h1">Biadh aig amanan sonraichte ’sa bhliadhna</ab>
+            >Biadh aig amanan sonraichte ’sa bhliadhna</head>
          <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112444088">
             <form>
                <orth>strùthan</orth>
@@ -87,9 +87,9 @@
             </form>
             <def>[sic] </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-d0e93"
-             subtype="h1">3. Dòighean air biadh a dheasachadh</ab>
+            >3. Dòighean air biadh a dheasachadh</head>
          <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idola10">
             <form>
                <orth>hearth</orth>
@@ -97,9 +97,9 @@
             <def>
                <graphic url="GlasgowIandMrsRMacDonaldbiadhillust1.jpg" width="300px"/>baking placed in hot alcoves (could not remember the word for this).</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-d0e107"
-             subtype="h1">4. Fuine</ab>
+            >4. Fuine</head>
          <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112508816">
             <form>
                <orth>clàr fuinne</orth>
@@ -139,9 +139,9 @@
                <orth>breacag arain</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-d0e163"
-             subtype="h1">5. Deochan dhe gach seòrsa</ab>
+            >5. Deochan dhe gach seòrsa</head>
          <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112527680">
             <form>
                <orth>leann nan biastan</orth>
@@ -178,9 +178,9 @@
             </form>
             <def>in its own right.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-d0e221"
-             subtype="h1">6. Biadh no deoch a bhidhte deanamh gu sònraichte do luchd euslan</ab>
+            >6. Biadh no deoch a bhidhte deanamh gu sònraichte do luchd euslan</head>
          <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-idp112439336">
             <form>
                <orth>càmhraich</orth>
@@ -199,12 +199,12 @@
             </form>
             <def>salted butter which is heated and used for the same purpose as a poultice.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-d0e252"
-             subtype="h1">7. Nithean a bhiodh ann nuair a rachadh beathach a mharbhadh (missing)</ab>
-         <ab type="heading"
+            >7. Nithean a bhiodh ann nuair a rachadh beathach a mharbhadh (missing)</head>
+         <head
              xml:id="AOHenley_GlasgowIandMrsRMacDonaldbiadh-d0e256"
-             subtype="h1">8. Faclan sam bith eile (missing)</ab>
+            >8. Faclan sam bith eile (missing)</head>
       </body>
    </text>
 </TEI>

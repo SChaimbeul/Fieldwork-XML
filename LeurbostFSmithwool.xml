@@ -45,9 +45,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_LeurbostFSmithwool-d0e35"
-             subtype="h1">Process</ab>
+            >Process</head>
          <entry xml:id="WoolworkingandFishing_LeurbostFSmithwool-d0e40">
             <form>
                <orth>deilbh</orth>
@@ -88,9 +88,9 @@
                <orth>’ga fhighe</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_LeurbostFSmithwool-d0e96"
-             subtype="h1">Different parts of the loom</ab>
+            >Different parts of the loom</head>
          <entry xml:id="WoolworkingandFishing_LeurbostFSmithwool-d0e101">
             <form>
                <orth>beart-fhighe</orth>

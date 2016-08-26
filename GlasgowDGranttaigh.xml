@@ -42,9 +42,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e32"
-             subtype="h1">1. An stéidh is am balla</ab>
+            >1. An stéidh is am balla</head>
          <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e37">
             <form>
                <orth>funnd (m)</orth>
@@ -63,18 +63,18 @@
             </form>
             <def>top of wall of house or byre.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e63"
-             subtype="h1">2. Am mullach ’s an tughadh</ab>
+            >2. Am mullach ’s an tughadh</head>
          <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e68">
             <form>
                <orth>fà(r)las (m)</orth>
             </form>
             <def>smoke vent.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e76"
-             subtype="h1">3. Dorsan is uinneagan</ab>
+            >3. Dorsan is uinneagan</head>
          <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e81">
             <form>
                <orth>leòsan (m)</orth>
@@ -93,9 +93,9 @@
             </form>
             <def>door-catch, sneck.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e107"
-             subtype="h1">4. An broinn an taighe: na sèamraichean</ab>
+            >4. An broinn an taighe: na sèamraichean</head>
          <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e112">
             <form>
                <orth>an ceann-shìos</orth>
@@ -133,9 +133,9 @@
             </form>
             <def>partition separating rooms.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e165"
-             subtype="h1">5. An t-àite-teine</ab>
+            >5. An t-àite-teine</head>
          <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e170">
             <form>
                <orth>leac-an-teintein</orth>
@@ -154,9 +154,9 @@
             </form>
             <def>chain holding hook for pot or kettle.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e196"
-             subtype="h1">6. Airneis an taighe</ab>
+            >6. Airneis an taighe</head>
          <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e201">
             <form>
                <orth>furm (m)</orth>
@@ -181,9 +181,9 @@
             </form>
             <def>dresser.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e236"
-             subtype="h1">7. Sobhal, bàthach, no bothanan sam bith eile</ab>
+            >7. Sobhal, bàthach, no bothanan sam bith eile</head>
          <entry xml:id="HouseandFurnishings_GlasgowDGranttaigh-d0e241">
             <form>
                <orth>brìg (f)</orth>

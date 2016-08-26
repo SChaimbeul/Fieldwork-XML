@@ -39,28 +39,28 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading" xml:id="Games_Lewisvariousgames-d0e28" subtype="h1">1. Toys</ab>
+         <head xml:id="Games_Lewisvariousgames-d0e28">1. Toys</head>
          <entry xml:id="Games_Lewisvariousgames-d0e33">
             <form>
                <orth>liùdhag</orth>
             </form>
             <def>doll.</def>
          </entry>
-         <ab type="heading" xml:id="Games_Lewisvariousgames-d0e41" subtype="h1">2. Swings, see-saws</ab>
+         <head xml:id="Games_Lewisvariousgames-d0e41">2. Swings, see-saws</head>
          <entry xml:id="Games_Lewisvariousgames-d0e46">
             <form>
                <orth>lair a mhaide</orth>
             </form>
             <def>see-saw.</def>
          </entry>
-         <ab type="heading" xml:id="Games_Lewisvariousgames-d0e54" subtype="h1">3. Games played indoors</ab>
+         <head xml:id="Games_Lewisvariousgames-d0e54">3. Games played indoors</head>
          <entry xml:id="Games_Lewisvariousgames-d0e59">
             <form>
                <orth>tudalan na h àthe</orth>
             </form>
             <def>blind man’s bluff.</def>
          </entry>
-         <ab type="heading" xml:id="Games_Lewisvariousgames-d0e67" subtype="h1">4. Outdoor games not involving a ball or puck</ab>
+         <head xml:id="Games_Lewisvariousgames-d0e67">4. Outdoor games not involving a ball or puck</head>
          <entry xml:id="Games_Lewisvariousgames-idola119">
             <form>
                <orth>[boc]</orth>
@@ -82,7 +82,7 @@
             </form>
             <def>[NOTES: the word and definition appear under Section 6. Athletics.]</def>
          </entry>
-         <ab type="heading" xml:id="Games_Lewisvariousgames-d0e100" subtype="h1">5. Ball games</ab>
+         <head xml:id="Games_Lewisvariousgames-d0e100">5. Ball games</head>
          <entry xml:id="Games_Lewisvariousgames-d0e105">
             <form>
                <orth>ag gioman</orth>
@@ -147,7 +147,7 @@
             </form>
             <def>cockle.</def>
          </entry>
-         <ab type="heading" xml:id="Games_Lewisvariousgames-d0e196" subtype="h1">6. Athletics</ab>
+         <head xml:id="Games_Lewisvariousgames-d0e196">6. Athletics</head>
          <entry xml:id="Games_Lewisvariousgames-d0e201">
             <form>
                <orth>car a mhultainn</orth>
@@ -192,21 +192,21 @@
             </form>
             <def>leum mach as a bhalá, held by both hands.</def>
          </entry>
-         <ab type="heading" xml:id="Games_Lewisvariousgames-d0e263" subtype="h1">7. Heavy events</ab>
+         <head xml:id="Games_Lewisvariousgames-d0e263">7. Heavy events</head>
          <entry xml:id="Games_Lewisvariousgames-d0e268">
             <form>
                <orth>dòrnag</orth>
             </form>
             <def>shot putt.</def>
          </entry>
-         <ab type="heading" xml:id="Games_Lewisvariousgames-d0e276" subtype="h1">8. Contests involving pulling or pushing</ab>
+         <head xml:id="Games_Lewisvariousgames-d0e276">8. Contests involving pulling or pushing</head>
          <entry xml:id="Games_Lewisvariousgames-d0e281">
             <form>
                <orth>maide leisg</orth>
             </form>
             <def>Domhnull Mòr Taileir [?] agus Iain Mhurican [?] bhris spaid ùr eatóra leis a mhaide leisg.</def>
          </entry>
-         <ab type="heading" xml:id="Games_Lewisvariousgames-d0e289" subtype="h1">9. Boxing and wrestling</ab>
+         <head xml:id="Games_Lewisvariousgames-d0e289">9. Boxing and wrestling</head>
          <entry xml:id="Games_Lewisvariousgames-d0e294">
             <form>
                <orth>Bheil thu deònach air</orth>
@@ -248,14 +248,14 @@
             </form>
             <def>planting with a dibble.</def>
          </entry>
-         <ab type="heading" xml:id="Games_Lewisvariousgames-d0e347" subtype="h1">10. Blows in general</ab>
+         <head xml:id="Games_Lewisvariousgames-d0e347">10. Blows in general</head>
          <entry xml:id="Games_Lewisvariousgames-d0e352">
             <form>
                <orth>fuarag</orth>
             </form>
             <def>knock out. Thug mi fuarag dha.</def>
          </entry>
-         <ab type="heading" xml:id="Games_Lewisvariousgames-d0e360" subtype="h1">11. Injury and exhaustion</ab>
+         <head xml:id="Games_Lewisvariousgames-d0e360">11. Injury and exhaustion</head>
          <entry xml:id="Games_Lewisvariousgames-d0e365">
             <form>
                <orth>buile-léig</orth>

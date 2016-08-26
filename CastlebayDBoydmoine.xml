@@ -33,7 +33,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term>Peat-Working</term>
+               <term xml:lang="en">Peat-Working</term>
                <term>Mòine</term>
             </keywords>
          </textClass>
@@ -41,19 +41,19 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading" xml:id="Peat_CastlebayDBoydmoine-d0e32" subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
-         <ab type="heading" xml:id="Peat_CastlebayDBoydmoine-d0e36" subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+         <head xml:id="Peat_CastlebayDBoydmoine-d0e32">1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
+         <head xml:id="Peat_CastlebayDBoydmoine-d0e36">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
          <entry xml:id="Peat_CastlebayDBoydmoine-idola194">
             <form>
                <orth>[note]</orth>
             </form>
             <def>Tha an uine cho fada bho an bha mise ris an obair so, is nach ’eil cuimhne agam air far leth-dusan facal, agus is iad sin, tha mi cinnteach, bithidh agaibh mu thràth. Boyd. Bagh-a-Chaisteil.</def>
          </entry>
-         <ab type="heading" xml:id="Peat_CastlebayDBoydmoine-d0e49" subtype="h1">3. A’ tiormachadh na mònach</ab>
-         <ab type="heading" xml:id="Peat_CastlebayDBoydmoine-d0e53" subtype="h1">4. A’ cruachadh na mònach</ab>
-         <ab type="heading" xml:id="Peat_CastlebayDBoydmoine-d0e57" subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
-         <ab type="heading" xml:id="Peat_CastlebayDBoydmoine-d0e61" subtype="h1">6. Seòrsachan mònach</ab>
-         <ab type="heading" xml:id="Peat_CastlebayDBoydmoine-d0e65" subtype="h1">7. Faclan eile</ab>
+         <head xml:id="Peat_CastlebayDBoydmoine-d0e49">3. A’ tiormachadh na mònach</head>
+         <head xml:id="Peat_CastlebayDBoydmoine-d0e53">4. A’ cruachadh na mònach</head>
+         <head xml:id="Peat_CastlebayDBoydmoine-d0e57">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
+         <head xml:id="Peat_CastlebayDBoydmoine-d0e61">6. Seòrsachan mònach</head>
+         <head xml:id="Peat_CastlebayDBoydmoine-d0e65">7. Faclan eile</head>
       </body>
    </text>
 </TEI>

@@ -33,7 +33,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term>Peat-Working</term>
+               <term xml:lang="en">Peat-Working</term>
                <term>Mòine</term>
             </keywords>
          </textClass>
@@ -41,8 +41,8 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading" xml:id="Peat_GlasgowDGrantmoine-d0e34" subtype="h1">(Faclan á Camaschros an sgìre Shléite san Eilean Sgitheanach.)</ab>
-         <ab type="heading" xml:id="Peat_GlasgowDGrantmoine-d0e38" subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+         <head xml:id="Peat_GlasgowDGrantmoine-d0e34">(Faclan á Camaschros an sgìre Shléite san Eilean Sgitheanach.)</head>
+         <head xml:id="Peat_GlasgowDGrantmoine-d0e38">1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
          <entry xml:id="Peat_GlasgowDGrantmoine-d0e43">
             <form>
                <orth>poll-mòna</orth>
@@ -114,7 +114,7 @@
             </form>
             <def>[See ceap]</def>
          </entry>
-         <ab type="heading" xml:id="Peat_GlasgowDGrantmoine-d0e139" subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+         <head xml:id="Peat_GlasgowDGrantmoine-d0e139">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
          <entry xml:id="Peat_GlasgowDGrantmoine-d0e144">
             <form>
                <orth>iarran-mòna</orth>
@@ -154,7 +154,7 @@
             </form>
             <def>mòine aotrom dhonn.</def>
          </entry>
-         <ab type="heading" xml:id="Peat_GlasgowDGrantmoine-d0e196" subtype="h1">3. A’ tiormachadh na mònach</ab>
+         <head xml:id="Peat_GlasgowDGrantmoine-d0e196">3. A’ tiormachadh na mònach</head>
          <entry xml:id="Peat_GlasgowDGrantmoine-d0e201">
             <form>
                <orth>a’ togail na mòna</orth>
@@ -175,7 +175,7 @@
             </form>
             <def>tòrr beag mòna (cruach bheag).</def>
          </entry>
-         <ab type="heading" xml:id="Peat_GlasgowDGrantmoine-d0e229" subtype="h1">4. A’ cruachadh na mònach</ab>
+         <head xml:id="Peat_GlasgowDGrantmoine-d0e229">4. A’ cruachadh na mònach</head>
          <entry xml:id="Peat_GlasgowDGrantmoine-d0e234">
             <form>
                <orth>cridhe na cruaiche</orth>
@@ -202,7 +202,7 @@
             </form>
             <def>dusd na mòna.</def>
          </entry>
-         <ab type="heading" xml:id="Peat_GlasgowDGrantmoine-d0e271" subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
+         <head xml:id="Peat_GlasgowDGrantmoine-d0e271">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
          <entry xml:id="Peat_GlasgowDGrantmoine-d0e276">
             <form>
                <orth>a’ tarraing na mòna</orth>
@@ -248,7 +248,7 @@
             </form>
             <def>aig an taigh a’ cur na mona an tòrr sgiobalta.</def>
          </entry>
-         <ab type="heading" xml:id="Peat_GlasgowDGrantmoine-d0e336" subtype="h1">6. Seòrsachan mònach</ab>
+         <head xml:id="Peat_GlasgowDGrantmoine-d0e336">6. Seòrsachan mònach</head>
          <entry xml:id="Peat_GlasgowDGrantmoine-d0e341">
             <form>
                <orth>mòine bhuidhe</orth>
@@ -269,7 +269,7 @@
                <orth>mòine phrann</orth>
             </form>
          </entry>
-         <ab type="heading" xml:id="Peat_GlasgowDGrantmoine-d0e364" subtype="h1">7. Faclan eile</ab>
+         <head xml:id="Peat_GlasgowDGrantmoine-d0e364">7. Faclan eile</head>
       </body>
    </text>
 </TEI>

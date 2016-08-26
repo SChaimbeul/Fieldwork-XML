@@ -38,9 +38,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e26"
-             subtype="h1">1. Various denominations</ab>
+            >1. Various denominations</head>
          <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e31">
             <form>
                <orth>An Eaglais Shuidhichte na Eaglais na h-Alba</orth>
@@ -56,9 +56,9 @@
                <orth>An Eaglais Shaor Aonaichte</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e48"
-             subtype="h1">2. Member of each of these denominations</ab>
+            >2. Member of each of these denominations</head>
          <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e53">
             <form>
                <orth>fear leanmhainn</orth>
@@ -77,9 +77,9 @@
             </form>
             <def>member.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e79"
-             subtype="h1">3. Different courts of the Presbyterian churches</ab>
+            >3. Different courts of the Presbyterian churches</head>
          <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e84">
             <form>
                <orth>cuirt nan dacoin na cuirt nam foirfeach</orth>
@@ -95,9 +95,9 @@
                <orth>cleir</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e101"
-             subtype="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</ab>
+            >4. Members of the clergy and office-bearers with the Presbyterian churches</head>
          <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e106">
             <form>
                <orth>ministear na teachdaire</orth>
@@ -138,27 +138,27 @@
                <orth>maor eaglais</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e153"
-             subtype="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</ab>
+            >5. Members of the clergy and office-bearers in the Roman Catholic church</head>
          <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-idola104">
             <form>
                <orth>[note]</orth>
             </form>
             <def>(Not answered.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e166"
-             subtype="h1">6. Holy Orders within the Roman Catholic church</ab>
+            >6. Holy Orders within the Roman Catholic church</head>
          <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-idola105">
             <form>
                <orth>[note]</orth>
             </form>
             <def>(Not answered.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e179"
-             subtype="h1">7. Articles of dress or adornment</ab>
+            >7. Articles of dress or adornment</head>
          <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-idola106">
             <form>
                <orth>[faillinn, coileir, bann]</orth>
@@ -186,12 +186,12 @@
             </form>
             <def>[the minister’s tie, of white linen.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e219"
-             subtype="h1">8. Church building and churchyard</ab>
-         <ab type="heading"
+            >8. Church building and churchyard</head>
+         <head
              xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e223"
-             subtype="h1">9. Church furniture and ornaments</ab>
+            >9. Church furniture and ornaments</head>
          <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e228">
             <form>
                <orth>altair</orth>
@@ -263,9 +263,9 @@
             </form>
             <def>statues.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e332"
-             subtype="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</ab>
+            >10. Different services during the week, feast days, sacraments, Sunday school etc.</head>
          <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e337">
             <form>
                <orth>coinneamh urnuigh</orth>
@@ -284,9 +284,9 @@
             </form>
             <def>quarterly meeting.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e363"
-             subtype="h2">Special services</ab>
+             subtype="h2">Special services</head>
          <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e368">
             <form>
                <orth>Latha an Trasgadh</orth>
@@ -305,9 +305,9 @@
             </form>
             <def>Question Day.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e394"
-             subtype="h2">Sacraments</ab>
+             subtype="h2">Sacraments</head>
          <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e399">
             <form>
                <orth>Sacramaid Bord an Tighearna</orth>
@@ -349,9 +349,9 @@
             </form>
             <def>house meetings.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e458"
-             subtype="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</ab>
+            >11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</head>
          <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e463">
             <form>
                <orth>Dia</orth>
@@ -453,9 +453,9 @@
             </form>
             <def>other prayers.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e612"
-             subtype="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</ab>
+            >12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</head>
          <entry xml:id="Ecclesiastical_PirnmillDCurrieeccles-d0e617">
             <form>
                <orth>Sàtan</orth>

@@ -40,36 +40,36 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Games_NethyBridgeNSmithgames-d0e29"
-             subtype="h1">1. Toys</ab>
-         <ab type="heading"
+            >1. Toys</head>
+         <head
              xml:id="Games_NethyBridgeNSmithgames-d0e33"
-             subtype="h1">2. Swings, see-saws</ab>
-         <ab type="heading"
+            >2. Swings, see-saws</head>
+         <head
              xml:id="Games_NethyBridgeNSmithgames-d0e37"
-             subtype="h1">3. Games played indoors</ab>
-         <ab type="heading"
+            >3. Games played indoors</head>
+         <head
              xml:id="Games_NethyBridgeNSmithgames-d0e41"
-             subtype="h1">4. Outdoor games not involving a ball or puck</ab>
-         <ab type="heading"
+            >4. Outdoor games not involving a ball or puck</head>
+         <head
              xml:id="Games_NethyBridgeNSmithgames-d0e45"
-             subtype="h1">5. Ball games</ab>
-         <ab type="heading"
+            >5. Ball games</head>
+         <head
              xml:id="Games_NethyBridgeNSmithgames-d0e49"
-             subtype="h1">6. Athletics</ab>
-         <ab type="heading"
+            >6. Athletics</head>
+         <head
              xml:id="Games_NethyBridgeNSmithgames-d0e53"
-             subtype="h1">7. Heavy events</ab>
-         <ab type="heading"
+            >7. Heavy events</head>
+         <head
              xml:id="Games_NethyBridgeNSmithgames-d0e57"
-             subtype="h1">8. Contests involving pulling or pushing</ab>
-         <ab type="heading"
+            >8. Contests involving pulling or pushing</head>
+         <head
              xml:id="Games_NethyBridgeNSmithgames-d0e61"
-             subtype="h1">9. Boxing and wrestling</ab>
-         <ab type="heading"
+            >9. Boxing and wrestling</head>
+         <head
              xml:id="Games_NethyBridgeNSmithgames-d0e65"
-             subtype="h1">10. Blows in general</ab>
+            >10. Blows in general</head>
          <entry xml:id="Games_NethyBridgeNSmithgames-d0e70">
             <form>
                <orth>sglabhart</orth>
@@ -91,9 +91,9 @@
             </form>
             <def>[blow.] ‘sgail’ same as in ‘sgail’, the ‘t’ ending like ‘itch’.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Games_NethyBridgeNSmithgames-d0e96"
-             subtype="h1">11. Injury and exhaustion</ab>
+            >11. Injury and exhaustion</head>
       </body>
    </text>
 </TEI>

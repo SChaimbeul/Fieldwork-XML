@@ -45,9 +45,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e35"
-             subtype="h1">The Lobster</ab>
+            >The Lobster</head>
          <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e40">
             <form>
                <orth>giomach fìreann</orth>
@@ -120,9 +120,9 @@
             </form>
             <def>lobster with both claws missing. (From David MacClounnan, Tiree.)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e147"
-             subtype="h1">The Creel</ab>
+            >The Creel</head>
          <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e152">
             <form>
                <orth>cliabh-ghiomach</orth>
@@ -218,9 +218,9 @@
             </form>
             <def>fleet of creels, when attached to a single line.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e292"
-             subtype="h1">Fishing</ab>
+            >Fishing</head>
          <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e297">
             <form>
                <orth>cur a-mach nan cléibh</orth>
@@ -239,9 +239,9 @@
             </form>
             <def>bait.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e323"
-             subtype="h2">kinds  used</ab>
+             subtype="h2">kinds  used</head>
          <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e328">
             <form>
                <orth>reannach (righinn)</orth>
@@ -257,9 +257,9 @@
                <orth>sgat (righinn)</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e345"
-             subtype="h2">Cleaning a creel, what creatures found within</ab>
+             subtype="h2">Cleaning a creel, what creatures found within</head>
          <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e350">
             <form>
                <orth>glanadh a’ chléibh</orth>
@@ -282,9 +282,9 @@
             </form>
             <def>whelk, 3" [?] long.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e379"
-             subtype="h2">Other terms</ab>
+             subtype="h2">Other terms</head>
          <entry xml:id="TireeandMull_MullBunessanWMacDonaldlobster-d0e384">
             <form>
                <orth>milleadh air an ròp</orth>

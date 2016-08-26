@@ -42,9 +42,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="DRMorrisonetal_DurnessGMacKenziesheep-d0e33"
-             subtype="h1">1. Different stages in the growth of sheep (female)</ab>
+            >1. Different stages in the growth of sheep (female)</head>
          <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115309080">
             <form>
                <orth>uan “borran”</orth>
@@ -75,21 +75,21 @@
             </form>
             <def>broken mouthed. (Stoer, Assynt)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrisonetal_DurnessGMacKenziesheep-d0e84"
-             subtype="h1">2. Different stages in the growth of sheep (male)</ab>
-         <ab type="heading"
+            >2. Different stages in the growth of sheep (male)</head>
+         <head
              xml:id="DRMorrisonetal_DurnessGMacKenziesheep-d0e90"
-             subtype="h1">3. Different stages in the growth of the castrated male</ab>
+            >3. Different stages in the growth of the castrated male</head>
          <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115329168">
             <form>
                <orth>moult</orth>
             </form>
             <def>wedder. (Stoer, Assynt)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrisonetal_DurnessGMacKenziesheep-d0e105"
-             subtype="h1">4. Sheep’s appearance</ab>
+            >4. Sheep’s appearance</head>
          <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115331544">
             <form>
                <orth>caorich brucach</orth>
@@ -138,9 +138,9 @@
             </form>
             <def>fat sheep. (Stoer, Assynt)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrisonetal_DurnessGMacKenziesheep-d0e183"
-             subtype="h1">5. Miscellaneous</ab>
+            >5. Miscellaneous</head>
          <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115344504">
             <form>
                <orth>pait</orth>
@@ -159,12 +159,12 @@
             </form>
             <def>ram. (Stoer, Assynt)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrisonetal_DurnessGMacKenziesheep-d0e216"
-             subtype="h1">6. Feeding and grazing</ab>
-         <ab type="heading"
+            >6. Feeding and grazing</head>
+         <head
              xml:id="DRMorrisonetal_DurnessGMacKenziesheep-d0e222"
-             subtype="h1">7. Handling of sheep</ab>
+            >7. Handling of sheep</head>
          <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115350768">
             <form>
                <orth>fuadachin</orth>
@@ -219,9 +219,9 @@
             </form>
             <def>call to a pet lamb. (Stoer, Assynt)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrisonetal_DurnessGMacKenziesheep-d0e309"
-             subtype="h1">8. Apparatus</ab>
+            >8. Apparatus</head>
          <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115366608">
             <form>
                <orth>teaghair</orth>
@@ -241,9 +241,9 @@
             <def>swivel. (Stoer, Assynt) The “foodlan” is usually an oblong piece of hard wood 4" x 2" x ½" (bigger for cattle) with two holes. The tether threaded through each hole from different side with an overhand knot on each rope, thus revolving in the “foodlan”. The modern iron swivel was merely called “sweevil”. <graphic url="DurnessGMacKenziesheepillust1.jpg" width="150px"/>
             </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrisonetal_DurnessGMacKenziesheep-d0e343"
-             subtype="h1">9. Diseases</ab>
+            >9. Diseases</head>
          <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115372440">
             <form>
                <orth>toak</orth>
@@ -286,9 +286,9 @@
             </form>
             <def>sheep struck by fly (maggots). (Stoer, Assynt) Tha creag “ooya” – ooya is used in Stoer for orra.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrisonetal_DurnessGMacKenziesheep-d0e412"
-             subtype="h1">10. Parts of the body</ab>
+            >10. Parts of the body</head>
          <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp115385112">
             <form>
                <orth>ceann</orth>
@@ -379,9 +379,9 @@
             </form>
             <def>usually applied to the inside in general. An a bhroinn na caora.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrisonetal_DurnessGMacKenziesheep-d0e553"
-             subtype="h1">11. Lambing</ab>
+            >11. Lambing</head>
          <entry xml:id="DRMorrisonetal_DurnessGMacKenziesheep-idp119985752">
             <form>
                <orth>cur uan</orth>
@@ -394,9 +394,9 @@
             </form>
             <def>afterbirth. (Stoer, Assynt)</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="DRMorrisonetal_DurnessGMacKenziesheep-d0e577"
-             subtype="h1">12. Miscellaneous</ab>
+            >12. Miscellaneous</head>
       </body>
    </text>
 </TEI>

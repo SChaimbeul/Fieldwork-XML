@@ -46,9 +46,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e38"
-             subtype="h1">1. Lìon-mór</ab>
+            >1. Lìon-mór</head>
          <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e43">
             <form>
                <orth>lion-mhòr</orth>
@@ -111,9 +111,9 @@
             </form>
             <def>gaff, airson easgannan is langa is truisg.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e132"
-             subtype="h1">2. Lìon-beag</ab>
+            >2. Lìon-beag</head>
          <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e137">
             <form>
                <orth>lion-bheag</orth>
@@ -133,18 +133,18 @@
             </form>
             <def>[NOTES: not clear what it refers to – clàr?] [NOTES: slip not found.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e163"
-             subtype="h2">Druim:</ab>
+             subtype="h2">Druim:</head>
          <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e168">
             <form>
                <orth>sreang</orth>
             </form>
             <def>ceud dubh [sic] air a h-uile sreang, da shreang an comhnaidh. [SLIP: Ceud dubhan air a h-uile sreang.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e176"
-             subtype="h1">3. Lìon-sgadanach</ab>
+            >3. Lìon-sgadanach</head>
          <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e181">
             <form>
                <orth>lion-sgadanach</orth>
@@ -228,9 +228,9 @@
             </form>
             <def>[NOTES: slip not found.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e297"
-             subtype="h1">4. Lìon sam bith eile</ab>
+            >4. Lìon sam bith eile</head>
          <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e302">
             <form>
                <orth>tàbh</orth>
@@ -259,9 +259,9 @@
             <def>[NOTES: slipped under ‘sùil’ with ‘sùil a chleibh (ghiomaich)’ as the quotation.] <graphic url="FortroseJMacInnesiasgachillust2.jpg" width="300px"/>
             </def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e339"
-             subtype="h1">5. Duirgh, slatan, driamlaichean</ab>
+            >5. Duirgh, slatan, driamlaichean</head>
          <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e344">
             <form>
                <orth>dorgh, duirgh</orth>
@@ -347,9 +347,9 @@
             </form>
             <def>sand eel used as lure for lythe etc.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e470"
-             subtype="h1">6. Acfhuinn sam bith eile</ab>
+            >6. Acfhuinn sam bith eile</head>
       </body>
    </text>
 </TEI>

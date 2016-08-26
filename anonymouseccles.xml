@@ -32,9 +32,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_anonymouseccles-d0e20"
-             subtype="h1">1. Various denominations</ab>
+            >1. Various denominations</head>
          <entry xml:id="Ecclesiastical_anonymouseccles-d0e25">
             <form>
                <orth>na h antis</orth>
@@ -71,9 +71,9 @@
             </form>
             <def>United Free Church and Established Church of Scotland (1930). U. F. Continuing. Those who did not join the 1930 Union. [NOTES: the last comment on U. F. added later.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_anonymouseccles-d0e78"
-             subtype="h2">An eaglais eile</ab>
+             subtype="h2">An eaglais eile</head>
          <entry xml:id="Ecclesiastical_anonymouseccles-d0e83">
             <form>
                <orth>Cathlic</orth>
@@ -86,9 +86,9 @@
             </form>
             <def>in Lewis.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_anonymouseccles-d0e100"
-             subtype="h1">2. Member of each of these denominations</ab>
+            >2. Member of each of these denominations</head>
          <entry xml:id="Ecclesiastical_anonymouseccles-d0e105">
             <form>
                <orth>togail fianuis</orth>
@@ -112,9 +112,9 @@
             </form>
             <def>Bha minister maide a Tiridh / Chaidh aige chun an [?] Assembly air spree / “Mo chreach” ars easan / “Bidh mise aig an t-session / Ghabh mi tuilleadh/barrachd air coffee is ti.”</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_anonymouseccles-d0e137"
-             subtype="h1">3. Different courts of the Presbyterian churches</ab>
+            >3. Different courts of the Presbyterian churches</head>
          <entry xml:id="Ecclesiastical_anonymouseccles-d0e142">
             <form>
                <orth>kúrst an dècon</orth>
@@ -139,9 +139,9 @@
             </form>
             <def>secret [meeting].</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_anonymouseccles-d0e174"
-             subtype="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</ab>
+            >4. Members of the clergy and office-bearers with the Presbyterian churches</head>
          <entry xml:id="Ecclesiastical_anonymouseccles-d0e179">
             <form>
                <orth>minister</orth>
@@ -182,9 +182,9 @@
                <orth>maor eglaish</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_anonymouseccles-d0e226"
-             subtype="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</ab>
+            >5. Members of the clergy and office-bearers in the Roman Catholic church</head>
          <entry xml:id="Ecclesiastical_anonymouseccles-d0e231">
             <form>
                <orth>esbig</orth>
@@ -197,21 +197,21 @@
             </form>
             <def>priest.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_anonymouseccles-d0e248"
-             subtype="h1">6. Holy Orders within the Roman Catholic church</ab>
-         <ab type="heading"
+            >6. Holy Orders within the Roman Catholic church</head>
+         <head
              xml:id="Ecclesiastical_anonymouseccles-d0e252"
-             subtype="h1">7. Articles of dress or adornment</ab>
+            >7. Articles of dress or adornment</head>
          <entry xml:id="Ecclesiastical_anonymouseccles-d0e257">
             <form>
                <orth>taigh nan calacha dubha</orth>
             </form>
             <def>nunnery.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_anonymouseccles-d0e265"
-             subtype="h1">8. Church building and churchyard</ab>
+            >8. Church building and churchyard</head>
          <entry xml:id="Ecclesiastical_anonymouseccles-d0e270">
             <form>
                <orth>eglais</orth>
@@ -248,12 +248,12 @@
             </form>
             <def>for a lay preacher or for the precentor.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_anonymouseccles-d0e323"
-             subtype="h1">9. Church furniture and ornaments</ab>
-         <ab type="heading"
+            >9. Church furniture and ornaments</head>
+         <head
              xml:id="Ecclesiastical_anonymouseccles-d0e327"
-             subtype="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</ab>
+            >10. Different services during the week, feast days, sacraments, Sunday school etc.</head>
          <entry xml:id="Ecclesiastical_anonymouseccles-d0e332">
             <form>
                <orth>taig</orth>
@@ -297,12 +297,12 @@
             </form>
             <def>Sunday school.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="Ecclesiastical_anonymouseccles-d0e388"
-             subtype="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</ab>
-         <ab type="heading"
+            >11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</head>
+         <head
              xml:id="Ecclesiastical_anonymouseccles-d0e392"
-             subtype="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</ab>
+            >12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</head>
       </body>
    </text>
 </TEI>

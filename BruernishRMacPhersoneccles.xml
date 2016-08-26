@@ -48,9 +48,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e41"
-             subtype="h1">1. Various denominations</ab>
+            >1. Various denominations</head>
          <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e46">
             <form>
                <orth>an creideamh Caitligeach</orth>
@@ -79,9 +79,9 @@
                <orth>na Baistich</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e84"
-             subtype="h1">2. Member of each of these denominations</ab>
+            >2. Member of each of these denominations</head>
          <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e89">
             <form>
                <orth>Caitligeach</orth>
@@ -97,36 +97,36 @@
                <orth>Baisteach</orth>
             </form>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e106"
-             subtype="h1">3. Different courts of the Presbyterian churches</ab>
-         <ab type="heading"
+            >3. Different courts of the Presbyterian churches</head>
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e110"
-             subtype="h1">4. Members of the clergy and office-bearers with the Presbyterian churches</ab>
-         <ab type="heading"
+            >4. Members of the clergy and office-bearers with the Presbyterian churches</head>
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e114"
-             subtype="h1">5. Members of the clergy and office-bearers in the Roman Catholic church</ab>
-         <ab type="heading"
+            >5. Members of the clergy and office-bearers in the Roman Catholic church</head>
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e118"
-             subtype="h1">6. Holy Orders within the Roman Catholic church</ab>
-         <ab type="heading"
+            >6. Holy Orders within the Roman Catholic church</head>
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e122"
-             subtype="h1">7. Articles of dress or adornment</ab>
-         <ab type="heading"
+            >7. Articles of dress or adornment</head>
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e126"
-             subtype="h1">8. Church building and churchyard</ab>
-         <ab type="heading"
+            >8. Church building and churchyard</head>
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e130"
-             subtype="h1">9. Church furniture and ornaments</ab>
-         <ab type="heading"
+            >9. Church furniture and ornaments</head>
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e134"
-             subtype="h1">10. Different services during the week, feast days, sacraments, Sunday school etc.</ab>
-         <ab type="heading"
+            >10. Different services during the week, feast days, sacraments, Sunday school etc.</head>
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e138"
-             subtype="h1">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</ab>
-         <ab type="heading"
+            >11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</head>
+         <head
              xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e142"
-             subtype="h1">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</ab>
+            >12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</head>
       </body>
    </text>
 </TEI>

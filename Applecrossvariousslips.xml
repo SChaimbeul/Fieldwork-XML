@@ -1,89 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_Applecrossvariousslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[see below]</date>
-            <location>
-               <placeName>Applecross</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="informant">
-               <persName>[see below]</persName>
-               <persName xml:lang="gd">various </persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_Applecrossvariousslips-idp167336456">
-            <form>
-               <orth>miothal-mothal</orth>
-            </form>
-            <def>Quotation: Tha h-uile dad miothal-mothul aca. Notes: referring to disarrayed furniture of people who had newly moved house, cf. mothal, odds and ends. Source: Mrs A. Beaton. Date: 1968.</def>
-         </entry>
-         <entry xml:id="Slips_Applecrossvariousslips-idp167338256">
-            <form>
-               <orth>monasg</orth>
-            </form>
-            <def>Quotation: Bha fon a’ bhial aige ’na mhonasg (of cat hit by car). Notes: pulp, mash. Source: John MacRae. Date: 1967.</def>
-         </entry>
-         <entry xml:id="Slips_Applecrossvariousslips-idp167340056">
-            <form>
-               <orth>muir</orth>
-            </form>
-            <def>Quotation: Chuir e na muirean sin dheth. Notes: voluble complaining. Source: Mrs N. Morrison, Kenmore. Date: 1970.</def>
-         </entry>
-         <entry xml:id="Slips_Applecrossvariousslips-idp167341856">
-            <form>
-               <orth>conn</orth>
-            </form>
-            <def>Notes: thread used for tying a hank of yarn. Source: Mrs M. MacDonald. Date: 1975.</def>
-         </entry>
-         <entry xml:id="Slips_Applecrossvariousslips-idp167343512">
-            <form>
-               <orth>gugaill</orth>
-            </form>
-            <def>Quotation: Bha i ’na gugaill aig a’ rathad. Notes: used of person in crouched position. Source: Mrs K. B. Clark. Date: 1971.</def>
-         </entry>
-         <entry xml:id="Slips_Applecrossvariousslips-idp167345312">
-            <form>
-               <orth>arrachd</orth>
-            </form>
-            <def>Notes: used of mischievous boy. Source: G. Gordon. Date: 1950.</def>
-         </entry>
-         <entry xml:id="Slips_Applecrossvariousslips-idp167346968">
-            <form>
-               <orth>clisich</orth>
-            </form>
-            <def>Notes: wooden vent in barn wall. Source: Mrs A. Gillies. Date: 1964.</def>
-         </entry>
-         <entry xml:id="Slips_Applecrossvariousslips-idp167348624">
-            <form>
-               <orth>dàsannach</orth>
-               <pron>[ˈdɑ:səNəx]</pron>
-            </form>
-            <def>[ˈdɑ:səNəx] Notes: audacious. Source: Mrs Iain MacBeath. Date: 1966.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location corresp="Ross-shire_Applecross"/>
+      </creation>
+      <particDesc> </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_Applecrossvariousslips-idp167336456">
+        <form>
+          <orth>miothal-mothal</orth>
+        </form>
+        <def>Quotation: Tha h-uile dad miothal-mothul aca. Notes: referring to disarrayed furniture of people who had newly moved house, cf. mothal, odds and ends. Source: Mrs A. Beaton. Date:
+          1968.</def>
+      </entry>
+      <entry xml:id="Slips_Applecrossvariousslips-idp167338256">
+        <form>
+          <orth>monasg</orth>
+        </form>
+        <def>Quotation: Bha fon a’ bhial aige ’na mhonasg (of cat hit by car). Notes: pulp, mash. Source: John MacRae. Date: 1967.</def>
+      </entry>
+      <entry xml:id="Slips_Applecrossvariousslips-idp167340056">
+        <form>
+          <orth>muir</orth>
+        </form>
+        <def>Quotation: Chuir e na muirean sin dheth. Notes: voluble complaining. Source: Mrs N. Morrison, Kenmore. Date: 1970.</def>
+      </entry>
+      <entry xml:id="Slips_Applecrossvariousslips-idp167341856">
+        <form>
+          <orth>conn</orth>
+        </form>
+        <def>Notes: thread used for tying a hank of yarn. Source: Mrs M. MacDonald. Date: 1975.</def>
+      </entry>
+      <entry xml:id="Slips_Applecrossvariousslips-idp167343512">
+        <form>
+          <orth>gugaill</orth>
+        </form>
+        <def>Quotation: Bha i ’na gugaill aig a’ rathad. Notes: used of person in crouched position. Source: Mrs K. B. Clark. Date: 1971.</def>
+      </entry>
+      <entry xml:id="Slips_Applecrossvariousslips-idp167345312">
+        <form>
+          <orth>arrachd</orth>
+        </form>
+        <def>Notes: used of mischievous boy. Source: G. Gordon. Date: 1950.</def>
+      </entry>
+      <entry xml:id="Slips_Applecrossvariousslips-idp167346968">
+        <form>
+          <orth>clisich</orth>
+        </form>
+        <def>Notes: wooden vent in barn wall. Source: Mrs A. Gillies. Date: 1964.</def>
+      </entry>
+      <entry xml:id="Slips_Applecrossvariousslips-idp167348624">
+        <form>
+          <orth>dàsannach</orth>
+          <pron>[ˈdɑ:səNəx]</pron>
+        </form>
+        <def>[ˈdɑ:səNəx] Notes: audacious. Source: Mrs Iain MacBeath. Date: 1966.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

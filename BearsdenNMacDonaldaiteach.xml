@@ -45,9 +45,9 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e35"
-             subtype="h1">1. Na togalaichean: sobhal, bàthach is mar sin, agus ainm gach pàirt dhiubh</ab>
+            >1. Na togalaichean: sobhal, bàthach is mar sin, agus ainm gach pàirt dhiubh</head>
          <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112092136">
             <form>
                <orth>casan ceangail</orth>
@@ -116,9 +116,9 @@
             </form>
             <def>threshold.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e138"
-             subtype="h1">2. A’ mathachadh no a’ leasachadh na talmhainn</ab>
+            >2. A’ mathachadh no a’ leasachadh na talmhainn</head>
          <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112061536">
             <form>
                <orth>flagais</orth>
@@ -144,9 +144,9 @@
             </form>
             <def>[See flagais.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e178"
-             subtype="h1">3. A’ treabhadh no a’ ruamhar: an crann agus ainm gach pàirt dheth</ab>
+            >3. A’ treabhadh no a’ ruamhar: an crann agus ainm gach pàirt dheth</head>
          <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2507104">
             <form>
                <orth>sòc</orth>
@@ -184,12 +184,12 @@
             <def>
                <graphic url="BearsdenNMacDonaldaiteachillust2.jpg" width="300px"/> Amull mór – used with one horse. Amull beag – used with two horses.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e237"
-             subtype="h1">4. Innealan beaga leithid spaid, gràp, ràcan is mar sin</ab>
-         <ab type="heading"
+            >4. Innealan beaga leithid spaid, gràp, ràcan is mar sin</head>
+         <head
              xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e241"
-             subtype="h1">5. Acfhuinn an eich airson gach seòrsa obair</ab>
+            >5. Acfhuinn an eich airson gach seòrsa obair</head>
          <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2532232">
             <form>
                <orth>an t-srathair</orth>
@@ -220,9 +220,9 @@
             </form>
             <def>reins.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e290"
-             subtype="h1">6. A’ cur an t-sìl</ab>
+            >6. A’ cur an t-sìl</head>
          <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2462576">
             <form>
                <orth>fàsgnadh</orth>
@@ -247,9 +247,9 @@
             </form>
             <def>bucket for carrying seed.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e330"
-             subtype="h1">7. A’ buain agus a’ tiormachadh an arbhair no an fheòir</ab>
+            >7. A’ buain agus a’ tiormachadh an arbhair no an fheòir</head>
          <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112115912">
             <form>
                <orth>speal</orth>
@@ -310,9 +310,9 @@
             </form>
             <def>straw. Could also be used for weatherproofing. [NOTES: note added – connlach.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e424"
-             subtype="h1">8. A’ togail a’ bhuntàta</ab>
+            >8. A’ togail a’ bhuntàta</head>
          <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112132544">
             <form>
                <orth>seargadh</orth>
@@ -338,12 +338,12 @@
             </form>
             <def>shaking of the dust in a basket.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e465"
-             subtype="h1">9. A’ tasgadh an arbhair agus a’ bhuntàta</ab>
-         <ab type="heading"
+            >9. A’ tasgadh an arbhair agus a’ bhuntàta</head>
+         <head
              xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e469"
-             subtype="h1">10. A’ bualadh ’s a’ criathradh</ab>
+            >10. A’ bualadh ’s a’ criathradh</head>
          <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112141184">
             <form>
                <orth>suist</orth>
@@ -384,12 +384,12 @@
             </form>
             <def>harrowing.</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e531"
-             subtype="h1">11. A’ bleith an t-sìl</ab>
-         <ab type="heading"
+            >11. A’ bleith an t-sìl</head>
+         <head
              xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e535"
-             subtype="h1">12. Ainmean a chleachdar ri earrainn fearainn</ab>
+            >12. Ainmean a chleachdar ri earrainn fearainn</head>
          <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112152128">
             <form>
                <orth>iomaire</orth>
@@ -414,9 +414,9 @@
             </form>
             <def>common grazing. [NOTES: corrected to ‘cùl-ceinn’.]</def>
          </entry>
-         <ab type="heading"
+         <head
              xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e575"
-             subtype="h1">13. Faclan sam bith eile</ab>
+            >13. Faclan sam bith eile</head>
       </body>
    </text>
 </TEI>

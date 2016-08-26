@@ -29,7 +29,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term>Peat-Working</term>
+               <term xml:lang="en">Peat-Working</term>
                <term>Mòine</term>
             </keywords>
          </textClass>
@@ -37,7 +37,7 @@
    </teiHeader>
    <text>
       <body>
-         <ab type="heading" xml:id="Peat_PortreeHighmoine-d0e26" subtype="h1">1. Ag ullachadh na talmhainn airson mòine a bhuain</ab>
+         <head xml:id="Peat_PortreeHighmoine-d0e26">1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
          <entry xml:id="Peat_PortreeHighmoine-d0e31">
             <form>
                <orth>a’ breacadh na mònadh</orth>
@@ -152,7 +152,7 @@
             </form>
             <def>face of peat bog.</def>
          </entry>
-         <ab type="heading" xml:id="Peat_PortreeHighmoine-d0e201" subtype="h1">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</ab>
+         <head xml:id="Peat_PortreeHighmoine-d0e201">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
          <entry xml:id="Peat_PortreeHighmoine-d0e206">
             <form>
                <orth>troighsgeir</orth>
@@ -250,7 +250,7 @@
             </form>
             <def>cut peat not in ‘gàradh’ [q.v.].</def>
          </entry>
-         <ab type="heading" xml:id="Peat_PortreeHighmoine-d0e349" subtype="h1">3. A’ tiormachadh na mònach</ab>
+         <head xml:id="Peat_PortreeHighmoine-d0e349">3. A’ tiormachadh na mònach</head>
          <entry xml:id="Peat_PortreeHighmoine-d0e354">
             <form>
                <orth>a’ togail</orth>
@@ -287,7 +287,7 @@
             </form>
             <def>re-grouping peat to speed up drying.</def>
          </entry>
-         <ab type="heading" xml:id="Peat_PortreeHighmoine-d0e407" subtype="h1">4. A’ cruachadh na mònach</ab>
+         <head xml:id="Peat_PortreeHighmoine-d0e407">4. A’ cruachadh na mònach</head>
          <entry xml:id="Peat_PortreeHighmoine-d0e412">
             <form>
                <orth>cruach</orth>
@@ -318,8 +318,8 @@
             </form>
             <def>covering the stack with turf.</def>
          </entry>
-         <ab type="heading" xml:id="Peat_PortreeHighmoine-d0e456" subtype="h1">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</ab>
-         <ab type="heading" xml:id="Peat_PortreeHighmoine-d0e460" subtype="h1">6. Seòrsachan mònach</ab>
+         <head xml:id="Peat_PortreeHighmoine-d0e456">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
+         <head xml:id="Peat_PortreeHighmoine-d0e460">6. Seòrsachan mònach</head>
          <entry xml:id="Peat_PortreeHighmoine-d0e465">
             <form>
                <orth>mòine bhuidhe</orth>
@@ -398,7 +398,7 @@
             </form>
             <def>poor quality peat.</def>
          </entry>
-         <ab type="heading" xml:id="Peat_PortreeHighmoine-d0e581" subtype="h1">7. Faclan eile</ab>
+         <head xml:id="Peat_PortreeHighmoine-d0e581">7. Faclan eile</head>
       </body>
    </text>
 </TEI>
