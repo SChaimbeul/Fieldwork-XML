@@ -1,81 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_ArdDhubhACameronslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>1968-1987</date>
-            <location>
-               <placeName>Applecross, Ard Dhubh</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="informant">
-               <persName>A. Cameron</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_ArdDhubhACameronslips-idp167336504">
-            <form>
-               <orth>lap (pl. lapan)</orth>
-            </form>
-            <def>Quotation: Bha lapan sa bhuntàta far nach do dh’fhàs iad idir. Notes: patches where potatoes had failed to grow.</def>
-         </entry>
-         <entry xml:id="Slips_ArdDhubhACameronslips-idp167338160">
-            <form>
-               <orth>ploc-fàl</orth>
-            </form>
-            <def>Notes: one piece of turf specially cut to cover a new grave.</def>
-         </entry>
-         <entry xml:id="Slips_ArdDhubhACameronslips-idp167339744">
-            <form>
-               <orth>broth</orth>
-            </form>
-            <def>Notes: rash on the skin, as with measles.</def>
-         </entry>
-         <entry xml:id="Slips_ArdDhubhACameronslips-idp167341256">
-            <form>
-               <orth>cloimh</orth>
-            </form>
-            <def>Notes: mange (in dogs).</def>
-         </entry>
-         <entry xml:id="Slips_ArdDhubhACameronslips-idp167342768">
-            <form>
-               <orth>dìobair</orth>
-            </form>
-            <def>Quotation: Tha i glé mhath mara dìobair i. Notes: Alleged to have been said by some woman to ‘MacCoinnich’ of Ioscaig when he had boasted of a bridge he had just made. Sense of ‘fail, give way’.</def>
-         </entry>
-         <entry xml:id="Slips_ArdDhubhACameronslips-idp167344424">
-            <form>
-               <orth>faofag</orth>
-            </form>
-            <def>Quotation: pl. faofagan. Notes: ‘Squid’.</def>
-         </entry>
-         <entry xml:id="Slips_ArdDhubhACameronslips-idp167346080">
-            <form>
-               <orth>giobarnach</orth>
-            </form>
-            <def>Notes: octopus (‘Lewis form’).</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>1968-1987</date>
+        <location corresp="Ross-shire_Applecross_Ard_Dhubh"/>
+      </creation>
+      <particDesc>
+        <person role="informant" corresp="A_Cameron_Applecross_Ard_Dhubh"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_ArdDhubhACameronslips-idp167336504">
+        <form>
+          <orth>lap</orth>
+        </form>
+        <def>(pl. lapan) Quotation: Bha lapan sa bhuntàta far nach do dh’fhàs iad idir. Notes: patches where potatoes had failed to grow.</def>
+      </entry>
+      <entry xml:id="Slips_ArdDhubhACameronslips-idp167338160">
+        <form>
+          <orth>ploc-fàl</orth>
+        </form>
+        <def>Notes: one piece of turf specially cut to cover a new grave.</def>
+      </entry>
+      <entry xml:id="Slips_ArdDhubhACameronslips-idp167339744">
+        <form>
+          <orth>broth</orth>
+        </form>
+        <def>Notes: rash on the skin, as with measles.</def>
+      </entry>
+      <entry xml:id="Slips_ArdDhubhACameronslips-idp167341256">
+        <form>
+          <orth>cloimh</orth>
+        </form>
+        <def>Notes: mange (in dogs).</def>
+      </entry>
+      <entry xml:id="Slips_ArdDhubhACameronslips-idp167342768">
+        <form>
+          <orth>dìobair</orth>
+        </form>
+        <def>Quotation: Tha i glé mhath mara dìobair i. Notes: Alleged to have been said by some woman to ‘MacCoinnich’ of Ioscaig when he had boasted of a bridge he had just made. Sense of ‘fail,
+          give way’.</def>
+      </entry>
+      <entry xml:id="Slips_ArdDhubhACameronslips-idp167344424">
+        <form>
+          <orth>faofag</orth>
+        </form>
+        <def>Quotation: pl. faofagan. Notes: ‘Squid’.</def>
+      </entry>
+      <entry xml:id="Slips_ArdDhubhACameronslips-idp167346080">
+        <form>
+          <orth>giobarnach</orth>
+        </form>
+        <def>Notes: octopus (‘Lewis form’).</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

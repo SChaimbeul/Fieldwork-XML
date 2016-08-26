@@ -195,6 +195,9 @@
           </place>
           <place corresp="Ross-shire_Applecross">
             <placeName xml:lang="en">Applecross</placeName>
+            <place xml:id="Ross-shire_Applecross_Ard_Dhubh">
+              <placeName>Ard Dhubh</placeName>
+            </place>
           </place>
         </place>
         <place xml:id="Sutherland">

@@ -144,6 +144,20 @@
             <surname>MacLeod</surname>
           </persName>
         </person>
+        <person xml:id="Donald_John_MacLeod_Ardhasaig"> <!-- same as above? -->
+          <persName xml:lang="en">
+            <forename>Donald</forename>
+            <forename>John</forename>
+            <surname>MacLeod</surname>
+          </persName>
+        </person>
+        <person xml:id="Mrs_Jessie_MacLeod_Ardhasaig">
+          <persName xml:lang="en">
+            <roleName>Mrs</roleName>
+            <forename>Jessie</forename>
+            <surname>MacLeod</surname>
+          </persName>
+        </person>
         <person xml:id="Murdo_MacDiarmid_Harris_Maaruig">
           <persName xml:lang="en">
             <forename>Murdo</forename>
@@ -350,6 +364,12 @@
             <location corresp="Lewis_Park"/>
             <placeName>Sgìre na Pàirc an Leódhas [Lewis, the Park district]</placeName>
           </birth>
+        </person>
+        <person xml:id="A_Cameron_Applecross_Ard_Dhubh">
+          <persName xml:lang="en">
+            <forename>A.</forename>
+            <surname>Cameron</surname>
+          </persName>
         </person>
 
         <!-- Fieldworkers -->
