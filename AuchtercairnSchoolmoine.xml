@@ -1,292 +1,288 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Peat_AuchtercairnSchoolmoine">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <location>
-               <placeName>Gearrloch, Achadh a’ Chairn [Gairloch, Auchtercairn]</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[school]</persName>
-            </person>
-            <person role="informant">
-               <persName>Auchtercairn School</persName>
-               <persName xml:lang="gd">Sgoil Achadh a’ Chairn</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Peat-Working</term>
-               <term>Mòine</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="Peat_AuchtercairnSchoolmoine-d0e26"
-            >1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e31">
-            <form>
-               <orth>a’ riachadh</orth>
-            </form>
-            <def>marking.</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e40">
-            <form>
-               <orth>a’ rusgadh</orth>
-            </form>
-            <def>stripping.</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e49">
-            <form>
-               <orth>a’ glanadh a’ bhaic</orth>
-            </form>
-            <def>stripping.</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e58">
-            <form>
-               <orth>a’ barradh</orth>
-            </form>
-            <def>stripping.</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e67">
-            <form>
-               <orth>poll-mona</orth>
-            </form>
-            <def>peat area.</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e76">
-            <form>
-               <orth>blar-mona</orth>
-            </form>
-            <def>peat area.</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e85">
-            <form>
-               <orth>bac</orth>
-               <pron>[peat]</pron>
-            </form>
-            <def>[peat] bank.</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e94">
-            <form>
-               <orth>grunnd a’ bhaic</orth>
-            </form>
-            <def>lower level [of the peat bank].</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e103">
-            <form>
-               <orth>mullach a’ bhaic</orth>
-            </form>
-            <def>higher level [of the peat bank].</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e112">
-            <form>
-               <orth>sgaoilteach</orth>
-            </form>
-            <def>spreading area.</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e121">
-            <form>
-               <orth>fuar-thalamh</orth>
-            </form>
-            <def>top soil to be stripped.</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e130">
-            <form>
-               <orth>mointeach bheò</orth>
-            </form>
-            <def>peat to be cut.</def>
-         </entry>
-         <head
-             xml:id="Peat_AuchtercairnSchoolmoine-d0e138"
-            >2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e143">
-            <form>
-               <orth>tair-sgian</orth>
-            </form>
-            <def>peat-knife.</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e152">
-            <form>
-               <orth>caibe-lair</orth>
-            </form>
-            <def>stripper.</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e161">
-            <form>
-               <orth>goblag</orth>
-               <pron>[sic]</pron>
-            </form>
-            <def>[sic] stripper. [NOTES: re spelling see Duncan MacLeod’s comment in his letter of 29/8/67 (under ‘gobhlag’).]</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e170">
-            <form>
-               <orth>spaid</orth>
-            </form>
-            <def>stripper.</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e179">
-            <form>
-               <orth>sgian-mona</orth>
-            </form>
-            <def>(One child only brought this word. It is not in common use here but her parent is from Lewis.)</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e188">
-            <form>
-               <orth>fàd</orth>
-            </form>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e194">
-            <form>
-               <orth>dubh-fhad</orth>
-            </form>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e200">
-            <form>
-               <orth>tru-fhad ( troo-fhad)</orth>
-               <pron>[pron.]</pron>
-            </form>
-            <def>[pron.] third peat down. (I have not met this word myself; two children used it – corruption of tri?)</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e209">
-            <form>
-               <orth>gearr-fhad</orth>
-            </form>
-            <def>3rd peat down. (Not in general use. Few banks have more than 2 peats downward.)</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e218">
-            <form>
-               <orth>ath-fhad</orth>
-            </form>
-            <def>3rd peat down. (Not in general use. Few banks have more than 2 peats downward.)</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e227">
-            <form>
-               <orth>gàradh-baic</orth>
-            </form>
-            <def>drying on a narrow area, as a wall.</def>
-         </entry>
-         <head
-             xml:id="Peat_AuchtercairnSchoolmoine-d0e235"
-            >3. A’ tiormachadh na mònach</head>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e240">
-            <form>
-               <orth>togail na mona</orth>
-            </form>
-            <def>lifting the peats.</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e249">
-            <form>
-               <orth>rudhadh na mona</orth>
-            </form>
-            <def>gathering [peats] into heaps.</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e258">
-            <form>
-               <orth>rughan</orth>
-            </form>
-            <def>secondary heap [of peats], smaller than stack.</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e267">
-            <form>
-               <orth>rughan Frangach</orth>
-            </form>
-            <def>(Not in common use but one child brought the phrase without being able to say quite what it was!) [NOTES: see also Duncan MacLeod’s comment in his letter of 29/8/67 (under ‘rughan Frangach’).]</def>
-         </entry>
-         <head
-             xml:id="Peat_AuchtercairnSchoolmoine-d0e275"
-            >4. A’ cruachadh na mònach</head>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e280">
-            <form>
-               <orth>cruach</orth>
-            </form>
-            <def>stack.</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e289">
-            <form>
-               <orth>cruachadh</orth>
-            </form>
-            <def>stacking.</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e298">
-            <form>
-               <orth>steidheadh</orth>
-            </form>
-            <def>building the outside wall of peats.</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e307">
-            <form>
-               <orth>dunadh na cruaich</orth>
-            </form>
-            <def>finishing the stack (with the final top peats).</def>
-         </entry>
-         <head
-             xml:id="Peat_AuchtercairnSchoolmoine-d0e315"
-            >5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e320">
-            <form>
-               <orth>cliabh</orth>
-            </form>
-            <def>creel.</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e329">
-            <form>
-               <orth>iris</orth>
-            </form>
-            <def>carrying strap [of the creel].</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e338">
-            <form>
-               <orth>briagan</orth>
-            </form>
-            <def>special holes [in the creel] for fixing ‘iris’ [q.v.].</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e347">
-            <form>
-               <orth>aisnean</orth>
-            </form>
-            <def>ribs [of the creel].</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e356">
-            <form>
-               <orth>slat-beoil</orth>
-            </form>
-            <def>(One boy produced this as the upmost cane, locking the creel. I know it only as boat-gunwale.)</def>
-         </entry>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e365">
-            <form>
-               <orth>lòd (!)</orth>
-            </form>
-            <def>load.</def>
-         </entry>
-         <head
-             xml:id="Peat_AuchtercairnSchoolmoine-d0e373"
-            >6. Seòrsachan mònach</head>
-         <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e378">
-            <form>
-               <orth>moine dhubh</orth>
-            </form>
-            <def>hard, black peat, best for burning.</def>
-         </entry>
-         <head
-             xml:id="Peat_AuchtercairnSchoolmoine-d0e386"
-            >7. Faclan eile</head>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location corresp="Ross-shire_Gairloch_Auchtercairn"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[school]</persName>
+        </person>
+        <person role="informant">
+          <persName>Auchtercairn School</persName>
+          <persName xml:lang="gd">Sgoil Achadh a’ Chairn</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Peat-Working</term>
+          <term>Mòine</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head xml:id="Peat_AuchtercairnSchoolmoine-d0e26">1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e31">
+          <form>
+            <orth>a’ riachadh</orth>
+          </form>
+          <def>marking.</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e40">
+          <form>
+            <orth>a’ rusgadh</orth>
+          </form>
+          <def>stripping.</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e49">
+          <form>
+            <orth>a’ glanadh a’ bhaic</orth>
+          </form>
+          <def>stripping.</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e58">
+          <form>
+            <orth>a’ barradh</orth>
+          </form>
+          <def>stripping.</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e67">
+          <form>
+            <orth>poll-mona</orth>
+          </form>
+          <def>peat area.</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e76">
+          <form>
+            <orth>blar-mona</orth>
+          </form>
+          <def>peat area.</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e85">
+          <form>
+            <orth>bac</orth>
+          </form>
+          <def>[peat] bank.</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e94">
+          <form>
+            <orth>grunnd a’ bhaic</orth>
+          </form>
+          <def>lower level [of the peat bank].</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e103">
+          <form>
+            <orth>mullach a’ bhaic</orth>
+          </form>
+          <def>higher level [of the peat bank].</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e112">
+          <form>
+            <orth>sgaoilteach</orth>
+          </form>
+          <def>spreading area.</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e121">
+          <form>
+            <orth>fuar-thalamh</orth>
+          </form>
+          <def>top soil to be stripped.</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e130">
+          <form>
+            <orth>mointeach bheò</orth>
+          </form>
+          <def>peat to be cut.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Peat_AuchtercairnSchoolmoine-d0e138">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e143">
+          <form>
+            <orth>tair-sgian</orth>
+          </form>
+          <def>peat-knife.</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e152">
+          <form>
+            <orth>caibe-lair</orth>
+          </form>
+          <def>stripper.</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e161">
+          <form>
+            <orth>goblag</orth>
+          </form>
+          <def>[sic] stripper. [NOTES: re spelling see Duncan MacLeod’s comment in his letter of 29/8/67 (under ‘gobhlag’).]</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e170">
+          <form>
+            <orth>spaid</orth>
+          </form>
+          <def>stripper.</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e179">
+          <form>
+            <orth>sgian-mona</orth>
+          </form>
+          <def>(One child only brought this word. It is not in common use here but her parent is from Lewis.)</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e188">
+          <form>
+            <orth>fàd</orth>
+          </form>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e194">
+          <form>
+            <orth>dubh-fhad</orth>
+          </form>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e200">
+          <form>
+            <orth>tru-fhad ( troo-fhad)</orth>
+          </form>
+          <def>[pron.] third peat down. (I have not met this word myself; two children used it – corruption of tri?)</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e209">
+          <form>
+            <orth>gearr-fhad</orth>
+          </form>
+          <def>3rd peat down. (Not in general use. Few banks have more than 2 peats downward.)</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e218">
+          <form>
+            <orth>ath-fhad</orth>
+          </form>
+          <def>3rd peat down. (Not in general use. Few banks have more than 2 peats downward.)</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e227">
+          <form>
+            <orth>gàradh-baic</orth>
+          </form>
+          <def>drying on a narrow area, as a wall.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Peat_AuchtercairnSchoolmoine-d0e235">3. A’ tiormachadh na mònach</head>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e240">
+          <form>
+            <orth>togail na mona</orth>
+          </form>
+          <def>lifting the peats.</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e249">
+          <form>
+            <orth>rudhadh na mona</orth>
+          </form>
+          <def>gathering [peats] into heaps.</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e258">
+          <form>
+            <orth>rughan</orth>
+          </form>
+          <def>secondary heap [of peats], smaller than stack.</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e267">
+          <form>
+            <orth>rughan Frangach</orth>
+          </form>
+          <def>(Not in common use but one child brought the phrase without being able to say quite what it was!) [NOTES: see also Duncan MacLeod’s comment in his letter of 29/8/67 (under ‘rughan
+            Frangach’).]</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Peat_AuchtercairnSchoolmoine-d0e275">4. A’ cruachadh na mònach</head>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e280">
+          <form>
+            <orth>cruach</orth>
+          </form>
+          <def>stack.</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e289">
+          <form>
+            <orth>cruachadh</orth>
+          </form>
+          <def>stacking.</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e298">
+          <form>
+            <orth>steidheadh</orth>
+          </form>
+          <def>building the outside wall of peats.</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e307">
+          <form>
+            <orth>dunadh na cruaich</orth>
+          </form>
+          <def>finishing the stack (with the final top peats).</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Peat_AuchtercairnSchoolmoine-d0e315">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e320">
+          <form>
+            <orth>cliabh</orth>
+          </form>
+          <def>creel</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e329">
+          <form>
+            <orth>iris</orth>
+          </form>
+          <def>carrying strap [of the creel]</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e338">
+          <form>
+            <orth>briagan</orth>
+          </form>
+          <def>special holes [in the creel] for fixing ‘iris’ [q.v.]</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e347">
+          <form>
+            <orth>aisnean</orth>
+          </form>
+          <def>ribs [of the creel]</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e356">
+          <form>
+            <orth>slat-beoil</orth>
+          </form>
+          <def>(One boy produced this as the upmost cane, locking the creel. I know it only as boat-gunwale.)</def>
+        </entry>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e365">
+          <form>
+            <orth>lòd (!)</orth>
+          </form>
+          <def>load.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Peat_AuchtercairnSchoolmoine-d0e373">6. Seòrsachan mònach</head>
+        <entry xml:id="Peat_AuchtercairnSchoolmoine-d0e378">
+          <form>
+            <orth>moine dhubh</orth>
+          </form>
+          <def>hard, black peat, best for burning.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Peat_AuchtercairnSchoolmoine-d0e386">7. Faclan eile</head>
+      </div>
+    </body>
+  </text>
 </TEI>

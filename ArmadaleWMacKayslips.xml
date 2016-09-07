@@ -1,56 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_ArmadaleWMacKayslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>1969</date>
-            <location>
-               <placeName>Sutherland, Armadale</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[AJ Smith]</persName>
-            </person>
-            <person role="informant">
-               <persName>William MacKay</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_ArmadaleWMacKayslips-idp115482960">
-            <form>
-               <orth>basag</orth>
-               <pron>[bɑsɑɡ]</pron>
-            </form>
-            <def>[bɑsɑɡ] Notes: a heather divot, the lower part consisting of peat, dried and used for fuel.</def>
-         </entry>
-         <entry xml:id="Slips_ArmadaleWMacKayslips-idp115493256">
-            <form>
-               <orth>dreamach</orth>
-               <pron>[d̪ɾɛ̃mɑx]</pron>
-            </form>
-            <def>[d̪ɾɛ̃mɑx] Notes: “crabbit”.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>1969</date>
+        <location corresp="Sutherland_Armadale"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="A_J_Smith"/>
+        <person role="informant" corresp="William_MacKay_Sutherland_Armadale"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_ArmadaleWMacKayslips-idp115482960">
+        <form>
+          <orth>basag</orth>
+          <pron>[bɑsɑɡ]</pron>
+        </form>
+        <def>Notes: a heather divot, the lower part consisting of peat, dried and used for fuel.</def>
+      </entry>
+      <entry xml:id="Slips_ArmadaleWMacKayslips-idp115493256">
+        <form>
+          <orth>dreamach</orth>
+          <pron>[d̪ɾɛ̃mɑx]</pron>
+        </form>
+        <def>Notes: “crabbit”.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

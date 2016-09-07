@@ -371,6 +371,66 @@
             <surname>Cameron</surname>
           </persName>
         </person>
+        <person xml:id="Margaret_MacEachan_South_Uist_Iochdar_Ardivachar">
+          <persName xml:lang="en">
+            <forename>Margaret</forename>
+            <surname>MacEachan</surname>
+          </persName>
+        </person>
+        <person xml:id="John_MacKinnon_Barra_Ard_Mhinish">
+          <persName xml:lang="en">
+            <forename>John</forename>
+            <surname>MacKinnon</surname>
+          </persName>
+        </person>
+        <person xml:id="Hugh_MacKinnon_Coll_Arinagour">
+          <persName xml:lang="en">
+            <forename>Hugh</forename>
+            <surname>MacKinnon</surname>
+          </persName>
+        </person>
+        <person xml:id="William_MacKay_Sutherland_Armadale">
+          <persName xml:lang="en">
+            <forename>William</forename>
+            <surname>MacKay</surname>
+          </persName>
+        </person>
+        <person xml:id="Angus_MacPhail_Lewis_Arnol">
+          <persName xml:lang="en">
+            <forename>Angus</forename>
+            <surname>MacPhail</surname>
+          </persName>
+          <age>93</age>
+        </person>
+        <person xml:id="Norman_Campbell_Lewis_Arnol">
+          <persName xml:lang="en">
+            <forename>Norman</forename>
+            <surname>Campbell</surname>
+          </persName>
+          <age>73</age>
+        </person>
+        <person xml:id="Norman_Campbell_Lewis_Arnol_2">
+          <persName xml:lang="en">
+            <forename>Norman</forename>
+            <surname>Campbell</surname>
+          </persName>
+          <birth>
+            <location corresp="Lewis_Arnol"/>
+          </birth>
+        </person>
+        <person xml:id="Donald_MacPhail_Lewis_Arnol">
+          <persName xml:lang="en">
+            <forename>Donald</forename>
+            <surname>MacPhail</surname>
+          </persName>
+          <persName>Domhnull a chriomanaich [?]</persName>
+        </person>
+        <person xml:id="Alex_MacDonald_Ross-shire_Aultbea">
+          <persName xml:lang="en">
+            <forename>Alex</forename>
+            <surname>MacDonald</surname>
+          </persName>
+        </person>
 
         <!-- Fieldworkers -->
         <person xml:id="A_J_Smith">
@@ -383,7 +443,12 @@
         <person xml:id="K_D_MacDonald">
           <persName xml:lang="en">K. D. MacDonald</persName>
         </person>
-
+        <person xml:id="A_O_Henley">
+          <persName xml:lang="en">A. O’Henley</persName>
+        </person>
+        <person xml:id="Major_N_T_MacLeod">
+          <persName xml:lang="en">Major N. T. MacLeod</persName>
+        </person>
 
         <!-- Editors -->
         <person xml:id="OSz">

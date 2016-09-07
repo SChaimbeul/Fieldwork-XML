@@ -1,649 +1,608 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <location>
-               <placeName>Lewis, Arnol</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>Major N. T. MacLeod</persName>
-            </person>
-            <person role="informant">
-               <persName>Angus MacPhail</persName>
-               <age>93</age>
-            </person>
-            <person role="informant">
-               <persName>Norman Campbell</persName>
-               <age>73</age>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Cattle</term>
-               <term>Crodh</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-idola57">
-            <form>
-               <orth>[note]</orth>
-               <pron>[NOTES: the following three items squeezed in on the title page.]</pron>
-            </form>
-            <def>[NOTES: the following three items squeezed in on the title page.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e47">
-            <form>
-               <orth>ceana chasach</orth>
-            </form>
-            <def>sheep’s head and trotters.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e56">
-            <form>
-               <orth>caisean (uchd)</orth>
-            </form>
-            <def>strip 4 in wide cut of breast of ‘mult’ above the ‘a mhaothain’ (solar plexus) right down to the crotch to enable the butcher to get into the belly cavity.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e65">
-            <form>
-               <orth>snàil marag</orth>
-            </form>
-            <def>Mixture: oatmeal, suet, salt etc., kneaded inside the cavity made while carcase was still warm. Skin of marag was the anal canal turned inside out and thoroughly washed. Mixture was pressed into anal canal which was kept moist and warm in basin of hot water.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e73"
-            >(Most of these terms given by Mr Angus Macphail, aged 93, 26 Arnol, Isle of Lewis)</head>
-         <head
-             xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e77"
-            >1. Different stages in the growth of cattle</head>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e82">
-            <form>
-               <orth>laogh firinn</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e88">
-            <form>
-               <orth>laogh boirun</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e94">
-            <form>
-               <orth>agh,  aighean</orth>
-               <pron>[pl.]</pron>
-            </form>
-            <def>[pl.] female up to two years gun dàir gun tarbh.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e103">
-            <form>
-               <orth>tarbh</orth>
-            </form>
-            <def>dò-bhliadhach [sic], tri-bhliadhnach, according to age.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e112">
-            <form>
-               <orth>damh</orth>
-            </form>
-            <def>ox. tarbh air a spòth (castrated [bull]). [NOTES: the last written next to ‘ox’ so it looks like it is part of the definition.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e121">
-            <form>
-               <orth>gabhainn ( go’ inn), pl. gabhna</orth>
-               <pron>[pron.?]</pron>
-            </form>
-            <def>[pron.?] one year old female.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e130">
-            <form>
-               <orth>taghanach</orth>
-               <pron>[bò]</pron>
-            </form>
-            <def>[bò] a chaidh seach laogh tri tuiris ach tha bainne aige or aiche.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e139">
-            <form>
-               <orth>gamhnach</orth>
-            </form>
-            <def>bò chaidh seach laogh ach aig am bheil bainne s tha am bainne blasta.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e148">
-            <form>
-               <orth>sealbhach</orth>
-            </form>
-            <def>bò air ùr-breith.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e157">
-            <form>
-               <orth>seadhanach</orth>
-            </form>
-            <def>bò tri bliadhna le bainne gun laogh.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e165"
-            >2. Breeds of cattle</head>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e170">
-            <form>
-               <orth>an crodh dùbh</orth>
-            </form>
-            <def>the hardy small black cattle of the Highlands, Kyloes. Hebrides 1700-1850.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e178"
-            >3. Outward appearance of cattle</head>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e183">
-            <form>
-               <orth>caol</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e189">
-            <form>
-               <orth>ramhar</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e195">
-            <form>
-               <orth>bò ruadh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e201">
-            <form>
-               <orth>bò dhubh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e207">
-            <form>
-               <orth>bò riabhach</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e213">
-            <form>
-               <orth>bò bhreac</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e219">
-            <form>
-               <orth>bò odhar</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e225">
-            <form>
-               <orth>bò mhaol</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e231">
-            <form>
-               <orth>bò lachdann</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e237">
-            <form>
-               <orth>L adharcach</orth>
-               <pron>[achdann?]</pron>
-            </form>
-            <def>[achdann?] one horn on, one missing. Not a unicorn.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e246">
-            <form>
-               <orth>bò ghlas</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e252">
-            <form>
-               <orth>bò bhàn</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e257"
-            >4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</head>
-         <head
-             xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e261"
-            >5. Parts of the body</head>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e266">
-            <form>
-               <orth>binit</orth>
-            </form>
-            <def>stomach of a calf.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e274"
-            >6. Calving</head>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e279">
-            <form>
-               <orth>dàir air a bhò</orth>
-               <pron>[cow]</pron>
-            </form>
-            <def>[cow] on heat or in season.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e288">
-            <form>
-               <orth>aig iarradh tarbh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e294">
-            <form>
-               <orth>aig iarradh an tairbh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e300">
-            <form>
-               <orth>salachair</orth>
-            </form>
-            <def>placenta or afterbirth. Expression: ‘na rùg i an salchair’.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e308"
-            >7. Milking</head>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e313">
-            <form>
-               <orth>strachadh</orth>
-            </form>
-            <def>milking.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e322">
-            <form>
-               <orth>beadaradh</orth>
-            </form>
-            <def>milking.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e331">
-            <form>
-               <orth>blodhan na bá</orth>
-            </form>
-            <def>milking the cow.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e340">
-            <form>
-               <orth>blodhain a chruidh</orth>
-            </form>
-            <def>milking the cattle.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e349">
-            <form>
-               <orth>ga blodhain tirim</orth>
-               <pron>[milking to the]</pron>
-            </form>
-            <def>[milking to the] last drop.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e358">
-            <form>
-               <orth>laogh cois</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e364">
-            <form>
-               <orth>laogh an cois a mhàthair</orth>
-            </form>
-            <def>laogh fodha màthair.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e373">
-            <form>
-               <orth>laogh a deothal a mhàthair</orth>
-            </form>
-            <def>deocadh a mhàthar.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e382">
-            <form>
-               <orth>ùs</orth>
-            </form>
-            <def>milk yield first two or three milkings.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e391">
-            <form>
-               <orth>sileadh a bhainne</orth>
-            </form>
-            <def>teats dripping with excessive milk.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e400">
-            <form>
-               <orth>seipan</orth>
-            </form>
-            <def>quart. [NOTES: originally the definition was ‘quart?’ but then ‘EXACTLY’ was written next to it.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e409">
-            <form>
-               <orth>mis’ir</orth>
-               <pron>[?]</pron>
-            </form>
-            <def>[?] wooden vessel.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e418">
-            <form>
-               <orth>bainne air suidheachadh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e424">
-            <form>
-               <orth>misiridh</orth>
-            </form>
-            <def>butter making, mistreach [?] [NOTES: it is not clear if this is part of the last definition or a separate entry.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e433">
-            <form>
-               <orth>cuineag ( kuinag)</orth>
-               <pron>[pron.?]</pron>
-            </form>
-            <def>[pron.?] churn. (West side of Lewis)</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e442">
-            <form>
-               <orth>beat</orth>
-            </form>
-            <def>churn. (Uig)</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e451">
-            <form>
-               <orth>Bite Uigean</orth>
-               <pron>[?]</pron>
-            </form>
-            <def>[?] [churn?] [NOTES: not clear what the relation between the last two words is or what they refer to.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e460">
-            <form>
-               <orth>cranachan</orth>
-               <pron>[churn]</pron>
-            </form>
-            <def>[churn]. (Breinish)</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e469">
-            <form>
-               <orth>imidel</orth>
-            </form>
-            <def>skin covering milk pail [when it was] carried home from sheiling. [It was] tied under the rim.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e478">
-            <form>
-               <orth>peile ceard</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e484">
-            <form>
-               <orth>muidhe</orth>
-            </form>
-            <def>churn.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e493">
-            <form>
-               <orth>lanid</orth>
-            </form>
-            <def>handle of churn.
-        <graphic url="ArnolAMacPhailandNCampbellcattleillust1.jpg" width="100px"/>
-            </def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e503"
-            >8. Feeding</head>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e508">
-            <form>
-               <orth>uinegean  a bhainne</orth>
-               <pron>[?]</pron>
-            </form>
-            <def>[?] </def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e514">
-            <form>
-               <orth>àri</orth>
-            </form>
-            <def>sheiling.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e523">
-            <form>
-               <orth>barlus</orth>
-               <pron>[? farlus?]</pron>
-            </form>
-            <def>[? farlus?] ceap [?] hole for smoke, peat smoke.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e532">
-            <form>
-               <orth>druim àri</orth>
-            </form>
-            <def>ridge pole.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e541">
-            <form>
-               <orth>dloth fodair</orth>
-            </form>
-            <def>loose handful.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e550">
-            <form>
-               <orth>moilean fodair</orth>
-            </form>
-            <def>a generous armful.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e559">
-            <form>
-               <orth>phrasach</orth>
-            </form>
-            <def>manger.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e568">
-            <form>
-               <orth>ionailt/innilt</orth>
-            </form>
-            <def>pasture.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e577">
-            <form>
-               <orth>buachaileachd</orth>
-            </form>
-            <def>tending the cattle.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e586">
-            <form>
-               <orth>buachail</orth>
-            </form>
-            <def>herdsman or boy.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e595">
-            <form>
-               <orth>banachag</orth>
-            </form>
-            <def>milking maid.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e604">
-            <form>
-               <orth>ioman</orth>
-            </form>
-            <def>driving the cattle.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e613">
-            <form>
-               <orth>leabaidh laighe</orth>
-            </form>
-            <def>night quarters, sheltered dell for cattle to spend the night, sheiling.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e622">
-            <form>
-               <orth>cotan</orth>
-            </form>
-            <def>cot for young newly born calf for summer shieling only.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e631">
-            <form>
-               <orth>clach tachais</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e637">
-            <form>
-               <orth>taighean earraich</orth>
-            </form>
-            <def>(Ness) moor, shieling, cattle under cover.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-idola58">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>(Norman Campbell age 93, No 6 Arnol, Isle of Lewis.)</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e654"
-            >9. Apparatus</head>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e659">
-            <form>
-               <orth>lùthag?</orth>
-            </form>
-            <def>teann os cionn na glun air a chas deiridh. Cord tied tightly above the joint [on the] hind leg [of a] lamb or sheep to keep animals on the move under control.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e668">
-            <form>
-               <orth>stiall</orth>
-            </form>
-            <def>headpost in byre.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e677">
-            <form>
-               <orth>corothonan</orth>
-            </form>
-            <def>a piece of wood with three holes by which two lambs could be tethered on the one tether. 
-        <graphic url="ArnolAMacPhailandNCampbellcattleillust2.jpg" width="400px"/>
-            </def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e688">
-            <form>
-               <orth>achdainn</orth>
-            </form>
-            <def>neck rope.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e697">
-            <form>
-               <orth>acfhuinn</orth>
-            </form>
-            <def>neck rope.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e706">
-            <form>
-               <orth>teoghaer</orth>
-            </form>
-            <def>tether.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e715">
-            <form>
-               <orth>bacan</orth>
-            </form>
-            <def>tether stake.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e724">
-            <form>
-               <orth>cùl-acdhainn</orth>
-               <pron>[sic]</pron>
-            </form>
-            <def>[sic] ceangailt mun an stiall. Tied around the headpost, to which again was tied smeathag, which was tied around the cow’s neck by cnac (toggle) and drula (loop).</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e733">
-            <form>
-               <orth>cnac ( krak)</orth>
-               <pron>[pron.]</pron>
-            </form>
-            <def>[pron.] toggle.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e742">
-            <form>
-               <orth>drula ( drulla)</orth>
-               <pron>[pron.]</pron>
-            </form>
-            <def>[pron.] loop.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e751">
-            <form>
-               <orth>buarach</orth>
-            </form>
-            <def>fetter for milking.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e760">
-            <form>
-               <orth>glùinean</orth>
-            </form>
-            <def>air a chas toiseach. Fetter to tie up foreleg.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e769">
-            <form>
-               <orth>smeathac mart</orth>
-            </form>
-            <def>neck tie.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e778">
-            <form>
-               <orth>spearach</orth>
-            </form>
-            <def>fetter joining fore [and] hind leg [of] lamb or sheep.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e787">
-            <form>
-               <orth>dèidheinn</orth>
-            </form>
-            <def>two forelegs fetter [for] horses to prevent wandering. Deidheann air each a cheàird (tinker) ach cha deidheann air a cheàrd fhein.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e796">
-            <form>
-               <orth>uchdachd cléibh</orth>
-            </form>
-            <def>shoulder strap for creel.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e805">
-            <form>
-               <orth>iris cléibh</orth>
-            </form>
-            <def>made of horse hair long ago.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e814">
-            <form>
-               <orth>dronag</orth>
-            </form>
-            <def>outer shirt gathered into a pad [as a] rest for the creel.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e822"
-            >10. Diseases</head>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e827">
-            <form>
-               <orth>tuathalan</orth>
-            </form>
-            <def>poc uisge air an aonachail.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e836">
-            <form>
-               <orth>an doile</orth>
-            </form>
-            <def>blindness.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e844"
-            >11. Miscellaneous</head>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e849">
-            <form>
-               <orth>tha bhò ann an sàs</orth>
-               <pron>[cow]</pron>
-            </form>
-            <def>[cow] stuck in mire or bog.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e858">
-            <form>
-               <orth>tha bhò ann an tabhainn</orth>
-            </form>
-            <def>cow in distress.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e867">
-            <form>
-               <orth>buachair a chruidh</orth>
-            </form>
-            <def>cow dung.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location corresp="Lewis_Arnol"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="Major_N_T_MacLeod"/>
+        <person role="informant" corresp="Angus_MacPhail_Lewis_Arnol"/>
+        <person role="informant" corresp="Norman_Campbell_Lewis_Arnol"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Cattle</term>
+          <term>Crodh</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note>[NOTES: the following three items squeezed in on the title page.]</note>
+      <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e47">
+        <form>
+          <orth>ceana chasach</orth>
+        </form>
+        <def>sheep’s head and trotters.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e56">
+        <form>
+          <orth>caisean (uchd)</orth>
+        </form>
+        <def>strip 4 in wide cut of breast of ‘mult’ above the ‘a mhaothain’ (solar plexus) right down to the crotch to enable the butcher to get into the belly cavity.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e65">
+        <form>
+          <orth>snàil marag</orth>
+        </form>
+        <def>Mixture: oatmeal, suet, salt etc., kneaded inside the cavity made while carcase was still warm. Skin of marag was the anal canal turned inside out and thoroughly washed. Mixture was
+          pressed into anal canal which was kept moist and warm in basin of hot water.</def>
+      </entry>
+      <note>(Most of these terms given by Mr Angus Macphail, aged 93, 26 Arnol, Isle of Lewis)</note>
+      <div>
+        <head xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e77">1. Different stages in the growth of cattle</head>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e82">
+          <form>
+            <orth>laogh firinn</orth>
+          </form>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e88">
+          <form>
+            <orth>laogh boirun</orth>
+          </form>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e94">
+          <form>
+            <orth>agh, aighean</orth>
+          </form>
+          <def>[pl.] female up to two years gun dàir gun tarbh.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e103">
+          <form>
+            <orth>tarbh</orth>
+          </form>
+          <def>dò-bhliadhach [sic], tri-bhliadhnach, according to age.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e112">
+          <form>
+            <orth>damh</orth>
+          </form>
+          <def>ox. tarbh air a spòth (castrated [bull]). [NOTES: the last written next to ‘ox’ so it looks like it is part of the definition.]</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e121">
+          <form>
+            <orth>gabhainn ( go’ inn), pl. gabhna</orth>
+          </form>
+          <def>[pron.?] one year old female.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e130">
+          <form>
+            <orth>taghanach</orth>
+          </form>
+          <def>[bò] a chaidh seach laogh tri tuiris ach tha bainne aige or aiche.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e139">
+          <form>
+            <orth>gamhnach</orth>
+          </form>
+          <def>bò chaidh seach laogh ach aig am bheil bainne s tha am bainne blasta.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e148">
+          <form>
+            <orth>sealbhach</orth>
+          </form>
+          <def>bò air ùr-breith.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e157">
+          <form>
+            <orth>seadhanach</orth>
+          </form>
+          <def>bò tri bliadhna le bainne gun laogh.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e165">2. Breeds of cattle</head>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e170">
+          <form>
+            <orth>an crodh dùbh</orth>
+          </form>
+          <def>the hardy small black cattle of the Highlands, Kyloes. Hebrides 1700-1850.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e178">3. Outward appearance of cattle</head>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e183">
+          <form>
+            <orth>caol</orth>
+          </form>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e189">
+          <form>
+            <orth>ramhar</orth>
+          </form>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e195">
+          <form>
+            <orth>bò ruadh</orth>
+          </form>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e201">
+          <form>
+            <orth>bò dhubh</orth>
+          </form>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e207">
+          <form>
+            <orth>bò riabhach</orth>
+          </form>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e213">
+          <form>
+            <orth>bò bhreac</orth>
+          </form>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e219">
+          <form>
+            <orth>bò odhar</orth>
+          </form>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e225">
+          <form>
+            <orth>bò mhaol</orth>
+          </form>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e231">
+          <form>
+            <orth>bò lachdann</orth>
+          </form>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e237">
+          <form>
+            <orth>L adharcach</orth>
+          </form>
+          <def>[achdann?] one horn on, one missing. Not a unicorn.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e246">
+          <form>
+            <orth>bò ghlas</orth>
+          </form>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e252">
+          <form>
+            <orth>bò bhàn</orth>
+          </form>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e257">4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</head>
+      </div>
+      <div>
+        <head xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e261">5. Parts of the body</head>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e266">
+          <form>
+            <orth>binit</orth>
+          </form>
+          <def>stomach of a calf.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e274">6. Calving</head>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e279">
+          <form>
+            <orth>dàir air a bhò</orth>
+          </form>
+          <def>[cow] on heat or in season.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e288">
+          <form>
+            <orth>aig iarradh tarbh</orth>
+          </form>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e294">
+          <form>
+            <orth>aig iarradh an tairbh</orth>
+          </form>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e300">
+          <form>
+            <orth>salachair</orth>
+          </form>
+          <def>placenta or afterbirth. Expression: ‘na rùg i an salchair’.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e308">7. Milking</head>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e313">
+          <form>
+            <orth>strachadh</orth>
+          </form>
+          <def>milking.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e322">
+          <form>
+            <orth>beadaradh</orth>
+          </form>
+          <def>milking.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e331">
+          <form>
+            <orth>blodhan na bá</orth>
+          </form>
+          <def>milking the cow.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e340">
+          <form>
+            <orth>blodhain a chruidh</orth>
+          </form>
+          <def>milking the cattle.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e349">
+          <form>
+            <orth>ga blodhain tirim</orth>
+          </form>
+          <def>[milking to the] last drop.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e358">
+          <form>
+            <orth>laogh cois</orth>
+          </form>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e364">
+          <form>
+            <orth>laogh an cois a mhàthair</orth>
+          </form>
+          <def>laogh fodha màthair.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e373">
+          <form>
+            <orth>laogh a deothal a mhàthair</orth>
+          </form>
+          <def>deocadh a mhàthar.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e382">
+          <form>
+            <orth>ùs</orth>
+          </form>
+          <def>milk yield first two or three milkings.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e391">
+          <form>
+            <orth>sileadh a bhainne</orth>
+          </form>
+          <def>teats dripping with excessive milk.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e400">
+          <form>
+            <orth>seipan</orth>
+          </form>
+          <def>quart. [NOTES: originally the definition was ‘quart?’ but then ‘EXACTLY’ was written next to it.]</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e409">
+          <form>
+            <orth>mis’ir</orth>
+          </form>
+          <def>[?] wooden vessel.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e418">
+          <form>
+            <orth>bainne air suidheachadh</orth>
+          </form>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e424">
+          <form>
+            <orth>misiridh</orth>
+          </form>
+          <def>butter making, mistreach [?] [NOTES: it is not clear if this is part of the last definition or a separate entry.]</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e433">
+          <form>
+            <orth>cuineag ( kuinag)</orth>
+          </form>
+          <def>[pron.?] churn. (West side of Lewis)</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e442">
+          <form>
+            <orth>beat</orth>
+          </form>
+          <def>churn. (Uig)</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e451">
+          <form>
+            <orth>Bite Uigean</orth>
+          </form>
+          <def>[?] [churn?] [NOTES: not clear what the relation between the last two words is or what they refer to.]</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e460">
+          <form>
+            <orth>cranachan</orth>
+          </form>
+          <def>[churn]. (Breinish)</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e469">
+          <form>
+            <orth>imidel</orth>
+          </form>
+          <def>skin covering milk pail [when it was] carried home from sheiling. [It was] tied under the rim.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e478">
+          <form>
+            <orth>peile ceard</orth>
+          </form>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e484">
+          <form>
+            <orth>muidhe</orth>
+          </form>
+          <def>churn.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e493">
+          <form>
+            <orth>lanid</orth>
+          </form>
+          <def>handle of churn. <graphic url="ArnolAMacPhailandNCampbellcattleillust1.jpg" width="100px"/>
+          </def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e503">8. Feeding</head>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e508">
+          <form>
+            <orth>uinegean a bhainne</orth>
+          </form>
+          <def>[?] </def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e514">
+          <form>
+            <orth>àri</orth>
+          </form>
+          <def>sheiling.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e523">
+          <form>
+            <orth>barlus</orth>
+          </form>
+          <def>[? farlus?] ceap [?] hole for smoke, peat smoke.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e532">
+          <form>
+            <orth>druim àri</orth>
+          </form>
+          <def>ridge pole.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e541">
+          <form>
+            <orth>dloth fodair</orth>
+          </form>
+          <def>loose handful.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e550">
+          <form>
+            <orth>moilean fodair</orth>
+          </form>
+          <def>a generous armful.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e559">
+          <form>
+            <orth>phrasach</orth>
+          </form>
+          <def>manger.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e568">
+          <form>
+            <orth>ionailt/innilt</orth>
+          </form>
+          <def>pasture.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e577">
+          <form>
+            <orth>buachaileachd</orth>
+          </form>
+          <def>tending the cattle.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e586">
+          <form>
+            <orth>buachail</orth>
+          </form>
+          <def>herdsman or boy.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e595">
+          <form>
+            <orth>banachag</orth>
+          </form>
+          <def>milking maid.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e604">
+          <form>
+            <orth>ioman</orth>
+          </form>
+          <def>driving the cattle.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e613">
+          <form>
+            <orth>leabaidh laighe</orth>
+          </form>
+          <def>night quarters, sheltered dell for cattle to spend the night, sheiling.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e622">
+          <form>
+            <orth>cotan</orth>
+          </form>
+          <def>cot for young newly born calf for summer shieling only.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e631">
+          <form>
+            <orth>clach tachais</orth>
+          </form>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e637">
+          <form>
+            <orth>taighean earraich</orth>
+          </form>
+          <def>(Ness) moor, shieling, cattle under cover.</def>
+        </entry>
+        <note>(Norman Campbell age 93, No 6 Arnol, Isle of Lewis.)</note>
+      </div>
+      <div>
+        <head xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e654">9. Apparatus</head>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e659">
+          <form>
+            <orth>lùthag?</orth>
+          </form>
+          <def>teann os cionn na glun air a chas deiridh. Cord tied tightly above the joint [on the] hind leg [of a] lamb or sheep to keep animals on the move under control.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e668">
+          <form>
+            <orth>stiall</orth>
+          </form>
+          <def>headpost in byre.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e677">
+          <form>
+            <orth>corothonan</orth>
+          </form>
+          <def>a piece of wood with three holes by which two lambs could be tethered on the one tether. <graphic url="ArnolAMacPhailandNCampbellcattleillust2.jpg" width="400px"/>
+          </def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e688">
+          <form>
+            <orth>achdainn</orth>
+          </form>
+          <def>neck rope.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e697">
+          <form>
+            <orth>acfhuinn</orth>
+          </form>
+          <def>neck rope.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e706">
+          <form>
+            <orth>teoghaer</orth>
+          </form>
+          <def>tether.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e715">
+          <form>
+            <orth>bacan</orth>
+          </form>
+          <def>tether stake.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e724">
+          <form>
+            <orth>cùl-acdhainn</orth>
+          </form>
+          <def>[sic] ceangailt mun an stiall. Tied around the headpost, to which again was tied smeathag, which was tied around the cow’s neck by cnac (toggle) and drula (loop).</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e733">
+          <form>
+            <orth>cnac ( krak)</orth>
+          </form>
+          <def>[pron.] toggle.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e742">
+          <form>
+            <orth>drula ( drulla)</orth>
+          </form>
+          <def>[pron.] loop.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e751">
+          <form>
+            <orth>buarach</orth>
+          </form>
+          <def>fetter for milking.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e760">
+          <form>
+            <orth>glùinean</orth>
+          </form>
+          <def>air a chas toiseach. Fetter to tie up foreleg.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e769">
+          <form>
+            <orth>smeathac mart</orth>
+          </form>
+          <def>neck tie.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e778">
+          <form>
+            <orth>spearach</orth>
+          </form>
+          <def>fetter joining fore [and] hind leg [of] lamb or sheep.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e787">
+          <form>
+            <orth>dèidheinn</orth>
+          </form>
+          <def>two forelegs fetter [for] horses to prevent wandering. Deidheann air each a cheàird (tinker) ach cha deidheann air a cheàrd fhein.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e796">
+          <form>
+            <orth>uchdachd cléibh</orth>
+          </form>
+          <def>shoulder strap for creel.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e805">
+          <form>
+            <orth>iris cléibh</orth>
+          </form>
+          <def>made of horse hair long ago.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e814">
+          <form>
+            <orth>dronag</orth>
+          </form>
+          <def>outer shirt gathered into a pad [as a] rest for the creel.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e822">10. Diseases</head>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e827">
+          <form>
+            <orth>tuathalan</orth>
+          </form>
+          <def>poc uisge air an aonachail.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e836">
+          <form>
+            <orth>an doile</orth>
+          </form>
+          <def>blindness.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e844">11. Miscellaneous</head>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e849">
+          <form>
+            <orth>tha bhò ann an sàs</orth>
+          </form>
+          <def>[cow] stuck in mire or bog.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e858">
+          <form>
+            <orth>tha bhò ann an tabhainn</orth>
+          </form>
+          <def>cow in distress.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_ArnolAMacPhailandNCampbellcattle-d0e867">
+          <form>
+            <orth>buachair a chruidh</orth>
+          </form>
+          <def>cow dung.</def>
+        </entry>
+      </div>
+    </body>
+  </text>
 </TEI>

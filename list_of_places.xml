@@ -30,8 +30,14 @@
               </place>
             </place>
             <place xml:id="Lewis_Park">
-              <placeName>Sgìre na Pàirc an Leódhas</placeName> 
+              <placeName>Sgìre na Pàirc an Leódhas</placeName>
               <placeName xml:lang="en">Lewis, the Park district</placeName>
+            </place>
+            <place xml:id="Lewis_Arnol">
+              <placeName>Arnol</placeName>
+            </place>
+            <place xml:id="Lewis_Stornoway">
+              <placeName xml:lang="en">Stornoway</placeName>
             </place>
           </place>
           <place xml:id="Harris">
@@ -157,13 +163,35 @@
               <placeName xml:lang="en">Airdbheag</placeName>
             </place>
           </place>
+          <place xml:id="South_Uist">
+            <placeName xml:lang="en">South Uist</placeName>
+            <place xml:id="South_Uist_Iochdar">
+              <placeName xml:lang="en">Iochdar</placeName>
+              <place xml:id="South_Uist_Iochdar_Ardivachar">
+                <placeName xml:lang="en">Ardivachar</placeName>
+              </place>
+            </place>
+          </place>
           <place xml:id="Barra">
             <placeName xml:lang="en">Barra</placeName>
             <place xml:id="Barra_Allasdale">
               <placeName xml:lang="en">Allasdale</placeName>
             </place>
+            <place xml:id="Barra_Ard_Mhinish">
+              <placeName>Ard Mhinish</placeName>
+            </place>
           </place>
         </place>
+        <place xml:id="Inner_Hebrides">
+          <place xml:id="Coll">
+            <placeName xml:lang="en">Coll</placeName>
+            <place xml:id="Coll_Arinagour">
+              <placeName xml:lang="en">Arinagour</placeName>
+            </place>
+          </place>
+        </place>
+
+
         <place xml:id="Perthshire">
           <placeName xml:lang="en">Perthshire</placeName>
           <place xml:id="Perthshire_Aberfeldy">
@@ -193,17 +221,30 @@
               <placeName xml:lang="en">Alligin</placeName>
             </place>
           </place>
-          <place corresp="Ross-shire_Applecross">
+          <place xml:id="Ross-shire_Applecross">
             <placeName xml:lang="en">Applecross</placeName>
             <place xml:id="Ross-shire_Applecross_Ard_Dhubh">
               <placeName>Ard Dhubh</placeName>
             </place>
+          </place>
+          <place xml:id="Ross-shire_Gairloch">
+            <placeName xml:lang="en">Gairloch</placeName>
+            <place xml:id="Ross-shire_Gairloch_Auchtercairn">
+              <placeName xml:lang="en">Auchtercairn</placeName>
+              <placeName>Achadh a’ Chairn</placeName>
+            </place>
+          </place>
+          <place xml:id="Ross-shire_Aultbea">
+            <placeName xml:lang="en">Aultbea</placeName>
           </place>
         </place>
         <place xml:id="Sutherland">
           <placeName xml:lang="en">Sutherland</placeName>
           <place xml:id="Sutherland_Achlyness">
             <placeName xml:lang="en">Achlyness</placeName>
+          </place>
+          <place xml:id="Sutherland_Armadale">
+            <placeName xml:lang="en">Armadale</placeName>
           </place>
         </place>
         <place xml:id="Nova_Scotia">

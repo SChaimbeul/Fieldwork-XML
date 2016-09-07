@@ -1,142 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="AOHenley_ArdMhinishJMacKinnonmisc1">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: some notes in pencil most probably added by K. D. MacDonald. See below for details.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[1988]</date>
-            <location>
-               <placeName>Barra, Ard Mhinish</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>A. O’Henley</persName>
-            </person>
-            <person role="informant">
-               <persName>John MacKinnon</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2517976">
-            <form>
-               <orth>dè b’àilleamh</orth>
-            </form>
-            <def>pardon.</def>
-         </entry>
-         <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2521144">
-            <form>
-               <orth>an caraidh</orth>
-            </form>
-            <def>referring to the movement of clouds. Could judge wind speeds according to this. “Ciamar a tha an caraidh an diugh.” [NOTES: note added in pencil: Eng. carry?]</def>
-         </entry>
-         <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2525752">
-            <form>
-               <orth>rampair</orth>
-            </form>
-            <def>a halo round the moon.</def>
-         </entry>
-         <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2500408">
-            <form>
-               <orth>murrachdair</orth>
-            </form>
-            <def>something of value which is cast ashore.</def>
-         </entry>
-         <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2499472">
-            <form>
-               <orth>broillein</orth>
-            </form>
-            <def>a sore throat, affecting man and animal.</def>
-         </entry>
-         <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2497384">
-            <form>
-               <orth>dalladh</orth>
-            </form>
-            <def>blinding. Treated with ground glass which was put in sheep’s eye. Broke up the film or cataract on the eye.</def>
-         </entry>
-         <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2495872">
-            <form>
-               <orth>slamman</orth>
-            </form>
-            <def>spoonful of rennet added to milk and left to settle. Eaten as a sweet or blancmange.</def>
-         </entry>
-         <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2494216">
-            <form>
-               <orth>air mhithairt</orth>
-            </form>
-            <def>leaving someone dissatisfied, e.g. with work which was not completed properly. “Bha e air fhàgail air mhithairt.”</def>
-         </entry>
-         <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2603736">
-            <form>
-               <orth>eadar a làmh ’s an taobh</orth>
-            </form>
-            <def>something that emerges accidentally.</def>
-         </entry>
-         <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2605248">
-            <form>
-               <orth>leud</orth>
-            </form>
-            <def>a strip of something, e.g. cloth.</def>
-         </entry>
-         <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2606760">
-            <form>
-               <orth>Cha chuireadh e maide ’nam pàirt</orth>
-            </form>
-            <def>could not hold a candle to them.</def>
-         </entry>
-         <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2608272">
-            <form>
-               <orth>sorchair</orth>
-            </form>
-            <def>to illuminate. “Shorchair thu sgeul dhomhsa.”</def>
-         </entry>
-         <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2610000">
-            <form>
-               <orth>pràmh</orth>
-            </form>
-            <def>drowsy, dejected. “Aislig phràmh.”</def>
-         </entry>
-         <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2611728">
-            <form>
-               <orth>faidhreann</orth>
-            </form>
-            <def>a love token.</def>
-         </entry>
-         <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2613240">
-            <form>
-               <orth>beadradh</orth>
-            </form>
-            <def>love talk.</def>
-         </entry>
-         <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2614752">
-            <form>
-               <orth>strathail</orth>
-            </form>
-            <def>noise as in something approaching the door of a house. “Chuala mi strathail mu’n dorus.”</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AOHenley_ArdMhinishJMacKinnonmisc1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: some notes in pencil most probably added by K. D. MacDonald. See below for details.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[1988]</date>
+        <location corresp="Barra_Ard_Mhinish"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="A_O_Henley"/>
+        <person role="informant" corresp="John_MacKinnon_Barra_Ard_Mhinish"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2517976">
+        <form>
+          <orth>dè b’àilleamh</orth>
+        </form>
+        <def>pardon.</def>
+      </entry>
+      <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2521144">
+        <form>
+          <orth>an caraidh</orth>
+        </form>
+        <def>referring to the movement of clouds. Could judge wind speeds according to this. “Ciamar a tha an caraidh an diugh.” [NOTES: note added in pencil: Eng. carry?]</def>
+      </entry>
+      <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2525752">
+        <form>
+          <orth>rampair</orth>
+        </form>
+        <def>a halo round the moon.</def>
+      </entry>
+      <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2500408">
+        <form>
+          <orth>murrachdair</orth>
+        </form>
+        <def>something of value which is cast ashore.</def>
+      </entry>
+      <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2499472">
+        <form>
+          <orth>broillein</orth>
+        </form>
+        <def>a sore throat, affecting man and animal.</def>
+      </entry>
+      <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2497384">
+        <form>
+          <orth>dalladh</orth>
+        </form>
+        <def>blinding. Treated with ground glass which was put in sheep’s eye. Broke up the film or cataract on the eye.</def>
+      </entry>
+      <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2495872">
+        <form>
+          <orth>slamman</orth>
+        </form>
+        <def>spoonful of rennet added to milk and left to settle. Eaten as a sweet or blancmange.</def>
+      </entry>
+      <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2494216">
+        <form>
+          <orth>air mhithairt</orth>
+        </form>
+        <def>leaving someone dissatisfied, e.g. with work which was not completed properly. “Bha e air fhàgail air mhithairt.”</def>
+      </entry>
+      <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2603736">
+        <form>
+          <orth>eadar a làmh ’s an taobh</orth>
+        </form>
+        <def>something that emerges accidentally.</def>
+      </entry>
+      <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2605248">
+        <form>
+          <orth>leud</orth>
+        </form>
+        <def>a strip of something, e.g. cloth.</def>
+      </entry>
+      <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2606760">
+        <form>
+          <orth>Cha chuireadh e maide ’nam pàirt</orth>
+        </form>
+        <def>could not hold a candle to them.</def>
+      </entry>
+      <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2608272">
+        <form>
+          <orth>sorchair</orth>
+        </form>
+        <def>to illuminate. “Shorchair thu sgeul dhomhsa.”</def>
+      </entry>
+      <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2610000">
+        <form>
+          <orth>pràmh</orth>
+        </form>
+        <def>drowsy, dejected. “Aislig phràmh.”</def>
+      </entry>
+      <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2611728">
+        <form>
+          <orth>faidhreann</orth>
+        </form>
+        <def>a love token.</def>
+      </entry>
+      <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2613240">
+        <form>
+          <orth>beadradh</orth>
+        </form>
+        <def>love talk.</def>
+      </entry>
+      <entry xml:id="AOHenley_ArdMhinishJMacKinnonmisc1-idp2614752">
+        <form>
+          <orth>strathail</orth>
+        </form>
+        <def>noise as in something approaching the door of a house. “Chuala mi strathail mu’n dorus.”</def>
+      </entry>
+    </body>
+  </text>
 </TEI>
