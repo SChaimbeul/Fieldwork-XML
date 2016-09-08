@@ -1,714 +1,710 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="AssortedFieldworkers_AnonymousAnadur2">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: the questionnaire has not been stapled in any particular order and it seems that some pages have been stapled separately.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation/>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>Anonymous A</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Personality</term>
-               <term>Nàdur an Duine</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e17"
-            >Polite / Coarse</head>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e22">
-            <form>
-               <orth>duine suairce</orth>
-            </form>
-            <def>to us would be a friendly, gentle, kind man.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e31">
-            <form>
-               <orth>modhail</orth>
-            </form>
-            <def>well-mannered.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e40">
-            <form>
-               <orth>grinn</orth>
-            </form>
-            <def>neat.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e49">
-            <form>
-               <orth>snasmhòr</orth>
-            </form>
-            <def>neat.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e58">
-            <form>
-               <orth>fìnealta</orth>
-            </form>
-            <def>dainty.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e67">
-            <form>
-               <orth>snòg</orth>
-            </form>
-            <def>dainty.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e76">
-            <form>
-               <orth>garg</orth>
-            </form>
-            <def>coarse.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e85">
-            <form>
-               <orth>droch nàdur</orth>
-            </form>
-            <def>bad temper.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e94">
-            <form>
-               <orth>salach</orth>
-            </form>
-            <def>dirty.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e103">
-            <form>
-               <orth>mi-mhodhail</orth>
-            </form>
-            <def>bad-mannered.</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e111"
-            >A successful man / A failure</head>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e116">
-            <form>
-               <orth>miannach</orth>
-            </form>
-            <def>ambitious.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e125">
-            <form>
-               <orth>comasach</orth>
-            </form>
-            <def>capable.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e134">
-            <form>
-               <orth>beothail</orth>
-            </form>
-            <def>lively.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e143">
-            <form>
-               <orth>leisg</orth>
-            </form>
-            <def>lazy.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e152">
-            <form>
-               <orth>leisgeid</orth>
-            </form>
-            <def>a lazy female.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e161">
-            <form>
-               <orth>leisgaire</orth>
-            </form>
-            <def>a lazy male.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e170">
-            <form>
-               <orth>leògaire</orth>
-            </form>
-            <def>a lazy male.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e179">
-            <form>
-               <orth>drealan</orth>
-            </form>
-            <def>daydream.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e188">
-            <form>
-               <orth>mi-iomchuidh</orth>
-            </form>
-            <def>incompetent.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e197">
-            <form>
-               <orth>[luid]</orth>
-            </form>
-            <def>For an untidy housewife we used the word – “luid”.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e206">
-            <form>
-               <orth>ròpach</orth>
-            </form>
-            <def>untidy.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e215">
-            <form>
-               <orth>luideach</orth>
-            </form>
-            <def>untidy.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e224">
-            <form>
-               <orth>mi-sgoinneil</orth>
-            </form>
-            <def>untidy.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e233">
-            <form>
-               <orth>creutair suarach</orth>
-            </form>
-            <def>an insignificant [sic].</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e242">
-            <form>
-               <orth>gun fheum</orth>
-            </form>
-            <def>useless.</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e250"
-            >Good company / Bad company</head>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e255">
-            <form>
-               <orth>blàth chridheach agus coibhneil</orth>
-            </form>
-            <def>warm-hearted and kind.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e264">
-            <form>
-               <orth>geur</orth>
-            </form>
-            <def>witty.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e273">
-            <form>
-               <orth>suilbhir</orth>
-            </form>
-            <def>cheerful.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e282">
-            <form>
-               <orth>aighearach</orth>
-            </form>
-            <def>cheerful.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e291">
-            <form>
-               <orth>cracaire math</orth>
-            </form>
-            <def>good talker.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e300">
-            <form>
-               <orth>deadh fhear ceilidh</orth>
-            </form>
-            <def>an entertaining fellow.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e309">
-            <form>
-               <orth>dibhearsain</orth>
-            </form>
-            <def>joking.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e318">
-            <form>
-               <orth>fealla-dha</orth>
-            </form>
-            <def>joking.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e327">
-            <form>
-               <orth>cruaidh chridheach</orth>
-            </form>
-            <def>hard-hearted.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e336">
-            <form>
-               <orth>spiocach</orth>
-            </form>
-            <def>mean.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e345">
-            <form>
-               <orth>bradach</orth>
-            </form>
-            <def>thieving.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e354">
-            <form>
-               <orth>sgeigeach</orth>
-            </form>
-            <def>sarcastic.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e363">
-            <form>
-               <orth>magail</orth>
-            </form>
-            <def>mocking.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e372">
-            <form>
-               <orth>capach</orth>
-            </form>
-            <def>gossipy.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e381">
-            <form>
-               <orth>cabag</orth>
-            </form>
-            <def>a gossip.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e390">
-            <form>
-               <orth>gobag</orth>
-            </form>
-            <def>a gossip.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e399">
-            <form>
-               <orth>duine fada thall</orth>
-            </form>
-            <def>a loner.</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e407"
-            >A good man / A bad man</head>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e412">
-            <form>
-               <orth>ònarach</orth>
-            </form>
-            <def>honest.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e421">
-            <form>
-               <orth>earbsach</orth>
-            </form>
-            <def>dependable.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e430">
-            <form>
-               <orth>ceart</orth>
-            </form>
-            <def>just.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e439">
-            <form>
-               <orth>treibhdhireach</orth>
-            </form>
-            <def>just.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e448">
-            <form>
-               <orth>diadhaidh</orth>
-            </form>
-            <def>religious.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e457">
-            <form>
-               <orth>fior-ghlan</orth>
-            </form>
-            <def>pure.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e466">
-            <form>
-               <orth>slàn fallain</orth>
-            </form>
-            <def>pure.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e475">
-            <form>
-               <orth>dileas</orth>
-            </form>
-            <def>faithful, sincere.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e484">
-            <form>
-               <orth>[costadh]</orth>
-            </form>
-            <def>We would say of anyone doing a good deed – “’S math an costadh a rinn e.” And men of good deeds – “daoine costach”.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e493">
-            <form>
-               <orth>[costach]</orth>
-               <pron>[Daoine costach – men of good deeds. Cf. costadh.]</pron>
-            </form>
-            <def>[Daoine costach – men of good deeds. Cf. costadh.]</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e502">
-            <form>
-               <orth>mi-ònarach</orth>
-            </form>
-            <def>dishonest.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e511">
-            <form>
-               <orth>slaoightire</orth>
-            </form>
-            <def>rogue.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e520">
-            <form>
-               <orth>mi-earbsach</orth>
-            </form>
-            <def>not dependable.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e529">
-            <form>
-               <orth>mi cheart</orth>
-            </form>
-            <def>unjust.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e538">
-            <form>
-               <orth>carach</orth>
-            </form>
-            <def>unjust.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e547">
-            <form>
-               <orth>peacach</orth>
-            </form>
-            <def>sinner, sinful.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e556">
-            <form>
-               <orth>neo-ghlan</orth>
-            </form>
-            <def>impure.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e565">
-            <form>
-               <orth>iseinean</orth>
-            </form>
-            <def>mischievous children.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e574">
-            <form>
-               <orth>gasain</orth>
-            </form>
-            <def>mischievous children.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e583">
-            <form>
-               <orth>peasain</orth>
-            </form>
-            <def>impertinent.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e592">
-            <form>
-               <orth>cronail</orth>
-            </form>
-            <def>mischievous.</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e600"
-            >Cheerful / Gloomy</head>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e605">
-            <form>
-               <orth>sona</orth>
-            </form>
-            <def>happy.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e614">
-            <form>
-               <orth>àghmhor</orth>
-            </form>
-            <def>happy.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e623">
-            <form>
-               <orth>sòcrach</orth>
-            </form>
-            <def>easygoing.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e632">
-            <form>
-               <orth>féin smachd</orth>
-            </form>
-            <def>self control.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e641">
-            <form>
-               <orth>foighidinn</orth>
-            </form>
-            <def>patience.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e650">
-            <form>
-               <orth>soirbh</orth>
-            </form>
-            <def>placid.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e659">
-            <form>
-               <orth>toilichte</orth>
-            </form>
-            <def>content.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e668">
-            <form>
-               <orth>sàsaichte</orth>
-            </form>
-            <def>content.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e677">
-            <form>
-               <orth>suilbhir</orth>
-            </form>
-            <def>cheerful.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e686">
-            <form>
-               <orth>àbhachdach</orth>
-            </form>
-            <def>joyful, merry.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e695">
-            <form>
-               <orth>tlachdmhor</orth>
-            </form>
-            <def>pleasant.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e704">
-            <form>
-               <orth>taitneach</orth>
-            </form>
-            <def>pleasant.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e713">
-            <form>
-               <orth>ciatach</orth>
-            </form>
-            <def>pleasant.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e722">
-            <form>
-               <orth>gruamach</orth>
-            </form>
-            <def>gloomy.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e731">
-            <form>
-               <orth>mùgach</orth>
-            </form>
-            <def>gloomy.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e740">
-            <form>
-               <orth>gnùig</orth>
-            </form>
-            <def>surly look.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e749">
-            <form>
-               <orth>stùic</orth>
-            </form>
-            <def>surly look.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e758">
-            <form>
-               <orth>air bhioradh</orth>
-            </form>
-            <def>excitable.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e767">
-            <form>
-               <orth>gnòigean</orth>
-            </form>
-            <def>sulky person.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e776">
-            <form>
-               <orth>gnùigein</orth>
-            </form>
-            <def>surly person.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e785">
-            <form>
-               <orth>stùicaire</orth>
-            </form>
-            <def>surly.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e794">
-            <form>
-               <orth>stùiceag</orth>
-            </form>
-            <def>surly.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e803">
-            <form>
-               <orth>trom inntinn</orth>
-            </form>
-            <def>depression.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e812">
-            <form>
-               <orth>sprochd</orth>
-            </form>
-            <def>depression.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e821">
-            <form>
-               <orth>bras</orth>
-            </form>
-            <def>impetuous.</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e829"
-            >A wise man / Foolish</head>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e834">
-            <form>
-               <orth>duine glic</orth>
-            </form>
-            <def>a wise man.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e843">
-            <form>
-               <orth>tùrail</orth>
-            </form>
-            <def>sensible.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e852">
-            <form>
-               <orth>ciallach</orth>
-            </form>
-            <def>sensible.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e861">
-            <form>
-               <orth>toinisgeil</orth>
-            </form>
-            <def>sensible.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e870">
-            <form>
-               <orth>fiosrachail</orth>
-            </form>
-            <def>intelligent.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e879">
-            <form>
-               <orth>sgileil</orth>
-            </form>
-            <def>skilful.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e888">
-            <form>
-               <orth>sgaomach</orth>
-            </form>
-            <def>lightheaded.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e897">
-            <form>
-               <orth>gogaideach</orth>
-            </form>
-            <def>lightheaded.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e906">
-            <form>
-               <orth>òinseach</orth>
-            </form>
-            <def>a foolish female.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e915">
-            <form>
-               <orth>glaoichd</orth>
-            </form>
-            <def>a foolish female.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e924">
-            <form>
-               <orth>burraidh</orth>
-            </form>
-            <def>a fool (male).</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e933">
-            <form>
-               <orth>baothaire</orth>
-            </form>
-            <def>a fool (male).</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e942">
-            <form>
-               <orth>gòrach</orth>
-            </form>
-            <def>foolish.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e951">
-            <form>
-               <orth>[tiugh]</orth>
-            </form>
-            <def>For stupid we had the saying – “tiugh sa chlaigeann”.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e960">
-            <form>
-               <orth>gun toinisg</orth>
-            </form>
-            <def>stupid, without common sense.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e969">
-            <form>
-               <orth>glagaid</orth>
-            </form>
-            <def>a noisy woman.</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e977"
-            >Bold / Timid</head>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e982">
-            <form>
-               <orth>dalma</orth>
-            </form>
-            <def>bold.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e991">
-            <form>
-               <orth>ladarna</orth>
-            </form>
-            <def>impudent.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e1000">
-            <form>
-               <orth>calma</orth>
-            </form>
-            <def>brave.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e1009">
-            <form>
-               <orth>coimheach</orth>
-            </form>
-            <def>shy.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e1018">
-            <form>
-               <orth>clisgeach</orth>
-            </form>
-            <def>timid.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AssortedFieldworkers_AnonymousAnadur2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note xml:lang="en">[NOTES: the questionnaire has not been stapled in any particular order and it seems that some pages have been stapled separately.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <particDesc>
+        <person role="fieldworker" corresp="anonymous_A"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Personality</term>
+          <term>Nàdur an Duine</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head xml:lang="en" xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e17">Polite / Coarse</head>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e22">
+          <form>
+            <orth>duine suairce</orth>
+          </form>
+          <def>to us would be a friendly, gentle, kind man</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e31">
+          <form>
+            <orth>modhail</orth>
+          </form>
+          <def>well-mannered</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e40">
+          <form>
+            <orth>grinn</orth>
+          </form>
+          <def>neat</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e49">
+          <form>
+            <orth>snasmhòr</orth>
+          </form>
+          <def>neat</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e58">
+          <form>
+            <orth>fìnealta</orth>
+          </form>
+          <def>dainty</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e67">
+          <form>
+            <orth>snòg</orth>
+          </form>
+          <def>dainty</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e76">
+          <form>
+            <orth>garg</orth>
+          </form>
+          <def>coarse</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e85">
+          <form>
+            <orth>droch nàdur</orth>
+          </form>
+          <def>bad temper</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e94">
+          <form>
+            <orth>salach</orth>
+          </form>
+          <def>dirty</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e103">
+          <form>
+            <orth>mi-mhodhail</orth>
+          </form>
+          <def>bad-mannered</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e111">A successful man / A failure</head>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e116">
+          <form>
+            <orth>miannach</orth>
+          </form>
+          <def>ambitious</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e125">
+          <form>
+            <orth>comasach</orth>
+          </form>
+          <def>capable</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e134">
+          <form>
+            <orth>beothail</orth>
+          </form>
+          <def>lively</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e143">
+          <form>
+            <orth>leisg</orth>
+          </form>
+          <def>lazy</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e152">
+          <form>
+            <orth>leisgeid</orth>
+          </form>
+          <def>a lazy female</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e161">
+          <form>
+            <orth>leisgaire</orth>
+          </form>
+          <def>a lazy male</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e170">
+          <form>
+            <orth>leògaire</orth>
+          </form>
+          <def>a lazy male</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e179">
+          <form>
+            <orth>drealan</orth>
+          </form>
+          <def>daydream</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e188">
+          <form>
+            <orth>mi-iomchuidh</orth>
+          </form>
+          <def>incompetent</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e197">
+          <form>
+            <orth>[luid]</orth>
+          </form>
+          <def>For an untidy housewife we used the word – “luid”.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e206">
+          <form>
+            <orth>ròpach</orth>
+          </form>
+          <def>untidy</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e215">
+          <form>
+            <orth>luideach</orth>
+          </form>
+          <def>untidy</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e224">
+          <form>
+            <orth>mi-sgoinneil</orth>
+          </form>
+          <def>untidy</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e233">
+          <form>
+            <orth>creutair suarach</orth>
+          </form>
+          <def>an insignificant [sic]</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e242">
+          <form>
+            <orth>gun fheum</orth>
+          </form>
+          <def>useless</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e250">Good company / Bad company</head>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e255">
+          <form>
+            <orth>blàth chridheach agus coibhneil</orth>
+          </form>
+          <def>warm-hearted and kind</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e264">
+          <form>
+            <orth>geur</orth>
+          </form>
+          <def>witty</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e273">
+          <form>
+            <orth>suilbhir</orth>
+          </form>
+          <def>cheerful</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e282">
+          <form>
+            <orth>aighearach</orth>
+          </form>
+          <def>cheerful</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e291">
+          <form>
+            <orth>cracaire math</orth>
+          </form>
+          <def>good talker</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e300">
+          <form>
+            <orth>deadh fhear ceilidh</orth>
+          </form>
+          <def>an entertaining fellow</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e309">
+          <form>
+            <orth>dibhearsain</orth>
+          </form>
+          <def>joking</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e318">
+          <form>
+            <orth>fealla-dha</orth>
+          </form>
+          <def>joking</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e327">
+          <form>
+            <orth>cruaidh chridheach</orth>
+          </form>
+          <def>hard-hearted</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e336">
+          <form>
+            <orth>spiocach</orth>
+          </form>
+          <def>mean</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e345">
+          <form>
+            <orth>bradach</orth>
+          </form>
+          <def>thieving</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e354">
+          <form>
+            <orth>sgeigeach</orth>
+          </form>
+          <def>sarcastic</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e363">
+          <form>
+            <orth>magail</orth>
+          </form>
+          <def>mocking</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e372">
+          <form>
+            <orth>capach</orth>
+          </form>
+          <def>gossipy</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e381">
+          <form>
+            <orth>cabag</orth>
+          </form>
+          <def>a gossip</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e390">
+          <form>
+            <orth>gobag</orth>
+          </form>
+          <def>a gossip</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e399">
+          <form>
+            <orth>duine fada thall</orth>
+          </form>
+          <def>a loner</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e407">A good man / A bad man</head>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e412">
+          <form>
+            <orth>ònarach</orth>
+          </form>
+          <def>honest</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e421">
+          <form>
+            <orth>earbsach</orth>
+          </form>
+          <def>dependable</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e430">
+          <form>
+            <orth>ceart</orth>
+          </form>
+          <def>just</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e439">
+          <form>
+            <orth>treibhdhireach</orth>
+          </form>
+          <def>just</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e448">
+          <form>
+            <orth>diadhaidh</orth>
+          </form>
+          <def>religious</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e457">
+          <form>
+            <orth>fior-ghlan</orth>
+          </form>
+          <def>pure</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e466">
+          <form>
+            <orth>slàn fallain</orth>
+          </form>
+          <def>pure</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e475">
+          <form>
+            <orth>dileas</orth>
+          </form>
+          <def>faithful, sincere</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e484">
+          <form>
+            <orth>[costadh]</orth>
+          </form>
+          <def>We would say of anyone doing a good deed – “’S math an costadh a rinn e.” And men of good deeds – “daoine costach”.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e493">
+          <form>
+            <orth>[costach]</orth>
+          </form>
+          <def>[Daoine costach – men of good deeds. Cf. costadh.]</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e502">
+          <form>
+            <orth>mi-ònarach</orth>
+          </form>
+          <def>dishonest</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e511">
+          <form>
+            <orth>slaoightire</orth>
+          </form>
+          <def>rogue</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e520">
+          <form>
+            <orth>mi-earbsach</orth>
+          </form>
+          <def>not dependable</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e529">
+          <form>
+            <orth>mi cheart</orth>
+          </form>
+          <def>unjust</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e538">
+          <form>
+            <orth>carach</orth>
+          </form>
+          <def>unjust</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e547">
+          <form>
+            <orth>peacach</orth>
+          </form>
+          <def>sinner, sinful</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e556">
+          <form>
+            <orth>neo-ghlan</orth>
+          </form>
+          <def>impure</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e565">
+          <form>
+            <orth>iseinean</orth>
+          </form>
+          <def>mischievous children</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e574">
+          <form>
+            <orth>gasain</orth>
+          </form>
+          <def>mischievous children</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e583">
+          <form>
+            <orth>peasain</orth>
+          </form>
+          <def>impertinent</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e592">
+          <form>
+            <orth>cronail</orth>
+          </form>
+          <def>mischievous</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e600">Cheerful / Gloomy</head>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e605">
+          <form>
+            <orth>sona</orth>
+          </form>
+          <def>happy</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e614">
+          <form>
+            <orth>àghmhor</orth>
+          </form>
+          <def>happy</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e623">
+          <form>
+            <orth>sòcrach</orth>
+          </form>
+          <def>easygoing</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e632">
+          <form>
+            <orth>féin smachd</orth>
+          </form>
+          <def>self control</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e641">
+          <form>
+            <orth>foighidinn</orth>
+          </form>
+          <def>patience</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e650">
+          <form>
+            <orth>soirbh</orth>
+          </form>
+          <def>placid</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e659">
+          <form>
+            <orth>toilichte</orth>
+          </form>
+          <def>content</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e668">
+          <form>
+            <orth>sàsaichte</orth>
+          </form>
+          <def>content</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e677">
+          <form>
+            <orth>suilbhir</orth>
+          </form>
+          <def>cheerful</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e686">
+          <form>
+            <orth>àbhachdach</orth>
+          </form>
+          <def>joyful, merry</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e695">
+          <form>
+            <orth>tlachdmhor</orth>
+          </form>
+          <def>pleasant</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e704">
+          <form>
+            <orth>taitneach</orth>
+          </form>
+          <def>pleasant</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e713">
+          <form>
+            <orth>ciatach</orth>
+          </form>
+          <def>pleasant</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e722">
+          <form>
+            <orth>gruamach</orth>
+          </form>
+          <def>gloomy</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e731">
+          <form>
+            <orth>mùgach</orth>
+          </form>
+          <def>gloomy</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e740">
+          <form>
+            <orth>gnùig</orth>
+          </form>
+          <def>surly look</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e749">
+          <form>
+            <orth>stùic</orth>
+          </form>
+          <def>surly look</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e758">
+          <form>
+            <orth>air bhioradh</orth>
+          </form>
+          <def>excitable</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e767">
+          <form>
+            <orth>gnòigean</orth>
+          </form>
+          <def>sulky person</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e776">
+          <form>
+            <orth>gnùigein</orth>
+          </form>
+          <def>surly person</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e785">
+          <form>
+            <orth>stùicaire</orth>
+          </form>
+          <def>surly</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e794">
+          <form>
+            <orth>stùiceag</orth>
+          </form>
+          <def>surly</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e803">
+          <form>
+            <orth>trom inntinn</orth>
+          </form>
+          <def>depression</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e812">
+          <form>
+            <orth>sprochd</orth>
+          </form>
+          <def>depression</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e821">
+          <form>
+            <orth>bras</orth>
+          </form>
+          <def>impetuous</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e829">A wise man / Foolish</head>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e834">
+          <form>
+            <orth>duine glic</orth>
+          </form>
+          <def>a wise man</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e843">
+          <form>
+            <orth>tùrail</orth>
+          </form>
+          <def>sensible</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e852">
+          <form>
+            <orth>ciallach</orth>
+          </form>
+          <def>sensible</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e861">
+          <form>
+            <orth>toinisgeil</orth>
+          </form>
+          <def>sensible</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e870">
+          <form>
+            <orth>fiosrachail</orth>
+          </form>
+          <def>intelligent</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e879">
+          <form>
+            <orth>sgileil</orth>
+          </form>
+          <def>skilful</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e888">
+          <form>
+            <orth>sgaomach</orth>
+          </form>
+          <def>lightheaded</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e897">
+          <form>
+            <orth>gogaideach</orth>
+          </form>
+          <def>lightheaded</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e906">
+          <form>
+            <orth>òinseach</orth>
+          </form>
+          <def>a foolish female</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e915">
+          <form>
+            <orth>glaoichd</orth>
+          </form>
+          <def>a foolish female</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e924">
+          <form>
+            <orth>burraidh</orth>
+          </form>
+          <def>a fool (male)</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e933">
+          <form>
+            <orth>baothaire</orth>
+          </form>
+          <def>a fool (male)</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e942">
+          <form>
+            <orth>gòrach</orth>
+          </form>
+          <def>foolish</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e951">
+          <form>
+            <orth>[tiugh]</orth>
+          </form>
+          <def>For stupid we had the saying – “tiugh sa chlaigeann”</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e960">
+          <form>
+            <orth>gun toinisg</orth>
+          </form>
+          <def>stupid, without common sense</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e969">
+          <form>
+            <orth>glagaid</orth>
+          </form>
+          <def>a noisy woman</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e977">Bold / Timid</head>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e982">
+          <form>
+            <orth>dalma</orth>
+          </form>
+          <def>bold</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e991">
+          <form>
+            <orth>ladarna</orth>
+          </form>
+          <def>impudent</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e1000">
+          <form>
+            <orth>calma</orth>
+          </form>
+          <def>brave</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e1009">
+          <form>
+            <orth>coimheach</orth>
+          </form>
+          <def>shy</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousAnadur2-d0e1018">
+          <form>
+            <orth>clisgeach</orth>
+          </form>
+          <def>timid</def>
+        </entry>
+      </div>
+    </body>
+  </text>
 </TEI>

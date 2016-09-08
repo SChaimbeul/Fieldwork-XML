@@ -15,13 +15,11 @@
     <profileDesc>
       <creation/>
       <particDesc>
-        <person role="fieldworker">
-          <persName>Anonymous A</persName>
-        </person>
+        <person role="fieldworker" corresp="anonymous_A"/>
       </particDesc>
       <textClass>
         <keywords>
-          <term>Senses</term>
+          <term xml:lang="en">Senses</term>
           <term>Faireachdain</term>
         </keywords>
       </textClass>
@@ -37,12 +35,7 @@
           </form>
           <def>the senses.</def>
         </entry>
-        <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-idola35">
-          <form>
-            <orth>[note]</orth>
-          </form>
-          <def>The others as above [i.e. in the heading of the questionnaire – I have copied them below].</def>
-        </entry>
+        <note>The others as above [i.e. in the heading of the questionnaire – I have copied them below].</note>
         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e37">
           <form>
             <orth>[claisneachd]</orth>
@@ -66,63 +59,69 @@
       </div>
       <div>
         <head xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e60">AN T-SÙIL</head>
-        <head xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e64" subtype="h2">1. Seòrsachan sùil, pàirtean de’n t-sùil, tinneasan sùil, fradharc</head>
-        <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e69">
-          <form>
-            <orth>frasg, fruisg</orth>
-          </form>
-          <def>eyelash, -es.</def>
-        </entry>
-        <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e78">
-          <form>
-            <orth>sùil chlaon</orth>
-          </form>
-          <def>squint eye.</def>
-        </entry>
-        <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e87">
-          <form>
-            <orth>leònag</orth>
-          </form>
-          <def>stye.</def>
-        </entry>
-        <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e96">
-          <form>
-            <orth>teine-sionnachain</orth>
-          </form>
-          <def>phosphorescence.</def>
-        </entry>
-        <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e105">
-          <form>
-            <orth>sùil chaogach</orth>
-          </form>
-          <def>winking eye.</def>
-        </entry>
-        <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e114">
-          <form>
-            <orth>mala</orth>
-          </form>
-          <def>eyebrow.</def>
-        </entry>
-        <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e123">
-          <form>
-            <orth>rosg</orth>
-          </form>
-          <def>eyelid.</def>
-        </entry>
-        <head xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e131" subtype="h2">2. Dòighean air coimhead air duine</head>
-        <head xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e135" subtype="h2">3. Gnathasan-cainnte tha bointinn ris an t-sùil</head>
-        <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e140">
-          <form>
-            <orth>[sùil]</orth>
-          </form>
-          <def>Tha mo shùil ann. – to us [it] meant “I fancy it”. [NOTES: the authors of the questionnaire give this phrase as an example with the meaning ‘I want it’.]</def>
-        </entry>
-        <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e149">
-          <form>
-            <orth>[faicinn]</orth>
-          </form>
-          <def>Breagha ri fhaicinn ach geur ri bhlasad. – Fair to the eye but bitter to the taste.</def>
-        </entry>
+        <div>
+          <head xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e64" subtype="h2">1. Seòrsachan sùil, pàirtean de’n t-sùil, tinneasan sùil, fradharc</head>
+          <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e69">
+            <form>
+              <orth>frasg, fruisg</orth>
+            </form>
+            <def>eyelash, -es.</def>
+          </entry>
+          <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e78">
+            <form>
+              <orth>sùil chlaon</orth>
+            </form>
+            <def>squint eye.</def>
+          </entry>
+          <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e87">
+            <form>
+              <orth>leònag</orth>
+            </form>
+            <def>stye.</def>
+          </entry>
+          <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e96">
+            <form>
+              <orth>teine-sionnachain</orth>
+            </form>
+            <def>phosphorescence.</def>
+          </entry>
+          <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e105">
+            <form>
+              <orth>sùil chaogach</orth>
+            </form>
+            <def>winking eye.</def>
+          </entry>
+          <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e114">
+            <form>
+              <orth>mala</orth>
+            </form>
+            <def>eyebrow.</def>
+          </entry>
+          <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e123">
+            <form>
+              <orth>rosg</orth>
+            </form>
+            <def>eyelid.</def>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e131" subtype="h2">2. Dòighean air coimhead air duine</head>
+        </div>
+        <div>
+          <head xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e135" subtype="h2">3. Gnathasan-cainnte tha bointinn ris an t-sùil</head>
+          <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e140">
+            <form>
+              <orth>[sùil]</orth>
+            </form>
+            <def>Tha mo shùil ann. – to us [it] meant “I fancy it”. [NOTES: the authors of the questionnaire give this phrase as an example with the meaning ‘I want it’.]</def>
+          </entry>
+          <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e149">
+            <form>
+              <orth>[faicinn]</orth>
+            </form>
+            <def>Breagha ri fhaicinn ach geur ri bhlasad. – Fair to the eye but bitter to the taste.</def>
+          </entry>
+        </div>
       </div>
       <div>
         <head xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e157">AM BEUL</head>
@@ -183,6 +182,7 @@
       </div>
       <div>
         <head xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e242">A’ CHLUAS</head>
+        <div>
         <head xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e246" subtype="h2">1. Cumaidhean chluas, pàirtean de’n chluais, tinneasan cluaise</head>
         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e251">
           <form>
@@ -196,6 +196,8 @@
           </form>
           <def>wax.</def>
         </entry>
+        </div>
+        <div>
         <head xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e268" subtype="h2">2. Seòrsaichean de fhuaim</head>
         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e273">
           <form>
@@ -281,8 +283,9 @@
           </form>
           <def>rumbling of the stomach.</def>
         </entry>
-        <note>[NOTES: the rest of the questionnaire (i.e. an t-sròn, an làmh, an cridhe) missing.]</note>
+        </div>  
       </div>
+      <note>[NOTES: the rest of the questionnaire (i.e. an t-sròn, an làmh, an cridhe) missing.]</note>
     </body>
   </text>
 </TEI>
