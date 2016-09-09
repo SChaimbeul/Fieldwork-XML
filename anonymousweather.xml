@@ -1,471 +1,467 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AOHenley_anonymousweather">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: is this a compilation of a few different word-lists? Was Mr O’Henley himself the informant? No information anywhere in the questionnaire.]</note>
-            <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[1987-88]</date>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>A. O’Henley</persName>
-            </person>
-            <person role="informant">
-               <persName>anonymous</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Weather</term>
-               <term>Sìde</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e29"
-            >1. General terms</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e33"
-             subtype="h2">1.1. Good weather</head>
-         <entry xml:id="AOHenley_anonymousweather-idp20824">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note xml:lang="en">[NOTES: is this a compilation of a few different word-lists? Was Mr O’Henley himself the informant? No information anywhere in the questionnaire.]</note>
+        <note xml:lang="en">[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[1987-88]</date>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="A_O_Henley"/>
+        <person role="informant">
+          <persName xml:lang="en">anonymous</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Weather</term>
+          <term>Sìde</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head xml:id="AOHenley_anonymousweather-d0e29">1. General terms</head>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e33" subtype="h2">1.1. Good weather</head>
+          <entry xml:id="AOHenley_anonymousweather-idp20824">
             <form>
-               <orth>alainn</orth>
+              <orth>alainn</orth>
             </form>
             <def/>
-         </entry>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e45"
-             subtype="h2">1.2. Bad weather</head>
-         <entry xml:id="AOHenley_anonymousweather-idp16000">
+          </entry>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e45" subtype="h2">1.2. Bad weather</head>
+          <entry xml:id="AOHenley_anonymousweather-idp16000">
             <form>
-               <orth>latha eadar dà shian</orth>
+              <orth>latha eadar dà shian</orth>
             </form>
             <def>weather that is between two extremes.</def>
-         </entry>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e58"
-             subtype="h2">1.3. Temperature</head>
-         <entry xml:id="AOHenley_anonymousweather-idp37816">
+          </entry>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e58" subtype="h2">1.3. Temperature</head>
+          <entry xml:id="AOHenley_anonymousweather-idp37816">
             <form>
-               <orth>muirteach</orth>
+              <orth>muirteach</orth>
             </form>
             <def>can hardly draw your breath.</def>
-         </entry>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e71"
-             subtype="h2">1.4. Dryness, wetness</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e75"
-            >2. The sky and the weather</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e79"
-             subtype="h2">2.1. A clear sky by day</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e83"
-             subtype="h2">2.2. A clear night sky</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e87"
-             subtype="h2">2.3. A red sky</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e91"
-             subtype="h2">2.4. An overcast sky</head>
-         <entry xml:id="AOHenley_anonymousweather-idp44512">
+          </entry>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e71" subtype="h2">1.4. Dryness, wetness</head>
+        </div>
+      </div>
+      <div>
+        <head xml:id="AOHenley_anonymousweather-d0e75">2. The sky and the weather</head>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e79" subtype="h2">2.1. A clear sky by day</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e83" subtype="h2">2.2. A clear night sky</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e87" subtype="h2">2.3. A red sky</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e91" subtype="h2">2.4. An overcast sky</head>
+          <entry xml:id="AOHenley_anonymousweather-idp44512">
             <form>
-               <orth>sgleo air an adhar</orth>
+              <orth>sgleo air an adhar</orth>
             </form>
             <def/>
-         </entry>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e103"
-             subtype="h2">2.5. Unusual appearance of the moon or the sun</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e107"
-             subtype="h2">2.6. The northern lights</head>
-         <entry xml:id="AOHenley_anonymousweather-idp47680">
+          </entry>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e103" subtype="h2">2.5. Unusual appearance of the moon or the sun</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e107" subtype="h2">2.6. The northern lights</head>
+          <entry xml:id="AOHenley_anonymousweather-idp47680">
             <form>
-               <orth>fir chlis</orth>
+              <orth>fir chlis</orth>
             </form>
             <def/>
-         </entry>
-         <entry xml:id="AOHenley_anonymousweather-idp49120">
+          </entry>
+          <entry xml:id="AOHenley_anonymousweather-idp49120">
             <form>
-               <orth>Grioglachan</orth>
+              <orth>Grioglachan</orth>
             </form>
             <def>plaids [sic] [Pleiades?].</def>
-         </entry>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e128"
-             subtype="h2">2.7. Stars</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e132"
-            >3. Clouds</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e136"
-             subtype="h2">3.1. Light cloud</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e140"
-             subtype="h2">3.2. Cirrus cloud</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e144"
-             subtype="h2">3.3. Thick cloud</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e148"
-             subtype="h2">3.4. Rainbow</head>
-         <entry xml:id="AOHenley_anonymousweather-idp55816">
+          </entry>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e128" subtype="h2">2.7. Stars</head>
+        </div>
+      </div>
+      <div>
+        <head xml:id="AOHenley_anonymousweather-d0e132">3. Clouds</head>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e136" subtype="h2">3.1. Light cloud</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e140" subtype="h2">3.2. Cirrus cloud</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e144" subtype="h2">3.3. Thick cloud</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e148" subtype="h2">3.4. Rainbow</head>
+          <entry xml:id="AOHenley_anonymousweather-idp55816">
             <form>
-               <orth>ruinne bò</orth>
+              <orth>ruinne bò</orth>
             </form>
             <def>also used.</def>
-         </entry>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e161"
-            >4. Wind</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e165"
-             subtype="h2">4.1. Dead calm</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e169"
-             subtype="h2">4.2. Light breeze</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e173"
-             subtype="h2">4.3. Fresh breeze</head>
-         <entry xml:id="AOHenley_anonymousweather-idp60784">
+          </entry>
+        </div>
+      </div>
+      <div>
+        <head xml:id="AOHenley_anonymousweather-d0e161">4. Wind</head>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e165" subtype="h2">4.1. Dead calm</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e169" subtype="h2">4.2. Light breeze</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e173" subtype="h2">4.3. Fresh breeze</head>
+          <entry xml:id="AOHenley_anonymousweather-idp60784">
             <form>
-               <orth>latha fionnar</orth>
+              <orth>latha fionnar</orth>
             </form>
             <def/>
-         </entry>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e185"
-             subtype="h2">4.4. Gusts</head>
-         <entry xml:id="AOHenley_anonymousweather-idp63088">
+          </entry>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e185" subtype="h2">4.4. Gusts</head>
+          <entry xml:id="AOHenley_anonymousweather-idp63088">
             <form>
-               <orth>sguallaichean</orth>
+              <orth>sguallaichean</orth>
             </form>
             <def/>
-         </entry>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e197"
-             subtype="h2">4.5. Wind of variable direction</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e201"
-             subtype="h2">4.6. Strong wind</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e205"
-             subtype="h2">4.7. Gale</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e209"
-             subtype="h2">4.8. Hurricane</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e213"
-             subtype="h2">4.9. Rising wind</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e217"
-             subtype="h2">4.10. Dying wind</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e221"
-             subtype="h2">4.11. Winds associated with particular seasons of the year</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e225"
-            >5. Tides</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e229"
-             subtype="h2">5.1. Flowing</head>
-         <entry xml:id="AOHenley_anonymousweather-idp253160">
+          </entry>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e197" subtype="h2">4.5. Wind of variable direction</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e201" subtype="h2">4.6. Strong wind</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e205" subtype="h2">4.7. Gale</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e209" subtype="h2">4.8. Hurricane</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e213" subtype="h2">4.9. Rising wind</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e217" subtype="h2">4.10. Dying wind</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e221" subtype="h2">4.11. Winds associated with particular seasons of the year</head>
+        </div>
+      </div>
+      <div>
+        <head xml:id="AOHenley_anonymousweather-d0e225">5. Tides</head>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e229" subtype="h2">5.1. Flowing</head>
+          <entry xml:id="AOHenley_anonymousweather-idp253160">
             <form>
-               <orth>sioladh</orth>
+              <orth>sioladh</orth>
             </form>
             <def/>
-         </entry>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e241"
-             subtype="h2">5.2. Ebbing</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e245"
-             subtype="h2">5.3. High tide</head>
-         <entry xml:id="AOHenley_anonymousweather-idp256328">
+          </entry>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e241" subtype="h2">5.2. Ebbing</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e245" subtype="h2">5.3. High tide</head>
+          <entry xml:id="AOHenley_anonymousweather-idp256328">
             <form>
-               <orth>rothart</orth>
+              <orth>rothart</orth>
             </form>
             <def/>
-         </entry>
-         <entry xml:id="AOHenley_anonymousweather-idp257768">
+          </entry>
+          <entry xml:id="AOHenley_anonymousweather-idp257768">
             <form>
-               <orth>mullach làn àrd</orth>
+              <orth>mullach làn àrd</orth>
             </form>
             <def>moon at its height.</def>
-         </entry>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e266"
-             subtype="h2">5.4. Low tide</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e270"
-             subtype="h2">5.5. Spring tide</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e274"
-             subtype="h2">5.6. Neap tide</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e278"
-             subtype="h2">5.7. Turn of the tide</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e282"
-            >6. Weather and the sea</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e286"
-             subtype="h2">6.1. A calm sea</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e290"
-             subtype="h2">6.2. A light swell</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e294"
-             subtype="h2">6.3. A heavy swell</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e298"
-             subtype="h2">6.4. A choppy sea</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e302"
-             subtype="h2">6.5. A stormy sea</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e306"
-             subtype="h2">6.6. Large waves</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e310"
-             subtype="h2">6.7. Breakers</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e314"
-             subtype="h2">6.8. Surf</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e318"
-             subtype="h2">6.9. Spindrift</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e322"
-            >7. Rain</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e326"
-             subtype="h2">7.1. Drizzle</head>
-         <entry xml:id="AOHenley_anonymousweather-idp273104">
+          </entry>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e266" subtype="h2">5.4. Low tide</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e270" subtype="h2">5.5. Spring tide</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e274" subtype="h2">5.6. Neap tide</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e278" subtype="h2">5.7. Turn of the tide</head>
+        </div>
+      </div>
+      <div>
+        <head xml:id="AOHenley_anonymousweather-d0e282">6. Weather and the sea</head>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e286" subtype="h2">6.1. A calm sea</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e290" subtype="h2">6.2. A light swell</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e294" subtype="h2">6.3. A heavy swell</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e298" subtype="h2">6.4. A choppy sea</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e302" subtype="h2">6.5. A stormy sea</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e306" subtype="h2">6.6. Large waves</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e310" subtype="h2">6.7. Breakers</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e314" subtype="h2">6.8. Surf</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e318" subtype="h2">6.9. Spindrift</head>
+        </div>
+      </div>
+      <div>
+        <head xml:id="AOHenley_anonymousweather-d0e322">7. Rain</head>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e326" subtype="h2">7.1. Drizzle</head>
+          <entry xml:id="AOHenley_anonymousweather-idp273104">
             <form>
-               <orth>uisge bog</orth>
+              <orth>uisge bog</orth>
             </form>
             <def/>
-         </entry>
-         <entry xml:id="AOHenley_anonymousweather-idp274544">
+          </entry>
+          <entry xml:id="AOHenley_anonymousweather-idp274544">
             <form>
-               <orth>smugraich</orth>
+              <orth>smugraich</orth>
             </form>
             <def/>
-         </entry>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e346"
-             subtype="h2">7.2. Light shower</head>
-         <entry xml:id="AOHenley_anonymousweather-idp276848">
+          </entry>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e346" subtype="h2">7.2. Light shower</head>
+          <entry xml:id="AOHenley_anonymousweather-idp276848">
             <form>
-               <orth>fras</orth>
+              <orth>fras</orth>
             </form>
             <def/>
-         </entry>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e358"
-             subtype="h2">7.3. Heavy shower</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e362"
-             subtype="h2">7.4. Prolonged rain</head>
-         <entry xml:id="AOHenley_anonymousweather-idp280016">
+          </entry>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e358" subtype="h2">7.3. Heavy shower</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e362" subtype="h2">7.4. Prolonged rain</head>
+          <entry xml:id="AOHenley_anonymousweather-idp280016">
             <form>
-               <orth>latha druideach</orth>
-               <pron>[NOTES: ‘druideach’ corrected to ‘drùiteach’.]</pron>
+              <orth>latha druideach</orth>
             </form>
             <def>[NOTES: ‘druideach’ corrected to ‘drùiteach’.]</def>
-         </entry>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e375"
-             subtype="h2">7.5. Driving rain</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e379"
-             subtype="h2">7.6. Getting soaked</head>
-         <entry xml:id="AOHenley_anonymousweather-idp283256">
+          </entry>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e375" subtype="h2">7.5. Driving rain</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e379" subtype="h2">7.6. Getting soaked</head>
+          <entry xml:id="AOHenley_anonymousweather-idp283256">
             <form>
-               <orth>bog fliuch</orth>
+              <orth>bog fliuch</orth>
             </form>
-            <def/>
-         </entry>
-         <entry xml:id="AOHenley_anonymousweather-idp284696">
+          </entry>
+          <entry xml:id="AOHenley_anonymousweather-idp284696">
             <form>
-               <orth>Dhruidh an t-uisge orm.</orth>
-               <pron>[NOTES: ‘Dhruidh’ corrected to ‘Dhrùidh’.]</pron>
+              <orth>Dhruidh an t-uisge orm.</orth>
             </form>
             <def>[NOTES: ‘Dhruidh’ corrected to ‘Dhrùidh’.]</def>
-         </entry>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e400"
-            >8. Mist</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e404"
-             subtype="h2">8.1. Light mist</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e408"
-             subtype="h2">8.2. Heavy mist</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e412"
-             subtype="h2">8.3. Sea mist</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e416"
-             subtype="h2">8.4. Other terms associated with mist</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e420"
-            >9. Thunder and lightning</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e424"
-             subtype="h2">9.1. Thunder</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e428"
-             subtype="h2">9.2. Lightning</head>
-         <entry xml:id="AOHenley_anonymousweather-idp293120">
+          </entry>
+        </div>
+      </div>
+      <div>
+        <head xml:id="AOHenley_anonymousweather-d0e400">8. Mist</head>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e404" subtype="h2">8.1. Light mist</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e408" subtype="h2">8.2. Heavy mist</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e412" subtype="h2">8.3. Sea mist</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e416" subtype="h2">8.4. Other terms associated with mist</head>
+        </div>
+      </div>
+      <div>
+        <head xml:id="AOHenley_anonymousweather-d0e420">9. Thunder and lightning</head>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e424" subtype="h2">9.1. Thunder</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e428" subtype="h2">9.2. Lightning</head>
+          <entry xml:id="AOHenley_anonymousweather-idp293120">
             <form>
-               <orth>peadhair</orth>
+              <orth>peadhair</orth>
             </form>
             <def>thunderbolt. [NOTES: note added above – peithir.]</def>
-         </entry>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e441"
-            >10. Snow and hail</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e445"
-             subtype="h2">10.1. Snowflakes</head>
-         <entry xml:id="AOHenley_anonymousweather-idp296504">
+          </entry>
+        </div>
+      </div>
+      <div>
+        <head xml:id="AOHenley_anonymousweather-d0e441">10. Snow and hail</head>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e445" subtype="h2">10.1. Snowflakes</head>
+          <entry xml:id="AOHenley_anonymousweather-idp296504">
             <form>
-               <orth>bleideagan</orth>
+              <orth>bleideagan</orth>
             </form>
             <def/>
-         </entry>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e457"
-             subtype="h2">10.2. Sleet</head>
-         <entry xml:id="AOHenley_anonymousweather-idp298808">
+          </entry>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e457" subtype="h2">10.2. Sleet</head>
+          <entry xml:id="AOHenley_anonymousweather-idp298808">
             <form>
-               <orth>flìn</orth>
+              <orth>flìn</orth>
             </form>
             <def/>
-         </entry>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e469"
-             subtype="h2">10.3. Types of snow</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e473"
-             subtype="h2">10.4. Driving snow</head>
-         <entry xml:id="AOHenley_anonymousweather-idp301976">
+          </entry>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e469" subtype="h2">10.3. Types of snow</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e473" subtype="h2">10.4. Driving snow</head>
+          <entry xml:id="AOHenley_anonymousweather-idp301976">
             <form>
-               <orth>cabhadh sneachda</orth>
+              <orth>cabhadh sneachda</orth>
             </form>
             <def/>
-         </entry>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e485"
-             subtype="h2">10.5. Heavy fall</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e489"
-             subtype="h2">10.6. Snowdrifts</head>
-         <entry xml:id="AOHenley_anonymousweather-idp305144">
+          </entry>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e485" subtype="h2">10.5. Heavy fall</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e489" subtype="h2">10.6. Snowdrifts</head>
+          <entry xml:id="AOHenley_anonymousweather-idp305144">
             <form>
-               <orth>cidheachan sneachda</orth>
+              <orth>cidheachan sneachda</orth>
             </form>
             <def/>
-         </entry>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e501"
-             subtype="h2">10.7. A few flakes floating in the wind</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e505"
-             subtype="h2">10.8. Snowman and rolled ball of snow</head>
-         <entry xml:id="AOHenley_anonymousweather-idp308312">
+          </entry>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e501" subtype="h2">10.7. A few flakes floating in the wind</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e505" subtype="h2">10.8. Snowman and rolled ball of snow</head>
+          <entry xml:id="AOHenley_anonymousweather-idp308312">
             <form>
-               <orth>bodach sneachda</orth>
+              <orth>bodach sneachda</orth>
             </form>
             <def/>
-         </entry>
-         <entry xml:id="AOHenley_anonymousweather-idp309752">
+          </entry>
+          <entry xml:id="AOHenley_anonymousweather-idp309752">
             <form>
-               <orth>ball sneachda</orth>
+              <orth>ball sneachda</orth>
             </form>
             <def/>
-         </entry>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e525"
-             subtype="h2">10.9. Hailstones</head>
-         <entry xml:id="AOHenley_anonymousweather-idp312056">
+          </entry>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e525" subtype="h2">10.9. Hailstones</head>
+          <entry xml:id="AOHenley_anonymousweather-idp312056">
             <form>
-               <orth>clachan meallain</orth>
+              <orth>clachan meallain</orth>
             </form>
             <def/>
-         </entry>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e537"
-            >11. Frost</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e541"
-             subtype="h2">11.1. Hoarfrost</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e545"
-             subtype="h2">11.2. Hard frost</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e549"
-             subtype="h2">11.3. Ice</head>
-         <entry xml:id="AOHenley_anonymousweather-idp341616">
+          </entry>
+        </div>
+      </div>
+      <div>
+        <head xml:id="AOHenley_anonymousweather-d0e537">11. Frost</head>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e541" subtype="h2">11.1. Hoarfrost</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e545" subtype="h2">11.2. Hard frost</head>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e549" subtype="h2">11.3. Ice</head>
+          <entry xml:id="AOHenley_anonymousweather-idp341616">
             <form>
-               <orth>liath reothadh</orth>
+              <orth>liath reothadh</orth>
             </form>
             <def/>
-         </entry>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e561"
-             subtype="h2">11.4. Thaw</head>
-         <entry xml:id="AOHenley_anonymousweather-idp343920">
+          </entry>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e561" subtype="h2">11.4. Thaw</head>
+          <entry xml:id="AOHenley_anonymousweather-idp343920">
             <form>
-               <orth>aiteabh</orth>
+              <orth>aiteabh</orth>
             </form>
             <def/>
-         </entry>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e573"
-            >12. Signs foretelling weather</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e577"
-             subtype="h2">12.1. Foretelling good weather.</head>
-         <entry xml:id="AOHenley_anonymousweather-idp347088">
+          </entry>
+        </div>
+      </div>
+      <div>
+        <head xml:id="AOHenley_anonymousweather-d0e573">12. Signs foretelling weather</head>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e577" subtype="h2">12.1. Foretelling good weather.</head>
+          <entry xml:id="AOHenley_anonymousweather-idp347088">
             <form>
-               <orth>[còta]</orth>
+              <orth>[còta]</orth>
             </form>
-            <def>“An crochadh tu do chota orra [sic].” In reference to the moon. If you could hang your coat on the moon according to its shape then a good day was in prospect. If you could not then the opposite applied.</def>
-         </entry>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e590"
-             subtype="h2">12.2 Foretelling bad weather.</head>
-         <head
-             xml:id="AOHenley_anonymousweather-d0e594"
-            >13. General sayings or proverbs connected with the weather</head>
-         <entry xml:id="AOHenley_anonymousweather-idp350400">
-            <form>
-               <orth>[earrach]</orth>
-            </form>
-            <def>“Mios faoillaich, naoi latha gearran, trì latha sguabaig, suas an t-earrach.” Used to herald the beginning of spring.</def>
-         </entry>
-      </body>
-   </text>
+            <def>“An crochadh tu do chota orra [sic].” In reference to the moon. If you could hang your coat on the moon according to its shape then a good day was in prospect. If you could not then
+              the opposite applied.</def>
+          </entry>
+        </div>
+        <div>
+          <head xml:id="AOHenley_anonymousweather-d0e590" subtype="h2">12.2 Foretelling bad weather.</head>
+        </div>
+      </div>
+      <div>
+        <head xml:id="AOHenley_anonymousweather-d0e594">13. General sayings or proverbs connected with the weather</head>
+        <entry xml:id="AOHenley_anonymousweather-idp350400">
+          <form>
+            <orth>[earrach]</orth>
+          </form>
+          <def>“Mios faoillaich, naoi latha gearran, trì latha sguabaig, suas an t-earrach.” Used to herald the beginning of spring.</def>
+        </entry>
+      </div>
+    </body>
+  </text>
 </TEI>
