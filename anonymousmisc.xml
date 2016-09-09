@@ -1,99 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DRMorrisonetal_anonymousmisc">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation/>
-         <particDesc>
-            <person role="informant">
-               <persName>?</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="DRMorrisonetal_anonymousmisc-d0e22">
-            <form>
-               <orth>sgoil</orth>
-            </form>
-            <def>Thug e sgoil air a bha uamhasach. He gave him a right telling off.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymousmisc-d0e31">
-            <form>
-               <orth>farsaing</orth>
-            </form>
-            <def>Storaidhnean farsaing – tall stories.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymousmisc-d0e40">
-            <form>
-               <orth>dorgan</orth>
-            </form>
-            <def>a sustained monotonous noise, usually people talking.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymousmisc-d0e49">
-            <form>
-               <orth>mìn</orth>
-            </form>
-            <def>small (of print).</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymousmisc-d0e58">
-            <form>
-               <orth>friotas</orth>
-            </form>
-            <def>whispering? (Matilda MacBeath)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymousmisc-d0e67">
-            <form>
-               <orth>salann rìligidh</orth>
-            </form>
-            <def>sprinkling of salt on herring or other fish in boxes.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymousmisc-d0e76">
-            <form>
-               <orth>tolt</orth>
-            </form>
-            <def>bedspread.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymousmisc-d0e85">
-            <form>
-               <orth>gorcad</orth>
-            </form>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymousmisc-d0e91">
-            <form>
-               <orth>fuasgailte</orth>
-            </form>
-            <def>non-communicant. (Harris)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymousmisc-d0e100">
-            <form>
-               <orth>frog(ail)</orth>
-            </form>
-            <def>hale and hearty.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymousmisc-d0e109">
-            <form>
-               <orth>gràinean</orth>
-            </form>
-            <def>pill. (W. Lewis)</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <particDesc>
+        <person role="informant">
+          <persName>?</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="DRMorrisonetal_anonymousmisc-d0e22">
+        <form>
+          <orth>sgoil</orth>
+        </form>
+        <def>Thug e sgoil air a bha uamhasach. He gave him a right telling off.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_anonymousmisc-d0e31">
+        <form>
+          <orth>farsaing</orth>
+        </form>
+        <def>Storaidhnean farsaing – tall stories.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_anonymousmisc-d0e40">
+        <form>
+          <orth>dorgan</orth>
+        </form>
+        <def>a sustained monotonous noise, usually people talking.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_anonymousmisc-d0e49">
+        <form>
+          <orth>mìn</orth>
+        </form>
+        <def>small (of print).</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_anonymousmisc-d0e58">
+        <form>
+          <orth>friotas</orth>
+        </form>
+        <def>whispering? (Matilda MacBeath)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_anonymousmisc-d0e67">
+        <form>
+          <orth>salann rìligidh</orth>
+        </form>
+        <def>sprinkling of salt on herring or other fish in boxes.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_anonymousmisc-d0e76">
+        <form>
+          <orth>tolt</orth>
+        </form>
+        <def>bedspread.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_anonymousmisc-d0e85">
+        <form>
+          <orth>gorcad</orth>
+        </form>
+      </entry>
+      <entry xml:id="DRMorrisonetal_anonymousmisc-d0e91">
+        <form>
+          <orth>fuasgailte</orth>
+        </form>
+        <def>non-communicant. (Harris)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_anonymousmisc-d0e100">
+        <form>
+          <orth>frog(ail)</orth>
+        </form>
+        <def>hale and hearty.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_anonymousmisc-d0e109">
+        <form>
+          <orth>gràinean</orth>
+        </form>
+        <def>pill. (W. Lewis)</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

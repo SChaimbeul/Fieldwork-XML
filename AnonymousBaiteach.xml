@@ -15,9 +15,7 @@
     <profileDesc>
       <creation/>
       <particDesc>
-        <person role="fieldworker">
-          <persName>Anonymous B</persName>
-        </person>
+        <person role="fieldworker" corresp="anonymous_B"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -29,67 +27,93 @@
   </teiHeader>
   <text>
     <body>
-      <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e14">1. Na togalaichean: sobhal, bàthach is mar sin, agus ainm gach pàirt dhiubh</head>
-      <entry xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e19">
-        <form>
-          <orth>airidh</orth>
-        </form>
-        <def>hen roost.</def>
-      </entry>
-      <entry xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e28">
-        <form>
-          <orth>atha</orth>
-        </form>
-        <def>equiv. of ‘sobhal’.</def>
-      </entry>
-      <entry xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e37">
-        <form>
-          <orth>àth</orth>
-        </form>
-        <def>kiln.</def>
-      </entry>
-      <entry xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e46">
-        <form>
-          <orth>aol</orth>
-        </form>
-        <def>lime.</def>
-      </entry>
-      <entry xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e55">
-        <form>
-          <orth>slacadh</orth>
-        </form>
-        <def>slackening the lime. Slacke [sic] – adding water.</def>
-      </entry>
-      <entry xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e64">
-        <form>
-          <orth>ath cheilp</orth>
-        </form>
-        <def>kelp kiln.</def>
-      </entry>
-      <entry xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e73">
-        <form>
-          <orth>ath aol</orth>
-        </form>
-        <def>lime kiln.</def>
-      </entry>
-      <entry xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e82">
-        <form>
-          <orth>tireadh</orth>
-        </form>
-        <def>grinding. Drying of the grain in the barn.</def>
-      </entry>
-      <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e90">2. A’ mathachadh no a’ leasachadh na talmhainn</head>
-      <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e94">3. A’ treabhadh no a’ ruamhar: an crann agus ainm gach pàirt dheth</head>
-      <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e98">4. Innealan beaga leithid spaid, gràp, ràcan is mar sin</head>
-      <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e102">5. Acfhuinn an eich airson gach seòrsa obair</head>
-      <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e106">6. A’ cur an t-sìl</head>
-      <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e110">7. A’ buain agus a’ tiormachadh an arbhair no an fheòir</head>
-      <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e114">8. A’ togail a’ bhuntàta</head>
-      <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e118">9. A’ tasgadh an arbhair agus a’ bhuntàta</head>
-      <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e122">10. A’ bualadh ’s a’ criathradh</head>
-      <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e126">11. A’ bleith an t-sìl</head>
-      <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e130">12. Ainmean a chleachdar ri earrainn fearainn</head>
-      <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e134">13. Faclan sam bith eile</head>
+      <div>
+        <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e14">1. Na togalaichean: sobhal, bàthach is mar sin, agus ainm gach pàirt dhiubh</head>
+        <entry xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e19">
+          <form>
+            <orth>airidh</orth>
+          </form>
+          <def>hen roost.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e28">
+          <form>
+            <orth>atha</orth>
+          </form>
+          <def>equiv. of ‘sobhal’.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e37">
+          <form>
+            <orth>àth</orth>
+          </form>
+          <def>kiln.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e46">
+          <form>
+            <orth>aol</orth>
+          </form>
+          <def>lime.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e55">
+          <form>
+            <orth>slacadh</orth>
+          </form>
+          <def>slackening the lime. Slacke [sic] – adding water.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e64">
+          <form>
+            <orth>ath cheilp</orth>
+          </form>
+          <def>kelp kiln.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e73">
+          <form>
+            <orth>ath aol</orth>
+          </form>
+          <def>lime kiln.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e82">
+          <form>
+            <orth>tireadh</orth>
+          </form>
+          <def>grinding. Drying of the grain in the barn.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e90">2. A’ mathachadh no a’ leasachadh na talmhainn</head>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e94">3. A’ treabhadh no a’ ruamhar: an crann agus ainm gach pàirt dheth</head>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e98">4. Innealan beaga leithid spaid, gràp, ràcan is mar sin</head>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e102">5. Acfhuinn an eich airson gach seòrsa obair</head>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e106">6. A’ cur an t-sìl</head>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e110">7. A’ buain agus a’ tiormachadh an arbhair no an fheòir</head>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e114">8. A’ togail a’ bhuntàta</head>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e118">9. A’ tasgadh an arbhair agus a’ bhuntàta</head>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e122">10. A’ bualadh ’s a’ criathradh</head>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e126">11. A’ bleith an t-sìl</head>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e130">12. Ainmean a chleachdar ri earrainn fearainn</head>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_AnonymousBaiteach-d0e134">13. Faclan sam bith eile</head>
+      </div>
     </body>
   </text>
 </TEI>

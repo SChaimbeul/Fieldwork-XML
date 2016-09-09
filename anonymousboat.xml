@@ -1,196 +1,194 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="AssortedFieldworkers_anonymousboat">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation/>
-         <textClass>
-            <keywords>
-               <term>Boat-Building</term>
-               <term>Togail Bhàtaichean</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="AssortedFieldworkers_anonymousboat-d0e11"
-            >1. The keel</head>
-         <head
-             xml:id="AssortedFieldworkers_anonymousboat-d0e15"
-            >2. The rib-cage with its different parts</head>
-         <entry xml:id="AssortedFieldworkers_anonymousboat-d0e20">
-            <form>
-               <orth>stringers</orth>
-            </form>
-            <def>ribs.</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_anonymousboat-d0e28"
-            >3. Stem and stern</head>
-         <entry xml:id="AssortedFieldworkers_anonymousboat-d0e33">
-            <form>
-               <orth>snockan</orth>
-            </form>
-            <def>stem post.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymousboat-d0e42">
-            <form>
-               <orth>aft</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymousboat-d0e48">
-            <form>
-               <orth>reens</orth>
-            </form>
-            <def>wear strips (made of larch).</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_anonymousboat-d0e56"
-            >4. The planking</head>
-         <head
-             xml:id="AssortedFieldworkers_anonymousboat-d0e60"
-            >5. The gunwale</head>
-         <entry xml:id="AssortedFieldworkers_anonymousboat-d0e65">
-            <form>
-               <orth>gunnel</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_anonymousboat-d0e70"
-            >6. Interior parts, such as seats</head>
-         <entry xml:id="AssortedFieldworkers_anonymousboat-d0e75">
-            <form>
-               <orth>thaft</orth>
-            </form>
-            <def>seat.</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_anonymousboat-d0e83"
-            >7. Fittings for oars</head>
-         <entry xml:id="AssortedFieldworkers_anonymousboat-d0e88">
-            <form>
-               <orth>rowllocks</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymousboat-d0e94">
-            <form>
-               <orth>tallups</orth>
-            </form>
-            <def>straight pin.</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_anonymousboat-d0e102"
-            >8. Rudder and its fittings</head>
-         <entry xml:id="AssortedFieldworkers_anonymousboat-d0e107">
-            <form>
-               <orth>falamen?</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymousboat-d0e113">
-            <form>
-               <orth>skewer?</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymousboat-d0e119">
-            <form>
-               <orth>steer</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_anonymousboat-d0e124"
-            >9. Fittings for a mast</head>
-         <head
-             xml:id="AssortedFieldworkers_anonymousboat-d0e128"
-            >10. Other fittings if sails are to be used</head>
-         <head
-             xml:id="AssortedFieldworkers_anonymousboat-d0e132"
-            >11. Parts of an oar</head>
-         <head
-             xml:id="AssortedFieldworkers_anonymousboat-d0e136"
-            >12. Tools used in boat-building</head>
-         <entry xml:id="AssortedFieldworkers_anonymousboat-d0e141">
-            <form>
-               <orth> </orth>
-            </form>
-            <def>for trimming wood – in boat building.</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_anonymousboat-d0e149"
-            >13. Any other words or expressions</head>
-         <entry xml:id="AssortedFieldworkers_anonymousboat-d0e154">
-            <form>
-               <orth>runach</orth>
-            </form>
-            <def>bracken.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymousboat-d0e163">
-            <form>
-               <orth>crockle</orth>
-            </form>
-            <def>tangle, seaweed.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymousboat-d0e172">
-            <form>
-               <orth>graith</orth>
-            </form>
-            <def>net.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymousboat-d0e181">
-            <form>
-               <orth>plockan</orth>
-            </form>
-            <def>‘batty’ for knocking out fish. For mashing/chapping potatoes?</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymousboat-d0e190">
-            <form>
-               <orth>david</orth>
-            </form>
-            <def>for lifting anchors.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymousboat-d0e199">
-            <form>
-               <orth>spratan</orth>
-            </form>
-            <def>knife for removing limpets.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymousboat-d0e208">
-            <form>
-               <orth>scarrow</orth>
-            </form>
-            <def>cormorant.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymousboat-d0e217">
-            <form>
-               <orth>snoat?</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymousboat-d0e223">
-            <form>
-               <orth>crasgag</orth>
-            </form>
-            <def>starfish.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymousboat-d0e232">
-            <form>
-               <orth>cheepick</orth>
-            </form>
-            <def>part of a line, where hook is attached. Put it in ‘heepick’ – to wind hook into line so it won’t catch. E.g. for storing.
-        <graphic url="anonymousboatillust1.jpg" width="300px"/>
-            </def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AssortedFieldworkers_anonymousboat">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Boat-Building</term>
+          <term>Togail Bhàtaichean</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head xml:lang="en" xml:id="AssortedFieldworkers_anonymousboat-d0e11">1. The keel</head>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="AssortedFieldworkers_anonymousboat-d0e15">2. The rib-cage with its different parts</head>
+        <entry xml:id="AssortedFieldworkers_anonymousboat-d0e20">
+          <form>
+            <orth>stringers</orth>
+          </form>
+          <def>ribs.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="AssortedFieldworkers_anonymousboat-d0e28">3. Stem and stern</head>
+        <entry xml:id="AssortedFieldworkers_anonymousboat-d0e33">
+          <form>
+            <orth>snockan</orth>
+          </form>
+          <def>stem post.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymousboat-d0e42">
+          <form>
+            <orth>aft</orth>
+          </form>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymousboat-d0e48">
+          <form>
+            <orth>reens</orth>
+          </form>
+          <def>wear strips (made of larch).</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="AssortedFieldworkers_anonymousboat-d0e56">4. The planking</head>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="AssortedFieldworkers_anonymousboat-d0e60">5. The gunwale</head>
+        <entry xml:id="AssortedFieldworkers_anonymousboat-d0e65">
+          <form>
+            <orth>gunnel</orth>
+          </form>
+        </entry>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="AssortedFieldworkers_anonymousboat-d0e70">6. Interior parts, such as seats</head>
+        <entry xml:id="AssortedFieldworkers_anonymousboat-d0e75">
+          <form>
+            <orth>thaft</orth>
+          </form>
+          <def>seat.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="AssortedFieldworkers_anonymousboat-d0e83">7. Fittings for oars</head>
+        <entry xml:id="AssortedFieldworkers_anonymousboat-d0e88">
+          <form>
+            <orth>rowllocks</orth>
+          </form>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymousboat-d0e94">
+          <form>
+            <orth>tallups</orth>
+          </form>
+          <def>straight pin.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="AssortedFieldworkers_anonymousboat-d0e102">8. Rudder and its fittings</head>
+        <entry xml:id="AssortedFieldworkers_anonymousboat-d0e107">
+          <form>
+            <orth>falamen?</orth>
+          </form>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymousboat-d0e113">
+          <form>
+            <orth>skewer?</orth>
+          </form>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymousboat-d0e119">
+          <form>
+            <orth>steer</orth>
+          </form>
+        </entry>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="AssortedFieldworkers_anonymousboat-d0e124">9. Fittings for a mast</head>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="AssortedFieldworkers_anonymousboat-d0e128">10. Other fittings if sails are to be used</head>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="AssortedFieldworkers_anonymousboat-d0e132">11. Parts of an oar</head>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="AssortedFieldworkers_anonymousboat-d0e136">12. Tools used in boat-building</head>
+        <entry xml:id="AssortedFieldworkers_anonymousboat-d0e141">
+          <form>
+            <orth>?</orth>
+          </form>
+          <def>for trimming wood – in boat building.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="AssortedFieldworkers_anonymousboat-d0e149">13. Any other words or expressions</head>
+        <entry xml:id="AssortedFieldworkers_anonymousboat-d0e154">
+          <form>
+            <orth>runach</orth>
+          </form>
+          <def>bracken.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymousboat-d0e163">
+          <form>
+            <orth>crockle</orth>
+          </form>
+          <def>tangle, seaweed.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymousboat-d0e172">
+          <form>
+            <orth>graith</orth>
+          </form>
+          <def>net.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymousboat-d0e181">
+          <form>
+            <orth>plockan</orth>
+          </form>
+          <def>‘batty’ for knocking out fish. For mashing/chapping potatoes?</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymousboat-d0e190">
+          <form>
+            <orth>david</orth>
+          </form>
+          <def>for lifting anchors.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymousboat-d0e199">
+          <form>
+            <orth>spratan</orth>
+          </form>
+          <def>knife for removing limpets.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymousboat-d0e208">
+          <form>
+            <orth>scarrow</orth>
+          </form>
+          <def>cormorant.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymousboat-d0e217">
+          <form>
+            <orth>snoat?</orth>
+          </form>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymousboat-d0e223">
+          <form>
+            <orth>crasgag</orth>
+          </form>
+          <def>starfish.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymousboat-d0e232">
+          <form>
+            <orth>cheepick</orth>
+          </form>
+          <def>part of a line, where hook is attached. Put it in ‘heepick’ – to wind hook into line so it won’t catch. E.g. for storing. <graphic url="anonymousboatillust1.jpg" width="300px"/>
+          </def>
+        </entry>
+      </div>
+    </body>
+  </text>
 </TEI>

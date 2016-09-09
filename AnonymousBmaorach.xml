@@ -1,103 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="AssortedFieldworkers_AnonymousBmaorach">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation/>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>Anonymous B</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Shellfish</term>
-               <term>Maorach</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e14"
-            >1. Maorach</head>
-         <entry xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e19">
-            <form>
-               <orth>fiasgain</orth>
-            </form>
-            <def>mussels.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e28">
-            <form>
-               <orth>maorach</orth>
-            </form>
-            <def>limpet.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e37">
-            <form>
-               <orth>faochag</orth>
-            </form>
-            <def>edible (black).</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e46">
-            <form>
-               <orth>mursuinn</orth>
-            </form>
-            <def>razorfish.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e55">
-            <form>
-               <orth>bearnach</orth>
-            </form>
-            <def>limpet.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e64">
-            <form>
-               <orth>conochgag</orth>
-            </form>
-            <def>seashells.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e73">
-            <form>
-               <orth>leopag</orth>
-            </form>
-            <def>flounder.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e82">
-            <form>
-               <orth>portan</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e88">
-            <form>
-               <orth>liaghag</orth>
-            </form>
-            <def>seaweed going to and fro.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e97">
-            <form>
-               <orth>creachan</orth>
-            </form>
-            <def>clams.</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e105"
-            >2. A’ tional maorach</head>
-         <head
-             xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e109"
-            >3. Beathaichean eile a gheibhear ’sa’ chladach</head>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AssortedFieldworkers_AnonymousBmaorach">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <particDesc>
+        <person role="fieldworker" corresp="anonymous_B"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Shellfish</term>
+          <term>Maorach</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e14">1. Maorach</head>
+        <entry xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e19">
+          <form>
+            <orth>fiasgain</orth>
+          </form>
+          <def>mussels.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e28">
+          <form>
+            <orth>maorach</orth>
+          </form>
+          <def>limpet.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e37">
+          <form>
+            <orth>faochag</orth>
+          </form>
+          <def>edible (black).</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e46">
+          <form>
+            <orth>mursuinn</orth>
+          </form>
+          <def>razorfish.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e55">
+          <form>
+            <orth>bearnach</orth>
+          </form>
+          <def>limpet.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e64">
+          <form>
+            <orth>conochgag</orth>
+          </form>
+          <def>seashells.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e73">
+          <form>
+            <orth>leopag</orth>
+          </form>
+          <def>flounder.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e82">
+          <form>
+            <orth>portan</orth>
+          </form>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e88">
+          <form>
+            <orth>liaghag</orth>
+          </form>
+          <def>seaweed going to and fro.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e97">
+          <form>
+            <orth>creachan</orth>
+          </form>
+          <def>clams.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e105">2. A’ tional maorach</head>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_AnonymousBmaorach-d0e109">3. Beathaichean eile a gheibhear ’sa’ chladach</head>
+      </div>
+    </body>
+  </text>
 </TEI>

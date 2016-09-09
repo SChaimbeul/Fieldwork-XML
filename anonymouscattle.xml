@@ -1,228 +1,228 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CattleandSheep_anonymouscattle">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: the only information on the first page: Sent [?] January 1969, 1st List.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>January 1969 [?]</date>
-         </creation>
-         <particDesc>
-            <person role="informant">
-               <persName>anonymous</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Cattle</term>
-               <term>Crodh</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="CattleandSheep_anonymouscattle-d0e23"
-            >1. Different stages in the growth of cattle</head>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e28">
-            <form>
-               <orth>damh</orth>
-            </form>
-            <def>bullock.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e37">
-            <form>
-               <orth>gamhainn</orth>
-            </form>
-            <def>year old stirk.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_anonymouscattle-d0e45"
-            >2. Breeds of cattle</head>
-         <head
-             xml:id="CattleandSheep_anonymouscattle-d0e49"
-            >3. Outward appearance of cattle</head>
-         <head
-             xml:id="CattleandSheep_anonymouscattle-d0e53"
-            >4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</head>
-         <head
-             xml:id="CattleandSheep_anonymouscattle-d0e57"
-            >5. Parts of the body</head>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e62">
-            <form>
-               <orth>ceann</orth>
-            </form>
-            <def>head.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e71">
-            <form>
-               <orth>muineal</orth>
-            </form>
-            <def>neck.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e80">
-            <form>
-               <orth>adharc</orth>
-            </form>
-            <def>horns.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e89">
-            <form>
-               <orth>beul</orth>
-            </form>
-            <def>mouth.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e98">
-            <form>
-               <orth>gruaidh</orth>
-            </form>
-            <def>hair.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e107">
-            <form>
-               <orth>guaillan</orth>
-            </form>
-            <def>shoulder.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e116">
-            <form>
-               <orth>broillach</orth>
-            </form>
-            <def>breast.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e125">
-            <form>
-               <orth>casan thosaich</orth>
-            </form>
-            <def>forelegs.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e134">
-            <form>
-               <orth>cnaimh-dhruim</orth>
-            </form>
-            <def>backbone.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e143">
-            <form>
-               <orth>toin</orth>
-            </form>
-            <def>hind quarters.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e152">
-            <form>
-               <orth>earball</orth>
-            </form>
-            <def>tail.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e161">
-            <form>
-               <orth>ballan</orth>
-            </form>
-            <def>teats.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e170">
-            <form>
-               <orth>gruainn</orth>
-            </form>
-            <def>liver.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e179">
-            <form>
-               <orth>sgoirnan</orth>
-            </form>
-            <def>gullet.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_anonymouscattle-d0e187"
-            >6. Calving</head>
-         <head
-             xml:id="CattleandSheep_anonymouscattle-d0e191"
-            >7. Milking</head>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e196">
-            <form>
-               <orth>bleoghann</orth>
-            </form>
-            <def>milking.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e205">
-            <form>
-               <orth>goagan</orth>
-            </form>
-            <def>luggie.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_anonymouscattle-d0e213"
-            >8. Feeding</head>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e218">
-            <form>
-               <orth>biadhadh</orth>
-            </form>
-            <def>feeding.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e227">
-            <form>
-               <orth>dha dhorna</orth>
-            </form>
-            <def>hand feeding.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e236">
-            <form>
-               <orth>ionnaltradh</orth>
-            </form>
-            <def>grazing.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e245">
-            <form>
-               <orth>buaichelle</orth>
-            </form>
-            <def>herdsman.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_anonymouscattle-d0e253"
-            >9. Apparatus</head>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e258">
-            <form>
-               <orth>teadhair</orth>
-            </form>
-            <def>tether.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e267">
-            <form>
-               <orth>brangus</orth>
-            </form>
-            <def>tether.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_anonymouscattle-d0e275"
-            >10. Diseases</head>
-         <head
-             xml:id="CattleandSheep_anonymouscattle-d0e279"
-            >11. Miscellaneous</head>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e284">
-            <form>
-               <orth>spreidh</orth>
-            </form>
-            <def>collection of animals.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_anonymouscattle-d0e293">
-            <form>
-               <orth>Thuith i anns an suil chrith</orth>
-            </form>
-            <def>cow stuck in bog.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note xml:lang="en">[NOTES: the only information on the first page: Sent [?] January 1969, 1st List.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date xml:lang="en">January 1969 [?]</date>
+      </creation>
+      <particDesc>
+        <person role="informant">
+          <persName xml:lang="en">anonymous</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Cattle</term>
+          <term>Crodh</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head xml:lang="en" xml:id="CattleandSheep_anonymouscattle-d0e23">1. Different stages in the growth of cattle</head>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e28">
+          <form>
+            <orth>damh</orth>
+          </form>
+          <def>bullock.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e37">
+          <form>
+            <orth>gamhainn</orth>
+          </form>
+          <def>year old stirk.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="CattleandSheep_anonymouscattle-d0e45">2. Breeds of cattle</head>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="CattleandSheep_anonymouscattle-d0e49">3. Outward appearance of cattle</head>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="CattleandSheep_anonymouscattle-d0e53">4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</head>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="CattleandSheep_anonymouscattle-d0e57">5. Parts of the body</head>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e62">
+          <form>
+            <orth>ceann</orth>
+          </form>
+          <def>head.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e71">
+          <form>
+            <orth>muineal</orth>
+          </form>
+          <def>neck.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e80">
+          <form>
+            <orth>adharc</orth>
+          </form>
+          <def>horns.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e89">
+          <form>
+            <orth>beul</orth>
+          </form>
+          <def>mouth.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e98">
+          <form>
+            <orth>gruaidh</orth>
+          </form>
+          <def>hair.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e107">
+          <form>
+            <orth>guaillan</orth>
+          </form>
+          <def>shoulder.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e116">
+          <form>
+            <orth>broillach</orth>
+          </form>
+          <def>breast.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e125">
+          <form>
+            <orth>casan thosaich</orth>
+          </form>
+          <def>forelegs.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e134">
+          <form>
+            <orth>cnaimh-dhruim</orth>
+          </form>
+          <def>backbone.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e143">
+          <form>
+            <orth>toin</orth>
+          </form>
+          <def>hind quarters.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e152">
+          <form>
+            <orth>earball</orth>
+          </form>
+          <def>tail.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e161">
+          <form>
+            <orth>ballan</orth>
+          </form>
+          <def>teats.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e170">
+          <form>
+            <orth>gruainn</orth>
+          </form>
+          <def>liver.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e179">
+          <form>
+            <orth>sgoirnan</orth>
+          </form>
+          <def>gullet.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="CattleandSheep_anonymouscattle-d0e187">6. Calving</head>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="CattleandSheep_anonymouscattle-d0e191">7. Milking</head>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e196">
+          <form>
+            <orth>bleoghann</orth>
+          </form>
+          <def>milking.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e205">
+          <form>
+            <orth>goagan</orth>
+          </form>
+          <def>luggie.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="CattleandSheep_anonymouscattle-d0e213">8. Feeding</head>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e218">
+          <form>
+            <orth>biadhadh</orth>
+          </form>
+          <def>feeding.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e227">
+          <form>
+            <orth>dha dhorna</orth>
+          </form>
+          <def>hand feeding.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e236">
+          <form>
+            <orth>ionnaltradh</orth>
+          </form>
+          <def>grazing.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e245">
+          <form>
+            <orth>buaichelle</orth>
+          </form>
+          <def>herdsman.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="CattleandSheep_anonymouscattle-d0e253">9. Apparatus</head>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e258">
+          <form>
+            <orth>teadhair</orth>
+          </form>
+          <def>tether.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e267">
+          <form>
+            <orth>brangus</orth>
+          </form>
+          <def>tether.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="CattleandSheep_anonymouscattle-d0e275">10. Diseases</head>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="CattleandSheep_anonymouscattle-d0e279">11. Miscellaneous</head>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e284">
+          <form>
+            <orth>spreidh</orth>
+          </form>
+          <def>collection of animals.</def>
+        </entry>
+        <entry xml:id="CattleandSheep_anonymouscattle-d0e293">
+          <form>
+            <orth>Thuith i anns an suil chrith</orth>
+          </form>
+          <def>cow stuck in bog.</def>
+        </entry>
+      </div>
+    </body>
+  </text>
 </TEI>

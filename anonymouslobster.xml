@@ -1,168 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="AssortedFieldworkers_anonymouslobster">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: signed ‘Dolly’, see the comment at the end. She writes the words down ‘as they are pronounced’ putting accents above both vowels and consonants.]</note>
-            <note>[NOTES: second hand. See below for details.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation/>
-         <textClass>
-            <keywords>
-               <term>Lobster-Fishing</term>
-               <term>Iasgach a’ Ghiomaich</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="AssortedFieldworkers_anonymouslobster-d0e17"
-            >The Lobster</head>
-         <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e22">
-            <form>
-               <orth>gimach</orth>
-               <pron>[accent above m]</pron>
-            </form>
-            <def>[accent above m] lobster.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e31">
-            <form>
-               <orth>spóch</orth>
-            </form>
-            <def>claws.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e40">
-            <form>
-               <orth>mhoór</orth>
-            </form>
-            <def>large.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e49">
-            <form>
-               <orth>beack</orth>
-               <pron>[accent above c]</pron>
-            </form>
-            <def>[accent above c] small.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e58">
-            <form>
-               <orth>chown</orth>
-               <pron>[accent above w]</pron>
-            </form>
-            <def>[accent above w] head.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e67">
-            <form>
-               <orth>shemmon</orth>
-               <pron>[accent above first m]</pron>
-            </form>
-            <def>[accent above first m] tail.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e76">
-            <form>
-               <orth>owen</orth>
-               <pron>[accent above w]</pron>
-            </form>
-            <def>[accent above w] eggs.</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_anonymouslobster-d0e84"
-            >The Creel</head>
-         <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e89">
-            <form>
-               <orth>scoolene</orth>
-               <pron>[accent above n]</pron>
-            </form>
-            <def>[accent above n] creel. Ha mi geano [accent above n] scool or scooleén.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e98">
-            <form>
-               <orth>cleéh</orth>
-               <pron>[?]</pron>
-            </form>
-            <def>[?] creel.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e107">
-            <form>
-               <orth>tallípin</orth>
-            </form>
-            <def>the base.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymouslobster-idola40">
-            <form>
-               <orth>[note]</orth>
-               <pron>[ILLUSTRATION in second hand – not clear what it refers to. Also, the illustration on the next page seems to be a reworking of this one.]</pron>
-            </form>
-            <def>[ILLUSTRATION in second hand – not clear what it refers to. Also, the illustration on the next page seems to be a reworking of this one.]</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e125">
-            <form>
-               <orth>sewl</orth>
-               <pron>[accent above w]</pron>
-            </form>
-            <def>[accent above w] the eye.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e134">
-            <form>
-               <orth>towh</orth>
-               <pron>[accent above w]</pron>
-            </form>
-            <def>[accent above w] rope.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e143">
-            <form>
-               <orth>boówer</orth>
-            </form>
-            <def>floats.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e152">
-            <form>
-               <orth>sewl</orth>
-               <pron>[accent above w]</pron>
-            </form>
-            <def>[accent above w] e cleáh [?] door (for admitting hand).</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymouslobster-idola41">
-            <form>
-               <orth>[note]</orth>
-               <pron>[NOTES: the following two items in second hand.]</pron>
-            </form>
-            <def>[NOTES: the following two items in second hand.]</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e170">
-            <form>
-               <orth>bearnaich</orth>
-            </form>
-            <def>limpets, barnacles.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e179">
-            <form>
-               <orth>scaap</orth>
-            </form>
-            <def>enclosure made from boulders, for mussels.
-        <graphic url="anonymouslobsterillust1.jpg" width="200px"/>
-            </def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_anonymouslobster-idola42">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>I put the words down as they are pronounced as I do for Dr Watson. You left it too late. I would need a wee while to think. Sorry, Dolly.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AssortedFieldworkers_anonymouslobster">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note xml:lang="en">[NOTES: signed ‘Dolly’, see the comment at the end. She writes the words down ‘as they are pronounced’ putting accents above both vowels and consonants.]</note>
+        <note xml:lang="en">[NOTES: second hand. See below for details.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Lobster-Fishing</term>
+          <term>Iasgach a’ Ghiomaich</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head xml:lang="en" xml:id="AssortedFieldworkers_anonymouslobster-d0e17">The Lobster</head>
+        <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e22">
+          <form>
+            <orth>gimach</orth>
+          </form>
+          <def>[accent above m] lobster.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e31">
+          <form>
+            <orth>spóch</orth>
+          </form>
+          <def>claws.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e40">
+          <form>
+            <orth>mhoór</orth>
+          </form>
+          <def>large.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e49">
+          <form>
+            <orth>beack</orth>
+          </form>
+          <def>[accent above c] small.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e58">
+          <form>
+            <orth>chown</orth>
+          </form>
+          <def>[accent above w] head.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e67">
+          <form>
+            <orth>shemmon</orth>
+          </form>
+          <def>[accent above first m] tail.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e76">
+          <form>
+            <orth>owen</orth>
+          </form>
+          <def>[accent above w] eggs.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:lang="en" xml:id="AssortedFieldworkers_anonymouslobster-d0e84">The Creel</head>
+        <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e89">
+          <form>
+            <orth>scoolene</orth>
+          </form>
+          <def>[accent above n] creel. Ha mi geano [accent above n] scool or scooleén.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e98">
+          <form>
+            <orth>cleéh</orth>
+          </form>
+          <def>[?] creel.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e107">
+          <form>
+            <orth>tallípin</orth>
+          </form>
+          <def>the base.</def>
+        </entry>
+        <note xml:lang="en">[ILLUSTRATION in second hand – not clear what it refers to. Also, the illustration on the next page seems to be a reworking of this one.]</note>
+        <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e125">
+          <form>
+            <orth>sewl</orth>
+          </form>
+          <def>[accent above w] the eye.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e134">
+          <form>
+            <orth>towh</orth>
+          </form>
+          <def>[accent above w] rope.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e143">
+          <form>
+            <orth>boówer</orth>
+          </form>
+          <def>floats.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e152">
+          <form>
+            <orth>sewl</orth>
+          </form>
+          <def>[accent above w] e cleáh [?] door (for admitting hand).</def>
+        </entry>
+        <note xml:lang="en">[NOTES: the following two items in second hand.]</note>
+        <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e170">
+          <form>
+            <orth>bearnaich</orth>
+          </form>
+          <def>limpets, barnacles.</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_anonymouslobster-d0e179">
+          <form>
+            <orth>scaap</orth>
+          </form>
+          <def>enclosure made from boulders, for mussels. <graphic url="anonymouslobsterillust1.jpg" width="200px"/>
+          </def>
+        </entry>
+        <note xml:lang="en">I put the words down as they are pronounced as I do for Dr Watson. You left it too late. I would need a wee while to think. Sorry, Dolly.</note>
+      </div>
+    </body>
+  </text>
 </TEI>
