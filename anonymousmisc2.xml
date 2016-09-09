@@ -1,287 +1,286 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Word-lists_anonymousmisc2">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <location>
-               <placeName>[various]</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="informant">
-               <persName>various</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Word-lists_anonymousmisc2-idm5231704">
-            <form>
-               <orth>alchag</orth>
-            </form>
-            <def>cnap fiodha air am biodh tu a’ gearradh bhioranan – ‘chopping block’.</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm5234656">
-            <form>
-               <orth>breaban</orth>
-            </form>
-            <def>bonn broige. Cf. “Diluain nam breaban”. (Leòdhas, A’ Chanraich)</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm5238184">
-            <form>
-               <orth>cailleach-ribeach</orth>
-            </form>
-            <def>rud a bha fàs am beul bà. (Na Hearadh)</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm5242072">
-            <form>
-               <orth>coileach-gòthan</orth>
-            </form>
-            <def>buntàta le itean air an stobadh ann. Bhidhte cluich leis air là gaothach. “Shuttlecock”. (Tiriodh)</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm5217016">
-            <form>
-               <orth>dalannag</orth>
-            </form>
-            <def>preas beag sa bhalla far am biodh rudan prìseil gan cumail. (Tiriodh)</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm5215504">
-            <form>
-               <orth>fàsag</orth>
-            </form>
-            <def>tùc giola. (A’ Chanraich)</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm5213992">
-            <form>
-               <orth>freòdag</orth>
-            </form>
-            <def>chan eil fhios fhathast dé ’s ciall dhan fhacal-sa – crux interpretationis, mar a their na sgoilearan!</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm5212480">
-            <form>
-               <orth>imideal</orth>
-            </form>
-            <def>pìos craiceann-caora bhidhte ceangal air uachdar péile-bainne. (Leódhas)</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm5210968">
-            <form>
-               <orth>gòlaidean (pl.)</orth>
-            </form>
-            <def>rudan beag – seadh ‘falderals’. (An t-E. Sgitheanach)</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm5209384">
-            <form>
-               <orth>gòm</orth>
-            </form>
-            <def>galar-chearc. (An t-E. Sg.)</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm5207872">
-            <form>
-               <orth>gràinneag</orth>
-            </form>
-            <def>hedgehog. (Tìr-mór)</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm5204848">
-            <form>
-               <orth>leogan</orth>
-            </form>
-            <def>clach bheag chaol. Cf. leum-bogan. (Leódhas)</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm5203336">
-            <form>
-               <orth>leatraigeis</orth>
-            </form>
-            <def>bhon Bheurla ‘letter-case’ – ‘wallet’. (An t-E. Sg.)</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm5201752">
-            <form>
-               <orth>nùs</orth>
-            </form>
-            <def>ceudbhainne. (Na h-Eileanan [?])</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm5200240">
-            <form>
-               <orth>paileirìn</orth>
-            </form>
-            <def>cleòca boireannaich; bhon Bheurla ‘pelerine’, bhon Fhraingis ‘pèlerine’.</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm5198728">
-            <form>
-               <orth>pùlas</orth>
-            </form>
-            <def>làmh poit no peile. (A’ Mhorbhairne) (Thall ’s a-bhos)</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm5197216">
-            <form>
-               <orth>sgreamhal</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm5195704">
-            <form>
-               <orth>siobanachadh</orth>
-            </form>
-            <def>a’ bleoghann bà ’s a’ toirt nan stideagan mu dheireadh bhuaipe – ’ga tiormachadh. (Uibhist)</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm5194192">
-            <form>
-               <orth>spuilgean</orth>
-            </form>
-            <def>crux interpretationis eile.</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm5192680">
-            <form>
-               <orth>spùisil</orth>
-            </form>
-            <def>pòcaid ann an cliathaich còta drògaid. (Uige Leódhais)</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm5191096">
-            <form>
-               <orth>sgurag</orth>
-            </form>
-            <def>packed lunch. (Nis)</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm5189584">
-            <form>
-               <orth>sgorag</orth>
-            </form>
-            <def>putag cas-chaibe. (A’ Chanraich)</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm5186560">
-            <form>
-               <orth>sgreagag</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm5185048">
-            <form>
-               <orth>carcair</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm116957040">
-            <form>
-               <orth>sgolpan</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm116959920">
-            <form>
-               <orth>sgalpan (Back)</orth>
-               <pron>[See sgolpan.]</pron>
-            </form>
-            <def>[See sgolpan.]</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm116971008">
-            <form>
-               <orth>ròmag</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm116952288">
-            <form>
-               <orth>laosbagan</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm116949552">
-            <form>
-               <orth>siriste</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm116947176">
-            <form>
-               <orth>rungach</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm116945736">
-            <form>
-               <orth>pribide</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm116944296">
-            <form>
-               <orth>pàm i</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm116939256">
-            <form>
-               <orth>corrasbacan</orth>
-            </form>
-            <def>hindrance. (Barvas)</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm116938680">
-            <form>
-               <orth>truimeasanaich</orth>
-            </form>
-            <def>nodding off. (Barvas)</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm116936232">
-            <form>
-               <orth>rasanta</orth>
-            </form>
-            <def>aggressive in manner. (Barvas)</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm116935944">
-            <form>
-               <orth>cailleach-ribeach</orth>
-            </form>
-            <def>growth in the mouth of a cow. (Harris)</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm116933568">
-            <form>
-               <orth>imideal</orth>
-            </form>
-            <def>piece of sheepskin stretched over mouth of milk-pail.</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm116932128">
-            <form>
-               <orth>speilean</orth>
-            </form>
-            <def>game like rounders. (Harris)</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm116930400">
-            <form>
-               <orth>paileirìn</orth>
-            </form>
-            <def>(Morvern) Dh’ith e iomadh rud nach inns [?] mi / Bh’air an ròpa aig Catrìona / Aodach anairt a bha prìseil / Dh’ith e trì dhiubh, is paileirìn.</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm116925792">
-            <form>
-               <orth>sgurag</orth>
-            </form>
-            <def>biadh a bheireadh tu leat na mhonadh, no a’ dol a-mach ann am bàta. (Nis)</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm116924640">
-            <form>
-               <orth>sgorag</orth>
-            </form>
-            <def>“a’ phutag” air cas-chrom, an rud air an robh thu a’ cur do choise. (Ach tha corra chiall eile aig Dwelly.)</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm116924136">
-            <form>
-               <orth>sgàinteagan (pl.)</orth>
-            </form>
-            <def>buachar mairt air a thiormachadh air son connadh. (Tiriodh)</def>
-         </entry>
-         <entry xml:id="Word-lists_anonymousmisc2-idm116921688">
-            <form>
-               <orth>sùil-dhìleas</orth>
-            </form>
-            <def>‘bean-taighe’, ‘housekeeper’. (Leódhas, an t-E. Sg.)</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location>
+          <placeName xml:lang="en">[various]</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="informant">
+          <persName xml:lang="en">various</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Word-lists_anonymousmisc2-idm5231704">
+        <form>
+          <orth>alchag</orth>
+        </form>
+        <def>cnap fiodha air am biodh tu a’ gearradh bhioranan – ‘chopping block’.</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm5234656">
+        <form>
+          <orth>breaban</orth>
+        </form>
+        <def>bonn broige. Cf. “Diluain nam breaban”. (Leòdhas, A’ Chanraich)</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm5238184">
+        <form>
+          <orth>cailleach-ribeach</orth>
+        </form>
+        <def>rud a bha fàs am beul bà. (Na Hearadh)</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm5242072">
+        <form>
+          <orth>coileach-gòthan</orth>
+        </form>
+        <def>buntàta le itean air an stobadh ann. Bhidhte cluich leis air là gaothach. “Shuttlecock”. (Tiriodh)</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm5217016">
+        <form>
+          <orth>dalannag</orth>
+        </form>
+        <def>preas beag sa bhalla far am biodh rudan prìseil gan cumail. (Tiriodh)</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm5215504">
+        <form>
+          <orth>fàsag</orth>
+        </form>
+        <def>tùc giola. (A’ Chanraich)</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm5213992">
+        <form>
+          <orth>freòdag</orth>
+        </form>
+        <def>chan eil fhios fhathast dé ’s ciall dhan fhacal-sa – crux interpretationis, mar a their na sgoilearan!</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm5212480">
+        <form>
+          <orth>imideal</orth>
+        </form>
+        <def>pìos craiceann-caora bhidhte ceangal air uachdar péile-bainne. (Leódhas)</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm5210968">
+        <form>
+          <orth>gòlaidean (pl.)</orth>
+        </form>
+        <def>rudan beag – seadh ‘falderals’. (An t-E. Sgitheanach)</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm5209384">
+        <form>
+          <orth>gòm</orth>
+        </form>
+        <def>galar-chearc. (An t-E. Sg.)</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm5207872">
+        <form>
+          <orth>gràinneag</orth>
+        </form>
+        <def>hedgehog. (Tìr-mór)</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm5204848">
+        <form>
+          <orth>leogan</orth>
+        </form>
+        <def>clach bheag chaol. Cf. leum-bogan. (Leódhas)</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm5203336">
+        <form>
+          <orth>leatraigeis</orth>
+        </form>
+        <def>bhon Bheurla ‘letter-case’ – ‘wallet’. (An t-E. Sg.)</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm5201752">
+        <form>
+          <orth>nùs</orth>
+        </form>
+        <def>ceudbhainne. (Na h-Eileanan [?])</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm5200240">
+        <form>
+          <orth>paileirìn</orth>
+        </form>
+        <def>cleòca boireannaich; bhon Bheurla ‘pelerine’, bhon Fhraingis ‘pèlerine’.</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm5198728">
+        <form>
+          <orth>pùlas</orth>
+        </form>
+        <def>làmh poit no peile. (A’ Mhorbhairne) (Thall ’s a-bhos)</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm5197216">
+        <form>
+          <orth>sgreamhal</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm5195704">
+        <form>
+          <orth>siobanachadh</orth>
+        </form>
+        <def>a’ bleoghann bà ’s a’ toirt nan stideagan mu dheireadh bhuaipe – ’ga tiormachadh. (Uibhist)</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm5194192">
+        <form>
+          <orth>spuilgean</orth>
+        </form>
+        <def>crux interpretationis eile.</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm5192680">
+        <form>
+          <orth>spùisil</orth>
+        </form>
+        <def>pòcaid ann an cliathaich còta drògaid. (Uige Leódhais)</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm5191096">
+        <form>
+          <orth>sgurag</orth>
+        </form>
+        <def>packed lunch. (Nis)</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm5189584">
+        <form>
+          <orth>sgorag</orth>
+        </form>
+        <def>putag cas-chaibe. (A’ Chanraich)</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm5186560">
+        <form>
+          <orth>sgreagag</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm5185048">
+        <form>
+          <orth>carcair</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm116957040">
+        <form>
+          <orth>sgolpan</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm116959920">
+        <form>
+          <orth>sgalpan (Back)</orth>
+        </form>
+        <def>[See sgolpan.]</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm116971008">
+        <form>
+          <orth>ròmag</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm116952288">
+        <form>
+          <orth>laosbagan</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm116949552">
+        <form>
+          <orth>siriste</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm116947176">
+        <form>
+          <orth>rungach</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm116945736">
+        <form>
+          <orth>pribide</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm116944296">
+        <form>
+          <orth>pàm i</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm116939256">
+        <form>
+          <orth>corrasbacan</orth>
+        </form>
+        <def>hindrance. (Barvas)</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm116938680">
+        <form>
+          <orth>truimeasanaich</orth>
+        </form>
+        <def>nodding off. (Barvas)</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm116936232">
+        <form>
+          <orth>rasanta</orth>
+        </form>
+        <def>aggressive in manner. (Barvas)</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm116935944">
+        <form>
+          <orth>cailleach-ribeach</orth>
+        </form>
+        <def>growth in the mouth of a cow. (Harris)</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm116933568">
+        <form>
+          <orth>imideal</orth>
+        </form>
+        <def>piece of sheepskin stretched over mouth of milk-pail.</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm116932128">
+        <form>
+          <orth>speilean</orth>
+        </form>
+        <def>game like rounders. (Harris)</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm116930400">
+        <form>
+          <orth>paileirìn</orth>
+        </form>
+        <def>(Morvern) Dh’ith e iomadh rud nach inns [?] mi / Bh’air an ròpa aig Catrìona / Aodach anairt a bha prìseil / Dh’ith e trì dhiubh, is paileirìn.</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm116925792">
+        <form>
+          <orth>sgurag</orth>
+        </form>
+        <def>biadh a bheireadh tu leat na mhonadh, no a’ dol a-mach ann am bàta. (Nis)</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm116924640">
+        <form>
+          <orth>sgorag</orth>
+        </form>
+        <def>“a’ phutag” air cas-chrom, an rud air an robh thu a’ cur do choise. (Ach tha corra chiall eile aig Dwelly.)</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm116924136">
+        <form>
+          <orth>sgàinteagan (pl.)</orth>
+        </form>
+        <def>buachar mairt air a thiormachadh air son connadh. (Tiriodh)</def>
+      </entry>
+      <entry xml:id="Word-lists_anonymousmisc2-idm116921688">
+        <form>
+          <orth>sùil-dhìleas</orth>
+        </form>
+        <def>‘bean-taighe’, ‘housekeeper’. (Leódhas, an t-E. Sg.)</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

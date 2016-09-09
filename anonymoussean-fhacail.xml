@@ -1,359 +1,321 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="DRMorrisonetal_anonymoussean-fhacail">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation/>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>?</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-idola317">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>(Tha mi duilich nach ’eil móran de sheann fhacail agam.)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e25">
-            <form>
-               <orth>1. Motha’s mór is motha’s beag</orth>
-            </form>
-            <def>Tha muinntir Bhun-easain an am Muile ag misneachadh so airson tuilleadh ’s mór agus tuilleadh ’s beag.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e34">
-            <form>
-               <orth>2. Athaisg</orth>
-            </form>
-            <def>bó air a droch bhiadhadh.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e43">
-            <form>
-               <orth>3. Saor nan daor?</orth>
-            </form>
-            <def>ainm a bha air a thoirt do chloich iaruinn a bha a’ gliongartaich ’nuair a bha i air a’ buaileadh. (Muile)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e52">
-            <form>
-               <orth>4. àthsaig</orth>
-            </form>
-            <def>tools.</def>
-         </entry>
-         <head
-             xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e61"
-            >SEAN-FHACAIL</head>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e67">
-            <form>
-               <orth>[Seanfhacal 1]</orth>
-            </form>
-            <def>Dà thràth ri solus coinnle. (Air a ràdh mu sgalagan is eile air baile fearainn nach robh a’ faotainn ach dà thràth – bidhe ’s a’ gheamhradh.)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e76">
-            <form>
-               <orth>[Seanfhacal 2]</orth>
-            </form>
-            <def>Deoch eadar dà eas agus biadh eadar dà bhaile. (Air a ràdh mu luchd-siubhail ’s an t-uisge ’s am biadh gu math gann.)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e85">
-            <form>
-               <orth>[Seanfhacal 3]</orth>
-            </form>
-            <def>Gaoth tuath is airgiod odhar. (Air a ràdh le Tiriodich a bha am feum fuireachd ann an Tobar-mhoire na b’ fhaide na bha a dhìth orra ri linn nam bàtaichean seòlaidh o’n a bha gaoth tuath a’ séideadh a steach do acarsaid Thobair-mhoire.)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e94">
-            <form>
-               <orth>[Seanfhacal 4]</orth>
-            </form>
-            <def>Biodh sibh-se a’ deanamh deas; tha mise aige có dhiubh. (Cailleach ann an Uibhist agus i a’ faicinn “bicycle” air son na ceud uair.)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e103">
-            <form>
-               <orth>[Seanfhacal 5]</orth>
-            </form>
-            <def>Fhad’s a bhios ceò air Cruachan, cha bhi pathadh air Urchaidh.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e109">
-            <form>
-               <orth>[Seanfhacal 6]</orth>
-            </form>
-            <def>Fasan muinntir Loch Odha, am bréidean odhar a thionndadh.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e115">
-            <form>
-               <orth>[Seanfhacal 7]</orth>
-            </form>
-            <def>’Nuair bhios am bradan mu thuath, bithidh Donnchadh ruadh mu dheas.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e121">
-            <form>
-               <orth>[Seanfhacal 8]</orth>
-            </form>
-            <def>Cho fad’s a mhaireas, maireadh; ’nuair bhios sinn falamh, bithidh sinn ann.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e127">
-            <form>
-               <orth>[Seanfhacal 9]</orth>
-            </form>
-            <def>An rud a dh’fhalbh, cha ’n e dh’fhòghnas.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e133">
-            <form>
-               <orth>[Seanfhacal 10]</orth>
-            </form>
-            <def>Dia rathaid is diabhol teallaich. (Fear a tha suilbhireach a muigh agus mosach aig an tigh.)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e142">
-            <form>
-               <orth>[Seanfhacal 11]</orth>
-            </form>
-            <def>Cur is cathadh ’s gaoth ’ga reothadh.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e148">
-            <form>
-               <orth>[Seanfhacal 12]</orth>
-            </form>
-            <def>Rìgh nan corra-chagailt [?] agus ceann-feadhna nan deargan.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e154">
-            <form>
-               <orth>[Seanfhacal 13]</orth>
-            </form>
-            <def>Mar chloich a’ ruith le gleann, feasgar feann fogharaidh.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e160">
-            <form>
-               <orth>[Seanfhacal 14]</orth>
-            </form>
-            <def>Meal is caith. (Air a ràdh ’nuair a gheibheadh duine bad ùr aodaich.)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e169">
-            <form>
-               <orth>[Seanfhacal 15]</orth>
-            </form>
-            <def>Nan robh ubh aca, nach iad a dheanadh an gog!</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e175">
-            <form>
-               <orth>[Seanfhacal 16]</orth>
-            </form>
-            <def>Camshronaich bhog an ime, sliomairean a’ chàise.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e181">
-            <form>
-               <orth>[Seanfhacal 17]</orth>
-            </form>
-            <def>Cloinn Phàrlain an eich bhric nach robh glic riamh!</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e187">
-            <form>
-               <orth>[Seanfhacal 18]</orth>
-            </form>
-            <def>Éiridh a’ ghrian air Beinn Shiant fhathasd. (Air a ràdh le muinntir Thobair-mhoire ’nuair bhiodh iad fo dhìobhail misnich.)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e196">
-            <form>
-               <orth>[Seanfhacal 19]</orth>
-            </form>
-            <def>Na luingeis mhóra a’ crìonadh ’s na h-amair mhùin a’ seòladh.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e202">
-            <form>
-               <orth>[Seanfhacal 20]</orth>
-            </form>
-            <def>’S mór a’ chainnt nach faodar éisdeachd.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e208">
-            <form>
-               <orth>[Seanfhacal 21]</orth>
-            </form>
-            <def>As an teine do’n ghrìosaich.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e214">
-            <form>
-               <orth>[Seanfhacal 22]</orth>
-            </form>
-            <def>Tha ’n seillean fo dhìon; thig gaillionn is sian.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e220">
-            <form>
-               <orth>[Seanfhacal 23]</orth>
-            </form>
-            <def>Dì-choimhead sìor choimhead Mhuc-càrna. (Dì-choimhead monadh ann an Gleann Lonain.)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e229">
-            <form>
-               <orth>[Seanfhacal 24]</orth>
-            </form>
-            <def>Ceò geamhraidh; cathadh earraich.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e235">
-            <form>
-               <orth>[Seanfhacal 25]</orth>
-            </form>
-            <def>Cha ’n ’eil toll ni mise anns nach cur ise cnag.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e241">
-            <form>
-               <orth>[Seanfhacal 26]</orth>
-            </form>
-            <def>Muinntir Mhuc-Càrna; buntàta ’s tì.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e247">
-            <form>
-               <orth>[Seanfhacal 27]</orth>
-            </form>
-            <def>’S fhèairrde duine breugach fianuis.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e253">
-            <form>
-               <orth>[Seanfhacal 28]</orth>
-            </form>
-            <def>Gearra-ghobaich gun mhodh, gun oilean, coillearan Mhuc-càrna.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e259">
-            <form>
-               <orth>[Seanfhacal 29]</orth>
-            </form>
-            <def>Rìgh O’ Rogamais agus Ban-rìgh O’ Theagamais. (Fhuair mi so o chionn fhada o m’ bhràthair-céile mu Dhùn Ghiorgadail. Tha an dùn os cionn Thobair-mhoire air an rathad do Shòrn agus ma’s fhìor gu’m b’iad so a bha os cionn a’ ghnothaich ’nuair a bha daoine a’ fuireachadh anns an Dùn.)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e268">
-            <form>
-               <orth>[Seanfhacal 30]</orth>
-            </form>
-            <def>Cha ’n ’eil nì ’ga cumail ri chéile ach meirg agus stur na mine. (Air a ràdh mu’n bhàta ris an abradh iad an “Dunara”.)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e274">
-            <form>
-               <orth>[Seanfhacal 31]</orth>
-            </form>
-            <def>’Nuair a thig an dubh ’s an geal do Mhuc-Càrna, théid an saoghal gu frì-frà.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e280">
-            <form>
-               <orth>[Seanfhacal 32]</orth>
-            </form>
-            <def>B’fheàirrde e goil no dhà eile. (Air a ràdh mu dhaoine a tha caran amh ’nan dòighean.)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e289">
-            <form>
-               <orth>[Seanfhacal 33]</orth>
-            </form>
-            <def>Sùgh an eòrna, fear mo chaoimhneis; cha bhi foighneachd mu a phrìs.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e295">
-            <form>
-               <orth>[Seanfhacal 34]</orth>
-            </form>
-            <def>Mu’n robh Pàp anns an Ròimh, gu’n robh Fiantainnean làidir an Cinn-tàile nam bò.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e301">
-            <form>
-               <orth>[Seanfhacal 35]</orth>
-            </form>
-            <def>Is fheàrr tighinn anmoch na bhi gun tighinn idir.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e307">
-            <form>
-               <orth>[Seanfhacal 36]</orth>
-            </form>
-            <def>Bonnach air bois, cha bhruich ’s cha loisg.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e313">
-            <form>
-               <orth>[Seanfhacal 37]</orth>
-            </form>
-            <def>Is lìonmhor bean-bhleoghainn ach is tearc banachag.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e319">
-            <form>
-               <orth>[Seanfhacal 38]</orth>
-            </form>
-            <def>An rud nach tug ’s nach d’thàinig dhachaidh, grùdhan na h-earba gun bhrachadh.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e325">
-            <form>
-               <orth>[Seanfhacal 39]</orth>
-            </form>
-            <def>Ge b’e gheibheadh a roghainn is mairg a thaghadh an diù.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e331">
-            <form>
-               <orth>[Seanfhacal 40]</orth>
-            </form>
-            <def>Am bronnach geamhraidh ’s an seang earraich (cuma gamhna).</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e337">
-            <form>
-               <orth>[Seanfhacal 41]</orth>
-            </form>
-            <def>Ceann mór ’s amhach chaol, aogasg an droch ghamhna.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e343">
-            <form>
-               <orth>[Seanfhacal 42]</orth>
-            </form>
-            <def>Tha teas na luaithre ’na lurgainn.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e349">
-            <form>
-               <orth>[Seanfhacal 43]</orth>
-            </form>
-            <def>Ceannsaichidh a h-uile fear an droch bhean ach am fear aig am bi i.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e355">
-            <form>
-               <orth>[Seanfhacal 43 (sic)] </orth>
-            </form>
-            <def>Is feàrr sgìos chas na sgìos meanmna.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e361">
-            <form>
-               <orth>[Seanfhacal 44]</orth>
-            </form>
-            <def>Théid an fheala-dhà gu a feala-trì.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e367">
-            <form>
-               <orth>[Seanfhacal 45]</orth>
-            </form>
-            <def>Mur b’e eagal [?] an dà mhàil, bheireadh Tiridhe an dà bhàrr.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e373">
-            <form>
-               <orth>[Seanfhacal 46]</orth>
-            </form>
-            <def>Is tùs a’ ghliocais eagal Dé.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e379">
-            <form>
-               <orth>[Seanfhacal 47]</orth>
-            </form>
-            <def>Sliochd nan trì fichead burraidh – Clann Chaluim nam Barran – taobh Loch Éite (mo shinnsearachd).</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DRMorrisonetal_anonymoussean-fhacail">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <particDesc>
+        <person role="fieldworker">
+          <persName xml:lang="en">[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>?</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note>(Tha mi duilich nach ’eil móran de sheann fhacail agam.)</note>
+      <div>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e25" n="1">
+          <form>
+            <orth>Motha’s mór is motha’s beag</orth>
+          </form>
+          <def>Tha muinntir Bhun-easain an am Muile ag misneachadh so airson tuilleadh ’s mór agus tuilleadh ’s beag.</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e34" n="2">
+          <form>
+            <orth>Athaisg</orth>
+          </form>
+          <def>bó air a droch bhiadhadh</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e43" n="3">
+          <form>
+            <orth>Saor nan daor?</orth>
+          </form>
+          <def>ainm a bha air a thoirt do chloich iaruinn a bha a’ gliongartaich ’nuair a bha i air a’ buaileadh. (Muile)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e52" n="4">
+          <form>
+            <orth>àthsaig</orth>
+          </form>
+          <def>tools</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e61">SEAN-FHACAIL</head>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e67" n="1">
+          <form>
+            <orth>Dà thràth ri solus coinnle.</orth>
+          </form>
+          <def>(Air a ràdh mu sgalagan is eile air baile fearainn nach robh a’ faotainn ach dà thràth – bidhe ’s a’ gheamhradh.)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e76" n="2">
+          <form>
+            <orth>Deoch eadar dà eas agus biadh eadar dà bhaile.</orth>
+          </form>
+          <def>(Air a ràdh mu luchd-siubhail ’s an t-uisge ’s am biadh gu math gann.)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e85" n="3">
+          <form>
+            <orth>Gaoth tuath is airgiod odhar.</orth>
+          </form>
+          <def>(Air a ràdh le Tiriodich a bha am feum fuireachd ann an Tobar-mhoire na b’ fhaide na bha a dhìth orra ri linn nam bàtaichean seòlaidh o’n a bha gaoth tuath
+            a’ séideadh a steach do acarsaid Thobair-mhoire.)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e94" n="4">
+          <form>
+            <orth>Biodh sibh-se a’ deanamh deas; tha mise aige có dhiubh.</orth>
+          </form>
+          <def>(Cailleach ann an Uibhist agus i a’ faicinn “bicycle” air son na ceud uair.)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e103" n="5">
+          <form>
+            <orth>Fhad’s a bhios ceò air Cruachan, cha bhi pathadh air Urchaidh.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e109" n="6">
+          <form>
+            <orth>Fasan muinntir Loch Odha, am bréidean odhar a thionndadh.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e115" n="7">
+          <form>
+            <orth>’Nuair bhios am bradan mu thuath, bithidh Donnchadh ruadh mu dheas.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e121" n="8">
+          <form>
+            <orth>Cho fad’s a mhaireas, maireadh; ’nuair bhios sinn falamh, bithidh sinn ann.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e127" n="9">
+          <form>
+            <orth>An rud a dh’fhalbh, cha ’n e dh’fhòghnas.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e133" n="10">
+          <form>
+            <orth>Dia rathaid is diabhol teallaich.</orth>
+          </form>
+          <def>(Fear a tha suilbhireach a muigh agus mosach aig an tigh.)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e142" n="11">
+          <form>
+            <orth>Cur is cathadh ’s gaoth ’ga reothadh.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e148" n="12">
+          <form>
+            <orth>Rìgh nan corra-chagailt [?] agus ceann-feadhna nan deargan.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e154" n="13">
+          <form>
+            <orth>Mar chloich a’ ruith le gleann, feasgar feann fogharaidh.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e160" n="14">
+          <form>
+            <orth>Meal is caith.</orth>
+          </form>
+          <def>(Air a ràdh ’nuair a gheibheadh duine bad ùr aodaich.)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e169" n="15">
+          <form>
+            <orth>Nan robh ubh aca, nach iad a dheanadh an gog!</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e175" n="16">
+          <form>
+            <orth>Camshronaich bhog an ime, sliomairean a’ chàise.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e181" n="17">
+          <form>
+            <orth>Cloinn Phàrlain an eich bhric nach robh glic riamh!</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e187" n="18">
+          <form>
+            <orth>Éiridh a’ ghrian air Beinn Shiant fhathasd. </orth>
+          </form>
+          <def>(Air a ràdh le muinntir Thobair-mhoire ’nuair bhiodh iad fo dhìobhail misnich.)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e196" n="19">
+          <form>
+            <orth>Na luingeis mhóra a’ crìonadh ’s na h-amair mhùin a’ seòladh.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e202" n="20">
+          <form>
+            <orth>’S mór a’ chainnt nach faodar éisdeachd.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e208" n="21">
+          <form>
+            <orth>As an teine do’n ghrìosaich.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e214" n="22">
+          <form>
+            <orth>Tha ’n seillean fo dhìon; thig gaillionn is sian.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e220" n="23">
+          <form>
+            <orth>Dì-choimhead sìor choimhead Mhuc-càrna.</orth>
+          </form>
+          <def>(Dì-choimhead monadh ann an Gleann Lonain.)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e229" n="24">
+          <form>
+            <orth>Ceò geamhraidh; cathadh earraich.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e235" n="25">
+          <form>
+            <orth>Cha ’n ’eil toll ni mise anns nach cur ise cnag.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e241" n="26">
+          <form>
+            <orth>Muinntir Mhuc-Càrna; buntàta ’s tì.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e247" n="27">
+          <form>
+            <orth>’S fhèairrde duine breugach fianuis.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e253" n="28">
+          <form>
+            <orth>Gearra-ghobaich gun mhodh, gun oilean, coillearan Mhuc-càrna.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e259" n="29">
+          <form>
+            <orth>Rìgh O’ Rogamais agus Ban-rìgh O’ Theagamais.</orth>
+          </form>
+          <def>(Fhuair mi so o chionn fhada o m’ bhràthair-céile mu Dhùn Ghiorgadail. Tha an dùn os cionn Thobair-mhoire air an rathad do Shòrn agus ma’s
+            fhìor gu’m b’iad so a bha os cionn a’ ghnothaich ’nuair a bha daoine a’ fuireachadh anns an Dùn.)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e268" n="30">
+          <form>
+            <orth>Cha ’n ’eil nì ’ga cumail ri chéile ach meirg agus stur na mine.</orth>
+          </form>
+          <def>(Air a ràdh mu’n bhàta ris an abradh iad an “Dunara”.)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e274" n="31">
+          <form>
+            <orth>’Nuair a thig an dubh ’s an geal do Mhuc-Càrna, théid an saoghal gu frì-frà.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e280" n="32">
+          <form>
+            <orth>B’fheàirrde e goil no dhà eile.</orth>
+          </form>
+          <def>(Air a ràdh mu dhaoine a tha caran amh ’nan dòighean.)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e289" n="33">
+          <form>
+            <orth>Sùgh an eòrna, fear mo chaoimhneis; cha bhi foighneachd mu a phrìs.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e295" n="34">
+          <form>
+            <orth>Mu’n robh Pàp anns an Ròimh, gu’n robh Fiantainnean làidir an Cinn-tàile nam bò.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e301" n="35">
+          <form>
+            <orth>Is fheàrr tighinn anmoch na bhi gun tighinn idir.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e307" n="36>
+          <form>
+            <orth>Bonnach air bois, cha bhruich ’s cha loisg.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e313" n="37">
+          <form>
+            <orth>Is lìonmhor bean-bhleoghainn ach is tearc banachag.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e319" n="38">
+          <form>
+            <orth>An rud nach tug ’s nach d’thàinig dhachaidh, grùdhan na h-earba gun bhrachadh.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e325" n="39">
+          <form>
+            <orth>Ge b’e gheibheadh a roghainn is mairg a thaghadh an diù.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e331" n="40">
+          <form>
+            <orth>Am bronnach geamhraidh ’s an seang earraich.</orth>
+          </form>
+          <def>(cuma gamhna).</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e337" n="41">
+          <form>
+            <orth>Ceann mór ’s amhach chaol, aogasg an droch ghamhna.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e343" n="42">
+          <form>
+            <orth>Tha teas na luaithre ’na lurgainn.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e349" n="43">
+          <form>
+            <orth>Ceannsaichidh a h-uile fear an droch bhean ach am fear aig am bi i.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e355" n="43"> <!-- duplicate number -->
+          <form>
+            <orth>Is feàrr sgìos chas na sgìos meanmna.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e361" n="44">
+          <form>
+            <orth>Théid an fheala-dhà gu a feala-trì.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e367" n="45">
+          <form>
+            <orth>Mur b’e eagal [?] an dà mhàil, bheireadh Tiridhe an dà bhàrr.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e373" n="46">
+          <form>
+            <orth>Is tùs a’ ghliocais eagal Dé.</orth>
+          </form>
+        </entry>
+        <entry xml:id="DRMorrisonetal_anonymoussean-fhacail-d0e379" n="47">
+          <form>
+            <orth>Sliochd nan trì fichead burraidh – Clann Chaluim nam Barran – taobh Loch Éite (mo shinnsearachd).</orth>
+          </form>
+        </entry>
+      </div>
+    </body>
+  </text>
 </TEI>
