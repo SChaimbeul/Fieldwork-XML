@@ -1,87 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="Slips_BruernishRMacPhersonslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>02/1969</date>
-            <location>
-               <placeName>Barra, Bruernish</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[AJ Smith?]</persName>
-            </person>
-            <person role="informant">
-               <persName>Roderick MacPherson</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_BruernishRMacPhersonslips-idp161830992">
-            <form>
-               <orth>màirnealaich</orth>
-            </form>
-            <def>Quotation: a’ màirnealachadh. Notes: weather forecasting.</def>
-         </entry>
-         <entry xml:id="Slips_BruernishRMacPhersonslips-idp161832648">
-            <form>
-               <orth>saor-dubh</orth>
-            </form>
-            <def>Notes: carpenter.</def>
-         </entry>
-         <entry xml:id="Slips_BruernishRMacPhersonslips-idp161834160">
-            <form>
-               <orth>saothair</orth>
-            </form>
-            <def>Quotation: saothair an [dɤhə]. Notes: a pointless task, “obair gun fheum”.</def>
-         </entry>
-         <entry xml:id="Slips_BruernishRMacPhersonslips-idp161836032">
-            <form>
-               <orth>brionglaid</orth>
-            </form>
-            <def>Quotation: Chaidh e ’na bhrionglaid. Notes: It got all mixed up, e.g. fishing lines getting entangled in one another.</def>
-         </entry>
-         <entry xml:id="Slips_BruernishRMacPhersonslips-idola995">
-            <form>
-               <orth>corran</orth>
-            </form>
-            <def>Notes: earmark. [Cf. corran-clipeach.] <graphic url="BruernishRMacPhersonslipsillust2.jpg" width="200px"/>
-            </def>
-         </entry>
-         <entry xml:id="Slips_BruernishRMacPhersonslips-idp161837688">
-            <form>
-               <orth>corran-clipeach</orth>
-            </form>
-            <def>Notes: earmark. [Cf. corran.] <graphic url="BruernishRMacPhersonslipsillust1.jpg" width="200px"/>
-            </def>
-         </entry>
-         <entry xml:id="Slips_BruernishRMacPhersonslips-idp161839272">
-            <form>
-               <orth>dubh-char</orth>
-            </form>
-            <def>Quotation: ’S fheàrr dhomh ’n dubh-char a chuir as an neo-chàs. (RMP also heard “neo-char”.) Notes: I’d better do the heaviest, dirtiest, most unpleasant task first.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BruernishRMacPhersonslips">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>02/1969</date>
+        <location>
+          <placeName>Barra, Bruernish</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[AJ Smith?]</persName>
+        </person>
+        <person role="informant">
+          <persName>Roderick MacPherson</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_BruernishRMacPhersonslips-idp161830992">
+        <form>
+          <orth>màirnealaich</orth>
+        </form>
+        <def>Quotation: a’ màirnealachadh. Notes: weather forecasting.</def>
+      </entry>
+      <entry xml:id="Slips_BruernishRMacPhersonslips-idp161832648" type="person">
+        <form>
+          <orth>saor-dubh</orth>
+        </form>
+        <def>Notes: carpenter.</def>
+      </entry>
+      <entry xml:id="Slips_BruernishRMacPhersonslips-idp161834160">
+        <form>
+          <orth>saothair</orth>
+        </form>
+        <def>Quotation: saothair an [dɤhə]. Notes: a pointless task, “obair gun fheum”.</def>
+      </entry>
+      <entry xml:id="Slips_BruernishRMacPhersonslips-idp161836032">
+        <form>
+          <orth>brionglaid</orth>
+        </form>
+        <def>Quotation: Chaidh e ’na bhrionglaid. Notes: It got all mixed up, e.g. fishing lines getting entangled in one another.</def>
+      </entry>
+      <entry xml:id="Slips_BruernishRMacPhersonslips-idola995">
+        <form>
+          <orth>corran</orth>
+        </form>
+        <def>Notes: earmark. [Cf. corran-clipeach.] <graphic url="BruernishRMacPhersonslipsillust2.jpg" width="200px"/>
+        </def>
+      </entry>
+      <entry xml:id="Slips_BruernishRMacPhersonslips-idp161837688">
+        <form>
+          <orth>corran-clipeach</orth>
+        </form>
+        <def>Notes: earmark. [Cf. corran.] <graphic url="BruernishRMacPhersonslipsillust1.jpg" width="200px"/>
+        </def>
+      </entry>
+      <entry xml:id="Slips_BruernishRMacPhersonslips-idp161839272">
+        <form>
+          <orth>dubh-char</orth>
+        </form>
+        <def>Quotation: ’S fheàrr dhomh ’n dubh-char a chuir as an neo-chàs. (RMP also heard “neo-char”.) Notes: I’d better do the heaviest, dirtiest, most unpleasant task first.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

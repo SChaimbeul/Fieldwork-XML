@@ -1,109 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="Word-lists_BragarPrimarySchoolmisc">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>27/1/1982</date>
-            <location>
-               <placeName>Lewis, Bragar</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>Finlay J. MacDonald</persName>
-            </person>
-            <person role="informant">
-               <persName>Bragar Primary School</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Word-lists_BragarPrimarySchoolmisc-idola426">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>Seo agad caigeann beag eile de dh’fhaclan a thainig asteach. (...)</def>
-         </entry>
-         <entry xml:id="Word-lists_BragarPrimarySchoolmisc-idp39166120">
-            <form>
-               <orth>stallacaire (stalcair)</orth>
-            </form>
-            <def>blockhead.</def>
-         </entry>
-         <entry xml:id="Word-lists_BragarPrimarySchoolmisc-idp39178432">
-            <form>
-               <orth>loisdineach</orth>
-            </form>
-            <def>guest.</def>
-         </entry>
-         <entry xml:id="Word-lists_BragarPrimarySchoolmisc-idp39179944">
-            <form>
-               <orth>dèarnadair</orth>
-            </form>
-            <def>palmist.</def>
-         </entry>
-         <entry xml:id="Word-lists_BragarPrimarySchoolmisc-idp39181456">
-            <form>
-               <orth>cràiteag</orth>
-            </form>
-            <def>niggardly woman.</def>
-         </entry>
-         <entry xml:id="Word-lists_BragarPrimarySchoolmisc-idp39182968">
-            <form>
-               <orth>deaguil</orth>
-            </form>
-            <def>twilight.</def>
-         </entry>
-         <entry xml:id="Word-lists_BragarPrimarySchoolmisc-idp39184480">
-            <form>
-               <orth>flamarach</orth>
-            </form>
-            <def>glutton.</def>
-         </entry>
-         <entry xml:id="Word-lists_BragarPrimarySchoolmisc-idp39185992">
-            <form>
-               <orth>sgrogaid</orth>
-            </form>
-            <def>old hat or cap.</def>
-         </entry>
-         <entry xml:id="Word-lists_BragarPrimarySchoolmisc-idp39187504">
-            <form>
-               <orth>dileag</orth>
-            </form>
-            <def>blossom or flower.</def>
-         </entry>
-         <entry xml:id="Word-lists_BragarPrimarySchoolmisc-idp39189016">
-            <form>
-               <orth>deabastach</orth>
-            </form>
-            <def>bawdy.</def>
-         </entry>
-         <entry xml:id="Word-lists_BragarPrimarySchoolmisc-idp39190528">
-            <form>
-               <orth>sùmhlachadh</orth>
-            </form>
-            <def>syllabus.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Word-lists_BragarPrimarySchoolmisc">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>27/1/1982</date>
+        <location>
+          <placeName>Lewis, Bragar</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>Finlay J. MacDonald</persName>
+        </person>
+        <person role="informant">
+          <persName>Bragar Primary School</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Word-lists_BragarPrimarySchoolmisc-idola426">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>Seo agad caigeann beag eile de dh’fhaclan a thainig asteach. (...)</def>
+      </entry>
+      <entry xml:id="Word-lists_BragarPrimarySchoolmisc-idp39166120" type="person">
+        <form>
+          <orth>stallacaire (stalcair)</orth>
+        </form>
+        <def>blockhead.</def>
+      </entry>
+      <entry xml:id="Word-lists_BragarPrimarySchoolmisc-idp39178432" type="person">
+        <form>
+          <orth>loisdineach</orth>
+        </form>
+        <def>guest.</def>
+      </entry>
+      <entry xml:id="Word-lists_BragarPrimarySchoolmisc-idp39179944" type="person">
+        <form>
+          <orth>dèarnadair</orth>
+        </form>
+        <def>palmist.</def>
+      </entry>
+      <entry xml:id="Word-lists_BragarPrimarySchoolmisc-idp39181456" type="person">
+        <form>
+          <orth>cràiteag</orth>
+        </form>
+        <def>niggardly woman.</def>
+      </entry>
+      <entry xml:id="Word-lists_BragarPrimarySchoolmisc-idp39182968">
+        <form>
+          <orth>deaguil</orth>
+        </form>
+        <def>twilight.</def>
+      </entry>
+      <entry xml:id="Word-lists_BragarPrimarySchoolmisc-idp39184480" type="person">
+        <form>
+          <orth>flamarach</orth>
+        </form>
+        <def>glutton.</def>
+      </entry>
+      <entry xml:id="Word-lists_BragarPrimarySchoolmisc-idp39185992">
+        <form>
+          <orth>sgrogaid</orth>
+        </form>
+        <def>old hat or cap.</def>
+      </entry>
+      <entry xml:id="Word-lists_BragarPrimarySchoolmisc-idp39187504">
+        <form>
+          <orth>dileag</orth>
+        </form>
+        <def>blossom or flower.</def>
+      </entry>
+      <entry xml:id="Word-lists_BragarPrimarySchoolmisc-idp39189016">
+        <form>
+          <orth>deabastach</orth>
+        </form>
+        <def>bawdy.</def>
+      </entry>
+      <entry xml:id="Word-lists_BragarPrimarySchoolmisc-idp39190528">
+        <form>
+          <orth>sùmhlachadh</orth>
+        </form>
+        <def>syllabus.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

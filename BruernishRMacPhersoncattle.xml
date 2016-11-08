@@ -1,605 +1,576 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>09/1983</date>
-            <location>
-               <placeName>Barra, Bruernish</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[Ian Quick]</persName>
-            </person>
-            <person role="informant">
-               <persName>Roderick MacPherson</persName>
-               <age>81</age>
-               <birth>
-                  <placeName>[Barra]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Cattle</term>
-               <term>Crodh</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e32"
-            >1. Different stages in the growth of cattle – male and female and castrated</head>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e37">
-            <form>
-               <orth>[Oidhche Shamhna]</orth>
-            </form>
-            <def>saying: Oidhche Shamhna canar gamhna ris na laoigh. (male or female calf born at least 3 months before O. Sh. becomes stirk on O. Sh.)</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e45"
-             subtype="h2">Male:</head>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e50">
-            <form>
-               <orth>laogh</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e56">
-            <form>
-               <orth>gamhainn / bliadhnach de gh.</orth>
-            </form>
-            <def>(1 yr. old)</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e65">
-            <form>
-               <orth>dòlunach</orth>
-            </form>
-            <def>(2 yrs. old)</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e74">
-            <form>
-               <orth>tarbh</orth>
-            </form>
-            <def>(1 or 2 yrs. old or more)</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e82"
-             subtype="h2">Female:</head>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e87">
-            <form>
-               <orth>laogh</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e93">
-            <form>
-               <orth>g de gh.</orth>
-               <pron>[amhainn]</pron>
-            </form>
-            <def>[amhainn] / bl[iadhnach] </def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e99">
-            <form>
-               <orth>agh</orth>
-            </form>
-            <def>(2 yrs. old)</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e108">
-            <form>
-               <orth>bò / mart</orth>
-            </form>
-            <def>(after having had first calf)</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e116"
-             subtype="h2">Castrated:</head>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e121">
-            <form>
-               <orth>laogh</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e127">
-            <form>
-               <orth>damh</orth>
-            </form>
-            <def>(after 1 yr. old)</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e135"
-            >2. Breeds of cattle</head>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e140">
-            <form>
-               <orth>crodh Gàidhealach</orth>
-            </form>
-            <def>Highland cattle.</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e148"
-            >3. Outward appearance of cattle</head>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e153">
-            <form>
-               <orth>[lòinne]</orth>
-            </form>
-            <def>Tha lòinne [ɔ:] math oirre. – a good coat.</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e161"
-            >4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</head>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e165"
-            >5. Parts of the body</head>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e170">
-            <form>
-               <orth>ceann</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e176">
-            <form>
-               <orth>amhach</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e182">
-            <form>
-               <orth>adhraic (-ean)</orth>
-            </form>
-            <def>a horn (horns).</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e191">
-            <form>
-               <orth>slabhaig (bh – )</orth>
-               <pron>[w]</pron>
-            </form>
-            <def>[w] pith in horn.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e200">
-            <form>
-               <orth>bathais</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e206">
-            <form>
-               <orth>lòinn / cliùiteach</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e212">
-            <form>
-               <orth>seiche</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e218">
-            <form>
-               <orth>gualann</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e224">
-            <form>
-               <orth>sprogan</orth>
-            </form>
-            <def>breast.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e233">
-            <form>
-               <orth>croidhe</orth>
-               <pron>[ɔi]</pron>
-            </form>
-            <def>[ɔi] hoof.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e242">
-            <form>
-               <orth>cas-thoisich</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e248">
-            <form>
-               <orth>an druim</orth>
-            </form>
-            <def>backbone.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e257">
-            <form>
-               <orth>cruachann</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e263">
-            <form>
-               <orth>sliasaid</orth>
-            </form>
-            <def>thigh.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e272">
-            <form>
-               <orth>cas-deiridh</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e278">
-            <form>
-               <orth>sùil na lèiseadh</orth>
-               <pron>[e:]</pron>
-            </form>
-            <def>[e:] ball and socket joint. Chaidh e á sùil na lèiseadh.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e287">
-            <form>
-               <orth>iorball</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e293">
-            <form>
-               <orth>ùdh</orth>
-            </form>
-            <def>udder.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e302">
-            <form>
-               <orth>sine</orth>
-            </form>
-            <def>teat.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e311">
-            <form>
-               <orth>na tèthean</orth>
-               <pron>[ɛ:]</pron>
-            </form>
-            <def>[ɛ:] sinews.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e320">
-            <form>
-               <orth>cridhe</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e326">
-            <form>
-               <orth>cuisle</orth>
-            </form>
-            <def>vein / artery.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e335">
-            <form>
-               <orth>fuil</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e341">
-            <form>
-               <orth>sgamhan (sgamhainnean)</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e347">
-            <form>
-               <orth>tìgheach</orth>
-               <pron>[tʹi:həx]</pron>
-            </form>
-            <def>[tʹi:həx] gullet.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e356">
-            <form>
-               <orth>gruthan</orth>
-            </form>
-            <def>liver.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e365">
-            <form>
-               <orth>dubhag</orth>
-            </form>
-            <def>kidney.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e374">
-            <form>
-               <orth>loch-bliain</orth>
-            </form>
-            <def>spleen.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e383">
-            <form>
-               <orth>dumulas</orth>
-            </form>
-            <def>bladder.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e392">
-            <form>
-               <orth>àirc</orth>
-            </form>
-            <def>vagina.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e401">
-            <form>
-               <orth>slat</orth>
-            </form>
-            <def>penis.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e410">
-            <form>
-               <orth>leaba-laoigh</orth>
-            </form>
-            <def>womb.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e419">
-            <form>
-               <orth>maodal mòr</orth>
-            </form>
-            <def>part to which cud goes when first swallowed.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e428">
-            <form>
-               <orth>broilean</orth>
-            </form>
-            <def>part to which cud goes when swallowed second time.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e437">
-            <form>
-               <orth>geir</orth>
-            </form>
-            <def>fat.</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e445"
-            >6. Calving</head>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e450">
-            <form>
-               <orth>[dàir]</orth>
-            </form>
-            <def>Tha an dàir oirre – she’s in heat.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e459">
-            <form>
-               <orth>laogh carrach</orth>
-            </form>
-            <def>hairless calf (usually when male mates with his mother).</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e468">
-            <form>
-               <orth>paidhls</orth>
-               <pron>[pɑils]</pron>
-            </form>
-            <def>[pɑils] afterbirth.</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e476"
-            >7. Milking</head>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e481">
-            <form>
-               <orth>a’ deoghal</orth>
-            </form>
-            <def>suckling.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e490">
-            <form>
-               <orth>bleoghan</orth>
-               <pron>[ɔʔɑn]</pron>
-            </form>
-            <def>[ɔʔɑn] milking.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e499">
-            <form>
-               <orth>[leigeal]</orth>
-            </form>
-            <def>A’ leigeal a’ chruidh – milking. Chan eil i ga leigeal idir dhomh – she isn’t giving milk.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e508">
-            <form>
-               <orth>[seasgach]</orth>
-            </form>
-            <def>Tha i air an t-seasgach – she’s dried up.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e517">
-            <form>
-               <orth>bainne-nòis</orth>
-            </form>
-            <def>first milk after calving.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e526">
-            <form>
-               <orth>àm eadraidh</orth>
-            </form>
-            <def>any milking-time.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e535">
-            <form>
-               <orth>peile</orth>
-               <pron>[e]</pron>
-            </form>
-            <def>[e] a pail.</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e543"
-            >8. Feeding</head>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e548">
-            <form>
-               <orth>[fodradh]</orth>
-            </form>
-            <def>A’ fodradh a’ chruidh – feeding.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e557">
-            <form>
-               <orth>dòrnag</orth>
-            </form>
-            <def>a fistful (of hay, etc.).</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e566">
-            <form>
-               <orth>làn tachlais</orth>
-            </form>
-            <def>(= d’achlais?) armful.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e575">
-            <form>
-               <orth>a’ fiarach</orth>
-            </form>
-            <def>grazing.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e584">
-            <form>
-               <orth>a’ cuallach</orth>
-            </form>
-            <def>driving home slowly, giving time to eat on way.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e593">
-            <form>
-               <orth>a’ ciùilleadh</orth>
-            </form>
-            <def>driving quickly.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e602">
-            <form>
-               <orth>buachaille</orth>
-            </form>
-            <def>a herdsman.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e611">
-            <form>
-               <orth>ciùilleir</orth>
-            </form>
-            <def>stick for driving hoop.</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e619"
-            >9. Apparatus</head>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e624">
-            <form>
-               <orth>ceangal (ceangailtean pl.)</orth>
-               <pron>[kʹɛ̃:əl]</pron>
-            </form>
-            <def>[kʹɛ̃:əl] rope or chain to tie cow in byre.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e633">
-            <form>
-               <orth>cipein</orth>
-            </form>
-            <def>part for tying cow in field.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e642">
-            <form>
-               <orth>udalan</orth>
-            </form>
-            <def>swivel.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e651">
-            <form>
-               <orth>gearraisde</orth>
-            </form>
-            <def>rope between post and swivel.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e660">
-            <form>
-               <orth>ladhraigneachan</orth>
-            </form>
-            <def>rope between swivel and leg of cow.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e669">
-            <form>
-               <orth>braighdean</orth>
-            </form>
-            <def>halter on cow all of time.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e678">
-            <form>
-               <orth>di-leum</orth>
-            </form>
-            <def>rope between a horse’s forelegs.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e687">
-            <form>
-               <orth>spearrach</orth>
-            </form>
-            <def>rope between a horse’s forelegs.</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e695"
-            >10. Disease</head>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e700">
-            <form>
-               <orth>carstan</orth>
-            </form>
-            <def>a tick.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e709">
-            <form>
-               <orth>gartan</orth>
-            </form>
-            <def>a tick.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e718">
-            <form>
-               <orth>feusalan (pl. -ain)</orth>
-            </form>
-            <def>worm in cattle.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e727">
-            <form>
-               <orth>tòcadh</orth>
-            </form>
-            <def>a swelling.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e736">
-            <form>
-               <orth>ingar</orth>
-            </form>
-            <def>pus.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e745">
-            <form>
-               <orth>mùn dearg</orth>
-            </form>
-            <def>red-water.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e754">
-            <form>
-               <orth>spùt</orth>
-            </form>
-            <def>diarrhoea.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e763">
-            <form>
-               <orth>sgiùirsd</orth>
-            </form>
-            <def>diarrhoea.</def>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e771"
-            >11. Miscellaneous</head>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e776">
-            <form>
-               <orth>siugan!</orth>
-            </form>
-            <def>trobhad! (said to calf)</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e785">
-            <form>
-               <orth>buaile mhart</orth>
-            </form>
-            <def>any herd of cattle.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e794">
-            <form>
-               <orth>[fèithe]</orth>
-            </form>
-            <def>Tha i ann am fèithe [e:] – stuck in a bog.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e803">
-            <form>
-               <orth>buachar</orth>
-            </form>
-            <def>dung.</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e812">
-            <form>
-               <orth>crò chaorach</orth>
-            </form>
-            <def>flock of sheep.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>09/1983</date>
+        <location>
+          <placeName>Barra, Bruernish</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[Ian Quick]</persName>
+        </person>
+        <person role="informant">
+          <persName>Roderick MacPherson</persName>
+          <age>81</age>
+          <birth>
+            <placeName>[Barra]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Cattle</term>
+          <term>Crodh</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e32">1. Different stages in the growth of cattle – male and female and castrated</head>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e37">
+        <form>
+          <orth>[Oidhche Shamhna]</orth>
+        </form>
+        <def>saying: Oidhche Shamhna canar gamhna ris na laoigh. (male or female calf born at least 3 months before O. Sh. becomes stirk on O. Sh.)</def>
+      </entry>
+      <head xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e45" subtype="h2">Male:</head>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e50">
+        <form>
+          <orth>laogh</orth>
+        </form>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e56">
+        <form>
+          <orth>gamhainn / bliadhnach de gh.</orth>
+        </form>
+        <def>(1 yr. old)</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e65">
+        <form>
+          <orth>dòlunach</orth>
+        </form>
+        <def>(2 yrs. old)</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e74">
+        <form>
+          <orth>tarbh</orth>
+        </form>
+        <def>(1 or 2 yrs. old or more)</def>
+      </entry>
+      <head xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e82" subtype="h2">Female:</head>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e87">
+        <form>
+          <orth>laogh</orth>
+        </form>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e93">
+        <form>
+          <orth>g de gh.</orth>
+          <pron>[amhainn]</pron>
+        </form>
+        <def>[amhainn] / bl[iadhnach] </def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e99">
+        <form>
+          <orth>agh</orth>
+        </form>
+        <def>(2 yrs. old)</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e108">
+        <form>
+          <orth>bò / mart</orth>
+        </form>
+        <def>(after having had first calf)</def>
+      </entry>
+      <head xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e116" subtype="h2">Castrated:</head>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e121">
+        <form>
+          <orth>laogh</orth>
+        </form>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e127">
+        <form>
+          <orth>damh</orth>
+        </form>
+        <def>(after 1 yr. old)</def>
+      </entry>
+      <head xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e135">2. Breeds of cattle</head>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e140">
+        <form>
+          <orth>crodh Gàidhealach</orth>
+        </form>
+        <def>Highland cattle.</def>
+      </entry>
+      <head xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e148">3. Outward appearance of cattle</head>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e153">
+        <form>
+          <orth>[lòinne]</orth>
+        </form>
+        <def>Tha lòinne [ɔ:] math oirre. – a good coat.</def>
+      </entry>
+      <head xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e161">4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</head>
+      <head xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e165">5. Parts of the body</head>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e170">
+        <form>
+          <orth>ceann</orth>
+        </form>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e176">
+        <form>
+          <orth>amhach</orth>
+        </form>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e182">
+        <form>
+          <orth>adhraic (-ean)</orth>
+        </form>
+        <def>a horn (horns).</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e191">
+        <form>
+          <orth>slabhaig (bh – )</orth>
+          <pron>[w]</pron>
+        </form>
+        <def>[w] pith in horn.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e200">
+        <form>
+          <orth>bathais</orth>
+        </form>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e206">
+        <form>
+          <orth>lòinn / cliùiteach</orth>
+        </form>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e212">
+        <form>
+          <orth>seiche</orth>
+        </form>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e218">
+        <form>
+          <orth>gualann</orth>
+        </form>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e224">
+        <form>
+          <orth>sprogan</orth>
+        </form>
+        <def>breast.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e233">
+        <form>
+          <orth>croidhe</orth>
+          <pron>[ɔi]</pron>
+        </form>
+        <def>[ɔi] hoof.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e242">
+        <form>
+          <orth>cas-thoisich</orth>
+        </form>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e248">
+        <form>
+          <orth>an druim</orth>
+        </form>
+        <def>backbone.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e257">
+        <form>
+          <orth>cruachann</orth>
+        </form>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e263">
+        <form>
+          <orth>sliasaid</orth>
+        </form>
+        <def>thigh.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e272">
+        <form>
+          <orth>cas-deiridh</orth>
+        </form>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e278">
+        <form>
+          <orth>sùil na lèiseadh</orth>
+          <pron>[e:]</pron>
+        </form>
+        <def>[e:] ball and socket joint. Chaidh e á sùil na lèiseadh.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e287">
+        <form>
+          <orth>iorball</orth>
+        </form>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e293">
+        <form>
+          <orth>ùdh</orth>
+        </form>
+        <def>udder.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e302">
+        <form>
+          <orth>sine</orth>
+        </form>
+        <def>teat.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e311">
+        <form>
+          <orth>na tèthean</orth>
+          <pron>[ɛ:]</pron>
+        </form>
+        <def>[ɛ:] sinews.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e320">
+        <form>
+          <orth>cridhe</orth>
+        </form>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e326">
+        <form>
+          <orth>cuisle</orth>
+        </form>
+        <def>vein / artery.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e335">
+        <form>
+          <orth>fuil</orth>
+        </form>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e341">
+        <form>
+          <orth>sgamhan (sgamhainnean)</orth>
+        </form>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e347">
+        <form>
+          <orth>tìgheach</orth>
+          <pron>[tʹi:həx]</pron>
+        </form>
+        <def>[tʹi:həx] gullet.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e356">
+        <form>
+          <orth>gruthan</orth>
+        </form>
+        <def>liver.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e365">
+        <form>
+          <orth>dubhag</orth>
+        </form>
+        <def>kidney.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e374">
+        <form>
+          <orth>loch-bliain</orth>
+        </form>
+        <def>spleen.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e383">
+        <form>
+          <orth>dumulas</orth>
+        </form>
+        <def>bladder.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e392">
+        <form>
+          <orth>àirc</orth>
+        </form>
+        <def>vagina.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e401">
+        <form>
+          <orth>slat</orth>
+        </form>
+        <def>penis.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e410">
+        <form>
+          <orth>leaba-laoigh</orth>
+        </form>
+        <def>womb.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e419">
+        <form>
+          <orth>maodal mòr</orth>
+        </form>
+        <def>part to which cud goes when first swallowed.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e428">
+        <form>
+          <orth>broilean</orth>
+        </form>
+        <def>part to which cud goes when swallowed second time.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e437">
+        <form>
+          <orth>geir</orth>
+        </form>
+        <def>fat.</def>
+      </entry>
+      <head xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e445">6. Calving</head>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e450">
+        <form>
+          <orth>[dàir]</orth>
+        </form>
+        <def>Tha an dàir oirre – she’s in heat.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e459">
+        <form>
+          <orth>laogh carrach</orth>
+        </form>
+        <def>hairless calf (usually when male mates with his mother).</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e468">
+        <form>
+          <orth>paidhls</orth>
+          <pron>[pɑils]</pron>
+        </form>
+        <def>[pɑils] afterbirth.</def>
+      </entry>
+      <head xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e476">7. Milking</head>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e481">
+        <form>
+          <orth>a’ deoghal</orth>
+        </form>
+        <def>suckling.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e490">
+        <form>
+          <orth>bleoghan</orth>
+          <pron>[ɔʔɑn]</pron>
+        </form>
+        <def>[ɔʔɑn] milking.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e499">
+        <form>
+          <orth>[leigeal]</orth>
+        </form>
+        <def>A’ leigeal a’ chruidh – milking. Chan eil i ga leigeal idir dhomh – she isn’t giving milk.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e508">
+        <form>
+          <orth>[seasgach]</orth>
+        </form>
+        <def>Tha i air an t-seasgach – she’s dried up.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e517">
+        <form>
+          <orth>bainne-nòis</orth>
+        </form>
+        <def>first milk after calving.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e526">
+        <form>
+          <orth>àm eadraidh</orth>
+        </form>
+        <def>any milking-time.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e535">
+        <form>
+          <orth>peile</orth>
+          <pron>[e]</pron>
+        </form>
+        <def>[e] a pail.</def>
+      </entry>
+      <head xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e543">8. Feeding</head>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e548">
+        <form>
+          <orth>[fodradh]</orth>
+        </form>
+        <def>A’ fodradh a’ chruidh – feeding.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e557">
+        <form>
+          <orth>dòrnag</orth>
+        </form>
+        <def>a fistful (of hay, etc.).</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e566">
+        <form>
+          <orth>làn tachlais</orth>
+        </form>
+        <def>(= d’achlais?) armful.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e575">
+        <form>
+          <orth>a’ fiarach</orth>
+        </form>
+        <def>grazing.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e584">
+        <form>
+          <orth>a’ cuallach</orth>
+        </form>
+        <def>driving home slowly, giving time to eat on way.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e593">
+        <form>
+          <orth>a’ ciùilleadh</orth>
+        </form>
+        <def>driving quickly.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e602" type="person">
+        <form>
+          <orth>buachaille</orth>
+        </form>
+        <def>a herdsman.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e611">
+        <form>
+          <orth>ciùilleir</orth>
+        </form>
+        <def>stick for driving hoop.</def>
+      </entry>
+      <head xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e619">9. Apparatus</head>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e624">
+        <form>
+          <orth>ceangal (ceangailtean pl.)</orth>
+          <pron>[kʹɛ̃:əl]</pron>
+        </form>
+        <def>[kʹɛ̃:əl] rope or chain to tie cow in byre.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e633">
+        <form>
+          <orth>cipein</orth>
+        </form>
+        <def>part for tying cow in field.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e642">
+        <form>
+          <orth>udalan</orth>
+        </form>
+        <def>swivel.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e651">
+        <form>
+          <orth>gearraisde</orth>
+        </form>
+        <def>rope between post and swivel.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e660">
+        <form>
+          <orth>ladhraigneachan</orth>
+        </form>
+        <def>rope between swivel and leg of cow.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e669">
+        <form>
+          <orth>braighdean</orth>
+        </form>
+        <def>halter on cow all of time.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e678">
+        <form>
+          <orth>di-leum</orth>
+        </form>
+        <def>rope between a horse’s forelegs.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e687">
+        <form>
+          <orth>spearrach</orth>
+        </form>
+        <def>rope between a horse’s forelegs.</def>
+      </entry>
+      <head xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e695">10. Disease</head>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e700">
+        <form>
+          <orth>carstan</orth>
+        </form>
+        <def>a tick.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e709">
+        <form>
+          <orth>gartan</orth>
+        </form>
+        <def>a tick.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e718">
+        <form>
+          <orth>feusalan (pl. -ain)</orth>
+        </form>
+        <def>worm in cattle.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e727">
+        <form>
+          <orth>tòcadh</orth>
+        </form>
+        <def>a swelling.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e736">
+        <form>
+          <orth>ingar</orth>
+        </form>
+        <def>pus.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e745">
+        <form>
+          <orth>mùn dearg</orth>
+        </form>
+        <def>red-water.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e754">
+        <form>
+          <orth>spùt</orth>
+        </form>
+        <def>diarrhoea.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e763">
+        <form>
+          <orth>sgiùirsd</orth>
+        </form>
+        <def>diarrhoea.</def>
+      </entry>
+      <head xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e771">11. Miscellaneous</head>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e776">
+        <form>
+          <orth>siugan!</orth>
+        </form>
+        <def>trobhad! (said to calf)</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e785">
+        <form>
+          <orth>buaile mhart</orth>
+        </form>
+        <def>any herd of cattle.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e794">
+        <form>
+          <orth>[fèithe]</orth>
+        </form>
+        <def>Tha i ann am fèithe [e:] – stuck in a bog.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e803">
+        <form>
+          <orth>buachar</orth>
+        </form>
+        <def>dung.</def>
+      </entry>
+      <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoncattle-d0e812">
+        <form>
+          <orth>crò chaorach</orth>
+        </form>
+        <def>flock of sheep.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

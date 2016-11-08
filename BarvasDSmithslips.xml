@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BarvasDSmithslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>09/1971</date>
-            <location>
-               <placeName>Lewis, Barvas</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[AJ Smith?]</persName>
-            </person>
-            <person role="informant">
-               <persName>Donald Smith</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_BarvasDSmithslips-idp115472480">
-            <form>
-               <orth>atach</orth>
-               <pron>[ɑt̪ɑx]</pron>
-            </form>
-            <def>[ɑt̪ɑx] Quotation: atach bhrògan, atach de chòta. Notes: used of items of clothes past their usefulness. Also used of the remains of a sheep. (Is it used of anything useless?)</def>
-         </entry>
-         <entry xml:id="Slips_BarvasDSmithslips-idp115467872">
-            <form>
-               <orth>drabhcair</orth>
-            </form>
-            <def>Quotation: drabhcair beag uisge. Notes: a little drizzly rain.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>09/1971</date>
+        <location>
+          <placeName>Lewis, Barvas</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[AJ Smith?]</persName>
+        </person>
+        <person role="informant">
+          <persName>Donald Smith</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_BarvasDSmithslips-idp115472480">
+        <form>
+          <orth>atach</orth>
+          <pron>[ɑt̪ɑx]</pron>
+        </form>
+        <def>[ɑt̪ɑx] Quotation: atach bhrògan, atach de chòta. Notes: used of items of clothes past their usefulness. Also used of the remains of a sheep. (Is it used of anything useless?)</def>
+      </entry>
+      <entry xml:id="Slips_BarvasDSmithslips-idp115467872">
+        <form>
+          <orth>drabhcair</orth>
+        </form>
+        <def>Quotation: drabhcair beag uisge. Notes: a little drizzly rain.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

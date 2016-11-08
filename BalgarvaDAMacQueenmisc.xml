@@ -1,913 +1,920 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="AOHenley_BalgarvaDAMacQueenmisc">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[1987-88]</date>
-            <location>
-               <placeName>South Uist, Iochdar, Baile Gharbhaidh [Balgarva]</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>A. O’Henley</persName>
-            </person>
-            <person role="informant">
-               <persName>D. A. MacQueen</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm130800">
-            <form>
-               <orth>uileasach</orth>
-            </form>
-            <def>in suffering. “Bha mi uileasach le’m làimh.”</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm132744">
-            <form>
-               <orth>cuibhreachadh</orth>
-            </form>
-            <def>to lose your reason.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm134256">
-            <form>
-               <orth>muir uisge</orth>
-            </form>
-            <def>salt water.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm135768">
-            <form>
-               <orth>mo chompraich</orth>
-            </form>
-            <def>my belief, fate. Not sure of this. On tape. Could mean protection.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm137280">
-            <form>
-               <orth>a’ bhoill</orth>
-            </form>
-            <def>disease in horses caused by the ragwort (buathalan). [NOTES: corrected to ‘a’ bhoil’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm139224">
-            <form>
-               <orth>galair an domalais</orth>
-            </form>
-            <def>fluke.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm140736">
-            <form>
-               <orth>galair cearr</orth>
-            </form>
-            <def>caused by the tick and which caused the cattle to limp badly. [NOTES: ‘cearr’ corrected to ‘ceàrr’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm141888">
-            <form>
-               <orth>fiarsnain</orth>
-            </form>
-            <def>a beast / fly that came from the soil and entered the cow’s hoof surfacing in its back. Had to be squeezed out.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm144264">
-            <form>
-               <orth>pronnastan</orth>
-            </form>
-            <def>sulphur. Used to make a poultice. Applied to humans as well as animals. Used for rashes, boils, warts. Also given to young people to keep potential diseases at bay.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm145776">
-            <form>
-               <orth>cnoiseagan</orth>
-            </form>
-            <def>acne. [NOTES: corrected to ‘cnòiseagan’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm147432">
-            <form>
-               <orth>claigeann-ròpa</orth>
-            </form>
-            <def>rope bridle.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm148944">
-            <form>
-               <orth>mìreannach</orth>
-            </form>
-            <def>horse’s bit.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm150456">
-            <form>
-               <orth>siollachan</orth>
-            </form>
-            <def>hames.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm151968">
-            <form>
-               <orth>[strathair]</orth>
-            </form>
-            <def>Different types of saddle: – strathair cartach – strathair gige [?] – strathair plàta (used when the horse was carrying baskets).</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm154488">
-            <form>
-               <orth>briogais cartach</orth>
-            </form>
-            <def>breeches.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm156000">
-            <form>
-               <orth>strian bheag</orth>
-            </form>
-            <def>martingale rein.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm157512">
-            <form>
-               <orth>bocsa cartach</orth>
-            </form>
-            <def>loading area of a cart.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm159888">
-            <form>
-               <orth>maide aiseil</orth>
-            </form>
-            <def>depending on the horse’s height, a block of wood would be placed on the axle to make up the difference.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm161400">
-            <form>
-               <orth>fòlag</orth>
-            </form>
-            <def>a pin used to keep the wheel on the axle. Similar to the word ‘sgiofair’.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm162912">
-            <form>
-               <orth>cuishal</orth>
-            </form>
-            <def>penis. [NOTES: note added above ‘cuishal’ – cuiseal.]</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm164136">
-            <form>
-               <orth>biorach</orth>
-            </form>
-            <def>dogfish.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm165648">
-            <form>
-               <orth>blian</orth>
-            </form>
-            <def>the stomach of a fish.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm167160">
-            <form>
-               <orth>cruadhachadh</orth>
-            </form>
-            <def>drying fish to preserve them. Could be dried inside or out depending on the suitability of the weather.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm168672">
-            <form>
-               <orth>connadh</orth>
-            </form>
-            <def>dry peat sods which could be used immediately.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm170184">
-            <form>
-               <orth>spaid fhiodh</orth>
-            </form>
-            <def>wood spade. Similar to modern spade without the iron blade. Had a foot rest on one side of the handle to preserve the wooden cutter.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm172272">
-            <form>
-               <orth>baidhr</orth>
-            </form>
-            <def>afterbirth. [NOTES: note added above ‘baidhr’ – (f)baidhir [?]. Another note added in the margin: seile – afterbirth of sheep.]</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm175872">
-            <form>
-               <orth>boireannach a’ dealachadh</orth>
-            </form>
-            <def>to deliver, give birth. Prior to modern gynaecology, women blew into a bottle to facilitate delivery.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm177384">
-            <form>
-               <orth>an deach i an darna taobh</orth>
-            </form>
-            <def>Did she give birth?</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm179040">
-            <form>
-               <orth>a’ tearnadh</orth>
-            </form>
-            <def>to give birth.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm178464">
-            <form>
-               <orth>anacair mhóir</orth>
-            </form>
-            <def>venereal disease.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109482056">
-            <form>
-               <orth>fiurag (-ach)</orth>
-            </form>
-            <def>warm, clammy weather with mist on the hills. [NOTES: corrected to ‘fiùrag’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109483712">
-            <form>
-               <orth>gigili blàth</orth>
-            </form>
-            <def>similar to above [i.e. fiurag/fiùrag].</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109485224">
-            <form>
-               <orth>gàir cladaich</orth>
-            </form>
-            <def>roar of the sea.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109486736">
-            <form>
-               <orth>bristeadh cladaich</orth>
-            </form>
-            <def>roar of the sea.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109488248">
-            <form>
-               <orth>iasg driuman</orth>
-            </form>
-            <def>red and grey mullet.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109490624">
-            <form>
-               <orth>cnògain</orth>
-            </form>
-            <def>large whelk.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109492136">
-            <form>
-               <orth>maorach Moire</orth>
-            </form>
-            <def>similar to scallops.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109493648">
-            <form>
-               <orth>faoideag</orth>
-            </form>
-            <def>cowlie [sic] [cowry?] shellfish.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109495160">
-            <form>
-               <orth>còpran</orth>
-            </form>
-            <def>grew on large tangles. Yellow, brown in colour and used as decorative beads.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109496672">
-            <form>
-               <orth>speal bheoil</orth>
-            </form>
-            <def>old style razor.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109498184">
-            <form>
-               <orth>cochull</orth>
-            </form>
-            <def>covering of cloth.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109499696">
-            <form>
-               <orth>druid romhad</orth>
-            </form>
-            <def>to move forward quickly.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109501208">
-            <form>
-               <orth>dh’aoslaich mi</orth>
-            </form>
-            <def>I welcomed.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109502720">
-            <form>
-               <orth>deugbhail bàis</orth>
-            </form>
-            <def>on deathbed. [NOTES: note added above ‘d’ in ‘deugbhail’ – an t-.]</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109504376">
-            <form>
-               <orth>dleasanas bàis</orth>
-            </form>
-            <def>last rites.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109505888">
-            <form>
-               <orth>deiseil airson anail a thilgeil</orth>
-            </form>
-            <def>last breath.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109507400">
-            <form>
-               <orth>sìde air a dhol a bhouta làir</orth>
-            </form>
-            <def>expression associated with a period of time in which every conceivable aspect of poor weather conditions were [sic] experienced. [NOTES: note added above ‘u’ in ‘bhouta’ – bh.]</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109509992">
-            <form>
-               <orth>faircean</orth>
-            </form>
-            <def>crevices under rocks on the shore. Lobsters, crabs can be obtained in these. The word ‘fairc’ is different from ‘faiche’ which is used at the south end of South Uist.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109511504">
-            <form>
-               <orth>lìopain</orth>
-            </form>
-            <def>a third of a peck (péice).</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109513016">
-            <form>
-               <orth>banachag</orth>
-            </form>
-            <def>milkmaid.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109514528">
-            <form>
-               <orth>baineach</orth>
-            </form>
-            <def>weaveress.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109516040">
-            <form>
-               <orth>breabadair</orth>
-            </form>
-            <def>weaver.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109517552">
-            <form>
-               <orth>duine leipideach</orth>
-            </form>
-            <def>a clumsy person.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109519064">
-            <form>
-               <orth>“Cha tainig a leithid seo a shìde bho’n a thilg an tràigh na lugachan.”</orth>
-            </form>
-            <def>associated with extreme weather conditions when the shore was churned up and all its contents piled up at the high water mark.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109521440">
-            <form>
-               <orth>muir tiachd</orth>
-            </form>
-            <def>jellyfish.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109522952">
-            <form>
-               <orth>teine mór</orth>
-            </form>
-            <def>will o’ the wisp.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109524464">
-            <form>
-               <orth>air lochadh le falas</orth>
-            </form>
-            <def>dripping with sweat. [NOTES: ‘lochadh’ corrected to ‘lòchadh’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109526120">
-            <form>
-               <orth>[slàt]</orth>
-            </form>
-            <def>Slàt druime, slàtan taobh (two of these, one on each shoulder). Terms used for parts of spoon net or ‘tàbh’ as it is called in Gaelic.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109527704">
-            <form>
-               <orth>bàcan iomraidh</orth>
-            </form>
-            <def>rowlocks. [NOTES: ‘bàcan’ corrected to ‘bacan’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109529360">
-            <form>
-               <orth>bròg a’ chruinn</orth>
-            </form>
-            <def>where the mast was lodged in the floor of a boat.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109530872">
-            <form>
-               <orth>ceannachragan</orth>
-            </form>
-            <def>wooden supports above the seats (tobhtaichean). In previous notes I have indicated that these supports were beneath the seats, so obviously this was a preference on the craftsman’s behalf.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm30616">
-            <form>
-               <orth>siladh</orth>
-            </form>
-            <def>a wooden seat at the rear of a boat which could be removed when it was being baled (taomadh).</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm26728">
-            <form>
-               <orth>[tobhta]</orth>
-            </form>
-            <def>Various seats in a boat: – tobhta stiùraidh – tobhta a’ chruinn – tobhta iomraidh – tobhta bheag (at rear).</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm23200">
-            <form>
-               <orth>spor iomraidh</orth>
-            </form>
-            <def>a wooden block in front of the rowing seat which served as a support for the person who was rowing.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm708648">
-            <form>
-               <orth>fàsag</orth>
-            </form>
-            <def>the bung.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp5752">
-            <form>
-               <orth>tuim ghrod</orth>
-            </form>
-            <def>this noxious excess water was sometimes stored if there were sharks in the area. The substance was thrown at them which supposedly kept them at bay.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp8128">
-            <form>
-               <orth>ràc</orth>
-            </form>
-            <def>traveller running up and down the sail mast.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp9640">
-            <form>
-               <orth>cuairtean</orth>
-            </form>
-            <def>variant name for ‘stràc’ or tummers. So far I have not come across this in South Uist or Eriskay, so it must be peculiar to the Iochdar area. Therefore you have ‘cuairt bheoil’ instead of ‘stràc bheoil’. ‘Fliuch bhòrd’ is used as in the aforementioned areas.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp11152">
-            <form>
-               <orth>gualainn</orth>
-            </form>
-            <def>literally the shoulders of a boat, i.e. where the boat widens out in the middle.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp12664">
-            <form>
-               <orth>plìuchcan</orth>
-            </form>
-            <def>flukes on an anchor.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp14176">
-            <form>
-               <orth>stòc an acair</orth>
-            </form>
-            <def>a metal rod forming part of an anchor which props up the anchor so as not to fall flat, e.g. <graphic url="BalgarvaDAMacQueenmiscillust1.jpg" width="200px"/>
-            </def>
-            <note>[NOTES: ‘stòc’ corrected to ‘stoc’.]</note>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp16696">
-            <form>
-               <orth>stòc na bàta</orth>
-            </form>
-            <def>gunwale? [NOTES: ‘stòc’ corrected to ‘stoc’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp18352">
-            <form>
-               <orth>dà shùil a’ chruinn</orth>
-            </form>
-            <def>two hooks, one on each side of the boat to which the sail ropes were attached. <graphic url="BalgarvaDAMacQueenmiscillust2.jpg" width="200px"/>
-            </def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp19864">
-            <form>
-               <orth>crochadh a’ chruinn</orth>
-            </form>
-            <def>two blocks of wood, again on each side of the boat and located beside the mast seat. Sail ropes were wrapped round this and not tied or knotted so as to enable the quick adjustment or lowering of the sail.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp21592">
-            <form>
-               <orth>an druim</orth>
-            </form>
-            <def>the heavier rope at the bottom of a net.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp23104">
-            <form>
-               <orth>druim àrca</orth>
-            </form>
-            <def>float rope.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp24616">
-            <form>
-               <orth>sealasdair</orth>
-            </form>
-            <def>iris. The leaf of this gave a green colour.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp26992">
-            <form>
-               <orth>fraoch</orth>
-            </form>
-            <def>heather gave a green colour.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp28504">
-            <form>
-               <orth>cairt locha</orth>
-            </form>
-            <def>these roots were boiled and mixed with butter. Used for weatherproofing fishing nets.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp30016">
-            <form>
-               <orth>dùthchasach</orth>
-            </form>
-            <def>hereditary.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp31528">
-            <form>
-               <orth>na slinn</orth>
-            </form>
-            <def>on a weaver’s loom these were gaps through which two threads would come. Informant cannot be more specific.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp33040">
-            <form>
-               <orth>na h-iomalan</orth>
-            </form>
-            <def>piston like instruments in a loom. Wooden at the top and bottom with the rest consisting of wire. These kept the colours apart when weaving.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp34552">
-            <form>
-               <orth>uirchrichean</orth>
-            </form>
-            <def>this was the term applied to count the number of times a certain colour had appeared in the pattern, e.g. ‘fichead uirchir de dhearg’.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp36928">
-            <form>
-               <orth>ceithir ma seach</orth>
-            </form>
-            <def>four different colours being used to make a garment. The number would vary according to the number of colours used.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp38440">
-            <form>
-               <orth>clòmh fiachlach</orth>
-            </form>
-            <def>a cloth made using two different colours.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp39952">
-            <form>
-               <orth>beairt Ghaidhealach</orth>
-            </form>
-            <def>different from the looms that came from the mainland since they did not keep an automatic tally of the number of times a colour was used.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp41464">
-            <form>
-               <orth>fighe craobh a’ sgadain</orth>
-            </form>
-            <def>herringbone pattern.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp42976">
-            <form>
-               <orth>biurne</orth>
-            </form>
-            <def>bobbin.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp44488">
-            <form>
-               <orth>ìteachan</orth>
-            </form>
-            <def>this was loaded prior to the wool going into the shuttle (spàl). [NOTES: corrected to ‘iteachan’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp46144">
-            <form>
-               <orth>cuibheal ìteachan</orth>
-            </form>
-            <def>the ‘ìteachan’ [q.v.] was loaded by this wooden instrument upon which the informant cannot elaborate.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp48520">
-            <form>
-               <orth>clòmh</orth>
-            </form>
-            <def>this was the term applied to 110 yards of cloth.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp50032">
-            <form>
-               <orth>slàt figheadair</orth>
-            </form>
-            <def>equivalent of eight feet.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp51544">
-            <form>
-               <orth>leum droma</orth>
-            </form>
-            <def>slipped disc. There is a tradition which says that a child who was born feet first has a healing power for this complaint. By walking on the afflicted person’s back the complaint is healed.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp53056">
-            <form>
-               <orth>pollaran</orth>
-            </form>
-            <def>a tiriat? A small, grey bird seen on the shore.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp54568">
-            <form>
-               <orth>cearcan tomain</orth>
-            </form>
-            <def>partridge.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp56080">
-            <form>
-               <orth>cruadhlaich</orth>
-            </form>
-            <def>for a tight fisted, mean person.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp57592">
-            <form>
-               <orth>rùp</orth>
-            </form>
-            <def>an auction of a deceased person’s property. [NOTES: note added – radhp (S. Uist).]</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp60112">
-            <form>
-               <orth>feucagan</orth>
-            </form>
-            <def>pheasants.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp61624">
-            <form>
-               <orth>gadhar</orth>
-            </form>
-            <def>similar word to ‘gaiseadh’ as in a weakness or failing affecting an old man/woman.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp63136">
-            <form>
-               <orth>coilleach coille</orth>
-            </form>
-            <def>woodcock. [NOTES: ‘coilleach’ corrected to ‘coileach’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp64792">
-            <form>
-               <orth>siulla</orth>
-            </form>
-            <def>a quarter bottle.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp66304">
-            <form>
-               <orth>ga loradh le deoch</orth>
-            </form>
-            <def>drunk. [NOTES: ‘loradh’ corrected to ‘lòradh’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp67960">
-            <form>
-               <orth>bàl stòcainn</orth>
-            </form>
-            <def>modern equivalent would be a pyjama party. Everyone had to bring socks for the person they would leave with at the end of the night. If they did not have this they would be refused entry. [NOTES: ‘stòcainn’ corrected to ‘stocainn’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp69616">
-            <form>
-               <orth>piunndadh</orth>
-            </form>
-            <def>to confiscate, or to steal. I think ‘steal’ is a bit strong. Perhaps the word ‘pound’ might be more accurate?</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109599016">
-            <form>
-               <orth>beul ionnsachaidh</orth>
-            </form>
-            <def>to give directions, e.g. “Thug mi beul ionnsachaidh dha a dhol an rathad eile.”</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109601392">
-            <form>
-               <orth>rannaghal</orth>
-            </form>
-            <def>to reel off a number of verses or curses, swears.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109602904">
-            <form>
-               <orth>breacain</orth>
-            </form>
-            <def>breed [of cattle?] named after their colour.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109604416">
-            <form>
-               <orth>corrachasan</orth>
-            </form>
-            <def>breed of cattle that were good driving cattle. Had a quality of enduring long distances.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109605928">
-            <form>
-               <orth>pròisichean</orth>
-            </form>
-            <def>another breed [of cattle] so called due to their proud, posturing appearance.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109607440">
-            <form>
-               <orth>mórchuisean</orth>
-            </form>
-            <def>another type of cattle renowned for yielding milk in great quantities.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109608952">
-            <form>
-               <orth>crùisgainn</orth>
-            </form>
-            <def>Miss M. MacKay, Geirinish and Mr R. O’Henley use the word ‘lòchran’ when referring [to] the cylindrical object which is lit beside the tabernacle in a Roman Catholic church. The word ‘cruisgainn’ [sic] to me at least is not so original unless different types of lamp are used. English term is ‘sanctuary lamp’.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109611328">
-            <form>
-               <orth>a’ bhuaic</orth>
-            </form>
-            <def>this refers to the string/wick inside a candle.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109612840">
-            <form>
-               <orth>òla na h-eaglais</orth>
-            </form>
-            <def>informant refers to the burning of oil in the sanctuary lamp. [NOTES: ‘òla’ corrected to ‘ola’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109614568">
-            <form>
-               <orth>seòmar na sàcramaid</orth>
-            </form>
-            <def>the tabernacle.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109616080">
-            <form>
-               <orth>seòmar na h-eisdeachd</orth>
-            </form>
-            <def>confessional. [NOTES: ‘eisdeachd’ corrected to ‘èisdeachd’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109617808">
-            <form>
-               <orth>tùis</orth>
-            </form>
-            <def>incense.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109619320">
-            <form>
-               <orth>stòl</orth>
-            </form>
-            <def>stole.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109620832">
-            <form>
-               <orth>culaidh</orth>
-            </form>
-            <def>priest’s vestments.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109622344">
-            <form>
-               <orth>slighe na croise</orth>
-            </form>
-            <def>stations of the cross.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109623856">
-            <form>
-               <orth>pears’ anama</orth>
-            </form>
-            <def>a prayer said immediately after a person had died.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109626232">
-            <form>
-               <orth>iudhrais</orth>
-            </form>
-            <def>evil.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109627744">
-            <form>
-               <orth>gonnathalan</orth>
-            </form>
-            <def>a strong, valorous person renowned for heroic feats. This word comes from ‘Duan Na Ceardaich’.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109629256">
-            <form>
-               <orth>a cuir làmh na’d bheatha</orth>
-            </form>
-            <def>putting yourself at risk.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109630768">
-            <form>
-               <orth>ciutaichean</orth>
-            </form>
-            <def>home-made socks.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109632280">
-            <form>
-               <orth>seacaid tonn giomaich</orth>
-            </form>
-            <def>swallow-tailed coat.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109633792">
-            <form>
-               <orth>siosacalt</orth>
-            </form>
-            <def>sleeveless waistcoat.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109635304">
-            <form>
-               <orth>péiteag mhuilichinneach</orth>
-            </form>
-            <def>waistcoat with sleeves.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109636816">
-            <form>
-               <orth>cliùrair</orth>
-            </form>
-            <def>chisel like instrument used in stonemasonry.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109638328">
-            <form>
-               <orth>bouta balla</orth>
-            </form>
-            <def>this must have been the crookie by which you could raise a rock to enable wedges to be placed beneath it, thereby bringing it to the level required. Could also manoeuvre the rock in or out with this instrument. [NOTES: note added above ‘u’ in ‘bouta’ – bh.]</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109640920">
-            <form>
-               <orth>bòrd balla</orth>
-            </form>
-            <def>prior to the modern spirit level a board of wood, square in shape was used. A v shape was cut in its middle. A string with a lead weight came down past this v and swung like a pendulum. If it came to rest in the middle of the v, then it was on the level.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109642432">
-            <form>
-               <orth>siumpair</orth>
-            </form>
-            <def>used for boring rocks.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109643944">
-            <form>
-               <orth>òrdair</orth>
-            </form>
-            <def>applied to the person who hit the hammer.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109645456">
-            <form>
-               <orth>a’ dùsgadh chlach</orth>
-            </form>
-            <def>this would be the term used when rocks were being cut out of a rock face. Could also mean as I have indicated previously that the rocks could be lifted from soil.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109647832">
-            <form>
-               <orth>a’ buinnig chlach</orth>
-            </form>
-            <def>means the same as aforementioned word [i.e. a’ dùsgadh chlach].</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109649344">
-            <form>
-               <orth>goinneal</orth>
-            </form>
-            <def>a type of rock that was brown in colour and liable to shatter easily.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109650856">
-            <form>
-               <orth>clach liaghraidh</orth>
-            </form>
-            <def>sharpening stone. Made from ‘goinneal’ [q.v.] type rock. [NOTES: note added above ‘gh’ in ‘liaghraidh’ – mh.]</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109652656">
-            <form>
-               <orth>clach loisgte</orth>
-            </form>
-            <def>volcanic rock. Difficult to break.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109654168">
-            <form>
-               <orth>a mhoin dè</orth>
-            </form>
-            <def>the day prior to yesterday.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109655680">
-            <form>
-               <orth>an eirthir</orth>
-            </form>
-            <def>the day after tomorrow.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109657192">
-            <form>
-               <orth>téip (téib)</orth>
-            </form>
-            <def>a gap as in a gap in a child’s upbringing. [NOTES: corrected to ‘tèip’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109658848">
-            <form>
-               <orth>[druid]</orth>
-            </form>
-            <def>Druid romhad e – push the door open ahead of you. Druid an dorus – ‘druid’ in this case means to close the door.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109661368">
-            <form>
-               <orth>duine deisinneach</orth>
-            </form>
-            <def>person who could meet any task, fit for anything.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109662880">
-            <form>
-               <orth>fuinn</orth>
-            </form>
-            <def>variation on ‘suinn’ meaning ‘heroes’.</def>
-         </entry>
-         <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109664392">
-            <form>
-               <orth>sgliùrach</orth>
-            </form>
-            <def>an unpleasant person.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AOHenley_BalgarvaDAMacQueenmisc">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[1987-88]</date>
+        <location>
+          <placeName>South Uist, Iochdar, Baile Gharbhaidh [Balgarva]</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>A. O’Henley</persName>
+        </person>
+        <person role="informant">
+          <persName>D. A. MacQueen</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm130800">
+        <form>
+          <orth>uileasach</orth>
+        </form>
+        <def>in suffering. “Bha mi uileasach le’m làimh.”</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm132744">
+        <form>
+          <orth>cuibhreachadh</orth>
+        </form>
+        <def>to lose your reason.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm134256">
+        <form>
+          <orth>muir uisge</orth>
+        </form>
+        <def>salt water.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm135768">
+        <form>
+          <orth>mo chompraich</orth>
+        </form>
+        <def>my belief, fate. Not sure of this. On tape. Could mean protection.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm137280">
+        <form>
+          <orth>a’ bhoill</orth>
+        </form>
+        <def>disease in horses caused by the ragwort (buathalan). [NOTES: corrected to ‘a’ bhoil’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm139224">
+        <form>
+          <orth>galair an domalais</orth>
+        </form>
+        <def>fluke.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm140736">
+        <form>
+          <orth>galair cearr</orth>
+        </form>
+        <def>caused by the tick and which caused the cattle to limp badly. [NOTES: ‘cearr’ corrected to ‘ceàrr’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm141888">
+        <form>
+          <orth>fiarsnain</orth>
+        </form>
+        <def>a beast / fly that came from the soil and entered the cow’s hoof surfacing in its back. Had to be squeezed out.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm144264">
+        <form>
+          <orth>pronnastan</orth>
+        </form>
+        <def>sulphur. Used to make a poultice. Applied to humans as well as animals. Used for rashes, boils, warts. Also given to young people to keep potential diseases at bay.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm145776">
+        <form>
+          <orth>cnoiseagan</orth>
+        </form>
+        <def>acne. [NOTES: corrected to ‘cnòiseagan’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm147432">
+        <form>
+          <orth>claigeann-ròpa</orth>
+        </form>
+        <def>rope bridle.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm148944">
+        <form>
+          <orth>mìreannach</orth>
+        </form>
+        <def>horse’s bit.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm150456">
+        <form>
+          <orth>siollachan</orth>
+        </form>
+        <def>hames.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm151968">
+        <form>
+          <orth>[strathair]</orth>
+        </form>
+        <def>Different types of saddle: – strathair cartach – strathair gige [?] – strathair plàta (used when the horse was carrying baskets).</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm154488">
+        <form>
+          <orth>briogais cartach</orth>
+        </form>
+        <def>breeches.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm156000">
+        <form>
+          <orth>strian bheag</orth>
+        </form>
+        <def>martingale rein.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm157512">
+        <form>
+          <orth>bocsa cartach</orth>
+        </form>
+        <def>loading area of a cart.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm159888">
+        <form>
+          <orth>maide aiseil</orth>
+        </form>
+        <def>depending on the horse’s height, a block of wood would be placed on the axle to make up the difference.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm161400">
+        <form>
+          <orth>fòlag</orth>
+        </form>
+        <def>a pin used to keep the wheel on the axle. Similar to the word ‘sgiofair’.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm162912">
+        <form>
+          <orth>cuishal</orth>
+        </form>
+        <def>penis. [NOTES: note added above ‘cuishal’ – cuiseal.]</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm164136">
+        <form>
+          <orth>biorach</orth>
+        </form>
+        <def>dogfish.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm165648">
+        <form>
+          <orth>blian</orth>
+        </form>
+        <def>the stomach of a fish.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm167160">
+        <form>
+          <orth>cruadhachadh</orth>
+        </form>
+        <def>drying fish to preserve them. Could be dried inside or out depending on the suitability of the weather.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm168672">
+        <form>
+          <orth>connadh</orth>
+        </form>
+        <def>dry peat sods which could be used immediately.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm170184">
+        <form>
+          <orth>spaid fhiodh</orth>
+        </form>
+        <def>wood spade. Similar to modern spade without the iron blade. Had a foot rest on one side of the handle to preserve the wooden cutter.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm172272">
+        <form>
+          <orth>baidhr</orth>
+        </form>
+        <def>afterbirth. [NOTES: note added above ‘baidhr’ – (f)baidhir [?]. Another note added in the margin: seile – afterbirth of sheep.]</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm175872">
+        <form>
+          <orth>boireannach a’ dealachadh</orth>
+        </form>
+        <def>to deliver, give birth. Prior to modern gynaecology, women blew into a bottle to facilitate delivery.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm177384">
+        <form>
+          <orth>an deach i an darna taobh</orth>
+        </form>
+        <def>Did she give birth?</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm179040">
+        <form>
+          <orth>a’ tearnadh</orth>
+        </form>
+        <def>to give birth.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm178464">
+        <form>
+          <orth>anacair mhóir</orth>
+        </form>
+        <def>venereal disease.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109482056">
+        <form>
+          <orth>fiurag (-ach)</orth>
+        </form>
+        <def>warm, clammy weather with mist on the hills. [NOTES: corrected to ‘fiùrag’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109483712">
+        <form>
+          <orth>gigili blàth</orth>
+        </form>
+        <def>similar to above [i.e. fiurag/fiùrag].</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109485224">
+        <form>
+          <orth>gàir cladaich</orth>
+        </form>
+        <def>roar of the sea.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109486736">
+        <form>
+          <orth>bristeadh cladaich</orth>
+        </form>
+        <def>roar of the sea.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109488248">
+        <form>
+          <orth>iasg driuman</orth>
+        </form>
+        <def>red and grey mullet.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109490624">
+        <form>
+          <orth>cnògain</orth>
+        </form>
+        <def>large whelk.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109492136">
+        <form>
+          <orth>maorach Moire</orth>
+        </form>
+        <def>similar to scallops.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109493648">
+        <form>
+          <orth>faoideag</orth>
+        </form>
+        <def>cowlie [sic] [cowry?] shellfish.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109495160">
+        <form>
+          <orth>còpran</orth>
+        </form>
+        <def>grew on large tangles. Yellow, brown in colour and used as decorative beads.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109496672">
+        <form>
+          <orth>speal bheoil</orth>
+        </form>
+        <def>old style razor.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109498184">
+        <form>
+          <orth>cochull</orth>
+        </form>
+        <def>covering of cloth.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109499696">
+        <form>
+          <orth>druid romhad</orth>
+        </form>
+        <def>to move forward quickly.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109501208">
+        <form>
+          <orth>dh’aoslaich mi</orth>
+        </form>
+        <def>I welcomed.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109502720">
+        <form>
+          <orth>deugbhail bàis</orth>
+        </form>
+        <def>on deathbed. [NOTES: note added above ‘d’ in ‘deugbhail’ – an t-.]</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109504376">
+        <form>
+          <orth>dleasanas bàis</orth>
+        </form>
+        <def>last rites.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109505888">
+        <form>
+          <orth>deiseil airson anail a thilgeil</orth>
+        </form>
+        <def>last breath.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109507400">
+        <form>
+          <orth>sìde air a dhol a bhouta làir</orth>
+        </form>
+        <def>expression associated with a period of time in which every conceivable aspect of poor weather conditions were [sic] experienced. [NOTES: note added above ‘u’ in ‘bhouta’ – bh.]</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109509992">
+        <form>
+          <orth>faircean</orth>
+        </form>
+        <def>crevices under rocks on the shore. Lobsters, crabs can be obtained in these. The word ‘fairc’ is different from ‘faiche’ which is used at the south end of South Uist.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109511504">
+        <form>
+          <orth>lìopain</orth>
+        </form>
+        <def>a third of a peck (péice).</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109513016" type="person">
+        <form>
+          <orth>banachag</orth>
+        </form>
+        <def>milkmaid.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109514528" type="person">
+        <form>
+          <orth>baineach</orth>
+        </form>
+        <def>weaveress.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109516040" type="person">
+        <form>
+          <orth>breabadair</orth>
+        </form>
+        <def>weaver.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109517552" type="person">
+        <form>
+          <orth>duine leipideach</orth>
+        </form>
+        <def>a clumsy person.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109519064">
+        <form>
+          <orth>“Cha tainig a leithid seo a shìde bho’n a thilg an tràigh na lugachan.”</orth>
+        </form>
+        <def>associated with extreme weather conditions when the shore was churned up and all its contents piled up at the high water mark.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109521440">
+        <form>
+          <orth>muir tiachd</orth>
+        </form>
+        <def>jellyfish.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109522952">
+        <form>
+          <orth>teine mór</orth>
+        </form>
+        <def>will o’ the wisp.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109524464">
+        <form>
+          <orth>air lochadh le falas</orth>
+        </form>
+        <def>dripping with sweat. [NOTES: ‘lochadh’ corrected to ‘lòchadh’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109526120">
+        <form>
+          <orth>[slàt]</orth>
+        </form>
+        <def>Slàt druime, slàtan taobh (two of these, one on each shoulder). Terms used for parts of spoon net or ‘tàbh’ as it is called in Gaelic.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109527704">
+        <form>
+          <orth>bàcan iomraidh</orth>
+        </form>
+        <def>rowlocks. [NOTES: ‘bàcan’ corrected to ‘bacan’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109529360">
+        <form>
+          <orth>bròg a’ chruinn</orth>
+        </form>
+        <def>where the mast was lodged in the floor of a boat.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109530872">
+        <form>
+          <orth>ceannachragan</orth>
+        </form>
+        <def>wooden supports above the seats (tobhtaichean). In previous notes I have indicated that these supports were beneath the seats, so obviously this was a preference on the craftsman’s
+          behalf.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm30616">
+        <form>
+          <orth>siladh</orth>
+        </form>
+        <def>a wooden seat at the rear of a boat which could be removed when it was being baled (taomadh).</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm26728">
+        <form>
+          <orth>[tobhta]</orth>
+        </form>
+        <def>Various seats in a boat: – tobhta stiùraidh – tobhta a’ chruinn – tobhta iomraidh – tobhta bheag (at rear).</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm23200">
+        <form>
+          <orth>spor iomraidh</orth>
+        </form>
+        <def>a wooden block in front of the rowing seat which served as a support for the person who was rowing.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idm708648">
+        <form>
+          <orth>fàsag</orth>
+        </form>
+        <def>the bung.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp5752">
+        <form>
+          <orth>tuim ghrod</orth>
+        </form>
+        <def>this noxious excess water was sometimes stored if there were sharks in the area. The substance was thrown at them which supposedly kept them at bay.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp8128">
+        <form>
+          <orth>ràc</orth>
+        </form>
+        <def>traveller running up and down the sail mast.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp9640">
+        <form>
+          <orth>cuairtean</orth>
+        </form>
+        <def>variant name for ‘stràc’ or tummers. So far I have not come across this in South Uist or Eriskay, so it must be peculiar to the Iochdar area. Therefore you have ‘cuairt bheoil’ instead of
+          ‘stràc bheoil’. ‘Fliuch bhòrd’ is used as in the aforementioned areas.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp11152">
+        <form>
+          <orth>gualainn</orth>
+        </form>
+        <def>literally the shoulders of a boat, i.e. where the boat widens out in the middle.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp12664">
+        <form>
+          <orth>plìuchcan</orth>
+        </form>
+        <def>flukes on an anchor.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp14176">
+        <form>
+          <orth>stòc an acair</orth>
+        </form>
+        <def>a metal rod forming part of an anchor which props up the anchor so as not to fall flat, e.g. <graphic url="BalgarvaDAMacQueenmiscillust1.jpg" width="200px"/>
+        </def>
+        <note>[NOTES: ‘stòc’ corrected to ‘stoc’.]</note>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp16696">
+        <form>
+          <orth>stòc na bàta</orth>
+        </form>
+        <def>gunwale? [NOTES: ‘stòc’ corrected to ‘stoc’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp18352">
+        <form>
+          <orth>dà shùil a’ chruinn</orth>
+        </form>
+        <def>two hooks, one on each side of the boat to which the sail ropes were attached. <graphic url="BalgarvaDAMacQueenmiscillust2.jpg" width="200px"/>
+        </def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp19864">
+        <form>
+          <orth>crochadh a’ chruinn</orth>
+        </form>
+        <def>two blocks of wood, again on each side of the boat and located beside the mast seat. Sail ropes were wrapped round this and not tied or knotted so as to enable the quick adjustment or
+          lowering of the sail.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp21592">
+        <form>
+          <orth>an druim</orth>
+        </form>
+        <def>the heavier rope at the bottom of a net.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp23104">
+        <form>
+          <orth>druim àrca</orth>
+        </form>
+        <def>float rope.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp24616">
+        <form>
+          <orth>sealasdair</orth>
+        </form>
+        <def>iris. The leaf of this gave a green colour.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp26992">
+        <form>
+          <orth>fraoch</orth>
+        </form>
+        <def>heather gave a green colour.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp28504">
+        <form>
+          <orth>cairt locha</orth>
+        </form>
+        <def>these roots were boiled and mixed with butter. Used for weatherproofing fishing nets.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp30016">
+        <form>
+          <orth>dùthchasach</orth>
+        </form>
+        <def>hereditary.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp31528">
+        <form>
+          <orth>na slinn</orth>
+        </form>
+        <def>on a weaver’s loom these were gaps through which two threads would come. Informant cannot be more specific.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp33040">
+        <form>
+          <orth>na h-iomalan</orth>
+        </form>
+        <def>piston like instruments in a loom. Wooden at the top and bottom with the rest consisting of wire. These kept the colours apart when weaving.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp34552">
+        <form>
+          <orth>uirchrichean</orth>
+        </form>
+        <def>this was the term applied to count the number of times a certain colour had appeared in the pattern, e.g. ‘fichead uirchir de dhearg’.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp36928">
+        <form>
+          <orth>ceithir ma seach</orth>
+        </form>
+        <def>four different colours being used to make a garment. The number would vary according to the number of colours used.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp38440">
+        <form>
+          <orth>clòmh fiachlach</orth>
+        </form>
+        <def>a cloth made using two different colours.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp39952">
+        <form>
+          <orth>beairt Ghaidhealach</orth>
+        </form>
+        <def>different from the looms that came from the mainland since they did not keep an automatic tally of the number of times a colour was used.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp41464">
+        <form>
+          <orth>fighe craobh a’ sgadain</orth>
+        </form>
+        <def>herringbone pattern.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp42976">
+        <form>
+          <orth>biurne</orth>
+        </form>
+        <def>bobbin.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp44488">
+        <form>
+          <orth>ìteachan</orth>
+        </form>
+        <def>this was loaded prior to the wool going into the shuttle (spàl). [NOTES: corrected to ‘iteachan’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp46144">
+        <form>
+          <orth>cuibheal ìteachan</orth>
+        </form>
+        <def>the ‘ìteachan’ [q.v.] was loaded by this wooden instrument upon which the informant cannot elaborate.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp48520">
+        <form>
+          <orth>clòmh</orth>
+        </form>
+        <def>this was the term applied to 110 yards of cloth.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp50032">
+        <form>
+          <orth>slàt figheadair</orth>
+        </form>
+        <def>equivalent of eight feet.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp51544">
+        <form>
+          <orth>leum droma</orth>
+        </form>
+        <def>slipped disc. There is a tradition which says that a child who was born feet first has a healing power for this complaint. By walking on the afflicted person’s back the complaint is
+          healed.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp53056" type="bird">
+        <form>
+          <orth>pollaran</orth>
+        </form>
+        <def>a tiriat? A small, grey bird seen on the shore.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp54568" type="bird">
+        <form>
+          <orth>cearcan tomain</orth>
+        </form>
+        <def>partridge.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp56080" type="person">
+        <form>
+          <orth>cruadhlaich</orth>
+        </form>
+        <def>for a tight fisted, mean person.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp57592">
+        <form>
+          <orth>rùp</orth>
+        </form>
+        <def>an auction of a deceased person’s property. [NOTES: note added – radhp (S. Uist).]</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp60112" type="bird">
+        <form>
+          <orth>feucagan</orth>
+        </form>
+        <def>pheasants.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp61624">
+        <form>
+          <orth>gadhar</orth>
+        </form>
+        <def>similar word to ‘gaiseadh’ as in a weakness or failing affecting an old man/woman.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp63136" type="bird">
+        <form>
+          <orth>coilleach coille</orth>
+        </form>
+        <def>woodcock. [NOTES: ‘coilleach’ corrected to ‘coileach’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp64792">
+        <form>
+          <orth>siulla</orth>
+        </form>
+        <def>a quarter bottle.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp66304">
+        <form>
+          <orth>ga loradh le deoch</orth>
+        </form>
+        <def>drunk. [NOTES: ‘loradh’ corrected to ‘lòradh’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp67960">
+        <form>
+          <orth>bàl stòcainn</orth>
+        </form>
+        <def>modern equivalent would be a pyjama party. Everyone had to bring socks for the person they would leave with at the end of the night. If they did not have this they would be refused entry.
+          [NOTES: ‘stòcainn’ corrected to ‘stocainn’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp69616">
+        <form>
+          <orth>piunndadh</orth>
+        </form>
+        <def>to confiscate, or to steal. I think ‘steal’ is a bit strong. Perhaps the word ‘pound’ might be more accurate?</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109599016">
+        <form>
+          <orth>beul ionnsachaidh</orth>
+        </form>
+        <def>to give directions, e.g. “Thug mi beul ionnsachaidh dha a dhol an rathad eile.”</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109601392">
+        <form>
+          <orth>rannaghal</orth>
+        </form>
+        <def>to reel off a number of verses or curses, swears.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109602904">
+        <form>
+          <orth>breacain</orth>
+        </form>
+        <def>breed [of cattle?] named after their colour.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109604416">
+        <form>
+          <orth>corrachasan</orth>
+        </form>
+        <def>breed of cattle that were good driving cattle. Had a quality of enduring long distances.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109605928">
+        <form>
+          <orth>pròisichean</orth>
+        </form>
+        <def>another breed [of cattle] so called due to their proud, posturing appearance.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109607440">
+        <form>
+          <orth>mórchuisean</orth>
+        </form>
+        <def>another type of cattle renowned for yielding milk in great quantities.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109608952">
+        <form>
+          <orth>crùisgainn</orth>
+        </form>
+        <def>Miss M. MacKay, Geirinish and Mr R. O’Henley use the word ‘lòchran’ when referring [to] the cylindrical object which is lit beside the tabernacle in a Roman Catholic church. The word
+          ‘cruisgainn’ [sic] to me at least is not so original unless different types of lamp are used. English term is ‘sanctuary lamp’.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109611328">
+        <form>
+          <orth>a’ bhuaic</orth>
+        </form>
+        <def>this refers to the string/wick inside a candle.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109612840">
+        <form>
+          <orth>òla na h-eaglais</orth>
+        </form>
+        <def>informant refers to the burning of oil in the sanctuary lamp. [NOTES: ‘òla’ corrected to ‘ola’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109614568">
+        <form>
+          <orth>seòmar na sàcramaid</orth>
+        </form>
+        <def>the tabernacle.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109616080">
+        <form>
+          <orth>seòmar na h-eisdeachd</orth>
+        </form>
+        <def>confessional. [NOTES: ‘eisdeachd’ corrected to ‘èisdeachd’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109617808">
+        <form>
+          <orth>tùis</orth>
+        </form>
+        <def>incense.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109619320">
+        <form>
+          <orth>stòl</orth>
+        </form>
+        <def>stole.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109620832">
+        <form>
+          <orth>culaidh</orth>
+        </form>
+        <def>priest’s vestments.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109622344">
+        <form>
+          <orth>slighe na croise</orth>
+        </form>
+        <def>stations of the cross.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109623856">
+        <form>
+          <orth>pears’ anama</orth>
+        </form>
+        <def>a prayer said immediately after a person had died.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109626232">
+        <form>
+          <orth>iudhrais</orth>
+        </form>
+        <def>evil.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109627744" type="person">
+        <form>
+          <orth>gonnathalan</orth>
+        </form>
+        <def>a strong, valorous person renowned for heroic feats. This word comes from ‘Duan Na Ceardaich’.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109629256">
+        <form>
+          <orth>a cuir làmh na’d bheatha</orth>
+        </form>
+        <def>putting yourself at risk.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109630768">
+        <form>
+          <orth>ciutaichean</orth>
+        </form>
+        <def>home-made socks.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109632280">
+        <form>
+          <orth>seacaid tonn giomaich</orth>
+        </form>
+        <def>swallow-tailed coat.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109633792">
+        <form>
+          <orth>siosacalt</orth>
+        </form>
+        <def>sleeveless waistcoat.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109635304">
+        <form>
+          <orth>péiteag mhuilichinneach</orth>
+        </form>
+        <def>waistcoat with sleeves.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109636816">
+        <form>
+          <orth>cliùrair</orth>
+        </form>
+        <def>chisel like instrument used in stonemasonry.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109638328">
+        <form>
+          <orth>bouta balla</orth>
+        </form>
+        <def>this must have been the crookie by which you could raise a rock to enable wedges to be placed beneath it, thereby bringing it to the level required. Could also manoeuvre the rock in or
+          out with this instrument. [NOTES: note added above ‘u’ in ‘bouta’ – bh.]</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109640920">
+        <form>
+          <orth>bòrd balla</orth>
+        </form>
+        <def>prior to the modern spirit level a board of wood, square in shape was used. A v shape was cut in its middle. A string with a lead weight came down past this v and swung like a pendulum.
+          If it came to rest in the middle of the v, then it was on the level.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109642432">
+        <form>
+          <orth>siumpair</orth>
+        </form>
+        <def>used for boring rocks.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109643944" type="person">
+        <form>
+          <orth>òrdair</orth>
+        </form>
+        <def>applied to the person who hit the hammer.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109645456">
+        <form>
+          <orth>a’ dùsgadh chlach</orth>
+        </form>
+        <def>this would be the term used when rocks were being cut out of a rock face. Could also mean as I have indicated previously that the rocks could be lifted from soil.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109647832">
+        <form>
+          <orth>a’ buinnig chlach</orth>
+        </form>
+        <def>means the same as aforementioned word [i.e. a’ dùsgadh chlach].</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109649344">
+        <form>
+          <orth>goinneal</orth>
+        </form>
+        <def>a type of rock that was brown in colour and liable to shatter easily.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109650856">
+        <form>
+          <orth>clach liaghraidh</orth>
+        </form>
+        <def>sharpening stone. Made from ‘goinneal’ [q.v.] type rock. [NOTES: note added above ‘gh’ in ‘liaghraidh’ – mh.]</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109652656">
+        <form>
+          <orth>clach loisgte</orth>
+        </form>
+        <def>volcanic rock. Difficult to break.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109654168">
+        <form>
+          <orth>a mhoin dè</orth>
+        </form>
+        <def>the day prior to yesterday.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109655680">
+        <form>
+          <orth>an eirthir</orth>
+        </form>
+        <def>the day after tomorrow.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109657192">
+        <form>
+          <orth>téip (téib)</orth>
+        </form>
+        <def>a gap as in a gap in a child’s upbringing. [NOTES: corrected to ‘tèip’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109658848">
+        <form>
+          <orth>[druid]</orth>
+        </form>
+        <def>Druid romhad e – push the door open ahead of you. Druid an dorus – ‘druid’ in this case means to close the door.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109661368" type="person">
+        <form>
+          <orth>duine deisinneach</orth>
+        </form>
+        <def>person who could meet any task, fit for anything.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109662880" type="person">
+        <form>
+          <orth>fuinn</orth>
+        </form>
+        <def>variation on ‘suinn’ meaning ‘heroes’.</def>
+      </entry>
+      <entry xml:id="AOHenley_BalgarvaDAMacQueenmisc-idp109664392" type="person">
+        <form>
+          <orth>sgliùrach</orth>
+        </form>
+        <def>an unpleasant person.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

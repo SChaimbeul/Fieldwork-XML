@@ -1,317 +1,288 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Peat_BoreraigMMacLeodmoine">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[27/07/1968 – date in the fieldworker’s comment in section 5]</date>
-            <location>
-               <placeName>An t-Eilean Sgitheanach, Borraraig [Skye, Boreraig]</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>Ruairidh MacFhionghuin, Peairt [Roderick MacKinnon, Perth]</persName>
-            </person>
-            <person role="informant">
-               <persName>Murchadh MacLeod</persName>
-               <persName xml:lang="gd">Murchadh MacLeoid </persName>
-               <age>87</age>
-               <birth>
-                  <placeName>Borraraig [Skye, Boreraig]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Peat-Working</term>
-               <term>Mòine</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="Peat_BoreraigMMacLeodmoine-d0e35"
-            >1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
-         <head
-             xml:id="Peat_BoreraigMMacLeodmoine-d0e39"
-             subtype="h2">Am blàr mona:</head>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e44">
-            <form>
-               <orth>breacadh</orth>
-            </form>
-            <def>a’ gearradh an réisg le spaid air fad a’ phuill agus air a leud airson a’ mhòine a rùsgadh.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e53">
-            <form>
-               <orth>rùsgadh</orth>
-            </form>
-            <def>a’ gearradh fodha’s a’ tilgeil a’ chip thar a’ phuill. Ma bhitheas dithis ann, bidh am breacadh tarsuinn ’s an gearradh fodha air an deanamh aig an aon am.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e62">
-            <form>
-               <orth>an ceap</orth>
-            </form>
-            <def>riasg – mu throigh air leud agus mu dhà throigh gu leth air fhad.</def>
-         </entry>
-         <head
-             xml:id="Peat_BoreraigMMacLeodmoine-d0e70"
-            >2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
-         <head
-             xml:id="Peat_BoreraigMMacLeodmoine-d0e74"
-             subtype="h2">Am poll mona:</head>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e79">
-            <form>
-               <orth>am barrad</orth>
-            </form>
-            <def>a’ cheud fhàd.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e88">
-            <form>
-               <orth>an grunnad</orth>
-            </form>
-            <def>an dara fàd.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e97">
-            <form>
-               <orth>an dubhad</orth>
-            </form>
-            <def>an treas fàd.</def>
-         </entry>
-         <head
-             xml:id="Peat_BoreraigMMacLeodmoine-d0e105"
-             subtype="h2">[blank]</head>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e110">
-            <form>
-               <orth>an sgaoilteach</orth>
-            </form>
-            <def>far am bithear a’ sgaoileadh a mach na mòna airson a tiormachadh – seachd ’nan sreathan a ceann a chéile.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e119">
-            <form>
-               <orth>an gàradh uinneagach</orth>
-            </form>
-            <def>nuair a bhios an sgaoilteach ro bheag bithear a’ deanamh gàradh air na fàdan agus uinneagan eatorra.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e128">
-            <form>
-               <orth>màthair mhòna</orth>
-            </form>
-            <def>na fàdan anns a’ cheud sreath air tarsuinn a’ phuill.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e137">
-            <form>
-               <orth>an carcaire</orth>
-            </form>
-            <def>sreath fhàdan air tarsuinn a’ phuill.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e146">
-            <form>
-               <orth>na fàdan (no fòid)</orth>
-            </form>
-            <def>seachd fàdan as a’ bharrad air leud, sia as a’ ghrunnad agus cóig as an dubhad.</def>
-         </entry>
-         <head
-             xml:id="Peat_BoreraigMMacLeodmoine-d0e154"
-             subtype="h2">Innealan:</head>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e159">
-            <form>
-               <orth>an tairsgian (no an t-iarunn-mona)</orth>
-            </form>
-            <def>also referred to as ‘an tairsgil’. Actually, this was the common pronunciation.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e168">
-            <form>
-               <orth>(a) cas</orth>
-            </form>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e174">
-            <form>
-               <orth>(b) sgrogan (also referred to as sgonnan)</orth>
-            </form>
-            <def>far am bi am fear-buana a’ cur a choise.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e183">
-            <form>
-               <orth>(c) an t-iarunn (no an ceap)</orth>
-            </form>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e189">
-            <form>
-               <orth>(d) claisean</orth>
-            </form>
-            <def>far am bi a’ chas (agus an sgrogan) a’ dol an greim ’san iarunn.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e198">
-            <form>
-               <orth>(e) sgiath</orth>
-            </form>
-            <def>a mach dìreach o’n iarunn air an taobh chlì.</def>
-         </entry>
-         <head
-             xml:id="Peat_BoreraigMMacLeodmoine-d0e206"
-            >3. A’ tiormachadh na mònach</head>
-         <head
-             xml:id="Peat_BoreraigMMacLeodmoine-d0e210"
-             subtype="h2">A’ togail na mòna:</head>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e215">
-            <form>
-               <orth>1. casa beaga</orth>
-            </form>
-            <def>tri fadan an taic a chéile – fear air oir agus a dhà air uachdar an tacas ris – an taobh a bha fodhpa a mach.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e224">
-            <form>
-               <orth>2. teinntean</orth>
-            </form>
-            <def>na fàdan air an cur ’nan tarradanan beaga air chumadh teine mar a bhiodh e am meadhon an làir ’san tigh dhubh.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e233">
-            <form>
-               <orth>3. rùdhain</orth>
-            </form>
-            <def>cruachan beaga – mu thrì no ceithir a theinntean anns gach cruaich.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e242">
-            <form>
-               <orth>4. cruachan</orth>
-            </form>
-            <def>mu làn cartach anns gach cruaich.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e251">
-            <form>
-               <orth>5. a’ chruach mhór</orth>
-            </form>
-            <def>bha a’ chruach seo aig an tigh.</def>
-         </entry>
-         <head
-             xml:id="Peat_BoreraigMMacLeodmoine-d0e259"
-             subtype="h2">[blank]</head>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e264">
-            <form>
-               <orth>griodhadh</orth>
-            </form>
-            <def>fàdan ’nan sreathan air uachdar a chéile taobh a mach na cruaiche móire.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e273">
-            <form>
-               <orth>lìonadh</orth>
-            </form>
-            <def>mòine am meadhon na cruaiche móire.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e282">
-            <form>
-               <orth>caorain</orth>
-            </form>
-            <def>mòine bhriste.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e291">
-            <form>
-               <orth>smùrach</orth>
-            </form>
-            <def>mòine ’na mìrean.</def>
-         </entry>
-         <head
-             xml:id="Peat_BoreraigMMacLeodmoine-d0e299"
-            >4. A’ cruachadh na mònach</head>
-         <head
-             xml:id="Peat_BoreraigMMacLeodmoine-d0e303"
-             subtype="h2">Tughadh:</head>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e308">
-            <form>
-               <orth>sgrathan</orth>
-            </form>
-            <def>nuair a bhios a’ chruach mhór ullamh bidh sgrathan fada réisg air an cur tarsuinn air a mullach air an aghaidh fodhpa.</def>
-         </entry>
-         <head
-             xml:id="Peat_BoreraigMMacLeodmoine-d0e316"
-            >5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
-         <head
-             xml:id="Peat_BoreraigMMacLeodmoine-d0e320"
-             subtype="h2">An cliabh:</head>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e325">
-            <form>
-               <orth>caol beag</orth>
-            </form>
-            <def>tha an cliabh air a dheanamh air caol beag.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e334">
-            <form>
-               <orth>staingean</orth>
-            </form>
-            <def>(also referred to as ‘asnaichean’) Bha an caol beag air fhighe ’na chuairtean mu thimchioll nan staingean.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e343">
-            <form>
-               <orth>a’ chuairt bheòil</orth>
-            </form>
-            <def>a’ cheud chuairt a bha dol air a’ chliabh.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e352">
-            <form>
-               <orth>taobhaistean</orth>
-            </form>
-            <def>fosglaidhean am meadhon a’ chléibh.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e361">
-            <form>
-               <orth>màs</orth>
-            </form>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e367">
-            <form>
-               <orth>iris</orth>
-            </form>
-            <def>an ròpa, anns na taobhaistean, leis an robhar a’ giùlain a’ chléibh.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-idola192">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>(Tha mi duilich nach d’ fhuair mi cothrom ceart air na faclan uile mun chliabh a thional nuair a bha mi san Eilean Sgitheanach air an t-samhradh seo. RM [Ruairidh MacFhionghuin] 27/7/68)</def>
-         </entry>
-         <head
-             xml:id="Peat_BoreraigMMacLeodmoine-d0e384"
-            >6. Seòrsachan mònach</head>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e389">
-            <form>
-               <orth>mòine chóinntich</orth>
-            </form>
-            <def>mòine aotrom.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e398">
-            <form>
-               <orth>mòine dhubh</orth>
-            </form>
-            <def>mòine dhubh, throm – mar as trice as an dubhad.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e407">
-            <form>
-               <orth>mòine spaide</orth>
-            </form>
-            <def>mòine, gun rùsgadh, air a gearradh le spaid – leud na spaide agus mu dhà òirlich air thighead.</def>
-         </entry>
-         <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e416">
-            <form>
-               <orth>mòine chreadha</orth>
-            </form>
-            <def>mòine dhubh, throm, anns a bheil criadh – agus móran luatha.</def>
-         </entry>
-         <head
-             xml:id="Peat_BoreraigMMacLeodmoine-d0e424"
-            >7. Faclan eile</head>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[27/07/1968 – date in the fieldworker’s comment in section 5]</date>
+        <location>
+          <placeName>An t-Eilean Sgitheanach, Borraraig [Skye, Boreraig]</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>Ruairidh MacFhionghuin, Peairt [Roderick MacKinnon, Perth]</persName>
+        </person>
+        <person role="informant">
+          <persName>Murchadh MacLeod</persName>
+          <persName xml:lang="gd">Murchadh MacLeoid </persName>
+          <age>87</age>
+          <birth>
+            <placeName>Borraraig [Skye, Boreraig]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Peat-Working</term>
+          <term>Mòine</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="Peat_BoreraigMMacLeodmoine-d0e35">1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
+      <head xml:id="Peat_BoreraigMMacLeodmoine-d0e39" subtype="h2">Am blàr mona:</head>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e44">
+        <form>
+          <orth>breacadh</orth>
+        </form>
+        <def>a’ gearradh an réisg le spaid air fad a’ phuill agus air a leud airson a’ mhòine a rùsgadh.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e53">
+        <form>
+          <orth>rùsgadh</orth>
+        </form>
+        <def>a’ gearradh fodha’s a’ tilgeil a’ chip thar a’ phuill. Ma bhitheas dithis ann, bidh am breacadh tarsuinn ’s an gearradh fodha air an deanamh aig an aon am.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e62">
+        <form>
+          <orth>an ceap</orth>
+        </form>
+        <def>riasg – mu throigh air leud agus mu dhà throigh gu leth air fhad.</def>
+      </entry>
+      <head xml:id="Peat_BoreraigMMacLeodmoine-d0e70">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
+      <head xml:id="Peat_BoreraigMMacLeodmoine-d0e74" subtype="h2">Am poll mona:</head>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e79">
+        <form>
+          <orth>am barrad</orth>
+        </form>
+        <def>a’ cheud fhàd.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e88">
+        <form>
+          <orth>an grunnad</orth>
+        </form>
+        <def>an dara fàd.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e97">
+        <form>
+          <orth>an dubhad</orth>
+        </form>
+        <def>an treas fàd.</def>
+      </entry>
+      <head xml:id="Peat_BoreraigMMacLeodmoine-d0e105" subtype="h2">[blank]</head>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e110">
+        <form>
+          <orth>an sgaoilteach</orth>
+        </form>
+        <def>far am bithear a’ sgaoileadh a mach na mòna airson a tiormachadh – seachd ’nan sreathan a ceann a chéile.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e119">
+        <form>
+          <orth>an gàradh uinneagach</orth>
+        </form>
+        <def>nuair a bhios an sgaoilteach ro bheag bithear a’ deanamh gàradh air na fàdan agus uinneagan eatorra.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e128">
+        <form>
+          <orth>màthair mhòna</orth>
+        </form>
+        <def>na fàdan anns a’ cheud sreath air tarsuinn a’ phuill.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e137">
+        <form>
+          <orth>an carcaire</orth>
+        </form>
+        <def>sreath fhàdan air tarsuinn a’ phuill.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e146">
+        <form>
+          <orth>na fàdan (no fòid)</orth>
+        </form>
+        <def>seachd fàdan as a’ bharrad air leud, sia as a’ ghrunnad agus cóig as an dubhad.</def>
+      </entry>
+      <head xml:id="Peat_BoreraigMMacLeodmoine-d0e154" subtype="h2">Innealan:</head>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e159">
+        <form>
+          <orth>an tairsgian (no an t-iarunn-mona)</orth>
+        </form>
+        <def>also referred to as ‘an tairsgil’. Actually, this was the common pronunciation.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e168">
+        <form>
+          <orth>(a) cas</orth>
+        </form>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e174">
+        <form>
+          <orth>(b) sgrogan (also referred to as sgonnan)</orth>
+        </form>
+        <def>far am bi am fear-buana a’ cur a choise.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e183">
+        <form>
+          <orth>(c) an t-iarunn (no an ceap)</orth>
+        </form>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e189">
+        <form>
+          <orth>(d) claisean</orth>
+        </form>
+        <def>far am bi a’ chas (agus an sgrogan) a’ dol an greim ’san iarunn.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e198">
+        <form>
+          <orth>(e) sgiath</orth>
+        </form>
+        <def>a mach dìreach o’n iarunn air an taobh chlì.</def>
+      </entry>
+      <head xml:id="Peat_BoreraigMMacLeodmoine-d0e206">3. A’ tiormachadh na mònach</head>
+      <head xml:id="Peat_BoreraigMMacLeodmoine-d0e210" subtype="h2">A’ togail na mòna:</head>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e215">
+        <form>
+          <orth>1. casa beaga</orth>
+        </form>
+        <def>tri fadan an taic a chéile – fear air oir agus a dhà air uachdar an tacas ris – an taobh a bha fodhpa a mach.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e224">
+        <form>
+          <orth>2. teinntean</orth>
+        </form>
+        <def>na fàdan air an cur ’nan tarradanan beaga air chumadh teine mar a bhiodh e am meadhon an làir ’san tigh dhubh.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e233">
+        <form>
+          <orth>3. rùdhain</orth>
+        </form>
+        <def>cruachan beaga – mu thrì no ceithir a theinntean anns gach cruaich.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e242">
+        <form>
+          <orth>4. cruachan</orth>
+        </form>
+        <def>mu làn cartach anns gach cruaich.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e251">
+        <form>
+          <orth>5. a’ chruach mhór</orth>
+        </form>
+        <def>bha a’ chruach seo aig an tigh.</def>
+      </entry>
+      <head xml:id="Peat_BoreraigMMacLeodmoine-d0e259" subtype="h2">[blank]</head>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e264">
+        <form>
+          <orth>griodhadh</orth>
+        </form>
+        <def>fàdan ’nan sreathan air uachdar a chéile taobh a mach na cruaiche móire.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e273">
+        <form>
+          <orth>lìonadh</orth>
+        </form>
+        <def>mòine am meadhon na cruaiche móire.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e282">
+        <form>
+          <orth>caorain</orth>
+        </form>
+        <def>mòine bhriste.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e291">
+        <form>
+          <orth>smùrach</orth>
+        </form>
+        <def>mòine ’na mìrean.</def>
+      </entry>
+      <head xml:id="Peat_BoreraigMMacLeodmoine-d0e299">4. A’ cruachadh na mònach</head>
+      <head xml:id="Peat_BoreraigMMacLeodmoine-d0e303" subtype="h2">Tughadh:</head>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e308">
+        <form>
+          <orth>sgrathan</orth>
+        </form>
+        <def>nuair a bhios a’ chruach mhór ullamh bidh sgrathan fada réisg air an cur tarsuinn air a mullach air an aghaidh fodhpa.</def>
+      </entry>
+      <head xml:id="Peat_BoreraigMMacLeodmoine-d0e316">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
+      <head xml:id="Peat_BoreraigMMacLeodmoine-d0e320" subtype="h2">An cliabh:</head>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e325">
+        <form>
+          <orth>caol beag</orth>
+        </form>
+        <def>tha an cliabh air a dheanamh air caol beag.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e334">
+        <form>
+          <orth>staingean</orth>
+        </form>
+        <def>(also referred to as ‘asnaichean’) Bha an caol beag air fhighe ’na chuairtean mu thimchioll nan staingean.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e343">
+        <form>
+          <orth>a’ chuairt bheòil</orth>
+        </form>
+        <def>a’ cheud chuairt a bha dol air a’ chliabh.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e352">
+        <form>
+          <orth>taobhaistean</orth>
+        </form>
+        <def>fosglaidhean am meadhon a’ chléibh.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e361">
+        <form>
+          <orth>màs</orth>
+        </form>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e367">
+        <form>
+          <orth>iris</orth>
+        </form>
+        <def>an ròpa, anns na taobhaistean, leis an robhar a’ giùlain a’ chléibh.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-idola192">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>(Tha mi duilich nach d’ fhuair mi cothrom ceart air na faclan uile mun chliabh a thional nuair a bha mi san Eilean Sgitheanach air an t-samhradh seo. RM [Ruairidh MacFhionghuin]
+          27/7/68)</def>
+      </entry>
+      <head xml:id="Peat_BoreraigMMacLeodmoine-d0e384">6. Seòrsachan mònach</head>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e389">
+        <form>
+          <orth>mòine chóinntich</orth>
+        </form>
+        <def>mòine aotrom.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e398">
+        <form>
+          <orth>mòine dhubh</orth>
+        </form>
+        <def>mòine dhubh, throm – mar as trice as an dubhad.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e407">
+        <form>
+          <orth>mòine spaide</orth>
+        </form>
+        <def>mòine, gun rùsgadh, air a gearradh le spaid – leud na spaide agus mu dhà òirlich air thighead.</def>
+      </entry>
+      <entry xml:id="Peat_BoreraigMMacLeodmoine-d0e416">
+        <form>
+          <orth>mòine chreadha</orth>
+        </form>
+        <def>mòine dhubh, throm, anns a bheil criadh – agus móran luatha.</def>
+      </entry>
+      <head xml:id="Peat_BoreraigMMacLeodmoine-d0e424">7. Faclan eile</head>
+    </body>
+  </text>
 </TEI>

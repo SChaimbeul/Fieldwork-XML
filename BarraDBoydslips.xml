@@ -1,92 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BarraDBoydslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: the note next to the date – ‘Card’ or ‘Letter’. This seems to refer to the two postcards found in one of the card index drawers on which the slips are based.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>1970</date>
-            <location>
-               <placeName>Barra, Castlebay</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>? [self]</persName>
-            </person>
-            <person role="informant">
-               <persName>Donald Boyd?</persName>
-               <persName xml:lang="gd">D Boyd </persName>
-               <age>? [c. 65?]</age>
-               <birth>
-                  <placeName>[North Uist?]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_BarraDBoydslips-idp161831632">
-            <form>
-               <orth>laighe-leòiream</orth>
-            </form>
-            <def>Quotation: a’ deanamh laighe-leòiream. Notes: ‘basking in the sun’ (Grimsay, North Uist).</def>
-         </entry>
-         <entry xml:id="Slips_BarraDBoydslips-idp161833288">
-            <form>
-               <orth>tathanta</orth>
-            </form>
-            <def>Notes: ‘contrary, in speech or action’.</def>
-         </entry>
-         <entry xml:id="Slips_BarraDBoydslips-idp161834800">
-            <form>
-               <orth>briuthasach</orth>
-            </form>
-            <def>Notes: ‘sexy (in N. Uist parlance)’.</def>
-         </entry>
-         <entry xml:id="Slips_BarraDBoydslips-idp161836312">
-            <form>
-               <orth>caimeadalach</orth>
-            </form>
-            <def>Notes: ‘roundabout, circuitous’.</def>
-         </entry>
-         <entry xml:id="Slips_BarraDBoydslips-idp161837824">
-            <form>
-               <orth>dionruigeach</orth>
-            </form>
-            <def>Notes: ‘vindictive’.</def>
-         </entry>
-         <entry xml:id="Slips_BarraDBoydslips-idp161839336">
-            <form>
-               <orth>droganta</orth>
-            </form>
-            <def>Notes: ‘well-dressed’, or ‘cheerful in mood’.</def>
-         </entry>
-         <entry xml:id="Slips_BarraDBoydslips-idp161840848">
-            <form>
-               <orth>féicheantas</orth>
-            </form>
-            <def>Notes: ‘verbal sparring; parleying with words’.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: the note next to the date – ‘Card’ or ‘Letter’. This seems to refer to the two postcards found in one of the card index drawers on which the slips are based.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>1970</date>
+        <location>
+          <placeName>Barra, Castlebay</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>? [self]</persName>
+        </person>
+        <person role="informant">
+          <persName>Donald Boyd?</persName>
+          <persName xml:lang="gd">D Boyd </persName>
+          <age>? [c. 65?]</age>
+          <birth>
+            <placeName>[North Uist?]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_BarraDBoydslips-idp161831632">
+        <form>
+          <orth>laighe-leòiream</orth>
+        </form>
+        <def>Quotation: a’ deanamh laighe-leòiream. Notes: ‘basking in the sun’ (Grimsay, North Uist).</def>
+      </entry>
+      <entry xml:id="Slips_BarraDBoydslips-idp161833288">
+        <form>
+          <orth>tathanta</orth>
+        </form>
+        <def>Notes: ‘contrary, in speech or action’.</def>
+      </entry>
+      <entry xml:id="Slips_BarraDBoydslips-idp161834800">
+        <form>
+          <orth>briuthasach</orth>
+        </form>
+        <def>Notes: ‘sexy (in N. Uist parlance)’.</def>
+      </entry>
+      <entry xml:id="Slips_BarraDBoydslips-idp161836312">
+        <form>
+          <orth>caimeadalach</orth>
+        </form>
+        <def>Notes: ‘roundabout, circuitous’.</def>
+      </entry>
+      <entry xml:id="Slips_BarraDBoydslips-idp161837824">
+        <form>
+          <orth>dionruigeach</orth>
+        </form>
+        <def>Notes: ‘vindictive’.</def>
+      </entry>
+      <entry xml:id="Slips_BarraDBoydslips-idp161839336">
+        <form>
+          <orth>droganta</orth>
+        </form>
+        <def>Notes: ‘well-dressed’, or ‘cheerful in mood’.</def>
+      </entry>
+      <entry xml:id="Slips_BarraDBoydslips-idp161840848">
+        <form>
+          <orth>féicheantas</orth>
+        </form>
+        <def>Notes: ‘verbal sparring; parleying with words’.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

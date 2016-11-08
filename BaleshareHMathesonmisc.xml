@@ -1,634 +1,633 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="AOHenley_BaleshareHMathesonmisc">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: some words supplied by D. MacKillop (Berneray) and R. O’Henley. See below for details.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[1987-88]</date>
-            <location>
-               <placeName>North Uist, Baleshare</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>A. O’Henley</persName>
-            </person>
-            <person role="informant">
-               <persName>Hugh Matheson</persName>
-               <age>67/8</age>
-               <birth>
-                  <placeName>Baleshare</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2933360">
-            <form>
-               <orth>[giurne]</orth>
-            </form>
-            <def>Bho’n a ghiurne chun a ghuirne. – An expression meaning from the cradle to the grave. ‘Giurne’ meaning sawdust and ‘guirne’ meaning the pith of rushes.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2934872">
-            <form>
-               <orth>[guirne]</orth>
-               <pron>[See giurne]</pron>
-            </form>
-            <def>[See giurne]</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2936384">
-            <form>
-               <orth>liunndadh</orth>
-            </form>
-            <def>a wound.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2937896">
-            <form>
-               <orth>iomachais</orth>
-            </form>
-            <def>enumeration. (Argyll)</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2939408">
-            <form>
-               <orth>crioman</orth>
-            </form>
-            <def>a short distance. “Chan eil e ach crioman sios an rathad.”</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2941136">
-            <form>
-               <orth>fiughair</orth>
-            </form>
-            <def>glance. Also in sense of expecting.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2942648">
-            <form>
-               <orth>plathadh</orth>
-            </form>
-            <def>glimpse.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2944160">
-            <form>
-               <orth>màla cnuic</orth>
-            </form>
-            <def>top of a hill.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2945672">
-            <form>
-               <orth>réidh</orth>
-            </form>
-            <def>when satisfied, e.g. after eating. “Air dhi bhi réidh.”</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2947400">
-            <form>
-               <orth>geàirneal</orth>
-            </form>
-            <def>meal kist.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2948912">
-            <form>
-               <orth>crann</orth>
-            </form>
-            <def>latch. “Chuir i crann air an dorus.”</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2950640">
-            <form>
-               <orth>loirceag luideagach</orth>
-            </form>
-            <def>untidy, unkempt young girl.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2953016">
-            <form>
-               <orth>bìth</orth>
-            </form>
-            <def>to keep silent, secret. “Cumail bìth mu na thachair.”</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2954744">
-            <form>
-               <orth>trò</orth>
-            </form>
-            <def>trip. “Air an trò seo.”</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2956472">
-            <form>
-               <orth>bàth-thonn</orth>
-            </form>
-            <def>drowning wave.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2957984">
-            <form>
-               <orth>piostal</orth>
-            </form>
-            <def>a mischievous young boy.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2959496">
-            <form>
-               <orth>griadach</orth>
-            </form>
-            <def>unbaptised female child.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2961008">
-            <form>
-               <orth>Maoldomhnaich</orth>
-            </form>
-            <def>unbaptised male child.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2962520">
-            <form>
-               <orth>larach ’s uarach baile</orth>
-            </form>
-            <def>two ends of a village.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2964032">
-            <form>
-               <orth>siubhal</orth>
-            </form>
-            <def>in sense of person, possession. “Air mo shiubhal.”</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2965760">
-            <form>
-               <orth>spolt froise / thairneanach</orth>
-            </form>
-            <def>mass, lump, great quantity.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2967272">
-            <form>
-               <orth>rotal</orth>
-            </form>
-            <def>wake of ship.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2968784">
-            <form>
-               <orth>clach Mhoire</orth>
-            </form>
-            <def>hail.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2970296">
-            <form>
-               <orth>clachan Moire</orth>
-            </form>
-            <def>hailstones.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2971808">
-            <form>
-               <orth>fosag Mhoire</orth>
-            </form>
-            <def>common crested lark.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2973320">
-            <form>
-               <orth>uiseag Mhoire</orth>
-            </form>
-            <def>common crested lark.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2974832">
-            <form>
-               <orth>bigean baintighearna</orth>
-            </form>
-            <def>chaffinch or mountain linnet.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2977208">
-            <form>
-               <orth>lach Mhoire</orth>
-            </form>
-            <def>mallard duck.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2978720">
-            <form>
-               <orth>fliodh Moire</orth>
-            </form>
-            <def>small kind of chicken wood that grows in water.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2980232">
-            <form>
-               <orth>biolaire Moire</orth>
-            </form>
-            <def>kind of watercress.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2981744">
-            <form>
-               <orth>luibh Moire</orth>
-            </form>
-            <def>same as ‘lus Moire’ – marsh marigold. Once rubbed on sore and stiff knees.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2983256">
-            <form>
-               <orth>maol Moire</orth>
-            </form>
-            <def>Mary’s brow? Fattish green plant used for plasters and poultices.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2984768">
-            <form>
-               <orth>coparran Moire</orth>
-            </form>
-            <def>blue eyed limpet shell.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2519176">
-            <form>
-               <orth>maorach Moire</orth>
-            </form>
-            <def>small thin shellfish, transparently white and smooth. Found under the sand.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2515792">
-            <form>
-               <orth>cuile Mhoire</orth>
-            </form>
-            <def>Mary’s treasury or the ocean.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2513416">
-            <form>
-               <orth>sealgan-fala</orth>
-            </form>
-            <def>blood sports.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2510824">
-            <form>
-               <orth>tosg</orth>
-            </form>
-            <def>tusk tooth.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2506360">
-            <form>
-               <orth>lingeach</orth>
-            </form>
-            <def>lynx. Type of cat found in Northern hemisphere.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2831800">
-            <form>
-               <orth>slat-fhaireachaidh</orth>
-            </form>
-            <def>feeler.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2834176">
-            <form>
-               <orth>ablach (-aich)</orth>
-            </form>
-            <def>carcase, carrion.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2835688">
-            <form>
-               <orth>blian (-adh)</orth>
-            </form>
-            <def>bask, sunbathe.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2837200">
-            <form>
-               <orth>carn-slaod</orth>
-            </form>
-            <def>sledge.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2838712">
-            <form>
-               <orth>drùis</orth>
-            </form>
-            <def>fluid.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2840224">
-            <form>
-               <orth>broc-lainn</orth>
-            </form>
-            <def>den, sett.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2841736">
-            <form>
-               <orth>broclach (-aich)</orth>
-            </form>
-            <def>a den or warren.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2843248">
-            <form>
-               <orth>easag (-aige)</orth>
-            </form>
-            <def>pheasant.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2844760">
-            <form>
-               <orth>dùr (dùire)</orth>
-            </form>
-            <def>stubborn, steady.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2846272">
-            <form>
-               <orth>fàman</orth>
-            </form>
-            <def>gentle breeze, breath of wind.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2847784">
-            <form>
-               <orth>gnòsadaich</orth>
-            </form>
-            <def>grunting, lowing.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2849296">
-            <form>
-               <orth>gnos (-ois)</orth>
-            </form>
-            <def>snout or the trunk of an elephant.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2850808">
-            <form>
-               <orth>leòb</orth>
-            </form>
-            <def>lip, fold of skin.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2852320">
-            <form>
-               <orth>liatas</orth>
-            </form>
-            <def>lettuce.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2853832">
-            <form>
-               <orth>greadanadh</orth>
-            </form>
-            <def>a sharp, stinging pain.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2855344">
-            <form>
-               <orth>losgann</orth>
-            </form>
-            <def>frog, toad.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2856856">
-            <form>
-               <orth>ionad-ròcais</orth>
-            </form>
-            <def>rookery.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2858368">
-            <form>
-               <orth>gaotharan</orth>
-            </form>
-            <def>a fan.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2859880">
-            <form>
-               <orth>fang (fainge)</orth>
-            </form>
-            <def>a vulture.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2861392">
-            <form>
-               <orth>eagnaidh</orth>
-            </form>
-            <def>prudent, careful.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2862904">
-            <form>
-               <orth>geadas (-ais)</orth>
-            </form>
-            <def>pike fish.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2864416">
-            <form>
-               <orth>saobhaidh</orth>
-            </form>
-            <def>den of animal.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2866792">
-            <form>
-               <orth>tarbhach</orth>
-            </form>
-            <def>advantageous. “Bhiodh e tarbhach dhut sin ionnsachadh.”</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2868520">
-            <form>
-               <orth>snàgair</orth>
-            </form>
-            <def>reptile, crawler.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2870032">
-            <form>
-               <orth>gramail (-e)</orth>
-            </form>
-            <def>strong, resolute.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2871544">
-            <form>
-               <orth>for</orth>
-            </form>
-            <def>idea, comprehension.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2873056">
-            <form>
-               <orth>lianag</orth>
-            </form>
-            <def>a lawn or small field.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2874568">
-            <form>
-               <orth>àile-bheathail</orth>
-            </form>
-            <def>oxygen.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2876080">
-            <form>
-               <orth>asal stiallach</orth>
-            </form>
-            <def>a zebra.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2877592">
-            <form>
-               <orth>leamhan</orth>
-            </form>
-            <def>elm tree.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2879104">
-            <form>
-               <orth>spideag</orth>
-            </form>
-            <def>nightingale.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2880616">
-            <form>
-               <orth>taois</orth>
-            </form>
-            <def>in the sense of glue or paste.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2882128">
-            <form>
-               <orth>aom (-adh)</orth>
-            </form>
-            <def>incline or veer.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2883640">
-            <form>
-               <orth>seanagarra</orth>
-            </form>
-            <def>old-fashioned, sage.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2885152">
-            <form>
-               <orth>pliut (-an)</orth>
-            </form>
-            <def>flipper.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2886664">
-            <form>
-               <orth>tàtaich</orth>
-            </form>
-            <def>tame or subdue.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2888176">
-            <form>
-               <orth>searbhal</orth>
-            </form>
-            <def>serval [sic] [servile?].</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2889688">
-            <form>
-               <orth>ògan</orth>
-            </form>
-            <def>a twig or shoot.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2891200">
-            <form>
-               <orth>toinntean (-an)</orth>
-            </form>
-            <def>thread(s).</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2892712">
-            <form>
-               <orth>buinneag</orth>
-            </form>
-            <def>leaf of cabbage, sprout.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2894224">
-            <form>
-               <orth>caob (-oib)</orth>
-            </form>
-            <def>a lump or bite.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3197056">
-            <form>
-               <orth>caoir gheal</orth>
-            </form>
-            <def>white hot, frothy.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3198568">
-            <form>
-               <orth>dearc-fìona</orth>
-            </form>
-            <def>a grape.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3200080">
-            <form>
-               <orth>cobhartach</orth>
-            </form>
-            <def>prey, booty.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3201592">
-            <form>
-               <orth>clàbadair</orth>
-            </form>
-            <def>scavenger.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3203104">
-            <form>
-               <orth>burras (-ais)</orth>
-            </form>
-            <def>caterpillar.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3204616">
-            <form>
-               <orth>gucag</orth>
-            </form>
-            <def>a bubble.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3206128">
-            <form>
-               <orth>darcan (-ain)</orth>
-            </form>
-            <def>an acorn.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3207640">
-            <form>
-               <orth>arc (-an)</orth>
-            </form>
-            <def>a lizard.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3209152">
-            <form>
-               <orth>bus (buis)</orth>
-            </form>
-            <def>snout, big mouth.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3210664">
-            <form>
-               <orth>dìdean</orth>
-            </form>
-            <def>shelter, refuge.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3212176">
-            <form>
-               <orth>cuithe</orth>
-            </form>
-            <def>a pit.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3213688">
-            <form>
-               <orth>druchd meala</orth>
-            </form>
-            <def>honey milk, honeydew.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3215200">
-            <form>
-               <orth>crodhan (-ain)</orth>
-            </form>
-            <def>cloven, divided hoof. Divided hoof of ruminant quadrupeds, ascribed in pagan mythology to Pan, and thence in Christian mythology to the Devil (Ox. Dictionary).</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3216712">
-            <form>
-               <orth>cochull</orth>
-            </form>
-            <def>husk, cocoon.</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3218224">
-            <form>
-               <orth>smèileag</orth>
-            </form>
-            <def>a good blow, not deadly. “Thug e smèileag mhath dha.” (Supplied by D. MacKillop, Berneray.)</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3219952">
-            <form>
-               <orth>sgluis</orth>
-            </form>
-            <def>can be applied to many things but usually food. “Thug i dhomh sgluis.” Used commonly in Berneray. (Supplied by D. MacKillop, Berneray.)</def>
-         </entry>
-         <note>P.S.</note>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3224272">
-            <form>
-               <orth>dothachadh, dhothachadh</orth>
-            </form>
-            <def>applied to corn that has not been sufficiently dried properly. “Cha robh e air a dhothachadh ceart.” (Supplied by R. O’Henley.)</def>
-         </entry>
-         <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3226072">
-            <form>
-               <orth>caibh (f sound)</orth>
-            </form>
-            <def>sea spray travelling over land. “Tha caibh an t-sàil a’ milleadh na càraichean.” (Supplied by R. O’Henley.)</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AOHenley_BaleshareHMathesonmisc">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: some words supplied by D. MacKillop (Berneray) and R. O’Henley. See below for details.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[1987-88]</date>
+        <location>
+          <placeName>North Uist, Baleshare</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>A. O’Henley</persName>
+        </person>
+        <person role="informant">
+          <persName>Hugh Matheson</persName>
+          <age>67/8</age>
+          <birth>
+            <placeName>Baleshare</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2933360">
+        <form>
+          <orth>[giurne]</orth>
+        </form>
+        <def>Bho’n a ghiurne chun a ghuirne. – An expression meaning from the cradle to the grave. ‘Giurne’ meaning sawdust and ‘guirne’ meaning the pith of rushes.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2934872">
+        <form>
+          <orth>[guirne]</orth>
+          <pron>[See giurne]</pron>
+        </form>
+        <def>[See giurne]</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2936384">
+        <form>
+          <orth>liunndadh</orth>
+        </form>
+        <def>a wound.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2937896">
+        <form>
+          <orth>iomachais</orth>
+        </form>
+        <def>enumeration. (Argyll)</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2939408">
+        <form>
+          <orth>crioman</orth>
+        </form>
+        <def>a short distance. “Chan eil e ach crioman sios an rathad.”</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2941136">
+        <form>
+          <orth>fiughair</orth>
+        </form>
+        <def>glance. Also in sense of expecting.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2942648">
+        <form>
+          <orth>plathadh</orth>
+        </form>
+        <def>glimpse.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2944160">
+        <form>
+          <orth>màla cnuic</orth>
+        </form>
+        <def>top of a hill.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2945672">
+        <form>
+          <orth>réidh</orth>
+        </form>
+        <def>when satisfied, e.g. after eating. “Air dhi bhi réidh.”</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2947400">
+        <form>
+          <orth>geàirneal</orth>
+        </form>
+        <def>meal kist.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2948912">
+        <form>
+          <orth>crann</orth>
+        </form>
+        <def>latch. “Chuir i crann air an dorus.”</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2950640" type="person">
+        <form>
+          <orth>loirceag luideagach</orth>
+        </form>
+        <def>untidy, unkempt young girl.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2953016">
+        <form>
+          <orth>bìth</orth>
+        </form>
+        <def>to keep silent, secret. “Cumail bìth mu na thachair.”</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2954744">
+        <form>
+          <orth>trò</orth>
+        </form>
+        <def>trip. “Air an trò seo.”</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2956472">
+        <form>
+          <orth>bàth-thonn</orth>
+        </form>
+        <def>drowning wave.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2957984" type="person">
+        <form>
+          <orth>piostal</orth>
+        </form>
+        <def>a mischievous young boy.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2959496" type="person">
+        <form>
+          <orth>griadach</orth>
+        </form>
+        <def>unbaptised female child.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2961008" type="person">
+        <form>
+          <orth>Maoldomhnaich</orth>
+        </form>
+        <def>unbaptised male child.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2962520">
+        <form>
+          <orth>larach ’s uarach baile</orth>
+        </form>
+        <def>two ends of a village.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2964032">
+        <form>
+          <orth>siubhal</orth>
+        </form>
+        <def>in sense of person, possession. “Air mo shiubhal.”</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2965760">
+        <form>
+          <orth>spolt froise / thairneanach</orth>
+        </form>
+        <def>mass, lump, great quantity.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2967272">
+        <form>
+          <orth>rotal</orth>
+        </form>
+        <def>wake of ship.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2968784">
+        <form>
+          <orth>clach Mhoire</orth>
+        </form>
+        <def>hail.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2970296">
+        <form>
+          <orth>clachan Moire</orth>
+        </form>
+        <def>hailstones.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2971808" type="bird">
+        <form>
+          <orth>fosag Mhoire</orth>
+        </form>
+        <def>common crested lark.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2973320" type="bird">
+        <form>
+          <orth>uiseag Mhoire</orth>
+        </form>
+        <def>common crested lark.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2974832" type="bird">
+        <form>
+          <orth>bigean baintighearna</orth>
+        </form>
+        <def>chaffinch or mountain linnet.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2977208">
+        <form>
+          <orth>lach Mhoire</orth>
+        </form>
+        <def>mallard duck.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2978720">
+        <form>
+          <orth>fliodh Moire</orth>
+        </form>
+        <def>small kind of chicken wood that grows in water.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2980232">
+        <form>
+          <orth>biolaire Moire</orth>
+        </form>
+        <def>kind of watercress.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2981744">
+        <form>
+          <orth>luibh Moire</orth>
+        </form>
+        <def>same as ‘lus Moire’ – marsh marigold. Once rubbed on sore and stiff knees.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2983256">
+        <form>
+          <orth>maol Moire</orth>
+        </form>
+        <def>Mary’s brow? Fattish green plant used for plasters and poultices.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2984768">
+        <form>
+          <orth>coparran Moire</orth>
+        </form>
+        <def>blue eyed limpet shell.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2519176">
+        <form>
+          <orth>maorach Moire</orth>
+        </form>
+        <def>small thin shellfish, transparently white and smooth. Found under the sand.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2515792">
+        <form>
+          <orth>cuile Mhoire</orth>
+        </form>
+        <def>Mary’s treasury or the ocean.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2513416">
+        <form>
+          <orth>sealgan-fala</orth>
+        </form>
+        <def>blood sports.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2510824">
+        <form>
+          <orth>tosg</orth>
+        </form>
+        <def>tusk tooth.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2506360">
+        <form>
+          <orth>lingeach</orth>
+        </form>
+        <def>lynx. Type of cat found in Northern hemisphere.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2831800">
+        <form>
+          <orth>slat-fhaireachaidh</orth>
+        </form>
+        <def>feeler.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2834176">
+        <form>
+          <orth>ablach (-aich)</orth>
+        </form>
+        <def>carcase, carrion.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2835688">
+        <form>
+          <orth>blian (-adh)</orth>
+        </form>
+        <def>bask, sunbathe.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2837200">
+        <form>
+          <orth>carn-slaod</orth>
+        </form>
+        <def>sledge.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2838712">
+        <form>
+          <orth>drùis</orth>
+        </form>
+        <def>fluid.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2840224">
+        <form>
+          <orth>broc-lainn</orth>
+        </form>
+        <def>den, sett.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2841736">
+        <form>
+          <orth>broclach (-aich)</orth>
+        </form>
+        <def>a den or warren.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2843248">
+        <form>
+          <orth>easag (-aige)</orth>
+        </form>
+        <def>pheasant.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2844760">
+        <form>
+          <orth>dùr (dùire)</orth>
+        </form>
+        <def>stubborn, steady.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2846272">
+        <form>
+          <orth>fàman</orth>
+        </form>
+        <def>gentle breeze, breath of wind.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2847784">
+        <form>
+          <orth>gnòsadaich</orth>
+        </form>
+        <def>grunting, lowing.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2849296">
+        <form>
+          <orth>gnos (-ois)</orth>
+        </form>
+        <def>snout or the trunk of an elephant.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2850808">
+        <form>
+          <orth>leòb</orth>
+        </form>
+        <def>lip, fold of skin.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2852320">
+        <form>
+          <orth>liatas</orth>
+        </form>
+        <def>lettuce.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2853832">
+        <form>
+          <orth>greadanadh</orth>
+        </form>
+        <def>a sharp, stinging pain.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2855344">
+        <form>
+          <orth>losgann</orth>
+        </form>
+        <def>frog, toad.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2856856">
+        <form>
+          <orth>ionad-ròcais</orth>
+        </form>
+        <def>rookery.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2858368">
+        <form>
+          <orth>gaotharan</orth>
+        </form>
+        <def>a fan.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2859880">
+        <form>
+          <orth>fang (fainge)</orth>
+        </form>
+        <def>a vulture.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2861392">
+        <form>
+          <orth>eagnaidh</orth>
+        </form>
+        <def>prudent, careful.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2862904">
+        <form>
+          <orth>geadas (-ais)</orth>
+        </form>
+        <def>pike fish.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2864416">
+        <form>
+          <orth>saobhaidh</orth>
+        </form>
+        <def>den of animal.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2866792">
+        <form>
+          <orth>tarbhach</orth>
+        </form>
+        <def>advantageous. “Bhiodh e tarbhach dhut sin ionnsachadh.”</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2868520">
+        <form>
+          <orth>snàgair</orth>
+        </form>
+        <def>reptile, crawler.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2870032">
+        <form>
+          <orth>gramail (-e)</orth>
+        </form>
+        <def>strong, resolute.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2871544">
+        <form>
+          <orth>for</orth>
+        </form>
+        <def>idea, comprehension.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2873056">
+        <form>
+          <orth>lianag</orth>
+        </form>
+        <def>a lawn or small field.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2874568">
+        <form>
+          <orth>àile-bheathail</orth>
+        </form>
+        <def>oxygen.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2876080">
+        <form>
+          <orth>asal stiallach</orth>
+        </form>
+        <def>a zebra.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2877592">
+        <form>
+          <orth>leamhan</orth>
+        </form>
+        <def>elm tree.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2879104" type="bird">
+        <form>
+          <orth>spideag</orth>
+        </form>
+        <def>nightingale.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2880616">
+        <form>
+          <orth>taois</orth>
+        </form>
+        <def>in the sense of glue or paste.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2882128">
+        <form>
+          <orth>aom (-adh)</orth>
+        </form>
+        <def>incline or veer.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2883640">
+        <form>
+          <orth>seanagarra</orth>
+        </form>
+        <def>old-fashioned, sage.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2885152">
+        <form>
+          <orth>pliut (-an)</orth>
+        </form>
+        <def>flipper.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2886664">
+        <form>
+          <orth>tàtaich</orth>
+        </form>
+        <def>tame or subdue.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2888176">
+        <form>
+          <orth>searbhal</orth>
+        </form>
+        <def>serval [sic] [servile?].</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2889688">
+        <form>
+          <orth>ògan</orth>
+        </form>
+        <def>a twig or shoot.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2891200">
+        <form>
+          <orth>toinntean (-an)</orth>
+        </form>
+        <def>thread(s).</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2892712">
+        <form>
+          <orth>buinneag</orth>
+        </form>
+        <def>leaf of cabbage, sprout.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2894224">
+        <form>
+          <orth>caob (-oib)</orth>
+        </form>
+        <def>a lump or bite.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3197056">
+        <form>
+          <orth>caoir gheal</orth>
+        </form>
+        <def>white hot, frothy.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3198568">
+        <form>
+          <orth>dearc-fìona</orth>
+        </form>
+        <def>a grape.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3200080">
+        <form>
+          <orth>cobhartach</orth>
+        </form>
+        <def>prey, booty.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3201592">
+        <form>
+          <orth>clàbadair</orth>
+        </form>
+        <def>scavenger.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3203104">
+        <form>
+          <orth>burras (-ais)</orth>
+        </form>
+        <def>caterpillar.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3204616">
+        <form>
+          <orth>gucag</orth>
+        </form>
+        <def>a bubble.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3206128">
+        <form>
+          <orth>darcan (-ain)</orth>
+        </form>
+        <def>an acorn.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3207640">
+        <form>
+          <orth>arc (-an)</orth>
+        </form>
+        <def>a lizard.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3209152">
+        <form>
+          <orth>bus (buis)</orth>
+        </form>
+        <def>snout, big mouth.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3210664">
+        <form>
+          <orth>dìdean</orth>
+        </form>
+        <def>shelter, refuge.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3212176">
+        <form>
+          <orth>cuithe</orth>
+        </form>
+        <def>a pit.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3213688">
+        <form>
+          <orth>druchd meala</orth>
+        </form>
+        <def>honey milk, honeydew.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3215200">
+        <form>
+          <orth>crodhan (-ain)</orth>
+        </form>
+        <def>cloven, divided hoof. Divided hoof of ruminant quadrupeds, ascribed in pagan mythology to Pan, and thence in Christian mythology to the Devil (Ox. Dictionary).</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3216712">
+        <form>
+          <orth>cochull</orth>
+        </form>
+        <def>husk, cocoon.</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3218224">
+        <form>
+          <orth>smèileag</orth>
+        </form>
+        <def>a good blow, not deadly. “Thug e smèileag mhath dha.” (Supplied by D. MacKillop, Berneray.)</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3219952">
+        <form>
+          <orth>sgluis</orth>
+        </form>
+        <def>can be applied to many things but usually food. “Thug i dhomh sgluis.” Used commonly in Berneray. (Supplied by D. MacKillop, Berneray.)</def>
+      </entry>
+      <note>P.S.</note>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3224272">
+        <form>
+          <orth>dothachadh, dhothachadh</orth>
+        </form>
+        <def>applied to corn that has not been sufficiently dried properly. “Cha robh e air a dhothachadh ceart.” (Supplied by R. O’Henley.)</def>
+      </entry>
+      <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp3226072">
+        <form>
+          <orth>caibh (f sound)</orth>
+        </form>
+        <def>sea spray travelling over land. “Tha caibh an t-sàil a’ milleadh na càraichean.” (Supplied by R. O’Henley.)</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

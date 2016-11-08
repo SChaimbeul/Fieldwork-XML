@@ -1,777 +1,777 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BowmoreHDuncanslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>12/1968</date>
-            <location>
-               <placeName>Islay, Bowmore</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[AJ Smith]</persName>
-            </person>
-            <person role="informant">
-               <persName>Hugh Duncan</persName>
-               <age>c. 70</age>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166306864">
-            <form>
-               <orth>[kɫɛfɑɡ]</orth>
-            </form>
-            <def>Quotation: Thug e dhomh [kɫɛfɑɡ] bheag. Notes: He gave me a small piece.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166302976">
-            <form>
-               <orth>ladhar</orth>
-            </form>
-            <def>Quotation: an ladhar mór. Notes: toe.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166299520">
-            <form>
-               <orth>laoman</orth>
-               <pron>[lʹɤ:mɑ̃ṉ]</pron>
-            </form>
-            <def>[lʹɤ:mɑ̃ṉ] Notes: moth.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166321552">
-            <form>
-               <orth>leibhreagan</orth>
-               <pron>[lʹevɾəɡɑ̃ṉ]</pron>
-            </form>
-            <def>[lʹevɾəɡɑ̃ṉ] Notes: sty.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166323280">
-            <form>
-               <orth>leig</orth>
-            </form>
-            <def>Notes: lance (a boil etc.).</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166324792">
-            <form>
-               <orth>leth</orth>
-            </form>
-            <def>Quotation: leth na gealaich. Notes: half moon.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166326448">
-            <form>
-               <orth>leth-cheann</orth>
-            </form>
-            <def>Notes: cheek.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166327960">
-            <form>
-               <orth>leud</orth>
-               <pron>[lʹɛ:d̪]</pron>
-            </form>
-            <def>[lʹɛ:d̪] Notes: width.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166329688">
-            <form>
-               <orth>loc</orth>
-            </form>
-            <def>Quotation: Bithidh a’ loc fhéin air MacGuaire, bitheadh i cruaidh na bog.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166331200">
-            <form>
-               <orth>losgadh-bràghad</orth>
-            </form>
-            <def>Notes: indigestion, heartburn.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166332712">
-            <form>
-               <orth>losgann</orth>
-            </form>
-            <def>Notes: frog. Also used for arrangement to break in horses or for dragging heavy stones. <graphic url="BowmoreHDuncanslipsillust1.jpg" width="350px"/>
-            </def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166334368">
-            <form>
-               <orth>lùb</orth>
-            </form>
-            <def>Notes: bend on a road.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166335880">
-            <form>
-               <orth>maodal</orth>
-            </form>
-            <def>Quotation: a’ mhaodal.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166337392">
-            <form>
-               <orth>meanbh-chuileag</orth>
-            </form>
-            <def>Quotation: a’ mheanbh-chuileag [əvɛ̃ṉɑxu̟lɑɡ]. Notes: midge.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166339264">
-            <form>
-               <orth>meann</orth>
-               <pron>[mjɛ̃n̪:]</pron>
-            </form>
-            <def>[mjɛ̃n̪:] Notes: goat-kid.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166340992">
-            <form>
-               <orth>meàrlach</orth>
-               <pron>[mjɑ̃:ɾlʹɑx]</pron>
-            </form>
-            <def>[mjɑ̃:ɾlʹɑx] Notes: thief.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166342720">
-            <form>
-               <orth>mial</orth>
-            </form>
-            <def>Notes: louse.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166344232">
-            <form>
-               <orth>mìn</orth>
-            </form>
-            <def>Quotation: a’ chuileag mhìn. Notes: midge.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166345888">
-            <form>
-               <orth>muthairle</orth>
-               <pron>[mũ̜ʔərlʹə]</pron>
-            </form>
-            <def>[mũ̜ʔərlʹə] Notes: ankle.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166347616">
-            <form>
-               <orth>radan</orth>
-            </form>
-            <def>Notes: rat.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166349128">
-            <form>
-               <orth>ròn</orth>
-            </form>
-            <def>Notes: seal.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166350640">
-            <form>
-               <orth>dòrn</orth>
-            </form>
-            <def>Quotation: caol-an-dùirn. Notes: wrist.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166352296">
-            <form>
-               <orth>druim</orth>
-            </form>
-            <def>Quotation: Chaidh a cuir as a caol-druim.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166353808">
-            <form>
-               <orth>iasg</orth>
-            </form>
-            <def>Quotation: iasg goirt. Notes: salt fish.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166355464">
-            <form>
-               <orth>nathair</orth>
-            </form>
-            <def>Notes: snake.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166356976">
-            <form>
-               <orth>nathair</orth>
-            </form>
-            <def>Quotation: an tarbh-nathrach. Notes: dragonfly.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166358632">
-            <form>
-               <orth>peireid</orth>
-               <pron>[peɾɛdʹʒ]</pron>
-            </form>
-            <def>[peɾɛdʹʒ] Notes: ferret.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166360360">
-            <form>
-               <orth>piseag</orth>
-            </form>
-            <def>Notes: kitten, a young of hare (piseag gearraich).</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166361872">
-            <form>
-               <orth>prabagach</orth>
-            </form>
-            <def>Quotation: sùil phrabagach. Notes: eyelid encrusted with matter coming out from the eye.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166363600">
-            <form>
-               <orth>prìne</orth>
-            </form>
-            <def>Quotation: prìne dubailte. Notes: safety pin.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166365256">
-            <form>
-               <orth>seangan</orth>
-            </form>
-            <def>Notes: ant.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166366768">
-            <form>
-               <orth>seilicheag</orth>
-            </form>
-            <def>Notes: snail.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166368280">
-            <form>
-               <orth>seilean</orth>
-               <pron>[ʃelɑ̃nʹ]</pron>
-            </form>
-            <def>[ʃelɑ̃nʹ] Notes: bee.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166370008">
-            <form>
-               <orth>sgadan</orth>
-            </form>
-            <def>Quotation: sgadan dearg. Notes: kipper.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166371664">
-            <form>
-               <orth>sgadan</orth>
-            </form>
-            <def>Quotation: sgadan goirt. Notes: salt herring.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166373320">
-            <form>
-               <orth>sgamhan</orth>
-            </form>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166374832">
-            <form>
-               <orth>sgeth-losgainn</orth>
-            </form>
-            <def>Notes: tadpole. (?)</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166376344">
-            <form>
-               <orth>sgrios</orth>
-            </form>
-            <def>Quotation: a’ sgriosadh a’ bhac. Notes: cleaning the surface of the first layer of peat after turfing. (See also glanadh.)</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166378000">
-            <form>
-               <orth>speach</orth>
-               <pron>[spɛx]</pron>
-            </form>
-            <def>[spɛx] Notes: wasp.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166379728">
-            <form>
-               <orth>stiùir</orth>
-            </form>
-            <def>Quotation: [ʃtʹʃu̜:rən̪əṉənʹu̜ru̜bilʹ]. Notes: the long tail feathers of a cock.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166381600">
-            <form>
-               <orth>sùil</orth>
-            </form>
-            <def>Quotation: sùil phrabagach. Notes: eyelid encrusted with matter coming from the eye.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166383328">
-            <form>
-               <orth>tarbh-nathrach</orth>
-            </form>
-            <def>Quotation: an tarbh-nathrach. Notes: dragonfly.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166384984">
-            <form>
-               <orth>tarraing</orth>
-            </form>
-            <def>Quotation: an tarraing air éigin. Notes: root of tough grass or weed growing in the peat. Tough in April/May. Not so bad in March.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166386640">
-            <form>
-               <orth>tathaich</orth>
-            </form>
-            <def>Quotation: Bhiodh iad a’ tathaich an tigh seo. Notes: They used to visit this house frequently.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166388296">
-            <form>
-               <orth>tràigh</orth>
-            </form>
-            <def>Quotation: deargan-tràghadh (q.v.).</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166389808">
-            <form>
-               <orth>ugh</orth>
-               <pron>[u̜ɣ]</pron>
-            </form>
-            <def>[u̜ɣ] Notes: an egg.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp166391536">
-            <form>
-               <orth>uileann</orth>
-               <pron>[u̜ʔlən̪]</pron>
-            </form>
-            <def>[u̜ʔlən̪] Quotation: the elbow.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162329016">
-            <form>
-               <orth>aileag</orth>
-            </form>
-            <def>Quotation: an aileag. Notes: hiccups.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162330672">
-            <form>
-               <orth>aisinn</orth>
-               <pron>[ɑʃĩnʹ]</pron>
-            </form>
-            <def>[ɑʃĩnʹ] Notes: rib.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162332400">
-            <form>
-               <orth>aotraman</orth>
-            </form>
-            <def>Notes: bladder.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162333912">
-            <form>
-               <orth>asgaill</orth>
-               <pron>[ɑsɡilʹ]</pron>
-            </form>
-            <def>[ɑsɡilʹ] Notes: the oxter.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162335640">
-            <form>
-               <orth>bàsaich</orth>
-            </form>
-            <def>Quotation: A’ fear a bhàsaich leis an acras, fhuair e ’na dh’fhoghainn dha.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162337152">
-            <form>
-               <orth>beachainn</orth>
-               <pron>[bɛxĩnʹ]</pron>
-            </form>
-            <def>[bɛxĩnʹ] Notes: bee.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162338880">
-            <form>
-               <orth>béisteag</orth>
-               <pron>[be:ʃtʹʃɑɡ]</pron>
-            </form>
-            <def>[be:ʃtʹʃɑɡ] Notes: earthworm.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162340608">
-            <form>
-               <orth>biast-donn</orth>
-            </form>
-            <def>Notes: otter.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162342120">
-            <form>
-               <orth>bil</orth>
-            </form>
-            <def>Quotation: am bil. Notes: the lip.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162343776">
-            <form>
-               <orth>blonag</orth>
-               <pron>[bɫɔ̃ʔṉɑɡ]</pron>
-            </form>
-            <def>[bɫɔ̃ʔṉɑɡ] Notes: fat in a hen’s body. [bɫɑ̃ṉiɡʹ] – Barvas.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162345792">
-            <form>
-               <orth>boc-goibhre</orth>
-               <pron>[boxkɡəiɾə]</pron>
-            </form>
-            <def>[boxkɡəiɾə] Notes: he-goat.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162347520">
-            <form>
-               <orth>bog-bhalach</orth>
-            </form>
-            <def>Notes: a boy of tender years.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162349032">
-            <form>
-               <orth>cailleach</orth>
-            </form>
-            <def>Quotation: a’ chailleach cheòsach. Notes: slater (woodlouse).</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162350688">
-            <form>
-               <orth>caol</orth>
-            </form>
-            <def>Quotation: caol-an-dùirn. Notes: wrist.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162352344">
-            <form>
-               <orth>caol</orth>
-            </form>
-            <def>Quotation: Chaidh a cuir as a caol-druim.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162353856">
-            <form>
-               <orth>ceann</orth>
-            </form>
-            <def>Quotation: ceann goirt. Notes: headache.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162355512">
-            <form>
-               <orth>ceàrdaman</orth>
-            </form>
-            <def>Quotation: An ceàrdaman. Notes: big fly frequenting manure heaps. (Dwelly – hornet.)</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162357240">
-            <form>
-               <orth>ceathramh</orth>
-            </form>
-            <def>Quotation: Tha a’ cheud ceathramh de’n ghealach againn an nochd. Tha an ceathramh mu dheireadh de’n ghealach againn an nochd. Notes: first quarter, last quarter.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162358896">
-            <form>
-               <orth>ceathramh-deiridh</orth>
-            </form>
-            <def>Notes: hindquarters.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162360408">
-            <form>
-               <orth>ceathramh-toisich</orth>
-            </form>
-            <def>Notes: forequarters of a beast.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162361920">
-            <form>
-               <orth>ceòsach</orth>
-            </form>
-            <def>Quotation: a’ chailleach cheòsach. Notes: slater.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162363576">
-            <form>
-               <orth>ciabhadair</orth>
-               <pron>[cıəvəd̪ɑɾ]</pron>
-            </form>
-            <def>[cıəvəd̪ɑɾ] Notes: the man who lifted the peats in a tough spot; usually employed in the distillery squads when a lot of peat was being cut.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162365304">
-            <form>
-               <orth>ciotach</orth>
-            </form>
-            <def>Quotation: duine ciotach. Notes: a person who couldn’t be taught anything – always went his own way. Always going wrong.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162366960">
-            <form>
-               <orth>cìrean</orth>
-            </form>
-            <def>Notes: crest on a cock.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162368472">
-            <form>
-               <orth>clisnidh</orth>
-            </form>
-            <def>Quotation: Na fir chlisnidh [fiɾxliʃnʹi]. Notes: Northern Lights.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162370344">
-            <form>
-               <orth>cluais</orth>
-            </form>
-            <def>Quotation: a’ chluais. Notes: ear.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162372000">
-            <form>
-               <orth>cobhar</orth>
-            </form>
-            <def>Notes: froth, foam. Also lather on face when shaving.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162373512">
-            <form>
-               <orth>coingheall</orth>
-               <pron>[kɔnʹɑɫ]</pron>
-            </form>
-            <def>[kɔnʹɑɫ] Notes: a loan.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162375240">
-            <form>
-               <orth>coinnean</orth>
-            </form>
-            <def>Notes: rabbit.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162376752">
-            <form>
-               <orth>cracair</orth>
-               <pron>[kɾɑxkɑɾ]</pron>
-            </form>
-            <def>[kɾɑxkɑɾ] Quotation: an cracair. Notes: cricket.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162378624">
-            <form>
-               <orth>creithire</orth>
-               <pron>[kɾeʔeɾə]</pron>
-            </form>
-            <def>[kɾeʔeɾə] Notes: horse-fly; cleg. (Same as “greimeadair” in Lewis.)</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162380424">
-            <form>
-               <orth>cridhe</orth>
-            </form>
-            <def>Notes: heart.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162381936">
-            <form>
-               <orth>croimheag</orth>
-            </form>
-            <def>Notes: maggot.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162383448">
-            <form>
-               <orth>cruigh</orth>
-            </form>
-            <def>Quotation: a’ cruigheadh a’ roth. Notes: putting the iron rim on the cartwheel.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162385104">
-            <form>
-               <orth>cruachan</orth>
-            </form>
-            <def>Notes: hip.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162386616">
-            <form>
-               <orth>cuileag</orth>
-            </form>
-            <def>Notes: house-fly.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162388128">
-            <form>
-               <orth>cuileag</orth>
-            </form>
-            <def>Quotation: a mheanbh-chuileag [əvɛ̃ṉɑxu̟lɑɡ]. Notes: midge.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162390288">
-            <form>
-               <orth>cuileag</orth>
-            </form>
-            <def>Quotation: a’ chuileag mhìn. Notes: midge.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162391944">
-            <form>
-               <orth>cuilean</orth>
-               <pron>[ku̟ʔlɑ̃nʹ]</pron>
-            </form>
-            <def>[ku̟ʔlɑ̃nʹ] Notes: puppy.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162393960">
-            <form>
-               <orth>dalma</orth>
-            </form>
-            <def>Notes: bold.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162395472">
-            <form>
-               <orth>daolag-lìn</orth>
-               <pron>[dəɫɑɡlĩ:nʹ]</pron>
-            </form>
-            <def>[dəɫɑɡlĩ:nʹ] Notes: earwig.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162397200">
-            <form>
-               <orth>dealan-dé</orth>
-            </form>
-            <def>Notes: butterfly.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162398712">
-            <form>
-               <orth>dearg</orth>
-            </form>
-            <def>Quotation: sgadan dearg. Notes: kipper.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162400368">
-            <form>
-               <orth>deargan</orth>
-               <pron>[dʹʒɛɾɑɡəṉ]</pron>
-            </form>
-            <def>[dʹʒɛɾɑɡəṉ] Notes: flea.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162402096">
-            <form>
-               <orth>deargan-tràghadh</orth>
-            </form>
-            <def>Notes: small black insect found under stones below high water mark.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162403608">
-            <form>
-               <orth>dochainn</orth>
-            </form>
-            <def>Quotation: a’ dochainn. Notes: injuring (vb).</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162405264">
-            <form>
-               <orth>dochann</orth>
-            </form>
-            <def>Notes: injury.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162406776">
-            <form>
-               <orth>domalas-àdh</orth>
-               <pron>[d̪oməɫɑsɑ:]</pron>
-            </form>
-            <def>[d̪oməɫɑsɑ:] Notes: gall-bladder. [NOTES: slipped under ‘domblas-sàth’.]</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162408648">
-            <form>
-               <orth>domhainneachd</orth>
-               <pron>[d̪ɔnʹɔxk]</pron>
-            </form>
-            <def>[d̪ɔnʹɔxk] Notes: depth.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162410376">
-            <form>
-               <orth>donn</orth>
-            </form>
-            <def>Quotation: Biast-donn. Notes: otter.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162412032">
-            <form>
-               <orth>dorch</orth>
-            </form>
-            <def>Quotation: Tha ’n dorch ann. Notes: It is dark.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162413688">
-            <form>
-               <orth>dorchadas</orth>
-            </form>
-            <def>Notes: darkness. (See dorch.)</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162415200">
-            <form>
-               <orth>ealtag</orth>
-               <pron>[jɑɫt̪ɑɡ]</pron>
-            </form>
-            <def>[jɑɫt̪ɑɡ] Notes: bat.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162416928">
-            <form>
-               <orth>fadachd</orth>
-            </form>
-            <def>Quotation: De ’n fhadachd a th’ann? Notes: length.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162418584">
-            <form>
-               <orth>fadalach</orth>
-            </form>
-            <def>Quotation: Tha mi fadalach ann a seo leum fhéin. Notes: I am lonely here by myself. Loneliness because one is waiting for someone to come.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162420240">
-            <form>
-               <orth>féurag</orth>
-               <pron>[fe:ɾɑɡ]</pron>
-            </form>
-            <def>[fe:ɾɑɡ] Notes: ferret. (Colonsay)</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162421968">
-            <form>
-               <orth>fiacal</orth>
-            </form>
-            <def>Quotation: fiaclan coimheach. Notes: fake teeth.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162423624">
-            <form>
-               <orth>fir chlisnidh</orth>
-            </form>
-            <def>Quotation: na fir chlisnidh [fıɾxliʃnʹi]. Notes: Northern Lights.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162425496">
-            <form>
-               <orth>fitheadair</orth>
-            </form>
-            <def>Notes: spider.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162427008">
-            <form>
-               <orth>fòghnaich</orth>
-            </form>
-            <def>Quotation: A’ fear a bhàsaich leis an acras, fhuair e ’na dh’fhoghainn dha.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162428520">
-            <form>
-               <orth>galaisean</orth>
-               <pron>[ɡɑlɑʴsəṉ]</pron>
-            </form>
-            <def>[ɡɑlɑʴsəṉ] Notes: braces. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162430392">
-            <form>
-               <orth>gearraich</orth>
-               <pron>[ɡʹɑrɑç]</pron>
-            </form>
-            <def>[ɡʹɑrɑç] Notes: hare.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162432120">
-            <form>
-               <orth>giall</orth>
-               <pron>[cıʔəl]</pron>
-            </form>
-            <def>[cıʔəl] Notes: cheek.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162433848">
-            <form>
-               <orth>goile</orth>
-            </form>
-            <def>Quotation: goile cearc. Notes: stomach.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162435504">
-            <form>
-               <orth>goirt</orth>
-            </form>
-            <def>Quotation: ceann goirt. Notes: headache.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162437160">
-            <form>
-               <orth>goirt</orth>
-            </form>
-            <def>Quotation: sgadan goirt. Notes: salt herring.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162438816">
-            <form>
-               <orth>goirt</orth>
-            </form>
-            <def>Quotation: iasg goirt. Notes: salt fish. Also “sgadan goirt”.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162440472">
-            <form>
-               <orth>gruag</orth>
-            </form>
-            <def>Quotation: a’ ghruag. Notes: wouldn’t use “falt”.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162442128">
-            <form>
-               <orth>grùthan</orth>
-            </form>
-            <def>Notes: liver.</def>
-         </entry>
-         <entry xml:id="Slips_BowmoreHDuncanslips-idp162443640">
-            <form>
-               <orth>gualainn</orth>
-               <pron>[ɡu̜ɤɫĩnʹ]</pron>
-            </form>
-            <def>[ɡu̜ɤɫĩnʹ] Notes: shoulder.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>12/1968</date>
+        <location>
+          <placeName>Islay, Bowmore</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[AJ Smith]</persName>
+        </person>
+        <person role="informant">
+          <persName>Hugh Duncan</persName>
+          <age>c. 70</age>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166306864">
+        <form>
+          <orth>[kɫɛfɑɡ]</orth>
+        </form>
+        <def>Quotation: Thug e dhomh [kɫɛfɑɡ] bheag. Notes: He gave me a small piece.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166302976">
+        <form>
+          <orth>ladhar</orth>
+        </form>
+        <def>Quotation: an ladhar mór. Notes: toe.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166299520">
+        <form>
+          <orth>laoman</orth>
+          <pron>[lʹɤ:mɑ̃ṉ]</pron>
+        </form>
+        <def>[lʹɤ:mɑ̃ṉ] Notes: moth.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166321552">
+        <form>
+          <orth>leibhreagan</orth>
+          <pron>[lʹevɾəɡɑ̃ṉ]</pron>
+        </form>
+        <def>[lʹevɾəɡɑ̃ṉ] Notes: sty.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166323280">
+        <form>
+          <orth>leig</orth>
+        </form>
+        <def>Notes: lance (a boil etc.).</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166324792">
+        <form>
+          <orth>leth</orth>
+        </form>
+        <def>Quotation: leth na gealaich. Notes: half moon.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166326448">
+        <form>
+          <orth>leth-cheann</orth>
+        </form>
+        <def>Notes: cheek.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166327960">
+        <form>
+          <orth>leud</orth>
+          <pron>[lʹɛ:d̪]</pron>
+        </form>
+        <def>[lʹɛ:d̪] Notes: width.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166329688">
+        <form>
+          <orth>loc</orth>
+        </form>
+        <def>Quotation: Bithidh a’ loc fhéin air MacGuaire, bitheadh i cruaidh na bog.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166331200">
+        <form>
+          <orth>losgadh-bràghad</orth>
+        </form>
+        <def>Notes: indigestion, heartburn.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166332712">
+        <form>
+          <orth>losgann</orth>
+        </form>
+        <def>Notes: frog. Also used for arrangement to break in horses or for dragging heavy stones. <graphic url="BowmoreHDuncanslipsillust1.jpg" width="350px"/>
+        </def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166334368">
+        <form>
+          <orth>lùb</orth>
+        </form>
+        <def>Notes: bend on a road.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166335880">
+        <form>
+          <orth>maodal</orth>
+        </form>
+        <def>Quotation: a’ mhaodal.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166337392">
+        <form>
+          <orth>meanbh-chuileag</orth>
+        </form>
+        <def>Quotation: a’ mheanbh-chuileag [əvɛ̃ṉɑxu̟lɑɡ]. Notes: midge.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166339264">
+        <form>
+          <orth>meann</orth>
+          <pron>[mjɛ̃n̪:]</pron>
+        </form>
+        <def>[mjɛ̃n̪:] Notes: goat-kid.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166340992" type="person">
+        <form>
+          <orth>meàrlach</orth>
+          <pron>[mjɑ̃:ɾlʹɑx]</pron>
+        </form>
+        <def>[mjɑ̃:ɾlʹɑx] Notes: thief.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166342720">
+        <form>
+          <orth>mial</orth>
+        </form>
+        <def>Notes: louse.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166344232">
+        <form>
+          <orth>mìn</orth>
+        </form>
+        <def>Quotation: a’ chuileag mhìn. Notes: midge.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166345888">
+        <form>
+          <orth>muthairle</orth>
+          <pron>[mũ̜ʔərlʹə]</pron>
+        </form>
+        <def>[mũ̜ʔərlʹə] Notes: ankle.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166347616">
+        <form>
+          <orth>radan</orth>
+        </form>
+        <def>Notes: rat.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166349128">
+        <form>
+          <orth>ròn</orth>
+        </form>
+        <def>Notes: seal.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166350640">
+        <form>
+          <orth>dòrn</orth>
+        </form>
+        <def>Quotation: caol-an-dùirn. Notes: wrist.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166352296">
+        <form>
+          <orth>druim</orth>
+        </form>
+        <def>Quotation: Chaidh a cuir as a caol-druim.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166353808">
+        <form>
+          <orth>iasg</orth>
+        </form>
+        <def>Quotation: iasg goirt. Notes: salt fish.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166355464">
+        <form>
+          <orth>nathair</orth>
+        </form>
+        <def>Notes: snake.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166356976">
+        <form>
+          <orth>nathair</orth>
+        </form>
+        <def>Quotation: an tarbh-nathrach. Notes: dragonfly.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166358632">
+        <form>
+          <orth>peireid</orth>
+          <pron>[peɾɛdʹʒ]</pron>
+        </form>
+        <def>[peɾɛdʹʒ] Notes: ferret.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166360360">
+        <form>
+          <orth>piseag</orth>
+        </form>
+        <def>Notes: kitten, a young of hare (piseag gearraich).</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166361872">
+        <form>
+          <orth>prabagach</orth>
+        </form>
+        <def>Quotation: sùil phrabagach. Notes: eyelid encrusted with matter coming out from the eye.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166363600">
+        <form>
+          <orth>prìne</orth>
+        </form>
+        <def>Quotation: prìne dubailte. Notes: safety pin.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166365256">
+        <form>
+          <orth>seangan</orth>
+        </form>
+        <def>Notes: ant.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166366768">
+        <form>
+          <orth>seilicheag</orth>
+        </form>
+        <def>Notes: snail.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166368280">
+        <form>
+          <orth>seilean</orth>
+          <pron>[ʃelɑ̃nʹ]</pron>
+        </form>
+        <def>[ʃelɑ̃nʹ] Notes: bee.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166370008">
+        <form>
+          <orth>sgadan</orth>
+        </form>
+        <def>Quotation: sgadan dearg. Notes: kipper.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166371664">
+        <form>
+          <orth>sgadan</orth>
+        </form>
+        <def>Quotation: sgadan goirt. Notes: salt herring.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166373320">
+        <form>
+          <orth>sgamhan</orth>
+        </form>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166374832">
+        <form>
+          <orth>sgeth-losgainn</orth>
+        </form>
+        <def>Notes: tadpole. (?)</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166376344">
+        <form>
+          <orth>sgrios</orth>
+        </form>
+        <def>Quotation: a’ sgriosadh a’ bhac. Notes: cleaning the surface of the first layer of peat after turfing. (See also glanadh.)</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166378000">
+        <form>
+          <orth>speach</orth>
+          <pron>[spɛx]</pron>
+        </form>
+        <def>[spɛx] Notes: wasp.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166379728">
+        <form>
+          <orth>stiùir</orth>
+        </form>
+        <def>Quotation: [ʃtʹʃu̜:rən̪əṉənʹu̜ru̜bilʹ]. Notes: the long tail feathers of a cock.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166381600">
+        <form>
+          <orth>sùil</orth>
+        </form>
+        <def>Quotation: sùil phrabagach. Notes: eyelid encrusted with matter coming from the eye.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166383328">
+        <form>
+          <orth>tarbh-nathrach</orth>
+        </form>
+        <def>Quotation: an tarbh-nathrach. Notes: dragonfly.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166384984">
+        <form>
+          <orth>tarraing</orth>
+        </form>
+        <def>Quotation: an tarraing air éigin. Notes: root of tough grass or weed growing in the peat. Tough in April/May. Not so bad in March.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166386640">
+        <form>
+          <orth>tathaich</orth>
+        </form>
+        <def>Quotation: Bhiodh iad a’ tathaich an tigh seo. Notes: They used to visit this house frequently.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166388296">
+        <form>
+          <orth>tràigh</orth>
+        </form>
+        <def>Quotation: deargan-tràghadh (q.v.).</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166389808">
+        <form>
+          <orth>ugh</orth>
+          <pron>[u̜ɣ]</pron>
+        </form>
+        <def>[u̜ɣ] Notes: an egg.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp166391536">
+        <form>
+          <orth>uileann</orth>
+          <pron>[u̜ʔlən̪]</pron>
+        </form>
+        <def>[u̜ʔlən̪] Quotation: the elbow.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162329016">
+        <form>
+          <orth>aileag</orth>
+        </form>
+        <def>Quotation: an aileag. Notes: hiccups.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162330672">
+        <form>
+          <orth>aisinn</orth>
+          <pron>[ɑʃĩnʹ]</pron>
+        </form>
+        <def>[ɑʃĩnʹ] Notes: rib.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162332400">
+        <form>
+          <orth>aotraman</orth>
+        </form>
+        <def>Notes: bladder.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162333912">
+        <form>
+          <orth>asgaill</orth>
+          <pron>[ɑsɡilʹ]</pron>
+        </form>
+        <def>[ɑsɡilʹ] Notes: the oxter.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162335640">
+        <form>
+          <orth>bàsaich</orth>
+        </form>
+        <def>Quotation: A’ fear a bhàsaich leis an acras, fhuair e ’na dh’fhoghainn dha.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162337152">
+        <form>
+          <orth>beachainn</orth>
+          <pron>[bɛxĩnʹ]</pron>
+        </form>
+        <def>[bɛxĩnʹ] Notes: bee.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162338880">
+        <form>
+          <orth>béisteag</orth>
+          <pron>[be:ʃtʹʃɑɡ]</pron>
+        </form>
+        <def>[be:ʃtʹʃɑɡ] Notes: earthworm.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162340608">
+        <form>
+          <orth>biast-donn</orth>
+        </form>
+        <def>Notes: otter.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162342120">
+        <form>
+          <orth>bil</orth>
+        </form>
+        <def>Quotation: am bil. Notes: the lip.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162343776">
+        <form>
+          <orth>blonag</orth>
+          <pron>[bɫɔ̃ʔṉɑɡ]</pron>
+        </form>
+        <def>[bɫɔ̃ʔṉɑɡ] Notes: fat in a hen’s body. [bɫɑ̃ṉiɡʹ] – Barvas.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162345792">
+        <form>
+          <orth>boc-goibhre</orth>
+          <pron>[boxkɡəiɾə]</pron>
+        </form>
+        <def>[boxkɡəiɾə] Notes: he-goat.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162347520" type="person">
+        <form>
+          <orth>bog-bhalach</orth>
+        </form>
+        <def>Notes: a boy of tender years.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162349032">
+        <form>
+          <orth>cailleach</orth>
+        </form>
+        <def>Quotation: a’ chailleach cheòsach. Notes: slater (woodlouse).</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162350688">
+        <form>
+          <orth>caol</orth>
+        </form>
+        <def>Quotation: caol-an-dùirn. Notes: wrist.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162352344">
+        <form>
+          <orth>caol</orth>
+        </form>
+        <def>Quotation: Chaidh a cuir as a caol-druim.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162353856">
+        <form>
+          <orth>ceann</orth>
+        </form>
+        <def>Quotation: ceann goirt. Notes: headache.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162355512">
+        <form>
+          <orth>ceàrdaman</orth>
+        </form>
+        <def>Quotation: An ceàrdaman. Notes: big fly frequenting manure heaps. (Dwelly – hornet.)</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162357240">
+        <form>
+          <orth>ceathramh</orth>
+        </form>
+        <def>Quotation: Tha a’ cheud ceathramh de’n ghealach againn an nochd. Tha an ceathramh mu dheireadh de’n ghealach againn an nochd. Notes: first quarter, last quarter.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162358896">
+        <form>
+          <orth>ceathramh-deiridh</orth>
+        </form>
+        <def>Notes: hindquarters.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162360408">
+        <form>
+          <orth>ceathramh-toisich</orth>
+        </form>
+        <def>Notes: forequarters of a beast.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162361920">
+        <form>
+          <orth>ceòsach</orth>
+        </form>
+        <def>Quotation: a’ chailleach cheòsach. Notes: slater.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162363576" type="person">
+        <form>
+          <orth>ciabhadair</orth>
+          <pron>[cıəvəd̪ɑɾ]</pron>
+        </form>
+        <def>[cıəvəd̪ɑɾ] Notes: the man who lifted the peats in a tough spot; usually employed in the distillery squads when a lot of peat was being cut.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162365304" type="person">
+        <form>
+          <orth>duine ciotach</orth>
+        </form>
+        <def>Quotation: duine ciotach. Notes: a person who couldn’t be taught anything – always went his own way. Always going wrong.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162366960">
+        <form>
+          <orth>cìrean</orth>
+        </form>
+        <def>Notes: crest on a cock.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162368472">
+        <form>
+          <orth>clisnidh</orth>
+        </form>
+        <def>Quotation: Na fir chlisnidh [fiɾxliʃnʹi]. Notes: Northern Lights.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162370344">
+        <form>
+          <orth>cluais</orth>
+        </form>
+        <def>Quotation: a’ chluais. Notes: ear.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162372000">
+        <form>
+          <orth>cobhar</orth>
+        </form>
+        <def>Notes: froth, foam. Also lather on face when shaving.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162373512">
+        <form>
+          <orth>coingheall</orth>
+          <pron>[kɔnʹɑɫ]</pron>
+        </form>
+        <def>[kɔnʹɑɫ] Notes: a loan.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162375240">
+        <form>
+          <orth>coinnean</orth>
+        </form>
+        <def>Notes: rabbit.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162376752">
+        <form>
+          <orth>cracair</orth>
+          <pron>[kɾɑxkɑɾ]</pron>
+        </form>
+        <def>[kɾɑxkɑɾ] Quotation: an cracair. Notes: cricket.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162378624">
+        <form>
+          <orth>creithire</orth>
+          <pron>[kɾeʔeɾə]</pron>
+        </form>
+        <def>[kɾeʔeɾə] Notes: horse-fly; cleg. (Same as “greimeadair” in Lewis.)</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162380424">
+        <form>
+          <orth>cridhe</orth>
+        </form>
+        <def>Notes: heart.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162381936">
+        <form>
+          <orth>croimheag</orth>
+        </form>
+        <def>Notes: maggot.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162383448">
+        <form>
+          <orth>cruigh</orth>
+        </form>
+        <def>Quotation: a’ cruigheadh a’ roth. Notes: putting the iron rim on the cartwheel.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162385104">
+        <form>
+          <orth>cruachan</orth>
+        </form>
+        <def>Notes: hip.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162386616">
+        <form>
+          <orth>cuileag</orth>
+        </form>
+        <def>Notes: house-fly.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162388128">
+        <form>
+          <orth>cuileag</orth>
+        </form>
+        <def>Quotation: a mheanbh-chuileag [əvɛ̃ṉɑxu̟lɑɡ]. Notes: midge.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162390288">
+        <form>
+          <orth>cuileag</orth>
+        </form>
+        <def>Quotation: a’ chuileag mhìn. Notes: midge.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162391944">
+        <form>
+          <orth>cuilean</orth>
+          <pron>[ku̟ʔlɑ̃nʹ]</pron>
+        </form>
+        <def>[ku̟ʔlɑ̃nʹ] Notes: puppy.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162393960">
+        <form>
+          <orth>dalma</orth>
+        </form>
+        <def>Notes: bold.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162395472">
+        <form>
+          <orth>daolag-lìn</orth>
+          <pron>[dəɫɑɡlĩ:nʹ]</pron>
+        </form>
+        <def>[dəɫɑɡlĩ:nʹ] Notes: earwig.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162397200">
+        <form>
+          <orth>dealan-dé</orth>
+        </form>
+        <def>Notes: butterfly.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162398712">
+        <form>
+          <orth>dearg</orth>
+        </form>
+        <def>Quotation: sgadan dearg. Notes: kipper.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162400368">
+        <form>
+          <orth>deargan</orth>
+          <pron>[dʹʒɛɾɑɡəṉ]</pron>
+        </form>
+        <def>[dʹʒɛɾɑɡəṉ] Notes: flea.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162402096">
+        <form>
+          <orth>deargan-tràghadh</orth>
+        </form>
+        <def>Notes: small black insect found under stones below high water mark.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162403608">
+        <form>
+          <orth>dochainn</orth>
+        </form>
+        <def>Quotation: a’ dochainn. Notes: injuring (vb).</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162405264">
+        <form>
+          <orth>dochann</orth>
+        </form>
+        <def>Notes: injury.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162406776">
+        <form>
+          <orth>domalas-àdh</orth>
+          <pron>[d̪oməɫɑsɑ:]</pron>
+        </form>
+        <def>[d̪oməɫɑsɑ:] Notes: gall-bladder. [NOTES: slipped under ‘domblas-sàth’.]</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162408648">
+        <form>
+          <orth>domhainneachd</orth>
+          <pron>[d̪ɔnʹɔxk]</pron>
+        </form>
+        <def>[d̪ɔnʹɔxk] Notes: depth.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162410376">
+        <form>
+          <orth>donn</orth>
+        </form>
+        <def>Quotation: Biast-donn. Notes: otter.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162412032">
+        <form>
+          <orth>dorch</orth>
+        </form>
+        <def>Quotation: Tha ’n dorch ann. Notes: It is dark.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162413688">
+        <form>
+          <orth>dorchadas</orth>
+        </form>
+        <def>Notes: darkness. (See dorch.)</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162415200">
+        <form>
+          <orth>ealtag</orth>
+          <pron>[jɑɫt̪ɑɡ]</pron>
+        </form>
+        <def>[jɑɫt̪ɑɡ] Notes: bat.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162416928">
+        <form>
+          <orth>fadachd</orth>
+        </form>
+        <def>Quotation: De ’n fhadachd a th’ann? Notes: length.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162418584">
+        <form>
+          <orth>fadalach</orth>
+        </form>
+        <def>Quotation: Tha mi fadalach ann a seo leum fhéin. Notes: I am lonely here by myself. Loneliness because one is waiting for someone to come.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162420240">
+        <form>
+          <orth>féurag</orth>
+          <pron>[fe:ɾɑɡ]</pron>
+        </form>
+        <def>[fe:ɾɑɡ] Notes: ferret. (Colonsay)</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162421968">
+        <form>
+          <orth>fiacal</orth>
+        </form>
+        <def>Quotation: fiaclan coimheach. Notes: fake teeth.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162423624">
+        <form>
+          <orth>fir chlisnidh</orth>
+        </form>
+        <def>Quotation: na fir chlisnidh [fıɾxliʃnʹi]. Notes: Northern Lights.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162425496">
+        <form>
+          <orth>fitheadair</orth>
+        </form>
+        <def>Notes: spider.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162427008">
+        <form>
+          <orth>fòghnaich</orth>
+        </form>
+        <def>Quotation: A’ fear a bhàsaich leis an acras, fhuair e ’na dh’fhoghainn dha.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162428520">
+        <form>
+          <orth>galaisean</orth>
+          <pron>[ɡɑlɑʴsəṉ]</pron>
+        </form>
+        <def>[ɡɑlɑʴsəṉ] Notes: braces. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162430392">
+        <form>
+          <orth>gearraich</orth>
+          <pron>[ɡʹɑrɑç]</pron>
+        </form>
+        <def>[ɡʹɑrɑç] Notes: hare.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162432120">
+        <form>
+          <orth>giall</orth>
+          <pron>[cıʔəl]</pron>
+        </form>
+        <def>[cıʔəl] Notes: cheek.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162433848">
+        <form>
+          <orth>goile</orth>
+        </form>
+        <def>Quotation: goile cearc. Notes: stomach.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162435504">
+        <form>
+          <orth>goirt</orth>
+        </form>
+        <def>Quotation: ceann goirt. Notes: headache.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162437160">
+        <form>
+          <orth>goirt</orth>
+        </form>
+        <def>Quotation: sgadan goirt. Notes: salt herring.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162438816">
+        <form>
+          <orth>goirt</orth>
+        </form>
+        <def>Quotation: iasg goirt. Notes: salt fish. Also “sgadan goirt”.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162440472">
+        <form>
+          <orth>gruag</orth>
+        </form>
+        <def>Quotation: a’ ghruag. Notes: wouldn’t use “falt”.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162442128">
+        <form>
+          <orth>grùthan</orth>
+        </form>
+        <def>Notes: liver.</def>
+      </entry>
+      <entry xml:id="Slips_BowmoreHDuncanslips-idp162443640">
+        <form>
+          <orth>gualainn</orth>
+          <pron>[ɡu̜ɤɫĩnʹ]</pron>
+        </form>
+        <def>[ɡu̜ɤɫĩnʹ] Notes: shoulder.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

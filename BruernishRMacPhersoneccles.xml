@@ -1,132 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: the second informant added above Mr MacPherson on the first page – ‘Conor John MacLean (ann an Dailabrog, Barrach a th’ann)’.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[09/1983?]</date>
-            <location>
-               <placeName>Barra, Bruernish / Dailabrog [Daliburgh]</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>Ian Quick</persName>
-            </person>
-            <person role="informant">
-               <persName>Roderick MacPherson</persName>
-               <age>81</age>
-               <birth>
-                  <placeName>Barra</placeName>
-               </birth>
-            </person>
-            <person role="informant">
-               <persName>Conor [?] John MacLean</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Ecclesiastical Terms</term>
-               <term>An Eaglais</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e41"
-            >1. Various denominations</head>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e46">
-            <form>
-               <orth>an creideamh Caitligeach</orth>
-            </form>
-            <def>(&amp; an E. [Eaglais] Ch.)</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e55">
-            <form>
-               <orth>an creideamh saor</orth>
-            </form>
-            <def>(&amp; an E. [Eaglais] Sh.)</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e64">
-            <form>
-               <orth>an creideamh Pròstanach</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e70">
-            <form>
-               <orth>an Eaglais Shasainn</orth>
-            </form>
-            <def>(not an creideamh Sasainn)</def>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e79">
-            <form>
-               <orth>na Baistich</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e84"
-            >2. Member of each of these denominations</head>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e89">
-            <form>
-               <orth>Caitligeach</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e95">
-            <form>
-               <orth>Pròstanach</orth>
-            </form>
-         </entry>
-         <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e101">
-            <form>
-               <orth>Baisteach</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e106"
-            >3. Different courts of the Presbyterian churches</head>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e110"
-            >4. Members of the clergy and office-bearers with the Presbyterian churches</head>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e114"
-            >5. Members of the clergy and office-bearers in the Roman Catholic church</head>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e118"
-            >6. Holy Orders within the Roman Catholic church</head>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e122"
-            >7. Articles of dress or adornment</head>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e126"
-            >8. Church building and churchyard</head>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e130"
-            >9. Church furniture and ornaments</head>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e134"
-            >10. Different services during the week, feast days, sacraments, Sunday school etc.</head>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e138"
-            >11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</head>
-         <head
-             xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e142"
-            >12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</head>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: the second informant added above Mr MacPherson on the first page – ‘Conor John MacLean (ann an Dailabrog, Barrach a th’ann)’.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[09/1983?]</date>
+        <location>
+          <placeName>Barra, Bruernish / Dailabrog [Daliburgh]</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>Ian Quick</persName>
+        </person>
+        <person role="informant">
+          <persName>Roderick MacPherson</persName>
+          <age>81</age>
+          <birth>
+            <placeName>Barra</placeName>
+          </birth>
+        </person>
+        <person role="informant">
+          <persName>Conor [?] John MacLean</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Ecclesiastical Terms</term>
+          <term>An Eaglais</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e41">1. Various denominations</head>
+        <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e46">
+          <form>
+            <orth>an creideamh Caitligeach</orth>
+          </form>
+          <def>(&amp; an E. [Eaglais] Ch.)</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e55">
+          <form>
+            <orth>an creideamh saor</orth>
+          </form>
+          <def>(&amp; an E. [Eaglais] Sh.)</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e64">
+          <form>
+            <orth>an creideamh Pròstanach</orth>
+          </form>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e70">
+          <form>
+            <orth>an Eaglais Shasainn</orth>
+          </form>
+          <def>(not an creideamh Sasainn)</def>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e79">
+          <form>
+            <orth>na Baistich</orth>
+          </form>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e84">2. Member of each of these denominations</head>
+        <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e89">
+          <form>
+            <orth>Caitligeach</orth>
+          </form>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e95">
+          <form>
+            <orth>Pròstanach</orth>
+          </form>
+        </entry>
+        <entry xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e101">
+          <form>
+            <orth>Baisteach</orth>
+          </form>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e106">3. Different courts of the Presbyterian churches</head>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e110">4. Members of the clergy and office-bearers with the Presbyterian churches</head>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e114">5. Members of the clergy and office-bearers in the Roman Catholic church</head>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e118">6. Holy Orders within the Roman Catholic church</head>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e122">7. Articles of dress or adornment</head>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e126">8. Church building and churchyard</head>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e130">9. Church furniture and ornaments</head>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e134">10. Different services during the week, feast days, sacraments, Sunday school etc.</head>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e138">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers
+          etc.</head>
+      </div>
+      <div>
+        <head xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles-d0e142">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</head>
+      </div>
+    </body>
+  </text>
 </TEI>

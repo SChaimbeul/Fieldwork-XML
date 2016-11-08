@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BerneraDMacAulayslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>1967, 1980, 1988</date>
-            <location>
-               <placeName>Lewis, Bernera</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="informant">
-               <persName>Donald MacAulay</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_BerneraDMacAulayslips-idp117936216">
-            <form>
-               <orth>peinndeal</orth>
-            </form>
-            <def>Notes: snare for birds.</def>
-         </entry>
-         <entry xml:id="Slips_BerneraDMacAulayslips-idp117937728">
-            <form>
-               <orth>solach</orth>
-               <pron>[ˈsoLəx]</pron>
-            </form>
-            <def>[ˈsoLəx] Quotation: a’ solach air bainne. Notes: gulping down greedily.</def>
-         </entry>
-         <entry xml:id="Slips_BerneraDMacAulayslips-idp117939600">
-            <form>
-               <orth>càbhail</orth>
-            </form>
-            <def>Quotation: càbhail [ˈkɑ:vəl] air. Notes: having a chew at.</def>
-         </entry>
-         <entry xml:id="Slips_BerneraDMacAulayslips-idp117941544">
-            <form>
-               <orth>’an(iain) màsach</orth>
-            </form>
-            <def>Notes: lumpy soda bread.</def>
-         </entry>
-         <entry xml:id="Slips_BerneraDMacAulayslips-idp117943056">
-            <form>
-               <orth>gòisneachan</orth>
-            </form>
-            <def>Notes: part of snare where bird was actually caught.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>1967, 1980, 1988</date>
+        <location>
+          <placeName>Lewis, Bernera</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="informant">
+          <persName>Donald MacAulay</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_BerneraDMacAulayslips-idp117936216">
+        <form>
+          <orth>peinndeal</orth>
+        </form>
+        <def>Notes: snare for birds.</def>
+      </entry>
+      <entry xml:id="Slips_BerneraDMacAulayslips-idp117937728">
+        <form>
+          <orth>solach</orth>
+          <pron>[ˈsoLəx]</pron>
+        </form>
+        <def>[ˈsoLəx] Quotation: a’ solach air bainne. Notes: gulping down greedily.</def>
+      </entry>
+      <entry xml:id="Slips_BerneraDMacAulayslips-idp117939600">
+        <form>
+          <orth>càbhail</orth>
+        </form>
+        <def>Quotation: càbhail [ˈkɑ:vəl] air. Notes: having a chew at.</def>
+      </entry>
+      <entry xml:id="Slips_BerneraDMacAulayslips-idp117941544">
+        <form>
+          <orth>’an(iain) màsach</orth>
+        </form>
+        <def>Notes: lumpy soda bread.</def>
+      </entry>
+      <entry xml:id="Slips_BerneraDMacAulayslips-idp117943056">
+        <form>
+          <orth>gòisneachan</orth>
+        </form>
+        <def>Notes: part of snare where bird was actually caught.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

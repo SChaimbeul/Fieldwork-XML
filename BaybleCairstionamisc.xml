@@ -1,178 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="Word-lists_BaybleCairstionamisc">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: the word-list appears in Cairstiona’s letter. She explains: ‘Bha mi cuideachd ag cumail mo chluas fosgailte airson focail nach’eil buileach tric air an cleachdadh. Mu tha gin ’nam measg a tha ùr dhuit cuiridh mi an tuilleadh soluis air.” Indeed, a few of the words had definitions added next to them but it is not clear if this was the result of further correspondence with the informant. The top of one of the pages was used to note down two words provided by a different informant (see below).]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>11/12/67</date>
-            <location>
-               <placeName>[Lewis], Stornoway, Upper Bayble</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>Cairstiona</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Word-lists_BaybleCairstionamisc-idp156308072">
-            <form>
-               <orth>greòcadh</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_BaybleCairstionamisc-idp156251624">
-            <form>
-               <orth>smearradh</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_BaybleCairstionamisc-idp156292088">
-            <form>
-               <orth>buillman</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_BaybleCairstionamisc-idp156293888">
-            <form>
-               <orth>dildéirig</orth>
-            </form>
-            <def>puny person. [NOTES: definition added in second hand.]</def>
-         </entry>
-         <entry xml:id="Word-lists_BaybleCairstionamisc-idp156293312">
-            <form>
-               <orth>peadrachan</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_BaybleCairstionamisc-idp156294824">
-            <form>
-               <orth>cruthagan</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_BaybleCairstionamisc-idp156297272">
-            <form>
-               <orth>scliuchaidh</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_BaybleCairstionamisc-idp156215840">
-            <form>
-               <orth>sgriugeach</orth>
-               <pron>[?]</pron>
-            </form>
-            <def>[?] </def>
-         </entry>
-         <entry xml:id="Word-lists_BaybleCairstionamisc-idp156300872">
-            <form>
-               <orth>gorraireachd</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_BaybleCairstionamisc-idp156302384">
-            <form>
-               <orth>spealtrag</orth>
-            </form>
-            <def>herring slit open (and sometimes lightly salted). [NOTES: definition added in second hand.]</def>
-         </entry>
-         <entry xml:id="Word-lists_BaybleCairstionamisc-idp156304760">
-            <form>
-               <orth>craousag</orth>
-            </form>
-            <def>small berry. [NOTES: definition added in second hand.]</def>
-         </entry>
-         <entry xml:id="Word-lists_BaybleCairstionamisc-idp156306128">
-            <form>
-               <orth>cleigean</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_BaybleCairstionamisc-idp156307712">
-            <form>
-               <orth>gireach</orth>
-            </form>
-            <def>having straggling hair. [NOTES: definition added in second hand.]</def>
-         </entry>
-         <entry xml:id="Word-lists_BaybleCairstionamisc-idp156185240">
-            <form>
-               <orth>fraochan</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_BaybleCairstionamisc-idp156187040">
-            <form>
-               <orth>fìogar</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_BaybleCairstionamisc-idp156188552">
-            <form>
-               <orth>sliopradh</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_BaybleCairstionamisc-idp156190064">
-            <form>
-               <orth>slòpraich</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_BaybleCairstionamisc-idp156191576">
-            <form>
-               <orth>slinnteach</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_BaybleCairstionamisc-idp156193088">
-            <form>
-               <orth>spudraisg</orth>
-            </form>
-            <def>messy rubbish (moist or wet normally). [NOTES: definition added in second hand.]</def>
-         </entry>
-         <entry xml:id="Word-lists_BaybleCairstionamisc-idp156194744">
-            <form>
-               <orth>foirmealach</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_BaybleCairstionamisc-idp156196256">
-            <form>
-               <orth>siuthlaichean</orth>
-            </form>
-         </entry>
-         <entry xml:id="Word-lists_BaybleCairstionamisc-idp156197768">
-            <form>
-               <orth>brout</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="Word-lists_BaybleCairstionamisc-idola425"
-            >Murdo Ferguson, 16/1/1968</head>
-         <entry xml:id="Word-lists_BaybleCairstionamisc-idola423">
-            <form>
-               <orth>sgait-adhair</orth>
-            </form>
-            <def>kite.</def>
-         </entry>
-         <entry xml:id="Word-lists_BaybleCairstionamisc-idola424">
-            <form>
-               <orth>deantas</orth>
-            </form>
-            <def>dainties.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Word-lists_BaybleCairstionamisc">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: the word-list appears in Cairstiona’s letter. She explains: ‘Bha mi cuideachd ag cumail mo chluas fosgailte airson focail nach’eil buileach tric air an cleachdadh. Mu tha gin
+          ’nam measg a tha ùr dhuit cuiridh mi an tuilleadh soluis air.” Indeed, a few of the words had definitions added next to them but it is not clear if this was the result of further
+          correspondence with the informant. The top of one of the pages was used to note down two words provided by a different informant (see below).]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>11/12/67</date>
+        <location>
+          <placeName>[Lewis], Stornoway, Upper Bayble</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>Cairstiona</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Word-lists_BaybleCairstionamisc-idp156308072">
+        <form>
+          <orth>greòcadh</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_BaybleCairstionamisc-idp156251624">
+        <form>
+          <orth>smearradh</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_BaybleCairstionamisc-idp156292088">
+        <form>
+          <orth>buillman</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_BaybleCairstionamisc-idp156293888" type="person">
+        <form>
+          <orth>dildéirig</orth>
+        </form>
+        <def>puny person. [NOTES: definition added in second hand.]</def>
+      </entry>
+      <entry xml:id="Word-lists_BaybleCairstionamisc-idp156293312">
+        <form>
+          <orth>peadrachan</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_BaybleCairstionamisc-idp156294824">
+        <form>
+          <orth>cruthagan</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_BaybleCairstionamisc-idp156297272">
+        <form>
+          <orth>scliuchaidh</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_BaybleCairstionamisc-idp156215840">
+        <form>
+          <orth>sgriugeach</orth>
+          <pron>[?]</pron>
+        </form>
+        <def>[?] </def>
+      </entry>
+      <entry xml:id="Word-lists_BaybleCairstionamisc-idp156300872">
+        <form>
+          <orth>gorraireachd</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_BaybleCairstionamisc-idp156302384">
+        <form>
+          <orth>spealtrag</orth>
+        </form>
+        <def>herring slit open (and sometimes lightly salted). [NOTES: definition added in second hand.]</def>
+      </entry>
+      <entry xml:id="Word-lists_BaybleCairstionamisc-idp156304760">
+        <form>
+          <orth>craousag</orth>
+        </form>
+        <def>small berry. [NOTES: definition added in second hand.]</def>
+      </entry>
+      <entry xml:id="Word-lists_BaybleCairstionamisc-idp156306128">
+        <form>
+          <orth>cleigean</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_BaybleCairstionamisc-idp156307712">
+        <form>
+          <orth>gireach</orth>
+        </form>
+        <def>having straggling hair. [NOTES: definition added in second hand.]</def>
+      </entry>
+      <entry xml:id="Word-lists_BaybleCairstionamisc-idp156185240">
+        <form>
+          <orth>fraochan</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_BaybleCairstionamisc-idp156187040">
+        <form>
+          <orth>fìogar</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_BaybleCairstionamisc-idp156188552">
+        <form>
+          <orth>sliopradh</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_BaybleCairstionamisc-idp156190064">
+        <form>
+          <orth>slòpraich</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_BaybleCairstionamisc-idp156191576">
+        <form>
+          <orth>slinnteach</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_BaybleCairstionamisc-idp156193088">
+        <form>
+          <orth>spudraisg</orth>
+        </form>
+        <def>messy rubbish (moist or wet normally). [NOTES: definition added in second hand.]</def>
+      </entry>
+      <entry xml:id="Word-lists_BaybleCairstionamisc-idp156194744">
+        <form>
+          <orth>foirmealach</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_BaybleCairstionamisc-idp156196256">
+        <form>
+          <orth>siuthlaichean</orth>
+        </form>
+      </entry>
+      <entry xml:id="Word-lists_BaybleCairstionamisc-idp156197768">
+        <form>
+          <orth>brout</orth>
+        </form>
+      </entry>
+      <div>
+        <head xml:id="Word-lists_BaybleCairstionamisc-idola425">Murdo Ferguson, 16/1/1968</head>
+        <entry xml:id="Word-lists_BaybleCairstionamisc-idola423">
+          <form>
+            <orth>sgait-adhair</orth>
+          </form>
+          <def>kite.</def>
+        </entry>
+        <entry xml:id="Word-lists_BaybleCairstionamisc-idola424">
+          <form>
+            <orth>deantas</orth>
+          </form>
+          <def>dainties.</def>
+        </entry>
+      </div>
+    </body>
+  </text>
 </TEI>

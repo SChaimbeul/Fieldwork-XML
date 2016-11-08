@@ -32,13 +32,13 @@
   </teiHeader>
   <text>
     <body>
-      <entry xml:id="Word-lists_anonymousmisc1-idp113990448">
+      <entry xml:id="Word-lists_anonymousmisc1-idp113990448" type="person">
         <form>
           <orth>speilbheis</orth>
         </form>
         <def>duine bhiodh fadalach ag ithe. Nach ann annad a tha an speilbheis.</def>
       </entry>
-      <entry xml:id="Word-lists_anonymousmisc1-idp114004920">
+      <entry xml:id="Word-lists_anonymousmisc1-idp114004920" type="person">
         <form>
           <orth>ròngach</orth>
         </form>
@@ -74,24 +74,24 @@
         </form>
         <def>Bha e druidsearachd bho aite gu aite. – going from place to place and not getting much done.</def>
       </entry>
-      <entry xml:id="Word-lists_anonymousmisc1-idp114014424">
+      <entry xml:id="Word-lists_anonymousmisc1-idp114014424" type="person">
         <form>
           <orth>druidsear</orth>
         </form>
       </entry>
-      <entry xml:id="Word-lists_anonymousmisc1-idp114015936">
+      <entry xml:id="Word-lists_anonymousmisc1-idp114015936" type="person">
         <form>
           <orth>blàr aodhainn</orth>
         </form>
         <def>fireannach gòrach. Nach ann a tha a blar [sic] aodhainn.</def>
       </entry>
-      <entry xml:id="Word-lists_anonymousmisc1-idp114017592">
+      <entry xml:id="Word-lists_anonymousmisc1-idp114017592" type="person">
         <form>
           <orth>ònaid</orth>
         </form>
         <def>boireannach gòrach.</def>
       </entry>
-      <entry xml:id="Word-lists_anonymousmisc1-idp114019104">
+      <entry xml:id="Word-lists_anonymousmisc1-idp114019104" type="person">
         <form>
           <orth>lonaid</orth>
         </form>
@@ -107,7 +107,7 @@
           <orth>Chaidh iad na “teis” meadhoin</orth>
         </form>
       </entry>
-      <entry xml:id="Word-lists_anonymousmisc1-idp114023640">
+      <entry xml:id="Word-lists_anonymousmisc1-idp114023640" type="person">
         <form>
           <orth>góbag</orth>
         </form>
@@ -149,7 +149,7 @@
         </form>
         <def>Nach e tha ràpach – untidy.</def>
       </entry>
-      <entry xml:id="Word-lists_anonymousmisc1-idp114034440">
+      <entry xml:id="Word-lists_anonymousmisc1-idp114034440" type="person">
         <form>
           <orth>seotaire</orth>
         </form>
@@ -339,19 +339,19 @@
         </form>
         <def>Chan fhaca mi ròs air. – I didn’t see a sign of him.</def>
       </entry>
-      <entry xml:id="Word-lists_anonymousmisc1-idp113887632">
+      <entry xml:id="Word-lists_anonymousmisc1-idp113887632" type="person">
         <form>
-          <orth>cuileach</orth>
+          <orth>duine cuileach</orth>
         </form>
-        <def>duine cuileach – a sneaky person.</def>
+        <def>a sneaky person.</def>
       </entry>
-      <entry xml:id="Word-lists_anonymousmisc1-idp113889144">
+      <entry xml:id="Word-lists_anonymousmisc1-idp113889144" type="person">
         <form>
           <orth>speach</orth>
         </form>
         <def>a cheeky female.</def>
       </entry>
-      <entry xml:id="Word-lists_anonymousmisc1-idp113890656">
+      <entry xml:id="Word-lists_anonymousmisc1-idp113890656" type="person">
         <form>
           <orth>duine bragail</orth>
         </form>

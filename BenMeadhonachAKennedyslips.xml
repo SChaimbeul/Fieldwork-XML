@@ -1,257 +1,256 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="Slips_BenMeadhonachAKennedyslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>10/1970</date>
-            <location>
-               <placeName>Coll, Ben Meadhonach</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[AJ Smith?]</persName>
-            </person>
-            <person role="informant">
-               <persName>Angus Kennedy</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162135848">
-            <form>
-               <orth>ladair</orth>
-               <pron>[ɫɑd̪əɾ]</pron>
-            </form>
-            <def>[ɫɑd̪əɾ] Notes: ladle.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162137576">
-            <form>
-               <orth>leac</orth>
-            </form>
-            <def>Quotation: leac-an-teinnich.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162139088">
-            <form>
-               <orth>lunnachan (pl)</orth>
-            </form>
-            <def>Notes: for carrying the coffin – three sticks cross-wise under it.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162140600">
-            <form>
-               <orth>mathair-shiomain</orth>
-            </form>
-            <def>Notes: <graphic url="BenMeadhonachAKennedyslipsillust1.jpg" width="300px"/>
-            </def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162142112">
-            <form>
-               <orth>mulan</orth>
-               <pron>[mũ̜ɫɑṉ]</pron>
-            </form>
-            <def>[mũ̜ɫɑṉ] Notes: a round stack.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162143840">
-            <form>
-               <orth>iomaire-cinn</orth>
-            </form>
-            <def>Notes: end-rig.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162145352">
-            <form>
-               <orth>pàirc</orth>
-               <pron>[pɑ:ɾiçc]</pron>
-            </form>
-            <def>[pɑ:ɾiçc] [sic] Notes: a field; can be used of an open field.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162147152">
-            <form>
-               <orth>pollag</orth>
-            </form>
-            <def>Quotation: pollag buntàta. Notes: potato pit.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162148808">
-            <form>
-               <orth>sgealbadh</orth>
-            </form>
-            <def>Quotation: a’ sgealbadh a’ bhuntàta.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162150320">
-            <form>
-               <orth>sleadhan</orth>
-               <pron>[slɛɑṉ]</pron>
-            </form>
-            <def>[slɛɑṉ] Notes: spurtle.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162152048">
-            <form>
-               <orth>smuiseal</orth>
-            </form>
-            <def>Notes: muzzle of the plough.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162153560">
-            <form>
-               <orth>spreigean</orth>
-               <pron>[spɾeɡʹɑṉ]</pron>
-            </form>
-            <def>[spɾeɡʹɑṉ] Notes: a match.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162155288">
-            <form>
-               <orth>talamh</orth>
-            </form>
-            <def>Quotation: talamh connlaich. Notes: stubble land.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162156944">
-            <form>
-               <orth>taobh-shlat</orth>
-               <pron>[t̪w:ɫɑd̪]</pron>
-            </form>
-            <def>[t̪w:ɫɑd̪] Notes: strap on which boat seats rest.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162158672">
-            <form>
-               <orth>teine</orth>
-            </form>
-            <def>Quotation: leac-an-teinnich [tʹɛ̃nʹıç].</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162160400">
-            <form>
-               <orth>ùireachair</orth>
-               <pron>[u̜:ɾɑxəɾ]</pron>
-            </form>
-            <def>[u̜:ɾɑxəɾ] Notes: mould-board.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162162128">
-            <form>
-               <orth>urrachdag</orth>
-            </form>
-            <def>Notes: thole-pin.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162163640">
-            <form>
-               <orth>bàrr</orth>
-            </form>
-            <def>Quotation: bàrr fuadain. Notes: the shoots of potatoes left in the ground and growing the following year.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162165296">
-            <form>
-               <orth>beinge</orth>
-            </form>
-            <def>Quotation: beinge na leapa. Notes: the edge of the bed.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162166952">
-            <form>
-               <orth>brochan</orth>
-            </form>
-            <def>Quotation: brochan feanntaig. Notes: nettle soup.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162168608">
-            <form>
-               <orth>buntàta</orth>
-            </form>
-            <def>Quotation: buntàta fuadain. Notes: potatoes left in the ground and growing the following year.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162170264">
-            <form>
-               <orth>buthal</orth>
-               <pron>[ˈbu̜əɫ]</pron>
-            </form>
-            <def>[ˈbu̜əɫ] Quotation: buthal na poite. Notes: pot handle.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162172136">
-            <form>
-               <orth>càth</orth>
-            </form>
-            <def>Notes: winnow.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162173648">
-            <form>
-               <orth>ceannag</orth>
-            </form>
-            <def>Notes: a bundle of threshed corn.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162175160">
-            <form>
-               <orth>connlach</orth>
-            </form>
-            <def>Quotation: talamh connlaich.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162176672">
-            <form>
-               <orth>cosgais</orth>
-            </form>
-            <def>Notes: whisky, biscuits and cheese at a funeral.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162178184">
-            <form>
-               <orth>crot</orth>
-            </form>
-            <def>Notes: short pieces of wood nailed to the oar where it rests between the tholepins. Prevents chafing.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162179696">
-            <form>
-               <orth>cruach</orth>
-            </form>
-            <def>Notes: loaf-shaped stack.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162181208">
-            <form>
-               <orth>difir</orth>
-            </form>
-            <def>Quotation: Chuireadh iad difir air a bhith a treothadh le crann is paidhir làmh ris na cruinn ’s na tractors a th’ac an diugh.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162182720">
-            <form>
-               <orth>feanntag</orth>
-            </form>
-            <def>Quotation: brochan feanntaig. Notes: nettle soup.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162184376">
-            <form>
-               <orth>fuadan</orth>
-            </form>
-            <def>Quotation: buntàta fuadain.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162185888">
-            <form>
-               <orth>glutadh</orth>
-            </form>
-            <def>Notes: packing between double walls.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162187400">
-            <form>
-               <orth>goillean</orth>
-               <pron>[ɡɤlʹɑṉ]</pron>
-            </form>
-            <def>[ɡɤlʹɑṉ] Notes: a taper.</def>
-         </entry>
-         <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162189128">
-            <form>
-               <orth>gualachan</orth>
-            </form>
-            <def>Notes: cart drag-chain.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BenMeadhonachAKennedyslips">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>10/1970</date>
+        <location>
+          <placeName>Coll, Ben Meadhonach</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[AJ Smith?]</persName>
+        </person>
+        <person role="informant">
+          <persName>Angus Kennedy</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162135848">
+        <form>
+          <orth>ladair</orth>
+          <pron>[ɫɑd̪əɾ]</pron>
+        </form>
+        <def>[ɫɑd̪əɾ] Notes: ladle.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162137576">
+        <form>
+          <orth>leac</orth>
+        </form>
+        <def>Quotation: leac-an-teinnich.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162139088">
+        <form>
+          <orth>lunnachan (pl)</orth>
+        </form>
+        <def>Notes: for carrying the coffin – three sticks cross-wise under it.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162140600">
+        <form>
+          <orth>mathair-shiomain</orth>
+        </form>
+        <def>Notes: <graphic url="BenMeadhonachAKennedyslipsillust1.jpg" width="300px"/>
+        </def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162142112">
+        <form>
+          <orth>mulan</orth>
+          <pron>[mũ̜ɫɑṉ]</pron>
+        </form>
+        <def>[mũ̜ɫɑṉ] Notes: a round stack.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162143840">
+        <form>
+          <orth>iomaire-cinn</orth>
+        </form>
+        <def>Notes: end-rig.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162145352">
+        <form>
+          <orth>pàirc</orth>
+          <pron>[pɑ:ɾiçc]</pron>
+        </form>
+        <def>[pɑ:ɾiçc] [sic] Notes: a field; can be used of an open field.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162147152">
+        <form>
+          <orth>pollag</orth>
+        </form>
+        <def>Quotation: pollag buntàta. Notes: potato pit.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162148808">
+        <form>
+          <orth>sgealbadh</orth>
+        </form>
+        <def>Quotation: a’ sgealbadh a’ bhuntàta.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162150320">
+        <form>
+          <orth>sleadhan</orth>
+          <pron>[slɛɑṉ]</pron>
+        </form>
+        <def>[slɛɑṉ] Notes: spurtle.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162152048">
+        <form>
+          <orth>smuiseal</orth>
+        </form>
+        <def>Notes: muzzle of the plough.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162153560">
+        <form>
+          <orth>spreigean</orth>
+          <pron>[spɾeɡʹɑṉ]</pron>
+        </form>
+        <def>[spɾeɡʹɑṉ] Notes: a match.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162155288">
+        <form>
+          <orth>talamh</orth>
+        </form>
+        <def>Quotation: talamh connlaich. Notes: stubble land.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162156944">
+        <form>
+          <orth>taobh-shlat</orth>
+          <pron>[t̪w:ɫɑd̪]</pron>
+        </form>
+        <def>[t̪w:ɫɑd̪] Notes: strap on which boat seats rest.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162158672">
+        <form>
+          <orth>teine</orth>
+        </form>
+        <def>Quotation: leac-an-teinnich [tʹɛ̃nʹıç].</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162160400">
+        <form>
+          <orth>ùireachair</orth>
+          <pron>[u̜:ɾɑxəɾ]</pron>
+        </form>
+        <def>[u̜:ɾɑxəɾ] Notes: mould-board.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162162128">
+        <form>
+          <orth>urrachdag</orth>
+        </form>
+        <def>Notes: thole-pin.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162163640">
+        <form>
+          <orth>bàrr</orth>
+        </form>
+        <def>Quotation: bàrr fuadain. Notes: the shoots of potatoes left in the ground and growing the following year.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162165296">
+        <form>
+          <orth>beinge</orth>
+        </form>
+        <def>Quotation: beinge na leapa. Notes: the edge of the bed.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162166952">
+        <form>
+          <orth>brochan</orth>
+        </form>
+        <def>Quotation: brochan feanntaig. Notes: nettle soup.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162168608">
+        <form>
+          <orth>buntàta</orth>
+        </form>
+        <def>Quotation: buntàta fuadain. Notes: potatoes left in the ground and growing the following year.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162170264">
+        <form>
+          <orth>buthal</orth>
+          <pron>[ˈbu̜əɫ]</pron>
+        </form>
+        <def>[ˈbu̜əɫ] Quotation: buthal na poite. Notes: pot handle.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162172136">
+        <form>
+          <orth>càth</orth>
+        </form>
+        <def>Notes: winnow.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162173648">
+        <form>
+          <orth>ceannag</orth>
+        </form>
+        <def>Notes: a bundle of threshed corn.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162175160">
+        <form>
+          <orth>connlach</orth>
+        </form>
+        <def>Quotation: talamh connlaich.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162176672">
+        <form>
+          <orth>cosgais</orth>
+        </form>
+        <def>Notes: whisky, biscuits and cheese at a funeral.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162178184">
+        <form>
+          <orth>crot</orth>
+        </form>
+        <def>Notes: short pieces of wood nailed to the oar where it rests between the tholepins. Prevents chafing.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162179696">
+        <form>
+          <orth>cruach</orth>
+        </form>
+        <def>Notes: loaf-shaped stack.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162181208">
+        <form>
+          <orth>difir</orth>
+        </form>
+        <def>Quotation: Chuireadh iad difir air a bhith a treothadh le crann is paidhir làmh ris na cruinn ’s na tractors a th’ac an diugh.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162182720">
+        <form>
+          <orth>feanntag</orth>
+        </form>
+        <def>Quotation: brochan feanntaig. Notes: nettle soup.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162184376">
+        <form>
+          <orth>fuadan</orth>
+        </form>
+        <def>Quotation: buntàta fuadain.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162185888">
+        <form>
+          <orth>glutadh</orth>
+        </form>
+        <def>Notes: packing between double walls.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162187400">
+        <form>
+          <orth>goillean</orth>
+          <pron>[ɡɤlʹɑṉ]</pron>
+        </form>
+        <def>[ɡɤlʹɑṉ] Notes: a taper.</def>
+      </entry>
+      <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162189128">
+        <form>
+          <orth>gualachan</orth>
+        </form>
+        <def>Notes: cart drag-chain.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

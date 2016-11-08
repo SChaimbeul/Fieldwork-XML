@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BarraRMacNeilslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>1967</date>
-            <location>
-               <placeName>Barra</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="informant">
-               <persName>Roderick MacNeil</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_BarraRMacNeilslips-idp115485136">
-            <form>
-               <orth>seannda</orth>
-            </form>
-            <def>Notes: elderly.</def>
-         </entry>
-         <entry xml:id="Slips_BarraRMacNeilslips-idp115475272">
-            <form>
-               <orth>barra-chainnt</orth>
-            </form>
-            <def>Notes: foolish talk.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>1967</date>
+        <location>
+          <placeName>Barra</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="informant">
+          <persName>Roderick MacNeil</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_BarraRMacNeilslips-idp115485136">
+        <form>
+          <orth>seannda</orth>
+        </form>
+        <def>Notes: elderly.</def>
+      </entry>
+      <entry xml:id="Slips_BarraRMacNeilslips-idp115475272">
+        <form>
+          <orth>barra-chainnt</orth>
+        </form>
+        <def>Notes: foolish talk.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

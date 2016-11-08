@@ -1,216 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="AOHenley_BishopbriggsMCraneaiteach">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[1987-88]</date>
-            <location>
-               <placeName>Bishopbriggs</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>A. O’Henley</persName>
-            </person>
-            <person role="informant">
-               <persName>Mrs Mary Crane</persName>
-               <birth>
-                  <placeName>Leòdhas [Lewis]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Agriculture</term>
-               <term>Àiteach</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e29"
-            >1. Na togalaichean: sobhal, bàthach is mar sin, agus ainm gach pàirt dhiubh</head>
-         <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp112048704">
-            <form>
-               <orth>spiris</orth>
-            </form>
-            <def>shelf for hens.</def>
-         </entry>
-         <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp112051800">
-            <form>
-               <orth>clais (-ean)</orth>
-            </form>
-            <def>stalls.</def>
-         </entry>
-         <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp112055544">
-            <form>
-               <orth>sobhal</orth>
-            </form>
-            <def>used to store hay and potatoes.</def>
-         </entry>
-         <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp112091544">
-            <form>
-               <orth>bathach</orth>
-            </form>
-            <def>cattle.</def>
-         </entry>
-         <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp112099752">
-            <form>
-               <orth>slochd</orth>
-            </form>
-            <def>used to preserve seed potatoes.</def>
-         </entry>
-         <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp112095072">
-            <form>
-               <orth>sgràthan</orth>
-            </form>
-            <def>turfs put on roof with thatch.</def>
-         </entry>
-         <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp112091904">
-            <form>
-               <orth>brèidean</orth>
-            </form>
-            <def>rope placed round the neck of a cow or a sheep.</def>
-         </entry>
-         <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp112097520">
-            <form>
-               <orth>criath</orth>
-            </form>
-            <def>clay.</def>
-         </entry>
-         <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp112100400">
-            <form>
-               <orth>clachan acair</orth>
-            </form>
-            <def>for holding down the thatch.</def>
-         </entry>
-         <head
-             xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e114"
-            >2. A’ mathachadh no a’ leasachadh na talmhainn</head>
-         <head
-             xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e118"
-            >3. A’ treabhadh no a’ ruamhar: an crann agus ainm gach pàirt dheth</head>
-         <head
-             xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e122"
-            >4. Innealan beaga leithid spaid, gràp, ràcan is mar sin</head>
-         <head
-             xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e126"
-            >5. Acfhuinn an eich airson gach seòrsa obair</head>
-         <head
-             xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e130"
-            >6. A’ cur an t-sìl</head>
-         <head
-             xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e134"
-            >7. A’ buain agus a’ tiormachadh an arbhair no an fheòir</head>
-         <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2554176">
-            <form>
-               <orth>corran</orth>
-            </form>
-            <def>used before the scythe became predominant.</def>
-         </entry>
-         <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2555688">
-            <form>
-               <orth>bad</orth>
-            </form>
-            <def>equivalent of ‘adaig’ [?] in Uist – sheave [sic].</def>
-         </entry>
-         <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2549496">
-            <form>
-               <orth>adag</orth>
-            </form>
-            <def>6 or 12 of above [i.e. bad].</def>
-         </entry>
-         <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2558208">
-            <form>
-               <orth>bann</orth>
-            </form>
-            <def>a few strands of corn used to bind the sheave [sic].</def>
-         </entry>
-         <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2559072">
-            <form>
-               <orth>currachdag</orth>
-            </form>
-            <def>rick of corn. Equivalent of ‘toit’ in Uist.</def>
-         </entry>
-         <head
-             xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e183"
-            >8. A’ togail a’ bhuntàta</head>
-         <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2525304">
-            <form>
-               <orth>gràp</orth>
-            </form>
-         </entry>
-         <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2526816">
-            <form>
-               <orth>cliabh</orth>
-            </form>
-            <def>used to carry potatoes.</def>
-         </entry>
-         <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2528904">
-            <form>
-               <orth>taghadh</orth>
-            </form>
-            <def>choosing which potatoes to eat and those to be used for seed potatoes next year. Potato needs 2 eyes to be used for seed purposes. Some of larger potatoes cut up and given to sheep. No name provided for this process.</def>
-         </entry>
-         <head
-             xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e211"
-            >9. A’ tasgadh an arbhair agus a’ bhuntàta</head>
-         <head
-             xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e215"
-            >10. A’ bualadh ’s a’ criathradh</head>
-         <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2531928">
-            <form>
-               <orth>cliathadh</orth>
-            </form>
-            <def>instrument used for harrowing. Made of wood with iron incisors.</def>
-         </entry>
-         <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2546400">
-            <form>
-               <orth>suist</orth>
-            </form>
-            <def>used for threshing. Corn would be placed on smaller stick and hit forcefully with the bigger stick which was wielded in the hand. Two sticks possibly tied together with rope. <graphic url="BishopbriggsMCraneaiteachillust1.jpg" width="200px"/>
-            </def>
-         </entry>
-         <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2542368">
-            <form>
-               <orth>suisteadh</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e244"
-            >11. A’ bleith an t-sìl</head>
-         <head
-             xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e248"
-            >12. Ainmean a chleachdar ri earrainn fearainn</head>
-         <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2534664">
-            <form>
-               <orth>lòt</orth>
-            </form>
-            <def>croft.</def>
-         </entry>
-         <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2401000">
-            <form>
-               <orth>iomair</orth>
-            </form>
-            <def>separate fields of corn or potatoes.</def>
-         </entry>
-         <head
-             xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e270"
-            >13. Faclan sam bith eile</head>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AOHenley_BishopbriggsMCraneaiteach">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[1987-88]</date>
+        <location>
+          <placeName>Bishopbriggs</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>A. O’Henley</persName>
+        </person>
+        <person role="informant">
+          <persName>Mrs Mary Crane</persName>
+          <birth>
+            <placeName>Leòdhas [Lewis]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Agriculture</term>
+          <term>Àiteach</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e29">1. Na togalaichean: sobhal, bàthach is mar sin, agus ainm gach pàirt dhiubh</head>
+      <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp112048704">
+        <form>
+          <orth>spiris</orth>
+        </form>
+        <def>shelf for hens.</def>
+      </entry>
+      <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp112051800">
+        <form>
+          <orth>clais (-ean)</orth>
+        </form>
+        <def>stalls.</def>
+      </entry>
+      <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp112055544">
+        <form>
+          <orth>sobhal</orth>
+        </form>
+        <def>used to store hay and potatoes.</def>
+      </entry>
+      <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp112091544">
+        <form>
+          <orth>bathach</orth>
+        </form>
+        <def>cattle.</def>
+      </entry>
+      <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp112099752">
+        <form>
+          <orth>slochd</orth>
+        </form>
+        <def>used to preserve seed potatoes.</def>
+      </entry>
+      <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp112095072">
+        <form>
+          <orth>sgràthan</orth>
+        </form>
+        <def>turfs put on roof with thatch.</def>
+      </entry>
+      <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp112091904">
+        <form>
+          <orth>brèidean</orth>
+        </form>
+        <def>rope placed round the neck of a cow or a sheep.</def>
+      </entry>
+      <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp112097520">
+        <form>
+          <orth>criath</orth>
+        </form>
+        <def>clay.</def>
+      </entry>
+      <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp112100400">
+        <form>
+          <orth>clachan acair</orth>
+        </form>
+        <def>for holding down the thatch.</def>
+      </entry>
+      <head xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e114">2. A’ mathachadh no a’ leasachadh na talmhainn</head>
+      <head xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e118">3. A’ treabhadh no a’ ruamhar: an crann agus ainm gach pàirt dheth</head>
+      <head xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e122">4. Innealan beaga leithid spaid, gràp, ràcan is mar sin</head>
+      <head xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e126">5. Acfhuinn an eich airson gach seòrsa obair</head>
+      <head xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e130">6. A’ cur an t-sìl</head>
+      <head xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e134">7. A’ buain agus a’ tiormachadh an arbhair no an fheòir</head>
+      <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2554176">
+        <form>
+          <orth>corran</orth>
+        </form>
+        <def>used before the scythe became predominant.</def>
+      </entry>
+      <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2555688">
+        <form>
+          <orth>bad</orth>
+        </form>
+        <def>equivalent of ‘adaig’ [?] in Uist – sheave [sic].</def>
+      </entry>
+      <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2549496">
+        <form>
+          <orth>adag</orth>
+        </form>
+        <def>6 or 12 of above [i.e. bad].</def>
+      </entry>
+      <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2558208">
+        <form>
+          <orth>bann</orth>
+        </form>
+        <def>a few strands of corn used to bind the sheave [sic].</def>
+      </entry>
+      <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2559072">
+        <form>
+          <orth>currachdag</orth>
+        </form>
+        <def>rick of corn. Equivalent of ‘toit’ in Uist.</def>
+      </entry>
+      <head xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e183">8. A’ togail a’ bhuntàta</head>
+      <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2525304">
+        <form>
+          <orth>gràp</orth>
+        </form>
+      </entry>
+      <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2526816">
+        <form>
+          <orth>cliabh</orth>
+        </form>
+        <def>used to carry potatoes.</def>
+      </entry>
+      <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2528904">
+        <form>
+          <orth>taghadh</orth>
+        </form>
+        <def>choosing which potatoes to eat and those to be used for seed potatoes next year. Potato needs 2 eyes to be used for seed purposes. Some of larger potatoes cut up and given to sheep. No
+          name provided for this process.</def>
+      </entry>
+      <head xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e211">9. A’ tasgadh an arbhair agus a’ bhuntàta</head>
+      <head xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e215">10. A’ bualadh ’s a’ criathradh</head>
+      <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2531928">
+        <form>
+          <orth>cliathadh</orth>
+        </form>
+        <def>instrument used for harrowing. Made of wood with iron incisors.</def>
+      </entry>
+      <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2546400">
+        <form>
+          <orth>suist</orth>
+        </form>
+        <def>used for threshing. Corn would be placed on smaller stick and hit forcefully with the bigger stick which was wielded in the hand. Two sticks possibly tied together with rope. <graphic
+            url="BishopbriggsMCraneaiteachillust1.jpg" width="200px"/>
+        </def>
+      </entry>
+      <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2542368">
+        <form>
+          <orth>suisteadh</orth>
+        </form>
+      </entry>
+      <head xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e244">11. A’ bleith an t-sìl</head>
+      <head xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e248">12. Ainmean a chleachdar ri earrainn fearainn</head>
+      <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2534664">
+        <form>
+          <orth>lòt</orth>
+        </form>
+        <def>croft.</def>
+      </entry>
+      <entry xml:id="AOHenley_BishopbriggsMCraneaiteach-idp2401000">
+        <form>
+          <orth>iomair</orth>
+        </form>
+        <def>separate fields of corn or potatoes.</def>
+      </entry>
+      <head xml:id="AOHenley_BishopbriggsMCraneaiteach-d0e270">13. Faclan sam bith eile</head>
+    </body>
+  </text>
 </TEI>

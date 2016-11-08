@@ -216,9 +216,9 @@
         </form>
         <def>Quotation: Saoil thu dé thig as a’ mhogan? Notes: used for a purse occasionally. Small roundish object.</def>
       </entry>
-      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp163275632">
+      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp163275632" type="person">
         <form>
-          <orth>moganach</orth>
+          <orth>moganach beag</orth>
           <pron>[mɔ̃ɡɑṉɔx]</pron>
         </form>
         <def>Quotation: moganach beag. Notes: a small, tubby man.</def>
@@ -467,7 +467,7 @@
         </form>
         <def>Notes: mire.</def>
       </entry>
-      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp116176984">
+      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp116176984" type="person">
         <form>
           <orth>proitseanach</orth>
           <pron>[bɾɔṯʃɑ̃ṉɑx]</pron>
@@ -587,7 +587,7 @@
         </form>
         <def>Notes: altering tack when sailing.</def>
       </entry>
-      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp116208376">
+      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp116208376" type="person">
         <form>
           <orth>siag</orth>
         </form>
@@ -670,7 +670,7 @@
         </form>
         <def>Notes: the winding of the gut round the leg of the hook. (n + vb)</def>
       </entry>
-      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp167681008">
+      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp167681008" type="bird">
         <form>
           <orth>snàthadag</orth>
         </form>
@@ -707,7 +707,7 @@
         </form>
         <def>Notes: whisper (n. and vb). Tha iad a’ sonais.</def>
       </entry>
-      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp167690872">
+      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp167690872" type="person">
         <form>
           <orth>spliongaire</orth>
           <pron>[splw̃ŋɡəðə]</pron>
@@ -966,7 +966,7 @@
         </form>
         <def>Notes: a sheep tick.</def>
       </entry>
-      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp162239504">
+      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp162239504" type="person">
         <form>
           <orth>uircean</orth>
         </form>
@@ -1060,9 +1060,9 @@
         </form>
         <def>Notes: shallow. See also ‘aodain’.</def>
       </entry>
-      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp162265064">
+      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp162265064" type="person">
         <form>
-          <orth>apag</orth>
+          <orth>apag gun mhath</orth>
         </form>
         <def>Quotation: apag gun mhath. Notes: useless woman.</def>
       </entry>
@@ -1142,14 +1142,14 @@
         </form>
         <def>Notes: bubble; blister.</def>
       </entry>
-      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp167531104">
+      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp167531104" type="person">
         <form>
           <orth>banabhuids</orth>
           <pron>[bɑ̃ṉɑvu̟ḏʃ]</pron>
         </form>
         <def>Notes: witch.</def>
       </entry>
-      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp167532832">
+      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp167532832" type="bird">
         <form>
           <orth>bana-choileach</orth>
         </form>
@@ -1252,7 +1252,7 @@
         </form>
         <def>Notes: herring buoy. (Canvas or skin with wooden top.)</def>
       </entry>
-      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp167560408">
+      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp167560408" type="person">
         <form>
           <orth>bràmalaid</orth>
           <pron>[bɾɑ̃:məɫɑdʹ]</pron>
@@ -1265,7 +1265,7 @@
         </form>
         <def>Quotation: breacan an teine. Notes: the pattern made on the legs caused by proximity to the fire.</def>
       </entry>
-      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp167563792">
+      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp167563792" type="bird">
         <form>
           <orth>brìdean</orth>
         </form>
@@ -1289,7 +1289,7 @@
         </form>
         <def>Notes: bradawl.</def>
       </entry>
-      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp167570056">
+      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp167570056" type="person">
         <form>
           <orth>brogachan</orth>
           <pron>[bɾɔɡɔxɑṉ]</pron>
@@ -1453,7 +1453,7 @@
         </form>
         <def>Quotation: Tha cearb air. Notes: He has a disability.</def>
       </entry>
-      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp166614424">
+      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp166614424" type="bird">
         <form>
           <orth>cearc</orth>
         </form>
@@ -1554,7 +1554,7 @@
         </form>
         <def>Quotation: Thug e cliapadh. Notes: lurch.</def>
       </entry>
-      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp166642216">
+      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp166642216" type="person">
         <form>
           <orth>clibire</orth>
         </form>
@@ -2007,7 +2007,7 @@
         </form>
         <def>Quotation: gibeag de phlangaid. Notes: ragged piece of blanket.</def>
       </entry>
-      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp161929584">
+      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp161929584" type="person">
         <form>
           <orth>gibean</orth>
         </form>
@@ -2077,7 +2077,7 @@
         </form>
         <def>Notes: </def>
       </entry>
-      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp161947656">
+      <entry xml:id="Slips_AultbeaAMacDonaldslips-idp161947656" type="person">
         <form>
           <orth>glutaire</orth>
         </form>

@@ -1,81 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BreakishMNicolsonslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>1979</date>
-            <location>
-               <placeName>Skye, Breakish</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="informant">
-               <persName>Mrs M. Nicolson</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_BreakishMNicolsonslips-idp161830560">
-            <form>
-               <orth>splocan</orth>
-            </form>
-            <def>Notes: ‘mumps’.</def>
-         </entry>
-         <entry xml:id="Slips_BreakishMNicolsonslips-idp161832072">
-            <form>
-               <orth>scobhsa</orth>
-            </form>
-            <def>Notes: stones at side of fire, sometimes whitened with lime.</def>
-         </entry>
-         <entry xml:id="Slips_BreakishMNicolsonslips-idp161833656">
-            <form>
-               <orth>toirbhsgil</orth>
-            </form>
-            <def>Notes: peat-cutter.</def>
-         </entry>
-         <entry xml:id="Slips_BreakishMNicolsonslips-idp161835168">
-            <form>
-               <orth>briogais-fhada</orth>
-            </form>
-            <def>Notes: full-length trousers.</def>
-         </entry>
-         <entry xml:id="Slips_BreakishMNicolsonslips-idp161836680">
-            <form>
-               <orth>briogais-ghlùin</orth>
-            </form>
-            <def>Notes: knee-breeches.</def>
-         </entry>
-         <entry xml:id="Slips_BreakishMNicolsonslips-idp161838192">
-            <form>
-               <orth>deise ghoirid</orth>
-            </form>
-            <def>Notes: ‘plus-fours.’</def>
-         </entry>
-         <entry xml:id="Slips_BreakishMNicolsonslips-idp161839704">
-            <form>
-               <orth>faochagan</orth>
-            </form>
-            <def>Notes: game involving five stones.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>1979</date>
+        <location>
+          <placeName>Skye, Breakish</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="informant">
+          <persName>Mrs M. Nicolson</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_BreakishMNicolsonslips-idp161830560">
+        <form>
+          <orth>splocan</orth>
+        </form>
+        <def>Notes: ‘mumps’.</def>
+      </entry>
+      <entry xml:id="Slips_BreakishMNicolsonslips-idp161832072">
+        <form>
+          <orth>scobhsa</orth>
+        </form>
+        <def>Notes: stones at side of fire, sometimes whitened with lime.</def>
+      </entry>
+      <entry xml:id="Slips_BreakishMNicolsonslips-idp161833656">
+        <form>
+          <orth>toirbhsgil</orth>
+        </form>
+        <def>Notes: peat-cutter.</def>
+      </entry>
+      <entry xml:id="Slips_BreakishMNicolsonslips-idp161835168">
+        <form>
+          <orth>briogais-fhada</orth>
+        </form>
+        <def>Notes: full-length trousers.</def>
+      </entry>
+      <entry xml:id="Slips_BreakishMNicolsonslips-idp161836680">
+        <form>
+          <orth>briogais-ghlùin</orth>
+        </form>
+        <def>Notes: knee-breeches.</def>
+      </entry>
+      <entry xml:id="Slips_BreakishMNicolsonslips-idp161838192">
+        <form>
+          <orth>deise ghoirid</orth>
+        </form>
+        <def>Notes: ‘plus-fours.’</def>
+      </entry>
+      <entry xml:id="Slips_BreakishMNicolsonslips-idp161839704">
+        <form>
+          <orth>faochagan</orth>
+        </form>
+        <def>Notes: game involving five stones.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

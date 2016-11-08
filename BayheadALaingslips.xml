@@ -1,88 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BayheadALaingslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>02/1969</date>
-            <location>
-               <placeName>North Uist, Bayhead</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[AJ Smith?]</persName>
-            </person>
-            <person role="informant">
-               <persName>Andrew Laing</persName>
-               <age>c. 80</age>
-               <birth>
-                  <placeName>Bayhead</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_BayheadALaingslips-idp162092408">
-            <form>
-               <orth>bot</orth>
-            </form>
-            <def>Notes: bank (sand, etc.).</def>
-         </entry>
-         <entry xml:id="Slips_BayheadALaingslips-idp162093920">
-            <form>
-               <orth>cliath</orth>
-            </form>
-            <def>Quotation: Fiaclan cléithidh. Notes: harrow spikes.</def>
-         </entry>
-         <entry xml:id="Slips_BayheadALaingslips-idp162095576">
-            <form>
-               <orth>corran</orth>
-            </form>
-            <def>Notes: sand bank jutting out to sea.</def>
-         </entry>
-         <entry xml:id="Slips_BayheadALaingslips-idp162097088">
-            <form>
-               <orth>fiacal</orth>
-            </form>
-            <def>Quotation: Fiaclan cléithidh. Notes: harrow spikes.</def>
-         </entry>
-         <entry xml:id="Slips_BayheadALaingslips-idp162098744">
-            <form>
-               <orth>fòidear</orth>
-            </form>
-            <def>Notes: a person who was responsible for turning with the spade after the plough.</def>
-         </entry>
-         <entry xml:id="Slips_BayheadALaingslips-idp162100256">
-            <form>
-               <orth>fòidearachd</orth>
-            </form>
-            <def>Quotation: a’ fòidearachd. Notes: turning with the spade after the plough. (See fòidear.)</def>
-         </entry>
-         <entry xml:id="Slips_BayheadALaingslips-idp162101984">
-            <form>
-               <orth>fòidearachd</orth>
-            </form>
-            <def>Notes: turning with the spade after the plough, i.e. what had been left unturned. (See fòidear.)</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>02/1969</date>
+        <location>
+          <placeName>North Uist, Bayhead</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[AJ Smith?]</persName>
+        </person>
+        <person role="informant">
+          <persName>Andrew Laing</persName>
+          <age>c. 80</age>
+          <birth>
+            <placeName>Bayhead</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_BayheadALaingslips-idp162092408">
+        <form>
+          <orth>bot</orth>
+        </form>
+        <def>Notes: bank (sand, etc.).</def>
+      </entry>
+      <entry xml:id="Slips_BayheadALaingslips-idp162093920">
+        <form>
+          <orth>cliath</orth>
+        </form>
+        <def>Quotation: Fiaclan cléithidh. Notes: harrow spikes.</def>
+      </entry>
+      <entry xml:id="Slips_BayheadALaingslips-idp162095576">
+        <form>
+          <orth>corran</orth>
+        </form>
+        <def>Notes: sand bank jutting out to sea.</def>
+      </entry>
+      <entry xml:id="Slips_BayheadALaingslips-idp162097088">
+        <form>
+          <orth>fiacal</orth>
+        </form>
+        <def>Quotation: Fiaclan cléithidh. Notes: harrow spikes.</def>
+      </entry>
+      <entry xml:id="Slips_BayheadALaingslips-idp162098744" type="person">
+        <form>
+          <orth>fòidear</orth>
+        </form>
+        <def>Notes: a person who was responsible for turning with the spade after the plough.</def>
+      </entry>
+      <entry xml:id="Slips_BayheadALaingslips-idp162100256">
+        <form>
+          <orth>fòidearachd</orth>
+        </form>
+        <def>Quotation: a’ fòidearachd. Notes: turning with the spade after the plough. (See fòidear.)</def>
+      </entry>
+      <entry xml:id="Slips_BayheadALaingslips-idp162101984">
+        <form>
+          <orth>fòidearachd</orth>
+        </form>
+        <def>Notes: turning with the spade after the plough, i.e. what had been left unturned. (See fòidear.)</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

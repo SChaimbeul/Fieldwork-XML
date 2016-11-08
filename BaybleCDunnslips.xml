@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BaybleCDunnslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>1980-81</date>
-            <location>
-               <placeName>Lewis, Point, Bayble</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="informant">
-               <persName>Mrs C. Dunn</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_BaybleCDunnslips-idp162090992">
-            <form>
-               <orth>Murchadh na Mòintich</orth>
-            </form>
-            <def>Notes: (quoting girl from Uig, Lewis) “daddy-long-legs”.</def>
-         </entry>
-         <entry xml:id="Slips_BaybleCDunnslips-idp162092576">
-            <form>
-               <orth>nòta</orth>
-            </form>
-            <def>Notes: illustrative anecdote in sermon.</def>
-         </entry>
-         <entry xml:id="Slips_BaybleCDunnslips-idp162094088">
-            <form>
-               <orth>oileag</orth>
-            </form>
-            <def>Notes: a large stone.</def>
-         </entry>
-         <entry xml:id="Slips_BaybleCDunnslips-idp162095600">
-            <form>
-               <orth>sainnsearachd</orth>
-            </form>
-            <def>Quotation: Bha iad a’ sainnsearachd ri chéile. Notes: ‘whispering’.</def>
-         </entry>
-         <entry xml:id="Slips_BaybleCDunnslips-idp162097256">
-            <form>
-               <orth>suathalas</orth>
-            </form>
-            <def>Notes: resemblance.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>1980-81</date>
+        <location>
+          <placeName>Lewis, Point, Bayble</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="informant">
+          <persName>Mrs C. Dunn</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_BaybleCDunnslips-idp162090992">
+        <form>
+          <orth>Murchadh na Mòintich</orth>
+        </form>
+        <def>Notes: (quoting girl from Uig, Lewis) “daddy-long-legs”.</def>
+      </entry>
+      <entry xml:id="Slips_BaybleCDunnslips-idp162092576">
+        <form>
+          <orth>nòta</orth>
+        </form>
+        <def>Notes: illustrative anecdote in sermon.</def>
+      </entry>
+      <entry xml:id="Slips_BaybleCDunnslips-idp162094088">
+        <form>
+          <orth>oileag</orth>
+        </form>
+        <def>Notes: a large stone.</def>
+      </entry>
+      <entry xml:id="Slips_BaybleCDunnslips-idp162095600">
+        <form>
+          <orth>sainnsearachd</orth>
+        </form>
+        <def>Quotation: Bha iad a’ sainnsearachd ri chéile. Notes: ‘whispering’.</def>
+      </entry>
+      <entry xml:id="Slips_BaybleCDunnslips-idp162097256">
+        <form>
+          <orth>suathalas</orth>
+        </form>
+        <def>Notes: resemblance.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

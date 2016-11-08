@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BalallanMMacInnesslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>1980, 1987</date>
-            <location>
-               <placeName>Lewis, Balallan.</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="informant">
-               <persName>Mrs Margaret MacInnes</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_BalallanMMacInnesslips-idp161827848">
-            <form>
-               <orth>corrag</orth>
-            </form>
-            <def>Quotation: Cha dèan corrag mhilis ìm.</def>
-         </entry>
-         <entry xml:id="Slips_BalallanMMacInnesslips-idp161829360">
-            <form>
-               <orth>cràic</orth>
-            </form>
-            <def>Notes: bogwood preserved in peat. ‘Giuthas’ in Applecross.</def>
-         </entry>
-         <entry xml:id="Slips_BalallanMMacInnesslips-idp161830944">
-            <form>
-               <orth>dorgh</orth>
-            </form>
-            <def>Quotation: Thug e a dhorgh as. Notes: He extricated himself.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>1980, 1987</date>
+        <location>
+          <placeName>Lewis, Balallan.</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="informant">
+          <persName>Mrs Margaret MacInnes</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_BalallanMMacInnesslips-idp161827848">
+        <form>
+          <orth>corrag</orth>
+        </form>
+        <def>Quotation: Cha dèan corrag mhilis ìm.</def>
+      </entry>
+      <entry xml:id="Slips_BalallanMMacInnesslips-idp161829360">
+        <form>
+          <orth>cràic</orth>
+        </form>
+        <def>Notes: bogwood preserved in peat. ‘Giuthas’ in Applecross.</def>
+      </entry>
+      <entry xml:id="Slips_BalallanMMacInnesslips-idp161830944">
+        <form>
+          <orth>dorgh</orth>
+        </form>
+        <def>Quotation: Thug e a dhorgh as. Notes: He extricated himself.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

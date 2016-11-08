@@ -1,176 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Peat_BerneraFandFMacCuishpeat">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: the original title of the list is “Terminology Associated with Peat Cutting”.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>April 1962</date>
-            <location>
-               <placeName>Harris, Bernera</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>Marion MacLean</persName>
-            </person>
-            <person role="informant">
-               <persName>Flora MacCuish</persName>
-               <age>63</age>
-            </person>
-            <person role="informant">
-               <persName>Finlay MacCuish</persName>
-               <age>70 [?]</age>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Peat-Working</term>
-               <term>Mòine</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e44">
-            <form>
-               <orth>traisgear</orth>
-            </form>
-            <def>used for cutting the peats.</def>
-         </entry>
-         <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e53">
-            <form>
-               <orth>iron-mona</orth>
-            </form>
-            <def>used for cutting the peats.</def>
-         </entry>
-         <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e62">
-            <form>
-               <orth>cliabh</orth>
-            </form>
-            <def>creel used for carrying the peats. These creels were of various sizes and made of wattle, hazel or willow.</def>
-         </entry>
-         <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e71">
-            <form>
-               <orth>pol-mona</orth>
-            </form>
-            <def>peat bank.</def>
-         </entry>
-         <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e80">
-            <form>
-               <orth>sùsagh (a phùil)</orth>
-            </form>
-            <def>marking out, with a spade, on the turf the area of peat to be cut. [NOTES: two second hands at work. In black ink: the grave accent in ‘sùsagh’ circled and ‘susadh’ added underneath; in red: ‘phuill’ written above ‘phùil’.]</def>
-         </entry>
-         <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e89">
-            <form>
-               <orth>teannagh</orth>
-            </form>
-            <def>removing the turf.</def>
-         </entry>
-         <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e98">
-            <form>
-               <orth>teanndach</orth>
-            </form>
-            <def>turf that had been removed. This turf was laid on the inside of the peat bank, with the grassy side up. 
-        <graphic url="BerneraFandFMacCuishpeatillust2.jpg" width="600px"/>
-            </def>
-         </entry>
-         <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e109">
-            <form>
-               <orth>am barfhàd</orth>
-            </form>
-            <def>top peat, just one to be cut, was spread out on top of the peat bank – sgaolteach. 
-        <graphic url="BerneraFandFMacCuishpeatillust1.jpg" width="400px"/>
-            </def>
-         </entry>
-         <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e120">
-            <form>
-               <orth>[sgaolteach]</orth>
-            </form>
-            <def>
-               <graphic url="BerneraFandFMacCuishpeatillust2.jpg" width="600px"/>
-            </def>
-         </entry>
-         <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e131">
-            <form>
-               <orth>an dara fàd</orth>
-            </form>
-            <def>second one to be cut, was made into a ‘garradh’ [q.v.]. 
-        <graphic url="BerneraFandFMacCuishpeatillust1.jpg" width="400px"/>
-            </def>
-         </entry>
-         <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e142">
-            <form>
-               <orth>an caoran</orth>
-            </form>
-            <def>last peat taken out, were [sic] thrown onto the inside of the bank. 
-        <graphic url="BerneraFandFMacCuishpeatillust1.jpg" width="400px"/>
-               <graphic url="BerneraFandFMacCuishpeatillust2.jpg" width="600px"/>
-            </def>
-         </entry>
-         <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e155">
-            <form>
-               <orth>an colfhad</orth>
-            </form>
-            <def>second peat (from the front). 
-        <graphic url="BerneraFandFMacCuishpeatillust1.jpg" width="400px"/>
-            </def>
-         </entry>
-         <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e166">
-            <form>
-               <orth>[garradh]</orth>
-            </form>
-            <def>
-               <graphic url="BerneraFandFMacCuishpeatillust2.jpg" width="600px"/>
-               <graphic url="BerneraFandFMacCuishpeatillust3.jpg" width="400px"/> 
-        The holes in between the peats in the ‘garradh’ were for letting the wind through so that the peats would dry quickly.
-      </def>
-         </entry>
-         <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e179">
-            <form>
-               <orth>[caoirthe]</orth>
-            </form>
-            <def>when four or five of the peats in the ‘garradh’ [q.v.] stuck together, the whole group was called the ‘caoirthe’.</def>
-         </entry>
-         <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e188">
-            <form>
-               <orth>togail (na mona)</orth>
-            </form>
-            <def>second stage after cutting. ‘Rudhain’ were made. They contained anything from four to eight peats standing together to allow the peats to dry more quickly.</def>
-         </entry>
-         <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e197">
-            <form>
-               <orth>[rudhain]</orth>
-               <pron>[See togail (na mona).]</pron>
-            </form>
-            <def>[See togail (na mona).]</def>
-         </entry>
-         <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e206">
-            <form>
-               <orth>cruachadh</orth>
-            </form>
-            <def>a huge stack was made at the house.</def>
-         </entry>
-         <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e215">
-            <form>
-               <orth>griomhadh</orth>
-            </form>
-            <def>covering the top of the stack with turf and having all the sides sloping so that the rain wouldn’t penetrate so much into the middle of the stack.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: the original title of the list is “Terminology Associated with Peat Cutting”.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>April 1962</date>
+        <location>
+          <placeName>Harris, Bernera</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>Marion MacLean</persName>
+        </person>
+        <person role="informant">
+          <persName>Flora MacCuish</persName>
+          <age>63</age>
+        </person>
+        <person role="informant">
+          <persName>Finlay MacCuish</persName>
+          <age>70 [?]</age>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Peat-Working</term>
+          <term>Mòine</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e44">
+        <form>
+          <orth>traisgear</orth>
+        </form>
+        <def>used for cutting the peats.</def>
+      </entry>
+      <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e53">
+        <form>
+          <orth>iron-mona</orth>
+        </form>
+        <def>used for cutting the peats.</def>
+      </entry>
+      <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e62">
+        <form>
+          <orth>cliabh</orth>
+        </form>
+        <def>creel used for carrying the peats. These creels were of various sizes and made of wattle, hazel or willow.</def>
+      </entry>
+      <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e71">
+        <form>
+          <orth>pol-mona</orth>
+        </form>
+        <def>peat bank.</def>
+      </entry>
+      <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e80">
+        <form>
+          <orth>sùsagh (a phùil)</orth>
+        </form>
+        <def>marking out, with a spade, on the turf the area of peat to be cut. [NOTES: two second hands at work. In black ink: the grave accent in ‘sùsagh’ circled and ‘susadh’ added underneath; in
+          red: ‘phuill’ written above ‘phùil’.]</def>
+      </entry>
+      <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e89">
+        <form>
+          <orth>teannagh</orth>
+        </form>
+        <def>removing the turf.</def>
+      </entry>
+      <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e98">
+        <form>
+          <orth>teanndach</orth>
+        </form>
+        <def>turf that had been removed. This turf was laid on the inside of the peat bank, with the grassy side up. <graphic url="BerneraFandFMacCuishpeatillust2.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e109">
+        <form>
+          <orth>am barfhàd</orth>
+        </form>
+        <def>top peat, just one to be cut, was spread out on top of the peat bank – sgaolteach. <graphic url="BerneraFandFMacCuishpeatillust1.jpg" width="400px"/>
+        </def>
+      </entry>
+      <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e120">
+        <form>
+          <orth>[sgaolteach]</orth>
+        </form>
+        <def>
+          <graphic url="BerneraFandFMacCuishpeatillust2.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e131">
+        <form>
+          <orth>an dara fàd</orth>
+        </form>
+        <def>second one to be cut, was made into a ‘garradh’ [q.v.]. <graphic url="BerneraFandFMacCuishpeatillust1.jpg" width="400px"/>
+        </def>
+      </entry>
+      <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e142">
+        <form>
+          <orth>an caoran</orth>
+        </form>
+        <def>last peat taken out, were [sic] thrown onto the inside of the bank. <graphic url="BerneraFandFMacCuishpeatillust1.jpg" width="400px"/>
+          <graphic url="BerneraFandFMacCuishpeatillust2.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e155">
+        <form>
+          <orth>an colfhad</orth>
+        </form>
+        <def>second peat (from the front). <graphic url="BerneraFandFMacCuishpeatillust1.jpg" width="400px"/>
+        </def>
+      </entry>
+      <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e166">
+        <form>
+          <orth>[garradh]</orth>
+        </form>
+        <def>
+          <graphic url="BerneraFandFMacCuishpeatillust2.jpg" width="600px"/>
+          <graphic url="BerneraFandFMacCuishpeatillust3.jpg" width="400px"/> The holes in between the peats in the ‘garradh’ were for letting the wind through so that the peats would dry quickly.
+        </def>
+      </entry>
+      <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e179">
+        <form>
+          <orth>[caoirthe]</orth>
+        </form>
+        <def>when four or five of the peats in the ‘garradh’ [q.v.] stuck together, the whole group was called the ‘caoirthe’.</def>
+      </entry>
+      <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e188">
+        <form>
+          <orth>togail (na mona)</orth>
+        </form>
+        <def>second stage after cutting. ‘Rudhain’ were made. They contained anything from four to eight peats standing together to allow the peats to dry more quickly.</def>
+      </entry>
+      <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e197">
+        <form>
+          <orth>[rudhain]</orth>
+          <pron>[See togail (na mona).]</pron>
+        </form>
+        <def>[See togail (na mona).]</def>
+      </entry>
+      <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e206">
+        <form>
+          <orth>cruachadh</orth>
+        </form>
+        <def>a huge stack was made at the house.</def>
+      </entry>
+      <entry xml:id="Peat_BerneraFandFMacCuishpeat-d0e215">
+        <form>
+          <orth>griomhadh</orth>
+        </form>
+        <def>covering the top of the stack with turf and having all the sides sloping so that the rain wouldn’t penetrate so much into the middle of the stack.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

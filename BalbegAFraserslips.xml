@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BalbegAFraserslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>05/1969</date>
-            <location>
-               <placeName>Inverness-shire, Glenurquhart, Balbeg</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[AJ Smith?]</persName>
-            </person>
-            <person role="informant">
-               <persName>Andrew Fraser</persName>
-               <age>93</age>
-               <birth>
-                  <placeName>Glenurquhart</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_BalbegAFraserslips-idp161827680">
-            <form>
-               <orth>bonaid-biorach</orth>
-            </form>
-            <def>Notes: Glengarry Bonnet.</def>
-         </entry>
-         <entry xml:id="Slips_BalbegAFraserslips-idp161829192">
-            <form>
-               <orth>camag</orth>
-            </form>
-            <def>Quotation: a’ chamag. Notes: shinty stick.</def>
-         </entry>
-         <entry xml:id="Slips_BalbegAFraserslips-idp161830848">
-            <form>
-               <orth>gartan</orth>
-               <pron>[ɡɑʴst̪ɑ̃ṉ]</pron>
-            </form>
-            <def>[ɡɑʴst̪ɑ̃ṉ] Notes: garter. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>05/1969</date>
+        <location>
+          <placeName>Inverness-shire, Glenurquhart, Balbeg</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[AJ Smith?]</persName>
+        </person>
+        <person role="informant">
+          <persName>Andrew Fraser</persName>
+          <age>93</age>
+          <birth>
+            <placeName>Glenurquhart</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_BalbegAFraserslips-idp161827680">
+        <form>
+          <orth>bonaid-biorach</orth>
+        </form>
+        <def>Notes: Glengarry Bonnet.</def>
+      </entry>
+      <entry xml:id="Slips_BalbegAFraserslips-idp161829192">
+        <form>
+          <orth>camag</orth>
+        </form>
+        <def>Quotation: a’ chamag. Notes: shinty stick.</def>
+      </entry>
+      <entry xml:id="Slips_BalbegAFraserslips-idp161830848">
+        <form>
+          <orth>gartan</orth>
+          <pron>[ɡɑʴst̪ɑ̃ṉ]</pron>
+        </form>
+        <def>[ɡɑʴst̪ɑ̃ṉ] Notes: garter. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

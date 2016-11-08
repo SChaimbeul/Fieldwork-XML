@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BarvasJMurrayslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>1975</date>
-            <location>
-               <placeName>Lewis, Barvas</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[Tony Dilworth?]</persName>
-            </person>
-            <person role="informant">
-               <persName>John Murray</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_BarvasJMurrayslips-idp115458480">
-            <form>
-               <orth>balbh</orth>
-            </form>
-            <def>Quotation: ’Se là balbh a th’ann. Notes: a muggy, warm, dull day.</def>
-         </entry>
-         <entry xml:id="Slips_BarvasJMurrayslips-idp115453800">
-            <form>
-               <orth>féist</orth>
-               <pron>[fɛ̜:ʃtʹ]</pron>
-            </form>
-            <def>[fɛ̜:ʃtʹ] Quotation: Thug mi a steach féist air. Notes: of skirt, “tuck”. (Heard a woman, probably from ‘An Rubha’, Lewis, say it.)</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>1975</date>
+        <location>
+          <placeName>Lewis, Barvas</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[Tony Dilworth?]</persName>
+        </person>
+        <person role="informant">
+          <persName>John Murray</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_BarvasJMurrayslips-idp115458480">
+        <form>
+          <orth>balbh</orth>
+        </form>
+        <def>Quotation: ’Se là balbh a th’ann. Notes: a muggy, warm, dull day.</def>
+      </entry>
+      <entry xml:id="Slips_BarvasJMurrayslips-idp115453800">
+        <form>
+          <orth>féist</orth>
+          <pron>[fɛ̜:ʃtʹ]</pron>
+        </form>
+        <def>[fɛ̜:ʃtʹ] Quotation: Thug mi a steach féist air. Notes: of skirt, “tuck”. (Heard a woman, probably from ‘An Rubha’, Lewis, say it.)</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

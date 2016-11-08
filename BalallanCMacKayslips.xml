@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BalallanCMacKayslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>1971</date>
-            <location>
-               <placeName>Lewis, Balallan</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="informant">
-               <persName>Miss C. MacKay</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_BalallanCMacKayslips-idp161829408">
-            <form>
-               <orth>adag</orth>
-            </form>
-            <def>Quotation: sguab &gt; sgròthan &gt; adag &gt; tòrr &gt; cruach Notes: corn-working terms.</def>
-         </entry>
-         <entry xml:id="Slips_BalallanCMacKayslips-idp161831064">
-            <form>
-               <orth>sgròthan</orth>
-            </form>
-            <def>Quotation: sguab &gt; sgròthan &gt; adag &gt; tòrr &gt; cruach. Notes: corn-working terms.</def>
-         </entry>
-         <entry xml:id="Slips_BalallanCMacKayslips-idp161832720">
-            <form>
-               <orth>sguab</orth>
-            </form>
-            <def>Quotation: sguab &gt; sgròthan &gt; adag &gt; tòrr &gt; cruach. Notes: corn-working terms.</def>
-         </entry>
-         <entry xml:id="Slips_BalallanCMacKayslips-idp161834376">
-            <form>
-               <orth>tòrr</orth>
-            </form>
-            <def>Quotation: sguab &gt; sgròthan &gt; adag &gt; tòrr &gt; cruach. Notes: corn-working terms.</def>
-         </entry>
-         <entry xml:id="Slips_BalallanCMacKayslips-idp161836032">
-            <form>
-               <orth>cruach</orth>
-            </form>
-            <def>Quotation: sguab &gt; sgròthan &gt; adag &gt; tòrr &gt; cruach. Notes: corn-working terms.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>1971</date>
+        <location>
+          <placeName>Lewis, Balallan</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="informant">
+          <persName>Miss C. MacKay</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_BalallanCMacKayslips-idp161829408">
+        <form>
+          <orth>adag</orth>
+        </form>
+        <def>Quotation: sguab &gt; sgròthan &gt; adag &gt; tòrr &gt; cruach Notes: corn-working terms.</def>
+      </entry>
+      <entry xml:id="Slips_BalallanCMacKayslips-idp161831064">
+        <form>
+          <orth>sgròthan</orth>
+        </form>
+        <def>Quotation: sguab &gt; sgròthan &gt; adag &gt; tòrr &gt; cruach. Notes: corn-working terms.</def>
+      </entry>
+      <entry xml:id="Slips_BalallanCMacKayslips-idp161832720">
+        <form>
+          <orth>sguab</orth>
+        </form>
+        <def>Quotation: sguab &gt; sgròthan &gt; adag &gt; tòrr &gt; cruach. Notes: corn-working terms.</def>
+      </entry>
+      <entry xml:id="Slips_BalallanCMacKayslips-idp161834376">
+        <form>
+          <orth>tòrr</orth>
+        </form>
+        <def>Quotation: sguab &gt; sgròthan &gt; adag &gt; tòrr &gt; cruach. Notes: corn-working terms.</def>
+      </entry>
+      <entry xml:id="Slips_BalallanCMacKayslips-idp161836032">
+        <form>
+          <orth>cruach</orth>
+        </form>
+        <def>Quotation: sguab &gt; sgròthan &gt; adag &gt; tòrr &gt; cruach. Notes: corn-working terms.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

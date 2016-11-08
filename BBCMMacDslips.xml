@@ -1,158 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BBCMMacDslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>07/1970</date>
-            <location>
-               <placeName>BBC</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[AJ Smith?]</persName>
-            </person>
-            <person role="informant">
-               <persName>M. MacD</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_BBCMMacDslips-idp162096792">
-            <form>
-               <orth>loch</orth>
-            </form>
-            <def>Notes: a pool.</def>
-         </entry>
-         <entry xml:id="Slips_BBCMMacDslips-idp162094128">
-            <form>
-               <orth>lòn</orth>
-            </form>
-            <def>Notes: a burn or stream.</def>
-         </entry>
-         <entry xml:id="Slips_BBCMMacDslips-idp162090960">
-            <form>
-               <orth>rath-spars</orth>
-               <pron>[rɑspɑʴs]</pron>
-            </form>
-            <def>[rɑspɑʴs] Notes: impudence, e.g. of a young child. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
-         </entry>
-         <entry xml:id="Slips_BBCMMacDslips-idp162086712">
-            <form>
-               <orth>uisge-airgid</orth>
-            </form>
-            <def>Notes: water, used for curing purposes, into which a silver coin had been put.</def>
-         </entry>
-         <entry xml:id="Slips_BBCMMacDslips-idp162110688">
-            <form>
-               <orth>brabhadach</orth>
-               <pron>[bɾɑvɑd̪ɑx]</pron>
-            </form>
-            <def>[bɾɑvɑd̪ɑx] Notes: M. says it’s used in Islay for “lame”. (Dw. brabhdach – bandy-legged.)</def>
-         </entry>
-         <entry xml:id="Slips_BBCMMacDslips-idp162112416">
-            <form>
-               <orth>buinne</orth>
-            </form>
-            <def>Notes: whirlpool created at the meeting of the tides.</def>
-         </entry>
-         <entry xml:id="Slips_BBCMMacDslips-idp162113928">
-            <form>
-               <orth>ceum-leatha</orth>
-               <pron>[ce:mˈlɛə]</pron>
-            </form>
-            <def>[ce:mˈlɛə] Quotation: Tha ceum-leatha ann. Notes: He is inclined to exaggerate.</def>
-         </entry>
-         <entry xml:id="Slips_BBCMMacDslips-idp162115800">
-            <form>
-               <orth>clispearnach</orth>
-               <pron>[klıspɑʴṉɑx]</pron>
-            </form>
-            <def>[klıspɑʴṉɑx] Notes: penis. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
-         </entry>
-         <entry xml:id="Slips_BBCMMacDslips-idp162117672">
-            <form>
-               <orth>cnuasaich</orth>
-            </form>
-            <def>Quotation: a’ cnuasachd airson duine (a chaidh air chall) as a Chuilthionn. Notes: detailed searching.</def>
-         </entry>
-         <entry xml:id="Slips_BBCMMacDslips-idp162119328">
-            <form>
-               <orth>cròileagan</orth>
-            </form>
-            <def>Quotation: cròileagan bheag bhailtean. Notes: cluster.</def>
-         </entry>
-         <entry xml:id="Slips_BBCMMacDslips-idp162120984">
-            <form>
-               <orth>crùbach</orth>
-            </form>
-            <def>Notes: lame.</def>
-         </entry>
-         <entry xml:id="Slips_BBCMMacDslips-idp162122496">
-            <form>
-               <orth>cuagach</orth>
-            </form>
-            <def>Notes: bandy-legged.</def>
-         </entry>
-         <entry xml:id="Slips_BBCMMacDslips-idp162124008">
-            <form>
-               <orth>crotach</orth>
-            </form>
-            <def>Notes: hump-backed.</def>
-         </entry>
-         <entry xml:id="Slips_BBCMMacDslips-idp162125520">
-            <form>
-               <orth>fàil</orth>
-               <pron>[fɑ:lʹ]</pron>
-            </form>
-            <def>[fɑ:lʹ] Quotation: [fɑ:lʹ] a rathaid [rɔıdʹ]. Notes: the green bank between road and ditch.</def>
-         </entry>
-         <entry xml:id="Slips_BBCMMacDslips-idp162127896">
-            <form>
-               <orth>fidean</orth>
-               <pron>[fidʹəṉ]</pron>
-            </form>
-            <def>[fidʹəṉ] Notes: (usually na fidean) ground on which grass grows and is covered at high tide.</def>
-         </entry>
-         <entry xml:id="Slips_BBCMMacDslips-idp162129624">
-            <form>
-               <orth>fìogais</orth>
-            </form>
-            <def>Quotation: a’ deanamh fìogais air duine. Notes: same as “magadh”. Used in Portree school.</def>
-         </entry>
-         <entry xml:id="Slips_BBCMMacDslips-idp162131280">
-            <form>
-               <orth>gidhe</orth>
-               <pron>[ˈɡʹıə]</pron>
-            </form>
-            <def>[ˈɡʹıə] Notes: layer of hay put on a stack while in the making.</def>
-         </entry>
-         <entry xml:id="Slips_BBCMMacDslips-idp162133008">
-            <form>
-               <orth>gios</orth>
-               <pron>[ɡʹıs]</pron>
-            </form>
-            <def>[ɡʹıs] Quotation: Gios ort! Notes: heard this locally in Portree area for “Greas ort!”</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>07/1970</date>
+        <location>
+          <placeName>BBC</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[AJ Smith?]</persName>
+        </person>
+        <person role="informant">
+          <persName>M. MacD</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_BBCMMacDslips-idp162096792">
+        <form>
+          <orth>loch</orth>
+        </form>
+        <def>Notes: a pool.</def>
+      </entry>
+      <entry xml:id="Slips_BBCMMacDslips-idp162094128">
+        <form>
+          <orth>lòn</orth>
+        </form>
+        <def>Notes: a burn or stream.</def>
+      </entry>
+      <entry xml:id="Slips_BBCMMacDslips-idp162090960">
+        <form>
+          <orth>rath-spars</orth>
+          <pron>[rɑspɑʴs]</pron>
+        </form>
+        <def>[rɑspɑʴs] Notes: impudence, e.g. of a young child. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+      </entry>
+      <entry xml:id="Slips_BBCMMacDslips-idp162086712">
+        <form>
+          <orth>uisge-airgid</orth>
+        </form>
+        <def>Notes: water, used for curing purposes, into which a silver coin had been put.</def>
+      </entry>
+      <entry xml:id="Slips_BBCMMacDslips-idp162110688">
+        <form>
+          <orth>brabhadach</orth>
+          <pron>[bɾɑvɑd̪ɑx]</pron>
+        </form>
+        <def>[bɾɑvɑd̪ɑx] Notes: M. says it’s used in Islay for “lame”. (Dw. brabhdach – bandy-legged.)</def>
+      </entry>
+      <entry xml:id="Slips_BBCMMacDslips-idp162112416">
+        <form>
+          <orth>buinne</orth>
+        </form>
+        <def>Notes: whirlpool created at the meeting of the tides.</def>
+      </entry>
+      <entry xml:id="Slips_BBCMMacDslips-idp162113928">
+        <form>
+          <orth>ceum-leatha</orth>
+          <pron>[ce:mˈlɛə]</pron>
+        </form>
+        <def>[ce:mˈlɛə] Quotation: Tha ceum-leatha ann. Notes: He is inclined to exaggerate.</def>
+      </entry>
+      <entry xml:id="Slips_BBCMMacDslips-idp162115800">
+        <form>
+          <orth>clispearnach</orth>
+          <pron>[klıspɑʴṉɑx]</pron>
+        </form>
+        <def>[klıspɑʴṉɑx] Notes: penis. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+      </entry>
+      <entry xml:id="Slips_BBCMMacDslips-idp162117672">
+        <form>
+          <orth>cnuasaich</orth>
+        </form>
+        <def>Quotation: a’ cnuasachd airson duine (a chaidh air chall) as a Chuilthionn. Notes: detailed searching.</def>
+      </entry>
+      <entry xml:id="Slips_BBCMMacDslips-idp162119328">
+        <form>
+          <orth>cròileagan</orth>
+        </form>
+        <def>Quotation: cròileagan bheag bhailtean. Notes: cluster.</def>
+      </entry>
+      <entry xml:id="Slips_BBCMMacDslips-idp162120984">
+        <form>
+          <orth>crùbach</orth>
+        </form>
+        <def>Notes: lame.</def>
+      </entry>
+      <entry xml:id="Slips_BBCMMacDslips-idp162122496">
+        <form>
+          <orth>cuagach</orth>
+        </form>
+        <def>Notes: bandy-legged.</def>
+      </entry>
+      <entry xml:id="Slips_BBCMMacDslips-idp162124008">
+        <form>
+          <orth>crotach</orth>
+        </form>
+        <def>Notes: hump-backed.</def>
+      </entry>
+      <entry xml:id="Slips_BBCMMacDslips-idp162125520">
+        <form>
+          <orth>fàil</orth>
+          <pron>[fɑ:lʹ]</pron>
+        </form>
+        <def>[fɑ:lʹ] Quotation: [fɑ:lʹ] a rathaid [rɔıdʹ]. Notes: the green bank between road and ditch.</def>
+      </entry>
+      <entry xml:id="Slips_BBCMMacDslips-idp162127896">
+        <form>
+          <orth>fidean</orth>
+          <pron>[fidʹəṉ]</pron>
+        </form>
+        <def>[fidʹəṉ] Notes: (usually na fidean) ground on which grass grows and is covered at high tide.</def>
+      </entry>
+      <entry xml:id="Slips_BBCMMacDslips-idp162129624">
+        <form>
+          <orth>fìogais</orth>
+        </form>
+        <def>Quotation: a’ deanamh fìogais air duine. Notes: same as “magadh”. Used in Portree school.</def>
+      </entry>
+      <entry xml:id="Slips_BBCMMacDslips-idp162131280">
+        <form>
+          <orth>gidhe</orth>
+          <pron>[ˈɡʹıə]</pron>
+        </form>
+        <def>[ˈɡʹıə] Notes: layer of hay put on a stack while in the making.</def>
+      </entry>
+      <entry xml:id="Slips_BBCMMacDslips-idp162133008">
+        <form>
+          <orth>gios</orth>
+          <pron>[ɡʹıs]</pron>
+        </form>
+        <def>[ɡʹıs] Quotation: Gios ort! Notes: heard this locally in Portree area for “Greas ort!”</def>
+      </entry>
+    </body>
+  </text>
 </TEI>
