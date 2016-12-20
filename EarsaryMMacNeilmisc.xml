@@ -1,228 +1,229 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AOHenley_EarsaryMMacNeilmisc">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[1988]</date>
-            <location>
-               <placeName>Barra, Earsharry [Earsary]</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>A. O’Henley</persName>
-            </person>
-            <person role="informant">
-               <persName>Michael MacNeil</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp201064">
-            <form>
-               <orth>sgotht</orth>
-            </form>
-            <def>a flock of birds.</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp197968">
-            <form>
-               <orth>deargannan tràghad</orth>
-            </form>
-            <def>sea lice found on shore, seaweed, tangles, etc.</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp194872">
-            <form>
-               <orth>buaigheall</orth>
-            </form>
-            <def>cattle stall(s). “Chaidh iad na buaigheall fhéin.”</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp216184">
-            <form>
-               <orth>fòr sheomar</orth>
-            </form>
-            <def>in farmhouses this was a room where the family and their servants had their meals.</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp217696">
-            <form>
-               <orth>beubanachadh</orth>
-            </form>
-            <def>to rough up someone. “Bha iad ga bhreabadh ’s ga bheubanachadh.”</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp219424">
-            <form>
-               <orth>nàisneach</orth>
-            </form>
-            <def>strange, shy, uncomfortable. “Nàisneach a measg choigrich.”</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp221152">
-            <form>
-               <orth>earradh</orth>
-            </form>
-            <def>attire. “Chan aithnich thu mi ’san earradh seo.”</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp222880">
-            <form>
-               <orth>aimh-leathainn</orth>
-            </form>
-            <def>narrow.</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp224392">
-            <form>
-               <orth>toirisgian</orth>
-            </form>
-            <def>equivalent of ‘trèisgeir’ – peat iron.</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp226768">
-            <form>
-               <orth>athailt</orth>
-            </form>
-            <def>wound. “A chionn gu’m bheil droch athailt air a cheann.”</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp228568">
-            <form>
-               <orth>caisil-chrò</orth>
-            </form>
-            <def>is this the same as ‘cròleab’ – a funeral bier? “Caisil chrò air an robh corp a’ cheannaiche.”</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp230296">
-            <form>
-               <orth>slacan draoidheachd</orth>
-            </form>
-            <def>magic wand.</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp231808">
-            <form>
-               <orth>sùmag</orth>
-            </form>
-            <def>a kind of plaid wrapped round the shoulders.</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp233320">
-            <form>
-               <orth>a’ postadh na plaideachan</orth>
-            </form>
-            <def>bleaching sheets by hitting them against rocks in a loch.</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp234904">
-            <form>
-               <orth>aileadh</orth>
-            </form>
-            <def>footprints or prints. “Dh’fhàg e aileadh air an talamh sin.”</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp236632">
-            <form>
-               <orth>a’ spuaiceadh</orth>
-            </form>
-            <def>daubing.</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp238144">
-            <form>
-               <orth>crannag</orth>
-            </form>
-            <def>pulpit.</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp239656">
-            <form>
-               <orth>clabhus</orth>
-            </form>
-            <def>gossiping, talking, especially by women.</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp241168">
-            <form>
-               <orth>gleòsgaid (-ean)</orth>
-            </form>
-            <def>absent-minded, dozey people.</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp243544">
-            <form>
-               <orth>struidheasach</orth>
-            </form>
-            <def>carefree, spendthrift.</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp245056">
-            <form>
-               <orth>Rinn e smeathadh gàire</orth>
-            </form>
-            <def>a vanquishing smile.</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp246568">
-            <form>
-               <orth>sligean baintighearna</orth>
-            </form>
-            <def>small delicate shells like clam shells.</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idm153712">
-            <form>
-               <orth>bricein-beithe</orth>
-            </form>
-            <def>chaffinch.</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idm152200">
-            <form>
-               <orth>gulmag</orth>
-            </form>
-            <def>sea lark.</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idm150688">
-            <form>
-               <orth>clabhas</orth>
-            </form>
-            <def>gossip.</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idm149176">
-            <form>
-               <orth>a’ caige</orth>
-            </form>
-            <def>keeping up mere talk, chattering.</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idm147664">
-            <form>
-               <orth>corra-chamag</orth>
-            </form>
-            <def>locking your finger in order to cast a shadow on the wall. Used by children to taunt each other.</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idm146152">
-            <form>
-               <orth>conach ort</orth>
-            </form>
-            <def>good luck to you.</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idm144640">
-            <form>
-               <orth>bramach innilt</orth>
-            </form>
-            <def>midwife (St. Kilda).</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idm143128">
-            <form>
-               <orth>bò làmhaidh</orth>
-            </form>
-            <def>a cow killed by a blow to the head.</def>
-         </entry>
-         <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idm141616">
-            <form>
-               <orth>bualadh bhròg</orth>
-            </form>
-            <def>a game in which a player bends, putting his head in the lap of another player who proceeds to blindfold him. The player then puts his hand on his bent back palm uppermost and is slapped by one of the other participants whom he has to guess. A book or slipper was used for the slapping. In Skye the game was known as ‘ultan’ or ‘altan’.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[1988]</date>
+        <location>
+          <placeName>Barra, Earsharry [Earsary]</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>A. O’Henley</persName>
+        </person>
+        <person role="informant">
+          <persName>Michael MacNeil</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp201064">
+        <form>
+          <orth>sgotht</orth>
+        </form>
+        <def>a flock of birds.</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp197968">
+        <form>
+          <orth>deargannan tràghad</orth>
+        </form>
+        <def>sea lice found on shore, seaweed, tangles, etc.</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp194872">
+        <form>
+          <orth>buaigheall</orth>
+        </form>
+        <def>cattle stall(s). “Chaidh iad na buaigheall fhéin.”</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp216184">
+        <form>
+          <orth>fòr sheomar</orth>
+        </form>
+        <def>in farmhouses this was a room where the family and their servants had their meals.</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp217696">
+        <form>
+          <orth>beubanachadh</orth>
+        </form>
+        <def>to rough up someone. “Bha iad ga bhreabadh ’s ga bheubanachadh.”</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp219424">
+        <form>
+          <orth>nàisneach</orth>
+        </form>
+        <def>strange, shy, uncomfortable. “Nàisneach a measg choigrich.”</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp221152">
+        <form>
+          <orth>earradh</orth>
+        </form>
+        <def>attire. “Chan aithnich thu mi ’san earradh seo.”</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp222880">
+        <form>
+          <orth>aimh-leathainn</orth>
+        </form>
+        <def>narrow.</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp224392">
+        <form>
+          <orth>toirisgian</orth>
+        </form>
+        <def>equivalent of ‘trèisgeir’ – peat iron.</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp226768">
+        <form>
+          <orth>athailt</orth>
+        </form>
+        <def>wound. “A chionn gu’m bheil droch athailt air a cheann.”</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp228568">
+        <form>
+          <orth>caisil-chrò</orth>
+        </form>
+        <def>is this the same as ‘cròleab’ – a funeral bier? “Caisil chrò air an robh corp a’ cheannaiche.”</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp230296">
+        <form>
+          <orth>slacan draoidheachd</orth>
+        </form>
+        <def>magic wand.</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp231808">
+        <form>
+          <orth>sùmag</orth>
+        </form>
+        <def>a kind of plaid wrapped round the shoulders.</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp233320">
+        <form>
+          <orth>a’ postadh na plaideachan</orth>
+        </form>
+        <def>bleaching sheets by hitting them against rocks in a loch.</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp234904">
+        <form>
+          <orth>aileadh</orth>
+        </form>
+        <def>footprints or prints. “Dh’fhàg e aileadh air an talamh sin.”</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp236632">
+        <form>
+          <orth>a’ spuaiceadh</orth>
+        </form>
+        <def>daubing.</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp238144">
+        <form>
+          <orth>crannag</orth>
+        </form>
+        <def>pulpit.</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp239656">
+        <form>
+          <orth>clabhus</orth>
+        </form>
+        <def>gossiping, talking, especially by women.</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp241168" type="person">
+        <form>
+          <orth>gleòsgaid (-ean)</orth>
+        </form>
+        <def>absent-minded, dozey people.</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp243544" type="person">
+        <form>
+          <orth>struidheasach</orth>
+        </form>
+        <def>carefree, spendthrift.</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp245056">
+        <form>
+          <orth>Rinn e smeathadh gàire</orth>
+        </form>
+        <def>a vanquishing smile.</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idp246568">
+        <form>
+          <orth>sligean baintighearna</orth>
+        </form>
+        <def>small delicate shells like clam shells.</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idm153712" type="bird">
+        <form>
+          <orth>bricein-beithe</orth>
+        </form>
+        <def>chaffinch.</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idm152200" type="bird">
+        <form>
+          <orth>gulmag</orth>
+        </form>
+        <def>sea lark.</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idm150688">
+        <form>
+          <orth>clabhas</orth>
+        </form>
+        <def>gossip.</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idm149176">
+        <form>
+          <orth>a’ caige</orth>
+        </form>
+        <def>keeping up mere talk, chattering.</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idm147664">
+        <form>
+          <orth>corra-chamag</orth>
+        </form>
+        <def>locking your finger in order to cast a shadow on the wall. Used by children to taunt each other.</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idm146152">
+        <form>
+          <orth>conach ort</orth>
+        </form>
+        <def>good luck to you.</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idm144640">
+        <form>
+          <orth>bramach innilt</orth>
+        </form>
+        <def>midwife (St. Kilda).</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idm143128">
+        <form>
+          <orth>bò làmhaidh</orth>
+        </form>
+        <def>a cow killed by a blow to the head.</def>
+      </entry>
+      <entry xml:id="AOHenley_EarsaryMMacNeilmisc-idm141616">
+        <form>
+          <orth>bualadh bhròg</orth>
+        </form>
+        <def>a game in which a player bends, putting his head in the lap of another player who proceeds to blindfold him. The player then puts his hand on his bent back palm uppermost and is slapped
+          by one of the other participants whom he has to guess. A book or slipper was used for the slapping. In Skye the game was known as ‘ultan’ or ‘altan’.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

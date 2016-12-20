@@ -1,152 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Peat_FoindleDAMacLeodmoine">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: there is a letter attached to the questionnaire, in which Mr MacLeod explains that although Gaelic was his first language, he never had any tuition in it and therefore his ‘orthography is very much at fault’. He also explains that he uses the spelling ‘to-airt’ (‘toirt’) under the influence of Dr George Henderson and his “Dain Iain Ghobha” (1897).]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>22/11/1967 [date on the letter attached to the questionnaire]</date>
-            <location>
-               <placeName>Luirig, Foinidil [Sutherland, Lairg, Foindle]</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>Donald Angus MacLeod</persName>
-               <persName xml:lang="gd">Domhnull Aonghas MacLeoid </persName>
-               <age>78 na 21:11:67!</age>
-               <birth>
-                  <placeName>Cataobh [Sutherland – probably meant as the county not origin]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Peat-Working</term>
-               <term>Mòine</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="Peat_FoindleDAMacLeodmoine-d0e40"
-            >1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
-         <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e45">
-            <form>
-               <orth>rusgadh</orth>
-            </form>
-            <def>Air tus gearradh a’ bhlair le spaid, agus na dheidh sin a to’airt air falbh nam plocan uachdrach le cablair. Turfing – first cutting long ways and crossways by spade, after which the turf is removed by flatter-spade, sketch of which is shown. Tha nis an t-ullachadh deanta arirson buain na moine le taraisgil – aon fhear a’ gearradh is fear eile a’ sgaoiladh [sic] mach na moine air a’ bhlar. The way is now prepared for cutting and casting the peat by tusk – one man cutting and another spreading out the peat on the moss.
-	  <graphic url="FoindleDAMacLeodmoineillust2.jpg" width="200px"/>
-	           </def>
-         </entry>
-         <head
-             xml:id="Peat_FoindleDAMacLeodmoine-d0e55"
-            >2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
-         <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e60">
-            <form>
-               <orth>taraisgil</orth>
-            </form>
-            <def>tusk – one man cutting, and another spreading out the peats on the moss.</def>
-         </entry>
-         <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e69">
-            <form>
-               <orth>sluaist</orth>
-            </form>
-            <def>worked by one man in cutting and spreading out.</def>
-         </entry>
-         <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e78">
-            <form>
-               <orth>bodach bac</orth>
-            </form>
-            <def>the first peat cut in each section of the bank.</def>
-         </entry>
-         <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e87">
-            <form>
-               <orth>barfhad</orth>
-            </form>
-            <def>the top layer, or upper section of the bank.</def>
-         </entry>
-         <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e96">
-            <form>
-               <orth>dubhfhad</orth>
-            </form>
-            <def>the second, or bottom section of bank.</def>
-         </entry>
-         <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e105">
-            <form>
-               <orth>barraichean</orth>
-            </form>
-            <def>when the moss is sodden and wet, or the second (bottom) section too brittle to be cast out and spread out for some yards the peats are made into rows on the edge of the bank – one row above the other row – somewhat like so: 
-        <graphic url="FoindleDAMacLeodmoineillust1.jpg" width="200px"/>
-            </def>
-         </entry>
-         <head
-             xml:id="Peat_FoindleDAMacLeodmoine-d0e115"
-            >3. A’ tiormachadh na mònach</head>
-         <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e120">
-            <form>
-               <orth>stoireag</orth>
-            </form>
-            <def>a small heap of five or six peats lifted up on end, when the upper side of the peat becomes fairly dry and firm.</def>
-         </entry>
-         <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e129">
-            <form>
-               <orth>ath stoireag</orth>
-            </form>
-            <def>a larger heap – the size of which is according to weather condition.</def>
-         </entry>
-         <head
-             xml:id="Peat_FoindleDAMacLeodmoine-d0e137"
-            >4. A’ cruachadh na mònach</head>
-         <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e142">
-            <form>
-               <orth>cruachadh</orth>
-            </form>
-            <def>Air do’n mhoine bhi lan thioram theid a cruinneachadh uile cuideachd nan dunan mòr, agus air a steidhibh ceithir-thimchioll oirre gu’cumail cuimte agus tioram.</def>
-         </entry>
-         <head
-             xml:id="Peat_FoindleDAMacLeodmoine-d0e150"
-            >5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
-         <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e155">
-            <form>
-               <orth>cliabh  cleibh</orth>
-               <pron>[pl.]</pron>
-            </form>
-            <def>[pl.] creel. Is ann le cleibh bha a’ mhoine air a’ to’airt dhachaigh anns an t-sheann aimsir. Is e sealladh gle chumanta bh’ann gach fear-tigh fhaicinn a’ dol gach la dhiarraidh cliabh moine do an cruach, a’ dhaodadh bhi suas ri mile air falbh o’n tigh. Ach cha-neil aon chliabh ri fhaicinn anns a’ chearn so o chionn iomadh bliadhna air ais. Tha a’ mhoine nis air a giulan dhachaidh le carbaidean ola de gach seorsa. Tha rathaidean nis anns gach aite, agus mar sin tha a’ mhoine air a buain cho faisg air an rathad ’s a ghabhas deanamh.</def>
-         </entry>
-         <head
-             xml:id="Peat_FoindleDAMacLeodmoine-d0e163"
-            >6. Seòrsachan mònach</head>
-         <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e168">
-            <form>
-               <orth>moine bhuidh</orth>
-            </form>
-         </entry>
-         <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e174">
-            <form>
-               <orth>moine dhubh</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="Peat_FoindleDAMacLeodmoine-d0e179"
-            >7. Faclan eile</head>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: there is a letter attached to the questionnaire, in which Mr MacLeod explains that although Gaelic was his first language, he never had any tuition in it and therefore his
+          ‘orthography is very much at fault’. He also explains that he uses the spelling ‘to-airt’ (‘toirt’) under the influence of Dr George Henderson and his “Dain Iain Ghobha” (1897).]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>22/11/1967 [date on the letter attached to the questionnaire]</date>
+        <location>
+          <placeName>Luirig, Foinidil [Sutherland, Lairg, Foindle]</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>Donald Angus MacLeod</persName>
+          <persName xml:lang="gd">Domhnull Aonghas MacLeoid </persName>
+          <age>78 na 21:11:67!</age>
+          <birth>
+            <placeName>Cataobh [Sutherland – probably meant as the county not origin]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Peat-Working</term>
+          <term>Mòine</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="Peat_FoindleDAMacLeodmoine-d0e40">1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
+      <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e45">
+        <form>
+          <orth>rusgadh</orth>
+        </form>
+        <def>Air tus gearradh a’ bhlair le spaid, agus na dheidh sin a to’airt air falbh nam plocan uachdrach le cablair. Turfing – first cutting long ways and crossways by spade, after which the turf
+          is removed by flatter-spade, sketch of which is shown. Tha nis an t-ullachadh deanta arirson buain na moine le taraisgil – aon fhear a’ gearradh is fear eile a’ sgaoiladh [sic] mach na moine
+          air a’ bhlar. The way is now prepared for cutting and casting the peat by tusk – one man cutting and another spreading out the peat on the moss. <graphic
+            url="FoindleDAMacLeodmoineillust2.jpg" width="200px"/>
+        </def>
+      </entry>
+      <head xml:id="Peat_FoindleDAMacLeodmoine-d0e55">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
+      <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e60">
+        <form>
+          <orth>taraisgil</orth>
+        </form>
+        <def>tusk – one man cutting, and another spreading out the peats on the moss.</def>
+      </entry>
+      <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e69">
+        <form>
+          <orth>sluaist</orth>
+        </form>
+        <def>worked by one man in cutting and spreading out.</def>
+      </entry>
+      <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e78">
+        <form>
+          <orth>bodach bac</orth>
+        </form>
+        <def>the first peat cut in each section of the bank.</def>
+      </entry>
+      <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e87">
+        <form>
+          <orth>barfhad</orth>
+        </form>
+        <def>the top layer, or upper section of the bank.</def>
+      </entry>
+      <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e96">
+        <form>
+          <orth>dubhfhad</orth>
+        </form>
+        <def>the second, or bottom section of bank.</def>
+      </entry>
+      <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e105">
+        <form>
+          <orth>barraichean</orth>
+        </form>
+        <def>when the moss is sodden and wet, or the second (bottom) section too brittle to be cast out and spread out for some yards the peats are made into rows on the edge of the bank – one row
+          above the other row – somewhat like so: <graphic url="FoindleDAMacLeodmoineillust1.jpg" width="200px"/>
+        </def>
+      </entry>
+      <head xml:id="Peat_FoindleDAMacLeodmoine-d0e115">3. A’ tiormachadh na mònach</head>
+      <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e120">
+        <form>
+          <orth>stoireag</orth>
+        </form>
+        <def>a small heap of five or six peats lifted up on end, when the upper side of the peat becomes fairly dry and firm.</def>
+      </entry>
+      <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e129">
+        <form>
+          <orth>ath stoireag</orth>
+        </form>
+        <def>a larger heap – the size of which is according to weather condition.</def>
+      </entry>
+      <head xml:id="Peat_FoindleDAMacLeodmoine-d0e137">4. A’ cruachadh na mònach</head>
+      <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e142">
+        <form>
+          <orth>cruachadh</orth>
+        </form>
+        <def>Air do’n mhoine bhi lan thioram theid a cruinneachadh uile cuideachd nan dunan mòr, agus air a steidhibh ceithir-thimchioll oirre gu’cumail cuimte agus tioram.</def>
+      </entry>
+      <head xml:id="Peat_FoindleDAMacLeodmoine-d0e150">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
+      <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e155">
+        <form>
+          <orth>cliabh cleibh</orth>
+          <pron>[pl.]</pron>
+        </form>
+        <def>[pl.] creel. Is ann le cleibh bha a’ mhoine air a’ to’airt dhachaigh anns an t-sheann aimsir. Is e sealladh gle chumanta bh’ann gach fear-tigh fhaicinn a’ dol gach la dhiarraidh cliabh
+          moine do an cruach, a’ dhaodadh bhi suas ri mile air falbh o’n tigh. Ach cha-neil aon chliabh ri fhaicinn anns a’ chearn so o chionn iomadh bliadhna air ais. Tha a’ mhoine nis air a giulan
+          dhachaidh le carbaidean ola de gach seorsa. Tha rathaidean nis anns gach aite, agus mar sin tha a’ mhoine air a buain cho faisg air an rathad ’s a ghabhas deanamh.</def>
+      </entry>
+      <head xml:id="Peat_FoindleDAMacLeodmoine-d0e163">6. Seòrsachan mònach</head>
+      <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e168">
+        <form>
+          <orth>moine bhuidh</orth>
+        </form>
+      </entry>
+      <entry xml:id="Peat_FoindleDAMacLeodmoine-d0e174">
+        <form>
+          <orth>moine dhubh</orth>
+        </form>
+      </entry>
+      <head xml:id="Peat_FoindleDAMacLeodmoine-d0e179">7. Faclan eile</head>
+    </body>
+  </text>
 </TEI>

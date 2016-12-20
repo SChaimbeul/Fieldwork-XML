@@ -1,364 +1,367 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AOHenley_EriskayDMacKinnonmisc">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[1987-88]</date>
-            <location>
-               <placeName>Eriskay, Na Hann [Haun]</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>A. O’Henley</persName>
-            </person>
-            <person role="informant">
-               <persName>Donald MacKinnon</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2630400">
-            <form>
-               <orth>beul</orth>
-            </form>
-            <def>gunnel.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2627304">
-            <form>
-               <orth>stém toisich</orth>
-            </form>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2623128">
-            <form>
-               <orth>stém deiridh</orth>
-            </form>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2648760">
-            <form>
-               <orth>stràc bheòil</orth>
-            </form>
-            <def>the top layer of tummers.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2973944">
-            <form>
-               <orth>fluich  bhòrd</orth>
-               <pron>[sic]</pron>
-            </form>
-            <def>[sic] the lower layer of tummers next to the keel.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2970056">
-            <form>
-               <orth>lann</orth>
-            </form>
-            <def>a galvanised washer.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2967032">
-            <form>
-               <orth>barradh</orth>
-            </form>
-            <def>once the tummers had been riveted together with the nails, their ends were cut off and what was left of the nails was flattened against the timber. This flattening of the nail was called ‘a barradh nan tàirnean’. Had to be careful not to be too over zealous in this task and indeed if the nails were too tightly clenched against the tummers the boat could come apart on being put in water. There had to be a certain breathing space between the timber and the nail.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2961776">
-            <form>
-               <orth>lunn</orth>
-            </form>
-            <def>that part of the oar which you gripped with your hands.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2958752">
-            <form>
-               <orth>am bac</orth>
-            </form>
-            <def>that part of the oar which was between the rowlocks.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2953640">
-            <form>
-               <orth>liath</orth>
-            </form>
-            <def>the blade of the oar. [NOTES: note added under ‘liath’ – = liagh.]</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2974952">
-            <form>
-               <orth>ceannachraidhean</orth>
-            </form>
-            <def>this extended from the gunnel down underneath the seats and acted both as a support for those seats and as a strengthening for the boat itself. In this diagram these wooden supports are indicated by the dotted lines: <graphic url="EriskayDMacKinnonmiscillust1.jpg" width="500px"/>
-            </def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2976464">
-            <form>
-               <orth>tobhta bhràghad</orth>
-            </form>
-            <def>the seat closest to the rear of the boat.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2978696">
-            <form>
-               <orth>maide chas</orth>
-            </form>
-            <def>a wooden block in front of the rowing seat and used as a support when rowing.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2980208">
-            <form>
-               <orth>[saod]</orth>
-            </form>
-            <def>“Cha robh saod agad sin a dheanamh.” You had no way of doing that.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2981720">
-            <form>
-               <orth>ròp toisich</orth>
-            </form>
-            <def>for tying a boat to the pier.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2983232">
-            <form>
-               <orth>ròp acair</orth>
-            </form>
-            <def>anchor rope.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2984744">
-            <form>
-               <orth>luirgeadh an acair</orth>
-            </form>
-            <def>the anchor’s stem, foot.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2967896">
-            <form>
-               <orth>pliuchcan</orth>
-            </form>
-            <def>the pronged (flukes) parts of an anchor which grip in the sand. [NOTES: note added above ‘pliuchcan’ – (pl.).]</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2952632">
-            <form>
-               <orth>stòc</orth>
-            </form>
-            <def>the crown of the anchor between the two flukes. [NOTES: corrected to ‘stoc’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2957816">
-            <form>
-               <orth>sgadan a’ cluich</orth>
-            </form>
-            <def>herring would be seen jumping especially when the tide was ebbing.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2962928">
-            <form>
-               <orth>cnap</orth>
-            </form>
-            <def>a shoal of herring.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2965448">
-            <form>
-               <orth>coire blianain</orth>
-            </form>
-            <def>phosphorescence.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2967752">
-            <form>
-               <orth>muir tiachd</orth>
-            </form>
-            <def>jellywish [sic] [jellyfish?]. Would burn you if touched.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2970632">
-            <form>
-               <orth>cearban</orth>
-            </form>
-            <def>basking shark.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2971712">
-            <form>
-               <orth>sìoll</orth>
-            </form>
-            <def>plankton. [NOTES: corrected to ‘sìol’ and a question mark added in the margin.]</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2935064">
-            <form>
-               <orth>samh</orth>
-            </form>
-            <def>any smell but in this case used of the distinct smell of herring.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2936648">
-            <form>
-               <orth>bìgeil</orth>
-            </form>
-            <def>herring would be heard squeaking in the nets or on deck having been hauled aboard.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2938592">
-            <form>
-               <orth>fia</orth>
-            </form>
-            <def>the ‘mh’ is not pronounced as in ‘fiamh’. Means the oil on the sea’s surface coming of the herring below.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2940104">
-            <form>
-               <orth>sgiuchadh</orth>
-            </form>
-            <def>applied to the skimming dive of a gannet ‘sùlaire’. “A’ sgiuchadh an uisge.”</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2941328">
-            <form>
-               <orth>geibhal</orth>
-            </form>
-            <def>an end of a drift net. [NOTES: corrected to ‘gèibheil’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2936432">
-            <form>
-               <orth>druim</orth>
-            </form>
-            <def>the upper rope to which the floats were attached.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2944712">
-            <form>
-               <orth>lìnn chlach</orth>
-            </form>
-            <def>nets with stone weights attached to the bottom rope.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2945936">
-            <form>
-               <orth>a’ tarraing</orth>
-            </form>
-            <def>hauling.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2948096">
-            <form>
-               <orth>ròpa trom</orth>
-            </form>
-            <def>the rope at the bottom of the net.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2949752">
-            <form>
-               <orth>leth chas</orth>
-            </form>
-            <def>when repairing a net a ‘leth chas’ was one side of a square – mogull, i.e. <graphic url="EriskayDMacKinnonmiscillust2.jpg" width="150px"/>
-            </def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2500288">
-            <form>
-               <orth>snathad lìnn</orth>
-            </form>
-            <def>needle for mending nets.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2522680">
-            <form>
-               <orth>gròbadh</orth>
-            </form>
-            <def>makeshift repair of nets whilst at sea.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2507632">
-            <form>
-               <orth>a’ cairteadh lìnn</orth>
-            </form>
-            <def>weatherproofing nets using bark. As well as giving protection against the elements this protected the nets from the destructive effect the fish’s natural oil could have.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2831056">
-            <form>
-               <orth>bocsa snàth</orth>
-            </form>
-            <def>twine box.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2832568">
-            <form>
-               <orth>clach fhaoir</orth>
-            </form>
-            <def>sharpening stone. [NOTES: note added above ‘fhaoir’ – = fhaobhair.]</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2834296">
-            <form>
-               <orth>lìnn a’ teisgeadh</orth>
-            </form>
-            <def>this describes the nets smouldering due to the corrosive effect of the herring’s oil. Nowadays nylon nets are not so prone to this compared to the older cotton variety.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2835808">
-            <form>
-               <orth>deannan sgadan</orth>
-            </form>
-            <def>a reasonable catch.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2837320">
-            <form>
-               <orth>cnapadh nan lìnn</orth>
-            </form>
-            <def>nets getting tangled up.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2838832">
-            <form>
-               <orth>stroiceadh</orth>
-            </form>
-            <def>a split in the net. [NOTES: corrected to ‘stròiceadh’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2840488">
-            <form>
-               <orth>am buidhe-ròp</orth>
-            </form>
-            <def>the buoy rope.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2842000">
-            <form>
-               <orth>duin-iarruinn</orth>
-            </form>
-            <def>used for the iron hauler used for pulling in nets. [Cf. a’ chailleach]</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2843512">
-            <form>
-               <orth>a’ chailleach</orth>
-            </form>
-            <def>used for the iron hauler used for pulling in nets. [Cf. duin-iarruinn]</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2845888">
-            <form>
-               <orth>lìnn a’ dol an sàs</orth>
-            </form>
-            <def>nets stuck fast on the seabed.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2847400">
-            <form>
-               <orth>goilleach</orth>
-            </form>
-            <def>gutpoke herring. [NOTES: corrected to ‘goileach’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2849056">
-            <form>
-               <orth>snàthlus</orth>
-            </form>
-            <def>a thin leaf boiled with fresh butter and wax to give it a solidified state. Used as an ointment for cuts.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2850568">
-            <form>
-               <orth>croilleag</orth>
-            </form>
-            <def>a wicker basket used to carry fishing nets. ‘Linn chaoile.’</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2852224">
-            <form>
-               <orth>a’ geibeal mun cuairt</orth>
-            </form>
-            <def>glancing around. [NOTES: ‘geibeal’ corrected to ‘geibeil’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2853880">
-            <form>
-               <orth>duine gabhaidh</orth>
-            </form>
-            <def>a greedy person. [NOTES: corrected to ‘gàbhaidh’.]</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[1987-88]</date>
+        <location>
+          <placeName>Eriskay, Na Hann [Haun]</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>A. O’Henley</persName>
+        </person>
+        <person role="informant">
+          <persName>Donald MacKinnon</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2630400">
+        <form>
+          <orth>beul</orth>
+        </form>
+        <def>gunnel.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2627304">
+        <form>
+          <orth>stém toisich</orth>
+        </form>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2623128">
+        <form>
+          <orth>stém deiridh</orth>
+        </form>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2648760">
+        <form>
+          <orth>stràc bheòil</orth>
+        </form>
+        <def>the top layer of tummers.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2973944">
+        <form>
+          <orth>fluich bhòrd</orth>
+          <pron>[sic]</pron>
+        </form>
+        <def>[sic] the lower layer of tummers next to the keel.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2970056">
+        <form>
+          <orth>lann</orth>
+        </form>
+        <def>a galvanised washer.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2967032">
+        <form>
+          <orth>barradh</orth>
+        </form>
+        <def>once the tummers had been riveted together with the nails, their ends were cut off and what was left of the nails was flattened against the timber. This flattening of the nail was called
+          ‘a barradh nan tàirnean’. Had to be careful not to be too over zealous in this task and indeed if the nails were too tightly clenched against the tummers the boat could come apart on being
+          put in water. There had to be a certain breathing space between the timber and the nail.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2961776">
+        <form>
+          <orth>lunn</orth>
+        </form>
+        <def>that part of the oar which you gripped with your hands.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2958752">
+        <form>
+          <orth>am bac</orth>
+        </form>
+        <def>that part of the oar which was between the rowlocks.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2953640">
+        <form>
+          <orth>liath</orth>
+        </form>
+        <def>the blade of the oar. [NOTES: note added under ‘liath’ – = liagh.]</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2974952">
+        <form>
+          <orth>ceannachraidhean</orth>
+        </form>
+        <def>this extended from the gunnel down underneath the seats and acted both as a support for those seats and as a strengthening for the boat itself. In this diagram these wooden supports are
+          indicated by the dotted lines: <graphic url="EriskayDMacKinnonmiscillust1.jpg" width="500px"/>
+        </def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2976464">
+        <form>
+          <orth>tobhta bhràghad</orth>
+        </form>
+        <def>the seat closest to the rear of the boat.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2978696">
+        <form>
+          <orth>maide chas</orth>
+        </form>
+        <def>a wooden block in front of the rowing seat and used as a support when rowing.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2980208">
+        <form>
+          <orth>[saod]</orth>
+        </form>
+        <def>“Cha robh saod agad sin a dheanamh.” You had no way of doing that.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2981720">
+        <form>
+          <orth>ròp toisich</orth>
+        </form>
+        <def>for tying a boat to the pier.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2983232">
+        <form>
+          <orth>ròp acair</orth>
+        </form>
+        <def>anchor rope.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2984744">
+        <form>
+          <orth>luirgeadh an acair</orth>
+        </form>
+        <def>the anchor’s stem, foot.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2967896">
+        <form>
+          <orth>pliuchcan</orth>
+        </form>
+        <def>the pronged (flukes) parts of an anchor which grip in the sand. [NOTES: note added above ‘pliuchcan’ – (pl.).]</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2952632">
+        <form>
+          <orth>stòc</orth>
+        </form>
+        <def>the crown of the anchor between the two flukes. [NOTES: corrected to ‘stoc’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2957816">
+        <form>
+          <orth>sgadan a’ cluich</orth>
+        </form>
+        <def>herring would be seen jumping especially when the tide was ebbing.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2962928">
+        <form>
+          <orth>cnap</orth>
+        </form>
+        <def>a shoal of herring.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2965448">
+        <form>
+          <orth>coire blianain</orth>
+        </form>
+        <def>phosphorescence.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2967752">
+        <form>
+          <orth>muir tiachd</orth>
+        </form>
+        <def>jellywish [sic] [jellyfish?]. Would burn you if touched.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2970632">
+        <form>
+          <orth>cearban</orth>
+        </form>
+        <def>basking shark.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2971712">
+        <form>
+          <orth>sìoll</orth>
+        </form>
+        <def>plankton. [NOTES: corrected to ‘sìol’ and a question mark added in the margin.]</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2935064">
+        <form>
+          <orth>samh</orth>
+        </form>
+        <def>any smell but in this case used of the distinct smell of herring.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2936648">
+        <form>
+          <orth>bìgeil</orth>
+        </form>
+        <def>herring would be heard squeaking in the nets or on deck having been hauled aboard.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2938592">
+        <form>
+          <orth>fia</orth>
+        </form>
+        <def>the ‘mh’ is not pronounced as in ‘fiamh’. Means the oil on the sea’s surface coming of the herring below.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2940104">
+        <form>
+          <orth>sgiuchadh</orth>
+        </form>
+        <def>applied to the skimming dive of a gannet ‘sùlaire’. “A’ sgiuchadh an uisge.”</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2941328">
+        <form>
+          <orth>geibhal</orth>
+        </form>
+        <def>an end of a drift net. [NOTES: corrected to ‘gèibheil’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2936432">
+        <form>
+          <orth>druim</orth>
+        </form>
+        <def>the upper rope to which the floats were attached.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2944712">
+        <form>
+          <orth>lìnn chlach</orth>
+        </form>
+        <def>nets with stone weights attached to the bottom rope.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2945936">
+        <form>
+          <orth>a’ tarraing</orth>
+        </form>
+        <def>hauling.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2948096">
+        <form>
+          <orth>ròpa trom</orth>
+        </form>
+        <def>the rope at the bottom of the net.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2949752">
+        <form>
+          <orth>leth chas</orth>
+        </form>
+        <def>when repairing a net a ‘leth chas’ was one side of a square – mogull, i.e. <graphic url="EriskayDMacKinnonmiscillust2.jpg" width="150px"/>
+        </def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2500288">
+        <form>
+          <orth>snathad lìnn</orth>
+        </form>
+        <def>needle for mending nets.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2522680">
+        <form>
+          <orth>gròbadh</orth>
+        </form>
+        <def>makeshift repair of nets whilst at sea.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2507632">
+        <form>
+          <orth>a’ cairteadh lìnn</orth>
+        </form>
+        <def>weatherproofing nets using bark. As well as giving protection against the elements this protected the nets from the destructive effect the fish’s natural oil could have.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2831056">
+        <form>
+          <orth>bocsa snàth</orth>
+        </form>
+        <def>twine box.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2832568">
+        <form>
+          <orth>clach fhaoir</orth>
+        </form>
+        <def>sharpening stone. [NOTES: note added above ‘fhaoir’ – = fhaobhair.]</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2834296">
+        <form>
+          <orth>lìnn a’ teisgeadh</orth>
+        </form>
+        <def>this describes the nets smouldering due to the corrosive effect of the herring’s oil. Nowadays nylon nets are not so prone to this compared to the older cotton variety.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2835808">
+        <form>
+          <orth>deannan sgadan</orth>
+        </form>
+        <def>a reasonable catch.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2837320">
+        <form>
+          <orth>cnapadh nan lìnn</orth>
+        </form>
+        <def>nets getting tangled up.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2838832">
+        <form>
+          <orth>stroiceadh</orth>
+        </form>
+        <def>a split in the net. [NOTES: corrected to ‘stròiceadh’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2840488">
+        <form>
+          <orth>am buidhe-ròp</orth>
+        </form>
+        <def>the buoy rope.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2842000">
+        <form>
+          <orth>duin-iarruinn</orth>
+        </form>
+        <def>used for the iron hauler used for pulling in nets. [Cf. a’ chailleach]</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2843512">
+        <form>
+          <orth>a’ chailleach</orth>
+        </form>
+        <def>used for the iron hauler used for pulling in nets. [Cf. duin-iarruinn]</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2845888">
+        <form>
+          <orth>lìnn a’ dol an sàs</orth>
+        </form>
+        <def>nets stuck fast on the seabed.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2847400">
+        <form>
+          <orth>goilleach</orth>
+        </form>
+        <def>gutpoke herring. [NOTES: corrected to ‘goileach’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2849056">
+        <form>
+          <orth>snàthlus</orth>
+        </form>
+        <def>a thin leaf boiled with fresh butter and wax to give it a solidified state. Used as an ointment for cuts.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2850568">
+        <form>
+          <orth>croilleag</orth>
+        </form>
+        <def>a wicker basket used to carry fishing nets. ‘Linn chaoile.’</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2852224">
+        <form>
+          <orth>a’ geibeal mun cuairt</orth>
+        </form>
+        <def>glancing around. [NOTES: ‘geibeal’ corrected to ‘geibeil’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacKinnonmisc-idp2853880" type="person">
+        <form>
+          <orth>duine gabhaidh</orth>
+        </form>
+        <def>a greedy person. [NOTES: corrected to ‘gàbhaidh’.]</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

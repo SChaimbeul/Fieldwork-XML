@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_FearnabegJMacKslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>12/1969</date>
-            <location>
-               <placeName>Kenmore, Fearnabeg (Shieldaig? – on one of the slips)</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[AJ Smith?]</persName>
-            </person>
-            <person role="informant">
-               <persName>JMacK</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_FearnabegJMacKslips-idp166270712">
-            <form>
-               <orth>sgadan</orth>
-            </form>
-            <def>Quotation: sgadan bhuntàta. Notes: herring caught for home consumption.</def>
-         </entry>
-         <entry xml:id="Slips_FearnabegJMacKslips-idp166272368">
-            <form>
-               <orth>stìcil (s)</orth>
-            </form>
-            <def>Notes: horizontal slats put on kiln.</def>
-         </entry>
-         <entry xml:id="Slips_FearnabegJMacKslips-idp166273880">
-            <form>
-               <orth>buntàta</orth>
-            </form>
-            <def>Quotation: sgadan bhuntàta. Notes: herring caught for horse consumption.</def>
-         </entry>
-         <entry xml:id="Slips_FearnabegJMacKslips-idp166275536">
-            <form>
-               <orth>fairtich</orth>
-            </form>
-            <def>Quotation: Dh’fhairtich e orm a dheanamh. Notes: I failed to do it. (Without the “l”.)</def>
-         </entry>
-         <entry xml:id="Slips_FearnabegJMacKslips-idp166277192">
-            <form>
-               <orth>fartaman</orth>
-               <pron>[fɑʴsṯəmɑ̃ṉ]</pron>
-            </form>
-            <def>[fɑʴsṯəmɑ̃ṉ] Notes: thin line which attaches a hook to the main line.  [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>12/1969</date>
+        <location>
+          <placeName>Kenmore, Fearnabeg (Shieldaig? – on one of the slips)</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[AJ Smith?]</persName>
+        </person>
+        <person role="informant">
+          <persName>JMacK</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_FearnabegJMacKslips-idp166270712">
+        <form>
+          <orth>sgadan</orth>
+        </form>
+        <def>Quotation: sgadan bhuntàta. Notes: herring caught for home consumption.</def>
+      </entry>
+      <entry xml:id="Slips_FearnabegJMacKslips-idp166272368">
+        <form>
+          <orth>stìcil (s)</orth>
+        </form>
+        <def>Notes: horizontal slats put on kiln.</def>
+      </entry>
+      <entry xml:id="Slips_FearnabegJMacKslips-idp166273880">
+        <form>
+          <orth>buntàta</orth>
+        </form>
+        <def>Quotation: sgadan bhuntàta. Notes: herring caught for horse consumption.</def>
+      </entry>
+      <entry xml:id="Slips_FearnabegJMacKslips-idp166275536">
+        <form>
+          <orth>fairtich</orth>
+        </form>
+        <def>Quotation: Dh’fhairtich e orm a dheanamh. Notes: I failed to do it. (Without the “l”.)</def>
+      </entry>
+      <entry xml:id="Slips_FearnabegJMacKslips-idp166277192">
+        <form>
+          <orth>fartaman</orth>
+          <pron>[fɑʴsṯəmɑ̃ṉ]</pron>
+        </form>
+        <def>[fɑʴsṯəmɑ̃ṉ] Notes: thin line which attaches a hook to the main line. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

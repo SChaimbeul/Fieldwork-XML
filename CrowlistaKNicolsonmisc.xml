@@ -1,1126 +1,1133 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AJSmith_CrowlistaKNicolsonmisc">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>May 1972</date>
-            <location>
-               <placeName>[Lewis], Uig, Crowlista</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>A. J. Smith</persName>
-            </person>
-            <person role="informant">
-               <persName>Kenneth Nicolson</persName>
-               <birth>
-                  <placeName>Crowlista</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35458072">
-            <form>
-               <orth>iarunn-cómhtallach</orth>
-               <pron>[ıɤrən̪kõ:hɑɫɑx]</pron>
-            </form>
-            <def>[ıɤrən̪kõ:hɑɫɑx] Note: landing hook for fish.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35456344">
-            <form>
-               <orth>geadag</orth>
-            </form>
-            <def>Note: grilse (young salmon on its first trip back from the sea).</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35454832">
-            <form>
-               <orth>bànag</orth>
-            </form>
-            <def>Note: sea trout.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35453320">
-            <form>
-               <orth>poighleag</orth>
-               <pron>[p[ɤı]</pron>
-            </form>
-            <def>[p[ɤı]lɑɡ] Note: porpoise.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35451160">
-            <form>
-               <orth>tonnag-langainn</orth>
-            </form>
-            <def>Note: young ling.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35449648">
-            <form>
-               <orth>sgleòtag</orth>
-               <pron>[sɡlɔ:t̪ɑɡ]</pron>
-            </form>
-            <def>[sɡlɔ:t̪ɑɡ] Note: a young lythe.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35447920">
-            <form>
-               <orth>cudaig</orth>
-            </form>
-            <def>Note: cuddy, young saithe.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35446408">
-            <form>
-               <orth>smallag</orth>
-            </form>
-            <def>Note: year-old saithe.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35444896">
-            <form>
-               <orth>soithean</orth>
-            </form>
-            <def>Note: saithe in its second year.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35443384">
-            <form>
-               <orth>ucas</orth>
-            </form>
-            <def>Note: fully-grown saithe.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35441872">
-            <form>
-               <orth>cnódan</orth>
-            </form>
-            <def>Note: gurnard.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35440360">
-            <form>
-               <orth>cragan-tràghad</orth>
-            </form>
-            <def>Note: sea-urchin.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35438848">
-            <form>
-               <orth>crosgag</orth>
-            </form>
-            <def>Note: starfish.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35437336">
-            <form>
-               <orth>buirtiachd</orth>
-            </form>
-            <def>Note: jellyfish [bu̜ʴˈṯıɑk] [?]. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35435392">
-            <form>
-               <orth>muirsig</orth>
-               <pron>[mũ̜ʴsiɡʹ]</pron>
-            </form>
-            <def>[mũ̜ʴsiɡʹ] Note: razor-fish. Plural [mu̜ʴsıɡʹəṉ]. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35433232">
-            <form>
-               <orth>sporan-fithich</orth>
-            </form>
-            <def>Note: “mermaid’s pouch”.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35431720">
-            <form>
-               <orth>sporan</orth>
-            </form>
-            <def>Quot.: sporan na crùbaig. Note: crab’s “apron” (flaps on its belly).</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35429128">
-            <form>
-               <orth>cruaidh</orth>
-            </form>
-            <def>Note: stone weighting down one end of the “lion-bheag” or great-line.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35427616">
-            <form>
-               <orth>put</orth>
-               <pron>[pu̟t̪]</pron>
-            </form>
-            <def>[pu̟t̪] Note: the buoy marking the end of the small-line or great-line.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35425816">
-            <form>
-               <orth>ceann-bhall</orth>
-               <pron>[cɑ̃n̪vɑu̜ɫ]</pron>
-            </form>
-            <def>[cɑ̃n̪vɑu̜ɫ] Note: the rope between the “cruaidh” [q.v.] and the “puta” [q.v.] on a great-line or small-line.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35424088">
-            <form>
-               <orth>tulch</orth>
-               <pron>[t̪u̜ɫu̜x]</pron>
-            </form>
-            <def>[t̪u̜ɫu̜x] Note: a clump on the seaweed “mircean” just where the leaf begins.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35422360">
-            <form>
-               <orth>both</orth>
-               <pron>[bɔ]</pron>
-            </form>
-            <def>[bɔ] Note: a beehive dwelling found on the moor.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35420632">
-            <form>
-               <orth>bonnach-bois</orth>
-               <pron>[bɔ̃n̪ɑxbɔʃ]</pron>
-            </form>
-            <def>[bɔ̃n̪ɑxbɔʃ] Note: an oatmeal cake made with the hands (not using a “clàr-fuinne”) about 1" thick and stood beside the fire to bake.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35418904">
-            <form>
-               <orth>ceapaire-tàilleach</orth>
-               <pron>[cɛpəðət̪ɑ:lʹɑx]</pron>
-            </form>
-            <def>[cɛpəðət̪ɑ:lʹɑx] Note: sandwich made of two slices of cheese with butter between them.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35417176">
-            <form>
-               <orth>bonnach-iomanach</orth>
-            </form>
-            <def>Note: given to the person who first saw a cow with the “mulad” before the birth of a calf.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35415664">
-            <form>
-               <orth>smiùradh</orth>
-               <pron>[smȷũ̟:ɾəɣ]</pron>
-            </form>
-            <def>[smȷũ̟:ɾəɣ] Quot.: “a’ smiùradh nan caorach”. Note: smearing sheep with archangel tar, before dipping was introduced.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35413720">
-            <form>
-               <orth>stòl</orth>
-            </form>
-            <def>Quot.: stòl-smiùraidh [st̪ɔɫsmȷũ̟:ɾi]. Note: trestle on which sheep was laid when being smeared with tar.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35410840">
-            <form>
-               <orth>treadh-dhàir</orth>
-               <pron>[t̪ɾɤɣɑ:ð]</pron>
-            </form>
-            <def>[t̪ɾɤɣɑ:ð] Note: (spelling?) this was when a cow was taken to the bull a week after having been already. Some people didn’t believe in doing this but others maintained that if this was done, there would be no need of the bull’s service again.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35409112">
-            <form>
-               <orth>dòrn-bhuar</orth>
-               <pron>[d̪ɔ:ʴṉvu̟ɤɾ]</pron>
-            </form>
-            <def>[d̪ɔ:ʴṉvu̟ɤɾ] Quot.: “a’ toirt a mach an dòrn-bhuar”. Note: a competition or test of strength tried when a cow had been killed. This consisted of trying to take the hoof off by twisting it until the first joint gave way and then the skin. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35407024">
-            <form>
-               <orth>sgonnan</orth>
-               <pron>[sɡon̪ɑṉ]</pron>
-            </form>
-            <def>[sɡon̪ɑṉ] Note: the wooden handle on the top stone of a quern for putting it round.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35405296">
-            <form>
-               <orth>sùil</orth>
-            </form>
-            <def>Note: the “eye” of the quern – the hole in the centre.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35403712">
-            <form>
-               <orth>mialaire</orth>
-               <pron>[mĩɔ̃ɫəðə]</pron>
-            </form>
-            <def>[mĩɔ̃ɫəðə] Note: the pivot on which the top stone rests in a quern.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35401912">
-            <form>
-               <orth>òrd-breacaidh</orth>
-            </form>
-            <def>Note: hammer used to roughen the faces of the two quern-stones.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35400328">
-            <form>
-               <orth>eibhleag</orth>
-            </form>
-            <def>Note: ember. Pronounced: [ȷɤu̟lɑɡ].</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35397664">
-            <form>
-               <orth>sgairt</orth>
-               <pron>[sɡɑʴsṯ]</pron>
-            </form>
-            <def>[sɡɑʴsṯ] Note: peritoneum. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35395792">
-            <form>
-               <orth>streabhainn</orth>
-               <pron>[st̪ɾɛvĩnʹ]</pron>
-            </form>
-            <def>[st̪ɾɛvĩnʹ] Note: membrane of any kind – e.g. the lining inside an eggshell.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35394064">
-            <form>
-               <orth>claimhean</orth>
-               <pron>[kɫ[ɑ̃ĩ]</pron>
-            </form>
-            <def>[kɫ[ɑ̃ĩ]vɑṉ] Note: bolt on a door.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35391904">
-            <form>
-               <orth>sgairt</orth>
-            </form>
-            <def>Quot.: “sgairt gaoith”. Note: a strong cold wind.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35390176">
-            <form>
-               <orth>sgairteil</orth>
-            </form>
-            <def>Quot.: duine sgairteil. Note: eloquent.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35388448">
-            <form>
-               <orth>priosgadh</orth>
-               <pron>[pðısɡəɣ]</pron>
-            </form>
-            <def>[pðısɡəɣ] Note: a sudden start, fright.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35386720">
-            <form>
-               <orth>priosg</orth>
-               <pron>[pðısɡ]</pron>
-            </form>
-            <def>[pðısɡ] Quot.: “Phriosg e.” Note: He gave a sudden start.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35384776">
-            <form>
-               <orth>cuglaidh</orth>
-               <pron>[ku̜ɡəɫi]</pron>
-            </form>
-            <def>[ku̜ɡəɫi] Note: unstable.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35383048">
-            <form>
-               <orth>claimhearachd</orth>
-               <pron>[kɫ[ɑ̃ĩ]</pron>
-            </form>
-            <def>[kɫ[ɑ̃ĩ]vɑðɑxk] Quot.: “Tha an crodh a’ claimhearachd.” Note: sparring with their horns but not actually fighting.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35380600">
-            <form>
-               <orth>claimhreachd</orth>
-               <pron>[kɫ[ɑ̃ĩ]</pron>
-            </form>
-            <def>[kɫ[ɑ̃ĩ]ɾɑxk] Same as claimhearachd [q.v.].</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35378440">
-            <form>
-               <orth>rabhlagach</orth>
-               <pron>[rɑu̜ɫɑɡɑx]</pron>
-            </form>
-            <def>[rɑu̜ɫɑɡɑx] Note: ragged, untidy.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35376712">
-            <form>
-               <orth>taod</orth>
-               <pron>[t̪w:d̪]</pron>
-            </form>
-            <def>[t̪w:d̪] Quot.: “a’ deanamh taod a ròineag.” Note: grossly exaggerating; making a mountain out of a molehill.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35374768">
-            <form>
-               <orth>ròineag</orth>
-            </form>
-            <def>as above [i.e. taod].</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35372392">
-            <form>
-               <orth>peithir</orth>
-               <pron>[pɛhəð]</pron>
-            </form>
-            <def>[pɛhəð] Note: thunderbolt.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35370664">
-            <form>
-               <orth>seana-chumail</orth>
-               <pron>[ʃw̃ṉəxw̃mɑl]</pron>
-            </form>
-            <def>[ʃw̃ṉəxw̃mɑl] Note: a child who speaks older than his years.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35368936">
-            <form>
-               <orth>cumailtiche</orth>
-               <pron>[kũ̟mɑlʹtʹiçə]</pron>
-            </form>
-            <def>[kũ̟mɑlʹtʹiçə] Note: an old person who is active and young-looking for his years.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35367208">
-            <form>
-               <orth>annsporag</orth>
-               <pron>[ɑ̃ũ̟spɔɾɑɡ]</pron>
-            </form>
-            <def>[ɑ̃ũ̟spɔɾɑɡ] Note: the part (including the “sgòrnan”) that came out attached to a cow’s tongue when removed from a carcase. Mostly made up of fat.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35365480">
-            <form>
-               <orth>ubh-mille-fithich</orth>
-               <pron>[u̟mĩlʹəfiiç]</pron>
-            </form>
-            <def>[u̟mĩlʹəfiiç] Note: a very small egg laid by a hen – usually when coming to the end of her laying life.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35363752">
-            <form>
-               <orth>maothallan</orth>
-               <pron>[mw̃:həɫɑṉ]</pron>
-            </form>
-            <def>[mw̃:həɫɑṉ] Note: cartilage in a joint.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35362024">
-            <form>
-               <orth>màm</orth>
-            </form>
-            <def>Note: (1) a swollen gland, e.g. under the armpit or at the top of the thigh. (2) also used for rounded hills on the moor.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35360296">
-            <form>
-               <orth>déisbeid</orth>
-               <pron>[dʹe:ʃbɑdʹ]</pron>
-            </form>
-            <def>[dʹe:ʃbɑdʹ] Note: a fester at the root of the nail. Can come up very quickly and perhaps come to a head the same day.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35358568">
-            <form>
-               <orth>at</orth>
-            </form>
-            <def>Quot.: “at caoich”. Note: a septic swelling that appears and comes to a head very quickly. (Put also under caoch.)</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35355832">
-            <form>
-               <orth>màthair-ghuire</orth>
-            </form>
-            <def>Note: core of a boil or carbuncle.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35354320">
-            <form>
-               <orth>geugaire</orth>
-               <pron>[ɡʹe:ɡəðə]</pron>
-            </form>
-            <def>[ɡʹe:ɡəðə] Note: something to which a boat-rope is tied at a landing place. Could be a stone or between two stones where they are in contact.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35352592">
-            <form>
-               <orth>seipean</orth>
-               <pron>[ʃepɑṉ]</pron>
-            </form>
-            <def>[ʃepɑṉ] Note: a quart.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35350864">
-            <form>
-               <orth>ailbhe</orth>
-               <pron>[ɛlɛvə]</pron>
-            </form>
-            <def>[ɛlɛvə] Quot.: “Fhuair thu ’n [ɛlɛvə].” Note: a thing so small one can hardly see it. Above said if a person was given a very small amount of something.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35348632">
-            <form>
-               <orth>eòlan</orth>
-               <pron>[ȷɔ:ɫɑṉ]</pron>
-            </form>
-            <def>[ȷɔ:ɫɑṉ] Note: lubricating oil put on wool.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41773016">
-            <form>
-               <orth>ùradh</orth>
-               <pron>[u̟:ɾəɣ]</pron>
-            </form>
-            <def>[u̟:ɾəɣ] Quot.: “a’ toirt na stocainnean as an ùradh”. Note: washing them to take the oil out.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41775608">
-            <form>
-               <orth>fuidheag</orth>
-            </form>
-            <def>Note: piece at the beginning of a tweed and the end of the one in the loom previous to it, where the ends of the yarn are tied. Removed when the new warp is taken through and a piece of it woven.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41776256">
-            <form>
-               <orth>cothrom</orth>
-            </form>
-            <def>Quot.: “na cothroman”. Note: weights behind the loom to keep a tension on the warp.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41778992">
-            <form>
-               <orth>lunnt</orth>
-               <pron>[ɫ[ɤ̃ũ̜]</pron>
-            </form>
-            <def>[ɫ[ɤ̃ũ̜]n̪t̪] Quot.: “lunnt a’ ghuirmein”. Note: dye solution.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41780216">
-            <form>
-               <orth>linne</orth>
-            </form>
-            <def>Quot.: “linne a’ ghuirmein”. Note: sometimes used for dye solution.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41783168">
-            <form>
-               <orth>smàg</orth>
-            </form>
-            <def>Note: the open hand.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41785328">
-            <form>
-               <orth>smàglach</orth>
-            </form>
-            <def>Note: a handful.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41787128">
-            <form>
-               <orth>cròglach</orth>
-            </form>
-            <def>Note: a handful.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41787488">
-            <form>
-               <orth>ball</orth>
-            </form>
-            <def>Quot.: “ball cainb”. Note: hemp rope.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41789360">
-            <form>
-               <orth>còcrach</orth>
-            </form>
-            <def>Quot.: “ball còcrach”. Note: jute?</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41791160">
-            <form>
-               <orth>driamlach</orth>
-               <pron>[d̪ɾĩɤ̃məɫɑx]</pron>
-            </form>
-            <def>[d̪ɾĩɤ̃məɫɑx] Quot.: “driamlach-slait”. Note: fishing line.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41793392">
-            <form>
-               <orth>friodhan</orth>
-               <pron>[fðwɣɑ̃ṉ]</pron>
-            </form>
-            <def>[fðwɣɑ̃ṉ] Note: (1) barb of hook. (2) pig’s bristle used as tip for “sreangan” when stitching shoes.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41795696">
-            <form>
-               <orth>bois</orth>
-            </form>
-            <def>Quot.: “bois an dubhain”. Note: the flat part at the end of a hook.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41797424">
-            <form>
-               <orth>rèileadh</orth>
-            </form>
-            <def>Note: the part of the “snòt” tied round the hook.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41798072">
-            <form>
-               <orth>tràsg</orth>
-               <pron>[t̪ɾɑ:sɡ]</pron>
-            </form>
-            <def>[t̪ɾɑ:sɡ] Quot.: “Cho tioram ris an tràsg.” Note: the straw in the kiln on which seed was put for drying.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41800232">
-            <form>
-               <orth>tìreadh</orth>
-            </form>
-            <def>Quot.: “a’ tìreadh a’ ghràin”. Note: drying the grain in the kiln.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41801816">
-            <form>
-               <orth>eiteal</orth>
-               <pron>[etʹɑɫ]</pron>
-            </form>
-            <def>[etʹɑɫ] Note: probably “aiteal” pronounced like this. A dry spell between two showers.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41804840">
-            <form>
-               <orth>breaca-sianan</orth>
-            </form>
-            <def>Note: freckles.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41806712">
-            <form>
-               <orth>miolan-crion</orth>
-            </form>
-            <def>Note: KN says eczema.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41808296">
-            <form>
-               <orth>bad-seirc</orth>
-            </form>
-            <def>Note: beauty spot on the face. (Heard it used once.)</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41809736">
-            <form>
-               <orth>einneach</orth>
-               <pron>[enʹɑx]</pron>
-            </form>
-            <def>[enʹɑx] Quot.: “einneach fraoich”. Note: the stumps of heather in a burnt area.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41811248">
-            <form>
-               <orth>suagraid</orth>
-            </form>
-            <def>Quot.: “suagraid de lit, etc.” Note: a very thick mixture.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41812760">
-            <form>
-               <orth>blèiream</orth>
-               <pron>[blɛ:ɾəm]</pron>
-            </form>
-            <def>[blɛ:ɾəm] Note: jargon.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41815280">
-            <form>
-               <orth>ruinnse</orth>
-               <pron>[rɤ̃ĩʃ]</pron>
-            </form>
-            <def>[rɤ̃ĩʃ] Note: the projection at the end of the spine.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41817080">
-            <form>
-               <orth>ullanaich</orth>
-            </form>
-            <def>Quot.: “ag ullanachadh duine ann a’ leabaidh”. Note: shifting a person’s position in bed to make him more comfortable.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41818232">
-            <form>
-               <orth>anasgair</orth>
-               <pron>[ɑ̃nɑsɡəð]</pron>
-            </form>
-            <def>[ɑ̃nɑsɡəð] Quot.: “àite anasgair”. Note: “an-sheasgair”. An exposed place.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41819744">
-            <form>
-               <orth>drith-thothainn</orth>
-               <pron>[d̪ɾıhɔhĩnʹ]</pron>
-            </form>
-            <def>[d̪ɾıhɔhĩnʹ] Quot.: “Chaidh e na [ɣɾıhɔhĩnʹ].” “Tha mi na mo [ɣɾıhɔhĩnʹ].” Note: in a flat spin. Equivalent of “treathail” in Barvas.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41823632">
-            <form>
-               <orth>seanntaich</orth>
-               <pron>[ʃw̃:n̪t̪iç]</pron>
-            </form>
-            <def>[ʃw̃:n̪t̪iç] Quot.: “Tha am biadh a [ʃw̃:n̪t̪ɑxəɣ] air an teine.” Note: food spoiling on the fire from being left too long. (spelling?)</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41825936">
-            <form>
-               <orth>monaiseach</orth>
-               <pron>[mɔ̃ṉɑʃɑx]</pron>
-            </form>
-            <def>[mɔ̃ṉɑʃɑx] Note: having a couldn’t-care-less attitude.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41827376">
-            <form>
-               <orth>mulcach</orth>
-            </form>
-            <def>Note: bulky.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41829248">
-            <form>
-               <orth>lanaicneadh</orth>
-               <pron>[ɫɑ̃ṉɑcṉəɣ]</pron>
-            </form>
-            <def>[ɫɑ̃ṉɑcṉəɣ] Quot.: “Bha ’n cù air e fhéin a lanaicneadh as a pholl.” Note: had covered himself in mud by rolling in it.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41831696">
-            <form>
-               <orth>ceum-letha</orth>
-            </form>
-            <def>Quot.: “Thug e ceum-letha nuair a bha e a feuchainn an dòrnaig.” Note: stepping over the line. Also exaggerating when telling a story. “Leig e ceum-letha.”</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41833568">
-            <form>
-               <orth>lì</orth>
-               <pron>[lʹi:]</pron>
-            </form>
-            <def>[lʹi:] Note: a film on the surface of liquid.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41834504">
-            <form>
-               <orth>stiam</orth>
-               <pron>[ʃtʹĩɑ̃m]</pron>
-            </form>
-            <def>[ʃtʹĩɑ̃m] Quot.: “Tha stiam as an ùth aig a bhoin an deidh dhith breith.” Note: some kind of matter in the udder of cows that have newly calved, causing a certain blockage of the milk ducts. Udder felt lumpy.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41836448">
-            <form>
-               <orth>luidsear</orth>
-               <pron>[ɫudʹʃɑð]</pron>
-            </form>
-            <def>[ɫudʹʃɑð] Note: a clumsy person who is always dropping things.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41838896">
-            <form>
-               <orth>pliutag</orth>
-            </form>
-            <def>Note: a light cuff with the back of the hand.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41841344">
-            <form>
-               <orth>leób</orth>
-               <pron>[lʹo:b]</pron>
-            </form>
-            <def>[lʹo:b] Note: a piece of cultivated ground. “Feannag” understood here as being narrower than the “leób”.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41843216">
-            <form>
-               <orth>triaill</orth>
-               <pron>[t̪ɾıɑlʹ]</pron>
-            </form>
-            <def>[t̪ɾıɑlʹ] Quot.: “Chaidh e feir a thriaill.” Note: He lost his balance.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41844296">
-            <form>
-               <orth>gibearnach</orth>
-            </form>
-            <def>Note: cuttle-fish.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41846024">
-            <form>
-               <orth>cnaimh-rionnach</orth>
-               <pron>[kɾɛ̃:vrũ̜n̪ɑx]</pron>
-            </form>
-            <def>[kɾɛ̃:vrũ̜n̪ɑx] Note: horse-mackerel.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41847536">
-            <form>
-               <orth>seursag</orth>
-               <pron>[ʃiɑʴsɑɡ]</pron>
-            </form>
-            <def>[ʃiɑʴsɑɡ] Note: grilse. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41849408">
-            <form>
-               <orth>càpraid</orth>
-            </form>
-            <def>Note: hustle and bustle, turmoil.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41851136">
-            <form>
-               <orth>rasanta</orth>
-            </form>
-            <def>Note: bold, brash.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37318528">
-            <form>
-               <orth>gurruban</orth>
-               <pron>[ɡu̜rubɑṉ]</pron>
-            </form>
-            <def>[ɡu̜rubɑṉ] Quot.: “Bha i na gurruban as a’ chòrnair.” Note: in a hunched position.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37345528">
-            <form>
-               <orth>claidsear</orth>
-               <pron>[kɫɑdʹʃoð]</pron>
-            </form>
-            <def>[kɫɑdʹʃoð] Note: a big, heavy man.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37345600">
-            <form>
-               <orth>smobag</orth>
-            </form>
-            <def>Note: light cuff.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37327096">
-            <form>
-               <orth>sabhtag</orth>
-            </form>
-            <def>Note: a blow to the side as given by a cow with its horns.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37322344">
-            <form>
-               <orth>rath-dorch</orth>
-            </form>
-            <def>Note: the dark period in the moon’s cycle.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37334080">
-            <form>
-               <orth>spùisil</orth>
-               <pron>[spu̟:ʃilʹ]</pron>
-            </form>
-            <def>[spu̟:ʃilʹ] Note: “Pòcaid ann an cliathaich còta drògaid.”</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37323568">
-            <form>
-               <orth>iung</orth>
-               <pron>[ȷɛ̃ɣ]</pron>
-            </form>
-            <def>[ȷɛ̃ɣ] Quot.: “Bheir mise ort gu sìn thu d’iungan [d̪ȷɛ̃ɣəṉ].” Note: “I’ll make you get a move on.” Seems to be synonymous with “casan” here but “iung” is used as the triangular piece of cloth sewn into a garment (e.g. a skirt) to let it out. Also used of a horse kicking – “Leig e [ȷɛ̃ɣ].”</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37303336">
-            <form>
-               <orth>iungarra</orth>
-               <pron>[ȷɛ̃ɣɑrə]</pron>
-            </form>
-            <def>[ȷɛ̃ɣɑrə] Note: Also “duine iungarra” – a crabbit person.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37306072">
-            <form>
-               <orth>buairich</orth>
-               <pron>[bu̟ɤɾiç]</pron>
-            </form>
-            <def>[bu̟ɤɾiç] Quot: “Buairich do chas.” Note: said to a cow to make it take its two hind legs together for tying.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37322776">
-            <form>
-               <orth>eilghidh</orth>
-               <pron>[elei]</pron>
-            </form>
-            <def>[elei] Quot.: “ag eilghidh na talmhainn ann an dùmhlachd na bliadhna”. Note: first ploughing in winter to break up the soil. Turned in the spring for sowing.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37324936">
-            <form>
-               <orth>talamh</orth>
-            </form>
-            <def>Quot.: “talamh eilghidh”. Note: ground which has been ploughed for the first time in winter. (To be turned again later for sowing.)</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37342360">
-            <form>
-               <orth>sabhach</orth>
-            </form>
-            <def>Quot.: “sabhach an taireisgeir”. Note: the wooden shaft of the peat-cutting iron.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37333576">
-            <form>
-               <orth>osan</orth>
-            </form>
-            <def>Quot.: “osan an taireisgeir”. Note: the iron socket into which the wooden shaft fits.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37304488">
-            <form>
-               <orth>atach</orth>
-            </form>
-            <def>Quot.: “Chunna mi an atach aice.” Note: the useless remains of anything.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37290304">
-            <form>
-               <orth>geallabhall</orth>
-               <pron>[ɡʹɑɫəvɑɫ]</pron>
-            </form>
-            <def>[ɡʹɑɫəvɑɫ] Note: name given to a fairly thin layer of peat on stony ground. Hard and dry and can be taken directly home to be burnt. Common in Uig.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37325368">
-            <form>
-               <orth>eileabanachd</orth>
-            </form>
-            <def>Note: mischief, trickery.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37318960">
-            <form>
-               <orth>peiricleadh</orth>
-               <pron>[pɛɾicləɣ]</pron>
-            </form>
-            <def>[pɛɾicləɣ] Quot.: “Tha na [pɛɾicləṉ] air.” Note: death throes.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37346392">
-            <form>
-               <orth>poca-buidhe</orth>
-            </form>
-            <def>Note: tripe (usually of deer).</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37307152">
-            <form>
-               <orth>ireasglach</orth>
-               <pron>[ˈiðəsɡɫɑx]</pron>
-            </form>
-            <def>[ˈiðəsɡɫɑx] Quot.: “Ireasglaich bhradaich!” Note: term of contempt. Thought of as having something to do with disfigurement of the legs.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37299520">
-            <form>
-               <orth>fosglan</orth>
-            </form>
-            <def>Note: structure like a porch in front of a blackhouse or shieling.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37335376">
-            <form>
-               <orth>monagnaidh</orth>
-               <pron>[mɔ̃ṉɑɡṉi]</pron>
-            </form>
-            <def>[mɔ̃ṉɑɡṉi] Quot.: “Tha an fheòil seo monagnaidh.” Note: beginning to deteriorate.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37326592">
-            <form>
-               <orth>ceannabheairt</orth>
-            </form>
-            <def>Note: (1) headgear. (2) sails and masts of a boat.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37306216">
-            <form>
-               <orth>guailleachan</orth>
-               <pron>[ɡu̟ɤlʹɑxɑṉ]</pron>
-            </form>
-            <def>[ɡu̟ɤlʹɑxɑṉ] Note: shoulder plaid.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37337536">
-            <form>
-               <orth>breacan-guaille</orth>
-            </form>
-            <def>Note: shoulder plaid.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37299016">
-            <form>
-               <orth>fargnaich</orth>
-               <pron>[fɑɾɑɡṉĩç]</pron>
-            </form>
-            <def>[fɑɾɑɡṉĩç] Quot.: “Dh’fhargnaich iad an grunn eisge.” Note: empty, clear out.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37316944">
-            <form>
-               <orth>an-furais</orth>
-               <pron>[ɑ̃ṉfu̟ɾɑʃ]</pron>
-            </form>
-            <def>[ɑ̃ṉfu̟ɾɑʃ] Quot.: “’S tu a tha ’s an an-furais.” Note: impatience, restlessness.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37311760">
-            <form>
-               <orth>fritheir</orth>
-               <pron>[fðıhəð]</pron>
-            </form>
-            <def>[fðıhəð] Note: weak, fragile. Could say of a person: “Tha e fritheir air a chasan ’n deidh tinneas.”</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37336672">
-            <form>
-               <orth>gàdag</orth>
-               <pron>[ɡɑ:d̪ɑɡ]</pron>
-            </form>
-            <def>[ɡɑ:d̪ɑɡ] Quot.: “gàdag coirce”, “gadag eòrna”, “gàdag feòir”. Note: a measure for a quantity of oats, barley or hay. Also applied to the rope itself of length “dà aitheamh ’s dà dhòrn”.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37340488">
-            <form>
-               <orth>pullastair</orth>
-               <pron>[pu̜ɫəst̪ɑð]</pron>
-            </form>
-            <def>[pu̜ɫəst̪ɑð] Note: fulmar.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37301680">
-            <form>
-               <orth>sgafant</orth>
-               <pron>[sɡɑfɑn̪t̪]</pron>
-            </form>
-            <def>[sɡɑfɑn̪t̪] Note: lively.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40436520">
-            <form>
-               <orth>polla</orth>
-               <pron>[poɫə]</pron>
-            </form>
-            <def>[poɫə] Quot.: “Bha mi aig an tigh polla.” Note: a spell.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40432920">
-            <form>
-               <orth>amhlaidh</orth>
-            </form>
-            <def>Quot.: “air an amhlaidh cheudna”. Note: in like manner.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40431408">
-            <form>
-               <orth>sléiteach</orth>
-            </form>
-            <def>Quot.: “Tha an coirce ’na shléitich.” Note: flat on the ground. “Sléiteach” also said to be an illness in cattle. Not sure what it was.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40440264">
-            <form>
-               <orth>cródach</orth>
-            </form>
-            <def>Note: illness in cattle involving soreness in the bones. Usually among young animals in bad weather. [Cf. mulachd.]</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40440336">
-            <form>
-               <orth>mulachd</orth>
-               <pron>[mũɫɑxk]</pron>
-            </form>
-            <def>[mũɫɑxk] Note: another term for soreness of bones among young animals (cattle) in bad weather. [Cf. cródach.]</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40444224">
-            <form>
-               <orth>gearraiseach</orth>
-               <pron>[ɡʹɑɾɑʃɑx]</pron>
-            </form>
-            <def>[ɡʹɑɾɑʃɑx] Quot.: “duine gearraiseach”. Note: an argumentative man.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40420320">
-            <form>
-               <orth>punnt-bàn</orth>
-            </form>
-            <def>Note: a grass like rye-grass. Seen often in a fallow field where oats had been planted.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40421688">
-            <form>
-               <orth>buillig</orth>
-               <pron>[bu̟lʹiɡ]</pron>
-            </form>
-            <def>[bu̟lʹiɡ] Note: wild oats.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40424856">
-            <form>
-               <orth>bigearram</orth>
-               <pron>[biɡʹərəm]</pron>
-            </form>
-            <def>[biɡʹərəm] Note: the death watch beetle.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40423992">
-            <form>
-               <orth>grobhaich</orth>
-            </form>
-            <def>Note: dirty (vb).</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40426008">
-            <form>
-               <orth>grobhail</orth>
-               <pron>[ɡɾɔvɑl]</pron>
-            </form>
-            <def>[ɡɾɔvɑl] Note: dirty (adj.).</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40431264">
-            <form>
-               <orth>drobhsadh</orth>
-               <pron>[d̪ɾɤu̟səɣ]</pron>
-            </form>
-            <def>[d̪ɾɤu̟səɣ] Note: grilling, toasting.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40433352">
-            <form>
-               <orth>teóthadh</orth>
-               <pron>[tʹo:əɣ]</pron>
-            </form>
-            <def>[tʹo:əɣ] Quot.: “Chaneil teóthadh air a’ bhuntàta seo.” Note: “These potatoes haven’t warmed.”</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40437024">
-            <form>
-               <orth>an-cheardach</orth>
-               <pron>[ɑ̃ṉçəʴḏɑx]</pron>
-            </form>
-            <def>[ɑ̃ṉçəʴḏɑx] Note: witty, funny. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm154552432">
-            <form>
-               <orth>ailleanach</orth>
-               <pron>[ɑlʹɑṉɑx]</pron>
-            </form>
-            <def>[ɑlʹɑṉɑx] Note: shy.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm154555456">
-            <form>
-               <orth>sgiomalagach</orth>
-               <pron>[sɡʹw̃mɑɫɑɡɑx]</pron>
-            </form>
-            <def>[sɡʹw̃mɑɫɑɡɑx] Note: not keeping to the truth.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm154556752">
-            <form>
-               <orth>uisgeal</orth>
-               <pron>[u̟ʃɡʹɑɫ]</pron>
-            </form>
-            <def>[u̟ʃɡʹɑɫ] Quot.: “Thàinig i le uisgeal.” Note: tale of woe.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm154552576">
-            <form>
-               <orth>tafoinnich</orth>
-               <pron>[t̪ɑfɔ̃nʹiç]</pron>
-            </form>
-            <def>[t̪ɑfɔ̃nʹiç] Quot.: “Tha mi air mo thafoinneachadh.” Note: wearied, harassed.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40583528">
-            <form>
-               <orth>manntach</orth>
-            </form>
-            <def>Note: backward in speech.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40585040">
-            <form>
-               <orth>siulla</orth>
-               <pron>[ʃu̜ɫə]</pron>
-            </form>
-            <def>[ʃu̜ɫə] Note: male sperm in fish.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40584896">
-            <form>
-               <orth>giùiride</orth>
-               <pron>[ɡʹu̟:ɾidʹə]</pron>
-            </form>
-            <def>[ɡʹu̟:ɾidʹə] Note: the shellfish encrusted on the underside of boats or on wood that has been afloat for a time.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40593680">
-            <form>
-               <orth>reudan</orth>
-               <pron>[re:d̪ɑṉ]</pron>
-            </form>
-            <def>[re:d̪ɑṉ] Note: the insect which bores holes in wood which floats on the sea.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37596304">
-            <form>
-               <orth>buail-an-t-òrd</orth>
-            </form>
-            <def>Note: a kind of beetle which, if its head is kept down, lifts and drops its body hammer-fashion.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37679752">
-            <form>
-               <orth>leumrach-uaine</orth>
-            </form>
-            <def>Note: grass-hopper.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm39864928">
-            <form>
-               <orth>ath-rusg</orth>
-               <pron>[ˈɑɾu̟sɡ]</pron>
-            </form>
-            <def>[ˈɑɾu̟sɡ] Quot.: “a’ tilgeil ath-rusg”. Note: old skin peeling off.</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm39862984">
-            <form>
-               <orth>rubadh</orth>
-               <pron>[ru̜bəɣ]</pron>
-            </form>
-            <def>[ru̜bəɣ] Note: earmark. A single cut down the tip of the ear.  “Dà rubadh”, in Crowlista, unlike the West Side, is applied to two parallel cuts down the tip of the ear.  (Trí rubaidh in Barvas.)</def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm39861040">
-            <form>
-               <orth>gearradh-crabhcan</orth>
-            </form>
-            <def>Note: earmark. <graphic url="CrowlistaKNicolsonmiscillust3.jpg" width="100px"/>
-            </def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm39859528">
-            <form>
-               <orth>sùlag</orth>
-               <pron>[su̜:ɫɑɡ]</pron>
-            </form>
-            <def>[su̜:ɫɑɡ] Note: earmark. </def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm39857800">
-            <form>
-               <orth>geugan</orth>
-               <pron>[ɡʹe:ɡɑn]</pron>
-            </form>
-            <def>[ɡʹe:ɡɑn] Note: earmark. </def>
-         </entry>
-         <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm39856072">
-            <form>
-               <orth>gearradh-snàit</orth>
-               <pron>[ɡʹɑrəɣsn̪ɑ̃:tʹ]</pron>
-            </form>
-            <def>[ɡʹɑrəɣsn̪ɑ̃:tʹ] Note: earmark. Not clear as to what it was. (Ask Murdo MacLeod.)</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>May 1972</date>
+        <location>
+          <placeName>[Lewis], Uig, Crowlista</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>A. J. Smith</persName>
+        </person>
+        <person role="informant">
+          <persName>Kenneth Nicolson</persName>
+          <birth>
+            <placeName>Crowlista</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35458072">
+        <form>
+          <orth>iarunn-cómhtallach</orth>
+          <pron>[ıɤrən̪kõ:hɑɫɑx]</pron>
+        </form>
+        <def>[ıɤrən̪kõ:hɑɫɑx] Note: landing hook for fish.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35456344">
+        <form>
+          <orth>geadag</orth>
+        </form>
+        <def>Note: grilse (young salmon on its first trip back from the sea).</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35454832">
+        <form>
+          <orth>bànag</orth>
+        </form>
+        <def>Note: sea trout.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35453320">
+        <form>
+          <orth>poighleag</orth>
+          <pron>[p[ɤı]</pron>
+        </form>
+        <def>[p[ɤı]lɑɡ] Note: porpoise.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35451160">
+        <form>
+          <orth>tonnag-langainn</orth>
+        </form>
+        <def>Note: young ling.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35449648">
+        <form>
+          <orth>sgleòtag</orth>
+          <pron>[sɡlɔ:t̪ɑɡ]</pron>
+        </form>
+        <def>[sɡlɔ:t̪ɑɡ] Note: a young lythe.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35447920">
+        <form>
+          <orth>cudaig</orth>
+        </form>
+        <def>Note: cuddy, young saithe.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35446408">
+        <form>
+          <orth>smallag</orth>
+        </form>
+        <def>Note: year-old saithe.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35444896">
+        <form>
+          <orth>soithean</orth>
+        </form>
+        <def>Note: saithe in its second year.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35443384">
+        <form>
+          <orth>ucas</orth>
+        </form>
+        <def>Note: fully-grown saithe.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35441872">
+        <form>
+          <orth>cnódan</orth>
+        </form>
+        <def>Note: gurnard.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35440360">
+        <form>
+          <orth>cragan-tràghad</orth>
+        </form>
+        <def>Note: sea-urchin.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35438848">
+        <form>
+          <orth>crosgag</orth>
+        </form>
+        <def>Note: starfish.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35437336">
+        <form>
+          <orth>buirtiachd</orth>
+        </form>
+        <def>Note: jellyfish [bu̜ʴˈṯıɑk] [?]. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35435392">
+        <form>
+          <orth>muirsig</orth>
+          <pron>[mũ̜ʴsiɡʹ]</pron>
+        </form>
+        <def>[mũ̜ʴsiɡʹ] Note: razor-fish. Plural [mu̜ʴsıɡʹəṉ]. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35433232">
+        <form>
+          <orth>sporan-fithich</orth>
+        </form>
+        <def>Note: “mermaid’s pouch”.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35431720">
+        <form>
+          <orth>sporan</orth>
+        </form>
+        <def>Quot.: sporan na crùbaig. Note: crab’s “apron” (flaps on its belly).</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35429128">
+        <form>
+          <orth>cruaidh</orth>
+        </form>
+        <def>Note: stone weighting down one end of the “lion-bheag” or great-line.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35427616">
+        <form>
+          <orth>put</orth>
+          <pron>[pu̟t̪]</pron>
+        </form>
+        <def>[pu̟t̪] Note: the buoy marking the end of the small-line or great-line.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35425816">
+        <form>
+          <orth>ceann-bhall</orth>
+          <pron>[cɑ̃n̪vɑu̜ɫ]</pron>
+        </form>
+        <def>[cɑ̃n̪vɑu̜ɫ] Note: the rope between the “cruaidh” [q.v.] and the “puta” [q.v.] on a great-line or small-line.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35424088">
+        <form>
+          <orth>tulch</orth>
+          <pron>[t̪u̜ɫu̜x]</pron>
+        </form>
+        <def>[t̪u̜ɫu̜x] Note: a clump on the seaweed “mircean” just where the leaf begins.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35422360">
+        <form>
+          <orth>both</orth>
+          <pron>[bɔ]</pron>
+        </form>
+        <def>[bɔ] Note: a beehive dwelling found on the moor.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35420632">
+        <form>
+          <orth>bonnach-bois</orth>
+          <pron>[bɔ̃n̪ɑxbɔʃ]</pron>
+        </form>
+        <def>[bɔ̃n̪ɑxbɔʃ] Note: an oatmeal cake made with the hands (not using a “clàr-fuinne”) about 1" thick and stood beside the fire to bake.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35418904">
+        <form>
+          <orth>ceapaire-tàilleach</orth>
+          <pron>[cɛpəðət̪ɑ:lʹɑx]</pron>
+        </form>
+        <def>[cɛpəðət̪ɑ:lʹɑx] Note: sandwich made of two slices of cheese with butter between them.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35417176">
+        <form>
+          <orth>bonnach-iomanach</orth>
+        </form>
+        <def>Note: given to the person who first saw a cow with the “mulad” before the birth of a calf.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35415664">
+        <form>
+          <orth>smiùradh</orth>
+          <pron>[smȷũ̟:ɾəɣ]</pron>
+        </form>
+        <def>[smȷũ̟:ɾəɣ] Quot.: “a’ smiùradh nan caorach”. Note: smearing sheep with archangel tar, before dipping was introduced.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35413720">
+        <form>
+          <orth>stòl</orth>
+        </form>
+        <def>Quot.: stòl-smiùraidh [st̪ɔɫsmȷũ̟:ɾi]. Note: trestle on which sheep was laid when being smeared with tar.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35410840">
+        <form>
+          <orth>treadh-dhàir</orth>
+          <pron>[t̪ɾɤɣɑ:ð]</pron>
+        </form>
+        <def>[t̪ɾɤɣɑ:ð] Note: (spelling?) this was when a cow was taken to the bull a week after having been already. Some people didn’t believe in doing this but others maintained that if this was
+          done, there would be no need of the bull’s service again.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35409112">
+        <form>
+          <orth>dòrn-bhuar</orth>
+          <pron>[d̪ɔ:ʴṉvu̟ɤɾ]</pron>
+        </form>
+        <def>[d̪ɔ:ʴṉvu̟ɤɾ] Quot.: “a’ toirt a mach an dòrn-bhuar”. Note: a competition or test of strength tried when a cow had been killed. This consisted of trying to take the hoof off by twisting
+          it until the first joint gave way and then the skin. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35407024">
+        <form>
+          <orth>sgonnan</orth>
+          <pron>[sɡon̪ɑṉ]</pron>
+        </form>
+        <def>[sɡon̪ɑṉ] Note: the wooden handle on the top stone of a quern for putting it round.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35405296">
+        <form>
+          <orth>sùil</orth>
+        </form>
+        <def>Note: the “eye” of the quern – the hole in the centre.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35403712">
+        <form>
+          <orth>mialaire</orth>
+          <pron>[mĩɔ̃ɫəðə]</pron>
+        </form>
+        <def>[mĩɔ̃ɫəðə] Note: the pivot on which the top stone rests in a quern.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35401912">
+        <form>
+          <orth>òrd-breacaidh</orth>
+        </form>
+        <def>Note: hammer used to roughen the faces of the two quern-stones.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35400328">
+        <form>
+          <orth>eibhleag</orth>
+        </form>
+        <def>Note: ember. Pronounced: [ȷɤu̟lɑɡ].</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35397664">
+        <form>
+          <orth>sgairt</orth>
+          <pron>[sɡɑʴsṯ]</pron>
+        </form>
+        <def>[sɡɑʴsṯ] Note: peritoneum. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35395792">
+        <form>
+          <orth>streabhainn</orth>
+          <pron>[st̪ɾɛvĩnʹ]</pron>
+        </form>
+        <def>[st̪ɾɛvĩnʹ] Note: membrane of any kind – e.g. the lining inside an eggshell.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35394064">
+        <form>
+          <orth>claimhean</orth>
+          <pron>[kɫ[ɑ̃ĩ]</pron>
+        </form>
+        <def>[kɫ[ɑ̃ĩ]vɑṉ] Note: bolt on a door.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35391904">
+        <form>
+          <orth>sgairt</orth>
+        </form>
+        <def>Quot.: “sgairt gaoith”. Note: a strong cold wind.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35390176">
+        <form>
+          <orth>sgairteil</orth>
+        </form>
+        <def>Quot.: duine sgairteil. Note: eloquent.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35388448">
+        <form>
+          <orth>priosgadh</orth>
+          <pron>[pðısɡəɣ]</pron>
+        </form>
+        <def>[pðısɡəɣ] Note: a sudden start, fright.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35386720">
+        <form>
+          <orth>priosg</orth>
+          <pron>[pðısɡ]</pron>
+        </form>
+        <def>[pðısɡ] Quot.: “Phriosg e.” Note: He gave a sudden start.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35384776">
+        <form>
+          <orth>cuglaidh</orth>
+          <pron>[ku̜ɡəɫi]</pron>
+        </form>
+        <def>[ku̜ɡəɫi] Note: unstable.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35383048">
+        <form>
+          <orth>claimhearachd</orth>
+          <pron>[kɫ[ɑ̃ĩ]</pron>
+        </form>
+        <def>[kɫ[ɑ̃ĩ]vɑðɑxk] Quot.: “Tha an crodh a’ claimhearachd.” Note: sparring with their horns but not actually fighting.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35380600">
+        <form>
+          <orth>claimhreachd</orth>
+          <pron>[kɫ[ɑ̃ĩ]</pron>
+        </form>
+        <def>[kɫ[ɑ̃ĩ]ɾɑxk] Same as claimhearachd [q.v.].</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35378440">
+        <form>
+          <orth>rabhlagach</orth>
+          <pron>[rɑu̜ɫɑɡɑx]</pron>
+        </form>
+        <def>[rɑu̜ɫɑɡɑx] Note: ragged, untidy.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35376712">
+        <form>
+          <orth>taod</orth>
+          <pron>[t̪w:d̪]</pron>
+        </form>
+        <def>[t̪w:d̪] Quot.: “a’ deanamh taod a ròineag.” Note: grossly exaggerating; making a mountain out of a molehill.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35374768">
+        <form>
+          <orth>ròineag</orth>
+        </form>
+        <def>as above [i.e. taod].</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35372392">
+        <form>
+          <orth>peithir</orth>
+          <pron>[pɛhəð]</pron>
+        </form>
+        <def>[pɛhəð] Note: thunderbolt.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35370664" type="person">
+        <form>
+          <orth>seana-chumail</orth>
+          <pron>[ʃw̃ṉəxw̃mɑl]</pron>
+        </form>
+        <def>[ʃw̃ṉəxw̃mɑl] Note: a child who speaks older than his years.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35368936" type="person">
+        <form>
+          <orth>cumailtiche</orth>
+          <pron>[kũ̟mɑlʹtʹiçə]</pron>
+        </form>
+        <def>[kũ̟mɑlʹtʹiçə] Note: an old person who is active and young-looking for his years.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35367208">
+        <form>
+          <orth>annsporag</orth>
+          <pron>[ɑ̃ũ̟spɔɾɑɡ]</pron>
+        </form>
+        <def>[ɑ̃ũ̟spɔɾɑɡ] Note: the part (including the “sgòrnan”) that came out attached to a cow’s tongue when removed from a carcase. Mostly made up of fat.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35365480">
+        <form>
+          <orth>ubh-mille-fithich</orth>
+          <pron>[u̟mĩlʹəfiiç]</pron>
+        </form>
+        <def>[u̟mĩlʹəfiiç] Note: a very small egg laid by a hen – usually when coming to the end of her laying life.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35363752">
+        <form>
+          <orth>maothallan</orth>
+          <pron>[mw̃:həɫɑṉ]</pron>
+        </form>
+        <def>[mw̃:həɫɑṉ] Note: cartilage in a joint.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35362024">
+        <form>
+          <orth>màm</orth>
+        </form>
+        <def>Note: (1) a swollen gland, e.g. under the armpit or at the top of the thigh. (2) also used for rounded hills on the moor.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35360296">
+        <form>
+          <orth>déisbeid</orth>
+          <pron>[dʹe:ʃbɑdʹ]</pron>
+        </form>
+        <def>[dʹe:ʃbɑdʹ] Note: a fester at the root of the nail. Can come up very quickly and perhaps come to a head the same day.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35358568">
+        <form>
+          <orth>at</orth>
+        </form>
+        <def>Quot.: “at caoich”. Note: a septic swelling that appears and comes to a head very quickly. (Put also under caoch.)</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35355832">
+        <form>
+          <orth>màthair-ghuire</orth>
+        </form>
+        <def>Note: core of a boil or carbuncle.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35354320">
+        <form>
+          <orth>geugaire</orth>
+          <pron>[ɡʹe:ɡəðə]</pron>
+        </form>
+        <def>[ɡʹe:ɡəðə] Note: something to which a boat-rope is tied at a landing place. Could be a stone or between two stones where they are in contact.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35352592">
+        <form>
+          <orth>seipean</orth>
+          <pron>[ʃepɑṉ]</pron>
+        </form>
+        <def>[ʃepɑṉ] Note: a quart.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35350864">
+        <form>
+          <orth>ailbhe</orth>
+          <pron>[ɛlɛvə]</pron>
+        </form>
+        <def>[ɛlɛvə] Quot.: “Fhuair thu ’n [ɛlɛvə].” Note: a thing so small one can hardly see it. Above said if a person was given a very small amount of something.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm35348632">
+        <form>
+          <orth>eòlan</orth>
+          <pron>[ȷɔ:ɫɑṉ]</pron>
+        </form>
+        <def>[ȷɔ:ɫɑṉ] Note: lubricating oil put on wool.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41773016">
+        <form>
+          <orth>ùradh</orth>
+          <pron>[u̟:ɾəɣ]</pron>
+        </form>
+        <def>[u̟:ɾəɣ] Quot.: “a’ toirt na stocainnean as an ùradh”. Note: washing them to take the oil out.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41775608">
+        <form>
+          <orth>fuidheag</orth>
+        </form>
+        <def>Note: piece at the beginning of a tweed and the end of the one in the loom previous to it, where the ends of the yarn are tied. Removed when the new warp is taken through and a piece of
+          it woven.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41776256">
+        <form>
+          <orth>cothrom</orth>
+        </form>
+        <def>Quot.: “na cothroman”. Note: weights behind the loom to keep a tension on the warp.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41778992">
+        <form>
+          <orth>lunnt</orth>
+          <pron>[ɫ[ɤ̃ũ̜]</pron>
+        </form>
+        <def>[ɫ[ɤ̃ũ̜]n̪t̪] Quot.: “lunnt a’ ghuirmein”. Note: dye solution.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41780216">
+        <form>
+          <orth>linne</orth>
+        </form>
+        <def>Quot.: “linne a’ ghuirmein”. Note: sometimes used for dye solution.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41783168">
+        <form>
+          <orth>smàg</orth>
+        </form>
+        <def>Note: the open hand.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41785328">
+        <form>
+          <orth>smàglach</orth>
+        </form>
+        <def>Note: a handful.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41787128">
+        <form>
+          <orth>cròglach</orth>
+        </form>
+        <def>Note: a handful.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41787488">
+        <form>
+          <orth>ball</orth>
+        </form>
+        <def>Quot.: “ball cainb”. Note: hemp rope.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41789360">
+        <form>
+          <orth>còcrach</orth>
+        </form>
+        <def>Quot.: “ball còcrach”. Note: jute?</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41791160">
+        <form>
+          <orth>driamlach</orth>
+          <pron>[d̪ɾĩɤ̃məɫɑx]</pron>
+        </form>
+        <def>[d̪ɾĩɤ̃məɫɑx] Quot.: “driamlach-slait”. Note: fishing line.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41793392">
+        <form>
+          <orth>friodhan</orth>
+          <pron>[fðwɣɑ̃ṉ]</pron>
+        </form>
+        <def>[fðwɣɑ̃ṉ] Note: (1) barb of hook. (2) pig’s bristle used as tip for “sreangan” when stitching shoes.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41795696">
+        <form>
+          <orth>bois</orth>
+        </form>
+        <def>Quot.: “bois an dubhain”. Note: the flat part at the end of a hook.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41797424">
+        <form>
+          <orth>rèileadh</orth>
+        </form>
+        <def>Note: the part of the “snòt” tied round the hook.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41798072">
+        <form>
+          <orth>tràsg</orth>
+          <pron>[t̪ɾɑ:sɡ]</pron>
+        </form>
+        <def>[t̪ɾɑ:sɡ] Quot.: “Cho tioram ris an tràsg.” Note: the straw in the kiln on which seed was put for drying.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41800232">
+        <form>
+          <orth>tìreadh</orth>
+        </form>
+        <def>Quot.: “a’ tìreadh a’ ghràin”. Note: drying the grain in the kiln.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41801816">
+        <form>
+          <orth>eiteal</orth>
+          <pron>[etʹɑɫ]</pron>
+        </form>
+        <def>[etʹɑɫ] Note: probably “aiteal” pronounced like this. A dry spell between two showers.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41804840">
+        <form>
+          <orth>breaca-sianan</orth>
+        </form>
+        <def>Note: freckles.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41806712">
+        <form>
+          <orth>miolan-crion</orth>
+        </form>
+        <def>Note: KN says eczema.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41808296">
+        <form>
+          <orth>bad-seirc</orth>
+        </form>
+        <def>Note: beauty spot on the face. (Heard it used once.)</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41809736">
+        <form>
+          <orth>einneach</orth>
+          <pron>[enʹɑx]</pron>
+        </form>
+        <def>[enʹɑx] Quot.: “einneach fraoich”. Note: the stumps of heather in a burnt area.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41811248">
+        <form>
+          <orth>suagraid</orth>
+        </form>
+        <def>Quot.: “suagraid de lit, etc.” Note: a very thick mixture.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41812760">
+        <form>
+          <orth>blèiream</orth>
+          <pron>[blɛ:ɾəm]</pron>
+        </form>
+        <def>[blɛ:ɾəm] Note: jargon.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41815280">
+        <form>
+          <orth>ruinnse</orth>
+          <pron>[rɤ̃ĩʃ]</pron>
+        </form>
+        <def>[rɤ̃ĩʃ] Note: the projection at the end of the spine.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41817080">
+        <form>
+          <orth>ullanaich</orth>
+        </form>
+        <def>Quot.: “ag ullanachadh duine ann a’ leabaidh”. Note: shifting a person’s position in bed to make him more comfortable.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41818232">
+        <form>
+          <orth>anasgair</orth>
+          <pron>[ɑ̃nɑsɡəð]</pron>
+        </form>
+        <def>[ɑ̃nɑsɡəð] Quot.: “àite anasgair”. Note: “an-sheasgair”. An exposed place.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41819744">
+        <form>
+          <orth>drith-thothainn</orth>
+          <pron>[d̪ɾıhɔhĩnʹ]</pron>
+        </form>
+        <def>[d̪ɾıhɔhĩnʹ] Quot.: “Chaidh e na [ɣɾıhɔhĩnʹ].” “Tha mi na mo [ɣɾıhɔhĩnʹ].” Note: in a flat spin. Equivalent of “treathail” in Barvas.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41823632">
+        <form>
+          <orth>seanntaich</orth>
+          <pron>[ʃw̃:n̪t̪iç]</pron>
+        </form>
+        <def>[ʃw̃:n̪t̪iç] Quot.: “Tha am biadh a [ʃw̃:n̪t̪ɑxəɣ] air an teine.” Note: food spoiling on the fire from being left too long. (spelling?)</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41825936" type="person">
+        <form>
+          <orth>monaiseach</orth>
+          <pron>[mɔ̃ṉɑʃɑx]</pron>
+        </form>
+        <def>[mɔ̃ṉɑʃɑx] Note: having a couldn’t-care-less attitude.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41827376">
+        <form>
+          <orth>mulcach</orth>
+        </form>
+        <def>Note: bulky.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41829248">
+        <form>
+          <orth>lanaicneadh</orth>
+          <pron>[ɫɑ̃ṉɑcṉəɣ]</pron>
+        </form>
+        <def>[ɫɑ̃ṉɑcṉəɣ] Quot.: “Bha ’n cù air e fhéin a lanaicneadh as a pholl.” Note: had covered himself in mud by rolling in it.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41831696">
+        <form>
+          <orth>ceum-letha</orth>
+        </form>
+        <def>Quot.: “Thug e ceum-letha nuair a bha e a feuchainn an dòrnaig.” Note: stepping over the line. Also exaggerating when telling a story. “Leig e ceum-letha.”</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41833568">
+        <form>
+          <orth>lì</orth>
+          <pron>[lʹi:]</pron>
+        </form>
+        <def>[lʹi:] Note: a film on the surface of liquid.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41834504">
+        <form>
+          <orth>stiam</orth>
+          <pron>[ʃtʹĩɑ̃m]</pron>
+        </form>
+        <def>[ʃtʹĩɑ̃m] Quot.: “Tha stiam as an ùth aig a bhoin an deidh dhith breith.” Note: some kind of matter in the udder of cows that have newly calved, causing a certain blockage of the milk
+          ducts. Udder felt lumpy.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41836448" type="person">
+        <form>
+          <orth>luidsear</orth>
+          <pron>[ɫudʹʃɑð]</pron>
+        </form>
+        <def>[ɫudʹʃɑð] Note: a clumsy person who is always dropping things.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41838896">
+        <form>
+          <orth>pliutag</orth>
+        </form>
+        <def>Note: a light cuff with the back of the hand.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41841344">
+        <form>
+          <orth>leób</orth>
+          <pron>[lʹo:b]</pron>
+        </form>
+        <def>[lʹo:b] Note: a piece of cultivated ground. “Feannag” understood here as being narrower than the “leób”.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41843216">
+        <form>
+          <orth>triaill</orth>
+          <pron>[t̪ɾıɑlʹ]</pron>
+        </form>
+        <def>[t̪ɾıɑlʹ] Quot.: “Chaidh e feir a thriaill.” Note: He lost his balance.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41844296">
+        <form>
+          <orth>gibearnach</orth>
+        </form>
+        <def>Note: cuttle-fish.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41846024">
+        <form>
+          <orth>cnaimh-rionnach</orth>
+          <pron>[kɾɛ̃:vrũ̜n̪ɑx]</pron>
+        </form>
+        <def>[kɾɛ̃:vrũ̜n̪ɑx] Note: horse-mackerel.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41847536">
+        <form>
+          <orth>seursag</orth>
+          <pron>[ʃiɑʴsɑɡ]</pron>
+        </form>
+        <def>[ʃiɑʴsɑɡ] Note: grilse. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41849408">
+        <form>
+          <orth>càpraid</orth>
+        </form>
+        <def>Note: hustle and bustle, turmoil.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm41851136">
+        <form>
+          <orth>rasanta</orth>
+        </form>
+        <def>Note: bold, brash.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37318528">
+        <form>
+          <orth>gurruban</orth>
+          <pron>[ɡu̜rubɑṉ]</pron>
+        </form>
+        <def>[ɡu̜rubɑṉ] Quot.: “Bha i na gurruban as a’ chòrnair.” Note: in a hunched position.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37345528" type="person">
+        <form>
+          <orth>claidsear</orth>
+          <pron>[kɫɑdʹʃoð]</pron>
+        </form>
+        <def>[kɫɑdʹʃoð] Note: a big, heavy man.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37345600">
+        <form>
+          <orth>smobag</orth>
+        </form>
+        <def>Note: light cuff.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37327096">
+        <form>
+          <orth>sabhtag</orth>
+        </form>
+        <def>Note: a blow to the side as given by a cow with its horns.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37322344">
+        <form>
+          <orth>rath-dorch</orth>
+        </form>
+        <def>Note: the dark period in the moon’s cycle.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37334080">
+        <form>
+          <orth>spùisil</orth>
+          <pron>[spu̟:ʃilʹ]</pron>
+        </form>
+        <def>[spu̟:ʃilʹ] Note: “Pòcaid ann an cliathaich còta drògaid.”</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37323568">
+        <form>
+          <orth>iung</orth>
+          <pron>[ȷɛ̃ɣ]</pron>
+        </form>
+        <def>[ȷɛ̃ɣ] Quot.: “Bheir mise ort gu sìn thu d’iungan [d̪ȷɛ̃ɣəṉ].” Note: “I’ll make you get a move on.” Seems to be synonymous with “casan” here but “iung” is used as the triangular piece of
+          cloth sewn into a garment (e.g. a skirt) to let it out. Also used of a horse kicking – “Leig e [ȷɛ̃ɣ].”</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37303336" type="person">
+        <form>
+          <orth>iungarra</orth>
+          <pron>[ȷɛ̃ɣɑrə]</pron>
+        </form>
+        <def>[ȷɛ̃ɣɑrə] Note: Also “duine iungarra” – a crabbit person.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37306072">
+        <form>
+          <orth>buairich</orth>
+          <pron>[bu̟ɤɾiç]</pron>
+        </form>
+        <def>[bu̟ɤɾiç] Quot: “Buairich do chas.” Note: said to a cow to make it take its two hind legs together for tying.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37322776">
+        <form>
+          <orth>eilghidh</orth>
+          <pron>[elei]</pron>
+        </form>
+        <def>[elei] Quot.: “ag eilghidh na talmhainn ann an dùmhlachd na bliadhna”. Note: first ploughing in winter to break up the soil. Turned in the spring for sowing.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37324936">
+        <form>
+          <orth>talamh</orth>
+        </form>
+        <def>Quot.: “talamh eilghidh”. Note: ground which has been ploughed for the first time in winter. (To be turned again later for sowing.)</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37342360">
+        <form>
+          <orth>sabhach</orth>
+        </form>
+        <def>Quot.: “sabhach an taireisgeir”. Note: the wooden shaft of the peat-cutting iron.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37333576">
+        <form>
+          <orth>osan</orth>
+        </form>
+        <def>Quot.: “osan an taireisgeir”. Note: the iron socket into which the wooden shaft fits.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37304488">
+        <form>
+          <orth>atach</orth>
+        </form>
+        <def>Quot.: “Chunna mi an atach aice.” Note: the useless remains of anything.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37290304">
+        <form>
+          <orth>geallabhall</orth>
+          <pron>[ɡʹɑɫəvɑɫ]</pron>
+        </form>
+        <def>[ɡʹɑɫəvɑɫ] Note: name given to a fairly thin layer of peat on stony ground. Hard and dry and can be taken directly home to be burnt. Common in Uig.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37325368">
+        <form>
+          <orth>eileabanachd</orth>
+        </form>
+        <def>Note: mischief, trickery.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37318960">
+        <form>
+          <orth>peiricleadh</orth>
+          <pron>[pɛɾicləɣ]</pron>
+        </form>
+        <def>[pɛɾicləɣ] Quot.: “Tha na [pɛɾicləṉ] air.” Note: death throes.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37346392">
+        <form>
+          <orth>poca-buidhe</orth>
+        </form>
+        <def>Note: tripe (usually of deer).</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37307152">
+        <form>
+          <orth>ireasglach</orth>
+          <pron>[ˈiðəsɡɫɑx]</pron>
+        </form>
+        <def>[ˈiðəsɡɫɑx] Quot.: “Ireasglaich bhradaich!” Note: term of contempt. Thought of as having something to do with disfigurement of the legs.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37299520">
+        <form>
+          <orth>fosglan</orth>
+        </form>
+        <def>Note: structure like a porch in front of a blackhouse or shieling.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37335376">
+        <form>
+          <orth>monagnaidh</orth>
+          <pron>[mɔ̃ṉɑɡṉi]</pron>
+        </form>
+        <def>[mɔ̃ṉɑɡṉi] Quot.: “Tha an fheòil seo monagnaidh.” Note: beginning to deteriorate.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37326592">
+        <form>
+          <orth>ceannabheairt</orth>
+        </form>
+        <def>Note: (1) headgear. (2) sails and masts of a boat.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37306216">
+        <form>
+          <orth>guailleachan</orth>
+          <pron>[ɡu̟ɤlʹɑxɑṉ]</pron>
+        </form>
+        <def>[ɡu̟ɤlʹɑxɑṉ] Note: shoulder plaid.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37337536">
+        <form>
+          <orth>breacan-guaille</orth>
+        </form>
+        <def>Note: shoulder plaid.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37299016">
+        <form>
+          <orth>fargnaich</orth>
+          <pron>[fɑɾɑɡṉĩç]</pron>
+        </form>
+        <def>[fɑɾɑɡṉĩç] Quot.: “Dh’fhargnaich iad an grunn eisge.” Note: empty, clear out.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37316944">
+        <form>
+          <orth>an-furais</orth>
+          <pron>[ɑ̃ṉfu̟ɾɑʃ]</pron>
+        </form>
+        <def>[ɑ̃ṉfu̟ɾɑʃ] Quot.: “’S tu a tha ’s an an-furais.” Note: impatience, restlessness.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37311760">
+        <form>
+          <orth>fritheir</orth>
+          <pron>[fðıhəð]</pron>
+        </form>
+        <def>[fðıhəð] Note: weak, fragile. Could say of a person: “Tha e fritheir air a chasan ’n deidh tinneas.”</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37336672">
+        <form>
+          <orth>gàdag</orth>
+          <pron>[ɡɑ:d̪ɑɡ]</pron>
+        </form>
+        <def>[ɡɑ:d̪ɑɡ] Quot.: “gàdag coirce”, “gadag eòrna”, “gàdag feòir”. Note: a measure for a quantity of oats, barley or hay. Also applied to the rope itself of length “dà aitheamh ’s dà
+          dhòrn”.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37340488" type="bird">
+        <form>
+          <orth>pullastair</orth>
+          <pron>[pu̜ɫəst̪ɑð]</pron>
+        </form>
+        <def>[pu̜ɫəst̪ɑð] Note: fulmar.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37301680">
+        <form>
+          <orth>sgafant</orth>
+          <pron>[sɡɑfɑn̪t̪]</pron>
+        </form>
+        <def>[sɡɑfɑn̪t̪] Note: lively.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40436520">
+        <form>
+          <orth>polla</orth>
+          <pron>[poɫə]</pron>
+        </form>
+        <def>[poɫə] Quot.: “Bha mi aig an tigh polla.” Note: a spell.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40432920">
+        <form>
+          <orth>amhlaidh</orth>
+        </form>
+        <def>Quot.: “air an amhlaidh cheudna”. Note: in like manner.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40431408">
+        <form>
+          <orth>sléiteach</orth>
+        </form>
+        <def>Quot.: “Tha an coirce ’na shléitich.” Note: flat on the ground. “Sléiteach” also said to be an illness in cattle. Not sure what it was.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40440264">
+        <form>
+          <orth>cródach</orth>
+        </form>
+        <def>Note: illness in cattle involving soreness in the bones. Usually among young animals in bad weather. [Cf. mulachd.]</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40440336">
+        <form>
+          <orth>mulachd</orth>
+          <pron>[mũɫɑxk]</pron>
+        </form>
+        <def>[mũɫɑxk] Note: another term for soreness of bones among young animals (cattle) in bad weather. [Cf. cródach.]</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40444224" type="person">
+        <form>
+          <orth>gearraiseach</orth>
+          <pron>[ɡʹɑɾɑʃɑx]</pron>
+        </form>
+        <def>[ɡʹɑɾɑʃɑx] Quot.: “duine gearraiseach”. Note: an argumentative man.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40420320">
+        <form>
+          <orth>punnt-bàn</orth>
+        </form>
+        <def>Note: a grass like rye-grass. Seen often in a fallow field where oats had been planted.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40421688">
+        <form>
+          <orth>buillig</orth>
+          <pron>[bu̟lʹiɡ]</pron>
+        </form>
+        <def>[bu̟lʹiɡ] Note: wild oats.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40424856">
+        <form>
+          <orth>bigearram</orth>
+          <pron>[biɡʹərəm]</pron>
+        </form>
+        <def>[biɡʹərəm] Note: the death watch beetle.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40423992">
+        <form>
+          <orth>grobhaich</orth>
+        </form>
+        <def>Note: dirty (vb).</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40426008">
+        <form>
+          <orth>grobhail</orth>
+          <pron>[ɡɾɔvɑl]</pron>
+        </form>
+        <def>[ɡɾɔvɑl] Note: dirty (adj.).</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40431264">
+        <form>
+          <orth>drobhsadh</orth>
+          <pron>[d̪ɾɤu̟səɣ]</pron>
+        </form>
+        <def>[d̪ɾɤu̟səɣ] Note: grilling, toasting.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40433352">
+        <form>
+          <orth>teóthadh</orth>
+          <pron>[tʹo:əɣ]</pron>
+        </form>
+        <def>[tʹo:əɣ] Quot.: “Chaneil teóthadh air a’ bhuntàta seo.” Note: “These potatoes haven’t warmed.”</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40437024" type="person">
+        <form>
+          <orth>an-cheardach</orth>
+          <pron>[ɑ̃ṉçəʴḏɑx]</pron>
+        </form>
+        <def>[ɑ̃ṉçəʴḏɑx] Note: witty, funny. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm154552432" type="person">
+        <form>
+          <orth>ailleanach</orth>
+          <pron>[ɑlʹɑṉɑx]</pron>
+        </form>
+        <def>[ɑlʹɑṉɑx] Note: shy.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm154555456">
+        <form>
+          <orth>sgiomalagach</orth>
+          <pron>[sɡʹw̃mɑɫɑɡɑx]</pron>
+        </form>
+        <def>[sɡʹw̃mɑɫɑɡɑx] Note: not keeping to the truth.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm154556752">
+        <form>
+          <orth>uisgeal</orth>
+          <pron>[u̟ʃɡʹɑɫ]</pron>
+        </form>
+        <def>[u̟ʃɡʹɑɫ] Quot.: “Thàinig i le uisgeal.” Note: tale of woe.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm154552576">
+        <form>
+          <orth>tafoinnich</orth>
+          <pron>[t̪ɑfɔ̃nʹiç]</pron>
+        </form>
+        <def>[t̪ɑfɔ̃nʹiç] Quot.: “Tha mi air mo thafoinneachadh.” Note: wearied, harassed.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40583528" type="person">
+        <form>
+          <orth>manntach</orth>
+        </form>
+        <def>Note: backward in speech.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40585040">
+        <form>
+          <orth>siulla</orth>
+          <pron>[ʃu̜ɫə]</pron>
+        </form>
+        <def>[ʃu̜ɫə] Note: male sperm in fish.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40584896">
+        <form>
+          <orth>giùiride</orth>
+          <pron>[ɡʹu̟:ɾidʹə]</pron>
+        </form>
+        <def>[ɡʹu̟:ɾidʹə] Note: the shellfish encrusted on the underside of boats or on wood that has been afloat for a time.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm40593680">
+        <form>
+          <orth>reudan</orth>
+          <pron>[re:d̪ɑṉ]</pron>
+        </form>
+        <def>[re:d̪ɑṉ] Note: the insect which bores holes in wood which floats on the sea.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37596304">
+        <form>
+          <orth>buail-an-t-òrd</orth>
+        </form>
+        <def>Note: a kind of beetle which, if its head is kept down, lifts and drops its body hammer-fashion.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm37679752">
+        <form>
+          <orth>leumrach-uaine</orth>
+        </form>
+        <def>Note: grass-hopper.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm39864928">
+        <form>
+          <orth>ath-rusg</orth>
+          <pron>[ˈɑɾu̟sɡ]</pron>
+        </form>
+        <def>[ˈɑɾu̟sɡ] Quot.: “a’ tilgeil ath-rusg”. Note: old skin peeling off.</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm39862984">
+        <form>
+          <orth>rubadh</orth>
+          <pron>[ru̜bəɣ]</pron>
+        </form>
+        <def>[ru̜bəɣ] Note: earmark. A single cut down the tip of the ear. “Dà rubadh”, in Crowlista, unlike the West Side, is applied to two parallel cuts down the tip of the ear. (Trí rubaidh in
+          Barvas.)</def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm39861040">
+        <form>
+          <orth>gearradh-crabhcan</orth>
+        </form>
+        <def>Note: earmark. <graphic url="CrowlistaKNicolsonmiscillust3.jpg" width="100px"/>
+        </def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm39859528">
+        <form>
+          <orth>sùlag</orth>
+          <pron>[su̜:ɫɑɡ]</pron>
+        </form>
+        <def>[su̜:ɫɑɡ] Note: earmark. </def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm39857800">
+        <form>
+          <orth>geugan</orth>
+          <pron>[ɡʹe:ɡɑn]</pron>
+        </form>
+        <def>[ɡʹe:ɡɑn] Note: earmark. </def>
+      </entry>
+      <entry xml:id="AJSmith_CrowlistaKNicolsonmisc-idm39856072">
+        <form>
+          <orth>gearradh-snàit</orth>
+          <pron>[ɡʹɑrəɣsn̪ɑ̃:tʹ]</pron>
+        </form>
+        <def>[ɡʹɑrəɣsn̪ɑ̃:tʹ] Note: earmark. Not clear as to what it was. (Ask Murdo MacLeod.)</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

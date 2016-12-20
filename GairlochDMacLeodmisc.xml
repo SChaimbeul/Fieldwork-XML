@@ -1,55 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="Word-lists_GairlochDMacLeodmisc">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>29/8/1967</date>
-            <location>
-               <placeName>Ross-shire, Gairloch, Achtercairn School</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>Duncan MacLeod</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Word-lists_GairlochDMacLeodmisc-idp161205160">
-            <form>
-               <orth>gobhlag</orth>
-            </form>
-            <def>The confusion over “gobhlag” seems to have arisen through a wrong spelling. Did I really have “goblag” in the paper? It is in fact the “graip” of every Highland croft. I was surprised to find it included among the implements used locally because farther north it would be considered “sloppy” work to have to resort to this. (‘o’ as in ‘bó’) [NOTES: the paper Mr MacLeod refers to is most probably the peat questionnaire of Sgoil Achadh a’ Chairn (Auchtercairn School).]</def>
-         </entry>
-         <entry xml:id="Word-lists_GairlochDMacLeodmisc-idp161206816">
-            <form>
-               <orth>rughan Frangach</orth>
-            </form>
-            <def>“Rughan Frangach” is more complicated. It would seem to be the “learner’s” or “stranger’s” or “foreigner’s” way of making a “rughan”. These amateurs would use the easy method of laying the peat lengthwise instead of on end as in the proper “rughan”. So a child might be told when his “rughan” keeps falling in – “Dean rughan Frangach”. The name is not in common use now however. (I find the local staff know it – delete last sentence.) [NOTES: again, the term appears in the above-mentioned peat questionnaire.]</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Word-lists_GairlochDMacLeodmisc">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>29/8/1967</date>
+        <location>
+          <placeName>Ross-shire, Gairloch, Achtercairn School</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>Duncan MacLeod</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Word-lists_GairlochDMacLeodmisc-idp161205160">
+        <form>
+          <orth>gobhlag</orth>
+        </form>
+        <def>The confusion over “gobhlag” seems to have arisen through a wrong spelling. Did I really have “goblag” in the paper? It is in fact the “graip” of every Highland croft. I was surprised to
+          find it included among the implements used locally because farther north it would be considered “sloppy” work to have to resort to this. (‘o’ as in ‘bó’) [NOTES: the paper Mr MacLeod refers
+          to is most probably the peat questionnaire of Sgoil Achadh a’ Chairn (Auchtercairn School).]</def>
+      </entry>
+      <entry xml:id="Word-lists_GairlochDMacLeodmisc-idp161206816">
+        <form>
+          <orth>rughan Frangach</orth>
+        </form>
+        <def>“Rughan Frangach” is more complicated. It would seem to be the “learner’s” or “stranger’s” or “foreigner’s” way of making a “rughan”. These amateurs would use the easy method of laying
+          the peat lengthwise instead of on end as in the proper “rughan”. So a child might be told when his “rughan” keeps falling in – “Dean rughan Frangach”. The name is not in common use now
+          however. (I find the local staff know it – delete last sentence.) [NOTES: again, the term appears in the above-mentioned peat questionnaire.]</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

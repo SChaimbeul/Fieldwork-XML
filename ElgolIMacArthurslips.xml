@@ -1,456 +1,458 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_ElgolIMacArthurslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>03/1970</date>
-            <location>
-               <placeName>Skye, Elgol</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[AJ Smith?]</persName>
-            </person>
-            <person role="informant">
-               <persName>Iain MacArthur</persName>
-               <age>70s</age>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp115825072">
-            <form>
-               <orth>làmhadh</orth>
-               <pron>[ɫɑ̃:həɣ]</pron>
-            </form>
-            <def>[ɫɑ̃:həɣ] Notes: axe.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp115821904">
-            <form>
-               <orth>leth-bhodach</orth>
-            </form>
-            <def>Notes: ½ bottle of whisky.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp115818808">
-            <form>
-               <orth>mac-samhail</orth>
-               <pron>[mɑ̃xksɑ̃ũ̜ilʹ]</pron>
-            </form>
-            <def>[mɑ̃xksɑ̃ũ̜ilʹ] Quotation: ’S e mac-samhail an fhear sin a th’ann. Notes: He is that man’s very likeness.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp115839400">
-            <form>
-               <orth>maide-tarsuinn</orth>
-            </form>
-            <def>Notes: cross beam between two rafters. <graphic url="ElgolIMacArthurslipsillust1.jpg" width="200px"/>
-            </def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp115841056">
-            <form>
-               <orth>marbhphaisg</orth>
-            </form>
-            <def>Quotation: Marbhphaisg ort!</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp115842568">
-            <form>
-               <orth>mèilich</orth>
-            </form>
-            <def>Notes: bleating.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp115844080">
-            <form>
-               <orth>miagail</orth>
-            </form>
-            <def>Notes: mewing.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp115845592">
-            <form>
-               <orth>mula-mhàgag</orth>
-            </form>
-            <def>Notes: frog.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp115847104">
-            <form>
-               <orth>ruith</orth>
-            </form>
-            <def>Quotation: Tha e a’ ruith air mo theangaidh. Notes: It’s on the tip of my tongue.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp115848760">
-            <form>
-               <orth>sitig</orth>
-            </form>
-            <def>Notes: patch outside where the ashes, dirty water, etc. were thrown.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp115850272">
-            <form>
-               <orth>prannasg</orth>
-            </form>
-            <def>Notes: small broken bits.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp115851784">
-            <form>
-               <orth>saipleis</orth>
-               <pron>[sɛplɛʃ]</pron>
-            </form>
-            <def>[sɛplɛʃ] Notes: soapy water left after washing.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp115853512">
-            <form>
-               <orth>sanais</orth>
-            </form>
-            <def>Notes: a whisper.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp115855024">
-            <form>
-               <orth>séise</orth>
-            </form>
-            <def>Notes: a wooden bench.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp115856536">
-            <form>
-               <orth>seidhir</orth>
-               <pron>[sic]</pron>
-            </form>
-            <def>[sic] Quotation: séidhir gaoirdeanach [ʃe:əɾɡɤ:ʴdʹɑ̃ṉɑx]. Notes: arm chair. [NOTES: the turned r used for the symbol which is unclear in the original.] [NOTES: slipped under ‘seuthar’.]</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp115858696">
-            <form>
-               <orth>sgonnan</orth>
-            </form>
-            <def>Notes: foot-rest on a cas-chrom.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp115860208">
-            <form>
-               <orth>sgùrraich</orth>
-            </form>
-            <def>Quotation: a’ speur a’ sgùrrachadh. Notes: clouding over, threatening.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp115861864">
-            <form>
-               <orth>sliomaire</orth>
-               <pron>[ʃlʹĩməɾə]</pron>
-            </form>
-            <def>[ʃlʹĩməɾə] Notes: a fawning, smarmy person.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp115863592">
-            <form>
-               <orth>staipleis</orth>
-               <pron>[st̪ɛplɛʃ]</pron>
-            </form>
-            <def>[st̪ɛplɛʃ] Quotation: staipleis de lit. Notes: porridge not properly made.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp115865464">
-            <form>
-               <orth>starabraich</orth>
-               <pron>[st̪ɑɾɑbɾiç]</pron>
-            </form>
-            <def>[st̪ɑɾɑbɾiç] Notes: making a general din.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp115867192">
-            <form>
-               <orth>starrag</orth>
-            </form>
-            <def>Quotation: a’ cur starragan roimh dhuine gus nach fhaigheadh e air adhart leis a’ rud a bha e a’ deanamh.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166263112">
-            <form>
-               <orth>sumachadh</orth>
-               <pron>[sũ̜mɔxəɣ]</pron>
-            </form>
-            <def>[sũ̜mɔxəɣ] Quotation: sumachadh deich mairt is trì chaoraich. Notes: souming.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166264984">
-            <form>
-               <orth>sasag</orth>
-            </form>
-            <def>Notes: a chair made from a barrel.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166266496">
-            <form>
-               <orth>taobhaisdean</orth>
-               <pron>[ˈt̪ɤıʃdʹəṉ]</pron>
-            </form>
-            <def>[ˈt̪ɤıʃdʹəṉ] Notes: spaces near the lip of the creel where the rope is tied.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166268296">
-            <form>
-               <orth>taobhan</orth>
-            </form>
-            <def>Notes: three or four “taobhain” put horizontally on a roof on top of the couples.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166269808">
-            <form>
-               <orth>teanga</orth>
-            </form>
-            <def>Quotation: Tha e a’ ruith air mo theangaidh. Notes: It’s on the tip of my tongue.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166271464">
-            <form>
-               <orth>toinnte</orth>
-            </form>
-            <def>Quotation: duine toinnte. Notes: sensible.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166273120">
-            <form>
-               <orth>tomadh</orth>
-            </form>
-            <def>Quotation: a tomadh nan caorach. Notes: dipping sheep.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166274776">
-            <form>
-               <orth>triuthaire</orth>
-               <pron>[t̪ɾu̟həɾə]</pron>
-            </form>
-            <def>[t̪ɾu̟həɾə] Notes: a rascal.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166276504">
-            <form>
-               <orth>usbag</orth>
-            </form>
-            <def>Quotation: na h-usbagan deireannach. Notes: the last gasps of a person dying.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166278160">
-            <form>
-               <orth>aparan</orth>
-            </form>
-            <def>Notes: leaf of wood covering inside of stem-post.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166279672">
-            <form>
-               <orth>asbhuain</orth>
-               <pron>[ɑsvĩnʹ]</pron>
-            </form>
-            <def>[ɑsvĩnʹ] Notes: stubble land.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166281400">
-            <form>
-               <orth>bac</orth>
-            </form>
-            <def>Quotation: na bacan. Notes: wooden blocks used as thole pins. <graphic url="ElgolIMacArthurslipsillust2.jpg" width="300px"/>
-            </def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166283128">
-            <form>
-               <orth>bainne-deasgainn</orth>
-            </form>
-            <def>Notes: curds (milk with rennet added).</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166284640">
-            <form>
-               <orth>balbhanaich</orth>
-            </form>
-            <def>Quotation: Tha rudeigin air cùl a’ bhalbhanaich a tha an seo. Notes: a calm, deadness in the weather.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166286296">
-            <form>
-               <orth>ballan</orth>
-            </form>
-            <def>Notes: a tub.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166287808">
-            <form>
-               <orth>ball-dóbhran</orth>
-            </form>
-            <def>Notes: a mole on the skin.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166289320">
-            <form>
-               <orth>bana-bhuidseach</orth>
-            </form>
-            <def>Notes: a witch.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166290832">
-            <form>
-               <orth>bean-chomhailteach</orth>
-            </form>
-            <def>Notes: bridesmaid.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166292344">
-            <form>
-               <orth>biadhtach</orth>
-               <pron>[biɤt̪ɑx]</pron>
-            </form>
-            <def>[biɤt̪ɑx] Notes: raven.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166294072">
-            <form>
-               <orth>braoisg</orth>
-               <pron>[bɾw:ʃɡʹ]</pron>
-            </form>
-            <def>[bɾw:ʃɡʹ] Quotation: Nach ann oirre a tha a’ bhraoisg. Notes: a big mouth.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166295944">
-            <form>
-               <orth>braonan</orth>
-            </form>
-            <def>Quotation: Tha braonan beag uisge ann. Notes: light rainfall.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166297600">
-            <form>
-               <orth>breacadh-sianan</orth>
-            </form>
-            <def>Notes: freckles.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166299112">
-            <form>
-               <orth>buamastair</orth>
-               <pron>[bu̜ɤməst̪ɑɾ]</pron>
-            </form>
-            <def>[bu̜ɤməst̪ɑɾ] Notes: uncouth man.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166300840">
-            <form>
-               <orth>cabar</orth>
-            </form>
-            <def>Notes: wooden slats laid on top of the “taobhain” and running from wall to ridge.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166302352">
-            <form>
-               <orth>caochan</orth>
-            </form>
-            <def>Quotation: caochan uisge. Notes: a trickle of water.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166304008">
-            <form>
-               <orth>ceann-àrcan</orth>
-            </form>
-            <def>Notes: a blockhead.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166305520">
-            <form>
-               <orth>clisneach</orth>
-            </form>
-            <def>Notes: a rough wooden gate.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166307032">
-            <form>
-               <orth>cniadalan</orth>
-               <pron>[kɾĩɑ̃d̪əɫɑṉ]</pron>
-            </form>
-            <def>[kɾĩɑ̃d̪əɫɑṉ] Notes: moaning, complaining.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166308760">
-            <form>
-               <orth>coingheall</orth>
-               <pron>[kɔ̃ṉɑjɑɫ]</pron>
-            </form>
-            <def>[kɔ̃ṉɑjɑɫ] Notes: a loan.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166310488">
-            <form>
-               <orth>corraiche-cagailte</orth>
-            </form>
-            <def>Notes: glow from embers among the ashes.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166312000">
-            <form>
-               <orth>cuing</orth>
-            </form>
-            <def>Notes: asthma.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166313512">
-            <form>
-               <orth>deann</orth>
-            </form>
-            <def>Quotation: Tha e a’ tighinn na dheannan. Notes: sheets of rain sweeping before the wind.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166315168">
-            <form>
-               <orth>déile</orth>
-            </form>
-            <def>Notes: plank on which a corpse was stretched.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166316680">
-            <form>
-               <orth>droman-eallaich</orth>
-               <pron>[d̪ɾɤumɑnjɑɫiç]</pron>
-            </form>
-            <def>[d̪ɾɤumɑnjɑɫiç] Notes: a spider.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166318408">
-            <form>
-               <orth>eabar</orth>
-               <pron>[ebəɾ]</pron>
-            </form>
-            <def>[ebəɾ] Quotation: Tha e na eabar. Notes: churned up mud.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166320280">
-            <form>
-               <orth>feannag-thaomaidh</orth>
-            </form>
-            <def>Notes: a lazy-bed. About 6' wide. Covered with seaweed. Turf divots turned inwards from the two sides till everything was covered with earth. Holes were made with a dibble and potatoes dropped in. In the autumn the divots were turned back to uncover the potatoes.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166321792">
-            <form>
-               <orth>fosgladh</orth>
-            </form>
-            <def>Quotation: Tha fosglaidhean ann a nochd. Notes: far-off lightning.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166323448">
-            <form>
-               <orth>furm</orth>
-            </form>
-            <def>Notes: a form.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166324960">
-            <form>
-               <orth>gaoisdean</orth>
-            </form>
-            <def>Notes: a hair.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166326472">
-            <form>
-               <orth>gead</orth>
-            </form>
-            <def>Notes: a small plot of arable land.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166327984">
-            <form>
-               <orth>glamaradh</orth>
-            </form>
-            <def>Notes: vice.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166329496">
-            <form>
-               <orth>globastair</orth>
-               <pron>[ɡɫɔbəst̪ɑɾ]</pron>
-            </form>
-            <def>[ɡɫɔbəst̪ɑɾ] Notes: half-wit.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166331224">
-            <form>
-               <orth>grampa</orth>
-               <pron>[ɡɾɑ̃ũ̜mʰə]</pron>
-            </form>
-            <def>[ɡɾɑ̃ũ̜mʰə] Notes: grape.</def>
-         </entry>
-         <entry xml:id="Slips_ElgolIMacArthurslips-idp166332952">
-            <form>
-               <orth>guitear</orth>
-            </form>
-            <def>Notes: byre drain. <graphic url="ElgolIMacArthurslipsillust3.jpg" width="250px"/>
-            </def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>03/1970</date>
+        <location>
+          <placeName>Skye, Elgol</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[AJ Smith?]</persName>
+        </person>
+        <person role="informant">
+          <persName>Iain MacArthur</persName>
+          <age>70s</age>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp115825072">
+        <form>
+          <orth>làmhadh</orth>
+          <pron>[ɫɑ̃:həɣ]</pron>
+        </form>
+        <def>[ɫɑ̃:həɣ] Notes: axe.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp115821904">
+        <form>
+          <orth>leth-bhodach</orth>
+        </form>
+        <def>Notes: ½ bottle of whisky.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp115818808">
+        <form>
+          <orth>mac-samhail</orth>
+          <pron>[mɑ̃xksɑ̃ũ̜ilʹ]</pron>
+        </form>
+        <def>[mɑ̃xksɑ̃ũ̜ilʹ] Quotation: ’S e mac-samhail an fhear sin a th’ann. Notes: He is that man’s very likeness.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp115839400">
+        <form>
+          <orth>maide-tarsuinn</orth>
+        </form>
+        <def>Notes: cross beam between two rafters. <graphic url="ElgolIMacArthurslipsillust1.jpg" width="200px"/>
+        </def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp115841056">
+        <form>
+          <orth>marbhphaisg</orth>
+        </form>
+        <def>Quotation: Marbhphaisg ort!</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp115842568">
+        <form>
+          <orth>mèilich</orth>
+        </form>
+        <def>Notes: bleating.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp115844080">
+        <form>
+          <orth>miagail</orth>
+        </form>
+        <def>Notes: mewing.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp115845592">
+        <form>
+          <orth>mula-mhàgag</orth>
+        </form>
+        <def>Notes: frog.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp115847104">
+        <form>
+          <orth>ruith</orth>
+        </form>
+        <def>Quotation: Tha e a’ ruith air mo theangaidh. Notes: It’s on the tip of my tongue.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp115848760">
+        <form>
+          <orth>sitig</orth>
+        </form>
+        <def>Notes: patch outside where the ashes, dirty water, etc. were thrown.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp115850272">
+        <form>
+          <orth>prannasg</orth>
+        </form>
+        <def>Notes: small broken bits.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp115851784">
+        <form>
+          <orth>saipleis</orth>
+          <pron>[sɛplɛʃ]</pron>
+        </form>
+        <def>[sɛplɛʃ] Notes: soapy water left after washing.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp115853512">
+        <form>
+          <orth>sanais</orth>
+        </form>
+        <def>Notes: a whisper.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp115855024">
+        <form>
+          <orth>séise</orth>
+        </form>
+        <def>Notes: a wooden bench.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp115856536">
+        <form>
+          <orth>seidhir</orth>
+          <pron>[sic]</pron>
+        </form>
+        <def>[sic] Quotation: séidhir gaoirdeanach [ʃe:əɾɡɤ:ʴdʹɑ̃ṉɑx]. Notes: arm chair. [NOTES: the turned r used for the symbol which is unclear in the original.] [NOTES: slipped under
+          ‘seuthar’.]</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp115858696">
+        <form>
+          <orth>sgonnan</orth>
+        </form>
+        <def>Notes: foot-rest on a cas-chrom.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp115860208">
+        <form>
+          <orth>sgùrraich</orth>
+        </form>
+        <def>Quotation: a’ speur a’ sgùrrachadh. Notes: clouding over, threatening.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp115861864">
+        <form>
+          <orth>sliomaire</orth>
+          <pron>[ʃlʹĩməɾə]</pron>
+        </form>
+        <def>[ʃlʹĩməɾə] Notes: a fawning, smarmy person.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp115863592">
+        <form>
+          <orth>staipleis</orth>
+          <pron>[st̪ɛplɛʃ]</pron>
+        </form>
+        <def>[st̪ɛplɛʃ] Quotation: staipleis de lit. Notes: porridge not properly made.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp115865464">
+        <form>
+          <orth>starabraich</orth>
+          <pron>[st̪ɑɾɑbɾiç]</pron>
+        </form>
+        <def>[st̪ɑɾɑbɾiç] Notes: making a general din.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp115867192">
+        <form>
+          <orth>starrag</orth>
+        </form>
+        <def>Quotation: a’ cur starragan roimh dhuine gus nach fhaigheadh e air adhart leis a’ rud a bha e a’ deanamh.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166263112">
+        <form>
+          <orth>sumachadh</orth>
+          <pron>[sũ̜mɔxəɣ]</pron>
+        </form>
+        <def>[sũ̜mɔxəɣ] Quotation: sumachadh deich mairt is trì chaoraich. Notes: souming.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166264984">
+        <form>
+          <orth>sasag</orth>
+        </form>
+        <def>Notes: a chair made from a barrel.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166266496">
+        <form>
+          <orth>taobhaisdean</orth>
+          <pron>[ˈt̪ɤıʃdʹəṉ]</pron>
+        </form>
+        <def>[ˈt̪ɤıʃdʹəṉ] Notes: spaces near the lip of the creel where the rope is tied.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166268296">
+        <form>
+          <orth>taobhan</orth>
+        </form>
+        <def>Notes: three or four “taobhain” put horizontally on a roof on top of the couples.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166269808">
+        <form>
+          <orth>teanga</orth>
+        </form>
+        <def>Quotation: Tha e a’ ruith air mo theangaidh. Notes: It’s on the tip of my tongue.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166271464" type="person">
+        <form>
+          <orth>toinnte</orth>
+        </form>
+        <def>Quotation: duine toinnte. Notes: sensible.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166273120">
+        <form>
+          <orth>tomadh</orth>
+        </form>
+        <def>Quotation: a tomadh nan caorach. Notes: dipping sheep.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166274776" type="person">
+        <form>
+          <orth>triuthaire</orth>
+          <pron>[t̪ɾu̟həɾə]</pron>
+        </form>
+        <def>[t̪ɾu̟həɾə] Notes: a rascal.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166276504">
+        <form>
+          <orth>usbag</orth>
+        </form>
+        <def>Quotation: na h-usbagan deireannach. Notes: the last gasps of a person dying.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166278160">
+        <form>
+          <orth>aparan</orth>
+        </form>
+        <def>Notes: leaf of wood covering inside of stem-post.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166279672">
+        <form>
+          <orth>asbhuain</orth>
+          <pron>[ɑsvĩnʹ]</pron>
+        </form>
+        <def>[ɑsvĩnʹ] Notes: stubble land.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166281400">
+        <form>
+          <orth>bac</orth>
+        </form>
+        <def>Quotation: na bacan. Notes: wooden blocks used as thole pins. <graphic url="ElgolIMacArthurslipsillust2.jpg" width="300px"/>
+        </def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166283128">
+        <form>
+          <orth>bainne-deasgainn</orth>
+        </form>
+        <def>Notes: curds (milk with rennet added).</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166284640">
+        <form>
+          <orth>balbhanaich</orth>
+        </form>
+        <def>Quotation: Tha rudeigin air cùl a’ bhalbhanaich a tha an seo. Notes: a calm, deadness in the weather.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166286296">
+        <form>
+          <orth>ballan</orth>
+        </form>
+        <def>Notes: a tub.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166287808">
+        <form>
+          <orth>ball-dóbhran</orth>
+        </form>
+        <def>Notes: a mole on the skin.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166289320" type="person">
+        <form>
+          <orth>bana-bhuidseach</orth>
+        </form>
+        <def>Notes: a witch.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166290832" type="person">
+        <form>
+          <orth>bean-chomhailteach</orth>
+        </form>
+        <def>Notes: bridesmaid.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166292344" type="bird">
+        <form>
+          <orth>biadhtach</orth>
+          <pron>[biɤt̪ɑx]</pron>
+        </form>
+        <def>[biɤt̪ɑx] Notes: raven.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166294072">
+        <form>
+          <orth>braoisg</orth>
+          <pron>[bɾw:ʃɡʹ]</pron>
+        </form>
+        <def>[bɾw:ʃɡʹ] Quotation: Nach ann oirre a tha a’ bhraoisg. Notes: a big mouth.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166295944">
+        <form>
+          <orth>braonan</orth>
+        </form>
+        <def>Quotation: Tha braonan beag uisge ann. Notes: light rainfall.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166297600">
+        <form>
+          <orth>breacadh-sianan</orth>
+        </form>
+        <def>Notes: freckles.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166299112" type="person">
+        <form>
+          <orth>buamastair</orth>
+          <pron>[bu̜ɤməst̪ɑɾ]</pron>
+        </form>
+        <def>[bu̜ɤməst̪ɑɾ] Notes: uncouth man.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166300840">
+        <form>
+          <orth>cabar</orth>
+        </form>
+        <def>Notes: wooden slats laid on top of the “taobhain” and running from wall to ridge.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166302352">
+        <form>
+          <orth>caochan</orth>
+        </form>
+        <def>Quotation: caochan uisge. Notes: a trickle of water.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166304008">
+        <form>
+          <orth>ceann-àrcan</orth>
+        </form>
+        <def>Notes: a blockhead.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166305520">
+        <form>
+          <orth>clisneach</orth>
+        </form>
+        <def>Notes: a rough wooden gate.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166307032">
+        <form>
+          <orth>cniadalan</orth>
+          <pron>[kɾĩɑ̃d̪əɫɑṉ]</pron>
+        </form>
+        <def>[kɾĩɑ̃d̪əɫɑṉ] Notes: moaning, complaining.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166308760">
+        <form>
+          <orth>coingheall</orth>
+          <pron>[kɔ̃ṉɑjɑɫ]</pron>
+        </form>
+        <def>[kɔ̃ṉɑjɑɫ] Notes: a loan.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166310488">
+        <form>
+          <orth>corraiche-cagailte</orth>
+        </form>
+        <def>Notes: glow from embers among the ashes.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166312000">
+        <form>
+          <orth>cuing</orth>
+        </form>
+        <def>Notes: asthma.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166313512">
+        <form>
+          <orth>deann</orth>
+        </form>
+        <def>Quotation: Tha e a’ tighinn na dheannan. Notes: sheets of rain sweeping before the wind.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166315168">
+        <form>
+          <orth>déile</orth>
+        </form>
+        <def>Notes: plank on which a corpse was stretched.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166316680">
+        <form>
+          <orth>droman-eallaich</orth>
+          <pron>[d̪ɾɤumɑnjɑɫiç]</pron>
+        </form>
+        <def>[d̪ɾɤumɑnjɑɫiç] Notes: a spider.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166318408">
+        <form>
+          <orth>eabar</orth>
+          <pron>[ebəɾ]</pron>
+        </form>
+        <def>[ebəɾ] Quotation: Tha e na eabar. Notes: churned up mud.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166320280">
+        <form>
+          <orth>feannag-thaomaidh</orth>
+        </form>
+        <def>Notes: a lazy-bed. About 6' wide. Covered with seaweed. Turf divots turned inwards from the two sides till everything was covered with earth. Holes were made with a dibble and potatoes
+          dropped in. In the autumn the divots were turned back to uncover the potatoes.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166321792">
+        <form>
+          <orth>fosgladh</orth>
+        </form>
+        <def>Quotation: Tha fosglaidhean ann a nochd. Notes: far-off lightning.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166323448">
+        <form>
+          <orth>furm</orth>
+        </form>
+        <def>Notes: a form.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166324960">
+        <form>
+          <orth>gaoisdean</orth>
+        </form>
+        <def>Notes: a hair.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166326472">
+        <form>
+          <orth>gead</orth>
+        </form>
+        <def>Notes: a small plot of arable land.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166327984">
+        <form>
+          <orth>glamaradh</orth>
+        </form>
+        <def>Notes: vice.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166329496" type="person">
+        <form>
+          <orth>globastair</orth>
+          <pron>[ɡɫɔbəst̪ɑɾ]</pron>
+        </form>
+        <def>[ɡɫɔbəst̪ɑɾ] Notes: half-wit.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166331224">
+        <form>
+          <orth>grampa</orth>
+          <pron>[ɡɾɑ̃ũ̜mʰə]</pron>
+        </form>
+        <def>[ɡɾɑ̃ũ̜mʰə] Notes: grape.</def>
+      </entry>
+      <entry xml:id="Slips_ElgolIMacArthurslips-idp166332952">
+        <form>
+          <orth>guitear</orth>
+        </form>
+        <def>Notes: byre drain. <graphic url="ElgolIMacArthurslipsillust3.jpg" width="250px"/>
+        </def>
+      </entry>
+    </body>
+  </text>
 </TEI>

@@ -1,249 +1,255 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AOHenley_EriskayDMacDonaldmisc">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[1987-88]</date>
-            <location>
-               <placeName>Eriskay, Taobh na Mara</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>A. O’Henley</persName>
-            </person>
-            <person role="informant">
-               <persName>Donald MacDonald</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm242016">
-            <form>
-               <orth>botrachan</orth>
-            </form>
-            <def>a bit of wood under the tail of a horse.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm222504">
-            <form>
-               <orth>stallan</orth>
-            </form>
-            <def>male horse. [NOTES: note added – (from stallion).]</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm228048">
-            <form>
-               <orth>sioman ruadh</orth>
-            </form>
-            <def>manila rope. [NOTES: ‘sioman’ corrected to ‘sìoman’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm229128">
-            <form>
-               <orth>meallthìreach</orth>
-            </form>
-            <def>submerged roots found in dry peaty soil especially in embankments. These roots were used to make ropes.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm232008">
-            <form>
-               <orth>sgalla</orth>
-            </form>
-            <def>a flat rock found on croft land.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm202416">
-            <form>
-               <orth>snàthalain</orth>
-            </form>
-            <def>a sort of ritual performed when an animal was ill. A woollen rope was made by a woman who was known to have mystical powers. As this rope was constructed, knots were tied in it, with the backdrop of prayers being shouted aloud. These women were known to have been physically sick during this ritual and many were known to have fainted. When completed this knotted rope was attached to the animal’s tail and thereafter the illness would be cured. This was fervently believed in, although you could never be one hundred percent sure it was actually responsible for the replenishment of health.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm203568">
-            <form>
-               <orth>glasadh na latha</orth>
-            </form>
-            <def>five in the morning.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm207816">
-            <form>
-               <orth>an torraidh</orth>
-            </form>
-            <def>stealing the milk from someone else’s cattle. Usually done in the early hours of the morning.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm212424">
-            <form>
-               <orth>corp creadha</orth>
-            </form>
-            <def>an effigy constructed with clay from a river and shaped just above the water of that river. Pins were stuck into this and left on the surface. When the river rose the effigy wore away. At that point the pain would be felt by the victim.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm196584">
-            <form>
-               <orth>manaidhean</orth>
-            </form>
-            <def>a premonition, always something that was heard.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idp193120">
-            <form>
-               <orth>taibhs</orth>
-            </form>
-            <def>a premonition which was seen rather than heard.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idp191752">
-            <form>
-               <orth>brèide</orth>
-            </form>
-            <def>bandage.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idp190096">
-            <form>
-               <orth>stràc bheoil</orth>
-            </form>
-            <def>top layer of tummers in a boat.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idp188584">
-            <form>
-               <orth>na saighean</orth>
-            </form>
-            <def>stems.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idp187072">
-            <form>
-               <orth>beul</orth>
-            </form>
-            <def>gunnel.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idp185560">
-            <form>
-               <orth>ceannachraichean</orth>
-            </form>
-            <def>seat supports in a boat (wooden).</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idp184048">
-            <form>
-               <orth>cara</orth>
-            </form>
-            <def>a trap for catching fish at high tide. Placed in the mouth of a river. See earlier description in previous notes. Difference in pronunciation between Uist (caraidh) and Eriskay (cara).</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idp182536">
-            <form>
-               <orth>coire blianain</orth>
-            </form>
-            <def>phosphorescence.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm155176">
-            <form>
-               <orth>teine sionachain</orth>
-            </form>
-            <def>will o’ the wisp. Variant on ‘teine biorach’.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm153664">
-            <form>
-               <orth>claigeann buthta</orth>
-            </form>
-            <def>the stock/head of a buoy.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm152152">
-            <form>
-               <orth>calc</orth>
-            </form>
-            <def>hemp.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm150640">
-            <form>
-               <orth>ròsaid</orth>
-            </form>
-            <def>sap from trees.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm149128">
-            <form>
-               <orth>calcadh</orth>
-            </form>
-            <def>hemp and sap mixed together and used for leaks in boats.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm147544">
-            <form>
-               <orth>cnap eisg</orth>
-            </form>
-            <def>shoal.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm146032">
-            <form>
-               <orth>meall eisg</orth>
-            </form>
-            <def>shoal.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm144520">
-            <form>
-               <orth>fada-cruaidh</orth>
-            </form>
-            <def>a black cloud in the north indicative of bad weather to come.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm142936">
-            <form>
-               <orth>cliath sheanachair</orth>
-            </form>
-            <def>iron tongs. [NOTES: note added above ‘sheanachair’ – (? teanchair).]</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm141208">
-            <form>
-               <orth>iarunn stiùreach</orth>
-            </form>
-            <def>bits of iron associated with the rudder such as gudgeons and pintles.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm138832">
-            <form>
-               <orth>dual</orth>
-            </form>
-            <def>cable pattern in a jersey.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm137320">
-            <form>
-               <orth>fiacaill sàibh</orth>
-            </form>
-            <def>also a feature in Eriskay patterns.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm135808">
-            <form>
-               <orth>crosgag</orth>
-            </form>
-            <def>starfish. Also found in patterns.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm134296">
-            <form>
-               <orth>a’ ghainmheach</orth>
-            </form>
-            <def>an illness affecting the stomach of an animal. Arose from the animal eating docks (copagan), grass roots and sand. Animal would be in great pain and could not rise to its feet. Could only be cured by constant movement such as riding. Could affect cattle but mostly affected horses.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm132784">
-            <form>
-               <orth>fainne pòsda</orth>
-            </form>
-            <def>wedding rings were used to cure styes. Rubbed on the eye.</def>
-         </entry>
-         <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm131200">
-            <form>
-               <orth>greim dubh</orth>
-            </form>
-            <def>appendicitis.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[1987-88]</date>
+        <location>
+          <placeName>Eriskay, Taobh na Mara</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>A. O’Henley</persName>
+        </person>
+        <person role="informant">
+          <persName>Donald MacDonald</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm242016">
+        <form>
+          <orth>botrachan</orth>
+        </form>
+        <def>a bit of wood under the tail of a horse.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm222504">
+        <form>
+          <orth>stallan</orth>
+        </form>
+        <def>male horse. [NOTES: note added – (from stallion).]</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm228048">
+        <form>
+          <orth>sioman ruadh</orth>
+        </form>
+        <def>manila rope. [NOTES: ‘sioman’ corrected to ‘sìoman’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm229128">
+        <form>
+          <orth>meallthìreach</orth>
+        </form>
+        <def>submerged roots found in dry peaty soil especially in embankments. These roots were used to make ropes.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm232008">
+        <form>
+          <orth>sgalla</orth>
+        </form>
+        <def>a flat rock found on croft land.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm202416">
+        <form>
+          <orth>snàthalain</orth>
+        </form>
+        <def>a sort of ritual performed when an animal was ill. A woollen rope was made by a woman who was known to have mystical powers. As this rope was constructed, knots were tied in it, with the
+          backdrop of prayers being shouted aloud. These women were known to have been physically sick during this ritual and many were known to have fainted. When completed this knotted rope was
+          attached to the animal’s tail and thereafter the illness would be cured. This was fervently believed in, although you could never be one hundred percent sure it was actually responsible for
+          the replenishment of health.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm203568">
+        <form>
+          <orth>glasadh na latha</orth>
+        </form>
+        <def>five in the morning.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm207816">
+        <form>
+          <orth>an torraidh</orth>
+        </form>
+        <def>stealing the milk from someone else’s cattle. Usually done in the early hours of the morning.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm212424">
+        <form>
+          <orth>corp creadha</orth>
+        </form>
+        <def>an effigy constructed with clay from a river and shaped just above the water of that river. Pins were stuck into this and left on the surface. When the river rose the effigy wore away. At
+          that point the pain would be felt by the victim.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm196584">
+        <form>
+          <orth>manaidhean</orth>
+        </form>
+        <def>a premonition, always something that was heard.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idp193120">
+        <form>
+          <orth>taibhs</orth>
+        </form>
+        <def>a premonition which was seen rather than heard.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idp191752">
+        <form>
+          <orth>brèide</orth>
+        </form>
+        <def>bandage.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idp190096">
+        <form>
+          <orth>stràc bheoil</orth>
+        </form>
+        <def>top layer of tummers in a boat.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idp188584">
+        <form>
+          <orth>na saighean</orth>
+        </form>
+        <def>stems.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idp187072">
+        <form>
+          <orth>beul</orth>
+        </form>
+        <def>gunnel.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idp185560">
+        <form>
+          <orth>ceannachraichean</orth>
+        </form>
+        <def>seat supports in a boat (wooden).</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idp184048">
+        <form>
+          <orth>cara</orth>
+        </form>
+        <def>a trap for catching fish at high tide. Placed in the mouth of a river. See earlier description in previous notes. Difference in pronunciation between Uist (caraidh) and Eriskay
+          (cara).</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idp182536">
+        <form>
+          <orth>coire blianain</orth>
+        </form>
+        <def>phosphorescence.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm155176">
+        <form>
+          <orth>teine sionachain</orth>
+        </form>
+        <def>will o’ the wisp. Variant on ‘teine biorach’.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm153664">
+        <form>
+          <orth>claigeann buthta</orth>
+        </form>
+        <def>the stock/head of a buoy.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm152152">
+        <form>
+          <orth>calc</orth>
+        </form>
+        <def>hemp.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm150640">
+        <form>
+          <orth>ròsaid</orth>
+        </form>
+        <def>sap from trees.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm149128">
+        <form>
+          <orth>calcadh</orth>
+        </form>
+        <def>hemp and sap mixed together and used for leaks in boats.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm147544">
+        <form>
+          <orth>cnap eisg</orth>
+        </form>
+        <def>shoal.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm146032">
+        <form>
+          <orth>meall eisg</orth>
+        </form>
+        <def>shoal.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm144520">
+        <form>
+          <orth>fada-cruaidh</orth>
+        </form>
+        <def>a black cloud in the north indicative of bad weather to come.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm142936">
+        <form>
+          <orth>cliath sheanachair</orth>
+        </form>
+        <def>iron tongs. [NOTES: note added above ‘sheanachair’ – (? teanchair).]</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm141208">
+        <form>
+          <orth>iarunn stiùreach</orth>
+        </form>
+        <def>bits of iron associated with the rudder such as gudgeons and pintles.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm138832">
+        <form>
+          <orth>dual</orth>
+        </form>
+        <def>cable pattern in a jersey.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm137320">
+        <form>
+          <orth>fiacaill sàibh</orth>
+        </form>
+        <def>also a feature in Eriskay patterns.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm135808">
+        <form>
+          <orth>crosgag</orth>
+        </form>
+        <def>starfish. Also found in patterns.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm134296">
+        <form>
+          <orth>a’ ghainmheach</orth>
+        </form>
+        <def>an illness affecting the stomach of an animal. Arose from the animal eating docks (copagan), grass roots and sand. Animal would be in great pain and could not rise to its feet. Could only
+          be cured by constant movement such as riding. Could affect cattle but mostly affected horses.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm132784">
+        <form>
+          <orth>fainne pòsda</orth>
+        </form>
+        <def>wedding rings were used to cure styes. Rubbed on the eye.</def>
+      </entry>
+      <entry xml:id="AOHenley_EriskayDMacDonaldmisc-idm131200">
+        <form>
+          <orth>greim dubh</orth>
+        </form>
+        <def>appendicitis.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

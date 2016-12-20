@@ -1,760 +1,754 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="Peat_CarlowayAandMMacKillopmoine">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: the informants use adjectives ‘beag’, ‘mór’ and ‘math’ to show the gender of the nouns. They have been replaced with ‘masc.’ and ‘fem.’.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <location>
-               <placeName>Lewis, Carloway </placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>Angus and Margaret MacKillop</persName>
-               <age>còrr is leth-cheud [over 50]</age>
-               <birth>
-                  <placeName>Eileanaich [natives of Lewis]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Peat-Working</term>
-               <term>Mòine</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="Peat_CarlowayAandMMacKillopmoine-d0e32"
-            >1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e37">
-            <form>
-               <orth>a’ riachadh</orth>
-            </form>
-            <def>the line marking the width of the turfing. (Point, Lewis)</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e46">
-            <form>
-               <orth>a’ priogadh</orth>
-            </form>
-            <def>the line marking the width of the turfing. (Carloway)</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e55">
-            <form>
-               <orth>riasg</orth>
-            </form>
-            <def>peat soil. (Lewis)</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e64">
-            <form>
-               <orth>moine a’ reisg</orth>
-            </form>
-            <def>this was used in S. Harris to signify the fibrous as opposed to the black and hard type.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e73">
-            <form>
-               <orth>a’ rusgadh</orth>
-            </form>
-            <def>turfing. (Lewis)</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e82">
-            <form>
-               <orth>a’ feannadh</orth>
-            </form>
-            <def>turfing. (Berneray, Harris)</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e91">
-            <form>
-               <orth>a leagail na ruisg</orth>
-            </form>
-            <def>throwing the cut [sic] down from the top of the bank.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e100">
-            <form>
-               <orth>ag càradh na rusg</orth>
-               <pron>[sic]</pron>
-            </form>
-            <def>[sic] arranging the cut turf with the grass side up am broinn a’ phuill.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e109">
-            <form>
-               <orth>a’ glanadh a’ phuill</orth>
-            </form>
-            <def>levelling the top after the turfing.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e118">
-            <form>
-               <orth>leigeil an uisge a poll</orth>
-            </form>
-            <def>draining a peat-bank.</def>
-         </entry>
-         <head
-             xml:id="Peat_CarlowayAandMMacKillopmoine-d0e126"
-            >2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e131">
-            <form>
-               <orth>a’ buain na mònach</orth>
-            </form>
-            <def>cutting the peats. (Lewis)</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e140">
-            <form>
-               <orth>a’ buain na mònadh</orth>
-            </form>
-            <def>cutting the peats. (Harris)</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e149">
-            <form>
-               <orth>sgioba buain mhònach</orth>
-            </form>
-            <def>the working team consisting roughly of nine. This was considered capable of cutting fuel for one year for one household: ceithir iarainn agus duine rùsgadh.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e158">
-            <form>
-               <orth>iarunn</orth>
-            </form>
-            <def>a peat iron; also this is also [sic] the term used for the unit in a team, viz. a pair – one cutting and one throwing out. This word is used in both these senses in Berneray, Harris, but only in the latter sense in Lewis.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e167">
-            <form>
-               <orth>taraisgeir</orth>
-            </form>
-            <def>peat iron. (Lewis)</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e176">
-            <form>
-               <orth>a’ buain ’s a cuir  a’ mach</orth>
-               <pron>[sic]</pron>
-            </form>
-            <def>[sic] cutting and spreading. [(Lewis)]</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e185">
-            <form>
-               <orth>a’ gearradh ’s a cuir  a mach</orth>
-               <pron>[sic]</pron>
-            </form>
-            <def>[sic] cutting and spreading. [(Lewis)]</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e194">
-            <form>
-               <orth>sgaoilteach</orth>
-            </form>
-            <def>spreading area.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e203">
-            <form>
-               <orth>druim a’ phuill</orth>
-            </form>
-            <def>the top level of the peat bank.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e212">
-            <form>
-               <orth>broinn a’ phuill</orth>
-            </form>
-            <def>the lower level of the peat bank.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e221">
-            <form>
-               <orth>aghaidh a’ phuill</orth>
-            </form>
-            <def>the upright area from which the peats were cut.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e230">
-            <form>
-               <orth>aodann a’ phuill</orth>
-            </form>
-            <def>the upright area from which the peats were cut.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e239">
-            <form>
-               <orth>cas an iaruinn</orth>
-            </form>
-            <def>the handle of the peat iron.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e248">
-            <form>
-               <orth>sgion an iaruinn</orth>
-            </form>
-            <def>the blade of the peat iron.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e257">
-            <form>
-               <orth>smeachan an iaruinn</orth>
-            </form>
-            <def>the foot rest on the [peat] iron.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e266">
-            <form>
-               <orth>iarunn aig an robh coiseachd (no ceum) math</orth>
-            </form>
-            <def>a satisfactory [peat] iron with a long knife.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e275">
-            <form>
-               <orth>a’ fosgladh poll</orth>
-            </form>
-            <def>opening a new bank.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e284">
-            <form>
-               <orth>a’ toirt puill as ùr</orth>
-            </form>
-            <def>opening a new bank.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e293">
-            <form>
-               <orth>carcair</orth>
-            </form>
-            <def>the width of the bank to be cut.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e302">
-            <form>
-               <orth>Thug mi rusg mor</orth>
-            </form>
-            <def>that would mean a wide area turfed – 10 to 12 peats.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e311">
-            <form>
-               <orth>poll aon phoid</orth>
-            </form>
-            <def>one layer depth after turfing – not common.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e320">
-            <form>
-               <orth>poll da fhad</orth>
-            </form>
-            <def>two layer depth or three. This was the common depth. Rarely four to six layers.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e329">
-            <form>
-               <orth>barr fhad</orth>
-            </form>
-            <def>top layer.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e338">
-            <form>
-               <orth>caoran</orth>
-            </form>
-            <def>the lower, bottom layer usually coming [?] of the stone [?] – black and broken.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e347">
-            <form>
-               <orth>corr fhad</orth>
-            </form>
-            <def>the first peat cut off each layer – the outside peat.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e356">
-            <form>
-               <orth>ceap ceann</orth>
-            </form>
-            <def>an unturfed peat, cut with the spade.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e365">
-            <form>
-               <orth>grobhag</orth>
-            </form>
-            <def>poll air fàs beag ’s air tighinn gu deireadh. (Lewis)</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e374">
-            <form>
-               <orth>grabhag</orth>
-            </form>
-            <def>poll air fàs beag ’s air tighinn gu deireadh. (Harris)</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e383">
-            <form>
-               <orth>gearr tan’ i, ruig fad i, cum a’ mach i</orth>
-            </form>
-            <def>these were the three main points to good peat-cutting. Ruig fad i means cut as deep a slice as iron permits. Cum a’ mach i refers to good spreading.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e392">
-            <form>
-               <orth>spoth an fhoid</orth>
-            </form>
-            <def>a backward tilt to the iron after the downward cut: to enable the peat to come off clearly.</def>
-         </entry>
-         <head
-             xml:id="Peat_CarlowayAandMMacKillopmoine-d0e400"
-            >3. A’ tiormachadh na mònach</head>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e405">
-            <form>
-               <orth>rùghadh</orth>
-            </form>
-            <def>’g a cuir air a casan. The first lifting of the peats – into small heaps – three or four peats up-ended and one laid across the top – am fàd mulaich.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e414">
-            <form>
-               <orth>rùmhadh</orth>
-               <pron>[See rùghadh]</pron>
-            </form>
-            <def>[See rùghadh]</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e423">
-            <form>
-               <orth>togail</orth>
-            </form>
-            <def>’g a cuir air a casan. The first lifting of the peats – into small heaps – three or four peats up-ended and one laid across the top – am fàd mulaich.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e432">
-            <form>
-               <orth>rùghan</orth>
-            </form>
-            <def>the first little heap.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e441">
-            <form>
-               <orth>rùmhan ()</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] [See rùghan] Rùmhan beag. Rùmhain bheaga.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e450">
-            <form>
-               <orth>coilleag ()</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] the first little heap. (Scalpay)</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e459">
-            <form>
-               <orth>ath-rughadh</orth>
-            </form>
-            <def>Is e so an dara sùil a bheirear air a mhòine. Nithear rùmhain na’s motha leis na fòid a’s tiorma ’nam broin agus an fheadhain nach ’eil cho tioram air an taobh a muigh agus air am mullach . Le sìde thioram nithear ath-rumhain mhòra, ach ma tha an aimsir bog cha deanar ach ath-rumhain bheaga.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e468">
-            <form>
-               <orth>ath-rumhadh</orth>
-               <pron>[See ath-rughadh]</pron>
-            </form>
-            <def>[See ath-rughadh]</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e477">
-            <form>
-               <orth>ath-rughan no ath-rumhan ()</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] </def>
-         </entry>
-         <head
-             xml:id="Peat_CarlowayAandMMacKillopmoine-d0e482"
-            >4. A’ cruachadh na mònach</head>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e487">
-            <form>
-               <orth>torr ()</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] a heap.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e496">
-            <form>
-               <orth>tiurra ()</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] a heap.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e505">
-            <form>
-               <orth>an glaothan ()</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] the heap now takes shape – an elongated oval – the length and width of the intended stack. Where the peats are of mixed quality, all the black and brittle and broken stuff are heaped into this core of the stack.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e514">
-            <form>
-               <orth>an steidheadh ()</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] a ring of ‘moine shlàn’ is now set all around the ‘glaothan’ and a ‘ceum coise’ away from it. From this outer ring, referred to as ‘an steidheadh’, the stacker helps himself to good building slabs for the stacking.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e523">
-            <form>
-               <orth>a’ steidheadh</orth>
-            </form>
-            <def>stacking or ‘building’.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e532">
-            <form>
-               <orth>ag griomhadh</orth>
-            </form>
-            <def>stacking or ‘building’.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e541">
-            <form>
-               <orth>a toirt a steach a’ steidhidh</orth>
-            </form>
-            <def>giving the stack a slight slope inwards all the way round to prevent its falling.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e550">
-            <form>
-               <orth>a’ duineadh na cruaich</orth>
-            </form>
-            <def>levelling off the top of the stack.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e559">
-            <form>
-               <orth>cuilean ()</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] a small addition to the main stack – like a ‘lean-to’ or ‘porch’ at the end or side.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e568">
-            <form>
-               <orth>a’ tughadh</orth>
-            </form>
-            <def>thatching – this was done when the household peats were not all gathered into one stack but were left each lot on its own bank. The peats were arranged in a beehive heap which was covered all over with newly cut turf.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e577">
-            <form>
-               <orth>ceap tughaidh</orth>
-            </form>
-            <def>the turf used in the above [i.e. a’ tughadh].</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e586">
-            <form>
-               <orth>cruach ()</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] stack.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e595">
-            <form>
-               <orth>larach cruaiche</orth>
-            </form>
-            <def>site for a stack. Also an area of hard-pressed dross where a stack had once been.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e604">
-            <form>
-               <orth>smur</orth>
-            </form>
-            <def>peat-dross.</def>
-         </entry>
-         <head
-             xml:id="Peat_CarlowayAandMMacKillopmoine-d0e612"
-            >5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e617">
-            <form>
-               <orth>cliabh ()</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] creel.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e626">
-            <form>
-               <orth>bath-chliabh</orth>
-            </form>
-            <def>this was a smaller creel – a mock or toy creel. It was a disparagement to have one’s creel referred to as a bath-chliabh – implying that one could not carry a full load.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e635">
-            <form>
-               <orth>iris ()</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] the creel strap – a two or three inch width of plaited twine with a worked loop at each end. A ‘de-luxe’ one would be of ‘gaoisde’ (horsehair) for the last word in comfort across the chest! Straps of leather or of sacking (iris poca) were inferior makeshifts.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e644">
-            <form>
-               <orth>staingean</orth>
-            </form>
-            <def>the cane ‘uprights’ of the creel – the ribs.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e653">
-            <form>
-               <orth>briagan</orth>
-            </form>
-            <def>a row of holes or openwork right round the creel and four or five inches down from the top. By these one could get a grip of the loaded creel when lifting it.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e662">
-            <form>
-               <orth>bial a’ chleibh</orth>
-            </form>
-            <def>the top [of the creel].</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e671">
-            <form>
-               <orth>màs a’ chleibh</orth>
-            </form>
-            <def>the bottom [of the creel]. When this was worn out the creel would be taken to the maker gus màs ùr a chur ann.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e680">
-            <form>
-               <orth>dronnag ()</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] a cushion or pad for the back when carrying a loaded creel – normally a folded skirt or ‘cota’.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e689">
-            <form>
-               <orth>cota dronnaig ()</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] an old skirt or ‘cota’ no longer wearable as such and relegated to a creel pad.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e698">
-            <form>
-               <orth>ceanghal cleibh</orth>
-            </form>
-            <def>a new creel before use was tightened or bound over with strong twine laced back and fore on the outside along the line of ribs.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e707">
-            <form>
-               <orth>staran</orth>
-            </form>
-            <def>the track between bank and tiùrra – the more direct the better.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e716">
-            <form>
-               <orth>drochaid air poll</orth>
-            </form>
-            <def>if there was a high bank in the way, steps of turfing would be built up the face to avoid a detour.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e725">
-            <form>
-               <orth>drochaid air feith</orth>
-            </form>
-            <def>stepping stones of turfing set across a boggy patch to avoid detour.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e734">
-            <form>
-               <orth>ultach monach</orth>
-            </form>
-            <def>an armful of peats.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e743">
-            <form>
-               <orth>bara monach</orth>
-            </form>
-            <def>a barrowload of peats.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e752">
-            <form>
-               <orth>cliabh monach</orth>
-            </form>
-            <def>a creelful of peats.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e761">
-            <form>
-               <orth>cairt mhonach</orth>
-            </form>
-            <def>a cartload of peats.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e770">
-            <form>
-               <orth>sgiathan air cairt</orth>
-            </form>
-            <def>sometimes to make a cart more commodious an extra board would be fixed to each side.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e779">
-            <form>
-               <orth>teasraigeadh monadh</orth>
-            </form>
-            <def>a loan or gift of peats to ‘tide one over’. (Berneray)</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e788">
-            <form>
-               <orth>luchd monadh</orth>
-            </form>
-            <def>boatload usually. (Berneray)</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e797">
-            <form>
-               <orth>saic monadh</orth>
-            </form>
-            <def>horseload of two loaded creels astride a horse’s back. (Berneray)</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e806">
-            <form>
-               <orth>sorachan</orth>
-            </form>
-            <def>a creel stand built up of turf or flat peats. With the loaded creel rested here it was easy to get it on to one’s back. A later version made of wood had the advantage of being portable. This was nicknamed (in Point, Lewis) ‘Seonaidh’.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e815">
-            <form>
-               <orth>tiurraidean</orth>
-            </form>
-            <def>a small insignificant heap of peats – or of anything.</def>
-         </entry>
-         <head
-             xml:id="Peat_CarlowayAandMMacKillopmoine-d0e823"
-            >6. Seòrsachan mònach</head>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e828">
-            <form>
-               <orth>moine dhubh</orth>
-            </form>
-            <def>heavy black type [of peat]. Sometimes also moine bhalbh dhubh.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e837">
-            <form>
-               <orth>moine phronn</orth>
-            </form>
-            <def>brittle type of peat – usually black.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e846">
-            <form>
-               <orth>caorain</orth>
-            </form>
-            <def>small broken peats.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e855">
-            <form>
-               <orth>moine shlàn</orth>
-            </form>
-            <def>this is the more manageable and stronger type of peat.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e864">
-            <form>
-               <orth>moine fhallain</orth>
-            </form>
-            <def>(Berneray, Harris) [See moine shlàn].</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e873">
-            <form>
-               <orth>moine fhraoich</orth>
-            </form>
-            <def>this has an ad-mixture of roots – mostly heather roots – usually the top layer from the bank.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e882">
-            <form>
-               <orth>moine bhàn</orth>
-            </form>
-            <def>this is lighter in weight and in colour.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e891">
-            <form>
-               <orth>moine chòsach</orth>
-            </form>
-            <def>light spongy stuff considered inferior – except for kindling.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e900">
-            <form>
-               <orth>ath-mhoine</orth>
-            </form>
-            <def>(re-made) these were peats that had become wet and soggy – usually in the ‘floor’ of the stack – and had been set aside in little ‘rumhain’ to dry out again – also considered inferior.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e909">
-            <form>
-               <orth>moine-cloiche</orth>
-            </form>
-            <def>this is the lowest layer of peat – lifted of the ‘stone’ – always coal-black and often ‘pronn’. (Berneray, Harris)</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e918">
-            <form>
-               <orth>moine-steidhidh</orth>
-            </form>
-            <def>well shaped and firm slabs suitable [for] stack ‘building’.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e927">
-            <form>
-               <orth>moine amh</orth>
-            </form>
-            <def>peats that had not dried well and had a softish or ‘raw’ core.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e936">
-            <form>
-               <orth>moine phlòiceach</orth>
-            </form>
-            <def>big spongy slabs that had absorbed water.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e945">
-            <form>
-               <orth>moine tasgaidh</orth>
-            </form>
-            <def>peats suitable for banking the fire overnight – mòine amh or mòine phlòiceach were preferred for this.</def>
-         </entry>
-         <head
-             xml:id="Peat_CarlowayAandMMacKillopmoine-d0e953"
-            >7. Faclan eile</head>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e958">
-            <form>
-               <orth>dòrlach</orth>
-            </form>
-            <def>handful of oatmeal, grain etc.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e967">
-            <form>
-               <orth>làn dùrna</orth>
-            </form>
-            <def>handful of oatmeal, grain etc.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e976">
-            <form>
-               <orth>criuthgan</orth>
-            </form>
-            <def>a pinch – of salt or sugar etc.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e985">
-            <form>
-               <orth>craiteachan</orth>
-            </form>
-            <def>a sprinkling – of salt etc.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e994">
-            <form>
-               <orth>smàglach</orth>
-            </form>
-            <def>as much as could be lifted between the two hands – of potatoes, or herring, or grain etc.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e1003">
-            <form>
-               <orth>tràth</orth>
-            </form>
-            <def>of potatoes, or fish, as much as would be cooked for one meal.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e1012">
-            <form>
-               <orth>déilic</orth>
-            </form>
-            <def>a very small helping or portion of any food.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e1021">
-            <form>
-               <orth>sgùird</orth>
-            </form>
-            <def>as much as one could carry in front of one, viz. in one’s apron.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e1030">
-            <form>
-               <orth>drumag</orth>
-            </form>
-            <def>this was a bigger load than above [i.e. sgùird] – the apron was filled and worn behind with the two bottom corners pinned or knotted at the neck. Had to be stronger and bigger than these of the present day (the aprons).</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e1039">
-            <form>
-               <orth>cròg</orth>
-            </form>
-            <def>a handful – of eggs usually.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e1048">
-            <form>
-               <orth>achlais</orth>
-            </form>
-            <def>a load to go under the arm e.g. ‘achlais leabhraichean’.</def>
-         </entry>
-         <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e1057">
-            <form>
-               <orth>ciumbul</orth>
-            </form>
-            <def>a bundle.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Peat_CarlowayAandMMacKillopmoine">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: the informants use adjectives ‘beag’, ‘mór’ and ‘math’ to show the gender of the nouns. They have been replaced with ‘masc.’ and ‘fem.’.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location>
+          <placeName>Lewis, Carloway </placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>Angus and Margaret MacKillop</persName>
+          <age>còrr is leth-cheud [over 50]</age>
+          <birth>
+            <placeName>Eileanaich [natives of Lewis]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Peat-Working</term>
+          <term>Mòine</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="Peat_CarlowayAandMMacKillopmoine-d0e32">1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e37">
+        <form>
+          <orth>a’ riachadh</orth>
+        </form>
+        <def>the line marking the width of the turfing. (Point, Lewis)</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e46">
+        <form>
+          <orth>a’ priogadh</orth>
+        </form>
+        <def>the line marking the width of the turfing. (Carloway)</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e55">
+        <form>
+          <orth>riasg</orth>
+        </form>
+        <def>peat soil. (Lewis)</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e64">
+        <form>
+          <orth>moine a’ reisg</orth>
+        </form>
+        <def>this was used in S. Harris to signify the fibrous as opposed to the black and hard type.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e73">
+        <form>
+          <orth>a’ rusgadh</orth>
+        </form>
+        <def>turfing. (Lewis)</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e82">
+        <form>
+          <orth>a’ feannadh</orth>
+        </form>
+        <def>turfing. (Berneray, Harris)</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e91">
+        <form>
+          <orth>a leagail na ruisg</orth>
+        </form>
+        <def>throwing the cut [sic] down from the top of the bank.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e100">
+        <form>
+          <orth>ag càradh na rusg</orth>
+          <pron>[sic]</pron>
+        </form>
+        <def>[sic] arranging the cut turf with the grass side up am broinn a’ phuill.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e109">
+        <form>
+          <orth>a’ glanadh a’ phuill</orth>
+        </form>
+        <def>levelling the top after the turfing.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e118">
+        <form>
+          <orth>leigeil an uisge a poll</orth>
+        </form>
+        <def>draining a peat-bank.</def>
+      </entry>
+      <head xml:id="Peat_CarlowayAandMMacKillopmoine-d0e126">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e131">
+        <form>
+          <orth>a’ buain na mònach</orth>
+        </form>
+        <def>cutting the peats. (Lewis)</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e140">
+        <form>
+          <orth>a’ buain na mònadh</orth>
+        </form>
+        <def>cutting the peats. (Harris)</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e149">
+        <form>
+          <orth>sgioba buain mhònach</orth>
+        </form>
+        <def>the working team consisting roughly of nine. This was considered capable of cutting fuel for one year for one household: ceithir iarainn agus duine rùsgadh.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e158">
+        <form>
+          <orth>iarunn</orth>
+        </form>
+        <def>a peat iron; also this is also [sic] the term used for the unit in a team, viz. a pair – one cutting and one throwing out. This word is used in both these senses in Berneray, Harris, but
+          only in the latter sense in Lewis.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e167">
+        <form>
+          <orth>taraisgeir</orth>
+        </form>
+        <def>peat iron. (Lewis)</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e176">
+        <form>
+          <orth>a’ buain ’s a cuir a’ mach</orth>
+          <pron>[sic]</pron>
+        </form>
+        <def>[sic] cutting and spreading. [(Lewis)]</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e185">
+        <form>
+          <orth>a’ gearradh ’s a cuir a mach</orth>
+          <pron>[sic]</pron>
+        </form>
+        <def>[sic] cutting and spreading. [(Lewis)]</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e194">
+        <form>
+          <orth>sgaoilteach</orth>
+        </form>
+        <def>spreading area.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e203">
+        <form>
+          <orth>druim a’ phuill</orth>
+        </form>
+        <def>the top level of the peat bank.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e212">
+        <form>
+          <orth>broinn a’ phuill</orth>
+        </form>
+        <def>the lower level of the peat bank.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e221">
+        <form>
+          <orth>aghaidh a’ phuill</orth>
+        </form>
+        <def>the upright area from which the peats were cut.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e230">
+        <form>
+          <orth>aodann a’ phuill</orth>
+        </form>
+        <def>the upright area from which the peats were cut.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e239">
+        <form>
+          <orth>cas an iaruinn</orth>
+        </form>
+        <def>the handle of the peat iron.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e248">
+        <form>
+          <orth>sgion an iaruinn</orth>
+        </form>
+        <def>the blade of the peat iron.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e257">
+        <form>
+          <orth>smeachan an iaruinn</orth>
+        </form>
+        <def>the foot rest on the [peat] iron.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e266">
+        <form>
+          <orth>iarunn aig an robh coiseachd (no ceum) math</orth>
+        </form>
+        <def>a satisfactory [peat] iron with a long knife.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e275">
+        <form>
+          <orth>a’ fosgladh poll</orth>
+        </form>
+        <def>opening a new bank.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e284">
+        <form>
+          <orth>a’ toirt puill as ùr</orth>
+        </form>
+        <def>opening a new bank.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e293">
+        <form>
+          <orth>carcair</orth>
+        </form>
+        <def>the width of the bank to be cut.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e302">
+        <form>
+          <orth>Thug mi rusg mor</orth>
+        </form>
+        <def>that would mean a wide area turfed – 10 to 12 peats.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e311">
+        <form>
+          <orth>poll aon phoid</orth>
+        </form>
+        <def>one layer depth after turfing – not common.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e320">
+        <form>
+          <orth>poll da fhad</orth>
+        </form>
+        <def>two layer depth or three. This was the common depth. Rarely four to six layers.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e329">
+        <form>
+          <orth>barr fhad</orth>
+        </form>
+        <def>top layer.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e338">
+        <form>
+          <orth>caoran</orth>
+        </form>
+        <def>the lower, bottom layer usually coming [?] of the stone [?] – black and broken.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e347">
+        <form>
+          <orth>corr fhad</orth>
+        </form>
+        <def>the first peat cut off each layer – the outside peat.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e356">
+        <form>
+          <orth>ceap ceann</orth>
+        </form>
+        <def>an unturfed peat, cut with the spade.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e365">
+        <form>
+          <orth>grobhag</orth>
+        </form>
+        <def>poll air fàs beag ’s air tighinn gu deireadh. (Lewis)</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e374">
+        <form>
+          <orth>grabhag</orth>
+        </form>
+        <def>poll air fàs beag ’s air tighinn gu deireadh. (Harris)</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e383">
+        <form>
+          <orth>gearr tan’ i, ruig fad i, cum a’ mach i</orth>
+        </form>
+        <def>these were the three main points to good peat-cutting. Ruig fad i means cut as deep a slice as iron permits. Cum a’ mach i refers to good spreading.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e392">
+        <form>
+          <orth>spoth an fhoid</orth>
+        </form>
+        <def>a backward tilt to the iron after the downward cut: to enable the peat to come off clearly.</def>
+      </entry>
+      <head xml:id="Peat_CarlowayAandMMacKillopmoine-d0e400">3. A’ tiormachadh na mònach</head>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e405">
+        <form>
+          <orth>rùghadh</orth>
+        </form>
+        <def>’g a cuir air a casan. The first lifting of the peats – into small heaps – three or four peats up-ended and one laid across the top – am fàd mulaich.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e414">
+        <form>
+          <orth>rùmhadh</orth>
+          <pron>[See rùghadh]</pron>
+        </form>
+        <def>[See rùghadh]</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e423">
+        <form>
+          <orth>togail</orth>
+        </form>
+        <def>’g a cuir air a casan. The first lifting of the peats – into small heaps – three or four peats up-ended and one laid across the top – am fàd mulaich.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e432">
+        <form>
+          <orth>rùghan</orth>
+        </form>
+        <def>the first little heap.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e441">
+        <form>
+          <orth>rùmhan ()</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] [See rùghan] Rùmhan beag. Rùmhain bheaga.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e450">
+        <form>
+          <orth>coilleag ()</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] the first little heap. (Scalpay)</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e459">
+        <form>
+          <orth>ath-rughadh</orth>
+        </form>
+        <def>Is e so an dara sùil a bheirear air a mhòine. Nithear rùmhain na’s motha leis na fòid a’s tiorma ’nam broin agus an fheadhain nach ’eil cho tioram air an taobh a muigh agus air am mullach
+          . Le sìde thioram nithear ath-rumhain mhòra, ach ma tha an aimsir bog cha deanar ach ath-rumhain bheaga.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e468">
+        <form>
+          <orth>ath-rumhadh</orth>
+          <pron>[See ath-rughadh]</pron>
+        </form>
+        <def>[See ath-rughadh]</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e477">
+        <form>
+          <orth>ath-rughan no ath-rumhan ()</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] </def>
+      </entry>
+      <head xml:id="Peat_CarlowayAandMMacKillopmoine-d0e482">4. A’ cruachadh na mònach</head>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e487">
+        <form>
+          <orth>torr ()</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] a heap.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e496">
+        <form>
+          <orth>tiurra ()</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] a heap.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e505">
+        <form>
+          <orth>an glaothan ()</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] the heap now takes shape – an elongated oval – the length and width of the intended stack. Where the peats are of mixed quality, all the black and brittle and broken stuff are
+          heaped into this core of the stack.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e514">
+        <form>
+          <orth>an steidheadh ()</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] a ring of ‘moine shlàn’ is now set all around the ‘glaothan’ and a ‘ceum coise’ away from it. From this outer ring, referred to as ‘an steidheadh’, the stacker helps himself to
+          good building slabs for the stacking.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e523">
+        <form>
+          <orth>a’ steidheadh</orth>
+        </form>
+        <def>stacking or ‘building’.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e532">
+        <form>
+          <orth>ag griomhadh</orth>
+        </form>
+        <def>stacking or ‘building’.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e541">
+        <form>
+          <orth>a toirt a steach a’ steidhidh</orth>
+        </form>
+        <def>giving the stack a slight slope inwards all the way round to prevent its falling.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e550">
+        <form>
+          <orth>a’ duineadh na cruaich</orth>
+        </form>
+        <def>levelling off the top of the stack.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e559">
+        <form>
+          <orth>cuilean ()</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] a small addition to the main stack – like a ‘lean-to’ or ‘porch’ at the end or side.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e568">
+        <form>
+          <orth>a’ tughadh</orth>
+        </form>
+        <def>thatching – this was done when the household peats were not all gathered into one stack but were left each lot on its own bank. The peats were arranged in a beehive heap which was covered
+          all over with newly cut turf.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e577">
+        <form>
+          <orth>ceap tughaidh</orth>
+        </form>
+        <def>the turf used in the above [i.e. a’ tughadh].</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e586">
+        <form>
+          <orth>cruach ()</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] stack.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e595">
+        <form>
+          <orth>larach cruaiche</orth>
+        </form>
+        <def>site for a stack. Also an area of hard-pressed dross where a stack had once been.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e604">
+        <form>
+          <orth>smur</orth>
+        </form>
+        <def>peat-dross.</def>
+      </entry>
+      <head xml:id="Peat_CarlowayAandMMacKillopmoine-d0e612">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e617">
+        <form>
+          <orth>cliabh ()</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] creel.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e626">
+        <form>
+          <orth>bath-chliabh</orth>
+        </form>
+        <def>this was a smaller creel – a mock or toy creel. It was a disparagement to have one’s creel referred to as a bath-chliabh – implying that one could not carry a full load.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e635">
+        <form>
+          <orth>iris ()</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] the creel strap – a two or three inch width of plaited twine with a worked loop at each end. A ‘de-luxe’ one would be of ‘gaoisde’ (horsehair) for the last word in comfort across
+          the chest! Straps of leather or of sacking (iris poca) were inferior makeshifts.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e644">
+        <form>
+          <orth>staingean</orth>
+        </form>
+        <def>the cane ‘uprights’ of the creel – the ribs.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e653">
+        <form>
+          <orth>briagan</orth>
+        </form>
+        <def>a row of holes or openwork right round the creel and four or five inches down from the top. By these one could get a grip of the loaded creel when lifting it.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e662">
+        <form>
+          <orth>bial a’ chleibh</orth>
+        </form>
+        <def>the top [of the creel].</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e671">
+        <form>
+          <orth>màs a’ chleibh</orth>
+        </form>
+        <def>the bottom [of the creel]. When this was worn out the creel would be taken to the maker gus màs ùr a chur ann.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e680">
+        <form>
+          <orth>dronnag ()</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] a cushion or pad for the back when carrying a loaded creel – normally a folded skirt or ‘cota’.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e689">
+        <form>
+          <orth>cota dronnaig ()</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] an old skirt or ‘cota’ no longer wearable as such and relegated to a creel pad.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e698">
+        <form>
+          <orth>ceanghal cleibh</orth>
+        </form>
+        <def>a new creel before use was tightened or bound over with strong twine laced back and fore on the outside along the line of ribs.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e707">
+        <form>
+          <orth>staran</orth>
+        </form>
+        <def>the track between bank and tiùrra – the more direct the better.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e716">
+        <form>
+          <orth>drochaid air poll</orth>
+        </form>
+        <def>if there was a high bank in the way, steps of turfing would be built up the face to avoid a detour.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e725">
+        <form>
+          <orth>drochaid air feith</orth>
+        </form>
+        <def>stepping stones of turfing set across a boggy patch to avoid detour.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e734">
+        <form>
+          <orth>ultach monach</orth>
+        </form>
+        <def>an armful of peats.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e743">
+        <form>
+          <orth>bara monach</orth>
+        </form>
+        <def>a barrowload of peats.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e752">
+        <form>
+          <orth>cliabh monach</orth>
+        </form>
+        <def>a creelful of peats.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e761">
+        <form>
+          <orth>cairt mhonach</orth>
+        </form>
+        <def>a cartload of peats.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e770">
+        <form>
+          <orth>sgiathan air cairt</orth>
+        </form>
+        <def>sometimes to make a cart more commodious an extra board would be fixed to each side.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e779">
+        <form>
+          <orth>teasraigeadh monadh</orth>
+        </form>
+        <def>a loan or gift of peats to ‘tide one over’. (Berneray)</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e788">
+        <form>
+          <orth>luchd monadh</orth>
+        </form>
+        <def>boatload usually. (Berneray)</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e797">
+        <form>
+          <orth>saic monadh</orth>
+        </form>
+        <def>horseload of two loaded creels astride a horse’s back. (Berneray)</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e806">
+        <form>
+          <orth>sorachan</orth>
+        </form>
+        <def>a creel stand built up of turf or flat peats. With the loaded creel rested here it was easy to get it on to one’s back. A later version made of wood had the advantage of being portable.
+          This was nicknamed (in Point, Lewis) ‘Seonaidh’.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e815">
+        <form>
+          <orth>tiurraidean</orth>
+        </form>
+        <def>a small insignificant heap of peats – or of anything.</def>
+      </entry>
+      <head xml:id="Peat_CarlowayAandMMacKillopmoine-d0e823">6. Seòrsachan mònach</head>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e828">
+        <form>
+          <orth>moine dhubh</orth>
+        </form>
+        <def>heavy black type [of peat]. Sometimes also moine bhalbh dhubh.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e837">
+        <form>
+          <orth>moine phronn</orth>
+        </form>
+        <def>brittle type of peat – usually black.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e846">
+        <form>
+          <orth>caorain</orth>
+        </form>
+        <def>small broken peats.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e855">
+        <form>
+          <orth>moine shlàn</orth>
+        </form>
+        <def>this is the more manageable and stronger type of peat.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e864">
+        <form>
+          <orth>moine fhallain</orth>
+        </form>
+        <def>(Berneray, Harris) [See moine shlàn].</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e873">
+        <form>
+          <orth>moine fhraoich</orth>
+        </form>
+        <def>this has an ad-mixture of roots – mostly heather roots – usually the top layer from the bank.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e882">
+        <form>
+          <orth>moine bhàn</orth>
+        </form>
+        <def>this is lighter in weight and in colour.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e891">
+        <form>
+          <orth>moine chòsach</orth>
+        </form>
+        <def>light spongy stuff considered inferior – except for kindling.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e900">
+        <form>
+          <orth>ath-mhoine</orth>
+        </form>
+        <def>(re-made) these were peats that had become wet and soggy – usually in the ‘floor’ of the stack – and had been set aside in little ‘rumhain’ to dry out again – also considered
+          inferior.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e909">
+        <form>
+          <orth>moine-cloiche</orth>
+        </form>
+        <def>this is the lowest layer of peat – lifted of the ‘stone’ – always coal-black and often ‘pronn’. (Berneray, Harris)</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e918">
+        <form>
+          <orth>moine-steidhidh</orth>
+        </form>
+        <def>well shaped and firm slabs suitable [for] stack ‘building’.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e927">
+        <form>
+          <orth>moine amh</orth>
+        </form>
+        <def>peats that had not dried well and had a softish or ‘raw’ core.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e936">
+        <form>
+          <orth>moine phlòiceach</orth>
+        </form>
+        <def>big spongy slabs that had absorbed water.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e945">
+        <form>
+          <orth>moine tasgaidh</orth>
+        </form>
+        <def>peats suitable for banking the fire overnight – mòine amh or mòine phlòiceach were preferred for this.</def>
+      </entry>
+      <head xml:id="Peat_CarlowayAandMMacKillopmoine-d0e953">7. Faclan eile</head>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e958">
+        <form>
+          <orth>dòrlach</orth>
+        </form>
+        <def>handful of oatmeal, grain etc.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e967">
+        <form>
+          <orth>làn dùrna</orth>
+        </form>
+        <def>handful of oatmeal, grain etc.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e976">
+        <form>
+          <orth>criuthgan</orth>
+        </form>
+        <def>a pinch – of salt or sugar etc.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e985">
+        <form>
+          <orth>craiteachan</orth>
+        </form>
+        <def>a sprinkling – of salt etc.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e994">
+        <form>
+          <orth>smàglach</orth>
+        </form>
+        <def>as much as could be lifted between the two hands – of potatoes, or herring, or grain etc.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e1003">
+        <form>
+          <orth>tràth</orth>
+        </form>
+        <def>of potatoes, or fish, as much as would be cooked for one meal.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e1012">
+        <form>
+          <orth>déilic</orth>
+        </form>
+        <def>a very small helping or portion of any food.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e1021">
+        <form>
+          <orth>sgùird</orth>
+        </form>
+        <def>as much as one could carry in front of one, viz. in one’s apron.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e1030">
+        <form>
+          <orth>drumag</orth>
+        </form>
+        <def>this was a bigger load than above [i.e. sgùird] – the apron was filled and worn behind with the two bottom corners pinned or knotted at the neck. Had to be stronger and bigger than these
+          of the present day (the aprons).</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e1039">
+        <form>
+          <orth>cròg</orth>
+        </form>
+        <def>a handful – of eggs usually.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e1048">
+        <form>
+          <orth>achlais</orth>
+        </form>
+        <def>a load to go under the arm e.g. ‘achlais leabhraichean’.</def>
+      </entry>
+      <entry xml:id="Peat_CarlowayAandMMacKillopmoine-d0e1057">
+        <form>
+          <orth>ciumbul</orth>
+        </form>
+        <def>a bundle.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

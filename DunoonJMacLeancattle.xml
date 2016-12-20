@@ -1,801 +1,777 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="CattleandSheep_DunoonJMacLeancattle">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: very often, the informant provides terms without definitions, especially when the questionnaire itself gives a list of English words and expressions under the given section’s heading. In most cases, the informant lists his terms in the same order as they appear in the questionnaire so whenever possible the definitions provided by the questionnaire have been copied and put next to the Gaelic terms provided by the informant.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <location>
-               <placeName>Dunoon</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>John MacLean</persName>
-               <persName xml:lang="gd">Iain Mac Illeathain </persName>
-               <age>48</age>
-               <birth>
-                  <placeName>Barra</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Cattle</term>
-               <term>Crodh</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeancattle-d0e35"
-            >1. Different stages in the growth of cattle</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e40">
-            <form>
-               <orth>laogh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e46">
-            <form>
-               <orth>laogh boise</orth>
-            </form>
-            <def>a sucker.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e55">
-            <form>
-               <orth>gamhain</orth>
-            </form>
-            <def>bliadhnach.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e64">
-            <form>
-               <orth>damh</orth>
-            </form>
-            <def>dò-bhliadhnach.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e73">
-            <form>
-               <orth>agh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e79">
-            <form>
-               <orth>bó, mart</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e85">
-            <form>
-               <orth>tarbh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e91">
-            <form>
-               <orth>Nach b’e ’n di-bhailteach an gamhainn</orth>
-            </form>
-            <def>a scraggy stirk.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeancattle-d0e99"
-            >2. Breeds of cattle</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e104">
-            <form>
-               <orth>beathach Gaidhealach</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e110">
-            <form>
-               <orth>Gall</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeancattle-d0e115"
-            >3. Outward appearance of cattle</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e120">
-            <form>
-               <orth>bo sheasg</orth>
-            </form>
-            <def>dry [cow].</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e129">
-            <form>
-               <orth>bo dhonn</orth>
-            </form>
-            <def>brown cow.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e138">
-            <form>
-               <orth>bo dhubh</orth>
-            </form>
-            <def>black [cow].</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e147">
-            <form>
-               <orth>bo chrom</orth>
-               <pron>[cow with a]</pron>
-            </form>
-            <def>[cow with a] crooked horn.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e156">
-            <form>
-               <orth>bo riabhach</orth>
-            </form>
-            <def>brindled [cow].</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e165">
-            <form>
-               <orth>tarbh mogach</orth>
-            </form>
-            <def>shaggy bull.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e174">
-            <form>
-               <orth>maoilein</orth>
-            </form>
-            <def>hornless cow.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e183">
-            <form>
-               <orth>Tha i cho reamhar ri ròn.</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e189">
-            <form>
-               <orth>Tha i cho caol ri clobha.</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e195">
-            <form>
-               <orth>Nach ann aisde tha faileas.</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e201">
-            <form>
-               <orth>Nach ann aisde tha ’n glence.</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e207">
-            <form>
-               <orth>Tha i gus a bhi air an togail.</orth>
-            </form>
-            <def>She is near the point of death.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e216">
-            <form>
-               <orth>Chan ’eil innte ach na cramhan.</orth>
-            </form>
-            <def>She is nothing but bone.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-idola62">
-            <form>
-               <orth>[Te Ruadh Mhic Mhuirich]</orth>
-            </form>
-            <def>Mac Mhuirich in Uist asked his red haired daughter to demand of him her dowry and Te Ruadh Mhic Mhuirich requested: “Seicein, Meicein m’ aghan meadhrach / Bo dhubh, bo dhonn, bo chrom riabhach / Sliochd na h-aona bà maoile ruadha / Nach do dh’fhàg a bhuaile riamh na h-aonar / Agus an tarbh mogach, donn.” – the lot.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeancattle-d0e233"
-            >4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e238">
-            <form>
-               <orth>[moladh]</orth>
-            </form>
-            <def>Did not want to praise their own cattle too much in case they might suffer loss of them: Air eagal ’s gu mìll moladh i.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e247">
-            <form>
-               <orth>[dosgainn]</orth>
-            </form>
-            <def>If a beast died, a person on hearing it said: “Dosgainn na bliadhna gu robh leatha (leis).” (May the years loss be gone with it.)</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e256">
-            <form>
-               <orth>[buachailleachd]</orth>
-            </form>
-            <def> “Buachailleachd Chalum Chill’ oirre.” (May St Columba keep watch over her.)</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeancattle-d0e264"
-            >5. Parts of the body</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e269">
-            <form>
-               <orth>ceann</orth>
-               <pron>[head.]</pron>
-            </form>
-            <def>[head.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e278">
-            <form>
-               <orth>amhaich</orth>
-               <pron>[neck.]</pron>
-            </form>
-            <def>[neck.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e287">
-            <form>
-               <orth>adhraic</orth>
-               <pron>[horn.]</pron>
-            </form>
-            <def>[horn.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e296">
-            <form>
-               <orth>beul</orth>
-               <pron>[mouth.]</pron>
-            </form>
-            <def>[mouth.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e305">
-            <form>
-               <orth>coinnlein</orth>
-               <pron>[nostril.]</pron>
-            </form>
-            <def>[nostril.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e314">
-            <form>
-               <orth>cluimhteach</orth>
-               <pron>[hair?]</pron>
-            </form>
-            <def>[hair?]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e323">
-            <form>
-               <orth>slinnein</orth>
-               <pron>[shoulder.]</pron>
-            </form>
-            <def>[shoulder.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e332">
-            <form>
-               <orth>uchd</orth>
-               <pron>[breast.]</pron>
-            </form>
-            <def>[breast.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e341">
-            <form>
-               <orth>lurgainn</orth>
-               <pron>[foreleg?]</pron>
-            </form>
-            <def>[foreleg?]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e350">
-            <form>
-               <orth>cnaimh an droma</orth>
-               <pron>[backbone.]</pron>
-            </form>
-            <def>[backbone.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e359">
-            <form>
-               <orth>cruachan</orth>
-               <pron>[hip?]</pron>
-            </form>
-            <def>[hip?]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e368">
-            <form>
-               <orth>màs</orth>
-               <pron>[rump?]</pron>
-            </form>
-            <def>[rump?]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e377">
-            <form>
-               <orth>féithean</orth>
-               <pron>[muscles.]</pron>
-            </form>
-            <def>[muscles.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e386">
-            <form>
-               <orth>urball</orth>
-               <pron>[tail.]</pron>
-            </form>
-            <def>[tail.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e395">
-            <form>
-               <orth>casan toisich</orth>
-               <pron>[forelegs.]</pron>
-            </form>
-            <def>[forelegs.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e404">
-            <form>
-               <orth>casan deiridh</orth>
-               <pron>[hindlegs.]</pron>
-            </form>
-            <def>[hindlegs.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e413">
-            <form>
-               <orth>leth-deiridh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e419">
-            <form>
-               <orth>sgamhan</orth>
-               <pron>[lungs.]</pron>
-            </form>
-            <def>[lungs.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e428">
-            <form>
-               <orth>grùdhan</orth>
-               <pron>[liver.]</pron>
-            </form>
-            <def>[liver.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e437">
-            <form>
-               <orth>dubhagan</orth>
-               <pron>[kidneys.]</pron>
-            </form>
-            <def>[kidneys.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e446">
-            <form>
-               <orth>mionach</orth>
-               <pron>[intestines.]</pron>
-            </form>
-            <def>[intestines.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e455">
-            <form>
-               <orth>dumalas</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e461">
-            <form>
-               <orth>geir</orth>
-               <pron>[fat.]</pron>
-            </form>
-            <def>[fat.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e470">
-            <form>
-               <orth>piob a sgamhain</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeancattle-d0e475"
-            >6. Calving</head>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeancattle-d0e479"
-             subtype="h2">[Expressions used when a cow is taken to the bull:]</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e484">
-            <form>
-               <orth>A dol chon a tairbh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e490">
-            <form>
-               <orth>Chaidh i dhàir</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e496">
-            <form>
-               <orth>Ghabh i an tarbh</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeancattle-d0e501"
-             subtype="h2">[Terms associated with calving itself:]</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e506">
-            <form>
-               <orth>Tha i a ligeil foidhpe</orth>
-            </form>
-            <def>She is showing signs of calf-bearing.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e515">
-            <form>
-               <orth>Leab’ a laoigh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e521">
-            <form>
-               <orth>Ghlan i</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e527">
-            <form>
-               <orth>Rug a bho</orth>
-            </form>
-            <def>The cow calfed.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e536">
-            <form>
-               <orth>Thilg i a laogh</orth>
-            </form>
-            <def>miscarriage.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeancattle-d0e544"
-            >7. Milking</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e549">
-            <form>
-               <orth>a’ bleoghan</orth>
-               <pron>[milking.]</pron>
-            </form>
-            <def>[milking.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e558">
-            <form>
-               <orth>a dol fo’n bhoin</orth>
-               <pron>[milking.]</pron>
-            </form>
-            <def>[milking.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e567">
-            <form>
-               <orth>An do bhleoghain thu bho?</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e573">
-            <form>
-               <orth>An do rinn thu ’n eadradh?</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e579">
-            <form>
-               <orth>Cha do dh’fhag mi sging aice</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e585">
-            <form>
-               <orth>a’ deoghal</orth>
-               <pron>[suckling.]</pron>
-            </form>
-            <def>[suckling.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e594">
-            <form>
-               <orth>bainne nòis</orth>
-               <pron>[milk yielded the first two or three days after calving.]</pron>
-            </form>
-            <def>[milk yielded the first two or three days after calving.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e603">
-            <form>
-               <orth>moch is anamoch</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e609">
-            <form>
-               <orth>bainne na maidne, bainne na h-oidhche</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeancattle-d0e614"
-            >8. Feeding</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e619">
-            <form>
-               <orth>biathadh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e625">
-            <form>
-               <orth>torr</orth>
-            </form>
-            <def>a lot.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e634">
-            <form>
-               <orth>deannan</orth>
-            </form>
-            <def>a goodly amount.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e643">
-            <form>
-               <orth>làn a beoil</orth>
-            </form>
-            <def>a mouthful.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e652">
-            <form>
-               <orth>làn mo bhoise</orth>
-            </form>
-            <def>handful.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e661">
-            <form>
-               <orth>sguab</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e667">
-            <form>
-               <orth>sguab no dhà</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e673">
-            <form>
-               <orth>dorlach mhath</orth>
-            </form>
-            <def>a goodly amount of scraps.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e682">
-            <form>
-               <orth>teamain chirein</orth>
-            </form>
-            <def>short type of seaweed boiled and given to cattle.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e691">
-            <form>
-               <orth>gan toirt gu deoch</orth>
-            </form>
-            <def>bringing them to drink.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e700">
-            <form>
-               <orth>toirt deoch dhaibh</orth>
-            </form>
-            <def>bringing drink to them.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e709">
-            <form>
-               <orth>a buachailleachd</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e715">
-            <form>
-               <orth>air teadhair</orth>
-            </form>
-            <def>tethered.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e724">
-            <form>
-               <orth>mar reidh</orth>
-            </form>
-            <def>free to roam.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e733">
-            <form>
-               <orth>mar sgaoil</orth>
-            </form>
-            <def>free to roam.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e742">
-            <form>
-               <orth>gan cur do’n bheinn</orth>
-            </form>
-            <def>driving them to the hill.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e751">
-            <form>
-               <orth>gan stiureadh do’n bheinn</orth>
-            </form>
-            <def>driving them to the hill.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e760">
-            <form>
-               <orth>am buachaille</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeancattle-d0e765"
-            >9. Apparatus</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e770">
-            <form>
-               <orth>ceangal</orth>
-               <pron>[neck rope?]</pron>
-            </form>
-            <def>[neck rope?]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e779">
-            <form>
-               <orth>teadhair</orth>
-               <pron>[tether.]</pron>
-            </form>
-            <def>[tether.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e788">
-            <form>
-               <orth>ciopain</orth>
-               <pron>[tether stake.]</pron>
-            </form>
-            <def>[tether stake.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e797">
-            <form>
-               <orth>udalan</orth>
-               <pron>[collars?]</pron>
-            </form>
-            <def>[collars?]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e806">
-            <form>
-               <orth>buarach</orth>
-               <pron>[fetter for milking.]</pron>
-            </form>
-            <def>[fetter for milking.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e815">
-            <form>
-               <orth>cròcan</orth>
-            </form>
-            <def>spiked instrument [attached to a calf’s mouth to prevent its sucking its mother].</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeancattle-d0e823"
-            >10. Diseases</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e828">
-            <form>
-               <orth>doire</orth>
-            </form>
-            <def>ringworm.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e837">
-            <form>
-               <orth>feusalan</orth>
-            </form>
-            <def>warble fly.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e846">
-            <form>
-               <orth>mialan</orth>
-            </form>
-            <def>ticks.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e855">
-            <form>
-               <orth>an gàileach ribeach</orth>
-            </form>
-            <def>large warts on gums. Cut in two and bled to cure.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e864">
-            <form>
-               <orth>am broillein</orth>
-            </form>
-            <def>swelling on neck or in stomach.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e873">
-            <form>
-               <orth>an spùt</orth>
-            </form>
-            <def>diarrhoea.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e882">
-            <form>
-               <orth>an tioramachd</orth>
-               <pron>[disease affecting the udder and milk production.]</pron>
-            </form>
-            <def>[disease affecting the udder and milk production.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e891">
-            <form>
-               <orth>fiaras a bhainne</orth>
-               <pron>[disease affecting the udder and milk production.]</pron>
-            </form>
-            <def>[disease affecting the udder and milk production.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e900">
-            <form>
-               <orth>tar na coise</orth>
-            </form>
-            <def>leg sprain.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e909">
-            <form>
-               <orth>an ruadh</orth>
-            </form>
-            <def>udder infection.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeancattle-d0e917"
-            >11. Miscellaneous</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e922">
-            <form>
-               <orth>Ledi, Tìneag</orth>
-            </form>
-            <def>using cow’s name [to call it].</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e931">
-            <form>
-               <orth>shoocan no shoocan beag</orth>
-            </form>
-            <def>calf call.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e940">
-            <form>
-               <orth>moigein</orth>
-            </form>
-            <def>pet name</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e949">
-            <form>
-               <orth>dròbh</orth>
-               <pron>[herd or any collection of cattle.]</pron>
-            </form>
-            <def>[herd or any collection of cattle.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e958">
-            <form>
-               <orth>an spreidh</orth>
-               <pron>[herd or any collection of cattle.]</pron>
-            </form>
-            <def>[herd or any collection of cattle.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e967">
-            <form>
-               <orth>na beathaichean</orth>
-               <pron>[herd or any collection of cattle.]</pron>
-            </form>
-            <def>[herd or any collection of cattle.]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e976">
-            <form>
-               <orth>an aifeinn</orth>
-               <pron>[about a cow]</pron>
-            </form>
-            <def>[about a cow] usually on back with tether caught about the animal.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e985">
-            <form>
-               <orth>am bogadh</orth>
-               <pron>[cow]</pron>
-            </form>
-            <def>[cow] in a bog.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e994">
-            <form>
-               <orth>buachar</orth>
-            </form>
-            <def>cow dung.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e1003">
-            <form>
-               <orth>sitig</orth>
-            </form>
-            <def>any dung hill.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e1012">
-            <form>
-               <orth>guthdair</orth>
-            </form>
-            <def>gutter in byre.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e1021">
-            <form>
-               <orth>inneir</orth>
-            </form>
-            <def>manure.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e1030">
-            <form>
-               <orth>balg buachair</orth>
-            </form>
-            <def>toadstool.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e1039">
-            <form>
-               <orth>càise an Rodain</orth>
-            </form>
-            <def>toadstool, more common than ‘balg buachair’.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e1048">
-            <form>
-               <orth>seicein</orth>
-            </form>
-            <def>calf in poor condition though sometimes used as an endearing term.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CattleandSheep_DunoonJMacLeancattle">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: very often, the informant provides terms without definitions, especially when the questionnaire itself gives a list of English words and expressions under the given section’s
+          heading. In most cases, the informant lists his terms in the same order as they appear in the questionnaire so whenever possible the definitions provided by the questionnaire have been
+          copied and put next to the Gaelic terms provided by the informant.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location>
+          <placeName>Dunoon</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>John MacLean</persName>
+          <persName xml:lang="gd">Iain Mac Illeathain </persName>
+          <age>48</age>
+          <birth>
+            <placeName>Barra</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Cattle</term>
+          <term>Crodh</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="CattleandSheep_DunoonJMacLeancattle-d0e35">1. Different stages in the growth of cattle</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e40">
+        <form>
+          <orth>laogh</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e46">
+        <form>
+          <orth>laogh boise</orth>
+        </form>
+        <def>a sucker.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e55">
+        <form>
+          <orth>gamhain</orth>
+        </form>
+        <def>bliadhnach.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e64">
+        <form>
+          <orth>damh</orth>
+        </form>
+        <def>dò-bhliadhnach.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e73">
+        <form>
+          <orth>agh</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e79">
+        <form>
+          <orth>bó, mart</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e85">
+        <form>
+          <orth>tarbh</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e91">
+        <form>
+          <orth>Nach b’e ’n di-bhailteach an gamhainn</orth>
+        </form>
+        <def>a scraggy stirk.</def>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeancattle-d0e99">2. Breeds of cattle</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e104">
+        <form>
+          <orth>beathach Gaidhealach</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e110">
+        <form>
+          <orth>Gall</orth>
+        </form>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeancattle-d0e115">3. Outward appearance of cattle</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e120">
+        <form>
+          <orth>bo sheasg</orth>
+        </form>
+        <def>dry [cow].</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e129">
+        <form>
+          <orth>bo dhonn</orth>
+        </form>
+        <def>brown cow.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e138">
+        <form>
+          <orth>bo dhubh</orth>
+        </form>
+        <def>black [cow].</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e147">
+        <form>
+          <orth>bo chrom</orth>
+          <pron>[cow with a]</pron>
+        </form>
+        <def>[cow with a] crooked horn.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e156">
+        <form>
+          <orth>bo riabhach</orth>
+        </form>
+        <def>brindled [cow].</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e165">
+        <form>
+          <orth>tarbh mogach</orth>
+        </form>
+        <def>shaggy bull.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e174">
+        <form>
+          <orth>maoilein</orth>
+        </form>
+        <def>hornless cow.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e183">
+        <form>
+          <orth>Tha i cho reamhar ri ròn.</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e189">
+        <form>
+          <orth>Tha i cho caol ri clobha.</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e195">
+        <form>
+          <orth>Nach ann aisde tha faileas.</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e201">
+        <form>
+          <orth>Nach ann aisde tha ’n glence.</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e207">
+        <form>
+          <orth>Tha i gus a bhi air an togail.</orth>
+        </form>
+        <def>She is near the point of death.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e216">
+        <form>
+          <orth>Chan ’eil innte ach na cramhan.</orth>
+        </form>
+        <def>She is nothing but bone.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-idola62">
+        <form>
+          <orth>[Te Ruadh Mhic Mhuirich]</orth>
+        </form>
+        <def>Mac Mhuirich in Uist asked his red haired daughter to demand of him her dowry and Te Ruadh Mhic Mhuirich requested: “Seicein, Meicein m’ aghan meadhrach / Bo dhubh, bo dhonn, bo chrom
+          riabhach / Sliochd na h-aona bà maoile ruadha / Nach do dh’fhàg a bhuaile riamh na h-aonar / Agus an tarbh mogach, donn.” – the lot.</def>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeancattle-d0e233">4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e238">
+        <form>
+          <orth>[moladh]</orth>
+        </form>
+        <def>Did not want to praise their own cattle too much in case they might suffer loss of them: Air eagal ’s gu mìll moladh i.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e247">
+        <form>
+          <orth>[dosgainn]</orth>
+        </form>
+        <def>If a beast died, a person on hearing it said: “Dosgainn na bliadhna gu robh leatha (leis).” (May the years loss be gone with it.)</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e256">
+        <form>
+          <orth>[buachailleachd]</orth>
+        </form>
+        <def> “Buachailleachd Chalum Chill’ oirre.” (May St Columba keep watch over her.)</def>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeancattle-d0e264">5. Parts of the body</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e269">
+        <form>
+          <orth>ceann</orth>
+          <pron>[head.]</pron>
+        </form>
+        <def>[head.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e278">
+        <form>
+          <orth>amhaich</orth>
+          <pron>[neck.]</pron>
+        </form>
+        <def>[neck.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e287">
+        <form>
+          <orth>adhraic</orth>
+          <pron>[horn.]</pron>
+        </form>
+        <def>[horn.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e296">
+        <form>
+          <orth>beul</orth>
+          <pron>[mouth.]</pron>
+        </form>
+        <def>[mouth.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e305">
+        <form>
+          <orth>coinnlein</orth>
+          <pron>[nostril.]</pron>
+        </form>
+        <def>[nostril.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e314">
+        <form>
+          <orth>cluimhteach</orth>
+          <pron>[hair?]</pron>
+        </form>
+        <def>[hair?]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e323">
+        <form>
+          <orth>slinnein</orth>
+          <pron>[shoulder.]</pron>
+        </form>
+        <def>[shoulder.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e332">
+        <form>
+          <orth>uchd</orth>
+          <pron>[breast.]</pron>
+        </form>
+        <def>[breast.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e341">
+        <form>
+          <orth>lurgainn</orth>
+          <pron>[foreleg?]</pron>
+        </form>
+        <def>[foreleg?]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e350">
+        <form>
+          <orth>cnaimh an droma</orth>
+          <pron>[backbone.]</pron>
+        </form>
+        <def>[backbone.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e359">
+        <form>
+          <orth>cruachan</orth>
+          <pron>[hip?]</pron>
+        </form>
+        <def>[hip?]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e368">
+        <form>
+          <orth>màs</orth>
+          <pron>[rump?]</pron>
+        </form>
+        <def>[rump?]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e377">
+        <form>
+          <orth>féithean</orth>
+          <pron>[muscles.]</pron>
+        </form>
+        <def>[muscles.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e386">
+        <form>
+          <orth>urball</orth>
+          <pron>[tail.]</pron>
+        </form>
+        <def>[tail.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e395">
+        <form>
+          <orth>casan toisich</orth>
+          <pron>[forelegs.]</pron>
+        </form>
+        <def>[forelegs.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e404">
+        <form>
+          <orth>casan deiridh</orth>
+          <pron>[hindlegs.]</pron>
+        </form>
+        <def>[hindlegs.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e413">
+        <form>
+          <orth>leth-deiridh</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e419">
+        <form>
+          <orth>sgamhan</orth>
+          <pron>[lungs.]</pron>
+        </form>
+        <def>[lungs.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e428">
+        <form>
+          <orth>grùdhan</orth>
+          <pron>[liver.]</pron>
+        </form>
+        <def>[liver.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e437">
+        <form>
+          <orth>dubhagan</orth>
+          <pron>[kidneys.]</pron>
+        </form>
+        <def>[kidneys.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e446">
+        <form>
+          <orth>mionach</orth>
+          <pron>[intestines.]</pron>
+        </form>
+        <def>[intestines.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e455">
+        <form>
+          <orth>dumalas</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e461">
+        <form>
+          <orth>geir</orth>
+          <pron>[fat.]</pron>
+        </form>
+        <def>[fat.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e470">
+        <form>
+          <orth>piob a sgamhain</orth>
+        </form>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeancattle-d0e475">6. Calving</head>
+      <head xml:id="CattleandSheep_DunoonJMacLeancattle-d0e479" subtype="h2">[Expressions used when a cow is taken to the bull:]</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e484">
+        <form>
+          <orth>A dol chon a tairbh</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e490">
+        <form>
+          <orth>Chaidh i dhàir</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e496">
+        <form>
+          <orth>Ghabh i an tarbh</orth>
+        </form>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeancattle-d0e501" subtype="h2">[Terms associated with calving itself:]</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e506">
+        <form>
+          <orth>Tha i a ligeil foidhpe</orth>
+        </form>
+        <def>She is showing signs of calf-bearing.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e515">
+        <form>
+          <orth>Leab’ a laoigh</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e521">
+        <form>
+          <orth>Ghlan i</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e527">
+        <form>
+          <orth>Rug a bho</orth>
+        </form>
+        <def>The cow calfed.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e536">
+        <form>
+          <orth>Thilg i a laogh</orth>
+        </form>
+        <def>miscarriage.</def>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeancattle-d0e544">7. Milking</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e549">
+        <form>
+          <orth>a’ bleoghan</orth>
+          <pron>[milking.]</pron>
+        </form>
+        <def>[milking.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e558">
+        <form>
+          <orth>a dol fo’n bhoin</orth>
+          <pron>[milking.]</pron>
+        </form>
+        <def>[milking.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e567">
+        <form>
+          <orth>An do bhleoghain thu bho?</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e573">
+        <form>
+          <orth>An do rinn thu ’n eadradh?</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e579">
+        <form>
+          <orth>Cha do dh’fhag mi sging aice</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e585">
+        <form>
+          <orth>a’ deoghal</orth>
+          <pron>[suckling.]</pron>
+        </form>
+        <def>[suckling.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e594">
+        <form>
+          <orth>bainne nòis</orth>
+          <pron>[milk yielded the first two or three days after calving.]</pron>
+        </form>
+        <def>[milk yielded the first two or three days after calving.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e603">
+        <form>
+          <orth>moch is anamoch</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e609">
+        <form>
+          <orth>bainne na maidne, bainne na h-oidhche</orth>
+        </form>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeancattle-d0e614">8. Feeding</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e619">
+        <form>
+          <orth>biathadh</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e625">
+        <form>
+          <orth>torr</orth>
+        </form>
+        <def>a lot.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e634">
+        <form>
+          <orth>deannan</orth>
+        </form>
+        <def>a goodly amount.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e643">
+        <form>
+          <orth>làn a beoil</orth>
+        </form>
+        <def>a mouthful.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e652">
+        <form>
+          <orth>làn mo bhoise</orth>
+        </form>
+        <def>handful.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e661">
+        <form>
+          <orth>sguab</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e667">
+        <form>
+          <orth>sguab no dhà</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e673">
+        <form>
+          <orth>dorlach mhath</orth>
+        </form>
+        <def>a goodly amount of scraps.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e682">
+        <form>
+          <orth>teamain chirein</orth>
+        </form>
+        <def>short type of seaweed boiled and given to cattle.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e691">
+        <form>
+          <orth>gan toirt gu deoch</orth>
+        </form>
+        <def>bringing them to drink.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e700">
+        <form>
+          <orth>toirt deoch dhaibh</orth>
+        </form>
+        <def>bringing drink to them.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e709">
+        <form>
+          <orth>a buachailleachd</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e715">
+        <form>
+          <orth>air teadhair</orth>
+        </form>
+        <def>tethered.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e724">
+        <form>
+          <orth>mar reidh</orth>
+        </form>
+        <def>free to roam.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e733">
+        <form>
+          <orth>mar sgaoil</orth>
+        </form>
+        <def>free to roam.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e742">
+        <form>
+          <orth>gan cur do’n bheinn</orth>
+        </form>
+        <def>driving them to the hill.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e751">
+        <form>
+          <orth>gan stiureadh do’n bheinn</orth>
+        </form>
+        <def>driving them to the hill.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e760" type="person">
+        <form>
+          <orth>am buachaille</orth>
+        </form>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeancattle-d0e765">9. Apparatus</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e770">
+        <form>
+          <orth>ceangal</orth>
+          <pron>[neck rope?]</pron>
+        </form>
+        <def>[neck rope?]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e779">
+        <form>
+          <orth>teadhair</orth>
+          <pron>[tether.]</pron>
+        </form>
+        <def>[tether.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e788">
+        <form>
+          <orth>ciopain</orth>
+          <pron>[tether stake.]</pron>
+        </form>
+        <def>[tether stake.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e797">
+        <form>
+          <orth>udalan</orth>
+          <pron>[collars?]</pron>
+        </form>
+        <def>[collars?]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e806">
+        <form>
+          <orth>buarach</orth>
+          <pron>[fetter for milking.]</pron>
+        </form>
+        <def>[fetter for milking.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e815">
+        <form>
+          <orth>cròcan</orth>
+        </form>
+        <def>spiked instrument [attached to a calf’s mouth to prevent its sucking its mother].</def>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeancattle-d0e823">10. Diseases</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e828">
+        <form>
+          <orth>doire</orth>
+        </form>
+        <def>ringworm.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e837">
+        <form>
+          <orth>feusalan</orth>
+        </form>
+        <def>warble fly.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e846">
+        <form>
+          <orth>mialan</orth>
+        </form>
+        <def>ticks.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e855">
+        <form>
+          <orth>an gàileach ribeach</orth>
+        </form>
+        <def>large warts on gums. Cut in two and bled to cure.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e864">
+        <form>
+          <orth>am broillein</orth>
+        </form>
+        <def>swelling on neck or in stomach.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e873">
+        <form>
+          <orth>an spùt</orth>
+        </form>
+        <def>diarrhoea.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e882">
+        <form>
+          <orth>an tioramachd</orth>
+          <pron>[disease affecting the udder and milk production.]</pron>
+        </form>
+        <def>[disease affecting the udder and milk production.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e891">
+        <form>
+          <orth>fiaras a bhainne</orth>
+          <pron>[disease affecting the udder and milk production.]</pron>
+        </form>
+        <def>[disease affecting the udder and milk production.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e900">
+        <form>
+          <orth>tar na coise</orth>
+        </form>
+        <def>leg sprain.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e909">
+        <form>
+          <orth>an ruadh</orth>
+        </form>
+        <def>udder infection.</def>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeancattle-d0e917">11. Miscellaneous</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e922">
+        <form>
+          <orth>Ledi, Tìneag</orth>
+        </form>
+        <def>using cow’s name [to call it].</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e931">
+        <form>
+          <orth>shoocan no shoocan beag</orth>
+        </form>
+        <def>calf call.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e940">
+        <form>
+          <orth>moigein</orth>
+        </form>
+        <def>pet name</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e949">
+        <form>
+          <orth>dròbh</orth>
+          <pron>[herd or any collection of cattle.]</pron>
+        </form>
+        <def>[herd or any collection of cattle.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e958">
+        <form>
+          <orth>an spreidh</orth>
+          <pron>[herd or any collection of cattle.]</pron>
+        </form>
+        <def>[herd or any collection of cattle.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e967">
+        <form>
+          <orth>na beathaichean</orth>
+          <pron>[herd or any collection of cattle.]</pron>
+        </form>
+        <def>[herd or any collection of cattle.]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e976">
+        <form>
+          <orth>an aifeinn</orth>
+          <pron>[about a cow]</pron>
+        </form>
+        <def>[about a cow] usually on back with tether caught about the animal.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e985">
+        <form>
+          <orth>am bogadh</orth>
+          <pron>[cow]</pron>
+        </form>
+        <def>[cow] in a bog.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e994">
+        <form>
+          <orth>buachar</orth>
+        </form>
+        <def>cow dung.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e1003">
+        <form>
+          <orth>sitig</orth>
+        </form>
+        <def>any dung hill.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e1012">
+        <form>
+          <orth>guthdair</orth>
+        </form>
+        <def>gutter in byre.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e1021">
+        <form>
+          <orth>inneir</orth>
+        </form>
+        <def>manure.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e1030">
+        <form>
+          <orth>balg buachair</orth>
+        </form>
+        <def>toadstool.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e1039">
+        <form>
+          <orth>càise an Rodain</orth>
+        </form>
+        <def>toadstool, more common than ‘balg buachair’.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeancattle-d0e1048">
+        <form>
+          <orth>seicein</orth>
+        </form>
+        <def>calf in poor condition though sometimes used as an endearing term.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

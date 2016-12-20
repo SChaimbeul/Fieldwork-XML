@@ -1,908 +1,883 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="CattleandSheep_CampbeltownMMacLeodsheep">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: the informant uses ‘beag’ or ‘bheag’ to show the gender of the noun. They have been replaced with ‘masc.’ and ‘fem.’ respectively.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <location>
-               <placeName>Argyll, Campbeltown</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>Murdo MacLeod</persName>
-               <age>60</age>
-               <birth>
-                  <placeName>Lewis, Uig</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Sheep</term>
-               <term>Caoraich</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e34"
-            >1. Different stages in the growth of sheep (female)</head>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e39">
-            <form>
-               <orth>uan firionn</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e45">
-            <form>
-               <orth>uan boirionn</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e51">
-            <form>
-               <orth>odhaisg</orth>
-            </form>
-            <def>up to a year old.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e60">
-            <form>
-               <orth>odhaisg fhirionn</orth>
-            </form>
-            <def>wedder.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e69">
-            <form>
-               <orth>odhaisg bhoirionn</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e75">
-            <form>
-               <orth>odhaisg reith</orth>
-            </form>
-            <def>ram.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e84">
-            <form>
-               <orth>bliadhnach firionn</orth>
-            </form>
-            <def>1 year old.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e93">
-            <form>
-               <orth>bliadhnach boirionn</orth>
-            </form>
-            <def>1 year old.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e102">
-            <form>
-               <orth>bliadhnach reith</orth>
-            </form>
-            <def>1 year old.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e111">
-            <form>
-               <orth>dò-bhliadhnach firionn agus dò-bhliadhnach muilt</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e117">
-            <form>
-               <orth>dò-bhliadhnach boirionn</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e123">
-            <form>
-               <orth>dò-bhliadhnach reith</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e129">
-            <form>
-               <orth>tri-bhliadhnach muilt no mult</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e135">
-            <form>
-               <orth>tri-bhliadhnach boirionn</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e141">
-            <form>
-               <orth>tearrainneach</orth>
-            </form>
-            <def>missed having a lamb for a year.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e150">
-            <form>
-               <orth>caora</orth>
-            </form>
-            <def>over three years old.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e159">
-            <form>
-               <orth>beitheach caorach</orth>
-            </form>
-            <def>can be male or female.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e168">
-            <form>
-               <orth>rùd</orth>
-            </form>
-            <def>ram.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e177">
-            <form>
-               <orth>reith</orth>
-            </form>
-            <def>ram.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e186">
-            <form>
-               <orth>ciora</orth>
-            </form>
-            <def>a pet lamb, hand-fed, male or female. The name still applies to the same animal after reaching maturity, i.e. once a ciora always a ciora!</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e195">
-            <form>
-               <orth>croga</orth>
-            </form>
-            <def>cast ewe.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e203"
-            >2. Different stages in the growth of sheep (male)</head>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e208">
-            <form>
-               <orth>uanreith (pronounced ooah-ray)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e214">
-            <form>
-               <orth>odhaisg rùid</orth>
-            </form>
-            <def>up to 1 year old. (The ‘r’ in ‘ruid’ is aspirated.)</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e223">
-            <form>
-               <orth>bliadhnach rùid</orth>
-            </form>
-            <def>1 year old. (The ‘r’ is not aspirated.)</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e232">
-            <form>
-               <orth>dò-bhliadhnach</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e238">
-            <form>
-               <orth>tri-bhliadhnach</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e244">
-            <form>
-               <orth>ceithir-bhliadhnach</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e250">
-            <form>
-               <orth>clamair</orth>
-            </form>
-            <def>an old, well horned ram. (Single ‘l’ sound as in English ‘clam’.) “Ach co leis an clamair?”</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e258"
-            >3. Different stages in the growth of the castrated male</head>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e263">
-            <form>
-               <orth>uan firionn</orth>
-            </form>
-            <def>before and after castration.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e272">
-            <form>
-               <orth>odhaisg fhirionn</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e278">
-            <form>
-               <orth>odhaisg mhuilt</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e284">
-            <form>
-               <orth>bliadhnach firionn</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e290">
-            <form>
-               <orth>bliadhnach muilt</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e296">
-            <form>
-               <orth>dò-bhliadhnach firionn</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e302">
-            <form>
-               <orth>dò-bhliadhnach muilt</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e308">
-            <form>
-               <orth>tri-bhliadhnach muilt (never fiorionn )</orth>
-               <pron>[sic]</pron>
-            </form>
-            <def>[sic] </def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e314">
-            <form>
-               <orth>ceithir-bhliadhnach muilt (not ceithir bhliadhnach firionn)</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e319"
-            >4. Sheep’s appearance</head>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e324">
-            <form>
-               <orth>[sgrogag]</orth>
-            </form>
-            <def>Caora bheag, nùlach le sgrogagan beag de dh adhaircean oirre. (‘Sgrogag’ has the same nasal sound as ‘crocan’ (‘cnocan’, a hillock).)</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e333">
-            <form>
-               <orth>[liabhach]</orth>
-            </form>
-            <def>Caora bheag mhollach le adhaircean liabhach (wide-spread).</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e342">
-            <form>
-               <orth>caora-ghireach</orth>
-            </form>
-            <def>short wool.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e351">
-            <form>
-               <orth>caora-mhaol</orth>
-            </form>
-            <def>no horns.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e360">
-            <form>
-               <orth>caora-chiar</orth>
-            </form>
-            <def>off-white.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e369">
-            <form>
-               <orth>caora-dhubh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e375">
-            <form>
-               <orth>caora ‘air a duppadh’</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e380"
-            >5. Miscellaneous</head>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e385">
-            <form>
-               <orth>raige</orth>
-            </form>
-            <def>ram with one testicle, English ‘rig’. (The ‘a’ in ‘raige’ is sounded the same as the first ‘a’ in ‘aghaidh’, a face.)</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e393"
-            >6. Feeding and grazing</head>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e398">
-            <form>
-               <orth>a h-àbhais</orth>
-            </form>
-            <def>her usual beat. Cha deach i bh air [?] a h-àbhais(d) fad na bliadhna.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e407">
-            <form>
-               <orth>frasach</orth>
-            </form>
-            <def>This was fixed on the wall and filled with hay which the sheep pulled through narrow slats and so avoiding waste. Set at an angle to the wall.
-        <graphic url="CampbeltownMMacLeodsheepillust1.jpg" width="500px"/>
-            </def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e418">
-            <form>
-               <orth>miodar</orth>
-            </form>
-            <def>a small wooden vessel for holding liquids e.g. milk for a calf, miodar a’ laoigh. Also held ‘bree’ from boiled salt herring, herring bones, potato peelings etc. given to the cows.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e427">
-            <form>
-               <orth>fracus</orth>
-            </form>
-            <def>fracus sgadain – bits and pieces of herring.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e435"
-            >7. Handling of sheep</head>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e440">
-            <form>
-               <orth>a’ cur a mach nan caorach</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e446">
-            <form>
-               <orth>a’ cur nan caorach go na mòintich</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e452">
-            <form>
-               <orth>a’ toirt dhachaidh nan caorach</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e458">
-            <form>
-               <orth>a’ faingeadh</orth>
-            </form>
-            <def>fanking.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e467">
-            <form>
-               <orth>trusadh nan caorach</orth>
-            </form>
-            <def>gathering. Or simply ‘trusadh’. A’ trusadh na mointich, nam beannaidh, a’ mhonaidh.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e476">
-            <form>
-               <orth>grunn chaorach</orth>
-            </form>
-            <def>a number of sheep.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e485">
-            <form>
-               <orth>grunnan math chaorach</orth>
-            </form>
-            <def>a fair number [of sheep].</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e494">
-            <form>
-               <orth>treud chaorach</orth>
-            </form>
-            <def>a flock of sheep (usually strung out behind one another), e.g. ‘Tha treud chaorach a mach a rathad.’</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e503">
-            <form>
-               <orth>‘Fen e falbh’, ‘Fen e d ais’</orth>
-            </form>
-            <def>‘way out’, ‘go back’. [commands given to a sheep-dog]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e512">
-            <form>
-               <orth>‘Go mu chois’</orth>
-            </form>
-            <def>‘heel’. [command given to a sheep-dog]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e521">
-            <form>
-               <orth>‘Mach e sen’</orth>
-            </form>
-            <def>‘away out’. [command given to a sheep-dog]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e530">
-            <form>
-               <orth>‘Stigh e’</orth>
-            </form>
-            <def>‘after it’, i.e. encouraging the dog to chase harder, not at all in the sense of  taking an animal to an enclosure, in fact the opposite.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e539">
-            <form>
-               <orth>faing rùsgaidh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e545">
-            <form>
-               <orth>faing dhuppaidh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e551">
-            <form>
-               <orth>faing nan uan</orth>
-            </form>
-            <def>when lambs are separated from their mothers.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e560">
-            <form>
-               <orth>amar or amar duppaidh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e566">
-            <form>
-               <orth>a’ duppadh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e572">
-            <form>
-               <orth>a’ cur gorm no dearg as na caoraich</orth>
-            </form>
-            <def>marking with blue or red keel.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e581">
-            <form>
-               <orth>a’ cohharrachadh  nan uan</orth>
-               <pron>[sic]</pron>
-            </form>
-            <def>[sic] lug marking.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e590">
-            <form>
-               <orth>a’ spoth</orth>
-            </form>
-            <def>castrating. A more ‘genteel’ term used is ‘spogadh’ but not used often.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e599">
-            <form>
-               <orth>‘ciorrag bheag’</orth>
-               <pron>[call to a lamb or sheep]</pron>
-            </form>
-            <def>[call to a lamb or sheep] or sometimes imitating the bleat, e.g. ‘maa bheag’.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e607"
-            >8. Apparatus</head>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e612">
-            <form>
-               <orth>smiag (pronounced smeeag)</orth>
-            </form>
-            <def>a piece of wood with three holes, one at each end and one in the middle. The rope forming the lamb’s collar went through the two outer holes and were fixed by means of a knot. The tether went through the centre hole and [was] kept from running through by a knot on the end.
-        <graphic url="CampbeltownMMacLeodsheepillust2.jpg" width="600px"/>
-            </def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e623">
-            <form>
-               <orth>bacan</orth>
-            </form>
-            <def>tether stake.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e632">
-            <form>
-               <orth>suidhbheal ( soo-i-vil)</orth>
-               <pron>[pron.]</pron>
-            </form>
-            <def>[pron.] swivel. (This is the pronunciation I heard a Southend fisherman use although he has no Gaelic.)</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e640"
-            >9. Diseases</head>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e645">
-            <form>
-               <orth>cleimh, a’ chleimh</orth>
-            </form>
-            <def>scab; itchiness leaving bare patches of skin.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e654">
-            <form>
-               <orth>miul (), miulan caorach</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] keds.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e663">
-            <form>
-               <orth>gartan ()</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] tick.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e672">
-            <form>
-               <orth>fiarrsannan (), pl. fiarrsannanan</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] worm in skin, usually of a cow.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e681">
-            <form>
-               <orth>an doille ()</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] blindness, the eye turning whitish, opaque.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e690">
-            <form>
-               <orth>an tuathalan ()</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] giddiness; lack of balance.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e699">
-            <form>
-               <orth>am pluc ()</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] liver fluke disease.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e708">
-            <form>
-               <orth>leòbagan air an adha</orth>
-            </form>
-            <def>liver flukes.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e717">
-            <form>
-               <orth>spùt</orth>
-            </form>
-            <def>diarrhoea.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e726">
-            <form>
-               <orth>lot ()</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] lot air a sgamhan, a blemish on the lungs.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e735">
-            <form>
-               <orth>a’ cleith a’ bhoinne</orth>
-            </form>
-            <def>withholding the milk; ‘Cha do leag i ’m boinne.’</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e744">
-            <form>
-               <orth>Tha galair innt.</orth>
-            </form>
-            <def>She has a disease (not specific).</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e753">
-            <form>
-               <orth>Tha gaod innt.</orth>
-            </form>
-            <def>She has a disease (not specific). Similarly, a blemish in a piece of sound-looking wood: ‘Tha gaod ann.’</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e761"
-            >10. Parts of the body</head>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e766">
-            <form>
-               <orth>ceann ()</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] sùil, bus, eanachainn, cluas, teanga, stròn, duileasg na stròine.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e775">
-            <form>
-               <orth>ochd ()</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] breast.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e784">
-            <form>
-               <orth>caisean ochd</orth>
-            </form>
-            <def>skin on breast, a tit-bit at killing time. Skin was cut off, with wool still on, a red hot cinder put inside and left to cook!</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e793">
-            <form>
-               <orth>casan cinn</orth>
-            </form>
-            <def>forelegs.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e802">
-            <form>
-               <orth>crudhanan beaga</orth>
-            </form>
-            <def>fetlocks.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e811">
-            <form>
-               <orth>créimh an droma</orth>
-            </form>
-            <def>back-bone.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e820">
-            <form>
-               <orth>smior cailleach</orth>
-            </form>
-            <def>spinal cord. (‘ai’ sound in Uig is more like ‘ei’, thus: ‘ceilleach’; ‘spaid’ is ‘speid’; ‘maide’ is ‘meide’; ‘sen’ is used instead of ‘sin’.)</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e829">
-            <form>
-               <orth>an crudha deiridh</orth>
-            </form>
-            <def>hindquarters.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e838">
-            <form>
-               <orth>cruachan (), pl. cruachanan</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] hip.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e847">
-            <form>
-               <orth>suil a’ leis</orth>
-            </form>
-            <def>socket joint at hip.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e856">
-            <form>
-               <orth>losaid ()</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] Chaidh i as a losaid – her hip-joint is out.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e865">
-            <form>
-               <orth>an cridhe</orth>
-            </form>
-            <def>heart.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e874">
-            <form>
-               <orth>cuisil</orth>
-            </form>
-            <def>artery. (Vein, I don’t know Gaelic of.)</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e883">
-            <form>
-               <orth>fuil ()</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] blood.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e892">
-            <form>
-               <orth>sgamhanan ()</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] lungs.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e901">
-            <form>
-               <orth>sgòrnan ()</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] trachea.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e910">
-            <form>
-               <orth>ubhal a’ sgornain</orth>
-            </form>
-            <def>larynx.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e919">
-            <form>
-               <orth>adha ()</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] liver.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e928">
-            <form>
-               <orth>duagan ()</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] kidneys.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e937">
-            <form>
-               <orth>staoig () an amadain</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] found stuck to the maodal [q.v.] (spleen?).</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e946">
-            <form>
-               <orth>domalas ()</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] gall-bladder.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e955">
-            <form>
-               <orth>a’ spoth aige</orth>
-            </form>
-            <def>its genital organs.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e964">
-            <form>
-               <orth>am poc</orth>
-            </form>
-            <def>the bag.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e973">
-            <form>
-               <orth>na clachan</orth>
-            </form>
-            <def>the testicles.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e982">
-            <form>
-               <orth>am bogan</orth>
-            </form>
-            <def>the penis.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e991">
-            <form>
-               <orth>am bod</orth>
-            </form>
-            <def>the penis.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1000">
-            <form>
-               <orth>an t-slat</orth>
-            </form>
-            <def>the penis.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1009">
-            <form>
-               <orth>an cochull ()</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] the sheath.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1018">
-            <form>
-               <orth>it-itheach ( i-each)</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.]) ([pron.?] gullet.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1027">
-            <form>
-               <orth>a’ mhaodal ()</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] stomach.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1036">
-            <form>
-               <orth>caolanan ()</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] intestines.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1045">
-            <form>
-               <orth>na caolanan beaga</orth>
-            </form>
-            <def>small intestines.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1054">
-            <form>
-               <orth>na caolanan gorma</orth>
-            </form>
-            <def>small intestines.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1063">
-            <form>
-               <orth>an caolan mor</orth>
-            </form>
-            <def>large intestine.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1072">
-            <form>
-               <orth>na caolanan mora</orth>
-            </form>
-            <def>large intestines.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1081">
-            <form>
-               <orth>am brallein ()</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] colon (?).</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1090">
-            <form>
-               <orth>geir na maodail</orth>
-            </form>
-            <def>fat on the stomach.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1099">
-            <form>
-               <orth>na lòineachan</orth>
-            </form>
-            <def>fat round kidneys.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1107"
-            >11. Lambing</head>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1112">
-            <form>
-               <orth>cur nan caorach gu ’na rùid</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1118">
-            <form>
-               <orth>cur nan caorach gu ’na reithe</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1124">
-            <form>
-               <orth>Tha reitheachd oirre</orth>
-            </form>
-            <def>wanting the ram.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1133">
-            <form>
-               <orth>Chaidh i air reitheachd</orth>
-            </form>
-            <def>she was served. (Double ‘r’ sound as in Nom. case.)</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1142">
-            <form>
-               <orth>Reithich a’ rùd i</orth>
-            </form>
-            <def>the ram served her.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1151">
-            <form>
-               <orth>Chaidh i seach reitheachd</orth>
-            </form>
-            <def>she has gone past the time.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1160">
-            <form>
-               <orth>leum reitheachd</orth>
-            </form>
-            <def>the effective jump.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1169">
-            <form>
-               <orth>leabaidh an uain</orth>
-            </form>
-            <def>inside the sheep.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1178">
-            <form>
-               <orth>salchar</orth>
-            </form>
-            <def>placenta.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1186"
-            >12. Miscellaneous</head>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1191">
-            <form>
-               <orth>toban</orth>
-            </form>
-            <def>tuft.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1200">
-            <form>
-               <orth>caora chleimheach</orth>
-            </form>
-            <def>scabby sheep.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1209">
-            <form>
-               <orth>caora chùlanach</orth>
-            </form>
-            <def>sheep with black wool round the neck like a black collar (nothing to do with disease, just as a matter of interest).</def>
-         </entry>
-         <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1218">
-            <form>
-               <orth>cùlan</orth>
-            </form>
-            <def>black wool round a sheep’s neck (nothing to do with disease, just as a matter of interest).</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CattleandSheep_CampbeltownMMacLeodsheep">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: the informant uses ‘beag’ or ‘bheag’ to show the gender of the noun. They have been replaced with ‘masc.’ and ‘fem.’ respectively.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location>
+          <placeName>Argyll, Campbeltown</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>Murdo MacLeod</persName>
+          <age>60</age>
+          <birth>
+            <placeName>Lewis, Uig</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Sheep</term>
+          <term>Caoraich</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e34">1. Different stages in the growth of sheep (female)</head>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e39">
+        <form>
+          <orth>uan firionn</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e45">
+        <form>
+          <orth>uan boirionn</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e51">
+        <form>
+          <orth>odhaisg</orth>
+        </form>
+        <def>up to a year old.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e60">
+        <form>
+          <orth>odhaisg fhirionn</orth>
+        </form>
+        <def>wedder.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e69">
+        <form>
+          <orth>odhaisg bhoirionn</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e75">
+        <form>
+          <orth>odhaisg reith</orth>
+        </form>
+        <def>ram.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e84">
+        <form>
+          <orth>bliadhnach firionn</orth>
+        </form>
+        <def>1 year old.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e93">
+        <form>
+          <orth>bliadhnach boirionn</orth>
+        </form>
+        <def>1 year old.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e102">
+        <form>
+          <orth>bliadhnach reith</orth>
+        </form>
+        <def>1 year old.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e111">
+        <form>
+          <orth>dò-bhliadhnach firionn agus dò-bhliadhnach muilt</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e117">
+        <form>
+          <orth>dò-bhliadhnach boirionn</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e123">
+        <form>
+          <orth>dò-bhliadhnach reith</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e129">
+        <form>
+          <orth>tri-bhliadhnach muilt no mult</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e135">
+        <form>
+          <orth>tri-bhliadhnach boirionn</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e141">
+        <form>
+          <orth>tearrainneach</orth>
+        </form>
+        <def>missed having a lamb for a year.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e150">
+        <form>
+          <orth>caora</orth>
+        </form>
+        <def>over three years old.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e159">
+        <form>
+          <orth>beitheach caorach</orth>
+        </form>
+        <def>can be male or female.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e168">
+        <form>
+          <orth>rùd</orth>
+        </form>
+        <def>ram.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e177">
+        <form>
+          <orth>reith</orth>
+        </form>
+        <def>ram.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e186">
+        <form>
+          <orth>ciora</orth>
+        </form>
+        <def>a pet lamb, hand-fed, male or female. The name still applies to the same animal after reaching maturity, i.e. once a ciora always a ciora!</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e195">
+        <form>
+          <orth>croga</orth>
+        </form>
+        <def>cast ewe.</def>
+      </entry>
+      <head xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e203">2. Different stages in the growth of sheep (male)</head>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e208">
+        <form>
+          <orth>uanreith (pronounced ooah-ray)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e214">
+        <form>
+          <orth>odhaisg rùid</orth>
+        </form>
+        <def>up to 1 year old. (The ‘r’ in ‘ruid’ is aspirated.)</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e223">
+        <form>
+          <orth>bliadhnach rùid</orth>
+        </form>
+        <def>1 year old. (The ‘r’ is not aspirated.)</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e232">
+        <form>
+          <orth>dò-bhliadhnach</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e238">
+        <form>
+          <orth>tri-bhliadhnach</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e244">
+        <form>
+          <orth>ceithir-bhliadhnach</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e250">
+        <form>
+          <orth>clamair</orth>
+        </form>
+        <def>an old, well horned ram. (Single ‘l’ sound as in English ‘clam’.) “Ach co leis an clamair?”</def>
+      </entry>
+      <head xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e258">3. Different stages in the growth of the castrated male</head>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e263">
+        <form>
+          <orth>uan firionn</orth>
+        </form>
+        <def>before and after castration.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e272">
+        <form>
+          <orth>odhaisg fhirionn</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e278">
+        <form>
+          <orth>odhaisg mhuilt</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e284">
+        <form>
+          <orth>bliadhnach firionn</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e290">
+        <form>
+          <orth>bliadhnach muilt</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e296">
+        <form>
+          <orth>dò-bhliadhnach firionn</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e302">
+        <form>
+          <orth>dò-bhliadhnach muilt</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e308">
+        <form>
+          <orth>tri-bhliadhnach muilt (never fiorionn )</orth>
+          <pron>[sic]</pron>
+        </form>
+        <def>[sic] </def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e314">
+        <form>
+          <orth>ceithir-bhliadhnach muilt (not ceithir bhliadhnach firionn)</orth>
+        </form>
+      </entry>
+      <head xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e319">4. Sheep’s appearance</head>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e324">
+        <form>
+          <orth>[sgrogag]</orth>
+        </form>
+        <def>Caora bheag, nùlach le sgrogagan beag de dh adhaircean oirre. (‘Sgrogag’ has the same nasal sound as ‘crocan’ (‘cnocan’, a hillock).)</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e333">
+        <form>
+          <orth>[liabhach]</orth>
+        </form>
+        <def>Caora bheag mhollach le adhaircean liabhach (wide-spread).</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e342">
+        <form>
+          <orth>caora-ghireach</orth>
+        </form>
+        <def>short wool.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e351">
+        <form>
+          <orth>caora-mhaol</orth>
+        </form>
+        <def>no horns.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e360">
+        <form>
+          <orth>caora-chiar</orth>
+        </form>
+        <def>off-white.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e369">
+        <form>
+          <orth>caora-dhubh</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e375">
+        <form>
+          <orth>caora ‘air a duppadh’</orth>
+        </form>
+      </entry>
+      <head xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e380">5. Miscellaneous</head>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e385">
+        <form>
+          <orth>raige</orth>
+        </form>
+        <def>ram with one testicle, English ‘rig’. (The ‘a’ in ‘raige’ is sounded the same as the first ‘a’ in ‘aghaidh’, a face.)</def>
+      </entry>
+      <head xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e393">6. Feeding and grazing</head>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e398">
+        <form>
+          <orth>a h-àbhais</orth>
+        </form>
+        <def>her usual beat. Cha deach i bh air [?] a h-àbhais(d) fad na bliadhna.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e407">
+        <form>
+          <orth>frasach</orth>
+        </form>
+        <def>This was fixed on the wall and filled with hay which the sheep pulled through narrow slats and so avoiding waste. Set at an angle to the wall. <graphic
+            url="CampbeltownMMacLeodsheepillust1.jpg" width="500px"/>
+        </def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e418">
+        <form>
+          <orth>miodar</orth>
+        </form>
+        <def>a small wooden vessel for holding liquids e.g. milk for a calf, miodar a’ laoigh. Also held ‘bree’ from boiled salt herring, herring bones, potato peelings etc. given to the cows.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e427">
+        <form>
+          <orth>fracus</orth>
+        </form>
+        <def>fracus sgadain – bits and pieces of herring.</def>
+      </entry>
+      <head xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e435">7. Handling of sheep</head>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e440">
+        <form>
+          <orth>a’ cur a mach nan caorach</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e446">
+        <form>
+          <orth>a’ cur nan caorach go na mòintich</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e452">
+        <form>
+          <orth>a’ toirt dhachaidh nan caorach</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e458">
+        <form>
+          <orth>a’ faingeadh</orth>
+        </form>
+        <def>fanking.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e467">
+        <form>
+          <orth>trusadh nan caorach</orth>
+        </form>
+        <def>gathering. Or simply ‘trusadh’. A’ trusadh na mointich, nam beannaidh, a’ mhonaidh.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e476">
+        <form>
+          <orth>grunn chaorach</orth>
+        </form>
+        <def>a number of sheep.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e485">
+        <form>
+          <orth>grunnan math chaorach</orth>
+        </form>
+        <def>a fair number [of sheep].</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e494">
+        <form>
+          <orth>treud chaorach</orth>
+        </form>
+        <def>a flock of sheep (usually strung out behind one another), e.g. ‘Tha treud chaorach a mach a rathad.’</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e503">
+        <form>
+          <orth>‘Fen e falbh’, ‘Fen e d ais’</orth>
+        </form>
+        <def>‘way out’, ‘go back’. [commands given to a sheep-dog]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e512">
+        <form>
+          <orth>‘Go mu chois’</orth>
+        </form>
+        <def>‘heel’. [command given to a sheep-dog]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e521">
+        <form>
+          <orth>‘Mach e sen’</orth>
+        </form>
+        <def>‘away out’. [command given to a sheep-dog]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e530">
+        <form>
+          <orth>‘Stigh e’</orth>
+        </form>
+        <def>‘after it’, i.e. encouraging the dog to chase harder, not at all in the sense of  taking an animal to an enclosure, in fact the opposite.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e539">
+        <form>
+          <orth>faing rùsgaidh</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e545">
+        <form>
+          <orth>faing dhuppaidh</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e551">
+        <form>
+          <orth>faing nan uan</orth>
+        </form>
+        <def>when lambs are separated from their mothers.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e560">
+        <form>
+          <orth>amar or amar duppaidh</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e566">
+        <form>
+          <orth>a’ duppadh</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e572">
+        <form>
+          <orth>a’ cur gorm no dearg as na caoraich</orth>
+        </form>
+        <def>marking with blue or red keel.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e581">
+        <form>
+          <orth>a’ cohharrachadh nan uan</orth>
+          <pron>[sic]</pron>
+        </form>
+        <def>[sic] lug marking.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e590">
+        <form>
+          <orth>a’ spoth</orth>
+        </form>
+        <def>castrating. A more ‘genteel’ term used is ‘spogadh’ but not used often.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e599">
+        <form>
+          <orth>‘ciorrag bheag’</orth>
+          <pron>[call to a lamb or sheep]</pron>
+        </form>
+        <def>[call to a lamb or sheep] or sometimes imitating the bleat, e.g. ‘maa bheag’.</def>
+      </entry>
+      <head xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e607">8. Apparatus</head>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e612">
+        <form>
+          <orth>smiag (pronounced smeeag)</orth>
+        </form>
+        <def>a piece of wood with three holes, one at each end and one in the middle. The rope forming the lamb’s collar went through the two outer holes and were fixed by means of a knot. The tether
+          went through the centre hole and [was] kept from running through by a knot on the end. <graphic url="CampbeltownMMacLeodsheepillust2.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e623">
+        <form>
+          <orth>bacan</orth>
+        </form>
+        <def>tether stake.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e632">
+        <form>
+          <orth>suidhbheal ( soo-i-vil)</orth>
+          <pron>[pron.]</pron>
+        </form>
+        <def>[pron.] swivel. (This is the pronunciation I heard a Southend fisherman use although he has no Gaelic.)</def>
+      </entry>
+      <head xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e640">9. Diseases</head>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e645">
+        <form>
+          <orth>cleimh, a’ chleimh</orth>
+        </form>
+        <def>scab; itchiness leaving bare patches of skin.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e654">
+        <form>
+          <orth>miul (), miulan caorach</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] keds.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e663">
+        <form>
+          <orth>gartan ()</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] tick.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e672">
+        <form>
+          <orth>fiarrsannan (), pl. fiarrsannanan</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] worm in skin, usually of a cow.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e681">
+        <form>
+          <orth>an doille ()</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] blindness, the eye turning whitish, opaque.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e690">
+        <form>
+          <orth>an tuathalan ()</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] giddiness; lack of balance.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e699">
+        <form>
+          <orth>am pluc ()</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] liver fluke disease.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e708">
+        <form>
+          <orth>leòbagan air an adha</orth>
+        </form>
+        <def>liver flukes.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e717">
+        <form>
+          <orth>spùt</orth>
+        </form>
+        <def>diarrhoea.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e726">
+        <form>
+          <orth>lot ()</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] lot air a sgamhan, a blemish on the lungs.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e735">
+        <form>
+          <orth>a’ cleith a’ bhoinne</orth>
+        </form>
+        <def>withholding the milk; ‘Cha do leag i ’m boinne.’</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e744">
+        <form>
+          <orth>Tha galair innt.</orth>
+        </form>
+        <def>She has a disease (not specific).</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e753">
+        <form>
+          <orth>Tha gaod innt.</orth>
+        </form>
+        <def>She has a disease (not specific). Similarly, a blemish in a piece of sound-looking wood: ‘Tha gaod ann.’</def>
+      </entry>
+      <head xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e761">10. Parts of the body</head>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e766">
+        <form>
+          <orth>ceann ()</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] sùil, bus, eanachainn, cluas, teanga, stròn, duileasg na stròine.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e775">
+        <form>
+          <orth>ochd ()</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] breast.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e784">
+        <form>
+          <orth>caisean ochd</orth>
+        </form>
+        <def>skin on breast, a tit-bit at killing time. Skin was cut off, with wool still on, a red hot cinder put inside and left to cook!</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e793">
+        <form>
+          <orth>casan cinn</orth>
+        </form>
+        <def>forelegs.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e802">
+        <form>
+          <orth>crudhanan beaga</orth>
+        </form>
+        <def>fetlocks.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e811">
+        <form>
+          <orth>créimh an droma</orth>
+        </form>
+        <def>back-bone.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e820">
+        <form>
+          <orth>smior cailleach</orth>
+        </form>
+        <def>spinal cord. (‘ai’ sound in Uig is more like ‘ei’, thus: ‘ceilleach’; ‘spaid’ is ‘speid’; ‘maide’ is ‘meide’; ‘sen’ is used instead of ‘sin’.)</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e829">
+        <form>
+          <orth>an crudha deiridh</orth>
+        </form>
+        <def>hindquarters.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e838">
+        <form>
+          <orth>cruachan (), pl. cruachanan</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] hip.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e847">
+        <form>
+          <orth>suil a’ leis</orth>
+        </form>
+        <def>socket joint at hip.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e856">
+        <form>
+          <orth>losaid ()</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] Chaidh i as a losaid – her hip-joint is out.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e865">
+        <form>
+          <orth>an cridhe</orth>
+        </form>
+        <def>heart.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e874">
+        <form>
+          <orth>cuisil</orth>
+        </form>
+        <def>artery. (Vein, I don’t know Gaelic of.)</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e883">
+        <form>
+          <orth>fuil ()</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] blood.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e892">
+        <form>
+          <orth>sgamhanan ()</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] lungs.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e901">
+        <form>
+          <orth>sgòrnan ()</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] trachea.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e910">
+        <form>
+          <orth>ubhal a’ sgornain</orth>
+        </form>
+        <def>larynx.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e919">
+        <form>
+          <orth>adha ()</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] liver.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e928">
+        <form>
+          <orth>duagan ()</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] kidneys.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e937">
+        <form>
+          <orth>staoig () an amadain</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] found stuck to the maodal [q.v.] (spleen?).</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e946">
+        <form>
+          <orth>domalas ()</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] gall-bladder.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e955">
+        <form>
+          <orth>a’ spoth aige</orth>
+        </form>
+        <def>its genital organs.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e964">
+        <form>
+          <orth>am poc</orth>
+        </form>
+        <def>the bag.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e973">
+        <form>
+          <orth>na clachan</orth>
+        </form>
+        <def>the testicles.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e982">
+        <form>
+          <orth>am bogan</orth>
+        </form>
+        <def>the penis.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e991">
+        <form>
+          <orth>am bod</orth>
+        </form>
+        <def>the penis.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1000">
+        <form>
+          <orth>an t-slat</orth>
+        </form>
+        <def>the penis.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1009">
+        <form>
+          <orth>an cochull ()</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] the sheath.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1018">
+        <form>
+          <orth>it-itheach ( i-each)</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.]) ([pron.?] gullet.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1027">
+        <form>
+          <orth>a’ mhaodal ()</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] stomach.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1036">
+        <form>
+          <orth>caolanan ()</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] intestines.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1045">
+        <form>
+          <orth>na caolanan beaga</orth>
+        </form>
+        <def>small intestines.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1054">
+        <form>
+          <orth>na caolanan gorma</orth>
+        </form>
+        <def>small intestines.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1063">
+        <form>
+          <orth>an caolan mor</orth>
+        </form>
+        <def>large intestine.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1072">
+        <form>
+          <orth>na caolanan mora</orth>
+        </form>
+        <def>large intestines.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1081">
+        <form>
+          <orth>am brallein ()</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] colon (?).</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1090">
+        <form>
+          <orth>geir na maodail</orth>
+        </form>
+        <def>fat on the stomach.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1099">
+        <form>
+          <orth>na lòineachan</orth>
+        </form>
+        <def>fat round kidneys.</def>
+      </entry>
+      <head xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1107">11. Lambing</head>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1112">
+        <form>
+          <orth>cur nan caorach gu ’na rùid</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1118">
+        <form>
+          <orth>cur nan caorach gu ’na reithe</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1124">
+        <form>
+          <orth>Tha reitheachd oirre</orth>
+        </form>
+        <def>wanting the ram.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1133">
+        <form>
+          <orth>Chaidh i air reitheachd</orth>
+        </form>
+        <def>she was served. (Double ‘r’ sound as in Nom. case.)</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1142">
+        <form>
+          <orth>Reithich a’ rùd i</orth>
+        </form>
+        <def>the ram served her.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1151">
+        <form>
+          <orth>Chaidh i seach reitheachd</orth>
+        </form>
+        <def>she has gone past the time.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1160">
+        <form>
+          <orth>leum reitheachd</orth>
+        </form>
+        <def>the effective jump.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1169">
+        <form>
+          <orth>leabaidh an uain</orth>
+        </form>
+        <def>inside the sheep.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1178">
+        <form>
+          <orth>salchar</orth>
+        </form>
+        <def>placenta.</def>
+      </entry>
+      <head xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1186">12. Miscellaneous</head>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1191">
+        <form>
+          <orth>toban</orth>
+        </form>
+        <def>tuft.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1200">
+        <form>
+          <orth>caora chleimheach</orth>
+        </form>
+        <def>scabby sheep.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1209">
+        <form>
+          <orth>caora chùlanach</orth>
+        </form>
+        <def>sheep with black wool round the neck like a black collar (nothing to do with disease, just as a matter of interest).</def>
+      </entry>
+      <entry xml:id="CattleandSheep_CampbeltownMMacLeodsheep-d0e1218">
+        <form>
+          <orth>cùlan</orth>
+        </form>
+        <def>black wool round a sheep’s neck (nothing to do with disease, just as a matter of interest).</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

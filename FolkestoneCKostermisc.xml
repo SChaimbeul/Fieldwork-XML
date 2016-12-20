@@ -1,309 +1,311 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="DRMorrisonetal_FolkestoneCKostermisc">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: the informant explains in the letter attached to the word-list that it contains ‘some unusual words I heard from my parents – my mother being a native of Applecross (…) A few of these words I heard on holiday in Melness last summer.’]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <location>
-               <placeName>Kent, Folkestone</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>Catherine Koster</persName>
-               <birth>
-                  <placeName>Applecross [mother]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e31">
-            <form>
-               <orth>biortachdain</orth>
-            </form>
-            <def>uplift (e.g. as given by a cup of tea to a person when ‘fann’).</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e40">
-            <form>
-               <orth>sgolthach</orth>
-            </form>
-            <def>cloudy.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e49">
-            <form>
-               <orth>sgloidseach</orth>
-            </form>
-            <def>flabby and clumsy (applied to a person).</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e58">
-            <form>
-               <orth>frithile</orth>
-            </form>
-            <def>impatient.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e67">
-            <form>
-               <orth>drun</orth>
-            </form>
-            <def>ro dhrun ris – at a particular job too long causing tiredness.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e76">
-            <form>
-               <orth>a’ bamhran</orth>
-            </form>
-            <def>wandering aimlessly.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e85">
-            <form>
-               <orth>a’ siubhlaid</orth>
-            </form>
-            <def>wandering.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e94">
-            <form>
-               <orth>briùchd</orth>
-            </form>
-            <def>melt or milt (male roe).</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e103">
-            <form>
-               <orth>gorgad</orth>
-            </form>
-            <def>a scold, e.g. Thug e gorgad orm.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e112">
-            <form>
-               <orth>lorgag</orth>
-            </form>
-            <def>a piece of rowan stick given to babies to chew when teething.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e121">
-            <form>
-               <orth>grìogagan</orth>
-            </form>
-            <def>beads.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e130">
-            <form>
-               <orth>monusg</orth>
-            </form>
-            <def>mush (always used for overdone potatoes – Tha ’m buntàta ’nam monusg).</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e139">
-            <form>
-               <orth>dachag</orth>
-            </form>
-            <def>a small dish or vase.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e148">
-            <form>
-               <orth>cuanàrd</orth>
-            </form>
-            <def>a crowd of people.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e157">
-            <form>
-               <orth>a’ dlìgheach</orth>
-            </form>
-            <def>about to vomit, what we call ‘boaking’ in Scots.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e166">
-            <form>
-               <orth>meaban</orth>
-            </form>
-            <def>a bedraggled object.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e175">
-            <form>
-               <orth>papach</orth>
-            </form>
-            <def>(accent on the pap) peely-wally, pale-faced.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e184">
-            <form>
-               <orth>gliùineach</orth>
-            </form>
-            <def>lukewarm.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e193">
-            <form>
-               <orth>séill</orth>
-            </form>
-            <def>a haze (on the sun).</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e202">
-            <form>
-               <orth>cànalas orra</orth>
-            </form>
-            <def>a kind of curse (don’t know what it means).</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e211">
-            <form>
-               <orth>dìsidh</orth>
-            </form>
-            <def>chilly (more than grìseach).</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e220">
-            <form>
-               <orth>fidealach bheag</orth>
-            </form>
-            <def>the game of hide and seek.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e229">
-            <form>
-               <orth>glòman</orth>
-               <pron>[?]</pron>
-            </form>
-            <def>[?] noise made by eider ducks in company or a crowd of people.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e238">
-            <form>
-               <orth>coilleag</orth>
-            </form>
-            <def>as coilleag with long ‘o’ – fat globules on a liquid.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e247">
-            <form>
-               <orth>ag aobraich</orth>
-            </form>
-            <def>working to no purpose (as children’s activity).</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e256">
-            <form>
-               <orth>griùigar</orth>
-            </form>
-            <def>a surly look.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e265">
-            <form>
-               <orth>fròlaisgean</orth>
-            </form>
-            <def>a frayed edge (as on a skirt).</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e274">
-            <form>
-               <orth>fròluisgean</orth>
-               <pron>[See fròlaisgean.]</pron>
-            </form>
-            <def>[See fròlaisgean.]</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e283">
-            <form>
-               <orth>fìgearsan</orth>
-            </form>
-            <def>titbits, dainties.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e292">
-            <form>
-               <orth>griùlas</orth>
-            </form>
-            <def>beginning of a cry in a baby (like boilleag).</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e301">
-            <form>
-               <orth>tràbach</orth>
-            </form>
-            <def>soaking (as of a day – used at Melness).</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e310">
-            <form>
-               <orth>bith-aighe</orth>
-            </form>
-            <def>(? sounds like eye) an earthworm. (at Melness)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e319">
-            <form>
-               <orth>pagan</orth>
-            </form>
-            <def>a puffin. (Melness)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e328">
-            <form>
-               <orth>eileag</orth>
-            </form>
-            <def>for eireag. (Melness)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e337">
-            <form>
-               <orth>donas-creige</orth>
-            </form>
-            <def>blenny. (Melness)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e346">
-            <form>
-               <orth>bròg-shìlig</orth>
-            </form>
-            <def>a cod-roe.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e355">
-            <form>
-               <orth>ming</orth>
-            </form>
-            <def>pronunciation of miùg (whey) at Melness.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e364">
-            <form>
-               <orth>soillt</orth>
-            </form>
-            <def>fat of a herring (blonaig). (Melness)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e373">
-            <form>
-               <orth>Chuir e turbhan orm</orth>
-            </form>
-            <def>he disgusted me.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e382">
-            <form>
-               <orth>Cha dèan e car a churan</orth>
-            </form>
-            <def>he won’t do a stroke.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e391">
-            <form>
-               <orth>[eòlas cocha-féithe ]</orth>
-            </form>
-            <def>my mother talks of eòlas cocha-féithe – a method of curing by tying a string round the patient’s wrist and murmuring a verse.</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e400">
-            <form>
-               <orth>[‘Na Cóig’ or a’ Ghriùthran]</orth>
-            </form>
-            <def>“She [my mother] played a game called ‘Na Cóig’ or a’ Ghriùthran with five pebbles. Various moves were undertaken while tossing them, these I recollect: Cóig, Deich, Co’deug, Fichead Roisinne mhór, Roisinne bheag, Slipean mór, Slipean beag, Cóig dhuilich, Fad na h-uilinn, Cóig na cearraig, Cóig dhall, Garra mór, garra beag, Cóig an aoidh, Cóig an aoidh ’n adhar, Griùthran, Crogais mhóra, Crogais bheaga.”</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e409">
-            <form>
-               <orth>[Rutchumas (?)</orth>
-               <pron>[?]</pron>
-            </form>
-            <def>[?] ] She [my mother] also played a game called Rutchumas (?) with 2 teams of 6, each with a tree branch which the other team tried to capture.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DRMorrisonetal_FolkestoneCKostermisc">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: the informant explains in the letter attached to the word-list that it contains ‘some unusual words I heard from my parents – my mother being a native of Applecross (…) A few of
+          these words I heard on holiday in Melness last summer.’]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location>
+          <placeName>Kent, Folkestone</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>Catherine Koster</persName>
+          <birth>
+            <placeName>Applecross [mother]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e31">
+        <form>
+          <orth>biortachdain</orth>
+        </form>
+        <def>uplift (e.g. as given by a cup of tea to a person when ‘fann’).</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e40">
+        <form>
+          <orth>sgolthach</orth>
+        </form>
+        <def>cloudy.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e49" type="person">
+        <form>
+          <orth>sgloidseach</orth>
+        </form>
+        <def>flabby and clumsy (applied to a person).</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e58">
+        <form>
+          <orth>frithile</orth>
+        </form>
+        <def>impatient.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e67">
+        <form>
+          <orth>drun</orth>
+        </form>
+        <def>ro dhrun ris – at a particular job too long causing tiredness.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e76">
+        <form>
+          <orth>a’ bamhran</orth>
+        </form>
+        <def>wandering aimlessly.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e85">
+        <form>
+          <orth>a’ siubhlaid</orth>
+        </form>
+        <def>wandering.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e94">
+        <form>
+          <orth>briùchd</orth>
+        </form>
+        <def>melt or milt (male roe).</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e103">
+        <form>
+          <orth>gorgad</orth>
+        </form>
+        <def>a scold, e.g. Thug e gorgad orm.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e112">
+        <form>
+          <orth>lorgag</orth>
+        </form>
+        <def>a piece of rowan stick given to babies to chew when teething.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e121">
+        <form>
+          <orth>grìogagan</orth>
+        </form>
+        <def>beads.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e130">
+        <form>
+          <orth>monusg</orth>
+        </form>
+        <def>mush (always used for overdone potatoes – Tha ’m buntàta ’nam monusg).</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e139">
+        <form>
+          <orth>dachag</orth>
+        </form>
+        <def>a small dish or vase.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e148">
+        <form>
+          <orth>cuanàrd</orth>
+        </form>
+        <def>a crowd of people.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e157">
+        <form>
+          <orth>a’ dlìgheach</orth>
+        </form>
+        <def>about to vomit, what we call ‘boaking’ in Scots.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e166">
+        <form>
+          <orth>meaban</orth>
+        </form>
+        <def>a bedraggled object.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e175" type="person">
+        <form>
+          <orth>papach</orth>
+        </form>
+        <def>(accent on the pap) peely-wally, pale-faced.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e184">
+        <form>
+          <orth>gliùineach</orth>
+        </form>
+        <def>lukewarm.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e193">
+        <form>
+          <orth>séill</orth>
+        </form>
+        <def>a haze (on the sun).</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e202">
+        <form>
+          <orth>cànalas orra</orth>
+        </form>
+        <def>a kind of curse (don’t know what it means).</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e211">
+        <form>
+          <orth>dìsidh</orth>
+        </form>
+        <def>chilly (more than grìseach).</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e220">
+        <form>
+          <orth>fidealach bheag</orth>
+        </form>
+        <def>the game of hide and seek.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e229">
+        <form>
+          <orth>glòman</orth>
+          <pron>[?]</pron>
+        </form>
+        <def>[?] noise made by eider ducks in company or a crowd of people.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e238">
+        <form>
+          <orth>coilleag</orth>
+        </form>
+        <def>as coilleag with long ‘o’ – fat globules on a liquid.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e247">
+        <form>
+          <orth>ag aobraich</orth>
+        </form>
+        <def>working to no purpose (as children’s activity).</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e256">
+        <form>
+          <orth>griùigar</orth>
+        </form>
+        <def>a surly look.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e265">
+        <form>
+          <orth>fròlaisgean</orth>
+        </form>
+        <def>a frayed edge (as on a skirt).</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e274">
+        <form>
+          <orth>fròluisgean</orth>
+          <pron>[See fròlaisgean.]</pron>
+        </form>
+        <def>[See fròlaisgean.]</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e283">
+        <form>
+          <orth>fìgearsan</orth>
+        </form>
+        <def>titbits, dainties.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e292">
+        <form>
+          <orth>griùlas</orth>
+        </form>
+        <def>beginning of a cry in a baby (like boilleag).</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e301">
+        <form>
+          <orth>tràbach</orth>
+        </form>
+        <def>soaking (as of a day – used at Melness).</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e310">
+        <form>
+          <orth>bith-aighe</orth>
+        </form>
+        <def>(? sounds like eye) an earthworm. (at Melness)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e319" type="bird">
+        <form>
+          <orth>pagan</orth>
+        </form>
+        <def>a puffin. (Melness)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e328">
+        <form>
+          <orth>eileag</orth>
+        </form>
+        <def>for eireag. (Melness)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e337">
+        <form>
+          <orth>donas-creige</orth>
+        </form>
+        <def>blenny. (Melness)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e346">
+        <form>
+          <orth>bròg-shìlig</orth>
+        </form>
+        <def>a cod-roe.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e355">
+        <form>
+          <orth>ming</orth>
+        </form>
+        <def>pronunciation of miùg (whey) at Melness.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e364">
+        <form>
+          <orth>soillt</orth>
+        </form>
+        <def>fat of a herring (blonaig). (Melness)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e373">
+        <form>
+          <orth>Chuir e turbhan orm</orth>
+        </form>
+        <def>he disgusted me.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e382">
+        <form>
+          <orth>Cha dèan e car a churan</orth>
+        </form>
+        <def>he won’t do a stroke.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e391">
+        <form>
+          <orth>[eòlas cocha-féithe ]</orth>
+        </form>
+        <def>my mother talks of eòlas cocha-féithe – a method of curing by tying a string round the patient’s wrist and murmuring a verse.</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e400">
+        <form>
+          <orth>[‘Na Cóig’ or a’ Ghriùthran]</orth>
+        </form>
+        <def>“She [my mother] played a game called ‘Na Cóig’ or a’ Ghriùthran with five pebbles. Various moves were undertaken while tossing them, these I recollect: Cóig, Deich, Co’deug, Fichead
+          Roisinne mhór, Roisinne bheag, Slipean mór, Slipean beag, Cóig dhuilich, Fad na h-uilinn, Cóig na cearraig, Cóig dhall, Garra mór, garra beag, Cóig an aoidh, Cóig an aoidh ’n adhar,
+          Griùthran, Crogais mhóra, Crogais bheaga.”</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_FolkestoneCKostermisc-d0e409">
+        <form>
+          <orth>[Rutchumas (?)</orth>
+          <pron>[?]</pron>
+        </form>
+        <def>[?] ] She [my mother] also played a game called Rutchumas (?) with 2 teams of 6, each with a tree branch which the other team tried to capture.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

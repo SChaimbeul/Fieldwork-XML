@@ -1,186 +1,186 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>12/02/1968</date>
-            <location>
-               <placeName>North Uist, Clachan</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>(Rev.) Norman MacDonald</persName>
-               <age>[63]</age>
-               <birth>
-                  <placeName>[Skye]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idola811">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>“(…) I enclose 20 rare Hebridean Gaelic words with their meanings.”</def>
-         </entry>
-         <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp117018552">
-            <form>
-               <orth>borisgeach</orth>
-            </form>
-            <def>(Uist) A man who is unable to conceal a thing. Duine nach urrain sìon a chleith.</def>
-         </entry>
-         <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp117021936">
-            <form>
-               <orth>borisgeal</orth>
-               <pron>[See borisgeach.]</pron>
-            </form>
-            <def>[See borisgeach.]</def>
-         </entry>
-         <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp117024816">
-            <form>
-               <orth>ceann-gropaig</orth>
-            </form>
-            <def>A kind of pudding made of fish liver and oatmeal, cooked inside a large cod’s head.</def>
-         </entry>
-         <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp117005808">
-            <form>
-               <orth>cròideag</orth>
-            </form>
-            <def>(Uist) An toll anns a’ chloich-bhrà (an tè uachdrach).</def>
-         </entry>
-         <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp117004080">
-            <form>
-               <orth>cròdi</orth>
-            </form>
-            <def>(Uist) An duine bha ri bleith.</def>
-         </entry>
-         <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp117002568">
-            <form>
-               <orth>croiseadh</orth>
-            </form>
-            <def>(Staffin, Skye) Taboo. Air a chroiseadh, anything put under taboo.</def>
-         </entry>
-         <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp117000048">
-            <form>
-               <orth>dànas</orth>
-            </form>
-            <def>(Uist) Gaiety, sportfulness. Nach ann ort a ta’n [sic] dànas.</def>
-         </entry>
-         <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116998680">
-            <form>
-               <orth>dìch</orth>
-            </form>
-            <def>(Uist) Crodh. An tàinig an dìch? Have the cows come home?</def>
-         </entry>
-         <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116997600">
-            <form>
-               <orth>doite</orth>
-            </form>
-            <def>(Harris) Bare, without covering of any kind.</def>
-         </entry>
-         <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116996088">
-            <form>
-               <orth>fàl</orth>
-            </form>
-            <def>(Skye) Ainm eile airson feusag an rathaid-mhóir, fàl an rathaid. The soft, turf edge or border of a highway.</def>
-         </entry>
-         <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116994000">
-            <form>
-               <orth>fìd</orth>
-            </form>
-            <def>(Skye) Cold nip in the air. Tha fìd anns a’ ghaoith. Tha e fìdach [sic], fuar.</def>
-         </entry>
-         <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116992632">
-            <form>
-               <orth>fìleadh</orth>
-            </form>
-            <def>(Staffin, Skye) Airy, sprightly, flighty. Nach ann innte tha fìleadh.</def>
-         </entry>
-         <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116991264">
-            <form>
-               <orth>gàth</orth>
-            </form>
-            <def>(Staffin, Skye) Close to, adjacent. Gàth ris an fhàrdaich.</def>
-         </entry>
-         <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116989176">
-            <form>
-               <orth>gnòmhan</orth>
-            </form>
-            <def>(Staffin, Skye) In Skye this word has the extra meaning of humming, gnòmhan òrain.</def>
-         </entry>
-         <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116987664">
-            <form>
-               <orth>goirsg</orth>
-            </form>
-            <def>Duine nach eil uileadh ann.</def>
-         </entry>
-         <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116986152">
-            <form>
-               <orth>puingeadh</orth>
-            </form>
-            <def>(Staffin, Skye) The degree of cold which causes numbness. Such cold as leaves hands, feet, etc. numb. Tha puingeadh fuachd ann.</def>
-         </entry>
-         <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116984208">
-            <form>
-               <orth>réibean</orth>
-            </form>
-            <def>(Uist) Beard. Dwelly has moustache, but the old Cape Breton people I knew in the early thirties (whose ancestors emigrated from Sollas) told me the word meant the whole beard, particularly a long beard.</def>
-         </entry>
-         <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116982696">
-            <form>
-               <orth>sgot</orth>
-            </form>
-            <def>(West Skye) Sense. Chan’eil sgot aige. He has no sense.</def>
-         </entry>
-         <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116981040">
-            <form>
-               <orth>sgrogaire</orth>
-            </form>
-            <def>(N. Uist) Referee.</def>
-         </entry>
-         <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116979528">
-            <form>
-               <orth>snaomh</orth>
-            </form>
-            <def>(Staffin, Skye) A large crowd, multitude.</def>
-         </entry>
-         <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116978016">
-            <form>
-               <orth>tiaranach</orth>
-            </form>
-            <def>(Uist) Uan na bliadhna an uiridh agus uan aice féin.</def>
-         </entry>
-         <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116976504">
-            <form>
-               <orth>thailard</orth>
-            </form>
-            <def>(N. Uist) Air thailard, air a shàrachadh gu tur.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>12/02/1968</date>
+        <location>
+          <placeName>North Uist, Clachan</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>(Rev.) Norman MacDonald</persName>
+          <age>[63]</age>
+          <birth>
+            <placeName>[Skye]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idola811">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>“(…) I enclose 20 rare Hebridean Gaelic words with their meanings.”</def>
+      </entry>
+      <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp117018552" type="person">
+        <form>
+          <orth>borisgeach</orth>
+        </form>
+        <def>(Uist) A man who is unable to conceal a thing. Duine nach urrain sìon a chleith.</def>
+      </entry>
+      <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp117021936" type="person">
+        <form>
+          <orth>borisgeal</orth>
+          <pron>[See borisgeach.]</pron>
+        </form>
+        <def>[See borisgeach.]</def>
+      </entry>
+      <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp117024816">
+        <form>
+          <orth>ceann-gropaig</orth>
+        </form>
+        <def>A kind of pudding made of fish liver and oatmeal, cooked inside a large cod’s head.</def>
+      </entry>
+      <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp117005808">
+        <form>
+          <orth>cròideag</orth>
+        </form>
+        <def>(Uist) An toll anns a’ chloich-bhrà (an tè uachdrach).</def>
+      </entry>
+      <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp117004080">
+        <form>
+          <orth>cròdi</orth>
+        </form>
+        <def>(Uist) An duine bha ri bleith.</def>
+      </entry>
+      <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp117002568">
+        <form>
+          <orth>croiseadh</orth>
+        </form>
+        <def>(Staffin, Skye) Taboo. Air a chroiseadh, anything put under taboo.</def>
+      </entry>
+      <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp117000048">
+        <form>
+          <orth>dànas</orth>
+        </form>
+        <def>(Uist) Gaiety, sportfulness. Nach ann ort a ta’n [sic] dànas.</def>
+      </entry>
+      <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116998680">
+        <form>
+          <orth>dìch</orth>
+        </form>
+        <def>(Uist) Crodh. An tàinig an dìch? Have the cows come home?</def>
+      </entry>
+      <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116997600">
+        <form>
+          <orth>doite</orth>
+        </form>
+        <def>(Harris) Bare, without covering of any kind.</def>
+      </entry>
+      <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116996088">
+        <form>
+          <orth>fàl</orth>
+        </form>
+        <def>(Skye) Ainm eile airson feusag an rathaid-mhóir, fàl an rathaid. The soft, turf edge or border of a highway.</def>
+      </entry>
+      <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116994000">
+        <form>
+          <orth>fìd</orth>
+        </form>
+        <def>(Skye) Cold nip in the air. Tha fìd anns a’ ghaoith. Tha e fìdach [sic], fuar.</def>
+      </entry>
+      <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116992632">
+        <form>
+          <orth>fìleadh</orth>
+        </form>
+        <def>(Staffin, Skye) Airy, sprightly, flighty. Nach ann innte tha fìleadh.</def>
+      </entry>
+      <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116991264">
+        <form>
+          <orth>gàth</orth>
+        </form>
+        <def>(Staffin, Skye) Close to, adjacent. Gàth ris an fhàrdaich.</def>
+      </entry>
+      <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116989176">
+        <form>
+          <orth>gnòmhan</orth>
+        </form>
+        <def>(Staffin, Skye) In Skye this word has the extra meaning of humming, gnòmhan òrain.</def>
+      </entry>
+      <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116987664">
+        <form>
+          <orth>goirsg</orth>
+        </form>
+        <def>Duine nach eil uileadh ann.</def>
+      </entry>
+      <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116986152">
+        <form>
+          <orth>puingeadh</orth>
+        </form>
+        <def>(Staffin, Skye) The degree of cold which causes numbness. Such cold as leaves hands, feet, etc. numb. Tha puingeadh fuachd ann.</def>
+      </entry>
+      <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116984208">
+        <form>
+          <orth>réibean</orth>
+        </form>
+        <def>(Uist) Beard. Dwelly has moustache, but the old Cape Breton people I knew in the early thirties (whose ancestors emigrated from Sollas) told me the word meant the whole beard,
+          particularly a long beard.</def>
+      </entry>
+      <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116982696">
+        <form>
+          <orth>sgot</orth>
+        </form>
+        <def>(West Skye) Sense. Chan’eil sgot aige. He has no sense.</def>
+      </entry>
+      <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116981040" type="person">
+        <form>
+          <orth>sgrogaire</orth>
+        </form>
+        <def>(N. Uist) Referee.</def>
+      </entry>
+      <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116979528">
+        <form>
+          <orth>snaomh</orth>
+        </form>
+        <def>(Staffin, Skye) A large crowd, multitude.</def>
+      </entry>
+      <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116978016">
+        <form>
+          <orth>tiaranach</orth>
+        </form>
+        <def>(Uist) Uan na bliadhna an uiridh agus uan aice féin.</def>
+      </entry>
+      <entry xml:id="PersonalFiles_ClachanNMacDonaldpersonalmisc-idp116976504">
+        <form>
+          <orth>thailard</orth>
+        </form>
+        <def>(N. Uist) Air thailard, air a shàrachadh gu tur.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

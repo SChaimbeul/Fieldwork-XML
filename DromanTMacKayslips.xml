@@ -1,126 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_DromanTMacKayslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>10/1969</date>
-            <location>
-               <placeName>Sutherland, Kinlochbervie, Droman</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[AJ Smith?]</persName>
-            </person>
-            <person role="informant">
-               <persName>Mrs Teen MacKay</persName>
-               <age>80s</age>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_DromanTMacKayslips-idp162334368">
-            <form>
-               <orth>liadh</orth>
-            </form>
-            <def>Notes: ladle.</def>
-         </entry>
-         <entry xml:id="Slips_DromanTMacKayslips-idp162331704">
-            <form>
-               <orth>maide-pait</orth>
-               <pron>[mɑ̃dʹpɑtʹ]</pron>
-            </form>
-            <def>[mɑ̃dʹpɑtʹ] Notes: wooden spoon.</def>
-         </entry>
-         <entry xml:id="Slips_DromanTMacKayslips-idp162347472">
-            <form>
-               <orth>rifean</orth>
-            </form>
-            <def>Notes: roll of combed wool.</def>
-         </entry>
-         <entry xml:id="Slips_DromanTMacKayslips-idp162348984">
-            <form>
-               <orth>roilean</orth>
-            </form>
-            <def>Notes: roll of combed wool.</def>
-         </entry>
-         <entry xml:id="Slips_DromanTMacKayslips-idp162350496">
-            <form>
-               <orth>ruar</orth>
-            </form>
-            <def>Quotation: mo ruar; also mo ruaran. Notes: used when addressing somebody not necessarily close to the speaker. Much the same as “a’ ghràidh” is used in Point, Lewis. (Only heard old people using it – AJ.)</def>
-         </entry>
-         <entry xml:id="Slips_DromanTMacKayslips-idp162352152">
-            <form>
-               <orth>ruaran</orth>
-            </form>
-            <def>See ruar.</def>
-         </entry>
-         <entry xml:id="Slips_DromanTMacKayslips-idp162353664">
-            <form>
-               <orth>sìtht</orth>
-            </form>
-            <def>Quotation: Tha mi glé [hi:tʹ] gun d’thainig sibh a stigh. Chaneil mi [ʃi:tʹ] ris na pàrantan mar a tha iad a togail an clann. Notes: pleased, glad.</def>
-         </entry>
-         <entry xml:id="Slips_DromanTMacKayslips-idp162356040">
-            <form>
-               <orth>ola</orth>
-            </form>
-            <def>Quotation: ola mhilis [ɔɫəvɛ̃liʃ]. Notes: oil put on wool before it was spun.</def>
-         </entry>
-         <entry xml:id="Slips_DromanTMacKayslips-idp162357912">
-            <form>
-               <orth>tèic</orth>
-            </form>
-            <def>Notes: flyer of spinning wheel.</def>
-         </entry>
-         <entry xml:id="Slips_DromanTMacKayslips-idp162359424">
-            <form>
-               <orth>timchioll</orth>
-               <pron>[tʹʃwɫəmiç]</pron>
-            </form>
-            <def>[tʹʃwɫəmiç] Notes: round.</def>
-         </entry>
-         <entry xml:id="Slips_DromanTMacKayslips-idp162361152">
-            <form>
-               <orth>tog</orth>
-               <pron>[t̪ɾoɡ]</pron>
-            </form>
-            <def>[t̪ɾoɡ] Notes: left.</def>
-         </entry>
-         <entry xml:id="Slips_DromanTMacKayslips-idp162362880">
-            <form>
-               <orth>ceangladair</orth>
-               <pron>[cɑ̃:ɫd̪ɑɾ]</pron>
-            </form>
-            <def>[cɑ̃:ɫd̪ɑɾ] Notes: wooden frame on which yarn is wound.</def>
-         </entry>
-         <entry xml:id="Slips_DromanTMacKayslips-idp162364608">
-            <form>
-               <orth>cearsla</orth>
-               <pron>[cɑʴsɫə]</pron>
-            </form>
-            <def>[cɑʴsɫə] Notes: ball of rope. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>10/1969</date>
+        <location>
+          <placeName>Sutherland, Kinlochbervie, Droman</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[AJ Smith?]</persName>
+        </person>
+        <person role="informant">
+          <persName>Mrs Teen MacKay</persName>
+          <age>80s</age>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_DromanTMacKayslips-idp162334368">
+        <form>
+          <orth>liadh</orth>
+        </form>
+        <def>Notes: ladle.</def>
+      </entry>
+      <entry xml:id="Slips_DromanTMacKayslips-idp162331704">
+        <form>
+          <orth>maide-pait</orth>
+          <pron>[mɑ̃dʹpɑtʹ]</pron>
+        </form>
+        <def>[mɑ̃dʹpɑtʹ] Notes: wooden spoon.</def>
+      </entry>
+      <entry xml:id="Slips_DromanTMacKayslips-idp162347472">
+        <form>
+          <orth>rifean</orth>
+        </form>
+        <def>Notes: roll of combed wool.</def>
+      </entry>
+      <entry xml:id="Slips_DromanTMacKayslips-idp162348984">
+        <form>
+          <orth>roilean</orth>
+        </form>
+        <def>Notes: roll of combed wool.</def>
+      </entry>
+      <entry xml:id="Slips_DromanTMacKayslips-idp162350496">
+        <form>
+          <orth>ruar</orth>
+        </form>
+        <def>Quotation: mo ruar; also mo ruaran. Notes: used when addressing somebody not necessarily close to the speaker. Much the same as “a’ ghràidh” is used in Point, Lewis. (Only heard old
+          people using it – AJ.)</def>
+      </entry>
+      <entry xml:id="Slips_DromanTMacKayslips-idp162352152">
+        <form>
+          <orth>ruaran</orth>
+        </form>
+        <def>See ruar.</def>
+      </entry>
+      <entry xml:id="Slips_DromanTMacKayslips-idp162353664">
+        <form>
+          <orth>sìtht</orth>
+        </form>
+        <def>Quotation: Tha mi glé [hi:tʹ] gun d’thainig sibh a stigh. Chaneil mi [ʃi:tʹ] ris na pàrantan mar a tha iad a togail an clann. Notes: pleased, glad.</def>
+      </entry>
+      <entry xml:id="Slips_DromanTMacKayslips-idp162356040">
+        <form>
+          <orth>ola</orth>
+        </form>
+        <def>Quotation: ola mhilis [ɔɫəvɛ̃liʃ]. Notes: oil put on wool before it was spun.</def>
+      </entry>
+      <entry xml:id="Slips_DromanTMacKayslips-idp162357912">
+        <form>
+          <orth>tèic</orth>
+        </form>
+        <def>Notes: flyer of spinning wheel.</def>
+      </entry>
+      <entry xml:id="Slips_DromanTMacKayslips-idp162359424">
+        <form>
+          <orth>timchioll</orth>
+          <pron>[tʹʃwɫəmiç]</pron>
+        </form>
+        <def>[tʹʃwɫəmiç] Notes: round.</def>
+      </entry>
+      <entry xml:id="Slips_DromanTMacKayslips-idp162361152">
+        <form>
+          <orth>tog</orth>
+          <pron>[t̪ɾoɡ]</pron>
+        </form>
+        <def>[t̪ɾoɡ] Notes: left.</def>
+      </entry>
+      <entry xml:id="Slips_DromanTMacKayslips-idp162362880">
+        <form>
+          <orth>ceangladair</orth>
+          <pron>[cɑ̃:ɫd̪ɑɾ]</pron>
+        </form>
+        <def>[cɑ̃:ɫd̪ɑɾ] Notes: wooden frame on which yarn is wound.</def>
+      </entry>
+      <entry xml:id="Slips_DromanTMacKayslips-idp162364608">
+        <form>
+          <orth>cearsla</orth>
+          <pron>[cɑʴsɫə]</pron>
+        </form>
+        <def>[cɑʴsɫə] Notes: ball of rope. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

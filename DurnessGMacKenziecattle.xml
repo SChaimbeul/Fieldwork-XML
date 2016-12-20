@@ -1,249 +1,226 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="DRMorrisonetal_DurnessGMacKenziecattle">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[1970]</date>
-            <location>
-               <placeName>Sutherland, Lairg, Durness</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>George MacKenzie</persName>
-               <age>67</age>
-               <birth>
-                  <placeName>Assynt, Stoer</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Cattle</term>
-               <term>Crodh</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="DRMorrisonetal_DurnessGMacKenziecattle-d0e33"
-            >1. Different stages in the growth of cattle</head>
-         <head
-             xml:id="DRMorrisonetal_DurnessGMacKenziecattle-d0e39"
-            >2. Breeds of cattle</head>
-         <head
-             xml:id="DRMorrisonetal_DurnessGMacKenziecattle-d0e45"
-            >3. Outward appearance of cattle</head>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119929032">
-            <form>
-               <orth>bo duith</orth>
-            </form>
-            <def>black cow. (Stoer, Assynt)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119910960">
-            <form>
-               <orth>bo ruadh</orth>
-            </form>
-            <def>red cow. (Stoer, Assynt)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119918376">
-            <form>
-               <orth>cro duith</orth>
-            </form>
-            <def>black cattle. (Stoer, Assynt)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119947824">
-            <form>
-               <orth>cro ruadh</orth>
-            </form>
-            <def>red cattle. (Stoer, Assynt)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119948688">
-            <form>
-               <orth>bo odhar</orth>
-            </form>
-            <def>dun cow. (Stoer, Assynt)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119917728">
-            <form>
-               <orth>bo bhreck</orth>
-            </form>
-            <def>speckled cow, usually Ayrshire. (Stoer, Assynt)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119906352">
-            <form>
-               <orth>cro Ghaidhealach</orth>
-            </form>
-            <def>Highland cattle (now very rare in Assynt). (Stoer, Assynt)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119910456">
-            <form>
-               <orth>mart</orth>
-            </form>
-            <def>seldom if ever used, except in relation to beef: “marstal”. (Stoer, Assynt)</def>
-         </entry>
-         <head
-             xml:id="DRMorrisonetal_DurnessGMacKenziecattle-d0e123"
-            >4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</head>
-         <head
-             xml:id="DRMorrisonetal_DurnessGMacKenziecattle-d0e129"
-            >5. Parts of the body</head>
-         <head
-             xml:id="DRMorrisonetal_DurnessGMacKenziecattle-d0e135"
-            >6. Calving</head>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119919384">
-            <form>
-               <orth>tha bho fo gar</orth>
-            </form>
-            <def>cow bulling. (Stoer, Assynt)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119913840">
-            <form>
-               <orth>tha dar air a’ bho</orth>
-            </form>
-            <def>cow bulling. (Stoer, Assynt)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119924784">
-            <form>
-               <orth>cur laogh</orth>
-            </form>
-            <def>cow calving. (Stoer, Assynt)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119923632">
-            <form>
-               <orth>salachar</orth>
-            </form>
-            <def>afterbirth. (Stoer, Assynt)</def>
-         </entry>
-         <head
-             xml:id="DRMorrisonetal_DurnessGMacKenziecattle-d0e177"
-            >7. Milking</head>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119892240">
-            <form>
-               <orth>bloin</orth>
-            </form>
-            <def>milking. (Stoer, Assynt)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119893320">
-            <form>
-               <orth>crav</orth>
-            </form>
-            <def>suckling. (Stoer, Assynt)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119894760">
-            <form>
-               <orth>noose</orth>
-            </form>
-            <def>first milking. (Stoer, Assynt)</def>
-         </entry>
-         <head
-             xml:id="DRMorrisonetal_DurnessGMacKenziecattle-d0e210"
-            >8. Feeding</head>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119896992">
-            <form>
-               <orth>buachalach</orth>
-            </form>
-            <def>herding. (Stoer, Assynt)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119899872">
-            <form>
-               <orth>buachaille</orth>
-            </form>
-            <def>herd. (Stoer, Assynt)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119901168">
-            <form>
-               <orth>“hor foddar dan a chro”</orth>
-            </form>
-            <def>give the cows straw. (Stoer, Assynt)</def>
-         </entry>
-         <head
-             xml:id="DRMorrisonetal_DurnessGMacKenziecattle-d0e243"
-            >9. Apparatus</head>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119903760">
-            <form>
-               <orth>nask</orth>
-            </form>
-            <def>neck rope or chain on cows in stall. (Stoer, Assynt)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp114529896">
-            <form>
-               <orth>burrach</orth>
-            </form>
-            <def>fetter for milking. (Stoer, Assynt)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp116286120">
-            <form>
-               <orth>spaerach</orth>
-               <pron>[sic]</pron>
-            </form>
-            <def>[sic] fetter to prevent jumping. (Stoer, Assynt)</def>
-         </entry>
-         <head
-             xml:id="DRMorrisonetal_DurnessGMacKenziecattle-d0e276"
-            >10. Diseases</head>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp116288496">
-            <form>
-               <orth>rooia</orth>
-            </form>
-            <def>inflammation of the udder. (Stoer, Assynt)</def>
-         </entry>
-         <head
-             xml:id="DRMorrisonetal_DurnessGMacKenziecattle-d0e291"
-            >11. Miscellaneous</head>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp116290872">
-            <form>
-               <orth>trobhad “merag”</orth>
-            </form>
-            <def>calling a cow. (Stoer, Assynt)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp116292384">
-            <form>
-               <orth>treud</orth>
-            </form>
-            <def>herd of cattle. (Stoer, Assynt)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp116293896">
-            <form>
-               <orth>buachar</orth>
-            </form>
-            <def>dung. (Stoer, Assynt)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp116295408">
-            <form>
-               <orth>clughan</orth>
-            </form>
-            <def>dung strand or channel. (Stoer, Assynt)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp116296920">
-            <form>
-               <orth>tol a’ gédan</orth>
-            </form>
-            <def>hole in byre wall through which the urine flows. (Stoer, Assynt)</def>
-         </entry>
-         <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp116298432">
-            <form>
-               <orth>boolie</orth>
-            </form>
-            <def>stall. (Stoer, Assynt)</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DRMorrisonetal_DurnessGMacKenziecattle">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[1970]</date>
+        <location>
+          <placeName>Sutherland, Lairg, Durness</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>George MacKenzie</persName>
+          <age>67</age>
+          <birth>
+            <placeName>Assynt, Stoer</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Cattle</term>
+          <term>Crodh</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="DRMorrisonetal_DurnessGMacKenziecattle-d0e33">1. Different stages in the growth of cattle</head>
+      <head xml:id="DRMorrisonetal_DurnessGMacKenziecattle-d0e39">2. Breeds of cattle</head>
+      <head xml:id="DRMorrisonetal_DurnessGMacKenziecattle-d0e45">3. Outward appearance of cattle</head>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119929032">
+        <form>
+          <orth>bo duith</orth>
+        </form>
+        <def>black cow. (Stoer, Assynt)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119910960">
+        <form>
+          <orth>bo ruadh</orth>
+        </form>
+        <def>red cow. (Stoer, Assynt)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119918376">
+        <form>
+          <orth>cro duith</orth>
+        </form>
+        <def>black cattle. (Stoer, Assynt)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119947824">
+        <form>
+          <orth>cro ruadh</orth>
+        </form>
+        <def>red cattle. (Stoer, Assynt)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119948688">
+        <form>
+          <orth>bo odhar</orth>
+        </form>
+        <def>dun cow. (Stoer, Assynt)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119917728">
+        <form>
+          <orth>bo bhreck</orth>
+        </form>
+        <def>speckled cow, usually Ayrshire. (Stoer, Assynt)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119906352">
+        <form>
+          <orth>cro Ghaidhealach</orth>
+        </form>
+        <def>Highland cattle (now very rare in Assynt). (Stoer, Assynt)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119910456">
+        <form>
+          <orth>mart</orth>
+        </form>
+        <def>seldom if ever used, except in relation to beef: “marstal”. (Stoer, Assynt)</def>
+      </entry>
+      <head xml:id="DRMorrisonetal_DurnessGMacKenziecattle-d0e123">4. Names for certain beasts, e.g. an animal on which the owner bestows particular attention</head>
+      <head xml:id="DRMorrisonetal_DurnessGMacKenziecattle-d0e129">5. Parts of the body</head>
+      <head xml:id="DRMorrisonetal_DurnessGMacKenziecattle-d0e135">6. Calving</head>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119919384">
+        <form>
+          <orth>tha bho fo gar</orth>
+        </form>
+        <def>cow bulling. (Stoer, Assynt)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119913840">
+        <form>
+          <orth>tha dar air a’ bho</orth>
+        </form>
+        <def>cow bulling. (Stoer, Assynt)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119924784">
+        <form>
+          <orth>cur laogh</orth>
+        </form>
+        <def>cow calving. (Stoer, Assynt)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119923632">
+        <form>
+          <orth>salachar</orth>
+        </form>
+        <def>afterbirth. (Stoer, Assynt)</def>
+      </entry>
+      <head xml:id="DRMorrisonetal_DurnessGMacKenziecattle-d0e177">7. Milking</head>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119892240">
+        <form>
+          <orth>bloin</orth>
+        </form>
+        <def>milking. (Stoer, Assynt)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119893320">
+        <form>
+          <orth>crav</orth>
+        </form>
+        <def>suckling. (Stoer, Assynt)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119894760">
+        <form>
+          <orth>noose</orth>
+        </form>
+        <def>first milking. (Stoer, Assynt)</def>
+      </entry>
+      <head xml:id="DRMorrisonetal_DurnessGMacKenziecattle-d0e210">8. Feeding</head>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119896992">
+        <form>
+          <orth>buachalach</orth>
+        </form>
+        <def>herding. (Stoer, Assynt)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119899872">
+        <form>
+          <orth>buachaille</orth>
+        </form>
+        <def>herd. (Stoer, Assynt)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119901168">
+        <form>
+          <orth>“hor foddar dan a chro”</orth>
+        </form>
+        <def>give the cows straw. (Stoer, Assynt)</def>
+      </entry>
+      <head xml:id="DRMorrisonetal_DurnessGMacKenziecattle-d0e243">9. Apparatus</head>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp119903760">
+        <form>
+          <orth>nask</orth>
+        </form>
+        <def>neck rope or chain on cows in stall. (Stoer, Assynt)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp114529896">
+        <form>
+          <orth>burrach</orth>
+        </form>
+        <def>fetter for milking. (Stoer, Assynt)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp116286120">
+        <form>
+          <orth>spaerach</orth>
+          <pron>[sic]</pron>
+        </form>
+        <def>[sic] fetter to prevent jumping. (Stoer, Assynt)</def>
+      </entry>
+      <head xml:id="DRMorrisonetal_DurnessGMacKenziecattle-d0e276">10. Diseases</head>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp116288496">
+        <form>
+          <orth>rooia</orth>
+        </form>
+        <def>inflammation of the udder. (Stoer, Assynt)</def>
+      </entry>
+      <head xml:id="DRMorrisonetal_DurnessGMacKenziecattle-d0e291">11. Miscellaneous</head>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp116290872">
+        <form>
+          <orth>trobhad “merag”</orth>
+        </form>
+        <def>calling a cow. (Stoer, Assynt)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp116292384">
+        <form>
+          <orth>treud</orth>
+        </form>
+        <def>herd of cattle. (Stoer, Assynt)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp116293896">
+        <form>
+          <orth>buachar</orth>
+        </form>
+        <def>dung. (Stoer, Assynt)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp116295408">
+        <form>
+          <orth>clughan</orth>
+        </form>
+        <def>dung strand or channel. (Stoer, Assynt)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp116296920">
+        <form>
+          <orth>tol a’ gédan</orth>
+        </form>
+        <def>hole in byre wall through which the urine flows. (Stoer, Assynt)</def>
+      </entry>
+      <entry xml:id="DRMorrisonetal_DurnessGMacKenziecattle-idp116298432">
+        <form>
+          <orth>boolie</orth>
+        </form>
+        <def>stall. (Stoer, Assynt)</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

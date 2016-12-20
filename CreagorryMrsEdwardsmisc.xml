@@ -1,636 +1,635 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="AOHenley_CreagorryMrsEdwardsmisc">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[1987-88]</date>
-            <location>
-               <placeName>Benbecula, Creagorry</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>A. O’Henley</persName>
-            </person>
-            <person role="informant">
-               <persName>Mrs Edwards</persName>
-               <birth>
-                  <placeName>‘Islay connections’</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2553672">
-            <form>
-               <orth>cunnradh</orth>
-            </form>
-            <def>bargain.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2556192">
-            <form>
-               <orth>iomreicean</orth>
-               <pron>[? lomreicean?]</pron>
-            </form>
-            <def>[? lomreicean?] bazaar.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2537040">
-            <form>
-               <orth>litir ainmhich</orth>
-            </form>
-            <def>an account or bill which has to be paid.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2536392">
-            <form>
-               <orth>folaireamh</orth>
-            </form>
-            <def>an account of bill which has to be paid.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2534880">
-            <form>
-               <orth>criolan</orth>
-            </form>
-            <def>briefcase.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2533368">
-            <form>
-               <orth>cainmheas</orth>
-            </form>
-            <def>the budget.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2531856">
-            <form>
-               <orth>bolgan dealan</orth>
-            </form>
-            <def>electricity bulb.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2530560">
-            <form>
-               <orth>breith forbhaidh</orth>
-            </form>
-            <def>Caesarian birth.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2528976">
-            <form>
-               <orth>fuinteag (-an)</orth>
-            </form>
-            <def>small buns, cakes.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2527464">
-            <form>
-               <orth>dealbhart</orth>
-            </form>
-            <def>camera.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2525952">
-            <form>
-               <orth>lantaigh</orth>
-            </form>
-            <def>canteen.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2524440">
-            <form>
-               <orth>bothan siubhail</orth>
-            </form>
-            <def>caravan.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2521416">
-            <form>
-               <orth>struth</orth>
-            </form>
-            <def>(Card names:) club.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2519904">
-            <form>
-               <orth>muilead</orth>
-            </form>
-            <def>(Card names:) diamond.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2518392">
-            <form>
-               <orth>cuireideach</orth>
-            </form>
-            <def>(Card names:) knave.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2516880">
-            <form>
-               <orth>speur</orth>
-            </form>
-            <def>(Card names:) spade.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2515368">
-            <form>
-               <orth>madh</orth>
-            </form>
-            <def>(Card names:) trump. I would use ‘tromh’ for trump.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2513856">
-            <form>
-               <orth>casbhrat</orth>
-            </form>
-            <def>carpet.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2511552">
-            <form>
-               <orth>clàrachan airgid</orth>
-            </form>
-            <def>cash register.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2509968">
-            <form>
-               <orth>sealltanas cruidh</orth>
-            </form>
-            <def>cattle show.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2508456">
-            <form>
-               <orth>tathan</orth>
-            </form>
-            <def>cement.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2506656">
-            <form>
-               <orth>cruadhtan</orth>
-            </form>
-            <def>concrete.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2505072">
-            <form>
-               <orth>grànlach</orth>
-            </form>
-            <def>breakfast cereal.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2503776">
-            <form>
-               <orth>iomashreud</orth>
-            </form>
-            <def>used in the sense of a chain of shops.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2502264">
-            <form>
-               <orth>fanan</orth>
-            </form>
-            <def>a channel or chute.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2500752">
-            <form>
-               <orth>cruinnlios</orth>
-            </form>
-            <def>a circus.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2499240">
-            <form>
-               <orth>faolmunnas</orth>
-            </form>
-            <def>civilisation.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2497728">
-            <form>
-               <orth>fuath duinteachd</orth>
-            </form>
-            <def>claustrophobia.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2496216">
-            <form>
-               <orth>amhuilteach</orth>
-            </form>
-            <def>a clown in a circus.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2403952">
-            <form>
-               <orth>comanach</orth>
-            </form>
-            <def>friend, companion.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2400568">
-            <form>
-               <orth>goireas cagailt</orth>
-            </form>
-            <def>companion set.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2401072">
-            <form>
-               <orth>roinneag</orth>
-            </form>
-            <def>small or large compartment.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2428288">
-            <form>
-               <orth>stòc muineal</orth>
-            </form>
-            <def>cravat.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2429296">
-            <form>
-               <orth>suacan</orth>
-            </form>
-            <def>crucible. [NOTES: note added by RÓM – cf. Ériu (2005).]</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2425984">
-            <form>
-               <orth>adhartag</orth>
-            </form>
-            <def>a pillow or more accurately a cushion.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2422600">
-            <form>
-               <orth>sgianach</orth>
-            </form>
-            <def>a small slice of meat, fish, etc.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2422816">
-            <form>
-               <orth>ceum foghluim</orth>
-            </form>
-            <def>a degree.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp3259128">
-            <form>
-               <orth>an ruith fhuail</orth>
-            </form>
-            <def>diabetes.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp112109832">
-            <form>
-               <orth>deimhneas</orth>
-            </form>
-            <def>diploma.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp112111128">
-            <form>
-               <orth>silteachd</orth>
-            </form>
-            <def>distillation.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2761672">
-            <form>
-               <orth>fual bhrostal</orth>
-            </form>
-            <def>diuretic.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2763184">
-            <form>
-               <orth>tairneag</orth>
-            </form>
-            <def>a drawer.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2764696">
-            <form>
-               <orth>sadachan</orth>
-            </form>
-            <def>a cloth used for dusting. Could also be used for a blackboard duster?</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2766208">
-            <form>
-               <orth>talmhag</orth>
-            </form>
-            <def>man-made cave used as hiding place or for shelter.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2767720">
-            <form>
-               <orth>a’ ghearrag</orth>
-            </form>
-            <def>dysentery.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2769232">
-            <form>
-               <orth>soluban</orth>
-            </form>
-            <def>elastic. Bann soluban – elastic band.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2770888">
-            <form>
-               <orth>bligheart dhealanta</orth>
-            </form>
-            <def>electric milking machine.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2772400">
-            <form>
-               <orth>ceudfhas</orth>
-            </form>
-            <def>embryo.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2773912">
-            <form>
-               <orth>dorus eiginn</orth>
-            </form>
-            <def>emergency exit.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2775424">
-            <form>
-               <orth>li</orth>
-            </form>
-            <def>paint.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2776936">
-            <form>
-               <orth>li bhliochdail</orth>
-            </form>
-            <def>emulsion paint.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2778448">
-            <form>
-               <orth>cuairsgean</orth>
-            </form>
-            <def>envelope.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2780824">
-            <form>
-               <orth>àrachas</orth>
-            </form>
-            <def>insurance.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2782336">
-            <form>
-               <orth>soireag</orth>
-            </form>
-            <def>flask.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2783848">
-            <form>
-               <orth>amhasair</orth>
-            </form>
-            <def>gangster.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2785360">
-            <form>
-               <orth>ainteas goile</orth>
-            </form>
-            <def>gastritis</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2786872">
-            <form>
-               <orth>gìneag</orth>
-            </form>
-            <def>a germ.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2788384">
-            <form>
-               <orth>grisg</orth>
-            </form>
-            <def>to grill something.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2789896">
-            <form>
-               <orth>luthchleasachd</orth>
-            </form>
-            <def>gymnastics.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2791408">
-            <form>
-               <orth>trasdnaich (-eachd)</orth>
-            </form>
-            <def>to heckle, heckling.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2792920">
-            <form>
-               <orth>aonargheanachd</orth>
-            </form>
-            <def>homeopathy.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2794432">
-            <form>
-               <orth>brodag</orth>
-            </form>
-            <def>hormone.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2795944">
-            <form>
-               <orth>falc (-adh)</orth>
-            </form>
-            <def>to bathe, bathing.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2797456">
-            <form>
-               <orth>car cainnte</orth>
-            </form>
-            <def>idiom.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2798968">
-            <form>
-               <orth>tusagan</orth>
-            </form>
-            <def>initials.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2800480">
-            <form>
-               <orth>siolchur innealta</orth>
-            </form>
-            <def>artificial insemination.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2801992">
-            <form>
-               <orth>laithealan</orth>
-            </form>
-            <def>daily newspaper.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2803504">
-            <form>
-               <orth>fillteag</orth>
-            </form>
-            <def>lapel.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2805016">
-            <form>
-               <orth>gùthlag</orth>
-            </form>
-            <def>larynx.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2806528">
-            <form>
-               <orth>banachadh fola</orth>
-            </form>
-            <def>leukaemia.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2808040">
-            <form>
-               <orth>an dromairt</orth>
-            </form>
-            <def>lumbago.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2810416">
-            <form>
-               <orth>comunntas</orth>
-            </form>
-            <def>membership.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2811928">
-            <form>
-               <orth>fiabhras ballach</orth>
-            </form>
-            <def>meningitis.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2813440">
-            <form>
-               <orth>sgrogaireachd</orth>
-            </form>
-            <def>necking.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2814952">
-            <form>
-               <orth>bàs chlàr</orth>
-            </form>
-            <def>obituary column.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2816464">
-            <form>
-               <orth>foileadh de ghlanadh</orth>
-            </form>
-            <def>a once over, quick wash.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2817976">
-            <form>
-               <orth>codalan</orth>
-            </form>
-            <def>opium.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2819488">
-            <form>
-               <orth>tiolamachd</orth>
-            </form>
-            <def>applied to an unorthodox person. An opportunist.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2821000">
-            <form>
-               <orth>loireag</orth>
-            </form>
-            <def>pancake.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2822512">
-            <form>
-               <orth>trusag</orth>
-            </form>
-            <def>a packet.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2824024">
-            <form>
-               <orth>neasgaid mhearbhain</orth>
-            </form>
-            <def>peptic ulcer.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2825536">
-            <form>
-               <orth>àt mhionaich</orth>
-            </form>
-            <def>peritonitis.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2831232">
-            <form>
-               <orth>taoiseag</orth>
-            </form>
-            <def>a pie.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2832744">
-            <form>
-               <orth>greidhte</orth>
-            </form>
-            <def>toasted. Aran greidhte – toast.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2834400">
-            <form>
-               <orth>uighean sgallta</orth>
-            </form>
-            <def>poached eggs.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2835912">
-            <form>
-               <orth>clodhag</orth>
-            </form>
-            <def>a stamp.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2837424">
-            <form>
-               <orth>ganail</orth>
-               <pron>[?]</pron>
-            </form>
-            <def>[?] an iron railing.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2838936">
-            <form>
-               <orth>brighinn</orth>
-            </form>
-            <def>seasoning.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2841312">
-            <form>
-               <orth>meallag</orth>
-            </form>
-            <def>a tablet, pill.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2842824">
-            <form>
-               <orth>iodhanach</orth>
-            </form>
-            <def>a physically and mentally deformed person.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2844336">
-            <form>
-               <orth>coinbhein</orth>
-            </form>
-            <def>to struggle with something or someone.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2845848">
-            <form>
-               <orth>deugraich</orth>
-            </form>
-            <def>teenagers.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2847360">
-            <form>
-               <orth>sùgheart</orth>
-            </form>
-            <def>a carpet hoover.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2848872">
-            <form>
-               <orth>luibh bheathaiche</orth>
-            </form>
-            <def>vegetarian.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2850384">
-            <form>
-               <orth>filleag</orth>
-            </form>
-            <def>a wrapper.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2851896">
-            <form>
-               <orth>gruag chràisdeach</orth>
-            </form>
-            <def>frizzy hair.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2853408">
-            <form>
-               <orth>falt thonnadh</orth>
-            </form>
-            <def>a perm.</def>
-         </entry>
-         <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2854920">
-            <form>
-               <orth>bonn boise</orth>
-            </form>
-            <def>a tip to a waiter, driver, etc.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AOHenley_CreagorryMrsEdwardsmisc">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[1987-88]</date>
+        <location>
+          <placeName>Benbecula, Creagorry</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>A. O’Henley</persName>
+        </person>
+        <person role="informant">
+          <persName>Mrs Edwards</persName>
+          <birth>
+            <placeName>‘Islay connections’</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2553672">
+        <form>
+          <orth>cunnradh</orth>
+        </form>
+        <def>bargain.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2556192">
+        <form>
+          <orth>iomreicean</orth>
+          <pron>[? lomreicean?]</pron>
+        </form>
+        <def>[? lomreicean?] bazaar.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2537040">
+        <form>
+          <orth>litir ainmhich</orth>
+        </form>
+        <def>an account or bill which has to be paid.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2536392">
+        <form>
+          <orth>folaireamh</orth>
+        </form>
+        <def>an account of bill which has to be paid.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2534880">
+        <form>
+          <orth>criolan</orth>
+        </form>
+        <def>briefcase.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2533368">
+        <form>
+          <orth>cainmheas</orth>
+        </form>
+        <def>the budget.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2531856">
+        <form>
+          <orth>bolgan dealan</orth>
+        </form>
+        <def>electricity bulb.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2530560">
+        <form>
+          <orth>breith forbhaidh</orth>
+        </form>
+        <def>Caesarian birth.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2528976">
+        <form>
+          <orth>fuinteag (-an)</orth>
+        </form>
+        <def>small buns, cakes.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2527464">
+        <form>
+          <orth>dealbhart</orth>
+        </form>
+        <def>camera.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2525952">
+        <form>
+          <orth>lantaigh</orth>
+        </form>
+        <def>canteen.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2524440">
+        <form>
+          <orth>bothan siubhail</orth>
+        </form>
+        <def>caravan.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2521416">
+        <form>
+          <orth>struth</orth>
+        </form>
+        <def>(Card names:) club.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2519904">
+        <form>
+          <orth>muilead</orth>
+        </form>
+        <def>(Card names:) diamond.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2518392">
+        <form>
+          <orth>cuireideach</orth>
+        </form>
+        <def>(Card names:) knave.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2516880">
+        <form>
+          <orth>speur</orth>
+        </form>
+        <def>(Card names:) spade.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2515368">
+        <form>
+          <orth>madh</orth>
+        </form>
+        <def>(Card names:) trump. I would use ‘tromh’ for trump.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2513856">
+        <form>
+          <orth>casbhrat</orth>
+        </form>
+        <def>carpet.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2511552">
+        <form>
+          <orth>clàrachan airgid</orth>
+        </form>
+        <def>cash register.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2509968">
+        <form>
+          <orth>sealltanas cruidh</orth>
+        </form>
+        <def>cattle show.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2508456">
+        <form>
+          <orth>tathan</orth>
+        </form>
+        <def>cement.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2506656">
+        <form>
+          <orth>cruadhtan</orth>
+        </form>
+        <def>concrete.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2505072">
+        <form>
+          <orth>grànlach</orth>
+        </form>
+        <def>breakfast cereal.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2503776">
+        <form>
+          <orth>iomashreud</orth>
+        </form>
+        <def>used in the sense of a chain of shops.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2502264">
+        <form>
+          <orth>fanan</orth>
+        </form>
+        <def>a channel or chute.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2500752">
+        <form>
+          <orth>cruinnlios</orth>
+        </form>
+        <def>a circus.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2499240">
+        <form>
+          <orth>faolmunnas</orth>
+        </form>
+        <def>civilisation.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2497728">
+        <form>
+          <orth>fuath duinteachd</orth>
+        </form>
+        <def>claustrophobia.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2496216" type="person">
+        <form>
+          <orth>amhuilteach</orth>
+        </form>
+        <def>a clown in a circus.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2403952">
+        <form>
+          <orth>comanach</orth>
+        </form>
+        <def>friend, companion.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2400568">
+        <form>
+          <orth>goireas cagailt</orth>
+        </form>
+        <def>companion set.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2401072">
+        <form>
+          <orth>roinneag</orth>
+        </form>
+        <def>small or large compartment.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2428288">
+        <form>
+          <orth>stòc muineal</orth>
+        </form>
+        <def>cravat.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2429296">
+        <form>
+          <orth>suacan</orth>
+        </form>
+        <def>crucible. [NOTES: note added by RÓM – cf. Ériu (2005).]</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2425984">
+        <form>
+          <orth>adhartag</orth>
+        </form>
+        <def>a pillow or more accurately a cushion.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2422600">
+        <form>
+          <orth>sgianach</orth>
+        </form>
+        <def>a small slice of meat, fish, etc.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2422816">
+        <form>
+          <orth>ceum foghluim</orth>
+        </form>
+        <def>a degree.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp3259128">
+        <form>
+          <orth>an ruith fhuail</orth>
+        </form>
+        <def>diabetes.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp112109832">
+        <form>
+          <orth>deimhneas</orth>
+        </form>
+        <def>diploma.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp112111128">
+        <form>
+          <orth>silteachd</orth>
+        </form>
+        <def>distillation.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2761672">
+        <form>
+          <orth>fual bhrostal</orth>
+        </form>
+        <def>diuretic.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2763184">
+        <form>
+          <orth>tairneag</orth>
+        </form>
+        <def>a drawer.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2764696">
+        <form>
+          <orth>sadachan</orth>
+        </form>
+        <def>a cloth used for dusting. Could also be used for a blackboard duster?</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2766208">
+        <form>
+          <orth>talmhag</orth>
+        </form>
+        <def>man-made cave used as hiding place or for shelter.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2767720">
+        <form>
+          <orth>a’ ghearrag</orth>
+        </form>
+        <def>dysentery.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2769232">
+        <form>
+          <orth>soluban</orth>
+        </form>
+        <def>elastic. Bann soluban – elastic band.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2770888">
+        <form>
+          <orth>bligheart dhealanta</orth>
+        </form>
+        <def>electric milking machine.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2772400">
+        <form>
+          <orth>ceudfhas</orth>
+        </form>
+        <def>embryo.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2773912">
+        <form>
+          <orth>dorus eiginn</orth>
+        </form>
+        <def>emergency exit.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2775424">
+        <form>
+          <orth>li</orth>
+        </form>
+        <def>paint.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2776936">
+        <form>
+          <orth>li bhliochdail</orth>
+        </form>
+        <def>emulsion paint.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2778448">
+        <form>
+          <orth>cuairsgean</orth>
+        </form>
+        <def>envelope.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2780824">
+        <form>
+          <orth>àrachas</orth>
+        </form>
+        <def>insurance.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2782336">
+        <form>
+          <orth>soireag</orth>
+        </form>
+        <def>flask.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2783848" type="person">
+        <form>
+          <orth>amhasair</orth>
+        </form>
+        <def>gangster.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2785360">
+        <form>
+          <orth>ainteas goile</orth>
+        </form>
+        <def>gastritis</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2786872">
+        <form>
+          <orth>gìneag</orth>
+        </form>
+        <def>a germ.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2788384">
+        <form>
+          <orth>grisg</orth>
+        </form>
+        <def>to grill something.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2789896">
+        <form>
+          <orth>luthchleasachd</orth>
+        </form>
+        <def>gymnastics.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2791408">
+        <form>
+          <orth>trasdnaich (-eachd)</orth>
+        </form>
+        <def>to heckle, heckling.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2792920">
+        <form>
+          <orth>aonargheanachd</orth>
+        </form>
+        <def>homeopathy.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2794432">
+        <form>
+          <orth>brodag</orth>
+        </form>
+        <def>hormone.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2795944">
+        <form>
+          <orth>falc (-adh)</orth>
+        </form>
+        <def>to bathe, bathing.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2797456">
+        <form>
+          <orth>car cainnte</orth>
+        </form>
+        <def>idiom.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2798968">
+        <form>
+          <orth>tusagan</orth>
+        </form>
+        <def>initials.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2800480">
+        <form>
+          <orth>siolchur innealta</orth>
+        </form>
+        <def>artificial insemination.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2801992">
+        <form>
+          <orth>laithealan</orth>
+        </form>
+        <def>daily newspaper.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2803504">
+        <form>
+          <orth>fillteag</orth>
+        </form>
+        <def>lapel.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2805016">
+        <form>
+          <orth>gùthlag</orth>
+        </form>
+        <def>larynx.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2806528">
+        <form>
+          <orth>banachadh fola</orth>
+        </form>
+        <def>leukaemia.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2808040">
+        <form>
+          <orth>an dromairt</orth>
+        </form>
+        <def>lumbago.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2810416">
+        <form>
+          <orth>comunntas</orth>
+        </form>
+        <def>membership.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2811928">
+        <form>
+          <orth>fiabhras ballach</orth>
+        </form>
+        <def>meningitis.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2813440">
+        <form>
+          <orth>sgrogaireachd</orth>
+        </form>
+        <def>necking.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2814952">
+        <form>
+          <orth>bàs chlàr</orth>
+        </form>
+        <def>obituary column.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2816464">
+        <form>
+          <orth>foileadh de ghlanadh</orth>
+        </form>
+        <def>a once over, quick wash.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2817976">
+        <form>
+          <orth>codalan</orth>
+        </form>
+        <def>opium.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2819488" type="person">
+        <form>
+          <orth>tiolamachd</orth>
+        </form>
+        <def>applied to an unorthodox person. An opportunist.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2821000">
+        <form>
+          <orth>loireag</orth>
+        </form>
+        <def>pancake.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2822512">
+        <form>
+          <orth>trusag</orth>
+        </form>
+        <def>a packet.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2824024">
+        <form>
+          <orth>neasgaid mhearbhain</orth>
+        </form>
+        <def>peptic ulcer.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2825536">
+        <form>
+          <orth>àt mhionaich</orth>
+        </form>
+        <def>peritonitis.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2831232">
+        <form>
+          <orth>taoiseag</orth>
+        </form>
+        <def>a pie.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2832744">
+        <form>
+          <orth>greidhte</orth>
+        </form>
+        <def>toasted. Aran greidhte – toast.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2834400">
+        <form>
+          <orth>uighean sgallta</orth>
+        </form>
+        <def>poached eggs.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2835912">
+        <form>
+          <orth>clodhag</orth>
+        </form>
+        <def>a stamp.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2837424">
+        <form>
+          <orth>ganail</orth>
+          <pron>[?]</pron>
+        </form>
+        <def>[?] an iron railing.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2838936">
+        <form>
+          <orth>brighinn</orth>
+        </form>
+        <def>seasoning.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2841312">
+        <form>
+          <orth>meallag</orth>
+        </form>
+        <def>a tablet, pill.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2842824" type="person">
+        <form>
+          <orth>iodhanach</orth>
+        </form>
+        <def>a physically and mentally deformed person.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2844336">
+        <form>
+          <orth>coinbhein</orth>
+        </form>
+        <def>to struggle with something or someone.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2845848" type="person">
+        <form>
+          <orth>deugraich</orth>
+        </form>
+        <def>teenagers.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2847360">
+        <form>
+          <orth>sùgheart</orth>
+        </form>
+        <def>a carpet hoover.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2848872" type="person">
+        <form>
+          <orth>luibh bheathaiche</orth>
+        </form>
+        <def>vegetarian.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2850384">
+        <form>
+          <orth>filleag</orth>
+        </form>
+        <def>a wrapper.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2851896">
+        <form>
+          <orth>gruag chràisdeach</orth>
+        </form>
+        <def>frizzy hair.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2853408">
+        <form>
+          <orth>falt thonnadh</orth>
+        </form>
+        <def>a perm.</def>
+      </entry>
+      <entry xml:id="AOHenley_CreagorryMrsEdwardsmisc-idp2854920">
+        <form>
+          <orth>bonn boise</orth>
+        </form>
+        <def>a tip to a waiter, driver, etc.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

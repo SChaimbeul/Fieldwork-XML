@@ -1,833 +1,830 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: the informants use adjectives ‘beag’, ‘mór’ and ‘math’ to show the gender of the nouns. In this file they have been replaced with ‘masc.’ and ‘fem.’.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <location>
-               <placeName>Leodhas, Carlobhadh [Lewis, Carloway]</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>Angus and Margaret MacKillop</persName>
-               <persName xml:lang="gd">Aonghas is Mairead ’icIllip</persName>
-               <age>còrr is leth cheud [over 50]</age>
-               <birth>
-                  <placeName>Eileanaich [natives of Lewis]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>House and Furnishings</term>
-               <term>Taigh Gàidhealach</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e35"
-            >1. An stéidh is am balla</head>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e40">
-            <form>
-               <orth>am bala stigh</orth>
-            </form>
-            <def>the inner wall.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e49">
-            <form>
-               <orth>am bala muigh</orth>
-            </form>
-            <def>the outer wall.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e58">
-            <form>
-               <orth>an glutadh</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] the earthen filling in between the inner and outer walls.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e67">
-            <form>
-               <orth>an glutranadh  (Berneray)</orth>
-               <pron>[See an glutadh]</pron>
-            </form>
-            <def>[See an glutadh]</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e76">
-            <form>
-               <orth>barr a’ bhala</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] the top of the wall(s) on which the beams were set.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e85">
-            <form>
-               <orth>an tobhta</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] [See barr a’ bhala] ‘Tobhta’ also means a ruin in Lewis.</def>
-         </entry>
-         <head
-             xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e93"
-            >2. Am mullach ’s an tughadh</head>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e98">
-            <form>
-               <orth>an gad-droma</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] the top beam to which the joists were fixed.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e107">
-            <form>
-               <orth>cas-a-ceanghail</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] one of the sloping roof joists.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e116">
-            <form>
-               <orth>ceanghal</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] a pair of sloping roof joists meeting at the ‘gad-droma’ [q.v.]. The size or length of a house was given by the number of ‘ceanghail’. Thus – Tigh och [sic] ceanghail or Tigh mór nan deich ceanghail.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e125">
-            <form>
-               <orth>na taobhain,</orth>
-               <pron>[sg.]</pron>
-            </form>
-            <def>[sg.] taobhan [masc.] the laths nailed across the ‘casan ceanghail’ [q.v.] to support the thatch.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e134">
-            <form>
-               <orth>na sgrathan,</orth>
-               <pron>[sg.]</pron>
-            </form>
-            <def>[sg.] sgrath [fem.] the large flat slating divots were placed over the ‘taobhain’ [q.v.].</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e143">
-            <form>
-               <orth>tughadh</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] the thatch – could be: Tughadh connlaich no Tughadh fraoich no Tughadh de bhunan eòrna. Bhathar a’ buain no a’ spionadh an eòrna leis a bhun dubh agus ’ga cheanghail. ’Nuair a bha e tioram bhathar a’ sgathadh gach sguaib le coran [sic] mór a dh’aon ghnothaich air son so fhéin – ris an cainte corran sgathaidh. Bha na bunan so air am meas nan tughadh air leth dionach.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e152">
-            <form>
-               <orth>sioman</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] the binding rope. The thatch was held down with ‘sioman fraoich’ no ‘sioman murain’ or latterly by coir rope still called in Lewis ‘sioman Thearlaich’ after the merchant who introduced it into the island.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e161">
-            <form>
-               <orth>spàrr</orth>
-            </form>
-            <def>spar or rafter. There was the expression ‘luath mu spàrr’, e.g. Cha chuir e sud luath mu spàrr. – He will not cause any great stir or commotion.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e170">
-            <form>
-               <orth>fuaraich</orth>
-            </form>
-            <def>drops of rain dripping through the thatch.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e179">
-            <form>
-               <orth>deathach</orth>
-            </form>
-            <def>smoke.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e188">
-            <form>
-               <orth>cailleachan suith</orth>
-            </form>
-            <def>hanging strands of sooty substance formed high up on the ‘slabhraidh’.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e197">
-            <form>
-               <orth>gual</orth>
-            </form>
-            <def>a smudge on the hands or face (not of coal as coal had never been in use of old in Point, Lewis). Anyone having a smudge on the face and not knowing of it would be told: “Cuir do làmh far am beil an gual ort agus gheibh thu do roghainn”. ‘Gual’ is also the black formed on the outside of pots and pans exposed to an open flame. Still also ‘gual’ was the name for cold peat embers. Sgùradh le gual – before the advent of abrasive cleansers, a damp cloth dipped in a very finely crushed cold peat ember would be used on metal in place of sand paper or emery paper. And ‘gual’ for something burnt to a cinder – “Chaidh e ’na ghual dubh.”</def>
-         </entry>
-         <head
-             xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e205"
-            >3. Dorsan is uinneagan</head>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e210">
-            <form>
-               <orth>an starsach</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] the threshold.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e219">
-            <form>
-               <orth>an t-ard dhorus</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] the door lintel.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e228">
-            <form>
-               <orth>an ursainn</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] the door post.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e237">
-            <form>
-               <orth>a’ chomhla</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] the actual door.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e246">
-            <form>
-               <orth>na banntaichean,</orth>
-               <pron>[sg.]</pron>
-            </form>
-            <def>[sg.] bannta [masc.] the hinges.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e255">
-            <form>
-               <orth>a’ ghlas</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] the lock.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e264">
-            <form>
-               <orth>an claimhean</orth>
-            </form>
-            <def>the bolt.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e273">
-            <form>
-               <orth>sneic</orth>
-            </form>
-            <def>a hasp.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e282">
-            <form>
-               <orth>an dorus mór</orth>
-            </form>
-            <def>the main door as opposed to the back door which led into the barn and was called ‘dorus an t-sabhail’.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e291">
-            <form>
-               <orth>[dorus an t-sabhail]</orth>
-            </form>
-            <def>the back door which led into the barn.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e300">
-            <form>
-               <orth>dorus an tallain</orth>
-            </form>
-            <def>the door leading into the living room.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e309">
-            <form>
-               <orth>dorus a’ chulaist</orth>
-            </form>
-            <def>the door leading from the living room to the sleeping apartment.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e318">
-            <form>
-               <orth>uinneag an teine</orth>
-            </form>
-            <def>the living room window.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e327">
-            <form>
-               <orth>uinneag a’ chulaist</orth>
-            </form>
-            <def>the bedroom window.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e336">
-            <form>
-               <orth>uinneag an t-sobhail</orth>
-            </form>
-            <def>the barn window.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e345">
-            <form>
-               <orth>lòsan</orth>
-            </form>
-            <def>a pane of glass.</def>
-         </entry>
-         <head
-             xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e353"
-            >4. An broinn an taighe: na sèamraichean</head>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e358">
-            <form>
-               <orth>cùl an tallain</orth>
-            </form>
-            <def>(behind the partition) The area into which one entered by the front door – the equivalent of the hall in the more modern houses.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e367">
-            <form>
-               <orth>aig an teine</orth>
-            </form>
-            <def>I think the living room was always referred to like this.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e376">
-            <form>
-               <orth>cùlaist</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] a bedroom latterly. Earlier it was a closet or windowless room – requiring to be lit.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e385">
-            <form>
-               <orth>cùil mhònach</orth>
-            </form>
-            <def>a peat-closet.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e394">
-            <form>
-               <orth>cùil lion</orth>
-            </form>
-            <def>a closet for nets.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e403">
-            <form>
-               <orth>an airidh</orth>
-            </form>
-            <def>I am not sure what or where this was. I heard this expression ‘Shuas air an airidh’. Could have been a boarding or platform among the rafters. [NOTES: the following comment added later at the bottom of the page.] Have discovered that the ‘airidh’ was not part of the dwelling house – it was a broad shelf or suspended loft in the barn.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e412">
-            <form>
-               <orth>tallan</orth>
-            </form>
-            <def>partition.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e421">
-            <form>
-               <orth>clòsaid</orth>
-            </form>
-            <def>closet.</def>
-         </entry>
-         <head
-             xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e429"
-            >5. An t-àite-teine</head>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e434">
-            <form>
-               <orth>cladach-an-teine</orth>
-            </form>
-            <def>not clear what was meant by this unless it was directly in front of the fire.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e443">
-            <form>
-               <orth>cagailt</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] the hearth.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e452">
-            <form>
-               <orth>branndair</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] the bars of the grating on which the fire rested.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e461">
-            <form>
-               <orth>slabhraidh</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] the hanging chain above the fire on which pots were suspended. I think it was also the name for the elongated iron hook at the end of the chain.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e470">
-            <form>
-               <orth>cran</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] may have been ‘crann’ but it was always pronounced like an English word. It was an iron bar across the chimney from which hooks (as above [meaning slabhraidh]) were suspended – if there was no ‘slabhraidh’ [q.v.].</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e479">
-            <form>
-               <orth>clobha</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] tongs.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e488">
-            <form>
-               <orth>spòg a’ chlobha</orth>
-            </form>
-            <def>a leg of the tongs.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e497">
-            <form>
-               <orth>bòcair</orth>
-            </form>
-            <def>a pair of bellows.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e506">
-            <form>
-               <orth>luath</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] ashes.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e515">
-            <form>
-               <orth>griosach</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] red hot ashes.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e524">
-            <form>
-               <orth>gallag</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] the bright red core of the fire.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e533">
-            <form>
-               <orth>bràthadair</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] a roaring fire.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e542">
-            <form>
-               <orth>braidseal</orth>
-            </form>
-            <def>a roaring fire.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e551">
-            <form>
-               <orth>bìugan</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] a small flickering fire. Also applied to a poor light from the lamp.</def>
-         </entry>
-         <head
-             xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e559"
-            >6. Airneis an taighe</head>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e564">
-            <form>
-               <orth>angar  bùrn</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] the water cask. Water was always ‘bùrn’ in the Point district of Lewis.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e573">
-            <form>
-               <orth>prais</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] a three legged pot.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e582">
-            <form>
-               <orth>bord praise</orth>
-            </form>
-            <def>a wooden lid for the pot.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e591">
-            <form>
-               <orth>sieaghag</orth>
-               <pron>[sic]</pron>
-            </form>
-            <def>[sic] a wooden spurtle.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e600">
-            <form>
-               <orth>liagh</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] a ladle.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e609">
-            <form>
-               <orth>leabaidh ard</orth>
-            </form>
-            <def>box bed.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e618">
-            <form>
-               <orth>bord-slios na leapa</orth>
-            </form>
-            <def>the front or side of the bed facing out into the room.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e627">
-            <form>
-               <orth>pàma</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] the brightly coloured frill or valance round the bed.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e636">
-            <form>
-               <orth>séis</orth>
-            </form>
-            <def>a long bench along the wall.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e645">
-            <form>
-               <orth>being</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] a long bench along the wall.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e654">
-            <form>
-               <orth>stòl mór</orth>
-            </form>
-            <def>a long stool that would seat two [?] people.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e663">
-            <form>
-               <orth>stòl beag</orth>
-            </form>
-            <def>a small stool (a single seater).</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e672">
-            <form>
-               <orth>cùrtairean</orth>
-            </form>
-            <def>the window curtains.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e681">
-            <form>
-               <orth>ciste mhine</orth>
-            </form>
-            <def>meal chest.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e690">
-            <form>
-               <orth>ciste phlaideachan</orth>
-            </form>
-            <def>blanket chest.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e699">
-            <form>
-               <orth>bord tuarnair</orth>
-            </form>
-            <def>the dining table – joiner-made with turned legs and drawer – as opposed to the home-made work table. I think I also heard ‘leabaidh tuarnair’.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e708">
-            <form>
-               <orth>dreasair</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] dresser.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e717">
-            <form>
-               <orth>bòrd an dreasair</orth>
-            </form>
-            <def>the top or work surface of the dresser.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e726">
-            <form>
-               <orth>bonn an dreasair</orth>
-            </form>
-            <def>the bottom or cupboard part of the dresser.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e735">
-            <form>
-               <orth>preas</orth>
-            </form>
-            <def>cupboard.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e744">
-            <form>
-               <orth>clar-fuinne</orth>
-            </form>
-            <def>baking board.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e753">
-            <form>
-               <orth>greideal</orth>
-            </form>
-            <def>baking girdle [sic].</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e762">
-            <form>
-               <orth>corca</orth>
-            </form>
-            <def>a big knife or bread knife.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e771">
-            <form>
-               <orth>sioltachan</orth>
-            </form>
-            <def>a sieve.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e780">
-            <form>
-               <orth>siliogan</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] a small cream jug with a spout.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e789">
-            <form>
-               <orth>cuach</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] a big bowl or tureen.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e798">
-            <form>
-               <orth>pùlais</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] detachable hanging handle for the ‘prais’ or three legged pot.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e807">
-            <form>
-               <orth>cluaisean</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] the ‘ear’ on opposite sides of the ‘prais’ [q.v.] into which the ‘pulais’ [q.v.] was fitted.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e816">
-            <form>
-               <orth>gucag uighe</orth>
-            </form>
-            <def>egg cup.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e825">
-            <form>
-               <orth>truinnsear  domhain</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] a soup plate.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e834">
-            <form>
-               <orth>truinnsear staoin</orth>
-            </form>
-            <def>a meat plate – any shallow plate.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e843">
-            <form>
-               <orth>sgian lùthaidh</orth>
-            </form>
-            <def>a man’s pocket knife.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e852">
-            <form>
-               <orth>measair</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] a small wooden tub used for animal feeding.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e861">
-            <form>
-               <orth>maodar</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] [See measair]</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e870">
-            <form>
-               <orth>seotal</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] a small compartment in the ‘ciste’ or chest where money and other valuables were kept.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e879">
-            <form>
-               <orth>baustair</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] a mattress.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e888">
-            <form>
-               <orth>lamba</orth>
-            </form>
-            <def>a lamp.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e897">
-            <form>
-               <orth>sifeac</orth>
-            </form>
-            <def>a wick for the above [i.e. lamba (q.v.)].</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e906">
-            <form>
-               <orth>lamba bheag</orth>
-            </form>
-            <def>a small lamp with a handle for taking from room to room.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e915">
-            <form>
-               <orth>fleòdar</orth>
-            </form>
-            <def>this was the old name in Point, Lewis for tin. A tin pail or basin used for milk would be ‘peile fleòdair’ and ‘mios fleòdair’. (Is it conceivable that at one time they had pewter utensils?) I do not hear the word now – if there are any tin pails, etc. – it is ‘peile tiona’, ‘mios tiona’.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e924">
-            <form>
-               <orth>imiolaid</orth>
-            </form>
-            <def>this was a special lid for the milking pail when it had to be carried some distance – as from the sheiling. It was of cured hide, ‘made to measure’ or fitted to cover the top of the pail and come a little way down the sides.</def>
-         </entry>
-         <head
-             xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e932"
-            >7. Sobhal, bàthach, no bothanan sam bith eile</head>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e937">
-            <form>
-               <orth>bàthach</orth>
-            </form>
-            <def>byre. [NOTES: it is not clear if the adjective ‘mhór’ added in brackets between ‘bàthach’ and ‘boghal’ refers to the former or the latter.]</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e946">
-            <form>
-               <orth>boghal</orth>
-            </form>
-            <def>the cow’s bed or stall in the byre.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e955">
-            <form>
-               <orth>stàpull</orth>
-            </form>
-            <def>stable.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e964">
-            <form>
-               <orth>painnsear</orth>
-            </form>
-            <def>(in Point, Lewis) manger.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e973">
-            <form>
-               <orth>fasglan</orth>
-            </form>
-            <def>a little ‘bothag’ built on to the front of the house and just missing the front door – possibly a shelter for the front door.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e982">
-            <form>
-               <orth>bothag nan cearc</orth>
-            </form>
-            <def>hen house.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e991">
-            <form>
-               <orth>bothag nan uan</orth>
-            </form>
-            <def>the little thatched bothy where the lambs were fed and wintered.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1000">
-            <form>
-               <orth>sobhal</orth>
-            </form>
-            <def>barn.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1009">
-            <form>
-               <orth>dileadh</orth>
-            </form>
-            <def>a drain leading out from the byre (I think).</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1018">
-            <form>
-               <orth>stiall</orth>
-            </form>
-            <def>the short tether by which the cow was secured in the stall.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1027">
-            <form>
-               <orth>feist</orth>
-            </form>
-            <def>the long tether outside.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1036">
-            <form>
-               <orth>bacan</orth>
-            </form>
-            <def>the tether stake.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1045">
-            <form>
-               <orth>scalpan</orth>
-            </form>
-            <def>oat chaff. (Point, Lewis)</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1054">
-            <form>
-               <orth>moll</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] barley chaff.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1063">
-            <form>
-               <orth>rulladh</orth>
-            </form>
-            <def>separating the barley grain from the chaff – an operation quite different from that of winnowing oats as barley chaff is heavier and does not so readily ‘go with the wind’.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1072">
-            <form>
-               <orth>criathar</orth>
-               <pron>[masc.]</pron>
-            </form>
-            <def>[masc.] the sieve, or riddle, used in the above process [i.e. rulladh (q.v.)] – made of perforated sheep hide stretched over a round wooden frame.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1081">
-            <form>
-               <orth>siolmhol</orth>
-            </form>
-            <def>barley chaff which was not free of grain and could be used for cattle feeding.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1090">
-            <form>
-               <orth>dias</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] as well as meaning an ear of corn, this also meant a fleck of barley chaff. Most irritating to the skin if a ‘dias’ adhered to one’s clothing. ‘Tha dias air mo dhruim’ could be awful. ‘Tha dias ’nam amhaich’ – worse!</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1099">
-            <form>
-               <orth>suathadh an eòrna</orth>
-            </form>
-            <def>getting the barley grain off the stem by working the tops of the sheaves between the feet – wearing special boots the while.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1108">
-            <form>
-               <orth>calg</orth>
-               <pron>[fem.]</pron>
-            </form>
-            <def>[fem.] the same as ‘dias’ (above) [q.v.] in its irritating prickly sense.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1117">
-            <form>
-               <orth>a’ deanamh sobhail</orth>
-            </form>
-            <def>this meant the winter’s work in the barn – preparing the barley and oats for milling.</def>
-         </entry>
-         <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1126">
-            <form>
-               <orth>spoth an t-sìl</orth>
-            </form>
-            <def>shaking out from among the straw refuse any good grain that had become mixed up in it.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: the informants use adjectives ‘beag’, ‘mór’ and ‘math’ to show the gender of the nouns. In this file they have been replaced with ‘masc.’ and ‘fem.’.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location>
+          <placeName>Leodhas, Carlobhadh [Lewis, Carloway]</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>Angus and Margaret MacKillop</persName>
+          <persName xml:lang="gd">Aonghas is Mairead ’icIllip</persName>
+          <age>còrr is leth cheud [over 50]</age>
+          <birth>
+            <placeName>Eileanaich [natives of Lewis]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>House and Furnishings</term>
+          <term>Taigh Gàidhealach</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e35">1. An stéidh is am balla</head>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e40">
+        <form>
+          <orth>am bala stigh</orth>
+        </form>
+        <def>the inner wall.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e49">
+        <form>
+          <orth>am bala muigh</orth>
+        </form>
+        <def>the outer wall.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e58">
+        <form>
+          <orth>an glutadh</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] the earthen filling in between the inner and outer walls.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e67">
+        <form>
+          <orth>an glutranadh  (Berneray)</orth>
+          <pron>[See an glutadh]</pron>
+        </form>
+        <def>[See an glutadh]</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e76">
+        <form>
+          <orth>barr a’ bhala</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] the top of the wall(s) on which the beams were set.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e85">
+        <form>
+          <orth>an tobhta</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] [See barr a’ bhala] ‘Tobhta’ also means a ruin in Lewis.</def>
+      </entry>
+      <head xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e93">2. Am mullach ’s an tughadh</head>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e98">
+        <form>
+          <orth>an gad-droma</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] the top beam to which the joists were fixed.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e107">
+        <form>
+          <orth>cas-a-ceanghail</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] one of the sloping roof joists.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e116">
+        <form>
+          <orth>ceanghal</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] a pair of sloping roof joists meeting at the ‘gad-droma’ [q.v.]. The size or length of a house was given by the number of ‘ceanghail’. Thus – Tigh och [sic] ceanghail or Tigh mór
+          nan deich ceanghail.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e125">
+        <form>
+          <orth>na taobhain,</orth>
+          <pron>[sg.]</pron>
+        </form>
+        <def>[sg.] taobhan [masc.] the laths nailed across the ‘casan ceanghail’ [q.v.] to support the thatch.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e134">
+        <form>
+          <orth>na sgrathan,</orth>
+          <pron>[sg.]</pron>
+        </form>
+        <def>[sg.] sgrath [fem.] the large flat slating divots were placed over the ‘taobhain’ [q.v.].</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e143">
+        <form>
+          <orth>tughadh</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] the thatch – could be: Tughadh connlaich no Tughadh fraoich no Tughadh de bhunan eòrna. Bhathar a’ buain no a’ spionadh an eòrna leis a bhun dubh agus ’ga cheanghail. ’Nuair a bha
+          e tioram bhathar a’ sgathadh gach sguaib le coran [sic] mór a dh’aon ghnothaich air son so fhéin – ris an cainte corran sgathaidh. Bha na bunan so air am meas nan tughadh air leth
+          dionach.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e152">
+        <form>
+          <orth>sioman</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] the binding rope. The thatch was held down with ‘sioman fraoich’ no ‘sioman murain’ or latterly by coir rope still called in Lewis ‘sioman Thearlaich’ after the merchant who
+          introduced it into the island.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e161">
+        <form>
+          <orth>spàrr</orth>
+        </form>
+        <def>spar or rafter. There was the expression ‘luath mu spàrr’, e.g. Cha chuir e sud luath mu spàrr. – He will not cause any great stir or commotion.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e170">
+        <form>
+          <orth>fuaraich</orth>
+        </form>
+        <def>drops of rain dripping through the thatch.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e179">
+        <form>
+          <orth>deathach</orth>
+        </form>
+        <def>smoke.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e188">
+        <form>
+          <orth>cailleachan suith</orth>
+        </form>
+        <def>hanging strands of sooty substance formed high up on the ‘slabhraidh’.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e197">
+        <form>
+          <orth>gual</orth>
+        </form>
+        <def>a smudge on the hands or face (not of coal as coal had never been in use of old in Point, Lewis). Anyone having a smudge on the face and not knowing of it would be told: “Cuir do làmh far
+          am beil an gual ort agus gheibh thu do roghainn”. ‘Gual’ is also the black formed on the outside of pots and pans exposed to an open flame. Still also ‘gual’ was the name for cold peat
+          embers. Sgùradh le gual – before the advent of abrasive cleansers, a damp cloth dipped in a very finely crushed cold peat ember would be used on metal in place of sand paper or emery paper.
+          And ‘gual’ for something burnt to a cinder – “Chaidh e ’na ghual dubh.”</def>
+      </entry>
+      <head xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e205">3. Dorsan is uinneagan</head>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e210">
+        <form>
+          <orth>an starsach</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] the threshold.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e219">
+        <form>
+          <orth>an t-ard dhorus</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] the door lintel.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e228">
+        <form>
+          <orth>an ursainn</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] the door post.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e237">
+        <form>
+          <orth>a’ chomhla</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] the actual door.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e246">
+        <form>
+          <orth>na banntaichean,</orth>
+          <pron>[sg.]</pron>
+        </form>
+        <def>[sg.] bannta [masc.] the hinges.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e255">
+        <form>
+          <orth>a’ ghlas</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] the lock.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e264">
+        <form>
+          <orth>an claimhean</orth>
+        </form>
+        <def>the bolt.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e273">
+        <form>
+          <orth>sneic</orth>
+        </form>
+        <def>a hasp.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e282">
+        <form>
+          <orth>an dorus mór</orth>
+        </form>
+        <def>the main door as opposed to the back door which led into the barn and was called ‘dorus an t-sabhail’.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e291">
+        <form>
+          <orth>[dorus an t-sabhail]</orth>
+        </form>
+        <def>the back door which led into the barn.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e300">
+        <form>
+          <orth>dorus an tallain</orth>
+        </form>
+        <def>the door leading into the living room.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e309">
+        <form>
+          <orth>dorus a’ chulaist</orth>
+        </form>
+        <def>the door leading from the living room to the sleeping apartment.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e318">
+        <form>
+          <orth>uinneag an teine</orth>
+        </form>
+        <def>the living room window.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e327">
+        <form>
+          <orth>uinneag a’ chulaist</orth>
+        </form>
+        <def>the bedroom window.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e336">
+        <form>
+          <orth>uinneag an t-sobhail</orth>
+        </form>
+        <def>the barn window.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e345">
+        <form>
+          <orth>lòsan</orth>
+        </form>
+        <def>a pane of glass.</def>
+      </entry>
+      <head xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e353">4. An broinn an taighe: na sèamraichean</head>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e358">
+        <form>
+          <orth>cùl an tallain</orth>
+        </form>
+        <def>(behind the partition) The area into which one entered by the front door – the equivalent of the hall in the more modern houses.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e367">
+        <form>
+          <orth>aig an teine</orth>
+        </form>
+        <def>I think the living room was always referred to like this.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e376">
+        <form>
+          <orth>cùlaist</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] a bedroom latterly. Earlier it was a closet or windowless room – requiring to be lit.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e385">
+        <form>
+          <orth>cùil mhònach</orth>
+        </form>
+        <def>a peat-closet.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e394">
+        <form>
+          <orth>cùil lion</orth>
+        </form>
+        <def>a closet for nets.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e403">
+        <form>
+          <orth>an airidh</orth>
+        </form>
+        <def>I am not sure what or where this was. I heard this expression ‘Shuas air an airidh’. Could have been a boarding or platform among the rafters. [NOTES: the following comment added later at
+          the bottom of the page.] Have discovered that the ‘airidh’ was not part of the dwelling house – it was a broad shelf or suspended loft in the barn.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e412">
+        <form>
+          <orth>tallan</orth>
+        </form>
+        <def>partition.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e421">
+        <form>
+          <orth>clòsaid</orth>
+        </form>
+        <def>closet.</def>
+      </entry>
+      <head xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e429">5. An t-àite-teine</head>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e434">
+        <form>
+          <orth>cladach-an-teine</orth>
+        </form>
+        <def>not clear what was meant by this unless it was directly in front of the fire.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e443">
+        <form>
+          <orth>cagailt</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] the hearth.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e452">
+        <form>
+          <orth>branndair</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] the bars of the grating on which the fire rested.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e461">
+        <form>
+          <orth>slabhraidh</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] the hanging chain above the fire on which pots were suspended. I think it was also the name for the elongated iron hook at the end of the chain.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e470">
+        <form>
+          <orth>cran</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] may have been ‘crann’ but it was always pronounced like an English word. It was an iron bar across the chimney from which hooks (as above [meaning slabhraidh]) were suspended – if
+          there was no ‘slabhraidh’ [q.v.].</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e479">
+        <form>
+          <orth>clobha</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] tongs.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e488">
+        <form>
+          <orth>spòg a’ chlobha</orth>
+        </form>
+        <def>a leg of the tongs.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e497">
+        <form>
+          <orth>bòcair</orth>
+        </form>
+        <def>a pair of bellows.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e506">
+        <form>
+          <orth>luath</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] ashes.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e515">
+        <form>
+          <orth>griosach</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] red hot ashes.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e524">
+        <form>
+          <orth>gallag</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] the bright red core of the fire.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e533">
+        <form>
+          <orth>bràthadair</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] a roaring fire.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e542">
+        <form>
+          <orth>braidseal</orth>
+        </form>
+        <def>a roaring fire.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e551">
+        <form>
+          <orth>bìugan</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] a small flickering fire. Also applied to a poor light from the lamp.</def>
+      </entry>
+      <head xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e559">6. Airneis an taighe</head>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e564">
+        <form>
+          <orth>angar bùrn</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] the water cask. Water was always ‘bùrn’ in the Point district of Lewis.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e573">
+        <form>
+          <orth>prais</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] a three legged pot.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e582">
+        <form>
+          <orth>bord praise</orth>
+        </form>
+        <def>a wooden lid for the pot.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e591">
+        <form>
+          <orth>sieaghag</orth>
+          <pron>[sic]</pron>
+        </form>
+        <def>[sic] a wooden spurtle.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e600">
+        <form>
+          <orth>liagh</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] a ladle.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e609">
+        <form>
+          <orth>leabaidh ard</orth>
+        </form>
+        <def>box bed.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e618">
+        <form>
+          <orth>bord-slios na leapa</orth>
+        </form>
+        <def>the front or side of the bed facing out into the room.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e627">
+        <form>
+          <orth>pàma</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] the brightly coloured frill or valance round the bed.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e636">
+        <form>
+          <orth>séis</orth>
+        </form>
+        <def>a long bench along the wall.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e645">
+        <form>
+          <orth>being</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] a long bench along the wall.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e654">
+        <form>
+          <orth>stòl mór</orth>
+        </form>
+        <def>a long stool that would seat two [?] people.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e663">
+        <form>
+          <orth>stòl beag</orth>
+        </form>
+        <def>a small stool (a single seater).</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e672">
+        <form>
+          <orth>cùrtairean</orth>
+        </form>
+        <def>the window curtains.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e681">
+        <form>
+          <orth>ciste mhine</orth>
+        </form>
+        <def>meal chest.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e690">
+        <form>
+          <orth>ciste phlaideachan</orth>
+        </form>
+        <def>blanket chest.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e699">
+        <form>
+          <orth>bord tuarnair</orth>
+        </form>
+        <def>the dining table – joiner-made with turned legs and drawer – as opposed to the home-made work table. I think I also heard ‘leabaidh tuarnair’.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e708">
+        <form>
+          <orth>dreasair</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] dresser.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e717">
+        <form>
+          <orth>bòrd an dreasair</orth>
+        </form>
+        <def>the top or work surface of the dresser.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e726">
+        <form>
+          <orth>bonn an dreasair</orth>
+        </form>
+        <def>the bottom or cupboard part of the dresser.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e735">
+        <form>
+          <orth>preas</orth>
+        </form>
+        <def>cupboard.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e744">
+        <form>
+          <orth>clar-fuinne</orth>
+        </form>
+        <def>baking board.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e753">
+        <form>
+          <orth>greideal</orth>
+        </form>
+        <def>baking girdle [sic].</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e762">
+        <form>
+          <orth>corca</orth>
+        </form>
+        <def>a big knife or bread knife.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e771">
+        <form>
+          <orth>sioltachan</orth>
+        </form>
+        <def>a sieve.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e780">
+        <form>
+          <orth>siliogan</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] a small cream jug with a spout.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e789">
+        <form>
+          <orth>cuach</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] a big bowl or tureen.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e798">
+        <form>
+          <orth>pùlais</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] detachable hanging handle for the ‘prais’ or three legged pot.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e807">
+        <form>
+          <orth>cluaisean</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] the ‘ear’ on opposite sides of the ‘prais’ [q.v.] into which the ‘pulais’ [q.v.] was fitted.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e816">
+        <form>
+          <orth>gucag uighe</orth>
+        </form>
+        <def>egg cup.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e825">
+        <form>
+          <orth>truinnsear domhain</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] a soup plate.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e834">
+        <form>
+          <orth>truinnsear staoin</orth>
+        </form>
+        <def>a meat plate – any shallow plate.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e843">
+        <form>
+          <orth>sgian lùthaidh</orth>
+        </form>
+        <def>a man’s pocket knife.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e852">
+        <form>
+          <orth>measair</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] a small wooden tub used for animal feeding.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e861">
+        <form>
+          <orth>maodar</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] [See measair]</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e870">
+        <form>
+          <orth>seotal</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] a small compartment in the ‘ciste’ or chest where money and other valuables were kept.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e879">
+        <form>
+          <orth>baustair</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] a mattress.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e888">
+        <form>
+          <orth>lamba</orth>
+        </form>
+        <def>a lamp.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e897">
+        <form>
+          <orth>sifeac</orth>
+        </form>
+        <def>a wick for the above [i.e. lamba (q.v.)].</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e906">
+        <form>
+          <orth>lamba bheag</orth>
+        </form>
+        <def>a small lamp with a handle for taking from room to room.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e915">
+        <form>
+          <orth>fleòdar</orth>
+        </form>
+        <def>this was the old name in Point, Lewis for tin. A tin pail or basin used for milk would be ‘peile fleòdair’ and ‘mios fleòdair’. (Is it conceivable that at one time they had pewter
+          utensils?) I do not hear the word now – if there are any tin pails, etc. – it is ‘peile tiona’, ‘mios tiona’.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e924">
+        <form>
+          <orth>imiolaid</orth>
+        </form>
+        <def>this was a special lid for the milking pail when it had to be carried some distance – as from the sheiling. It was of cured hide, ‘made to measure’ or fitted to cover the top of the pail
+          and come a little way down the sides.</def>
+      </entry>
+      <head xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e932">7. Sobhal, bàthach, no bothanan sam bith eile</head>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e937">
+        <form>
+          <orth>bàthach</orth>
+        </form>
+        <def>byre. [NOTES: it is not clear if the adjective ‘mhór’ added in brackets between ‘bàthach’ and ‘boghal’ refers to the former or the latter.]</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e946">
+        <form>
+          <orth>boghal</orth>
+        </form>
+        <def>the cow’s bed or stall in the byre.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e955">
+        <form>
+          <orth>stàpull</orth>
+        </form>
+        <def>stable.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e964">
+        <form>
+          <orth>painnsear</orth>
+        </form>
+        <def>(in Point, Lewis) manger.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e973">
+        <form>
+          <orth>fasglan</orth>
+        </form>
+        <def>a little ‘bothag’ built on to the front of the house and just missing the front door – possibly a shelter for the front door.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e982">
+        <form>
+          <orth>bothag nan cearc</orth>
+        </form>
+        <def>hen house.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e991">
+        <form>
+          <orth>bothag nan uan</orth>
+        </form>
+        <def>the little thatched bothy where the lambs were fed and wintered.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1000">
+        <form>
+          <orth>sobhal</orth>
+        </form>
+        <def>barn.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1009">
+        <form>
+          <orth>dileadh</orth>
+        </form>
+        <def>a drain leading out from the byre (I think).</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1018">
+        <form>
+          <orth>stiall</orth>
+        </form>
+        <def>the short tether by which the cow was secured in the stall.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1027">
+        <form>
+          <orth>feist</orth>
+        </form>
+        <def>the long tether outside.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1036">
+        <form>
+          <orth>bacan</orth>
+        </form>
+        <def>the tether stake.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1045">
+        <form>
+          <orth>scalpan</orth>
+        </form>
+        <def>oat chaff. (Point, Lewis)</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1054">
+        <form>
+          <orth>moll</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] barley chaff.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1063">
+        <form>
+          <orth>rulladh</orth>
+        </form>
+        <def>separating the barley grain from the chaff – an operation quite different from that of winnowing oats as barley chaff is heavier and does not so readily ‘go with the wind’.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1072">
+        <form>
+          <orth>criathar</orth>
+          <pron>[masc.]</pron>
+        </form>
+        <def>[masc.] the sieve, or riddle, used in the above process [i.e. rulladh (q.v.)] – made of perforated sheep hide stretched over a round wooden frame.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1081">
+        <form>
+          <orth>siolmhol</orth>
+        </form>
+        <def>barley chaff which was not free of grain and could be used for cattle feeding.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1090">
+        <form>
+          <orth>dias</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] as well as meaning an ear of corn, this also meant a fleck of barley chaff. Most irritating to the skin if a ‘dias’ adhered to one’s clothing. ‘Tha dias air mo dhruim’ could be
+          awful. ‘Tha dias ’nam amhaich’ – worse!</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1099">
+        <form>
+          <orth>suathadh an eòrna</orth>
+        </form>
+        <def>getting the barley grain off the stem by working the tops of the sheaves between the feet – wearing special boots the while.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1108">
+        <form>
+          <orth>calg</orth>
+          <pron>[fem.]</pron>
+        </form>
+        <def>[fem.] the same as ‘dias’ (above) [q.v.] in its irritating prickly sense.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1117">
+        <form>
+          <orth>a’ deanamh sobhail</orth>
+        </form>
+        <def>this meant the winter’s work in the barn – preparing the barley and oats for milling.</def>
+      </entry>
+      <entry xml:id="HouseandFurnishings_CarlowayAandMMacKilloptaigh-d0e1126">
+        <form>
+          <orth>spoth an t-sìl</orth>
+        </form>
+        <def>shaking out from among the straw refuse any good grain that had become mixed up in it.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

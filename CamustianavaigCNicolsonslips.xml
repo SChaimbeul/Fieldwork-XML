@@ -1,120 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="Slips_CamustianavaigCNicolsonslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>07/1970</date>
-            <location>
-               <placeName>Skye, Camustianavaig</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[AJ Smith?]</persName>
-            </person>
-            <person role="informant">
-               <persName>Calum Nicolson</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161851040">
-            <form>
-               <orth>léireadh</orth>
-            </form>
-            <def>Notes: for “càineadh” in Argyllshire (acc. to C.N.).</def>
-         </entry>
-         <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161848376">
-            <form>
-               <orth>màbadh</orth>
-            </form>
-            <def>Quotation: a’ màbadh air duine. Notes: talking ill (of someone).</def>
-         </entry>
-         <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161844272">
-            <form>
-               <orth>òmhas</orth>
-               <pron>[ɔ̃:əs]</pron>
-            </form>
-            <def>[ɔ̃:əs] Quotation: òmhas (sp?) bàta. Notes: “dock” for a boat on the shore.</def>
-         </entry>
-         <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161840384">
-            <form>
-               <orth>sgeir-thràghad</orth>
-            </form>
-            <def>Notes: rock which is sunken at high tide.</def>
-         </entry>
-         <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161837792">
-            <form>
-               <orth>tollach</orth>
-               <pron>[t̪ɔɫɑx]</pron>
-            </form>
-            <def>[t̪ɔɫɑx] Quotation: ’S ann gu math tollach a bha i nuair a chunnaic i na bha as a’ ghlaine. Notes: dissatisfied.</def>
-         </entry>
-         <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161913608">
-            <form>
-               <orth>diacladh</orth>
-            </form>
-            <def>Quotation: diacladh turaidh. Notes: short respite.</def>
-         </entry>
-         <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161911664">
-            <form>
-               <orth>eadradh</orth>
-            </form>
-            <def>Quotation: Nach ann aig a’ bhó a tha ’n eadradh. Notes: meaning the quantity of milk yielded at the one milking.</def>
-         </entry>
-         <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161910296">
-            <form>
-               <orth>earchall</orth>
-               <pron>[ɛɾɛxɑɫ]</pron>
-            </form>
-            <def>[ɛɾɛxɑɫ] Notes: accident.</def>
-         </entry>
-         <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161908568">
-            <form>
-               <orth>feothal</orth>
-               <pron>[fjɔhəɫ]</pron>
-            </form>
-            <def>[fjɔhəɫ] Notes: gossip.</def>
-         </entry>
-         <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161906840">
-            <form>
-               <orth>feothalach</orth>
-            </form>
-            <def>Quotation: duine feothalach. Notes: gossip.</def>
-         </entry>
-         <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161905040">
-            <form>
-               <orth>flogach</orth>
-            </form>
-            <def>Quotation: Nach e tha flogach. Notes: flattering.</def>
-         </entry>
-         <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161903240">
-            <form>
-               <orth>flogadaich</orth>
-               <pron>[fɫɔɡəd̪iç]</pron>
-            </form>
-            <def>[fɫɔɡəd̪iç] Notes: flattery.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_CamustianavaigCNicolsonslips">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>07/1970</date>
+        <location>
+          <placeName>Skye, Camustianavaig</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[AJ Smith?]</persName>
+        </person>
+        <person role="informant">
+          <persName>Calum Nicolson</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161851040">
+        <form>
+          <orth>léireadh</orth>
+        </form>
+        <def>Notes: for “càineadh” in Argyllshire (acc. to C.N.).</def>
+      </entry>
+      <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161848376">
+        <form>
+          <orth>màbadh</orth>
+        </form>
+        <def>Quotation: a’ màbadh air duine. Notes: talking ill (of someone).</def>
+      </entry>
+      <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161844272">
+        <form>
+          <orth>òmhas</orth>
+          <pron>[ɔ̃:əs]</pron>
+        </form>
+        <def>[ɔ̃:əs] Quotation: òmhas (sp?) bàta. Notes: “dock” for a boat on the shore.</def>
+      </entry>
+      <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161840384">
+        <form>
+          <orth>sgeir-thràghad</orth>
+        </form>
+        <def>Notes: rock which is sunken at high tide.</def>
+      </entry>
+      <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161837792">
+        <form>
+          <orth>tollach</orth>
+          <pron>[t̪ɔɫɑx]</pron>
+        </form>
+        <def>[t̪ɔɫɑx] Quotation: ’S ann gu math tollach a bha i nuair a chunnaic i na bha as a’ ghlaine. Notes: dissatisfied.</def>
+      </entry>
+      <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161913608">
+        <form>
+          <orth>diacladh</orth>
+        </form>
+        <def>Quotation: diacladh turaidh. Notes: short respite.</def>
+      </entry>
+      <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161911664">
+        <form>
+          <orth>eadradh</orth>
+        </form>
+        <def>Quotation: Nach ann aig a’ bhó a tha ’n eadradh. Notes: meaning the quantity of milk yielded at the one milking.</def>
+      </entry>
+      <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161910296">
+        <form>
+          <orth>earchall</orth>
+          <pron>[ɛɾɛxɑɫ]</pron>
+        </form>
+        <def>[ɛɾɛxɑɫ] Notes: accident.</def>
+      </entry>
+      <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161908568">
+        <form>
+          <orth>feothal</orth>
+          <pron>[fjɔhəɫ]</pron>
+        </form>
+        <def>[fjɔhəɫ] Notes: gossip.</def>
+      </entry>
+      <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161906840" type="person">
+        <form>
+          <orth>feothalach</orth>
+        </form>
+        <def>Quotation: duine feothalach. Notes: gossip.</def>
+      </entry>
+      <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161905040">
+        <form>
+          <orth>flogach</orth>
+        </form>
+        <def>Quotation: Nach e tha flogach. Notes: flattering.</def>
+      </entry>
+      <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161903240">
+        <form>
+          <orth>flogadaich</orth>
+          <pron>[fɫɔɡəd̪iç]</pron>
+        </form>
+        <def>[fɫɔɡəd̪iç] Notes: flattery.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

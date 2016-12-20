@@ -1,304 +1,291 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <location>
-               <placeName>Leodhas, Carlobhadh [Lewis, Carloway]</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>Angus and Margaret MacKillop</persName>
-               <persName xml:lang="gd">Aonghas is Mairead ’icIllip</persName>
-               <age>còrr is leth cheud [over 50]</age>
-               <birth>
-                  <placeName>Eileanaich [natives of Lewis]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Fishing Tackle</term>
-               <term>Acfhuinn Iasgaich</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e32"
-            >1. Lìon-mór</head>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e37">
-            <form>
-               <orth>bascaid</orth>
-            </form>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e43">
-            <form>
-               <orth>streang</orth>
-            </form>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e49">
-            <form>
-               <orth>dubhan</orth>
-            </form>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e55">
-            <form>
-               <orth>druim</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e60"
-            >2. Lìon-beag</head>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e65">
-            <form>
-               <orth>scùil</orth>
-            </form>
-            <def>the wickerwork container.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e74">
-            <form>
-               <orth>streang</orth>
-            </form>
-            <def>the long lengths of twine which made up the line. I think one line would consist of ‘trì streangan’ usually.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e83">
-            <form>
-               <orth>snòt</orth>
-            </form>
-            <def>the gut by which the hook was fixed.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e92">
-            <form>
-               <orth>calp</orth>
-            </form>
-            <def>the short length of ‘còrd mìn’ [q.v.] from the main line to the hook gut.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e101">
-            <form>
-               <orth>beartaich</orth>
-            </form>
-            <def>fitting out the line with gut, hooks etc.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e110">
-            <form>
-               <orth>còrd mìn</orth>
-            </form>
-            <def>fine cord.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e119">
-            <form>
-               <orth>còrd garbh</orth>
-            </form>
-            <def>coarse cord.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e128">
-            <form>
-               <orth>dubhan</orth>
-            </form>
-            <def>hook.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e137">
-            <form>
-               <orth>riobhag</orth>
-            </form>
-            <def>the barb of the hook.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e146">
-            <form>
-               <orth>druim</orth>
-            </form>
-            <def>the main line.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e155">
-            <form>
-               <orth>biathadh</orth>
-            </form>
-            <def>baiting.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e164">
-            <form>
-               <orth>reiteachadh</orth>
-            </form>
-            <def>cleaning and unravelling as preparation for the next baiting.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e173">
-            <form>
-               <orth>sgròbadh</orth>
-            </form>
-            <def>taking off the fish.</def>
-         </entry>
-         <head
-             xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e181"
-            >3. Lìon-sgadanach</head>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e186">
-            <form>
-               <orth>magul</orth>
-            </form>
-            <def>mesh.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e195">
-            <form>
-               <orth>snath càraidh</orth>
-            </form>
-            <def>mending twine.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e204">
-            <form>
-               <orth>snath còcrach</orth>
-            </form>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e210">
-            <form>
-               <orth>snath mìn</orth>
-            </form>
-            <def>fine mending twine.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e219">
-            <form>
-               <orth>snath garbh</orth>
-            </form>
-            <def>coarse mending twine.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e228">
-            <form>
-               <orth>àrc</orth>
-            </form>
-            <def>cork.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e237">
-            <form>
-               <orth>ball</orth>
-            </form>
-            <def>thick main rope.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e246">
-            <form>
-               <orth>rioba</orth>
-            </form>
-            <def>the finer rope to which the corks were attached.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e255">
-            <form>
-               <orth>daifin</orth>
-            </form>
-            <def>this sounded like an English word – ‘daffins’. The short lengths of thick twine fixing the body of the net to the rope framework.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e264">
-            <form>
-               <orth>druim</orth>
-            </form>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e270">
-            <form>
-               <orth>cuir ri druim</orth>
-            </form>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e276">
-            <form>
-               <orth>beartachadh</orth>
-            </form>
-            <def>fitting out.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e285">
-            <form>
-               <orth>càradh</orth>
-            </form>
-            <def>mending.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e294">
-            <form>
-               <orth>puta</orth>
-            </form>
-            <def>buoy.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e303">
-            <form>
-               <orth>cuibhle puta</orth>
-            </form>
-            <def>the wooden disc in the top of the buoy.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e312">
-            <form>
-               <orth>snathad chàiridh</orth>
-            </form>
-            <def>the mending needle.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e321">
-            <form>
-               <orth>cairt</orth>
-            </form>
-            <def>the bark.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e330">
-            <form>
-               <orth>ag cairteadh</orth>
-            </form>
-            <def>barking.</def>
-         </entry>
-         <head
-             xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e338"
-            >4. Lìon sam bith eile</head>
-         <head
-             xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e342"
-            >5. Duirgh, slatan, driamlaichean</head>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e347">
-            <form>
-               <orth>stiodhaidh</orth>
-            </form>
-            <def>a steep path down the cliffs to the shore below – the only access to the shore.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e356">
-            <form>
-               <orth>maorach</orth>
-            </form>
-            <def>this in Bayble, Lewis meant limpets only. These were the commonest bait for the small line.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e365">
-            <form>
-               <orth>a’ buain maoraich</orth>
-            </form>
-            <def>knocking the limpets off the rocks.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e374">
-            <form>
-               <orth>òrd maoraich</orth>
-            </form>
-            <def>the short strong knife used for the above [knocking limpets off the rocks] – usually a worn down shortened kitchen knife.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e383">
-            <form>
-               <orth>slaopadh a’ mhaoraich</orth>
-            </form>
-            <def>covering [limpets] with water and heating sufficiently – and only just – to loosen the shells.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e392">
-            <form>
-               <orth>èibheis éisg</orth>
-            </form>
-            <def>a welcome catch of fish.</def>
-         </entry>
-         <head
-             xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e400"
-            >6. Acfhuinn sam bith eile</head>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location>
+          <placeName>Leodhas, Carlobhadh [Lewis, Carloway]</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>Angus and Margaret MacKillop</persName>
+          <persName xml:lang="gd">Aonghas is Mairead ’icIllip</persName>
+          <age>còrr is leth cheud [over 50]</age>
+          <birth>
+            <placeName>Eileanaich [natives of Lewis]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Fishing Tackle</term>
+          <term>Acfhuinn Iasgaich</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e32">1. Lìon-mór</head>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e37">
+        <form>
+          <orth>bascaid</orth>
+        </form>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e43">
+        <form>
+          <orth>streang</orth>
+        </form>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e49">
+        <form>
+          <orth>dubhan</orth>
+        </form>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e55">
+        <form>
+          <orth>druim</orth>
+        </form>
+      </entry>
+      <head xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e60">2. Lìon-beag</head>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e65">
+        <form>
+          <orth>scùil</orth>
+        </form>
+        <def>the wickerwork container.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e74">
+        <form>
+          <orth>streang</orth>
+        </form>
+        <def>the long lengths of twine which made up the line. I think one line would consist of ‘trì streangan’ usually.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e83">
+        <form>
+          <orth>snòt</orth>
+        </form>
+        <def>the gut by which the hook was fixed.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e92">
+        <form>
+          <orth>calp</orth>
+        </form>
+        <def>the short length of ‘còrd mìn’ [q.v.] from the main line to the hook gut.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e101">
+        <form>
+          <orth>beartaich</orth>
+        </form>
+        <def>fitting out the line with gut, hooks etc.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e110">
+        <form>
+          <orth>còrd mìn</orth>
+        </form>
+        <def>fine cord.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e119">
+        <form>
+          <orth>còrd garbh</orth>
+        </form>
+        <def>coarse cord.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e128">
+        <form>
+          <orth>dubhan</orth>
+        </form>
+        <def>hook.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e137">
+        <form>
+          <orth>riobhag</orth>
+        </form>
+        <def>the barb of the hook.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e146">
+        <form>
+          <orth>druim</orth>
+        </form>
+        <def>the main line.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e155">
+        <form>
+          <orth>biathadh</orth>
+        </form>
+        <def>baiting.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e164">
+        <form>
+          <orth>reiteachadh</orth>
+        </form>
+        <def>cleaning and unravelling as preparation for the next baiting.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e173">
+        <form>
+          <orth>sgròbadh</orth>
+        </form>
+        <def>taking off the fish.</def>
+      </entry>
+      <head xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e181">3. Lìon-sgadanach</head>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e186">
+        <form>
+          <orth>magul</orth>
+        </form>
+        <def>mesh.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e195">
+        <form>
+          <orth>snath càraidh</orth>
+        </form>
+        <def>mending twine.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e204">
+        <form>
+          <orth>snath còcrach</orth>
+        </form>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e210">
+        <form>
+          <orth>snath mìn</orth>
+        </form>
+        <def>fine mending twine.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e219">
+        <form>
+          <orth>snath garbh</orth>
+        </form>
+        <def>coarse mending twine.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e228">
+        <form>
+          <orth>àrc</orth>
+        </form>
+        <def>cork.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e237">
+        <form>
+          <orth>ball</orth>
+        </form>
+        <def>thick main rope.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e246">
+        <form>
+          <orth>rioba</orth>
+        </form>
+        <def>the finer rope to which the corks were attached.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e255">
+        <form>
+          <orth>daifin</orth>
+        </form>
+        <def>this sounded like an English word – ‘daffins’. The short lengths of thick twine fixing the body of the net to the rope framework.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e264">
+        <form>
+          <orth>druim</orth>
+        </form>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e270">
+        <form>
+          <orth>cuir ri druim</orth>
+        </form>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e276">
+        <form>
+          <orth>beartachadh</orth>
+        </form>
+        <def>fitting out.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e285">
+        <form>
+          <orth>càradh</orth>
+        </form>
+        <def>mending.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e294">
+        <form>
+          <orth>puta</orth>
+        </form>
+        <def>buoy.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e303">
+        <form>
+          <orth>cuibhle puta</orth>
+        </form>
+        <def>the wooden disc in the top of the buoy.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e312">
+        <form>
+          <orth>snathad chàiridh</orth>
+        </form>
+        <def>the mending needle.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e321">
+        <form>
+          <orth>cairt</orth>
+        </form>
+        <def>the bark.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e330">
+        <form>
+          <orth>ag cairteadh</orth>
+        </form>
+        <def>barking.</def>
+      </entry>
+      <head xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e338">4. Lìon sam bith eile</head>
+      <head xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e342">5. Duirgh, slatan, driamlaichean</head>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e347">
+        <form>
+          <orth>stiodhaidh</orth>
+        </form>
+        <def>a steep path down the cliffs to the shore below – the only access to the shore.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e356">
+        <form>
+          <orth>maorach</orth>
+        </form>
+        <def>this in Bayble, Lewis meant limpets only. These were the commonest bait for the small line.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e365">
+        <form>
+          <orth>a’ buain maoraich</orth>
+        </form>
+        <def>knocking the limpets off the rocks.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e374">
+        <form>
+          <orth>òrd maoraich</orth>
+        </form>
+        <def>the short strong knife used for the above [knocking limpets off the rocks] – usually a worn down shortened kitchen knife.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e383">
+        <form>
+          <orth>slaopadh a’ mhaoraich</orth>
+        </form>
+        <def>covering [limpets] with water and heating sufficiently – and only just – to loosen the shells.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e392">
+        <form>
+          <orth>èibheis éisg</orth>
+        </form>
+        <def>a welcome catch of fish.</def>
+      </entry>
+      <head xml:id="WoolworkingandFishing_CarlowayAandMMacKillopiasgach-d0e400">6. Acfhuinn sam bith eile</head>
+    </body>
+  </text>
 </TEI>

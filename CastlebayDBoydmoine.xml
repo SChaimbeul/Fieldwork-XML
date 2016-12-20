@@ -1,59 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Peat_CastlebayDBoydmoine">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>1967</date>
-            <location>
-               <placeName>Barra, Castlebay</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>Donald Boyd</persName>
-               <age>[c. 65 – according to the card index of Informants: c. 65 in 1969]</age>
-               <birth>
-                  <placeName>[North Uist - according to the card index of Informants]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Peat-Working</term>
-               <term>Mòine</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head xml:id="Peat_CastlebayDBoydmoine-d0e32">1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
-         <head xml:id="Peat_CastlebayDBoydmoine-d0e36">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
-         <entry xml:id="Peat_CastlebayDBoydmoine-idola194">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>Tha an uine cho fada bho an bha mise ris an obair so, is nach ’eil cuimhne agam air far leth-dusan facal, agus is iad sin, tha mi cinnteach, bithidh agaibh mu thràth. Boyd. Bagh-a-Chaisteil.</def>
-         </entry>
-         <head xml:id="Peat_CastlebayDBoydmoine-d0e49">3. A’ tiormachadh na mònach</head>
-         <head xml:id="Peat_CastlebayDBoydmoine-d0e53">4. A’ cruachadh na mònach</head>
-         <head xml:id="Peat_CastlebayDBoydmoine-d0e57">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
-         <head xml:id="Peat_CastlebayDBoydmoine-d0e61">6. Seòrsachan mònach</head>
-         <head xml:id="Peat_CastlebayDBoydmoine-d0e65">7. Faclan eile</head>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>1967</date>
+        <location>
+          <placeName>Barra, Castlebay</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>Donald Boyd</persName>
+          <age>[c. 65 – according to the card index of Informants: c. 65 in 1969]</age>
+          <birth>
+            <placeName>[North Uist - according to the card index of Informants]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Peat-Working</term>
+          <term>Mòine</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="Peat_CastlebayDBoydmoine-d0e32">1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
+      <head xml:id="Peat_CastlebayDBoydmoine-d0e36">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
+      <entry xml:id="Peat_CastlebayDBoydmoine-idola194">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>Tha an uine cho fada bho an bha mise ris an obair so, is nach ’eil cuimhne agam air far leth-dusan facal, agus is iad sin, tha mi cinnteach, bithidh agaibh mu thràth. Boyd.
+          Bagh-a-Chaisteil.</def>
+      </entry>
+      <head xml:id="Peat_CastlebayDBoydmoine-d0e49">3. A’ tiormachadh na mònach</head>
+      <head xml:id="Peat_CastlebayDBoydmoine-d0e53">4. A’ cruachadh na mònach</head>
+      <head xml:id="Peat_CastlebayDBoydmoine-d0e57">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
+      <head xml:id="Peat_CastlebayDBoydmoine-d0e61">6. Seòrsachan mònach</head>
+      <head xml:id="Peat_CastlebayDBoydmoine-d0e65">7. Faclan eile</head>
+    </body>
+  </text>
 </TEI>

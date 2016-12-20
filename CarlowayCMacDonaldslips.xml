@@ -1,88 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_CarlowayCMacDonaldslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>1966-67</date>
-            <location>
-               <placeName>Lewis, Carloway</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="informant">
-               <persName>Miss Catherine MacDonald</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_CarlowayCMacDonaldslips-idp161832240">
-            <form>
-               <orth>maide-prop</orth>
-            </form>
-            <def>Quotation: Tha e cho righinn ris a’ mhaide-prop.</def>
-         </entry>
-         <entry xml:id="Slips_CarlowayCMacDonaldslips-idp161833752">
-            <form>
-               <orth>mircean</orth>
-               <pron>[miðkʹɑn]</pron>
-            </form>
-            <def>[miðkʹɑn] Quotation: stamh earrach, duileasg samhraidh, mircean fobhair, dulach geamhraidh. Notes: kind of seaweed.</def>
-         </entry>
-         <entry xml:id="Slips_CarlowayCMacDonaldslips-idp161835624">
-            <form>
-               <orth>stamh</orth>
-            </form>
-            <def>Quotation: stamh earrach; duileasg samhraidh; mircean fobhair; dulach geamhraidh. Notes: kind of seaweed.</def>
-         </entry>
-         <entry xml:id="Slips_CarlowayCMacDonaldslips-idp161837280">
-            <form>
-               <orth>agaphort</orth>
-            </form>
-            <def>Quotation: Tha e cho righinn (stubborn) ris an agaphort. [NOTES: a note in second hand – ‘See agafors.’]</def>
-         </entry>
-         <entry xml:id="Slips_CarlowayCMacDonaldslips-idp161839008">
-            <form>
-               <orth>cainean</orth>
-            </form>
-            <def>Quotation: cainnean. Notes: a paper spill.</def>
-         </entry>
-         <entry xml:id="Slips_CarlowayCMacDonaldslips-idp161840664">
-            <form>
-               <orth>duileasg</orth>
-            </form>
-            <def>Quotation: stamh earrach, duileasg samhraidh, mircean fobhair, dulach geamhraidh. Notes: kind of seaweed.</def>
-         </entry>
-         <entry xml:id="Slips_CarlowayCMacDonaldslips-idp161842320">
-            <form>
-               <orth>dulach</orth>
-            </form>
-            <def>Quotation: stamh earrach, duileasg samhraidh, mircean fobhair, dulach geamhraidh. Notes: kind of seaweed.</def>
-         </entry>
-         <entry xml:id="Slips_CarlowayCMacDonaldslips-idp161843976">
-            <form>
-               <orth>goilean</orth>
-            </form>
-            <def>Notes: a paper spill. (Eriskay)</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>1966-67</date>
+        <location>
+          <placeName>Lewis, Carloway</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="informant">
+          <persName>Miss Catherine MacDonald</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_CarlowayCMacDonaldslips-idp161832240">
+        <form>
+          <orth>maide-prop</orth>
+        </form>
+        <def>Quotation: Tha e cho righinn ris a’ mhaide-prop.</def>
+      </entry>
+      <entry xml:id="Slips_CarlowayCMacDonaldslips-idp161833752">
+        <form>
+          <orth>mircean</orth>
+          <pron>[miðkʹɑn]</pron>
+        </form>
+        <def>[miðkʹɑn] Quotation: stamh earrach, duileasg samhraidh, mircean fobhair, dulach geamhraidh. Notes: kind of seaweed.</def>
+      </entry>
+      <entry xml:id="Slips_CarlowayCMacDonaldslips-idp161835624">
+        <form>
+          <orth>stamh</orth>
+        </form>
+        <def>Quotation: stamh earrach; duileasg samhraidh; mircean fobhair; dulach geamhraidh. Notes: kind of seaweed.</def>
+      </entry>
+      <entry xml:id="Slips_CarlowayCMacDonaldslips-idp161837280">
+        <form>
+          <orth>agaphort</orth>
+        </form>
+        <def>Quotation: Tha e cho righinn (stubborn) ris an agaphort. [NOTES: a note in second hand – ‘See agafors.’]</def>
+      </entry>
+      <entry xml:id="Slips_CarlowayCMacDonaldslips-idp161839008">
+        <form>
+          <orth>cainean</orth>
+        </form>
+        <def>Quotation: cainnean. Notes: a paper spill.</def>
+      </entry>
+      <entry xml:id="Slips_CarlowayCMacDonaldslips-idp161840664">
+        <form>
+          <orth>duileasg</orth>
+        </form>
+        <def>Quotation: stamh earrach, duileasg samhraidh, mircean fobhair, dulach geamhraidh. Notes: kind of seaweed.</def>
+      </entry>
+      <entry xml:id="Slips_CarlowayCMacDonaldslips-idp161842320">
+        <form>
+          <orth>dulach</orth>
+        </form>
+        <def>Quotation: stamh earrach, duileasg samhraidh, mircean fobhair, dulach geamhraidh. Notes: kind of seaweed.</def>
+      </entry>
+      <entry xml:id="Slips_CarlowayCMacDonaldslips-idp161843976">
+        <form>
+          <orth>goilean</orth>
+        </form>
+        <def>Notes: a paper spill. (Eriskay)</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

@@ -1,355 +1,344 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: the words have been slipped and therefore in this file, apart from the definitions provided by Mr MacInnes, the definitions as they appear on the slips have also been included (unless the two were the same).]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[02/1968 on the slips]</date>
-            <location>
-               <placeName>Ross-shire, Fortrose</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>John MacInnes; Rev. Dr acc. to other questionnaires</persName>
-               <persName xml:lang="gd">Iain MacAonghais </persName>
-               <age>74</age>
-               <birth>
-                  <placeName>An t-Eilean Sgitheanach [Skye; Skye, Glendale acc. to other questionnaires]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Fishing Tackle</term>
-               <term>Acfhuinn Iasgaich</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e38"
-            >1. Lìon-mór</head>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e43">
-            <form>
-               <orth>lion-mhòr</orth>
-            </form>
-            <def>acfhuinn air son glacadh throsg, easgann, no langa; adag no sgadan mar bhiathadh air an dubhan.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e52">
-            <form>
-               <orth>druim</orth>
-            </form>
-            <def>top rope to which lines attached.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e61">
-            <form>
-               <orth>snòt</orth>
-               <pron>[rope]</pron>
-            </form>
-            <def>[rope] to which hooks attached.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e70">
-            <form>
-               <orth>foirteam</orth>
-            </form>
-            <def>also used [for snòt (q.v.)].</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e79">
-            <form>
-               <orth>(cast)</orth>
-               <pron>[NOTES: not clear what this refers to.]</pron>
-            </form>
-            <def>[NOTES: not clear what this refers to.]</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e88">
-            <form>
-               <orth>buta cinn</orth>
-            </form>
-            <def>(self-explanatory) [NOTES: slip not found.]</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e97">
-            <form>
-               <orth>ceann mara</orth>
-            </form>
-            <def>(airson na lin-mhòra) airson cruaidh. [NOTES: slip not found.]</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e106">
-            <form>
-               <orth>gormanachadh</orth>
-            </form>
-            <def>a’ toirt an eisg far an dubhain. [SLIP: Airson a bhi [sic] a toirt an éisg far an dubhain.]</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e115">
-            <form>
-               <orth>gormanaiche</orth>
-            </form>
-            <def>an duine anns an sgioba a tha toirt an eisg far nan dubhan. [SLIP: An duine anns an sgioba a tha a toirt an éisg far an dubhain.]</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e124">
-            <form>
-               <orth>cleipe</orth>
-            </form>
-            <def>gaff, airson easgannan is langa is truisg.</def>
-         </entry>
-         <head
-             xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e132"
-            >2. Lìon-beag</head>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e137">
-            <form>
-               <orth>lion-bheag</orth>
-            </form>
-            <def>airson glacadh adagan no cùiteagan ach bithidh am biorach gle thric a’ gabhail a bhiadhaidh. Maorach no feasgan mar bhiathadh air an dubhan.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e146">
-            <form>
-               <orth>clàr</orth>
-            </form>
-            <def>on which lines were placed while the lines were being baited. “Air clar” – gan cuir air clar aig am biathaidh.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e155">
-            <form>
-               <orth>“reiteach”</orth>
-               <pron>[NOTES: not clear what it refers to – clàr?]</pron>
-            </form>
-            <def>[NOTES: not clear what it refers to – clàr?] [NOTES: slip not found.]</def>
-         </entry>
-         <head
-             xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e163"
-             subtype="h2">Druim:</head>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e168">
-            <form>
-               <orth>sreang</orth>
-            </form>
-            <def>ceud dubh [sic] air a h-uile sreang, da shreang an comhnaidh. [SLIP: Ceud dubhan air a h-uile sreang.]</def>
-         </entry>
-         <head
-             xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e176"
-            >3. Lìon-sgadanach</head>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e181">
-            <form>
-               <orth>lion-sgadanach</orth>
-            </form>
-            <def>tha sin a’ ciallachadh ‘drift-net’ amhain. Cha chuala mi facal riamh air son ‘ring-net’ no ‘seine-net’. [NOTES: slipped under ‘lìon-sgadanach’.]</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e190">
-            <form>
-               <orth>cluas a lìn</orth>
-               <pron>[NOTES: slipped under ‘cluas’ with ‘cluas a lìn’ as the quotation. Notes: Lìon-sgadanach.]</pron>
-            </form>
-            <def>[NOTES: slipped under ‘cluas’ with ‘cluas a lìn’ as the quotation. Notes: Lìon-sgadanach.]</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e199">
-            <form>
-               <orth>drùim</orth>
-            </form>
-            <def>ris am bheil an lion air a cheangal.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e208">
-            <form>
-               <orth>aoigh (dh)</orth>
-            </form>
-            <def>rop eadar ceann an lìn agus an t-iochdar [q.v.].</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e217">
-            <form>
-               <orth>iochdar</orth>
-            </form>
-            <def>bottom rope running along length of net.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e226">
-            <form>
-               <orth>mogal</orth>
-            </form>
-            <def>mesh.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e235">
-            <form>
-               <orth>beairteachadh</orth>
-            </form>
-            <def>a cur an druim [q.v.] agus na h-aoigh [q.v.] agus an t-iochdar [q.v.] air a lion. [NOTES: the slip has ‘…air an lion’.]</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e244">
-            <form>
-               <orth>cartadh an lìn</orth>
-               <pron>[NOTES: slipped under ‘cartadh’ with ‘cartadh an lìn’ as the quotation. Definition: Barking.]</pron>
-            </form>
-            <def>[NOTES: slipped under ‘cartadh’ with ‘cartadh an lìn’ as the quotation. Definition: Barking.]</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e253">
-            <form>
-               <orth>pasgadh an lìn</orth>
-               <pron>[NOTES: slipped under ‘pasgadh’ with ‘pasgadh an lìn’ as the quotation.]</pron>
-            </form>
-            <def>[NOTES: slipped under ‘pasgadh’ with ‘pasgadh an lìn’ as the quotation.]</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e262">
-            <form>
-               <orth>buta</orth>
-            </form>
-            <def>buoy; craiceann caorach no seice gamhna air a cheangal ri ceann fiodha. Ceann-buta. [NOTES: slip not found.]</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e271">
-            <form>
-               <orth>snathad lion-sgadanach</orth>
-               <pron>[NOTES: slipped under ‘snàthad’ with ‘snàthad lion-sgadanach’ as the quotation.]</pron>
-            </form>
-            <def>[NOTES: slipped under ‘snàthad’ with ‘snàthad lion-sgadanach’ as the quotation.]</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e280">
-            <form>
-               <orth>ceann mara</orth>
-            </form>
-            <def>tha an ceann-mara air a cheangal ri cluas a lìn [q.v.] agus an ceann-iosal ris a chruaidh (no’n acair). [NOTES: slipped under ‘ceann’ with the above as the quotation.]</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e289">
-            <form>
-               <orth>cruaidh</orth>
-               <pron>[NOTES: slip not found.]</pron>
-            </form>
-            <def>[NOTES: slip not found.]</def>
-         </entry>
-         <head
-             xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e297"
-            >4. Lìon sam bith eile</head>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e302">
-            <form>
-               <orth>tàbh</orth>
-            </form>
-            <def>air son glacadh chudaigean agus shùithean, an t-iasgair a’ tilgidh maoraich no biathadh eile ’san mhuir air son an t-iasg a tharruing, agus ansin, cuiridh e an tàbh do’n uisge fo’n èisg agus sguabaidh e gu tìr iad. Cearcall iaruinn no fiodha agus lion air a cheangal ris. Làmh fhada fhiodha ceangailte ris a chearcall. <graphic url="FortroseJMacInnesiasgachillust1.jpg" width="400px"/>
-            </def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e312">
-            <form>
-               <orth>lion cliabh-ghiomach</orth>
-               <pron>[?]</pron>
-            </form>
-            <def>[?] [NOTES: slipped under ‘lion cliabh-ghiomaich’.]</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e321">
-            <form>
-               <orth>snathad lion cliabh ghiomach</orth>
-            </form>
-            <def>bha i mor seach snathad lion sgadanach [q.v.]. [NOTES: slipped under ‘snathad’ with ‘snàthad lion cliabh-ghiomaich’ as the quotation. Definition: Bha i mór seach snàthad lion sgadanach.]</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e330">
-            <form>
-               <orth>suil a chleibh</orth>
-               <pron>[NOTES: slipped under ‘sùil’ with ‘sùil a chleibh (ghiomaich)’ as the quotation.]</pron>
-            </form>
-            <def>[NOTES: slipped under ‘sùil’ with ‘sùil a chleibh (ghiomaich)’ as the quotation.] <graphic url="FortroseJMacInnesiasgachillust2.jpg" width="300px"/>
-            </def>
-         </entry>
-         <head
-             xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e339"
-            >5. Duirgh, slatan, driamlaichean</head>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e344">
-            <form>
-               <orth>dorgh, duirgh</orth>
-            </form>
-            <def>chan eil am facal seo cumantan [sic] ann an Gleana Dail (Eilean Sgitheanach).</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e353">
-            <form>
-               <orth>slat-iasgaich</orth>
-            </form>
-            <def>slat chuilc airson iasgach mara.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e362">
-            <form>
-               <orth>driamlach</orth>
-            </form>
-            <def>fishing line.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e371">
-            <form>
-               <orth>dubhan</orth>
-            </form>
-            <def>hook, big or small. [NOTES: slip not found.]</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e380">
-            <form>
-               <orth>a’ snaingealadh</orth>
-            </form>
-            <def>tying the hook to ‘cast’ or ‘snot’ [q.v.].</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e389">
-            <form>
-               <orth>maothar (mathar)</orth>
-            </form>
-            <def>gaoisid gheal coin no ite bheag gheal ceangailte ris an dubhan airson iasgach sùithean, no runach [sic], no liutha.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e398">
-            <form>
-               <orth>fuaidreag</orth>
-            </form>
-            <def>rubber eel for lythe fishing.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e407">
-            <form>
-               <orth>meigh</orth>
-            </form>
-            <def>sinker for sgrioban [q.v.].</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e416">
-            <form>
-               <orth>sgrioban</orth>
-            </form>
-            <def>airson glacadh adagan agus cuiteagan agus morbhair (Jerusalem haddocks or saltwater bream). <graphic url="FortroseJMacInnesiasgachillust3.jpg" width="200px"/>
-            </def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e426">
-            <form>
-               <orth>clàrag (a sgriobain)</orth>
-            </form>
-            <def>air a chumail anns a bhata nuair tha an sgrioban [q.v.] air a leigeil sios do ghrunn na mara. [NOTES: slipped under ‘clàrag’ with ‘clàrag a sgriobain’ as the quotation.]</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e435">
-            <form>
-               <orth>meigh</orth>
-            </form>
-            <def>sinker.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e444">
-            <form>
-               <orth>snòt</orth>
-            </form>
-            <def>cast or gut to which hooks attached.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e453">
-            <form>
-               <orth>foirteam</orth>
-            </form>
-            <def>also used for snòt [q.v.]. Whether this [is] a corruption of English word or has claims to Gaelic origin, I don’t know.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e462">
-            <form>
-               <orth>claidheamhag</orth>
-            </form>
-            <def>sand eel used as lure for lythe etc.</def>
-         </entry>
-         <head
-             xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e470"
-            >6. Acfhuinn sam bith eile</head>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: the words have been slipped and therefore in this file, apart from the definitions provided by Mr MacInnes, the definitions as they appear on the slips have also been included
+          (unless the two were the same).]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[02/1968 on the slips]</date>
+        <location>
+          <placeName>Ross-shire, Fortrose</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>John MacInnes; Rev. Dr acc. to other questionnaires</persName>
+          <persName xml:lang="gd">Iain MacAonghais </persName>
+          <age>74</age>
+          <birth>
+            <placeName>An t-Eilean Sgitheanach [Skye; Skye, Glendale acc. to other questionnaires]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Fishing Tackle</term>
+          <term>Acfhuinn Iasgaich</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e38">1. Lìon-mór</head>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e43">
+        <form>
+          <orth>lion-mhòr</orth>
+        </form>
+        <def>acfhuinn air son glacadh throsg, easgann, no langa; adag no sgadan mar bhiathadh air an dubhan.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e52">
+        <form>
+          <orth>druim</orth>
+        </form>
+        <def>top rope to which lines attached.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e61">
+        <form>
+          <orth>snòt</orth>
+          <pron>[rope]</pron>
+        </form>
+        <def>[rope] to which hooks attached.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e70">
+        <form>
+          <orth>foirteam</orth>
+        </form>
+        <def>also used [for snòt (q.v.)].</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e79">
+        <form>
+          <orth>(cast)</orth>
+          <pron>[NOTES: not clear what this refers to.]</pron>
+        </form>
+        <def>[NOTES: not clear what this refers to.]</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e88">
+        <form>
+          <orth>buta cinn</orth>
+        </form>
+        <def>(self-explanatory) [NOTES: slip not found.]</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e97">
+        <form>
+          <orth>ceann mara</orth>
+        </form>
+        <def>(airson na lin-mhòra) airson cruaidh. [NOTES: slip not found.]</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e106">
+        <form>
+          <orth>gormanachadh</orth>
+        </form>
+        <def>a’ toirt an eisg far an dubhain. [SLIP: Airson a bhi [sic] a toirt an éisg far an dubhain.]</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e115">
+        <form>
+          <orth>gormanaiche</orth>
+        </form>
+        <def>an duine anns an sgioba a tha toirt an eisg far nan dubhan. [SLIP: An duine anns an sgioba a tha a toirt an éisg far an dubhain.]</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e124">
+        <form>
+          <orth>cleipe</orth>
+        </form>
+        <def>gaff, airson easgannan is langa is truisg.</def>
+      </entry>
+      <head xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e132">2. Lìon-beag</head>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e137">
+        <form>
+          <orth>lion-bheag</orth>
+        </form>
+        <def>airson glacadh adagan no cùiteagan ach bithidh am biorach gle thric a’ gabhail a bhiadhaidh. Maorach no feasgan mar bhiathadh air an dubhan.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e146">
+        <form>
+          <orth>clàr</orth>
+        </form>
+        <def>on which lines were placed while the lines were being baited. “Air clar” – gan cuir air clar aig am biathaidh.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e155">
+        <form>
+          <orth>“reiteach”</orth>
+          <pron>[NOTES: not clear what it refers to – clàr?]</pron>
+        </form>
+        <def>[NOTES: not clear what it refers to – clàr?] [NOTES: slip not found.]</def>
+      </entry>
+      <head xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e163" subtype="h2">Druim:</head>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e168">
+        <form>
+          <orth>sreang</orth>
+        </form>
+        <def>ceud dubh [sic] air a h-uile sreang, da shreang an comhnaidh. [SLIP: Ceud dubhan air a h-uile sreang.]</def>
+      </entry>
+      <head xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e176">3. Lìon-sgadanach</head>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e181">
+        <form>
+          <orth>lion-sgadanach</orth>
+        </form>
+        <def>tha sin a’ ciallachadh ‘drift-net’ amhain. Cha chuala mi facal riamh air son ‘ring-net’ no ‘seine-net’. [NOTES: slipped under ‘lìon-sgadanach’.]</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e190">
+        <form>
+          <orth>cluas a lìn</orth>
+          <pron>[NOTES: slipped under ‘cluas’ with ‘cluas a lìn’ as the quotation. Notes: Lìon-sgadanach.]</pron>
+        </form>
+        <def>[NOTES: slipped under ‘cluas’ with ‘cluas a lìn’ as the quotation. Notes: Lìon-sgadanach.]</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e199">
+        <form>
+          <orth>drùim</orth>
+        </form>
+        <def>ris am bheil an lion air a cheangal.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e208">
+        <form>
+          <orth>aoigh (dh)</orth>
+        </form>
+        <def>rop eadar ceann an lìn agus an t-iochdar [q.v.].</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e217">
+        <form>
+          <orth>iochdar</orth>
+        </form>
+        <def>bottom rope running along length of net.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e226">
+        <form>
+          <orth>mogal</orth>
+        </form>
+        <def>mesh.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e235">
+        <form>
+          <orth>beairteachadh</orth>
+        </form>
+        <def>a cur an druim [q.v.] agus na h-aoigh [q.v.] agus an t-iochdar [q.v.] air a lion. [NOTES: the slip has ‘…air an lion’.]</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e244">
+        <form>
+          <orth>cartadh an lìn</orth>
+          <pron>[NOTES: slipped under ‘cartadh’ with ‘cartadh an lìn’ as the quotation. Definition: Barking.]</pron>
+        </form>
+        <def>[NOTES: slipped under ‘cartadh’ with ‘cartadh an lìn’ as the quotation. Definition: Barking.]</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e253">
+        <form>
+          <orth>pasgadh an lìn</orth>
+          <pron>[NOTES: slipped under ‘pasgadh’ with ‘pasgadh an lìn’ as the quotation.]</pron>
+        </form>
+        <def>[NOTES: slipped under ‘pasgadh’ with ‘pasgadh an lìn’ as the quotation.]</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e262">
+        <form>
+          <orth>buta</orth>
+        </form>
+        <def>buoy; craiceann caorach no seice gamhna air a cheangal ri ceann fiodha. Ceann-buta. [NOTES: slip not found.]</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e271">
+        <form>
+          <orth>snathad lion-sgadanach</orth>
+          <pron>[NOTES: slipped under ‘snàthad’ with ‘snàthad lion-sgadanach’ as the quotation.]</pron>
+        </form>
+        <def>[NOTES: slipped under ‘snàthad’ with ‘snàthad lion-sgadanach’ as the quotation.]</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e280">
+        <form>
+          <orth>ceann mara</orth>
+        </form>
+        <def>tha an ceann-mara air a cheangal ri cluas a lìn [q.v.] agus an ceann-iosal ris a chruaidh (no’n acair). [NOTES: slipped under ‘ceann’ with the above as the quotation.]</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e289">
+        <form>
+          <orth>cruaidh</orth>
+          <pron>[NOTES: slip not found.]</pron>
+        </form>
+        <def>[NOTES: slip not found.]</def>
+      </entry>
+      <head xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e297">4. Lìon sam bith eile</head>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e302">
+        <form>
+          <orth>tàbh</orth>
+        </form>
+        <def>air son glacadh chudaigean agus shùithean, an t-iasgair a’ tilgidh maoraich no biathadh eile ’san mhuir air son an t-iasg a tharruing, agus ansin, cuiridh e an tàbh do’n uisge fo’n èisg
+          agus sguabaidh e gu tìr iad. Cearcall iaruinn no fiodha agus lion air a cheangal ris. Làmh fhada fhiodha ceangailte ris a chearcall. <graphic url="FortroseJMacInnesiasgachillust1.jpg"
+            width="400px"/>
+        </def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e312">
+        <form>
+          <orth>lion cliabh-ghiomach</orth>
+          <pron>[?]</pron>
+        </form>
+        <def>[?] [NOTES: slipped under ‘lion cliabh-ghiomaich’.]</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e321">
+        <form>
+          <orth>snathad lion cliabh ghiomach</orth>
+        </form>
+        <def>bha i mor seach snathad lion sgadanach [q.v.]. [NOTES: slipped under ‘snathad’ with ‘snàthad lion cliabh-ghiomaich’ as the quotation. Definition: Bha i mór seach snàthad lion
+          sgadanach.]</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e330">
+        <form>
+          <orth>suil a chleibh</orth>
+          <pron>[NOTES: slipped under ‘sùil’ with ‘sùil a chleibh (ghiomaich)’ as the quotation.]</pron>
+        </form>
+        <def>[NOTES: slipped under ‘sùil’ with ‘sùil a chleibh (ghiomaich)’ as the quotation.] <graphic url="FortroseJMacInnesiasgachillust2.jpg" width="300px"/>
+        </def>
+      </entry>
+      <head xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e339">5. Duirgh, slatan, driamlaichean</head>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e344">
+        <form>
+          <orth>dorgh, duirgh</orth>
+        </form>
+        <def>chan eil am facal seo cumantan [sic] ann an Gleana Dail (Eilean Sgitheanach).</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e353">
+        <form>
+          <orth>slat-iasgaich</orth>
+        </form>
+        <def>slat chuilc airson iasgach mara.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e362">
+        <form>
+          <orth>driamlach</orth>
+        </form>
+        <def>fishing line.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e371">
+        <form>
+          <orth>dubhan</orth>
+        </form>
+        <def>hook, big or small. [NOTES: slip not found.]</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e380">
+        <form>
+          <orth>a’ snaingealadh</orth>
+        </form>
+        <def>tying the hook to ‘cast’ or ‘snot’ [q.v.].</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e389">
+        <form>
+          <orth>maothar (mathar)</orth>
+        </form>
+        <def>gaoisid gheal coin no ite bheag gheal ceangailte ris an dubhan airson iasgach sùithean, no runach [sic], no liutha.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e398">
+        <form>
+          <orth>fuaidreag</orth>
+        </form>
+        <def>rubber eel for lythe fishing.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e407">
+        <form>
+          <orth>meigh</orth>
+        </form>
+        <def>sinker for sgrioban [q.v.].</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e416">
+        <form>
+          <orth>sgrioban</orth>
+        </form>
+        <def>airson glacadh adagan agus cuiteagan agus morbhair (Jerusalem haddocks or saltwater bream). <graphic url="FortroseJMacInnesiasgachillust3.jpg" width="200px"/>
+        </def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e426">
+        <form>
+          <orth>clàrag (a sgriobain)</orth>
+        </form>
+        <def>air a chumail anns a bhata nuair tha an sgrioban [q.v.] air a leigeil sios do ghrunn na mara. [NOTES: slipped under ‘clàrag’ with ‘clàrag a sgriobain’ as the quotation.]</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e435">
+        <form>
+          <orth>meigh</orth>
+        </form>
+        <def>sinker.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e444">
+        <form>
+          <orth>snòt</orth>
+        </form>
+        <def>cast or gut to which hooks attached.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e453">
+        <form>
+          <orth>foirteam</orth>
+        </form>
+        <def>also used for snòt [q.v.]. Whether this [is] a corruption of English word or has claims to Gaelic origin, I don’t know.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e462">
+        <form>
+          <orth>claidheamhag</orth>
+        </form>
+        <def>sand eel used as lure for lythe etc.</def>
+      </entry>
+      <head xml:id="WoolworkingandFishing_FortroseJMacInnesiasgach-d0e470">6. Acfhuinn sam bith eile</head>
+    </body>
+  </text>
 </TEI>

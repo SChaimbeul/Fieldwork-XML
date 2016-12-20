@@ -1,262 +1,237 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="Canada_CanadaMacKinnonetalsheep">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[1969]</date>
-            <location>
-               <placeName>Canada</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>Susan Norwood</persName>
-            </person>
-            <person role="informant">
-               <persName>S.J. MacKinnon</persName>
-               <birth>
-                  <placeName>([Canada], Inverness Co., Lochaber)</placeName>
-               </birth>
-            </person>
-            <person role="informant">
-               <persName>James MacKay</persName>
-               <birth>
-                  <placeName>([Canada], Inverness Co., Lochaber dialect)</placeName>
-               </birth>
-            </person>
-            <person role="informant">
-               <persName>Alec Beaton</persName>
-               <birth>
-                  <placeName>([Canada], Inverness Co., Lochaber dialect)</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Sheep</term>
-               <term>Caoraich</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="Canada_CanadaMacKinnonetalsheep-d0e44"
-            >1. Different stages in the growth of sheep (female)</head>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e49">
-            <form>
-               <orth>uan boirionn</orth>
-            </form>
-            <def>female lamb until first shearing.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e58">
-            <form>
-               <orth>uan firionn</orth>
-            </form>
-            <def>male lamb until first shearing.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e67">
-            <form>
-               <orth>othaisg</orth>
-            </form>
-            <def>female after first shearing.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e76">
-            <form>
-               <orth>bliadhanach</orth>
-            </form>
-            <def>yearling.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e85">
-            <form>
-               <orth>molt</orth>
-            </form>
-            <def>castrated male.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e94">
-            <form>
-               <orth>mult</orth>
-            </form>
-            <def>castrated male (rare).</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e103">
-            <form>
-               <orth>ruta</orth>
-            </form>
-            <def>ram. (Inverness)</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e112">
-            <form>
-               <orth>rèidh</orth>
-            </form>
-            <def>ram. (Victoria)</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e121">
-            <form>
-               <orth>ruigeann</orth>
-            </form>
-            <def>half-castrated.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e130">
-            <form>
-               <orth>caora</orth>
-            </form>
-            <def>sheep.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e139">
-            <form>
-               <orth>caora sheasg</orth>
-            </form>
-            <def>old, dry sheep.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e148">
-            <form>
-               <orth>caora-uain</orth>
-            </form>
-            <def>pregnant sheep.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e157">
-            <form>
-               <orth>seot</orth>
-            </form>
-            <def>rejected sheep ([pron.?] shoat).</def>
-         </entry>
-         <head
-             xml:id="Canada_CanadaMacKinnonetalsheep-d0e165"
-            >2. Different stages in the growth of sheep (male)</head>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-idola51">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>(See (1))</def>
-         </entry>
-         <head
-             xml:id="Canada_CanadaMacKinnonetalsheep-d0e178"
-            >3. Different stages in the growth of the castrated male</head>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-idola52">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>(See (1))</def>
-         </entry>
-         <head
-             xml:id="Canada_CanadaMacKinnonetalsheep-d0e191"
-            >4. Sheep’s appearance</head>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e196">
-            <form>
-               <orth>caora dhubh</orth>
-            </form>
-            <def>black sheep.</def>
-         </entry>
-         <head
-             xml:id="Canada_CanadaMacKinnonetalsheep-d0e204"
-            >5. Miscellaneous</head>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-idola53">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>(See (1))</def>
-         </entry>
-         <head
-             xml:id="Canada_CanadaMacKinnonetalsheep-d0e217"
-            >6. Feeding and grazing</head>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e222">
-            <form>
-               <orth>biathadh</orth>
-            </form>
-            <def>feeding.</def>
-         </entry>
-         <head
-             xml:id="Canada_CanadaMacKinnonetalsheep-d0e230"
-            >7. Handling of sheep</head>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e235">
-            <form>
-               <orth>fang</orth>
-            </form>
-            <def>fank.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e244">
-            <form>
-               <orth>comharradh</orth>
-            </form>
-            <def>ear-marking.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e253">
-            <form>
-               <orth>spoth</orth>
-            </form>
-            <def>castration.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e262">
-            <form>
-               <orth>stubadh</orth>
-            </form>
-            <def>docking.</def>
-         </entry>
-         <head
-             xml:id="Canada_CanadaMacKinnonetalsheep-d0e270"
-            >8. Apparatus</head>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-idola54">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>(same as cattle) [NOTES: see point 9 in the Crodh / Cattle questionnaire by the same informants.]</def>
-         </entry>
-         <head
-             xml:id="Canada_CanadaMacKinnonetalsheep-d0e283"
-            >9. Diseases</head>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e288">
-            <form>
-               <orth>meòil-chaorachan</orth>
-            </form>
-            <def>sheep-lice.</def>
-         </entry>
-         <head
-             xml:id="Canada_CanadaMacKinnonetalsheep-d0e296"
-            >10. Parts of the body</head>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-idola55">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>(same as cattle) [NOTES: see point 5 in the Crodh / Cattle questionnaire by the same informants.]</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e310">
-            <form>
-               <orth>craiceann</orth>
-            </form>
-            <def>hide or pelt.</def>
-         </entry>
-         <head
-             xml:id="Canada_CanadaMacKinnonetalsheep-d0e318"
-            >11. Lambing</head>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e323">
-            <form>
-               <orth>glanadh</orth>
-            </form>
-            <def>placenta.</def>
-         </entry>
-         <head
-             xml:id="Canada_CanadaMacKinnonetalsheep-d0e331"
-            >12. Miscellaneous</head>
-         <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e336">
-            <form>
-               <orth>ceideag</orth>
-            </form>
-            <def>tuft of wool.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Canada_CanadaMacKinnonetalsheep">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[1969]</date>
+        <location>
+          <placeName>Canada</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>Susan Norwood</persName>
+        </person>
+        <person role="informant">
+          <persName>S.J. MacKinnon</persName>
+          <birth>
+            <placeName>([Canada], Inverness Co., Lochaber)</placeName>
+          </birth>
+        </person>
+        <person role="informant">
+          <persName>James MacKay</persName>
+          <birth>
+            <placeName>([Canada], Inverness Co., Lochaber dialect)</placeName>
+          </birth>
+        </person>
+        <person role="informant">
+          <persName>Alec Beaton</persName>
+          <birth>
+            <placeName>([Canada], Inverness Co., Lochaber dialect)</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Sheep</term>
+          <term>Caoraich</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="Canada_CanadaMacKinnonetalsheep-d0e44">1. Different stages in the growth of sheep (female)</head>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e49">
+        <form>
+          <orth>uan boirionn</orth>
+        </form>
+        <def>female lamb until first shearing.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e58">
+        <form>
+          <orth>uan firionn</orth>
+        </form>
+        <def>male lamb until first shearing.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e67">
+        <form>
+          <orth>othaisg</orth>
+        </form>
+        <def>female after first shearing.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e76">
+        <form>
+          <orth>bliadhanach</orth>
+        </form>
+        <def>yearling.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e85">
+        <form>
+          <orth>molt</orth>
+        </form>
+        <def>castrated male.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e94">
+        <form>
+          <orth>mult</orth>
+        </form>
+        <def>castrated male (rare).</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e103">
+        <form>
+          <orth>ruta</orth>
+        </form>
+        <def>ram. (Inverness)</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e112">
+        <form>
+          <orth>rèidh</orth>
+        </form>
+        <def>ram. (Victoria)</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e121">
+        <form>
+          <orth>ruigeann</orth>
+        </form>
+        <def>half-castrated.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e130">
+        <form>
+          <orth>caora</orth>
+        </form>
+        <def>sheep.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e139">
+        <form>
+          <orth>caora sheasg</orth>
+        </form>
+        <def>old, dry sheep.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e148">
+        <form>
+          <orth>caora-uain</orth>
+        </form>
+        <def>pregnant sheep.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e157">
+        <form>
+          <orth>seot</orth>
+        </form>
+        <def>rejected sheep ([pron.?] shoat).</def>
+      </entry>
+      <head xml:id="Canada_CanadaMacKinnonetalsheep-d0e165">2. Different stages in the growth of sheep (male)</head>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-idola51">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>(See (1))</def>
+      </entry>
+      <head xml:id="Canada_CanadaMacKinnonetalsheep-d0e178">3. Different stages in the growth of the castrated male</head>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-idola52">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>(See (1))</def>
+      </entry>
+      <head xml:id="Canada_CanadaMacKinnonetalsheep-d0e191">4. Sheep’s appearance</head>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e196">
+        <form>
+          <orth>caora dhubh</orth>
+        </form>
+        <def>black sheep.</def>
+      </entry>
+      <head xml:id="Canada_CanadaMacKinnonetalsheep-d0e204">5. Miscellaneous</head>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-idola53">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>(See (1))</def>
+      </entry>
+      <head xml:id="Canada_CanadaMacKinnonetalsheep-d0e217">6. Feeding and grazing</head>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e222">
+        <form>
+          <orth>biathadh</orth>
+        </form>
+        <def>feeding.</def>
+      </entry>
+      <head xml:id="Canada_CanadaMacKinnonetalsheep-d0e230">7. Handling of sheep</head>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e235">
+        <form>
+          <orth>fang</orth>
+        </form>
+        <def>fank.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e244">
+        <form>
+          <orth>comharradh</orth>
+        </form>
+        <def>ear-marking.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e253">
+        <form>
+          <orth>spoth</orth>
+        </form>
+        <def>castration.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e262">
+        <form>
+          <orth>stubadh</orth>
+        </form>
+        <def>docking.</def>
+      </entry>
+      <head xml:id="Canada_CanadaMacKinnonetalsheep-d0e270">8. Apparatus</head>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-idola54">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>(same as cattle) [NOTES: see point 9 in the Crodh / Cattle questionnaire by the same informants.]</def>
+      </entry>
+      <head xml:id="Canada_CanadaMacKinnonetalsheep-d0e283">9. Diseases</head>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e288">
+        <form>
+          <orth>meòil-chaorachan</orth>
+        </form>
+        <def>sheep-lice.</def>
+      </entry>
+      <head xml:id="Canada_CanadaMacKinnonetalsheep-d0e296">10. Parts of the body</head>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-idola55">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>(same as cattle) [NOTES: see point 5 in the Crodh / Cattle questionnaire by the same informants.]</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e310">
+        <form>
+          <orth>craiceann</orth>
+        </form>
+        <def>hide or pelt.</def>
+      </entry>
+      <head xml:id="Canada_CanadaMacKinnonetalsheep-d0e318">11. Lambing</head>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e323">
+        <form>
+          <orth>glanadh</orth>
+        </form>
+        <def>placenta.</def>
+      </entry>
+      <head xml:id="Canada_CanadaMacKinnonetalsheep-d0e331">12. Miscellaneous</head>
+      <entry xml:id="Canada_CanadaMacKinnonetalsheep-d0e336">
+        <form>
+          <orth>ceideag</orth>
+        </form>
+        <def>tuft of wool.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

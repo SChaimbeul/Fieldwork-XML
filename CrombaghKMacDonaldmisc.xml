@@ -1,277 +1,276 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="AOHenley_CrombaghKMacDonaldmisc">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[1987-88]</date>
-            <location>
-               <placeName>North Uist, Lochmaddy, Crombagh</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>A. O’Henley</persName>
-            </person>
-            <person role="informant">
-               <persName>Kate MacDonald</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109582064">
-            <form>
-               <orth>sgal</orth>
-            </form>
-            <def>a tray.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109585160">
-            <form>
-               <orth>clòdhag</orth>
-            </form>
-            <def>a postage stamp.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109588256">
-            <form>
-               <orth>sùghan</orth>
-            </form>
-            <def>a tart.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109567160">
-            <form>
-               <orth>leannra</orth>
-            </form>
-            <def>sauce.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109565648">
-            <form>
-               <orth>ceirnean</orth>
-            </form>
-            <def>a plate.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109564136">
-            <form>
-               <orth>crùisg</orth>
-            </form>
-            <def>a jug.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109562624">
-            <form>
-               <orth>soireag</orth>
-            </form>
-            <def>a fla [sic]. [NOTES: note added in pencil: ‘a flask?’ and then a tick put next to it.]</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109560968">
-            <form>
-               <orth>tacas</orth>
-            </form>
-            <def>an easel.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109559456">
-            <form>
-               <orth>adhartag</orth>
-            </form>
-            <def>a cushion.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109557944">
-            <form>
-               <orth>grànlach</orth>
-            </form>
-            <def>a cereal.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109556432">
-            <form>
-               <orth>dealbhart</orth>
-            </form>
-            <def>a camera.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109554920">
-            <form>
-               <orth>amarlad</orth>
-            </form>
-            <def>a canal.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109553408">
-            <form>
-               <orth>cuach</orth>
-            </form>
-            <def>a bowl.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109551896">
-            <form>
-               <orth>carlann</orth>
-            </form>
-            <def>a car park.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109550384">
-            <form>
-               <orth>dorn nasg</orth>
-            </form>
-            <def>a bracelet.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109548872">
-            <form>
-               <orth>sorcair</orth>
-            </form>
-            <def>a cylinder.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108816312">
-            <form>
-               <orth>beart</orth>
-            </form>
-            <def>engine.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108814800">
-            <form>
-               <orth>loireag</orth>
-            </form>
-            <def>pancake.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108813288">
-            <form>
-               <orth>lì ola</orth>
-            </form>
-            <def>paint.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108811776">
-            <form>
-               <orth>cùbhran</orth>
-            </form>
-            <def>perfume.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108810264">
-            <form>
-               <orth>iucharlan</orth>
-            </form>
-            <def>a piano.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108808752">
-            <form>
-               <orth>measruich</orth>
-            </form>
-            <def>jam.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108807240">
-            <form>
-               <orth>bioran bile</orth>
-            </form>
-            <def>lipstick.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108805728">
-            <form>
-               <orth>sùghlach</orth>
-            </form>
-            <def>jelly.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108804216">
-            <form>
-               <orth>lamhanart</orth>
-            </form>
-            <def>a napkin.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108802704">
-            <form>
-               <orth>gearradan</orth>
-            </form>
-            <def>a notebook.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108801192">
-            <form>
-               <orth>reoidhtean</orth>
-            </form>
-            <def>an ice cream.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108799680">
-            <form>
-               <orth>cobhan</orth>
-            </form>
-            <def>a box.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108798168">
-            <form>
-               <orth>luthair</orth>
-            </form>
-            <def>an athlete.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108796656">
-            <form>
-               <orth>casbhrat</orth>
-            </form>
-            <def>a carpet.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108795144">
-            <form>
-               <orth>sanais</orth>
-            </form>
-            <def>to whisper. “Cuir sanais na chluais.”</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108793488">
-            <form>
-               <orth>saighseagraich</orth>
-            </form>
-            <def>whispering, e.g. to each other.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108791976">
-            <form>
-               <orth>staillard</orth>
-            </form>
-            <def>weighing instrument.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108789600">
-            <form>
-               <orth>stàireachd</orth>
-            </form>
-            <def>aimlessly walking back and forth.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108788088">
-            <form>
-               <orth>eacarsaich</orth>
-            </form>
-            <def>to fidget, nervous movement. “Dè an eacarsaich a tha ort an sin.”</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108786432">
-            <form>
-               <orth>mobhsgaideach</orth>
-            </form>
-            <def>a lazy, feckless person without any initiative.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108784920">
-            <form>
-               <orth>breòite</orth>
-            </form>
-            <def>delicate.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108783408">
-            <form>
-               <orth>deatamach</orth>
-            </form>
-            <def>anxious or solicitous.</def>
-         </entry>
-         <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108781896">
-            <form>
-               <orth>cagarsaich</orth>
-            </form>
-            <def>whispering.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AOHenley_CrombaghKMacDonaldmisc">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[1987-88]</date>
+        <location>
+          <placeName>North Uist, Lochmaddy, Crombagh</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>A. O’Henley</persName>
+        </person>
+        <person role="informant">
+          <persName>Kate MacDonald</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109582064">
+        <form>
+          <orth>sgal</orth>
+        </form>
+        <def>a tray.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109585160">
+        <form>
+          <orth>clòdhag</orth>
+        </form>
+        <def>a postage stamp.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109588256">
+        <form>
+          <orth>sùghan</orth>
+        </form>
+        <def>a tart.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109567160">
+        <form>
+          <orth>leannra</orth>
+        </form>
+        <def>sauce.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109565648">
+        <form>
+          <orth>ceirnean</orth>
+        </form>
+        <def>a plate.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109564136">
+        <form>
+          <orth>crùisg</orth>
+        </form>
+        <def>a jug.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109562624">
+        <form>
+          <orth>soireag</orth>
+        </form>
+        <def>a fla [sic]. [NOTES: note added in pencil: ‘a flask?’ and then a tick put next to it.]</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109560968">
+        <form>
+          <orth>tacas</orth>
+        </form>
+        <def>an easel.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109559456">
+        <form>
+          <orth>adhartag</orth>
+        </form>
+        <def>a cushion.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109557944">
+        <form>
+          <orth>grànlach</orth>
+        </form>
+        <def>a cereal.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109556432">
+        <form>
+          <orth>dealbhart</orth>
+        </form>
+        <def>a camera.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109554920">
+        <form>
+          <orth>amarlad</orth>
+        </form>
+        <def>a canal.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109553408">
+        <form>
+          <orth>cuach</orth>
+        </form>
+        <def>a bowl.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109551896">
+        <form>
+          <orth>carlann</orth>
+        </form>
+        <def>a car park.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109550384">
+        <form>
+          <orth>dorn nasg</orth>
+        </form>
+        <def>a bracelet.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm109548872">
+        <form>
+          <orth>sorcair</orth>
+        </form>
+        <def>a cylinder.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108816312">
+        <form>
+          <orth>beart</orth>
+        </form>
+        <def>engine.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108814800">
+        <form>
+          <orth>loireag</orth>
+        </form>
+        <def>pancake.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108813288">
+        <form>
+          <orth>lì ola</orth>
+        </form>
+        <def>paint.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108811776">
+        <form>
+          <orth>cùbhran</orth>
+        </form>
+        <def>perfume.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108810264">
+        <form>
+          <orth>iucharlan</orth>
+        </form>
+        <def>a piano.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108808752">
+        <form>
+          <orth>measruich</orth>
+        </form>
+        <def>jam.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108807240">
+        <form>
+          <orth>bioran bile</orth>
+        </form>
+        <def>lipstick.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108805728">
+        <form>
+          <orth>sùghlach</orth>
+        </form>
+        <def>jelly.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108804216">
+        <form>
+          <orth>lamhanart</orth>
+        </form>
+        <def>a napkin.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108802704">
+        <form>
+          <orth>gearradan</orth>
+        </form>
+        <def>a notebook.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108801192">
+        <form>
+          <orth>reoidhtean</orth>
+        </form>
+        <def>an ice cream.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108799680">
+        <form>
+          <orth>cobhan</orth>
+        </form>
+        <def>a box.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108798168" type="person">
+        <form>
+          <orth>luthair</orth>
+        </form>
+        <def>an athlete.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108796656">
+        <form>
+          <orth>casbhrat</orth>
+        </form>
+        <def>a carpet.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108795144">
+        <form>
+          <orth>sanais</orth>
+        </form>
+        <def>to whisper. “Cuir sanais na chluais.”</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108793488">
+        <form>
+          <orth>saighseagraich</orth>
+        </form>
+        <def>whispering, e.g. to each other.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108791976">
+        <form>
+          <orth>staillard</orth>
+        </form>
+        <def>weighing instrument.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108789600">
+        <form>
+          <orth>stàireachd</orth>
+        </form>
+        <def>aimlessly walking back and forth.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108788088">
+        <form>
+          <orth>eacarsaich</orth>
+        </form>
+        <def>to fidget, nervous movement. “Dè an eacarsaich a tha ort an sin.”</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108786432" type="person">
+        <form>
+          <orth>mobhsgaideach</orth>
+        </form>
+        <def>a lazy, feckless person without any initiative.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108784920">
+        <form>
+          <orth>breòite</orth>
+        </form>
+        <def>delicate.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108783408">
+        <form>
+          <orth>deatamach</orth>
+        </form>
+        <def>anxious or solicitous.</def>
+      </entry>
+      <entry xml:id="AOHenley_CrombaghKMacDonaldmisc-idm108781896">
+        <form>
+          <orth>cagarsaich</orth>
+        </form>
+        <def>whispering.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

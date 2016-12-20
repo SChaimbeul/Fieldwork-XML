@@ -1,322 +1,268 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="Agriculture_DAMacdonaldagricultureproject">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: the original title of the list is “Scottish Gaelic Vocabulary of Agriculture”.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <location>
-               <placeName>North Uist</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="informant">
-               <persName>Donald Alex Macdonald</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Agriculture</term>
-               <term>Àiteach</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="Agriculture_DAMacdonaldagricultureproject-d0e23"
-            >Index</head>
-         <head
-             xml:id="Agriculture_DAMacdonaldagricultureproject-d0e27"
-            >1. General Introduction.</head>
-         <head
-             xml:id="Agriculture_DAMacdonaldagricultureproject-d0e31"
-            >2. Historical Introduction.</head>
-         <head
-             xml:id="Agriculture_DAMacdonaldagricultureproject-d0e35"
-            >3. Description of Project.</head>
-         <head
-             xml:id="Agriculture_DAMacdonaldagricultureproject-d0e39"
-            >4. Arrangement of Material and Code.</head>
-         <head
-             xml:id="Agriculture_DAMacdonaldagricultureproject-d0e43"
-            >5. Words arranged alphabetically –</head>
-         <head
-             xml:id="Agriculture_DAMacdonaldagricultureproject-d0e47"
-             subtype="h2">(a) (with meanings) on cards</head>
-         <head
-             xml:id="Agriculture_DAMacdonaldagricultureproject-d0e51"
-             subtype="h2">(b) (without meanings) on ‘sheets’.</head>
-         <head
-             xml:id="Agriculture_DAMacdonaldagricultureproject-d0e55"
-            >6. Analysis of results.</head>
-         <head
-             xml:id="Agriculture_DAMacdonaldagricultureproject-d0e59"
-            >7. Appendices (two)</head>
-         <head
-             xml:id="Agriculture_DAMacdonaldagricultureproject-d0e63"
-             subtype="h2">(1) words from Dwelly’s.</head>
-         <head
-             xml:id="Agriculture_DAMacdonaldagricultureproject-d0e67"
-             subtype="h2">(2) ‘communal’ practice in N. Uist.</head>
-         <head
-             xml:id="Agriculture_DAMacdonaldagricultureproject-d0e71"
-            >8. General conclusions.</head>
-         <head
-             xml:id="Agriculture_DAMacdonaldagricultureproject-d0e75"
-            >9. Diagram of Horse and Cart.</head>
-         <note>[NOTES: The report contains an alphabetical word list (see point 5b above) but it does not provide any information about the words’ sources, meanings or alternative spellings. According to the above index (see point 5a), the missing information could be found on the cards accompanying the report. The list is based on a ‘rough’ copy compiled as a ‘specimen questionnaire’, which is based on material from all twelve questionnaires that Mr MacDonald used for his project. Again, the questionnaire does not contain any additional information but it preserves the original spellings used by the informants.]</note>
-         <head
-             xml:id="Agriculture_DAMacdonaldagricultureproject-d0e82"
-            >Each ’sa chairt</head>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e87">
-            <form>
-               <orth>mireanach</orth>
-               <pron>[Number 1 on the diagram.]</pron>
-            </form>
-            <def>[Number 1 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e98">
-            <form>
-               <orth>failbheagan</orth>
-               <pron>[Number 2 on the diagram.]</pron>
-            </form>
-            <def>[Number 2 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e109">
-            <form>
-               <orth>stroinean</orth>
-               <pron>[Number 3 on the diagram.]</pron>
-            </form>
-            <def>[Number 3 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e120">
-            <form>
-               <orth>leac na siolla</orth>
-               <pron>[Number 4 on the diagram.]</pron>
-            </form>
-            <def>[Number 4 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e131">
-            <form>
-               <orth>siollachan</orth>
-               <pron>[Number 5 on the diagram.]</pron>
-            </form>
-            <def>[Number 5 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e142">
-            <form>
-               <orth>canaib na srathar</orth>
-               <pron>[Number 6 on the diagram.]</pron>
-            </form>
-            <def>[Number 6 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e153">
-            <form>
-               <orth>an t-srathair</orth>
-               <pron>[Number 7 on the diagram.]</pron>
-            </form>
-            <def>[Number 7 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e164">
-            <form>
-               <orth>loinneachan</orth>
-               <pron>[Number 8 on the diagram.]</pron>
-            </form>
-            <def>[Number 8 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e175">
-            <form>
-               <orth>gurt na srathrach</orth>
-               <pron>[Number 9 on the diagram.]</pron>
-            </form>
-            <def>[Number 9 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e186">
-            <form>
-               <orth>an trabhailear</orth>
-               <pron>[Number 10 on the diagram.]</pron>
-            </form>
-            <def>[Number 10 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e197">
-            <form>
-               <orth>srap droma</orth>
-               <pron>[Number 11 on the diagram.]</pron>
-            </form>
-            <def>[Number 11 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e208">
-            <form>
-               <orth>srap mor na briogais</orth>
-               <pron>[Number 12 on the diagram.]</pron>
-            </form>
-            <def>[Number 12 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e219">
-            <form>
-               <orth>galais na briogais</orth>
-               <pron>[Number 13 on the diagram.]</pron>
-            </form>
-            <def>[Number 13 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e230">
-            <form>
-               <orth>na trams</orth>
-               <pron>[Number 14 on the diagram.]</pron>
-            </form>
-            <def>[Number 14 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e241">
-            <form>
-               <orth>fulais</orth>
-               <pron>[Number 15 on the diagram.]</pron>
-            </form>
-            <def>[Number 15 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e252">
-            <form>
-               <orth>cearcal</orth>
-               <pron>[Number 16 on the diagram.]</pron>
-            </form>
-            <def>[Number 16 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e263">
-            <form>
-               <orth>branndain</orth>
-               <pron>[Number 17 on the diagram.]</pron>
-            </form>
-            <def>[Number 17 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e274">
-            <form>
-               <orth>cioch</orth>
-               <pron>[Number 18 on the diagram.]</pron>
-            </form>
-            <def>[Number 18 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e285">
-            <form>
-               <orth>spog</orth>
-               <pron>[Number 19 on the diagram.]</pron>
-            </form>
-            <def>[Number 19 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e296">
-            <form>
-               <orth>cliathach</orth>
-               <pron>[Number 20 on the diagram.]</pron>
-            </form>
-            <def>[Number 20 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e307">
-            <form>
-               <orth>bord toisich</orth>
-               <pron>[Number 21 on the diagram.]</pron>
-            </form>
-            <def>[Number 21 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e318">
-            <form>
-               <orth>bord deiridh</orth>
-               <pron>[Number 22 on the diagram.]</pron>
-            </form>
-            <def>[Number 22 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e329">
-            <form>
-               <orth>bord taoibh</orth>
-               <pron>[Number 23 on the diagram.]</pron>
-            </form>
-            <def>[Number 23 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e340">
-            <form>
-               <orth>gluinean</orth>
-               <pron>[Number 24 on the diagram.]</pron>
-            </form>
-            <def>[Number 24 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e351">
-            <form>
-               <orth>bocsa</orth>
-               <pron>[Number 25 on the diagram.]</pron>
-            </form>
-            <def>[Number 25 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-         <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e362">
-            <form>
-               <orth>glas</orth>
-               <pron>[Number 26 on the diagram.]</pron>
-            </form>
-            <def>[Number 26 on the diagram.]
-	    <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
-	           </def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Agriculture_DAMacdonaldagricultureproject">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: the original title of the list is “Scottish Gaelic Vocabulary of Agriculture”.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location>
+          <placeName>North Uist</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="informant">
+          <persName>Donald Alex Macdonald</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Agriculture</term>
+          <term>Àiteach</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="Agriculture_DAMacdonaldagricultureproject-d0e23">Index</head>
+      <head xml:id="Agriculture_DAMacdonaldagricultureproject-d0e27">1. General Introduction.</head>
+      <head xml:id="Agriculture_DAMacdonaldagricultureproject-d0e31">2. Historical Introduction.</head>
+      <head xml:id="Agriculture_DAMacdonaldagricultureproject-d0e35">3. Description of Project.</head>
+      <head xml:id="Agriculture_DAMacdonaldagricultureproject-d0e39">4. Arrangement of Material and Code.</head>
+      <head xml:id="Agriculture_DAMacdonaldagricultureproject-d0e43">5. Words arranged alphabetically –</head>
+      <head xml:id="Agriculture_DAMacdonaldagricultureproject-d0e47" subtype="h2">(a) (with meanings) on cards</head>
+      <head xml:id="Agriculture_DAMacdonaldagricultureproject-d0e51" subtype="h2">(b) (without meanings) on ‘sheets’.</head>
+      <head xml:id="Agriculture_DAMacdonaldagricultureproject-d0e55">6. Analysis of results.</head>
+      <head xml:id="Agriculture_DAMacdonaldagricultureproject-d0e59">7. Appendices (two)</head>
+      <head xml:id="Agriculture_DAMacdonaldagricultureproject-d0e63" subtype="h2">(1) words from Dwelly’s.</head>
+      <head xml:id="Agriculture_DAMacdonaldagricultureproject-d0e67" subtype="h2">(2) ‘communal’ practice in N. Uist.</head>
+      <head xml:id="Agriculture_DAMacdonaldagricultureproject-d0e71">8. General conclusions.</head>
+      <head xml:id="Agriculture_DAMacdonaldagricultureproject-d0e75">9. Diagram of Horse and Cart.</head>
+      <note>[NOTES: The report contains an alphabetical word list (see point 5b above) but it does not provide any information about the words’ sources, meanings or alternative spellings. According to
+        the above index (see point 5a), the missing information could be found on the cards accompanying the report. The list is based on a ‘rough’ copy compiled as a ‘specimen questionnaire’, which
+        is based on material from all twelve questionnaires that Mr MacDonald used for his project. Again, the questionnaire does not contain any additional information but it preserves the original
+        spellings used by the informants.]</note>
+      <head xml:id="Agriculture_DAMacdonaldagricultureproject-d0e82">Each ’sa chairt</head>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e87">
+        <form>
+          <orth>mireanach</orth>
+          <pron>[Number 1 on the diagram.]</pron>
+        </form>
+        <def>[Number 1 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e98">
+        <form>
+          <orth>failbheagan</orth>
+          <pron>[Number 2 on the diagram.]</pron>
+        </form>
+        <def>[Number 2 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e109">
+        <form>
+          <orth>stroinean</orth>
+          <pron>[Number 3 on the diagram.]</pron>
+        </form>
+        <def>[Number 3 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e120">
+        <form>
+          <orth>leac na siolla</orth>
+          <pron>[Number 4 on the diagram.]</pron>
+        </form>
+        <def>[Number 4 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e131">
+        <form>
+          <orth>siollachan</orth>
+          <pron>[Number 5 on the diagram.]</pron>
+        </form>
+        <def>[Number 5 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e142">
+        <form>
+          <orth>canaib na srathar</orth>
+          <pron>[Number 6 on the diagram.]</pron>
+        </form>
+        <def>[Number 6 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e153">
+        <form>
+          <orth>an t-srathair</orth>
+          <pron>[Number 7 on the diagram.]</pron>
+        </form>
+        <def>[Number 7 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e164">
+        <form>
+          <orth>loinneachan</orth>
+          <pron>[Number 8 on the diagram.]</pron>
+        </form>
+        <def>[Number 8 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e175">
+        <form>
+          <orth>gurt na srathrach</orth>
+          <pron>[Number 9 on the diagram.]</pron>
+        </form>
+        <def>[Number 9 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e186">
+        <form>
+          <orth>an trabhailear</orth>
+          <pron>[Number 10 on the diagram.]</pron>
+        </form>
+        <def>[Number 10 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e197">
+        <form>
+          <orth>srap droma</orth>
+          <pron>[Number 11 on the diagram.]</pron>
+        </form>
+        <def>[Number 11 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e208">
+        <form>
+          <orth>srap mor na briogais</orth>
+          <pron>[Number 12 on the diagram.]</pron>
+        </form>
+        <def>[Number 12 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e219">
+        <form>
+          <orth>galais na briogais</orth>
+          <pron>[Number 13 on the diagram.]</pron>
+        </form>
+        <def>[Number 13 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e230">
+        <form>
+          <orth>na trams</orth>
+          <pron>[Number 14 on the diagram.]</pron>
+        </form>
+        <def>[Number 14 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e241">
+        <form>
+          <orth>fulais</orth>
+          <pron>[Number 15 on the diagram.]</pron>
+        </form>
+        <def>[Number 15 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e252">
+        <form>
+          <orth>cearcal</orth>
+          <pron>[Number 16 on the diagram.]</pron>
+        </form>
+        <def>[Number 16 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e263">
+        <form>
+          <orth>branndain</orth>
+          <pron>[Number 17 on the diagram.]</pron>
+        </form>
+        <def>[Number 17 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e274">
+        <form>
+          <orth>cioch</orth>
+          <pron>[Number 18 on the diagram.]</pron>
+        </form>
+        <def>[Number 18 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e285">
+        <form>
+          <orth>spog</orth>
+          <pron>[Number 19 on the diagram.]</pron>
+        </form>
+        <def>[Number 19 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e296">
+        <form>
+          <orth>cliathach</orth>
+          <pron>[Number 20 on the diagram.]</pron>
+        </form>
+        <def>[Number 20 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e307">
+        <form>
+          <orth>bord toisich</orth>
+          <pron>[Number 21 on the diagram.]</pron>
+        </form>
+        <def>[Number 21 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e318">
+        <form>
+          <orth>bord deiridh</orth>
+          <pron>[Number 22 on the diagram.]</pron>
+        </form>
+        <def>[Number 22 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e329">
+        <form>
+          <orth>bord taoibh</orth>
+          <pron>[Number 23 on the diagram.]</pron>
+        </form>
+        <def>[Number 23 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e340">
+        <form>
+          <orth>gluinean</orth>
+          <pron>[Number 24 on the diagram.]</pron>
+        </form>
+        <def>[Number 24 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e351">
+        <form>
+          <orth>bocsa</orth>
+          <pron>[Number 25 on the diagram.]</pron>
+        </form>
+        <def>[Number 25 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Agriculture_DAMacdonaldagricultureproject-d0e362">
+        <form>
+          <orth>glas</orth>
+          <pron>[Number 26 on the diagram.]</pron>
+        </form>
+        <def>[Number 26 on the diagram.] <graphic url="DAMacdonaldagricultureprojectillust1.jpg" width="600px"/>
+        </def>
+      </entry>
+    </body>
+  </text>
 </TEI>

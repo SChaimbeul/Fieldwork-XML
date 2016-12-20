@@ -1,491 +1,454 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="CattleandSheep_DunoonJMacLeansheep">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <location>
-               <placeName>Dunoon</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>John MacLean</persName>
-               <persName xml:lang="gd">Iain Mac Illeathain </persName>
-               <age>48</age>
-               <birth>
-                  <placeName>Barra</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Sheep</term>
-               <term>Caoraich</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeansheep-d0e34"
-            >1. Different stages in the growth of sheep (female)</head>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeansheep-d0e38"
-             subtype="h2">(female)</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e43">
-            <form>
-               <orth>ogan</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e49">
-            <form>
-               <orth>uan</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e55">
-            <form>
-               <orth>bliadhnach</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e61">
-            <form>
-               <orth>othaisg</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e67">
-            <form>
-               <orth>caora</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e73">
-            <form>
-               <orth>caora sheasg</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e79">
-            <form>
-               <orth>croca or crocsa</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeansheep-d0e84"
-             subtype="h2">(male)</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e89">
-            <form>
-               <orth>ogan</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e95">
-            <form>
-               <orth>uan</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e101">
-            <form>
-               <orth>bliadhnach</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e107">
-            <form>
-               <orth>readha</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e113">
-            <form>
-               <orth>rùda</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e119">
-            <form>
-               <orth>dionag</orth>
-            </form>
-            <def>two year old female. Heard this word in the Mallaig area and [it] is equivalent to ‘othaisg’ in Barra.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeansheep-d0e127"
-            >2. Different stages in the growth of sheep (male)</head>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeansheep-d0e131"
-            >3. Different stages in the growth of the castrated male</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e136">
-            <form>
-               <orth>molt</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeansheep-d0e141"
-            >4. Sheep’s appearance</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e146">
-            <form>
-               <orth>caora bhan</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e152">
-            <form>
-               <orth>caora dhubh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e158">
-            <form>
-               <orth>dubh-cheannach</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e164">
-            <form>
-               <orth>caora mhaol</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e170">
-            <form>
-               <orth>leth-adhairc</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e176">
-            <form>
-               <orth>caora Nollag</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeansheep-d0e181"
-            >5. Miscellaneous</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e186">
-            <form>
-               <orth>piatan</orth>
-            </form>
-            <def>pet.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e195">
-            <form>
-               <orth>ruicke (reige)</orth>
-            </form>
-            <def>partly castrated.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeansheep-d0e203"
-            >6. Feeding and grazing</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e208">
-            <form>
-               <orth>rathad nan caorach</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e214">
-            <form>
-               <orth>frith-rathad</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeansheep-d0e219"
-            >7. Handling of sheep</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e224">
-            <form>
-               <orth>cartadh a bhaile</orth>
-            </form>
-            <def>driving to the hills from the crofts.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e233">
-            <form>
-               <orth>crò-adh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e239">
-            <form>
-               <orth>deagh chro</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e245">
-            <form>
-               <orth>fang</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e251">
-            <form>
-               <orth>cro nan uan</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e257">
-            <form>
-               <orth>rùsgadh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e263">
-            <form>
-               <orth>duppadh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e269">
-            <form>
-               <orth>duppar</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e275">
-            <form>
-               <orth>comharrachadh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e281">
-            <form>
-               <orth>gearradh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e287">
-            <form>
-               <orth>spothadh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e293">
-            <form>
-               <orth>ciosa, ciosa, ciosa</orth>
-            </form>
-            <def>call to a lamb. Heard Kishmul Castle built on the rock Steinn was derived from ciosa-maol – enough growth there to support one hornless pet lamb.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e302">
-            <form>
-               <orth>an coimhead</orth>
-            </form>
-            <def>watching that no sheep come in through the hill fence after the crops are sown.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeansheep-d0e310"
-             subtype="h2">[commands given to a sheep-dog]</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e315">
-            <form>
-               <orth>Beir orra</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e321">
-            <form>
-               <orth>’Stigh iad</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e327">
-            <form>
-               <orth>Mach iad</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e333">
-            <form>
-               <orth>Sud iad</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e339">
-            <form>
-               <orth>Cul mo chois</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e345">
-            <form>
-               <orth>Socair</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e351">
-            <form>
-               <orth>Sios</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeansheep-d0e356"
-            >8. Apparatus</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e361">
-            <form>
-               <orth>ceangal</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e367">
-            <form>
-               <orth>teadhair</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e373">
-            <form>
-               <orth>ciopain</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e379">
-            <form>
-               <orth>udalan</orth>
-            </form>
-            <def>
-               <graphic url="DunoonJMacLeansheepillust1.jpg" width="200px"/>
-            </def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e390">
-            <form>
-               <orth>caigeann</orth>
-               <pron>[See udalan.]</pron>
-            </form>
-            <def>[See udalan.]</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeansheep-d0e398"
-            >9. Diseases</head>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeansheep-d0e402"
-             subtype="h2">diseases of the skin affecting the wool; warts, swellings, spots; ticks found in wool, worms in the skin</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e407">
-            <form>
-               <orth>mial-chaorach</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e413">
-            <form>
-               <orth>a chroidheag</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e419">
-            <form>
-               <orth>a chuileag</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeansheep-d0e424"
-             subtype="h2">diseases of the head, neck and throat</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e429">
-            <form>
-               <orth>at-sclopan</orth>
-            </form>
-            <def>(throat).</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e438">
-            <form>
-               <orth>an dalladh</orth>
-            </form>
-            <def>blindness.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeansheep-d0e446"
-             subtype="h2">diseases of the internal organs including digestive upsets</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e451">
-            <form>
-               <orth>spùt no bhuinneach</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeansheep-d0e456"
-            >10. Parts of the body</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e461">
-            <form>
-               <orth>ceann</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e467">
-            <form>
-               <orth>amhaich</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e473">
-            <form>
-               <orth>suil</orth>
-            </form>
-            <def>The Raven’s call: Suil caora, suil caora / Càite, càite / ’Sa làthaich ’sa làthaich</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e482">
-            <form>
-               <orth>beul</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e488">
-            <form>
-               <orth>cloimh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e494">
-            <form>
-               <orth>creiceann</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e500">
-            <form>
-               <orth>adhraic</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e506">
-            <form>
-               <orth>lurg</orth>
-            </form>
-            <def>The sheep’s wish: Gun mo lurg a bhristeadh / ’S gun mo chneamh a chur do’n teine.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e515">
-            <form>
-               <orth>casan toisich</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e521">
-            <form>
-               <orth>casan deiridh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e527">
-            <form>
-               <orth>ugh</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e533">
-            <form>
-               <orth>sinnean</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e539">
-            <form>
-               <orth>sgamhan</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e545">
-            <form>
-               <orth>fuil</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e551">
-            <form>
-               <orth>mionach</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e557">
-            <form>
-               <orth>dumalas</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e563">
-            <form>
-               <orth>geir</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeansheep-d0e568"
-            >11. Lambing</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e573">
-            <form>
-               <orth>reathachas</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_DunoonJMacLeansheep-d0e578"
-            >12. Miscellaneous</head>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e583">
-            <form>
-               <orth>caora ghibeach</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e589">
-            <form>
-               <orth>stupan</orth>
-            </form>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CattleandSheep_DunoonJMacLeansheep">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location>
+          <placeName>Dunoon</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>John MacLean</persName>
+          <persName xml:lang="gd">Iain Mac Illeathain </persName>
+          <age>48</age>
+          <birth>
+            <placeName>Barra</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Sheep</term>
+          <term>Caoraich</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="CattleandSheep_DunoonJMacLeansheep-d0e34">1. Different stages in the growth of sheep (female)</head>
+      <head xml:id="CattleandSheep_DunoonJMacLeansheep-d0e38" subtype="h2">(female)</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e43">
+        <form>
+          <orth>ogan</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e49">
+        <form>
+          <orth>uan</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e55">
+        <form>
+          <orth>bliadhnach</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e61">
+        <form>
+          <orth>othaisg</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e67">
+        <form>
+          <orth>caora</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e73">
+        <form>
+          <orth>caora sheasg</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e79">
+        <form>
+          <orth>croca or crocsa</orth>
+        </form>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeansheep-d0e84" subtype="h2">(male)</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e89">
+        <form>
+          <orth>ogan</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e95">
+        <form>
+          <orth>uan</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e101">
+        <form>
+          <orth>bliadhnach</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e107">
+        <form>
+          <orth>readha</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e113">
+        <form>
+          <orth>rùda</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e119">
+        <form>
+          <orth>dionag</orth>
+        </form>
+        <def>two year old female. Heard this word in the Mallaig area and [it] is equivalent to ‘othaisg’ in Barra.</def>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeansheep-d0e127">2. Different stages in the growth of sheep (male)</head>
+      <head xml:id="CattleandSheep_DunoonJMacLeansheep-d0e131">3. Different stages in the growth of the castrated male</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e136">
+        <form>
+          <orth>molt</orth>
+        </form>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeansheep-d0e141">4. Sheep’s appearance</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e146">
+        <form>
+          <orth>caora bhan</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e152">
+        <form>
+          <orth>caora dhubh</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e158">
+        <form>
+          <orth>dubh-cheannach</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e164">
+        <form>
+          <orth>caora mhaol</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e170">
+        <form>
+          <orth>leth-adhairc</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e176">
+        <form>
+          <orth>caora Nollag</orth>
+        </form>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeansheep-d0e181">5. Miscellaneous</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e186">
+        <form>
+          <orth>piatan</orth>
+        </form>
+        <def>pet.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e195">
+        <form>
+          <orth>ruicke (reige)</orth>
+        </form>
+        <def>partly castrated.</def>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeansheep-d0e203">6. Feeding and grazing</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e208">
+        <form>
+          <orth>rathad nan caorach</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e214">
+        <form>
+          <orth>frith-rathad</orth>
+        </form>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeansheep-d0e219">7. Handling of sheep</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e224">
+        <form>
+          <orth>cartadh a bhaile</orth>
+        </form>
+        <def>driving to the hills from the crofts.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e233">
+        <form>
+          <orth>crò-adh</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e239">
+        <form>
+          <orth>deagh chro</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e245">
+        <form>
+          <orth>fang</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e251">
+        <form>
+          <orth>cro nan uan</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e257">
+        <form>
+          <orth>rùsgadh</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e263">
+        <form>
+          <orth>duppadh</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e269">
+        <form>
+          <orth>duppar</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e275">
+        <form>
+          <orth>comharrachadh</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e281">
+        <form>
+          <orth>gearradh</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e287">
+        <form>
+          <orth>spothadh</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e293">
+        <form>
+          <orth>ciosa, ciosa, ciosa</orth>
+        </form>
+        <def>call to a lamb. Heard Kishmul Castle built on the rock Steinn was derived from ciosa-maol – enough growth there to support one hornless pet lamb.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e302">
+        <form>
+          <orth>an coimhead</orth>
+        </form>
+        <def>watching that no sheep come in through the hill fence after the crops are sown.</def>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeansheep-d0e310" subtype="h2">[commands given to a sheep-dog]</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e315">
+        <form>
+          <orth>Beir orra</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e321">
+        <form>
+          <orth>’Stigh iad</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e327">
+        <form>
+          <orth>Mach iad</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e333">
+        <form>
+          <orth>Sud iad</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e339">
+        <form>
+          <orth>Cul mo chois</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e345">
+        <form>
+          <orth>Socair</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e351">
+        <form>
+          <orth>Sios</orth>
+        </form>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeansheep-d0e356">8. Apparatus</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e361">
+        <form>
+          <orth>ceangal</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e367">
+        <form>
+          <orth>teadhair</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e373">
+        <form>
+          <orth>ciopain</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e379">
+        <form>
+          <orth>udalan</orth>
+        </form>
+        <def>
+          <graphic url="DunoonJMacLeansheepillust1.jpg" width="200px"/>
+        </def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e390">
+        <form>
+          <orth>caigeann</orth>
+          <pron>[See udalan.]</pron>
+        </form>
+        <def>[See udalan.]</def>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeansheep-d0e398">9. Diseases</head>
+      <head xml:id="CattleandSheep_DunoonJMacLeansheep-d0e402" subtype="h2">diseases of the skin affecting the wool; warts, swellings, spots; ticks found in wool, worms in the skin</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e407">
+        <form>
+          <orth>mial-chaorach</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e413">
+        <form>
+          <orth>a chroidheag</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e419">
+        <form>
+          <orth>a chuileag</orth>
+        </form>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeansheep-d0e424" subtype="h2">diseases of the head, neck and throat</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e429">
+        <form>
+          <orth>at-sclopan</orth>
+        </form>
+        <def>(throat).</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e438">
+        <form>
+          <orth>an dalladh</orth>
+        </form>
+        <def>blindness.</def>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeansheep-d0e446" subtype="h2">diseases of the internal organs including digestive upsets</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e451">
+        <form>
+          <orth>spùt no bhuinneach</orth>
+        </form>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeansheep-d0e456">10. Parts of the body</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e461">
+        <form>
+          <orth>ceann</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e467">
+        <form>
+          <orth>amhaich</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e473">
+        <form>
+          <orth>suil</orth>
+        </form>
+        <def>The Raven’s call: Suil caora, suil caora / Càite, càite / ’Sa làthaich ’sa làthaich</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e482">
+        <form>
+          <orth>beul</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e488">
+        <form>
+          <orth>cloimh</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e494">
+        <form>
+          <orth>creiceann</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e500">
+        <form>
+          <orth>adhraic</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e506">
+        <form>
+          <orth>lurg</orth>
+        </form>
+        <def>The sheep’s wish: Gun mo lurg a bhristeadh / ’S gun mo chneamh a chur do’n teine.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e515">
+        <form>
+          <orth>casan toisich</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e521">
+        <form>
+          <orth>casan deiridh</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e527">
+        <form>
+          <orth>ugh</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e533">
+        <form>
+          <orth>sinnean</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e539">
+        <form>
+          <orth>sgamhan</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e545">
+        <form>
+          <orth>fuil</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e551">
+        <form>
+          <orth>mionach</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e557">
+        <form>
+          <orth>dumalas</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e563">
+        <form>
+          <orth>geir</orth>
+        </form>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeansheep-d0e568">11. Lambing</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e573">
+        <form>
+          <orth>reathachas</orth>
+        </form>
+      </entry>
+      <head xml:id="CattleandSheep_DunoonJMacLeansheep-d0e578">12. Miscellaneous</head>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e583">
+        <form>
+          <orth>caora ghibeach</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_DunoonJMacLeansheep-d0e589">
+        <form>
+          <orth>stupan</orth>
+        </form>
+      </entry>
+    </body>
+  </text>
 </TEI>

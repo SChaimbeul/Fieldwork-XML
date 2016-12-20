@@ -1,650 +1,625 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="Canada_CanadaMacKinnonetaleccles">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: second hand, which in most cases appears to be the same as the first hand.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[1969]</date>
-            <location>
-               <placeName>Canada</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>Susan Norwood</persName>
-            </person>
-            <person role="informant">
-               <persName>S.J. MacKinnon</persName>
-               <birth>
-                  <placeName>([Canada], Inverness Co.) – Roman Catholic</placeName>
-               </birth>
-            </person>
-            <person role="informant">
-               <persName>James MacKay</persName>
-               <birth>
-                  <placeName>(Lochaber – [Canada], Inverness Co.) – Roman Catholic</placeName>
-               </birth>
-            </person>
-            <person role="informant">
-               <persName>ADE MacKinnon</persName>
-               <birth>
-                  <placeName>(Skye – [Canada], Inverness and Victoria? Co.’s) – Protestant</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Ecclesiastical Terms</term>
-               <term>An Eaglais</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="Canada_CanadaMacKinnonetaleccles-d0e49"
-            >1. Various denominations</head>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e54">
-            <form>
-               <orth>eaglais phrosta(nach)</orth>
-            </form>
-            <def>Protestant churches in general. [NOTES: originally ‘prostanach’. Corrected by second hand.]</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e63">
-            <form>
-               <orth>eaglais chlèire</orth>
-            </form>
-            <def>Presbyterian Church. (Lochaber)</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e72">
-            <form>
-               <orth>eaglais na chlèire</orth>
-            </form>
-            <def>Presbyterian Church. (Skye)</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e81">
-            <form>
-               <orth>eaglais bhaisteach</orth>
-            </form>
-            <def>Baptist Church.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e90">
-            <form>
-               <orth>eaglais iontas</orth>
-            </form>
-            <def>United Church.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e99">
-            <form>
-               <orth>eaglais unaide</orth>
-            </form>
-            <def>United Church. [NOTES: ‘unaide’ added in second hand.]</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e108">
-            <form>
-               <orth>eaglais choimhthional</orth>
-            </form>
-            <def>Congregational Ch[urch].</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e117">
-            <form>
-               <orth>eaglais “method”-ach</orth>
-            </form>
-            <def>Methodist Ch[urch].</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e126">
-            <form>
-               <orth>[eaglais] “dòigheil”</orth>
-            </form>
-            <def>Methodist Ch[urch] (“dòigheil” – probably a nonce-formation).</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e135">
-            <form>
-               <orth>eaglais chatlaich</orth>
-            </form>
-            <def>Catholic Ch[urch].</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e144">
-            <form>
-               <orth>eaglais phàpanach</orth>
-            </form>
-            <def>Catholic Ch[urch].</def>
-         </entry>
-         <head
-             xml:id="Canada_CanadaMacKinnonetaleccles-d0e152"
-            >2. Member of each of these denominations</head>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e157">
-            <form>
-               <orth>prostanach</orth>
-            </form>
-            <def>any Protestant.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e166">
-            <form>
-               <orth>pàpanach</orth>
-            </form>
-            <def>Catholic  (occasionally catlaich).</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e175">
-            <form>
-               <orth>catlaich</orth>
-               <pron>[See pàpanach]</pron>
-            </form>
-            <def>[See pàpanach].</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e184">
-            <form>
-               <orth>baisteach</orth>
-            </form>
-            <def>Baptist.</def>
-         </entry>
-         <head
-             xml:id="Canada_CanadaMacKinnonetaleccles-d0e192"
-            >3. Different courts of the Presbyterian churches</head>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e197">
-            <form>
-               <orth>cuirt na h-eaglais</orth>
-            </form>
-            <def>church court (prob. kirk session).</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-idola49">
-            <form>
-               <orth>[deacon’s court]</orth>
-            </form>
-            <def>(No deacon’s courts existed in N[ova] S[cotia].)</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e215">
-            <form>
-               <orth>clèir</orth>
-            </form>
-            <def>presbytery.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e224">
-            <form>
-               <orth>co-chruinneachadh</orth>
-            </form>
-            <def>assembly.</def>
-         </entry>
-         <head
-             xml:id="Canada_CanadaMacKinnonetaleccles-d0e232"
-            >4. Members of the clergy and office-bearers with the Presbyterian churches</head>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e237">
-            <form>
-               <orth>ministeir</orth>
-            </form>
-            <def>minister.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e246">
-            <form>
-               <orth>teachdaire</orth>
-            </form>
-            <def>missionary.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e255">
-            <form>
-               <orth>aoidear</orth>
-            </form>
-            <def>elder. [NOTES: ‘aoidear’ added by second hand.]</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e264">
-            <form>
-               <orth>ceisdear</orth>
-            </form>
-            <def>catechist (lay preacher).</def>
-         </entry>
-         <head
-             xml:id="Canada_CanadaMacKinnonetaleccles-d0e272"
-            >5. Members of the clergy and office-bearers in the Roman Catholic church</head>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e277">
-            <form>
-               <orth>esbuig</orth>
-            </form>
-            <def>bishop.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e286">
-            <form>
-               <orth>sacart</orth>
-            </form>
-            <def>priest (in address always “Maighstir Dain” etc. or “Athair”).</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e295">
-            <form>
-               <orth>gille-seirbhiseach</orth>
-            </form>
-            <def>altar-boy.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e304">
-            <form>
-               <orth>ban-crach</orth>
-            </form>
-            <def>nun. [NOTES: a note added in second hand – (ban-chràic’) [from?] cràbhach.]</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e313">
-            <form>
-               <orth>prìomh-dhiadhair</orth>
-            </form>
-            <def>cardinal.</def>
-         </entry>
-         <head
-             xml:id="Canada_CanadaMacKinnonetaleccles-d0e321"
-            >6. Holy Orders within the Roman Catholic church</head>
-         <head
-             xml:id="Canada_CanadaMacKinnonetaleccles-d0e325"
-            >7. Articles of dress or adornment</head>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e330">
-            <form>
-               <orth>còta aifhrionn</orth>
-            </form>
-            <def>alb.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e339">
-            <form>
-               <orth>lèine aifhrionn</orth>
-            </form>
-            <def>alb.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e348">
-            <form>
-               <orth>culaidh aifhrionn</orth>
-            </form>
-            <def>chasuble.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e357">
-            <form>
-               <orth>stal</orth>
-            </form>
-            <def>stole.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e366">
-            <form>
-               <orth>gòn dubh</orth>
-            </form>
-            <def>cassock (sometimes casag).</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e375">
-            <form>
-               <orth>gùn dubh</orth>
-            </form>
-            <def>cassock (sometimes casag).</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e384">
-            <form>
-               <orth>casag</orth>
-            </form>
-            <def>cassock.</def>
-         </entry>
-         <head
-             xml:id="Canada_CanadaMacKinnonetaleccles-d0e392"
-            >8. Church building and churchyard</head>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e397">
-            <form>
-               <orth>eaglais</orth>
-            </form>
-            <def>building of church [sic].</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e406">
-            <form>
-               <orth>sèomar  eaglais</orth>
-               <pron>[sic]</pron>
-            </form>
-            <def>[sic] vestry. (RC)</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e415">
-            <form>
-               <orth>sèomar  na chlèire</orth>
-               <pron>[sic]</pron>
-            </form>
-            <def>[sic] vestry. (Protestant)</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-idola50">
-            <form>
-               <orth>[church building]</orth>
-            </form>
-            <def>(Old churches never had back rooms; generally there was just a small entry-way and then the church proper; in Protestant Churches there was no centre aisle.) <graphic url="CanadaMacKinnonetalecclesillust1.jpg" width="300px"/>
-            </def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e434">
-            <form>
-               <orth>cladh</orth>
-            </form>
-            <def>church-yard or burying-ground.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e443">
-            <form>
-               <orth>baile-phairiste</orth>
-            </form>
-            <def>church farm. (Old R.C. Churches nearly always include some farm land, much of which is still in use.)</def>
-         </entry>
-         <head
-             xml:id="Canada_CanadaMacKinnonetaleccles-d0e451"
-            >9. Church furniture and ornaments</head>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e456">
-            <form>
-               <orth>cubaid</orth>
-            </form>
-            <def>pulpit.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e465">
-            <form>
-               <orth>cliabh “altar”</orth>
-            </form>
-            <def>altar-rail.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e474">
-            <form>
-               <orth>tobar baiste</orth>
-            </form>
-            <def>baptismal font. (RC)</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e483">
-            <form>
-               <orth>mias baistich</orth>
-            </form>
-            <def>baptismal bowl. (Presbyterian)</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e492">
-            <form>
-               <orth>leun ( lian) “altar”</orth>
-               <pron>[pron.]</pron>
-            </form>
-            <def>[pron.] altar-cloths.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e501">
-            <form>
-               <orth>tubailt</orth>
-            </form>
-            <def>cover.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e510">
-            <form>
-               <orth>slighe na croise</orth>
-            </form>
-            <def>Stations of the Cross.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e519">
-            <form>
-               <orth>searrag bheag</orth>
-            </form>
-            <def>cruet.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e528">
-            <form>
-               <orth>iomhaidh</orth>
-            </form>
-            <def>statues [sic].</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e537">
-            <form>
-               <orth>bocsa tabhartas</orth>
-            </form>
-            <def>collection “box”.
-        <graphic url="CanadaMacKinnonetalecclesillust2.jpg" width="200px"/>
-            </def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e548">
-            <form>
-               <orth>suidheachan</orth>
-            </form>
-            <def>pews [sic].</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e557">
-            <form>
-               <orth>cupan</orth>
-            </form>
-            <def>goblet (at least for Protestant communion).</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e566">
-            <form>
-               <orth>uisge coisrige</orth>
-            </form>
-            <def>holy water.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e575">
-            <form>
-               <orth>griogachan</orth>
-            </form>
-            <def>rosary.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e584">
-            <form>
-               <orth>ceusach</orth>
-            </form>
-            <def>crucifix.</def>
-         </entry>
-         <head
-             xml:id="Canada_CanadaMacKinnonetaleccles-d0e592"
-            >10. Different services during the week, feast days, sacraments, Sunday school etc.</head>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e597">
-            <form>
-               <orth>ceisdeach</orth>
-            </form>
-            <def>catechism class. (RC)</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e606">
-            <form>
-               <orth>sgoil Shabaid</orth>
-            </form>
-            <def>Sunday School. (Protestant)</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e615">
-            <form>
-               <orth>coinneamh tighe</orth>
-            </form>
-            <def>house-service. [NOTES: ‘coinneamh’ added in second hand.]</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e624">
-            <form>
-               <orth>ullachadh</orth>
-            </form>
-            <def>preparatory service (Prot) – Thurs-Sat.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e633">
-            <form>
-               <orth>comanachadh</orth>
-            </form>
-            <def>communion or communion service.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e642">
-            <form>
-               <orth>taingeaileachd</orth>
-            </form>
-            <def>thanksgiving service (Monday).</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e651">
-            <form>
-               <orth>urnaigh</orth>
-            </form>
-            <def>prayer.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e660">
-            <form>
-               <orth>trusach</orth>
-            </form>
-            <def>(togail an airgiod – sic!) collection. (RC)</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e669">
-            <form>
-               <orth>togail an tabhartas</orth>
-            </form>
-            <def>collection. (Prot)</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e678">
-            <form>
-               <orth>searmon</orth>
-            </form>
-            <def>sermon.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e687">
-            <form>
-               <orth>co-dhùnadh</orth>
-            </form>
-            <def>closing. (Prot)</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e696">
-            <form>
-               <orth>beannachadh</orth>
-            </form>
-            <def>benediction. (RC)</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e705">
-            <form>
-               <orth>sgriobtair</orth>
-            </form>
-            <def>scripture (reading).</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e714">
-            <form>
-               <orth>salm</orth>
-            </form>
-            <def>psalm.</def>
-         </entry>
-         <head
-             xml:id="Canada_CanadaMacKinnonetaleccles-d0e722"
-            >11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</head>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e727">
-            <form>
-               <orth>dia</orth>
-            </form>
-            <def>God.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e736">
-            <form>
-               <orth>a dhia</orth>
-            </form>
-            <def>God! (RC) as in Dhia nan gràs!</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e745">
-            <form>
-               <orth>a dhé</orth>
-            </form>
-            <def>God! (Prot)</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e754">
-            <form>
-               <orth>tighearna</orth>
-            </form>
-            <def>Lord.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e763">
-            <form>
-               <orth>cruidhear (?)</orth>
-            </form>
-            <def>creator.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e772">
-            <form>
-               <orth>uile-cumachdach</orth>
-            </form>
-            <def>omnipotent.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e781">
-            <form>
-               <orth>slanaighear</orth>
-            </form>
-            <def>savior.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e790">
-            <form>
-               <orth>Criosd</orth>
-            </form>
-            <def>Christ.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e799">
-            <form>
-               <orth>(Iosa Criosd)</orth>
-            </form>
-            <def> (Jesus Christ)</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e808">
-            <form>
-               <orth>spiriod naomh</orth>
-            </form>
-            <def>Holy Spirit.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e817">
-            <form>
-               <orth>abstal</orth>
-            </form>
-            <def>apostle.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e826">
-            <form>
-               <orth>ainglean</orth>
-            </form>
-            <def>angels.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e835">
-            <form>
-               <orth>neamh</orth>
-            </form>
-            <def>Heaven.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e844">
-            <form>
-               <orth>(an) soisgeil</orth>
-            </form>
-            <def>the Gospel.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e853">
-            <form>
-               <orth>Moire Oigh</orth>
-            </form>
-            <def>Virgin Mary.</def>
-         </entry>
-         <head
-             xml:id="Canada_CanadaMacKinnonetaleccles-d0e861"
-            >12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</head>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e866">
-            <form>
-               <orth>sadan</orth>
-            </form>
-            <def>Satan.</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e875">
-            <form>
-               <orth>diabhol</orth>
-            </form>
-            <def>devil (seldom used).</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e884">
-            <form>
-               <orth>donas</orth>
-            </form>
-            <def>devil (more popular).</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e893">
-            <form>
-               <orth>ifrinn</orth>
-            </form>
-            <def>Hell (RC – both ecclesiastical and swear-word, as ‘Bheir ifrinn ort!’ (go to hell) but generally ecclesiastical for Protestants).</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e902">
-            <form>
-               <orth>iutharn</orth>
-            </form>
-            <def>hell (Protestant swear-word).</def>
-         </entry>
-         <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e911">
-            <form>
-               <orth>peacadh</orth>
-            </form>
-            <def>sin.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Canada_CanadaMacKinnonetaleccles">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: second hand, which in most cases appears to be the same as the first hand.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[1969]</date>
+        <location>
+          <placeName>Canada</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>Susan Norwood</persName>
+        </person>
+        <person role="informant">
+          <persName>S.J. MacKinnon</persName>
+          <birth>
+            <placeName>([Canada], Inverness Co.) – Roman Catholic</placeName>
+          </birth>
+        </person>
+        <person role="informant">
+          <persName>James MacKay</persName>
+          <birth>
+            <placeName>(Lochaber – [Canada], Inverness Co.) – Roman Catholic</placeName>
+          </birth>
+        </person>
+        <person role="informant">
+          <persName>ADE MacKinnon</persName>
+          <birth>
+            <placeName>(Skye – [Canada], Inverness and Victoria? Co.’s) – Protestant</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Ecclesiastical Terms</term>
+          <term>An Eaglais</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="Canada_CanadaMacKinnonetaleccles-d0e49">1. Various denominations</head>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e54">
+        <form>
+          <orth>eaglais phrosta(nach)</orth>
+        </form>
+        <def>Protestant churches in general. [NOTES: originally ‘prostanach’. Corrected by second hand.]</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e63">
+        <form>
+          <orth>eaglais chlèire</orth>
+        </form>
+        <def>Presbyterian Church. (Lochaber)</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e72">
+        <form>
+          <orth>eaglais na chlèire</orth>
+        </form>
+        <def>Presbyterian Church. (Skye)</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e81">
+        <form>
+          <orth>eaglais bhaisteach</orth>
+        </form>
+        <def>Baptist Church.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e90">
+        <form>
+          <orth>eaglais iontas</orth>
+        </form>
+        <def>United Church.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e99">
+        <form>
+          <orth>eaglais unaide</orth>
+        </form>
+        <def>United Church. [NOTES: ‘unaide’ added in second hand.]</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e108">
+        <form>
+          <orth>eaglais choimhthional</orth>
+        </form>
+        <def>Congregational Ch[urch].</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e117">
+        <form>
+          <orth>eaglais “method”-ach</orth>
+        </form>
+        <def>Methodist Ch[urch].</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e126">
+        <form>
+          <orth>[eaglais] “dòigheil”</orth>
+        </form>
+        <def>Methodist Ch[urch] (“dòigheil” – probably a nonce-formation).</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e135">
+        <form>
+          <orth>eaglais chatlaich</orth>
+        </form>
+        <def>Catholic Ch[urch].</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e144">
+        <form>
+          <orth>eaglais phàpanach</orth>
+        </form>
+        <def>Catholic Ch[urch].</def>
+      </entry>
+      <head xml:id="Canada_CanadaMacKinnonetaleccles-d0e152">2. Member of each of these denominations</head>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e157">
+        <form>
+          <orth>prostanach</orth>
+        </form>
+        <def>any Protestant.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e166">
+        <form>
+          <orth>pàpanach</orth>
+        </form>
+        <def>Catholic (occasionally catlaich).</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e175">
+        <form>
+          <orth>catlaich</orth>
+          <pron>[See pàpanach]</pron>
+        </form>
+        <def>[See pàpanach].</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e184">
+        <form>
+          <orth>baisteach</orth>
+        </form>
+        <def>Baptist.</def>
+      </entry>
+      <head xml:id="Canada_CanadaMacKinnonetaleccles-d0e192">3. Different courts of the Presbyterian churches</head>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e197">
+        <form>
+          <orth>cuirt na h-eaglais</orth>
+        </form>
+        <def>church court (prob. kirk session).</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-idola49">
+        <form>
+          <orth>[deacon’s court]</orth>
+        </form>
+        <def>(No deacon’s courts existed in N[ova] S[cotia].)</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e215">
+        <form>
+          <orth>clèir</orth>
+        </form>
+        <def>presbytery.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e224">
+        <form>
+          <orth>co-chruinneachadh</orth>
+        </form>
+        <def>assembly.</def>
+      </entry>
+      <head xml:id="Canada_CanadaMacKinnonetaleccles-d0e232">4. Members of the clergy and office-bearers with the Presbyterian churches</head>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e237" type="person">
+        <form>
+          <orth>ministeir</orth>
+        </form>
+        <def>minister.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e246" type="person">
+        <form>
+          <orth>teachdaire</orth>
+        </form>
+        <def>missionary.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e255" type="person">
+        <form>
+          <orth>aoidear</orth>
+        </form>
+        <def>elder. [NOTES: ‘aoidear’ added by second hand.]</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e264" type="person">
+        <form>
+          <orth>ceisdear</orth>
+        </form>
+        <def>catechist (lay preacher).</def>
+      </entry>
+      <head xml:id="Canada_CanadaMacKinnonetaleccles-d0e272">5. Members of the clergy and office-bearers in the Roman Catholic church</head>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e277" type="person">
+        <form>
+          <orth>esbuig</orth>
+        </form>
+        <def>bishop.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e286" type="person">
+        <form>
+          <orth>sacart</orth>
+        </form>
+        <def>priest (in address always “Maighstir Dain” etc. or “Athair”).</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e295" type="person">
+        <form>
+          <orth>gille-seirbhiseach</orth>
+        </form>
+        <def>altar-boy.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e304" type="person">
+        <form>
+          <orth>ban-crach</orth>
+        </form>
+        <def>nun. [NOTES: a note added in second hand – (ban-chràic’) [from?] cràbhach.]</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e313" type="person">
+        <form>
+          <orth>prìomh-dhiadhair</orth>
+        </form>
+        <def>cardinal.</def>
+      </entry>
+      <head xml:id="Canada_CanadaMacKinnonetaleccles-d0e321">6. Holy Orders within the Roman Catholic church</head>
+      <head xml:id="Canada_CanadaMacKinnonetaleccles-d0e325">7. Articles of dress or adornment</head>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e330">
+        <form>
+          <orth>còta aifhrionn</orth>
+        </form>
+        <def>alb.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e339">
+        <form>
+          <orth>lèine aifhrionn</orth>
+        </form>
+        <def>alb.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e348">
+        <form>
+          <orth>culaidh aifhrionn</orth>
+        </form>
+        <def>chasuble.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e357">
+        <form>
+          <orth>stal</orth>
+        </form>
+        <def>stole.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e366">
+        <form>
+          <orth>gòn dubh</orth>
+        </form>
+        <def>cassock (sometimes casag).</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e375">
+        <form>
+          <orth>gùn dubh</orth>
+        </form>
+        <def>cassock (sometimes casag).</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e384">
+        <form>
+          <orth>casag</orth>
+        </form>
+        <def>cassock.</def>
+      </entry>
+      <head xml:id="Canada_CanadaMacKinnonetaleccles-d0e392">8. Church building and churchyard</head>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e397">
+        <form>
+          <orth>eaglais</orth>
+        </form>
+        <def>building of church [sic].</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e406">
+        <form>
+          <orth>sèomar eaglais</orth>
+          <pron>[sic]</pron>
+        </form>
+        <def>[sic] vestry. (RC)</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e415">
+        <form>
+          <orth>sèomar na chlèire</orth>
+          <pron>[sic]</pron>
+        </form>
+        <def>[sic] vestry. (Protestant)</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-idola50">
+        <form>
+          <orth>[church building]</orth>
+        </form>
+        <def>(Old churches never had back rooms; generally there was just a small entry-way and then the church proper; in Protestant Churches there was no centre aisle.) <graphic
+            url="CanadaMacKinnonetalecclesillust1.jpg" width="300px"/>
+        </def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e434">
+        <form>
+          <orth>cladh</orth>
+        </form>
+        <def>church-yard or burying-ground.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e443">
+        <form>
+          <orth>baile-phairiste</orth>
+        </form>
+        <def>church farm. (Old R.C. Churches nearly always include some farm land, much of which is still in use.)</def>
+      </entry>
+      <head xml:id="Canada_CanadaMacKinnonetaleccles-d0e451">9. Church furniture and ornaments</head>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e456">
+        <form>
+          <orth>cubaid</orth>
+        </form>
+        <def>pulpit.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e465">
+        <form>
+          <orth>cliabh “altar”</orth>
+        </form>
+        <def>altar-rail.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e474">
+        <form>
+          <orth>tobar baiste</orth>
+        </form>
+        <def>baptismal font. (RC)</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e483">
+        <form>
+          <orth>mias baistich</orth>
+        </form>
+        <def>baptismal bowl. (Presbyterian)</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e492">
+        <form>
+          <orth>leun ( lian) “altar”</orth>
+          <pron>[pron.]</pron>
+        </form>
+        <def>[pron.] altar-cloths.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e501">
+        <form>
+          <orth>tubailt</orth>
+        </form>
+        <def>cover.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e510">
+        <form>
+          <orth>slighe na croise</orth>
+        </form>
+        <def>Stations of the Cross.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e519">
+        <form>
+          <orth>searrag bheag</orth>
+        </form>
+        <def>cruet.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e528">
+        <form>
+          <orth>iomhaidh</orth>
+        </form>
+        <def>statues [sic].</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e537">
+        <form>
+          <orth>bocsa tabhartas</orth>
+        </form>
+        <def>collection “box”. <graphic url="CanadaMacKinnonetalecclesillust2.jpg" width="200px"/>
+        </def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e548">
+        <form>
+          <orth>suidheachan</orth>
+        </form>
+        <def>pews [sic].</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e557">
+        <form>
+          <orth>cupan</orth>
+        </form>
+        <def>goblet (at least for Protestant communion).</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e566">
+        <form>
+          <orth>uisge coisrige</orth>
+        </form>
+        <def>holy water.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e575">
+        <form>
+          <orth>griogachan</orth>
+        </form>
+        <def>rosary.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e584">
+        <form>
+          <orth>ceusach</orth>
+        </form>
+        <def>crucifix.</def>
+      </entry>
+      <head xml:id="Canada_CanadaMacKinnonetaleccles-d0e592">10. Different services during the week, feast days, sacraments, Sunday school etc.</head>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e597">
+        <form>
+          <orth>ceisdeach</orth>
+        </form>
+        <def>catechism class. (RC)</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e606">
+        <form>
+          <orth>sgoil Shabaid</orth>
+        </form>
+        <def>Sunday School. (Protestant)</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e615">
+        <form>
+          <orth>coinneamh tighe</orth>
+        </form>
+        <def>house-service. [NOTES: ‘coinneamh’ added in second hand.]</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e624">
+        <form>
+          <orth>ullachadh</orth>
+        </form>
+        <def>preparatory service (Prot) – Thurs-Sat.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e633">
+        <form>
+          <orth>comanachadh</orth>
+        </form>
+        <def>communion or communion service.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e642">
+        <form>
+          <orth>taingeaileachd</orth>
+        </form>
+        <def>thanksgiving service (Monday).</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e651">
+        <form>
+          <orth>urnaigh</orth>
+        </form>
+        <def>prayer.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e660">
+        <form>
+          <orth>trusach</orth>
+        </form>
+        <def>(togail an airgiod – sic!) collection. (RC)</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e669">
+        <form>
+          <orth>togail an tabhartas</orth>
+        </form>
+        <def>collection. (Prot)</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e678">
+        <form>
+          <orth>searmon</orth>
+        </form>
+        <def>sermon.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e687">
+        <form>
+          <orth>co-dhùnadh</orth>
+        </form>
+        <def>closing. (Prot)</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e696">
+        <form>
+          <orth>beannachadh</orth>
+        </form>
+        <def>benediction. (RC)</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e705">
+        <form>
+          <orth>sgriobtair</orth>
+        </form>
+        <def>scripture (reading).</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e714">
+        <form>
+          <orth>salm</orth>
+        </form>
+        <def>psalm.</def>
+      </entry>
+      <head xml:id="Canada_CanadaMacKinnonetaleccles-d0e722">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers etc.</head>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e727">
+        <form>
+          <orth>dia</orth>
+        </form>
+        <def>God.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e736">
+        <form>
+          <orth>a dhia</orth>
+        </form>
+        <def>God! (RC) as in Dhia nan gràs!</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e745">
+        <form>
+          <orth>a dhé</orth>
+        </form>
+        <def>God! (Prot)</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e754">
+        <form>
+          <orth>tighearna</orth>
+        </form>
+        <def>Lord.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e763">
+        <form>
+          <orth>cruidhear (?)</orth>
+        </form>
+        <def>creator.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e772">
+        <form>
+          <orth>uile-cumachdach</orth>
+        </form>
+        <def>omnipotent.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e781">
+        <form>
+          <orth>slanaighear</orth>
+        </form>
+        <def>savior.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e790">
+        <form>
+          <orth>Criosd</orth>
+        </form>
+        <def>Christ.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e799">
+        <form>
+          <orth>(Iosa Criosd)</orth>
+        </form>
+        <def> (Jesus Christ)</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e808">
+        <form>
+          <orth>spiriod naomh</orth>
+        </form>
+        <def>Holy Spirit.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e817" type="person"> 
+        <form>
+          <orth>abstal</orth>
+        </form>
+        <def>apostle.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e826">
+        <form>
+          <orth>ainglean</orth>
+        </form>
+        <def>angels.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e835">
+        <form>
+          <orth>neamh</orth>
+        </form>
+        <def>Heaven.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e844">
+        <form>
+          <orth>(an) soisgeil</orth>
+        </form>
+        <def>the Gospel.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e853">
+        <form>
+          <orth>Moire Oigh</orth>
+        </form>
+        <def>Virgin Mary.</def>
+      </entry>
+      <head xml:id="Canada_CanadaMacKinnonetaleccles-d0e861">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</head>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e866">
+        <form>
+          <orth>sadan</orth>
+        </form>
+        <def>Satan.</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e875">
+        <form>
+          <orth>diabhol</orth>
+        </form>
+        <def>devil (seldom used).</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e884">
+        <form>
+          <orth>donas</orth>
+        </form>
+        <def>devil (more popular).</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e893">
+        <form>
+          <orth>ifrinn</orth>
+        </form>
+        <def>Hell (RC – both ecclesiastical and swear-word, as ‘Bheir ifrinn ort!’ (go to hell) but generally ecclesiastical for Protestants).</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e902">
+        <form>
+          <orth>iutharn</orth>
+        </form>
+        <def>hell (Protestant swear-word).</def>
+      </entry>
+      <entry xml:id="Canada_CanadaMacKinnonetaleccles-d0e911">
+        <form>
+          <orth>peacadh</orth>
+        </form>
+        <def>sin.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

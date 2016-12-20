@@ -1,133 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_FearnanAMacEwanslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>1975</date>
-            <location>
-               <placeName>Perthshire, Fearnan</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[Tony Dilworth?]</persName>
-            </person>
-            <person role="informant">
-               <persName>Alex MacEwan</persName>
-               <age>c. 85</age>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_FearnanAMacEwanslips-idp166269256">
-            <form>
-               <orth>péillin</orth>
-               <pron>[pɛ̜ḻinʹ]</pron>
-            </form>
-            <def>[pɛ̜ḻinʹ] Notes: wire fencing.</def>
-         </entry>
-         <entry xml:id="Slips_FearnanAMacEwanslips-idp166266160">
-            <form>
-               <orth>saidhe</orth>
-               <pron>[s[ɑi]</pron>
-            </form>
-            <def>[s[ɑi]] Notes: hay.</def>
-         </entry>
-         <entry xml:id="Slips_FearnanAMacEwanslips-idp166282216">
-            <form>
-               <orth>trùghan</orth>
-               <pron>[tru̟ən]</pron>
-            </form>
-            <def>[tru̟ən] Notes: trowel.</def>
-         </entry>
-         <entry xml:id="Slips_FearnanAMacEwanslips-idp166283944">
-            <form>
-               <orth>uinnseann</orth>
-               <pron>[ũ̟ĩʃən]</pron>
-            </form>
-            <def>[ũ̟ĩʃən] </def>
-         </entry>
-         <entry xml:id="Slips_FearnanAMacEwanslips-idp166285672">
-            <form>
-               <orth>balg-séid</orth>
-            </form>
-            <def>Notes: bellows.</def>
-         </entry>
-         <entry xml:id="Slips_FearnanAMacEwanslips-idp166287184">
-            <form>
-               <orth>cèardach</orth>
-               <pron>[kj[ɑu]</pron>
-            </form>
-            <def>[kj[ɑu]rd̪əx] Notes: smithy.</def>
-         </entry>
-         <entry xml:id="Slips_FearnanAMacEwanslips-idp166289344">
-            <form>
-               <orth>feàrn</orth>
-               <pron>[fjɛorn]</pron>
-            </form>
-            <def>[fjɛorn] Notes: alder.</def>
-         </entry>
-         <entry xml:id="Slips_FearnanAMacEwanslips-idp166291072">
-            <form>
-               <orth>Fearnan</orth>
-               <pron>[fjɔrnən]</pron>
-            </form>
-            <def>[fjɔrnən] Notes: place-name.</def>
-         </entry>
-         <entry xml:id="Slips_FearnanAMacEwanslips-idp166292800">
-            <form>
-               <orth>figheadair</orth>
-               <pron>[fi:d̪ər]</pron>
-            </form>
-            <def>[fi:d̪ər] Notes: ‘weaver’.</def>
-         </entry>
-         <entry xml:id="Slips_FearnanAMacEwanslips-idp166294528">
-            <form>
-               <orth>geata</orth>
-               <pron>[ɡʹaʰt]</pron>
-            </form>
-            <def>[ɡʹaʰt] </def>
-         </entry>
-         <entry xml:id="Slips_FearnanAMacEwanslips-idp166296256">
-            <form>
-               <orth>gobha</orth>
-               <pron>[ɡ[ɑu]</pron>
-            </form>
-            <def>[ɡ[ɑu]ʼın] [?] Notes: nominative?</def>
-         </entry>
-         <entry xml:id="Slips_FearnanAMacEwanslips-idp166298488">
-            <form>
-               <orth>greusaiche</orth>
-               <pron>[ɡrɛ̜:siç]</pron>
-            </form>
-            <def>[ɡrɛ̜:siç] </def>
-         </entry>
-         <entry xml:id="Slips_FearnanAMacEwanslips-idp166300216">
-            <form>
-               <orth>gual</orth>
-               <pron>[ɡɔˈəɫ]</pron>
-            </form>
-            <def>[ɡɔˈəɫ] Notes: N.B. pron.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>1975</date>
+        <location>
+          <placeName>Perthshire, Fearnan</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[Tony Dilworth?]</persName>
+        </person>
+        <person role="informant">
+          <persName>Alex MacEwan</persName>
+          <age>c. 85</age>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_FearnanAMacEwanslips-idp166269256">
+        <form>
+          <orth>péillin</orth>
+          <pron>[pɛ̜ḻinʹ]</pron>
+        </form>
+        <def>[pɛ̜ḻinʹ] Notes: wire fencing.</def>
+      </entry>
+      <entry xml:id="Slips_FearnanAMacEwanslips-idp166266160">
+        <form>
+          <orth>saidhe</orth>
+          <pron>[s[ɑi]</pron>
+        </form>
+        <def>[s[ɑi]] Notes: hay.</def>
+      </entry>
+      <entry xml:id="Slips_FearnanAMacEwanslips-idp166282216">
+        <form>
+          <orth>trùghan</orth>
+          <pron>[tru̟ən]</pron>
+        </form>
+        <def>[tru̟ən] Notes: trowel.</def>
+      </entry>
+      <entry xml:id="Slips_FearnanAMacEwanslips-idp166283944">
+        <form>
+          <orth>uinnseann</orth>
+          <pron>[ũ̟ĩʃən]</pron>
+        </form>
+        <def>[ũ̟ĩʃən] </def>
+      </entry>
+      <entry xml:id="Slips_FearnanAMacEwanslips-idp166285672">
+        <form>
+          <orth>balg-séid</orth>
+        </form>
+        <def>Notes: bellows.</def>
+      </entry>
+      <entry xml:id="Slips_FearnanAMacEwanslips-idp166287184" type="person">
+        <form>
+          <orth>cèardach</orth>
+          <pron>[kj[ɑu]</pron>
+        </form>
+        <def>[kj[ɑu]rd̪əx] Notes: smithy.</def>
+      </entry>
+      <entry xml:id="Slips_FearnanAMacEwanslips-idp166289344">
+        <form>
+          <orth>feàrn</orth>
+          <pron>[fjɛorn]</pron>
+        </form>
+        <def>[fjɛorn] Notes: alder.</def>
+      </entry>
+      <entry xml:id="Slips_FearnanAMacEwanslips-idp166291072">
+        <form>
+          <orth>Fearnan</orth>
+          <pron>[fjɔrnən]</pron>
+        </form>
+        <def>[fjɔrnən] Notes: place-name.</def>
+      </entry>
+      <entry xml:id="Slips_FearnanAMacEwanslips-idp166292800" type="person">
+        <form>
+          <orth>figheadair</orth>
+          <pron>[fi:d̪ər]</pron>
+        </form>
+        <def>[fi:d̪ər] Notes: ‘weaver’.</def>
+      </entry>
+      <entry xml:id="Slips_FearnanAMacEwanslips-idp166294528">
+        <form>
+          <orth>geata</orth>
+          <pron>[ɡʹaʰt]</pron>
+        </form>
+        <def>[ɡʹaʰt] </def>
+      </entry>
+      <entry xml:id="Slips_FearnanAMacEwanslips-idp166296256">
+        <form>
+          <orth>gobha</orth>
+          <pron>[ɡ[ɑu]</pron>
+        </form>
+        <def>[ɡ[ɑu]ʼın] [?] Notes: nominative?</def>
+      </entry>
+      <entry xml:id="Slips_FearnanAMacEwanslips-idp166298488">
+        <form>
+          <orth>greusaiche</orth>
+          <pron>[ɡrɛ̜:siç]</pron>
+        </form>
+        <def>[ɡrɛ̜:siç] </def>
+      </entry>
+      <entry xml:id="Slips_FearnanAMacEwanslips-idp166300216">
+        <form>
+          <orth>gual</orth>
+          <pron>[ɡɔˈəɫ]</pron>
+        </form>
+        <def>[ɡɔˈəɫ] Notes: N.B. pron.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

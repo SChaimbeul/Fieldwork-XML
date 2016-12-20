@@ -1,792 +1,792 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_CaolisHMeekslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>10/1970</date>
-            <location>
-               <placeName>Tiree, Caolis</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[AJ Smith?]</persName>
-            </person>
-            <person role="informant">
-               <persName>H. Meek</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_CaolisHMeekslips-idp118998376">
-            <form>
-               <orth>ladhar</orth>
-            </form>
-            <def>Quotation: ladhar an ùird. Notes: the claw of a hammer.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp119000032">
-            <form>
-               <orth>latha</orth>
-            </form>
-            <def>Quotation: latha nan car. Notes: April Fool’s Day.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp119001688">
-            <form>
-               <orth>leaba</orth>
-            </form>
-            <def>Quotation: brat leapadh. Notes: bedcover.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp119003344">
-            <form>
-               <orth>leamhnagan</orth>
-            </form>
-            <def>Notes: sty.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp119004856">
-            <form>
-               <orth>leum-roid</orth>
-               <pron>[lʹe:mrɔdʹ]</pron>
-            </form>
-            <def>[lʹe:mrɔdʹ] Notes: a running jump.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp119006584">
-            <form>
-               <orth>liath</orth>
-            </form>
-            <def>Quotation: Tha an t-aran a’ liathadh. Notes: The bread is turning mouldy.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161875368">
-            <form>
-               <orth>lubraich</orth>
-               <pron>[ɫu̜bɾiç]</pron>
-            </form>
-            <def>[ɫu̜bɾiç] Quotation: a’ lubraich. Notes: splashing about in water.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161876880">
-            <form>
-               <orth>mala</orth>
-            </form>
-            <def>Notes: forehead.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161878608">
-            <form>
-               <orth>mealtrag</orth>
-               <pron>[mjɑɫt̪ɾɑɡ]</pron>
-            </form>
-            <def>[mjɑɫt̪ɾɑɡ] Notes: roots of grass growing in sand – used for scraping pots.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161879256">
-            <form>
-               <orth>meilicheartan</orth>
-               <pron>[meliçɑʴsṯəṉ]</pron>
-            </form>
-            <def>[meliçɑʴsṯəṉ] Notes: chilblains. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161881128">
-            <form>
-               <orth>rabaid</orth>
-               <pron>[rɑbɑdʹ]</pron>
-            </form>
-            <def>[rɑbɑdʹ] Notes: rubbish.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161883288">
-            <form>
-               <orth>rasg</orth>
-            </form>
-            <def>Notes: eyelash.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161884944">
-            <form>
-               <orth>rideais</orth>
-               <pron>[ridʹɑʃ]</pron>
-            </form>
-            <def>[ridʹɑʃ] Quotation: Tha na h-uain a’ [ridʹɑʃ]. Notes: gambolling.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161887968">
-            <form>
-               <orth>rìnne</orth>
-               <pron>[rĩ:nʹə]</pron>
-            </form>
-            <def>[rĩ:nʹə] Notes: a line of reefs.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161889264">
-            <form>
-               <orth>roid</orth>
-            </form>
-            <def>Quotation: Theid mi ann airson roid bheag. Notes: I’ll go there for a brief visit.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161890776">
-            <form>
-               <orth>rolag</orth>
-            </form>
-            <def>Notes: strip of carded wool.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161892576">
-            <form>
-               <orth>rùdan</orth>
-            </form>
-            <def>Notes: knuckle.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161894088">
-            <form>
-               <orth>air</orth>
-            </form>
-            <def>Quotation: Tha a’ ghealach a dol air a h-ais.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161822376">
-            <form>
-               <orth>ais</orth>
-            </form>
-            <def>Quotation: Tha a’ ghealach a dol air a h-ais.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161820576">
-            <form>
-               <orth>iall</orth>
-            </form>
-            <def>Notes: waxed thread used to sew the shoe.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161854344">
-            <form>
-               <orth>nigh</orth>
-            </form>
-            <def>Quotation: [ṉiç] mi m’ aodann. Notes: I washed my face.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161850528">
-            <form>
-               <orth>òban</orth>
-            </form>
-            <def>Notes: raised patch of ground in a wet or marshy place.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161845488">
-            <form>
-               <orth>panaisgeag</orth>
-               <pron>[pɑ̃ṉiʃɡʹɑɡ]</pron>
-            </form>
-            <def>[pɑ̃ṉiʃɡʹɑɡ] Notes: pancake. (Colonsay)</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161842824">
-            <form>
-               <orth>piorsa</orth>
-               <pron>[pjwrsə]</pron>
-            </form>
-            <def>[pjwrsə] [sic] Notes: the iron band with the loop on it at the end of the swingle-tree.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161901000">
-            <form>
-               <orth>plubail</orth>
-               <pron>[pɫu̜bəl]</pron>
-            </form>
-            <def>[pɫu̜bəl] Notes: plopping sound of water.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161901216">
-            <form>
-               <orth>pràiseach</orth>
-            </form>
-            <def>Notes: cast iron.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161911800">
-            <form>
-               <orth>pronnasd</orth>
-               <pron>[pɾɔ̃n̪əsd̪]</pron>
-            </form>
-            <def>[pɾɔ̃n̪əsd̪] Notes: sulphur.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161909640">
-            <form>
-               <orth>purp</orth>
-               <pron>[pu̟ɾp]</pron>
-            </form>
-            <def>[pu̟ɾp] Quotation: Cha robh am purp sin innt. Notes: heard a Balemartin man use this for “gumption”.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161908776">
-            <form>
-               <orth>purraich</orth>
-            </form>
-            <def>Quotation: Chaidh a h-uile rud a bh’ann purraich air tharraich. Notes: hurly burly.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161906832">
-            <form>
-               <orth>seall</orth>
-            </form>
-            <def>Quotation: Chaidh mi ga shealltainn. Bha mi ga shealltainn an raoir. Notes: I went to see him. I visited him last night.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161904528">
-            <form>
-               <orth>seisreach</orth>
-            </form>
-            <def>Notes: a pair of horses.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161906112">
-            <form>
-               <orth>sgudalaich</orth>
-            </form>
-            <def>Notes: messing about in water.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161902656">
-            <form>
-               <orth>siolag</orth>
-            </form>
-            <def>Notes: sand-eel.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161900496">
-            <form>
-               <orth>sleadhan</orth>
-               <pron>[ʃlʹɛɑṉ]</pron>
-            </form>
-            <def>[ʃlʹɛɑṉ] Notes: wooden spurtle.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161899272">
-            <form>
-               <orth>slinntear</orth>
-               <pron>[ʃlʹĩ:nʹtʹɑɾ]</pron>
-            </form>
-            <def>[ʃlʹĩ:nʹtʹɑɾ] Notes: stone lintel above door or window.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161895240">
-            <form>
-               <orth>smigead</orth>
-               <pron>[smĩɡʹəd̪]</pron>
-            </form>
-            <def>[smĩɡʹəd̪] Notes: chin.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161895960">
-            <form>
-               <orth>sotal (sic)</orth>
-               <pron>[sɔt̪ɑɫ]</pron>
-            </form>
-            <def>[sɔt̪ɑɫ] Quotation: Rinn an cù sotal rium. Notes: adj. sotalach [sɔt̪ɑɫɑx]. Sodal.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp161898696">
-            <form>
-               <orth>steall</orth>
-            </form>
-            <def>Quotation: steall throm. Notes: a heavy shower.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp115474880">
-            <form>
-               <orth>strap</orth>
-            </form>
-            <def>Quotation: strap na cìche. Notes: bell of the cartwheel hub.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp115485104">
-            <form>
-               <orth>struaic</orth>
-               <pron>[st̪ɾu̟ɤçc]</pron>
-            </form>
-            <def>[st̪ɾu̟ɤçc] Quotation: Thuit struaic dheth. Notes: a large portion.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp115450904">
-            <form>
-               <orth>sùil-chrith</orth>
-            </form>
-            <def>Notes: quagmire.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp115471568">
-            <form>
-               <orth>teanga</orth>
-            </form>
-            <def>Quotation: Tha e a’ falbh ’s a theanga air a ghualainn. Notes: indiscriminate repetition of what one has heard.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp115465520">
-            <form>
-               <orth>tharraich</orth>
-            </form>
-            <def>Quotation: Chaidh a h-uile rud a bh’ann purraich air tharraich. Notes: hurly burly.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp115441256">
-            <form>
-               <orth>toman-madaidh</orth>
-               <pron>[t̪omɑ̃ṉmɑd̪iç]</pron>
-            </form>
-            <def>[t̪omɑ̃ṉmɑd̪iç] Notes: hump of grass growing in a place where a dog excretes. Other beasts won’t go near it.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166261976">
-            <form>
-               <orth>tosgaid</orth>
-            </form>
-            <def>Notes: hogshead.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166263488">
-            <form>
-               <orth>tòthan</orth>
-               <pron>[t̪ɔ:hɑṉ]</pron>
-            </form>
-            <def>[t̪ɔ:hɑṉ] Notes: green circle of grass on the machair.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166265216">
-            <form>
-               <orth>bainne</orth>
-            </form>
-            <def>Quotation: bainne gun ghaoth. Notes: made by plunging a red-hot poker into fresh milk and stirring it. Singed taste. Given to persons with stomach trouble.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166266872">
-            <form>
-               <orth>bàn</orth>
-            </form>
-            <def>Quotation: Each air a’ bhàn ’s each as a chlais. Notes: when ploughing, one horse in furrow, the other on part still unturned.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166268528">
-            <form>
-               <orth>baraglair</orth>
-            </form>
-            <def>Quotation: Tha e làn baraglair. Cha robh aige ach baraglair. Notes: empty talk.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166270256">
-            <form>
-               <orth>beustag-ghóbhlach</orth>
-               <pron>[be:st̪ɑɡɣo:ɫɑx]</pron>
-            </form>
-            <def>[be:st̪ɑɡɣo:ɫɑx] Notes: earwig.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166271984">
-            <form>
-               <orth>biadhaichean</orth>
-               <pron>[biɤiçəṉ]</pron>
-            </form>
-            <def>[biɤiçəṉ] Notes: lugworm.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166273712">
-            <form>
-               <orth>bloigh-eodha</orth>
-            </form>
-            <def>Notes: a fool of a man. Rev. N. MacDonald explained it as bloigh-sheadha, half-wit.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166275224">
-            <form>
-               <orth>braise</orth>
-               <pron>[bɾɑʃə]</pron>
-            </form>
-            <def>[bɾɑʃə] Quotation: Tha i braise. Notes: used of a young kitten playing.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166277096">
-            <form>
-               <orth>brat</orth>
-            </form>
-            <def>Quotation: brat leapadh. Notes: bedcover.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166278752">
-            <form>
-               <orth>briosgaid</orth>
-            </form>
-            <def>Notes: biscuit.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166280264">
-            <form>
-               <orth>brod</orth>
-            </form>
-            <def>Quotation: brod poiteadh. Notes: Colonsay, Islay for pot-lid.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166281920">
-            <form>
-               <orth>burrach</orth>
-               <pron>[bu̜rɔx]</pron>
-            </form>
-            <def>[bu̜rɔx] Notes: caterpillar.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166283648">
-            <form>
-               <orth>biorach</orth>
-               <pron>[bɛɾɑx]</pron>
-            </form>
-            <def>[bɛɾɑx] Notes: dogfish.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166285376">
-            <form>
-               <orth>cailleach-cheòsach</orth>
-            </form>
-            <def>Notes: slater (woodlouse).</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166286888">
-            <form>
-               <orth>car</orth>
-            </form>
-            <def>Quotation: Latha nan car. Notes: April Fool’s Day.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166288544">
-            <form>
-               <orth>carbhanach</orth>
-            </form>
-            <def>Notes: scaly, reddish, rounded body. Bream?</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166290056">
-            <form>
-               <orth>carrag</orth>
-            </form>
-            <def>Notes: the lump at the end of a piece of tangle where it sticks to the rock.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166291568">
-            <form>
-               <orth>caslachan</orth>
-               <pron>[kɑsɫɑxɑṉ]</pron>
-            </form>
-            <def>[kɑsɫɑxɑṉ] Notes: foot-board of the spinning-wheel.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166293296">
-            <form>
-               <orth>ceann-crìcheadh</orth>
-            </form>
-            <def>Quotation: Sin an ceann-crìcheadh aige. Notes: end, limit.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166294952">
-            <form>
-               <orth>cearc-thomain</orth>
-            </form>
-            <def>Notes: partridge.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166296464">
-            <form>
-               <orth>ceist</orth>
-            </form>
-            <def>Quotation: a’ cheist! Notes: a form of address.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166298120">
-            <form>
-               <orth>ceòban</orth>
-            </form>
-            <def>Quotation: ceòban uisge. Notes: a fine drizzle.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166299776">
-            <form>
-               <orth>ciasgrach</orth>
-            </form>
-            <def>Quotation: Tha na neòil ciasgrach. Notes: threatening. (L. MacLean, Glasgow (Tiree) – ciasgranach)</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166301432">
-            <form>
-               <orth>cioch</orth>
-               <pron>[sic]</pron>
-            </form>
-            <def>[sic] Quotation: strap na cìche. Notes: bell of the cartwheel hub.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166303088">
-            <form>
-               <orth>cìr</orth>
-            </form>
-            <def>Notes: flyer of spinning wheel.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166304600">
-            <form>
-               <orth>clach lìonain</orth>
-            </form>
-            <def>Quotation: clach [lĩ:ṉɑnʹ]. Notes: grindstone.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166306472">
-            <form>
-               <orth>clàd</orth>
-            </form>
-            <def>Notes: a scraper for scraping the floor etc. Long-handled with a broad, flat head.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166307984">
-            <form>
-               <orth>clàdan</orth>
-            </form>
-            <def>Notes: snowflake.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166309496">
-            <form>
-               <orth>clais</orth>
-            </form>
-            <def>Quotation: each air a’ bhàn ’s each as a’ chlais. Notes: when ploughing, one horse in the furrow, the other on uncultivated part.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166311224">
-            <form>
-               <orth>clòimhnteach</orth>
-               <pron>[kɫɔ̃:nʹtʹɔx]</pron>
-            </form>
-            <def>[kɫɔ̃:nʹtʹɔx] Quotation: Tha clòimhnteach a tighinn roimhe. Notes: fungus.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166313096">
-            <form>
-               <orth>cnap-glùine</orth>
-            </form>
-            <def>Notes: kneecap.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166314608">
-            <form>
-               <orth>co-aois</orth>
-               <pron>[k[ɔ̃ĩ]</pron>
-            </form>
-            <def>[k[ɔ̃ĩ]ɑʃ] Notes: person of the same age.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166316768">
-            <form>
-               <orth>coileach-gòthan</orth>
-               <pron>[kɤlɑxɡɔ:ɑṉ]</pron>
-            </form>
-            <def>[kɤlɑxɡɔ:ɑṉ] Notes: potato with feathers stuck in it – blown by the wind along the ground.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166318496">
-            <form>
-               <orth>coimhead</orth>
-            </form>
-            <def>Quotation: Bha mi ga choimhead [xɛ̃əd̪] an raoir.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166320296">
-            <form>
-               <orth>colamadh</orth>
-            </form>
-            <def>Notes: blending of different colours of wool.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166321808">
-            <form>
-               <orth>comaladh</orth>
-            </form>
-            <def>Quotation: Mur e a bh’ann ’se [xɔ̃mɑɫəɣ] a bh’ann. Notes: his likeness.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166323752">
-            <form>
-               <orth>conachag</orth>
-            </form>
-            <def>Notes: a “roaring buckie”.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166325264">
-            <form>
-               <orth>conan-mara</orth>
-            </form>
-            <def>Notes: sea-urchin.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166326776">
-            <form>
-               <orth>cota-biorach</orth>
-            </form>
-            <def>Notes: coat with a pointed tail on it.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166328288">
-            <form>
-               <orth>criathar-tomhais</orth>
-            </form>
-            <def>Notes: a “criathar” without holes used as a measure for grain or meal. A bushel.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166329800">
-            <form>
-               <orth>crosgag</orth>
-            </form>
-            <def>Notes: starfish.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166331312">
-            <form>
-               <orth>crùban</orth>
-            </form>
-            <def>Notes: crab.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166332824">
-            <form>
-               <orth>cruinn-leum</orth>
-            </form>
-            <def>Quotation: Bha an t-each na chruinn-leum. Notes: at the gallop.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166334480">
-            <form>
-               <orth>cuibheall-chrò</orth>
-            </form>
-            <def>Notes: home-made toy. <graphic url="CaolisHMeekslipsillust1.jpg" width="500px"/> When the string is pulled the stick revolves and takes the string back in again.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166335992">
-            <form>
-               <orth>cuibheall-chrò</orth>
-               <pron>[ku̜ıəɫxɾɔ:]</pron>
-            </form>
-            <def>[ku̜ıəɫxɾɔ:] Notes: daddy-long-legs (acc. to him).</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166337720">
-            <form>
-               <orth>cupa</orth>
-               <pron>[ku̟pə]</pron>
-            </form>
-            <def>[ku̟pə] Notes: cup.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166339448">
-            <form>
-               <orth>deargan-tràghad</orth>
-            </form>
-            <def>Notes: a small soft reddish fish found under stones inshore. In pools when the tide is out. Possibly a young ling (same characteristics).</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166340960">
-            <form>
-               <orth>deigheannach</orth>
-               <pron>[dʹehən̪ɑx]</pron>
-            </form>
-            <def>[dʹehən̪ɑx] Notes: ice.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166342688">
-            <form>
-               <orth>deiseag</orth>
-               <pron>[dʹeʃɑɡ]</pron>
-            </form>
-            <def>[dʹeʃɑɡ] Notes: type of “portan”.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166344416">
-            <form>
-               <orth>dòrlinn</orth>
-               <pron>[d̪ɔ:ɾlʹĩnʹ]</pron>
-            </form>
-            <def>[d̪ɔ:ɾlʹĩnʹ] Notes: ridge formed by gravel, sand, e.g. between islands. Can walk over it at low tide.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166346144">
-            <form>
-               <orth>duilleag</orth>
-            </form>
-            <def>Notes: petal of a flower.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166347656">
-            <form>
-               <orth>eachan</orth>
-            </form>
-            <def>Notes: winder for making hanks of wool.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166349168">
-            <form>
-               <orth>earrann</orth>
-            </form>
-            <def>Notes: portion.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166350680">
-            <form>
-               <orth>easan</orth>
-               <pron>[esɑṉ]</pron>
-            </form>
-            <def>[esɑṉ] Notes: oatmeal soaked in water. Water poured off, heated and milk added. For children.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166352408">
-            <form>
-               <orth>faoileann-mhór</orth>
-            </form>
-            <def>Notes: black-backed gull.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166353920">
-            <form>
-               <orth>farmail</orth>
-            </form>
-            <def>Notes: wooden vessel for holding water indoors. Two handles on it.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166355432">
-            <form>
-               <orth>fasgnag</orth>
-            </form>
-            <def>Notes: roughly similar to “criathar” but very shallow and without holes in the skin.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166356944">
-            <form>
-               <orth>fearsd</orth>
-               <pron>[fɛʴsd̪]</pron>
-            </form>
-            <def>[fɛʴsd̪] Notes: for “fearsaid”. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166358816">
-            <form>
-               <orth>fleat</orth>
-               <pron>[flɛt̪]</pron>
-            </form>
-            <def>[flɛt̪] Notes: saucer.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166360544">
-            <form>
-               <orth>fliasgan</orth>
-               <pron>[flıɑsɡɑ̃ṉ]</pron>
-            </form>
-            <def>[flıɑsɡɑ̃ṉ] Notes: mussel.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166362272">
-            <form>
-               <orth>friodhan</orth>
-            </form>
-            <def>Notes: sow’s bristle.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166363784">
-            <form>
-               <orth>friofagan</orth>
-            </form>
-            <def>Notes: ragnails.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166365296">
-            <form>
-               <orth>froighneadh</orth>
-               <pron>[fɾ[ɤi]</pron>
-            </form>
-            <def>[fɾ[ɤi]nʹəɣ] Quotation: Bha froighneadh air. Notes: He was cross, crabbit.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166367600">
-            <form>
-               <orth>fuileaman</orth>
-            </form>
-            <def>Notes: a spot of blood under the skin brought on by a nip.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166369184">
-            <form>
-               <orth>gaoth</orth>
-            </form>
-            <def>Quotation: bainne gun ghaoth. Notes: made by plunging a red-hot poker into fresh milk and stirring it. Singed taste. Given to a person who had stomach trouble.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166370840">
-            <form>
-               <orth>gealach</orth>
-            </form>
-            <def>Quotation: Tha a’ ghealach a’ dol air a h-ais.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166372352">
-            <form>
-               <orth>giodal</orth>
-               <pron>[ɡıd̪ɑɫ]</pron>
-            </form>
-            <def>[ɡıd̪ɑɫ] Quotation: Tha e làn giodail. Notes: used of a dog showing pleasure.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166374224">
-            <form>
-               <orth>gìogan</orth>
-            </form>
-            <def>Quotation: Far am bi gìogan bi guagan. Notes: parallel of “Thachair sruth ri steall”.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166375880">
-            <form>
-               <orth>gocan</orth>
-            </form>
-            <def>Quotation: gocan cuthaig.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166377392">
-            <form>
-               <orth>gràitinn</orth>
-            </form>
-            <def>Notes: a’ graitinn [sic] and a’ gradhainn fairly common in Tiree.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166378904">
-            <form>
-               <orth>greallathaich</orth>
-               <pron>[ɡɾɛɫɑhiç]</pron>
-            </form>
-            <def>[ɡɾɛɫɑhiç] Notes: rubbish.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166380632">
-            <form>
-               <orth>guagan</orth>
-               <pron>[ɡu̟ɤɡɑṉ]</pron>
-            </form>
-            <def>[ɡu̟ɤɡɑṉ] Quotation: Far am bi gìogan bi guagan. Notes: parallel of “Thachair sruth ri steall”.</def>
-         </entry>
-         <entry xml:id="Slips_CaolisHMeekslips-idp166382504">
-            <form>
-               <orth>gualainn</orth>
-            </form>
-            <def>Quotation: Tha e a’ falbh ’s a theanga air a’ ghualainn. Notes: indiscriminate repetition of what one has heard.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>10/1970</date>
+        <location>
+          <placeName>Tiree, Caolis</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[AJ Smith?]</persName>
+        </person>
+        <person role="informant">
+          <persName>H. Meek</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_CaolisHMeekslips-idp118998376">
+        <form>
+          <orth>ladhar</orth>
+        </form>
+        <def>Quotation: ladhar an ùird. Notes: the claw of a hammer.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp119000032">
+        <form>
+          <orth>latha</orth>
+        </form>
+        <def>Quotation: latha nan car. Notes: April Fool’s Day.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp119001688">
+        <form>
+          <orth>leaba</orth>
+        </form>
+        <def>Quotation: brat leapadh. Notes: bedcover.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp119003344">
+        <form>
+          <orth>leamhnagan</orth>
+        </form>
+        <def>Notes: sty.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp119004856">
+        <form>
+          <orth>leum-roid</orth>
+          <pron>[lʹe:mrɔdʹ]</pron>
+        </form>
+        <def>[lʹe:mrɔdʹ] Notes: a running jump.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp119006584">
+        <form>
+          <orth>liath</orth>
+        </form>
+        <def>Quotation: Tha an t-aran a’ liathadh. Notes: The bread is turning mouldy.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161875368">
+        <form>
+          <orth>lubraich</orth>
+          <pron>[ɫu̜bɾiç]</pron>
+        </form>
+        <def>[ɫu̜bɾiç] Quotation: a’ lubraich. Notes: splashing about in water.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161876880">
+        <form>
+          <orth>mala</orth>
+        </form>
+        <def>Notes: forehead.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161878608">
+        <form>
+          <orth>mealtrag</orth>
+          <pron>[mjɑɫt̪ɾɑɡ]</pron>
+        </form>
+        <def>[mjɑɫt̪ɾɑɡ] Notes: roots of grass growing in sand – used for scraping pots.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161879256">
+        <form>
+          <orth>meilicheartan</orth>
+          <pron>[meliçɑʴsṯəṉ]</pron>
+        </form>
+        <def>[meliçɑʴsṯəṉ] Notes: chilblains. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161881128">
+        <form>
+          <orth>rabaid</orth>
+          <pron>[rɑbɑdʹ]</pron>
+        </form>
+        <def>[rɑbɑdʹ] Notes: rubbish.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161883288">
+        <form>
+          <orth>rasg</orth>
+        </form>
+        <def>Notes: eyelash.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161884944">
+        <form>
+          <orth>rideais</orth>
+          <pron>[ridʹɑʃ]</pron>
+        </form>
+        <def>[ridʹɑʃ] Quotation: Tha na h-uain a’ [ridʹɑʃ]. Notes: gambolling.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161887968">
+        <form>
+          <orth>rìnne</orth>
+          <pron>[rĩ:nʹə]</pron>
+        </form>
+        <def>[rĩ:nʹə] Notes: a line of reefs.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161889264">
+        <form>
+          <orth>roid</orth>
+        </form>
+        <def>Quotation: Theid mi ann airson roid bheag. Notes: I’ll go there for a brief visit.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161890776">
+        <form>
+          <orth>rolag</orth>
+        </form>
+        <def>Notes: strip of carded wool.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161892576">
+        <form>
+          <orth>rùdan</orth>
+        </form>
+        <def>Notes: knuckle.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161894088">
+        <form>
+          <orth>air</orth>
+        </form>
+        <def>Quotation: Tha a’ ghealach a dol air a h-ais.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161822376">
+        <form>
+          <orth>ais</orth>
+        </form>
+        <def>Quotation: Tha a’ ghealach a dol air a h-ais.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161820576">
+        <form>
+          <orth>iall</orth>
+        </form>
+        <def>Notes: waxed thread used to sew the shoe.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161854344">
+        <form>
+          <orth>nigh</orth>
+        </form>
+        <def>Quotation: [ṉiç] mi m’ aodann. Notes: I washed my face.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161850528">
+        <form>
+          <orth>òban</orth>
+        </form>
+        <def>Notes: raised patch of ground in a wet or marshy place.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161845488">
+        <form>
+          <orth>panaisgeag</orth>
+          <pron>[pɑ̃ṉiʃɡʹɑɡ]</pron>
+        </form>
+        <def>[pɑ̃ṉiʃɡʹɑɡ] Notes: pancake. (Colonsay)</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161842824">
+        <form>
+          <orth>piorsa</orth>
+          <pron>[pjwrsə]</pron>
+        </form>
+        <def>[pjwrsə] [sic] Notes: the iron band with the loop on it at the end of the swingle-tree.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161901000">
+        <form>
+          <orth>plubail</orth>
+          <pron>[pɫu̜bəl]</pron>
+        </form>
+        <def>[pɫu̜bəl] Notes: plopping sound of water.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161901216">
+        <form>
+          <orth>pràiseach</orth>
+        </form>
+        <def>Notes: cast iron.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161911800">
+        <form>
+          <orth>pronnasd</orth>
+          <pron>[pɾɔ̃n̪əsd̪]</pron>
+        </form>
+        <def>[pɾɔ̃n̪əsd̪] Notes: sulphur.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161909640">
+        <form>
+          <orth>purp</orth>
+          <pron>[pu̟ɾp]</pron>
+        </form>
+        <def>[pu̟ɾp] Quotation: Cha robh am purp sin innt. Notes: heard a Balemartin man use this for “gumption”.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161908776">
+        <form>
+          <orth>purraich</orth>
+        </form>
+        <def>Quotation: Chaidh a h-uile rud a bh’ann purraich air tharraich. Notes: hurly burly.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161906832">
+        <form>
+          <orth>seall</orth>
+        </form>
+        <def>Quotation: Chaidh mi ga shealltainn. Bha mi ga shealltainn an raoir. Notes: I went to see him. I visited him last night.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161904528">
+        <form>
+          <orth>seisreach</orth>
+        </form>
+        <def>Notes: a pair of horses.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161906112">
+        <form>
+          <orth>sgudalaich</orth>
+        </form>
+        <def>Notes: messing about in water.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161902656">
+        <form>
+          <orth>siolag</orth>
+        </form>
+        <def>Notes: sand-eel.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161900496">
+        <form>
+          <orth>sleadhan</orth>
+          <pron>[ʃlʹɛɑṉ]</pron>
+        </form>
+        <def>[ʃlʹɛɑṉ] Notes: wooden spurtle.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161899272">
+        <form>
+          <orth>slinntear</orth>
+          <pron>[ʃlʹĩ:nʹtʹɑɾ]</pron>
+        </form>
+        <def>[ʃlʹĩ:nʹtʹɑɾ] Notes: stone lintel above door or window.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161895240">
+        <form>
+          <orth>smigead</orth>
+          <pron>[smĩɡʹəd̪]</pron>
+        </form>
+        <def>[smĩɡʹəd̪] Notes: chin.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161895960">
+        <form>
+          <orth>sotal (sic)</orth>
+          <pron>[sɔt̪ɑɫ]</pron>
+        </form>
+        <def>[sɔt̪ɑɫ] Quotation: Rinn an cù sotal rium. Notes: adj. sotalach [sɔt̪ɑɫɑx]. Sodal.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp161898696">
+        <form>
+          <orth>steall</orth>
+        </form>
+        <def>Quotation: steall throm. Notes: a heavy shower.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp115474880">
+        <form>
+          <orth>strap</orth>
+        </form>
+        <def>Quotation: strap na cìche. Notes: bell of the cartwheel hub.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp115485104">
+        <form>
+          <orth>struaic</orth>
+          <pron>[st̪ɾu̟ɤçc]</pron>
+        </form>
+        <def>[st̪ɾu̟ɤçc] Quotation: Thuit struaic dheth. Notes: a large portion.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp115450904">
+        <form>
+          <orth>sùil-chrith</orth>
+        </form>
+        <def>Notes: quagmire.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp115471568">
+        <form>
+          <orth>teanga</orth>
+        </form>
+        <def>Quotation: Tha e a’ falbh ’s a theanga air a ghualainn. Notes: indiscriminate repetition of what one has heard.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp115465520">
+        <form>
+          <orth>tharraich</orth>
+        </form>
+        <def>Quotation: Chaidh a h-uile rud a bh’ann purraich air tharraich. Notes: hurly burly.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp115441256">
+        <form>
+          <orth>toman-madaidh</orth>
+          <pron>[t̪omɑ̃ṉmɑd̪iç]</pron>
+        </form>
+        <def>[t̪omɑ̃ṉmɑd̪iç] Notes: hump of grass growing in a place where a dog excretes. Other beasts won’t go near it.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166261976">
+        <form>
+          <orth>tosgaid</orth>
+        </form>
+        <def>Notes: hogshead.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166263488">
+        <form>
+          <orth>tòthan</orth>
+          <pron>[t̪ɔ:hɑṉ]</pron>
+        </form>
+        <def>[t̪ɔ:hɑṉ] Notes: green circle of grass on the machair.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166265216">
+        <form>
+          <orth>bainne</orth>
+        </form>
+        <def>Quotation: bainne gun ghaoth. Notes: made by plunging a red-hot poker into fresh milk and stirring it. Singed taste. Given to persons with stomach trouble.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166266872">
+        <form>
+          <orth>bàn</orth>
+        </form>
+        <def>Quotation: Each air a’ bhàn ’s each as a chlais. Notes: when ploughing, one horse in furrow, the other on part still unturned.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166268528">
+        <form>
+          <orth>baraglair</orth>
+        </form>
+        <def>Quotation: Tha e làn baraglair. Cha robh aige ach baraglair. Notes: empty talk.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166270256">
+        <form>
+          <orth>beustag-ghóbhlach</orth>
+          <pron>[be:st̪ɑɡɣo:ɫɑx]</pron>
+        </form>
+        <def>[be:st̪ɑɡɣo:ɫɑx] Notes: earwig.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166271984">
+        <form>
+          <orth>biadhaichean</orth>
+          <pron>[biɤiçəṉ]</pron>
+        </form>
+        <def>[biɤiçəṉ] Notes: lugworm.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166273712" type="person">
+        <form>
+          <orth>bloigh-eodha</orth>
+        </form>
+        <def>Notes: a fool of a man. Rev. N. MacDonald explained it as bloigh-sheadha, half-wit.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166275224">
+        <form>
+          <orth>braise</orth>
+          <pron>[bɾɑʃə]</pron>
+        </form>
+        <def>[bɾɑʃə] Quotation: Tha i braise. Notes: used of a young kitten playing.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166277096">
+        <form>
+          <orth>brat</orth>
+        </form>
+        <def>Quotation: brat leapadh. Notes: bedcover.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166278752">
+        <form>
+          <orth>briosgaid</orth>
+        </form>
+        <def>Notes: biscuit.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166280264">
+        <form>
+          <orth>brod</orth>
+        </form>
+        <def>Quotation: brod poiteadh. Notes: Colonsay, Islay for pot-lid.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166281920">
+        <form>
+          <orth>burrach</orth>
+          <pron>[bu̜rɔx]</pron>
+        </form>
+        <def>[bu̜rɔx] Notes: caterpillar.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166283648">
+        <form>
+          <orth>biorach</orth>
+          <pron>[bɛɾɑx]</pron>
+        </form>
+        <def>[bɛɾɑx] Notes: dogfish.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166285376">
+        <form>
+          <orth>cailleach-cheòsach</orth>
+        </form>
+        <def>Notes: slater (woodlouse).</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166286888">
+        <form>
+          <orth>car</orth>
+        </form>
+        <def>Quotation: Latha nan car. Notes: April Fool’s Day.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166288544">
+        <form>
+          <orth>carbhanach</orth>
+        </form>
+        <def>Notes: scaly, reddish, rounded body. Bream?</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166290056">
+        <form>
+          <orth>carrag</orth>
+        </form>
+        <def>Notes: the lump at the end of a piece of tangle where it sticks to the rock.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166291568">
+        <form>
+          <orth>caslachan</orth>
+          <pron>[kɑsɫɑxɑṉ]</pron>
+        </form>
+        <def>[kɑsɫɑxɑṉ] Notes: foot-board of the spinning-wheel.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166293296">
+        <form>
+          <orth>ceann-crìcheadh</orth>
+        </form>
+        <def>Quotation: Sin an ceann-crìcheadh aige. Notes: end, limit.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166294952" type="bird">
+        <form>
+          <orth>cearc-thomain</orth>
+        </form>
+        <def>Notes: partridge.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166296464">
+        <form>
+          <orth>ceist</orth>
+        </form>
+        <def>Quotation: a’ cheist! Notes: a form of address.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166298120">
+        <form>
+          <orth>ceòban</orth>
+        </form>
+        <def>Quotation: ceòban uisge. Notes: a fine drizzle.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166299776">
+        <form>
+          <orth>ciasgrach</orth>
+        </form>
+        <def>Quotation: Tha na neòil ciasgrach. Notes: threatening. (L. MacLean, Glasgow (Tiree) – ciasgranach)</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166301432">
+        <form>
+          <orth>cioch</orth>
+          <pron>[sic]</pron>
+        </form>
+        <def>[sic] Quotation: strap na cìche. Notes: bell of the cartwheel hub.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166303088">
+        <form>
+          <orth>cìr</orth>
+        </form>
+        <def>Notes: flyer of spinning wheel.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166304600">
+        <form>
+          <orth>clach lìonain</orth>
+        </form>
+        <def>Quotation: clach [lĩ:ṉɑnʹ]. Notes: grindstone.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166306472">
+        <form>
+          <orth>clàd</orth>
+        </form>
+        <def>Notes: a scraper for scraping the floor etc. Long-handled with a broad, flat head.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166307984">
+        <form>
+          <orth>clàdan</orth>
+        </form>
+        <def>Notes: snowflake.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166309496">
+        <form>
+          <orth>clais</orth>
+        </form>
+        <def>Quotation: each air a’ bhàn ’s each as a’ chlais. Notes: when ploughing, one horse in the furrow, the other on uncultivated part.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166311224">
+        <form>
+          <orth>clòimhnteach</orth>
+          <pron>[kɫɔ̃:nʹtʹɔx]</pron>
+        </form>
+        <def>[kɫɔ̃:nʹtʹɔx] Quotation: Tha clòimhnteach a tighinn roimhe. Notes: fungus.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166313096">
+        <form>
+          <orth>cnap-glùine</orth>
+        </form>
+        <def>Notes: kneecap.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166314608">
+        <form>
+          <orth>co-aois</orth>
+          <pron>[k[ɔ̃ĩ]</pron>
+        </form>
+        <def>[k[ɔ̃ĩ]ɑʃ] Notes: person of the same age.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166316768">
+        <form>
+          <orth>coileach-gòthan</orth>
+          <pron>[kɤlɑxɡɔ:ɑṉ]</pron>
+        </form>
+        <def>[kɤlɑxɡɔ:ɑṉ] Notes: potato with feathers stuck in it – blown by the wind along the ground.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166318496">
+        <form>
+          <orth>coimhead</orth>
+        </form>
+        <def>Quotation: Bha mi ga choimhead [xɛ̃əd̪] an raoir.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166320296">
+        <form>
+          <orth>colamadh</orth>
+        </form>
+        <def>Notes: blending of different colours of wool.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166321808">
+        <form>
+          <orth>comaladh</orth>
+        </form>
+        <def>Quotation: Mur e a bh’ann ’se [xɔ̃mɑɫəɣ] a bh’ann. Notes: his likeness.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166323752">
+        <form>
+          <orth>conachag</orth>
+        </form>
+        <def>Notes: a “roaring buckie”.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166325264">
+        <form>
+          <orth>conan-mara</orth>
+        </form>
+        <def>Notes: sea-urchin.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166326776">
+        <form>
+          <orth>cota-biorach</orth>
+        </form>
+        <def>Notes: coat with a pointed tail on it.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166328288">
+        <form>
+          <orth>criathar-tomhais</orth>
+        </form>
+        <def>Notes: a “criathar” without holes used as a measure for grain or meal. A bushel.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166329800">
+        <form>
+          <orth>crosgag</orth>
+        </form>
+        <def>Notes: starfish.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166331312">
+        <form>
+          <orth>crùban</orth>
+        </form>
+        <def>Notes: crab.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166332824">
+        <form>
+          <orth>cruinn-leum</orth>
+        </form>
+        <def>Quotation: Bha an t-each na chruinn-leum. Notes: at the gallop.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166334480">
+        <form>
+          <orth>cuibheall-chrò</orth>
+        </form>
+        <def>Notes: home-made toy. <graphic url="CaolisHMeekslipsillust1.jpg" width="500px"/> When the string is pulled the stick revolves and takes the string back in again.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166335992">
+        <form>
+          <orth>cuibheall-chrò</orth>
+          <pron>[ku̜ıəɫxɾɔ:]</pron>
+        </form>
+        <def>[ku̜ıəɫxɾɔ:] Notes: daddy-long-legs (acc. to him).</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166337720">
+        <form>
+          <orth>cupa</orth>
+          <pron>[ku̟pə]</pron>
+        </form>
+        <def>[ku̟pə] Notes: cup.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166339448">
+        <form>
+          <orth>deargan-tràghad</orth>
+        </form>
+        <def>Notes: a small soft reddish fish found under stones inshore. In pools when the tide is out. Possibly a young ling (same characteristics).</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166340960">
+        <form>
+          <orth>deigheannach</orth>
+          <pron>[dʹehən̪ɑx]</pron>
+        </form>
+        <def>[dʹehən̪ɑx] Notes: ice.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166342688">
+        <form>
+          <orth>deiseag</orth>
+          <pron>[dʹeʃɑɡ]</pron>
+        </form>
+        <def>[dʹeʃɑɡ] Notes: type of “portan”.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166344416">
+        <form>
+          <orth>dòrlinn</orth>
+          <pron>[d̪ɔ:ɾlʹĩnʹ]</pron>
+        </form>
+        <def>[d̪ɔ:ɾlʹĩnʹ] Notes: ridge formed by gravel, sand, e.g. between islands. Can walk over it at low tide.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166346144">
+        <form>
+          <orth>duilleag</orth>
+        </form>
+        <def>Notes: petal of a flower.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166347656">
+        <form>
+          <orth>eachan</orth>
+        </form>
+        <def>Notes: winder for making hanks of wool.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166349168">
+        <form>
+          <orth>earrann</orth>
+        </form>
+        <def>Notes: portion.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166350680">
+        <form>
+          <orth>easan</orth>
+          <pron>[esɑṉ]</pron>
+        </form>
+        <def>[esɑṉ] Notes: oatmeal soaked in water. Water poured off, heated and milk added. For children.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166352408" type="bird">
+        <form>
+          <orth>faoileann-mhór</orth>
+        </form>
+        <def>Notes: black-backed gull.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166353920">
+        <form>
+          <orth>farmail</orth>
+        </form>
+        <def>Notes: wooden vessel for holding water indoors. Two handles on it.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166355432">
+        <form>
+          <orth>fasgnag</orth>
+        </form>
+        <def>Notes: roughly similar to “criathar” but very shallow and without holes in the skin.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166356944">
+        <form>
+          <orth>fearsd</orth>
+          <pron>[fɛʴsd̪]</pron>
+        </form>
+        <def>[fɛʴsd̪] Notes: for “fearsaid”. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166358816">
+        <form>
+          <orth>fleat</orth>
+          <pron>[flɛt̪]</pron>
+        </form>
+        <def>[flɛt̪] Notes: saucer.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166360544">
+        <form>
+          <orth>fliasgan</orth>
+          <pron>[flıɑsɡɑ̃ṉ]</pron>
+        </form>
+        <def>[flıɑsɡɑ̃ṉ] Notes: mussel.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166362272">
+        <form>
+          <orth>friodhan</orth>
+        </form>
+        <def>Notes: sow’s bristle.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166363784">
+        <form>
+          <orth>friofagan</orth>
+        </form>
+        <def>Notes: ragnails.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166365296">
+        <form>
+          <orth>froighneadh</orth>
+          <pron>[fɾ[ɤi]</pron>
+        </form>
+        <def>[fɾ[ɤi]nʹəɣ] Quotation: Bha froighneadh air. Notes: He was cross, crabbit.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166367600">
+        <form>
+          <orth>fuileaman</orth>
+        </form>
+        <def>Notes: a spot of blood under the skin brought on by a nip.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166369184">
+        <form>
+          <orth>gaoth</orth>
+        </form>
+        <def>Quotation: bainne gun ghaoth. Notes: made by plunging a red-hot poker into fresh milk and stirring it. Singed taste. Given to a person who had stomach trouble.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166370840">
+        <form>
+          <orth>gealach</orth>
+        </form>
+        <def>Quotation: Tha a’ ghealach a’ dol air a h-ais.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166372352">
+        <form>
+          <orth>giodal</orth>
+          <pron>[ɡıd̪ɑɫ]</pron>
+        </form>
+        <def>[ɡıd̪ɑɫ] Quotation: Tha e làn giodail. Notes: used of a dog showing pleasure.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166374224">
+        <form>
+          <orth>gìogan</orth>
+        </form>
+        <def>Quotation: Far am bi gìogan bi guagan. Notes: parallel of “Thachair sruth ri steall”.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166375880">
+        <form>
+          <orth>gocan</orth>
+        </form>
+        <def>Quotation: gocan cuthaig.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166377392">
+        <form>
+          <orth>gràitinn</orth>
+        </form>
+        <def>Notes: a’ graitinn [sic] and a’ gradhainn fairly common in Tiree.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166378904">
+        <form>
+          <orth>greallathaich</orth>
+          <pron>[ɡɾɛɫɑhiç]</pron>
+        </form>
+        <def>[ɡɾɛɫɑhiç] Notes: rubbish.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166380632">
+        <form>
+          <orth>guagan</orth>
+          <pron>[ɡu̟ɤɡɑṉ]</pron>
+        </form>
+        <def>[ɡu̟ɤɡɑṉ] Quotation: Far am bi gìogan bi guagan. Notes: parallel of “Thachair sruth ri steall”.</def>
+      </entry>
+      <entry xml:id="Slips_CaolisHMeekslips-idp166382504">
+        <form>
+          <orth>gualainn</orth>
+        </form>
+        <def>Quotation: Tha e a’ falbh ’s a theanga air a’ ghualainn. Notes: indiscriminate repetition of what one has heard.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

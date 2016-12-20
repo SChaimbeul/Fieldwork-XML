@@ -1,441 +1,427 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Peat_DunoonJMacLeanmoine">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <location>
-               <placeName>Dunoon</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>John MacLean</persName>
-               <persName xml:lang="gd">Iain Mac ’Illeathain </persName>
-               <age>47</age>
-               <birth>
-                  <placeName>Barra</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Peat-Working</term>
-               <term>Mòine</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head xml:id="Peat_DunoonJMacLeanmoine-d0e32">1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e37">
-            <form>
-               <orth>feannadh</orth>
-            </form>
-            <def>removing turf.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e46">
-            <form>
-               <orth>glanadh</orth>
-            </form>
-            <def>clearing the rough.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e55">
-            <form>
-               <orth>sgriosadh</orth>
-            </form>
-            <def>slicing the last portions before coming to peat proper.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e64">
-            <form>
-               <orth>am poll</orth>
-            </form>
-            <def>the peat bog.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e73">
-            <form>
-               <orth>iarunn</orth>
-            </form>
-            <def>= fear ’sa pholl agus fear air an treisgeir. 2 men to 1 iarunn – one cutting – one throwing out peat. 3-4 iaruinn sufficient for a year’s supply.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e82">
-            <form>
-               <orth>a sgaoileadh</orth>
-            </form>
-            <def>throwing out in orderly fashion.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e91">
-            <form>
-               <orth>gàradh</orth>
-            </form>
-            <def>ventilated wall of peat.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e100">
-            <form>
-               <orth>fàd</orth>
-            </form>
-            <def>depth of peat bog. Thig ceithir foidean as – 4 peat length deep. If so, 1st and 2nd layer on top, 3rd layer as gàradh, 4th layer at bottom.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e109">
-            <form>
-               <orth>gearradh na mona</orth>
-            </form>
-            <def>cutting peats – very seldom used ‘buain’.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e118">
-            <form>
-               <orth>uachdar a phuill</orth>
-            </form>
-            <def>top part where peat are laid out.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e127">
-            <form>
-               <orth>mullach a phuill</orth>
-            </form>
-            <def>top part where peat are laid out.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e136">
-            <form>
-               <orth>iochdar a phuill</orth>
-            </form>
-            <def>bottom part where peat are laid out.</def>
-         </entry>
-         <head
-             xml:id="Peat_DunoonJMacLeanmoine-d0e144"
-            >2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-idola195">
-            <form>
-               <orth>[note]</orth>
-               <pron>[NOTES: the informant has changed ‘mònach’ to ‘mònadh’, and he has done so in headings 4 and 5, as well.]</pron>
-            </form>
-            <def>[NOTES: the informant has changed ‘mònach’ to ‘mònadh’, and he has done so in headings 4 and 5, as well.]</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e158">
-            <form>
-               <orth>spaid</orth>
-            </form>
-            <def>spade.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e167">
-            <form>
-               <orth>treisgeir</orth>
-            </form>
-            <def>peat cutter left or right footed according to user.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e176">
-            <form>
-               <orth>gollad</orth>
-            </form>
-            <def>the first one in each line next to where cutting stopped previous year – usually unshapely.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e185">
-            <form>
-               <orth>fad, pl. fadan or foidean</orth>
-            </form>
-            <def>ordinary peat.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e194">
-            <form>
-               <orth>caoran (dubh)</orth>
-            </form>
-            <def>small dry portion.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e203">
-            <form>
-               <orth>moine dhùbh</orth>
-            </form>
-            <def>black peat.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e212">
-            <form>
-               <orth>moine bhan</orth>
-            </form>
-            <def>turfy peat.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e221">
-            <form>
-               <orth>moine le barr</orth>
-            </form>
-            <def>top part turfy.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e230">
-            <form>
-               <orth>dubhchonnadh</orth>
-            </form>
-            <def>where the unused peat bog has cracked and you pull off lumps of it by hand. As the lumps are nearly dry they may be used soon after.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e239">
-            <form>
-               <orth>ath-mhoine or amhoine</orth>
-            </form>
-            <def>last year’s peat that was left on the hills and not taken home.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e248">
-            <form>
-               <orth>pollag</orth>
-            </form>
-            <def>a small size peat bog, not more than two depths.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e257">
-            <form>
-               <orth>Latha Ghille Chonnaidh</orth>
-            </form>
-            <def>New Year’s Day. Time taken for a lad to go to the hills for a bag of peats. Extra time on to the shortest day. Cf. Latha Cois-cheum Coillich.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e266">
-            <form>
-               <orth>Latha Cois-cheum Coillich</orth>
-            </form>
-            <def>Christmas Day. Extra time from 22nd-25th December. Difference in time amounts to the cockerel taken [sic] the hens an extra step to feed. [Cf. Latha Ghille Chonnaidh.]</def>
-         </entry>
-         <head
-             xml:id="Peat_DunoonJMacLeanmoine-d0e274"
-            >3. A’ tiormachadh na mònach</head>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e279">
-            <form>
-               <orth>tinnteadh, n. tinntean</orth>
-            </form>
-            <def>4 peats astraddle and one lying on top.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e288">
-            <form>
-               <orth>rùdhan</orth>
-            </form>
-            <def>an indefinite number of tinnteinean in a rounded stack according to dryness of peat.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e297">
-            <form>
-               <orth>cruach</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="Peat_DunoonJMacLeanmoine-d0e302"
-            >4. A’ cruachadh na mònach</head>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e307">
-            <form>
-               <orth>cruach</orth>
-            </form>
-            <def>peat stack.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e316">
-            <form>
-               <orth>ag griomhadh</orth>
-            </form>
-            <def>making the wall round the peat stack.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e325">
-            <form>
-               <orth>a’ tubhadh</orth>
-            </form>
-            <def>covering the stack with the turf taken off the poll – only when left in the hills to be taken home later.</def>
-         </entry>
-         <head
-             xml:id="Peat_DunoonJMacLeanmoine-d0e333"
-            >5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e338">
-            <form>
-               <orth>cliabh, pl. cleibh</orth>
-            </form>
-            <def>panniers.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e347">
-            <form>
-               <orth>strathair</orth>
-            </form>
-            <def>saddle.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e356">
-            <form>
-               <orth>strian</orth>
-            </form>
-            <def>reins.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e365">
-            <form>
-               <orth>teannachan</orth>
-            </form>
-            <def>billy rope.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e374">
-            <form>
-               <orth>butt</orth>
-            </form>
-            <def>bit. Much more common but heard ‘mireineach’ used by some older people.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e383">
-            <form>
-               <orth>mireineach</orth>
-            </form>
-            <def>bit. [Cf. butt.]</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e392">
-            <form>
-               <orth>taod</orth>
-            </form>
-            <def>halter. The bit is not used with a taod.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e401">
-            <form>
-               <orth>botrachan</orth>
-            </form>
-            <def>piece of wood in the shape of a broom handle or the part of the rope covered with soft cloth passing under the tail and connected to the saddle.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e410">
-            <form>
-               <orth>barradh</orth>
-            </form>
-            <def>vertical wall of peat topping the creel.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e419">
-            <form>
-               <orth>plàta</orth>
-            </form>
-            <def>blanket under the saddle and panniers usually made of ropa ruadh or caidh-à.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e428">
-            <form>
-               <orth>iris</orth>
-            </form>
-            <def>the rope attaching panniers to saddle.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e437">
-            <form>
-               <orth>craoidh</orth>
-            </form>
-            <def>horse shoe.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e446">
-            <form>
-               <orth>slige</orth>
-            </form>
-            <def>shoe that has been cast and used again.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e455">
-            <form>
-               <orth>muing</orth>
-            </form>
-            <def>mane.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e464">
-            <form>
-               <orth>sachd, pl. saichd</orth>
-            </form>
-            <def>load of two panniers.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e473">
-            <form>
-               <orth>fiaclan a chleibh</orth>
-            </form>
-            <def>teeth of the creel.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e482">
-            <form>
-               <orth>cliabh fraoich</orth>
-            </form>
-            <def>creel made from heather.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e491">
-            <form>
-               <orth>lion a’ sachd</orth>
-            </form>
-            <def>fill the creels.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e500">
-            <form>
-               <orth>leag a’ sachd</orth>
-            </form>
-            <def>empty the creels.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e509">
-            <form>
-               <orth>thuit a’ sachd</orth>
-            </form>
-            <def>if something broke and peats fell to ground.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e518">
-            <form>
-               <orth>suidhe boirionnaich</orth>
-            </form>
-            <def>not astraddle.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e527">
-            <form>
-               <orth>smùr</orth>
-            </form>
-            <def>fragments of peat at the bottom of creel.</def>
-         </entry>
-         <head
-             xml:id="Peat_DunoonJMacLeanmoine-d0e535"
-             subtype="h2">[Horse]</head>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e540">
-            <form>
-               <orth>each</orth>
-            </form>
-            <def>often preceded by beathach: beathach eich.</def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e549">
-            <form>
-               <orth>lath</orth>
-            </form>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e555">
-            <form>
-               <orth>làir</orth>
-            </form>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e561">
-            <form>
-               <orth>searrach</orth>
-            </form>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e567">
-            <form>
-               <orth>gearran</orth>
-            </form>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e573">
-            <form>
-               <orth>falairidh</orth>
-               <pron>[?]</pron>
-            </form>
-            <def>[?] </def>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e579">
-            <form>
-               <orth>stallan</orth>
-            </form>
-         </entry>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-d0e585">
-            <form>
-               <orth>àigeach</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="Peat_DunoonJMacLeanmoine-d0e590"
-            >6. Seòrsachan mònach</head>
-         <entry xml:id="Peat_DunoonJMacLeanmoine-idola196">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>as page 2.</def>
-         </entry>
-         <head
-             xml:id="Peat_DunoonJMacLeanmoine-d0e603"
-            >7. Faclan eile</head>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location>
+          <placeName>Dunoon</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>John MacLean</persName>
+          <persName xml:lang="gd">Iain Mac ’Illeathain </persName>
+          <age>47</age>
+          <birth>
+            <placeName>Barra</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Peat-Working</term>
+          <term>Mòine</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="Peat_DunoonJMacLeanmoine-d0e32">1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e37">
+        <form>
+          <orth>feannadh</orth>
+        </form>
+        <def>removing turf.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e46">
+        <form>
+          <orth>glanadh</orth>
+        </form>
+        <def>clearing the rough.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e55">
+        <form>
+          <orth>sgriosadh</orth>
+        </form>
+        <def>slicing the last portions before coming to peat proper.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e64">
+        <form>
+          <orth>am poll</orth>
+        </form>
+        <def>the peat bog.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e73">
+        <form>
+          <orth>iarunn</orth>
+        </form>
+        <def>= fear ’sa pholl agus fear air an treisgeir. 2 men to 1 iarunn – one cutting – one throwing out peat. 3-4 iaruinn sufficient for a year’s supply.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e82">
+        <form>
+          <orth>a sgaoileadh</orth>
+        </form>
+        <def>throwing out in orderly fashion.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e91">
+        <form>
+          <orth>gàradh</orth>
+        </form>
+        <def>ventilated wall of peat.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e100">
+        <form>
+          <orth>fàd</orth>
+        </form>
+        <def>depth of peat bog. Thig ceithir foidean as – 4 peat length deep. If so, 1st and 2nd layer on top, 3rd layer as gàradh, 4th layer at bottom.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e109">
+        <form>
+          <orth>gearradh na mona</orth>
+        </form>
+        <def>cutting peats – very seldom used ‘buain’.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e118">
+        <form>
+          <orth>uachdar a phuill</orth>
+        </form>
+        <def>top part where peat are laid out.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e127">
+        <form>
+          <orth>mullach a phuill</orth>
+        </form>
+        <def>top part where peat are laid out.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e136">
+        <form>
+          <orth>iochdar a phuill</orth>
+        </form>
+        <def>bottom part where peat are laid out.</def>
+      </entry>
+      <head xml:id="Peat_DunoonJMacLeanmoine-d0e144">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-idola195">
+        <form>
+          <orth>[note]</orth>
+          <pron>[NOTES: the informant has changed ‘mònach’ to ‘mònadh’, and he has done so in headings 4 and 5, as well.]</pron>
+        </form>
+        <def>[NOTES: the informant has changed ‘mònach’ to ‘mònadh’, and he has done so in headings 4 and 5, as well.]</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e158">
+        <form>
+          <orth>spaid</orth>
+        </form>
+        <def>spade.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e167">
+        <form>
+          <orth>treisgeir</orth>
+        </form>
+        <def>peat cutter left or right footed according to user.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e176">
+        <form>
+          <orth>gollad</orth>
+        </form>
+        <def>the first one in each line next to where cutting stopped previous year – usually unshapely.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e185">
+        <form>
+          <orth>fad, pl. fadan or foidean</orth>
+        </form>
+        <def>ordinary peat.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e194">
+        <form>
+          <orth>caoran (dubh)</orth>
+        </form>
+        <def>small dry portion.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e203">
+        <form>
+          <orth>moine dhùbh</orth>
+        </form>
+        <def>black peat.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e212">
+        <form>
+          <orth>moine bhan</orth>
+        </form>
+        <def>turfy peat.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e221">
+        <form>
+          <orth>moine le barr</orth>
+        </form>
+        <def>top part turfy.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e230">
+        <form>
+          <orth>dubhchonnadh</orth>
+        </form>
+        <def>where the unused peat bog has cracked and you pull off lumps of it by hand. As the lumps are nearly dry they may be used soon after.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e239">
+        <form>
+          <orth>ath-mhoine or amhoine</orth>
+        </form>
+        <def>last year’s peat that was left on the hills and not taken home.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e248">
+        <form>
+          <orth>pollag</orth>
+        </form>
+        <def>a small size peat bog, not more than two depths.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e257">
+        <form>
+          <orth>Latha Ghille Chonnaidh</orth>
+        </form>
+        <def>New Year’s Day. Time taken for a lad to go to the hills for a bag of peats. Extra time on to the shortest day. Cf. Latha Cois-cheum Coillich.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e266">
+        <form>
+          <orth>Latha Cois-cheum Coillich</orth>
+        </form>
+        <def>Christmas Day. Extra time from 22nd-25th December. Difference in time amounts to the cockerel taken [sic] the hens an extra step to feed. [Cf. Latha Ghille Chonnaidh.]</def>
+      </entry>
+      <head xml:id="Peat_DunoonJMacLeanmoine-d0e274">3. A’ tiormachadh na mònach</head>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e279">
+        <form>
+          <orth>tinnteadh, n. tinntean</orth>
+        </form>
+        <def>4 peats astraddle and one lying on top.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e288">
+        <form>
+          <orth>rùdhan</orth>
+        </form>
+        <def>an indefinite number of tinnteinean in a rounded stack according to dryness of peat.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e297">
+        <form>
+          <orth>cruach</orth>
+        </form>
+      </entry>
+      <head xml:id="Peat_DunoonJMacLeanmoine-d0e302">4. A’ cruachadh na mònach</head>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e307">
+        <form>
+          <orth>cruach</orth>
+        </form>
+        <def>peat stack.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e316">
+        <form>
+          <orth>ag griomhadh</orth>
+        </form>
+        <def>making the wall round the peat stack.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e325">
+        <form>
+          <orth>a’ tubhadh</orth>
+        </form>
+        <def>covering the stack with the turf taken off the poll – only when left in the hills to be taken home later.</def>
+      </entry>
+      <head xml:id="Peat_DunoonJMacLeanmoine-d0e333">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e338">
+        <form>
+          <orth>cliabh, pl. cleibh</orth>
+        </form>
+        <def>panniers.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e347">
+        <form>
+          <orth>strathair</orth>
+        </form>
+        <def>saddle.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e356">
+        <form>
+          <orth>strian</orth>
+        </form>
+        <def>reins.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e365">
+        <form>
+          <orth>teannachan</orth>
+        </form>
+        <def>billy rope.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e374">
+        <form>
+          <orth>butt</orth>
+        </form>
+        <def>bit. Much more common but heard ‘mireineach’ used by some older people.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e383">
+        <form>
+          <orth>mireineach</orth>
+        </form>
+        <def>bit. [Cf. butt.]</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e392">
+        <form>
+          <orth>taod</orth>
+        </form>
+        <def>halter. The bit is not used with a taod.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e401">
+        <form>
+          <orth>botrachan</orth>
+        </form>
+        <def>piece of wood in the shape of a broom handle or the part of the rope covered with soft cloth passing under the tail and connected to the saddle.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e410">
+        <form>
+          <orth>barradh</orth>
+        </form>
+        <def>vertical wall of peat topping the creel.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e419">
+        <form>
+          <orth>plàta</orth>
+        </form>
+        <def>blanket under the saddle and panniers usually made of ropa ruadh or caidh-à.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e428">
+        <form>
+          <orth>iris</orth>
+        </form>
+        <def>the rope attaching panniers to saddle.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e437">
+        <form>
+          <orth>craoidh</orth>
+        </form>
+        <def>horse shoe.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e446">
+        <form>
+          <orth>slige</orth>
+        </form>
+        <def>shoe that has been cast and used again.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e455">
+        <form>
+          <orth>muing</orth>
+        </form>
+        <def>mane.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e464">
+        <form>
+          <orth>sachd, pl. saichd</orth>
+        </form>
+        <def>load of two panniers.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e473">
+        <form>
+          <orth>fiaclan a chleibh</orth>
+        </form>
+        <def>teeth of the creel.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e482">
+        <form>
+          <orth>cliabh fraoich</orth>
+        </form>
+        <def>creel made from heather.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e491">
+        <form>
+          <orth>lion a’ sachd</orth>
+        </form>
+        <def>fill the creels.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e500">
+        <form>
+          <orth>leag a’ sachd</orth>
+        </form>
+        <def>empty the creels.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e509">
+        <form>
+          <orth>thuit a’ sachd</orth>
+        </form>
+        <def>if something broke and peats fell to ground.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e518">
+        <form>
+          <orth>suidhe boirionnaich</orth>
+        </form>
+        <def>not astraddle.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e527">
+        <form>
+          <orth>smùr</orth>
+        </form>
+        <def>fragments of peat at the bottom of creel.</def>
+      </entry>
+      <head xml:id="Peat_DunoonJMacLeanmoine-d0e535" subtype="h2">[Horse]</head>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e540">
+        <form>
+          <orth>each</orth>
+        </form>
+        <def>often preceded by beathach: beathach eich.</def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e549">
+        <form>
+          <orth>lath</orth>
+        </form>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e555">
+        <form>
+          <orth>làir</orth>
+        </form>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e561">
+        <form>
+          <orth>searrach</orth>
+        </form>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e567">
+        <form>
+          <orth>gearran</orth>
+        </form>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e573">
+        <form>
+          <orth>falairidh</orth>
+          <pron>[?]</pron>
+        </form>
+        <def>[?] </def>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e579">
+        <form>
+          <orth>stallan</orth>
+        </form>
+      </entry>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-d0e585">
+        <form>
+          <orth>àigeach</orth>
+        </form>
+      </entry>
+      <head xml:id="Peat_DunoonJMacLeanmoine-d0e590">6. Seòrsachan mònach</head>
+      <entry xml:id="Peat_DunoonJMacLeanmoine-idola196">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>as page 2.</def>
+      </entry>
+      <head xml:id="Peat_DunoonJMacLeanmoine-d0e603">7. Faclan eile</head>
+    </body>
+  </text>
 </TEI>

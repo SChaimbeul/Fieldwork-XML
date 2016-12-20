@@ -1,357 +1,357 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="Word-lists_Eriskayanonymousmisc">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: most words have either Éir (= Eriskay) or the name of the printed source next to them. The words from printed sources come second and are written in slightly different ink, which may suggest that they were added later. The words without a source were written in different ink still and possibly last of all.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <location>
-               <placeName>? [Eriskay – see below]</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[Tony Dilworth]</persName>
-            </person>
-            <person role="informant">
-               <persName>?</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36225936">
-            <form>
-               <orth>bàilich (f)</orth>
-            </form>
-            <def>chaffing, idle talk. (Éir.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36227448">
-            <form>
-               <orth>brothach</orth>
-            </form>
-            <def>sullenly angry. (Éir.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36228960">
-            <form>
-               <orth>bioran</orth>
-            </form>
-            <def>knitting-needles. (Éir.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36230472">
-            <form>
-               <orth>bun-bac</orth>
-            </form>
-            <def>horizon. (Éir.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36231984">
-            <form>
-               <orth>a’ biadhadh nan cearc air smodal an tighe</orth>
-            </form>
-            <def>feeding the hens on the left-overs from the house. (Éir.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36233568">
-            <form>
-               <orth>bana-bhusdraich</orth>
-            </form>
-            <def>witch. (Éir.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36235080">
-            <form>
-               <orth>bac-stoc</orth>
-            </form>
-            <def>runners for a boat. (Or. Luaidh. p. 6.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36236592">
-            <form>
-               <orth>blàidhealtrach</orth>
-            </form>
-            <def>warm and dewy. (An Gàidheal. Feb. 53. p. 9.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36238104">
-            <form>
-               <orth>adag-chruaidh</orth>
-            </form>
-            <def>part of a rainbow.</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36239616">
-            <form>
-               <orth>ceann-teine</orth>
-            </form>
-            <def>part of a rainbow.</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36241128">
-            <form>
-               <orth>brùig</orth>
-            </form>
-            <def>rotting seaweed.</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36242640">
-            <form>
-               <orth>caol</orth>
-            </form>
-            <def>crowded. Tha e caol ann a shèo. (Éir.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36244296">
-            <form>
-               <orth>cruaidh</orth>
-            </form>
-            <def>tips of fingers pressed together with thumb as test of cold. Ma ni thu cruaidh chan-eil do làmh fuar.</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36245808">
-            <form>
-               <orth>crogan-òla</orth>
-            </form>
-            <def>oiling can.</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36247320">
-            <form>
-               <orth>ciopach</orth>
-            </form>
-            <def>soaked.</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36248832">
-            <form>
-               <orth>crogan-tuin</orth>
-            </form>
-            <def>tin-can.</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36250344">
-            <form>
-               <orth>dùideach</orth>
-            </form>
-            <def>(Gairm. E. 53. p. 65.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36251856">
-            <form>
-               <orth>dlùithean</orth>
-            </form>
-            <def>hinges. (Or. Lu. p. 34.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36253368">
-            <form>
-               <orth>ealamhachd</orth>
-            </form>
-            <def>handiness. (Éir.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36254880">
-            <form>
-               <orth>eàrrlaiseachadh</orth>
-            </form>
-            <def>engaged, ordered. (Gairm. an Ge. 52. p. 18.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36256392">
-            <form>
-               <orth>frois-eadh</orth>
-            </form>
-            <def>thresh the end of a sheaf with a stick. (Éir.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36257904">
-            <form>
-               <orth>faradh trom</orth>
-            </form>
-            <def>the heavy price paid to ship goods to Éirisgeidh.</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36259416">
-            <form>
-               <orth>glasan</orth>
-            </form>
-            <def>canal lock-gates. (Éir.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36260928">
-            <form>
-               <orth>grunnaich</orth>
-            </form>
-            <def>paddle in the sea. (Éir.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36262440">
-            <form>
-               <orth>geansaidh</orth>
-            </form>
-            <def>jersey. (Gairm. E. 53. p. 17.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36263952">
-            <form>
-               <orth>grianaisgeach</orth>
-            </form>
-            <def>unstable. (Gairm. E. 53. p. 33.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36265464">
-            <form>
-               <orth>gabh bhar a chéile</orth>
-            </form>
-            <def>take on the average. (Gairm. E. 53. p. 66.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36266976">
-            <form>
-               <orth>Innis-Tile</orth>
-            </form>
-            <def>Iceland. (Gairm. E. 53. p. 86.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36268488">
-            <form>
-               <orth>ìneachas</orth>
-            </form>
-            <def>(Or. Lu. p. 34.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36270000">
-            <form>
-               <orth>leig mi romham e</orth>
-            </form>
-            <def>I omitted to do it. (Éir.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36271512">
-            <form>
-               <orth>liugan</orth>
-            </form>
-            <def>luke-worm [sic]. (Éir.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36273024">
-            <form>
-               <orth>lochran-siùbhail</orth>
-            </form>
-            <def>search-light. (Éir.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36274536">
-            <form>
-               <orth>liadh (m)</orth>
-            </form>
-            <def>heroe [sic]. (Gairm. Foghar 1952. p. 20.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36276048">
-            <form>
-               <orth>lonnan</orth>
-            </form>
-            <def>bait. (Gairm. G. 1952. p. 26.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36277560">
-            <form>
-               <orth>luidhear (m)</orth>
-            </form>
-            <def>leg. (Gairm. E. 53. p. 63.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp39229800">
-            <form>
-               <orth>leathag</orth>
-            </form>
-            <def>(Gairm. E. 53. p. 63.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp39226848">
-            <form>
-               <orth>lughagachdainn</orth>
-            </form>
-            <def>permitting. (Gairm. E. 53. p. 68.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idp39223752">
-            <form>
-               <orth>muirtèachd (m)</orth>
-            </form>
-            <def>jelly-fish. (Éir.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7168272">
-            <form>
-               <orth>mirean (m: pl.)</orth>
-            </form>
-            <def>sticks for fire. (Éir.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7166760">
-            <form>
-               <orth>min Innseanach</orth>
-            </form>
-            <def>Indian meal. (Éir.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7165248">
-            <form>
-               <orth>miastadh le</orth>
-            </form>
-            <def>swarming with? (Gairm. E. 53. p. 83.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7163736">
-            <form>
-               <orth>miontrag (f)</orth>
-            </form>
-            <def>adventure. (Gairm. E. 53. p. 62.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7162224">
-            <form>
-               <orth>meacann (m)</orth>
-            </form>
-            <def>root. (Or. L. p. 15.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7160712">
-            <form>
-               <orth>praban (m)</orth>
-            </form>
-            <def>blear on eyes. (Éir.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7159200">
-            <form>
-               <orth>progadh</orth>
-            </form>
-            <def>breaking of sun thro’ clouds. (Éir.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7157688">
-            <form>
-               <orth>polca</orth>
-            </form>
-            <def>(Gairm. E. 53. p. 17.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7156176">
-            <form>
-               <orth>plannach</orth>
-            </form>
-            <def>fatty. (Gairm. E. 53. p. 81.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7154664">
-            <form>
-               <orth>rànaich (f)</orth>
-            </form>
-            <def>weeping. (Éir.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7153152">
-            <form>
-               <orth>ritheasg-rithisg</orth>
-            </form>
-            <def>a rough person. (Éir.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7151640">
-            <form>
-               <orth>roiteag (f)</orth>
-            </form>
-            <def>sheaf. (Éir.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7150128">
-            <form>
-               <orth>rionnach-clabach (m)</orth>
-            </form>
-            <def>horse-mackerel. (Éir.)</def>
-         </entry>
-         <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7148616">
-            <form>
-               <orth>roighnidh (f)</orth>
-            </form>
-            <def>barren-cow. (Or. Luaidh. p. 6.)</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Word-lists_Eriskayanonymousmisc">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: most words have either Éir (= Eriskay) or the name of the printed source next to them. The words from printed sources come second and are written in slightly different ink, which
+          may suggest that they were added later. The words without a source were written in different ink still and possibly last of all.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location>
+          <placeName>? [Eriskay – see below]</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[Tony Dilworth]</persName>
+        </person>
+        <person role="informant">
+          <persName>?</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36225936">
+        <form>
+          <orth>bàilich (f)</orth>
+        </form>
+        <def>chaffing, idle talk. (Éir.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36227448">
+        <form>
+          <orth>brothach</orth>
+        </form>
+        <def>sullenly angry. (Éir.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36228960">
+        <form>
+          <orth>bioran</orth>
+        </form>
+        <def>knitting-needles. (Éir.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36230472">
+        <form>
+          <orth>bun-bac</orth>
+        </form>
+        <def>horizon. (Éir.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36231984">
+        <form>
+          <orth>a’ biadhadh nan cearc air smodal an tighe</orth>
+        </form>
+        <def>feeding the hens on the left-overs from the house. (Éir.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36233568" type="person">
+        <form>
+          <orth>bana-bhusdraich</orth>
+        </form>
+        <def>witch. (Éir.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36235080">
+        <form>
+          <orth>bac-stoc</orth>
+        </form>
+        <def>runners for a boat. (Or. Luaidh. p. 6.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36236592">
+        <form>
+          <orth>blàidhealtrach</orth>
+        </form>
+        <def>warm and dewy. (An Gàidheal. Feb. 53. p. 9.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36238104">
+        <form>
+          <orth>adag-chruaidh</orth>
+        </form>
+        <def>part of a rainbow.</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36239616">
+        <form>
+          <orth>ceann-teine</orth>
+        </form>
+        <def>part of a rainbow.</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36241128">
+        <form>
+          <orth>brùig</orth>
+        </form>
+        <def>rotting seaweed.</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36242640">
+        <form>
+          <orth>caol</orth>
+        </form>
+        <def>crowded. Tha e caol ann a shèo. (Éir.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36244296">
+        <form>
+          <orth>cruaidh</orth>
+        </form>
+        <def>tips of fingers pressed together with thumb as test of cold. Ma ni thu cruaidh chan-eil do làmh fuar.</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36245808">
+        <form>
+          <orth>crogan-òla</orth>
+        </form>
+        <def>oiling can.</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36247320">
+        <form>
+          <orth>ciopach</orth>
+        </form>
+        <def>soaked.</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36248832">
+        <form>
+          <orth>crogan-tuin</orth>
+        </form>
+        <def>tin-can.</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36250344">
+        <form>
+          <orth>dùideach</orth>
+        </form>
+        <def>(Gairm. E. 53. p. 65.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36251856">
+        <form>
+          <orth>dlùithean</orth>
+        </form>
+        <def>hinges. (Or. Lu. p. 34.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36253368">
+        <form>
+          <orth>ealamhachd</orth>
+        </form>
+        <def>handiness. (Éir.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36254880">
+        <form>
+          <orth>eàrrlaiseachadh</orth>
+        </form>
+        <def>engaged, ordered. (Gairm. an Ge. 52. p. 18.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36256392">
+        <form>
+          <orth>frois-eadh</orth>
+        </form>
+        <def>thresh the end of a sheaf with a stick. (Éir.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36257904">
+        <form>
+          <orth>faradh trom</orth>
+        </form>
+        <def>the heavy price paid to ship goods to Éirisgeidh.</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36259416">
+        <form>
+          <orth>glasan</orth>
+        </form>
+        <def>canal lock-gates. (Éir.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36260928">
+        <form>
+          <orth>grunnaich</orth>
+        </form>
+        <def>paddle in the sea. (Éir.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36262440">
+        <form>
+          <orth>geansaidh</orth>
+        </form>
+        <def>jersey. (Gairm. E. 53. p. 17.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36263952">
+        <form>
+          <orth>grianaisgeach</orth>
+        </form>
+        <def>unstable. (Gairm. E. 53. p. 33.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36265464">
+        <form>
+          <orth>gabh bhar a chéile</orth>
+        </form>
+        <def>take on the average. (Gairm. E. 53. p. 66.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36266976">
+        <form>
+          <orth>Innis-Tile</orth>
+        </form>
+        <def>Iceland. (Gairm. E. 53. p. 86.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36268488">
+        <form>
+          <orth>ìneachas</orth>
+        </form>
+        <def>(Or. Lu. p. 34.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36270000">
+        <form>
+          <orth>leig mi romham e</orth>
+        </form>
+        <def>I omitted to do it. (Éir.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36271512">
+        <form>
+          <orth>liugan</orth>
+        </form>
+        <def>luke-worm [sic]. (Éir.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36273024">
+        <form>
+          <orth>lochran-siùbhail</orth>
+        </form>
+        <def>search-light. (Éir.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36274536">
+        <form>
+          <orth>liadh (m)</orth>
+        </form>
+        <def>heroe [sic]. (Gairm. Foghar 1952. p. 20.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36276048">
+        <form>
+          <orth>lonnan</orth>
+        </form>
+        <def>bait. (Gairm. G. 1952. p. 26.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp36277560">
+        <form>
+          <orth>luidhear (m)</orth>
+        </form>
+        <def>leg. (Gairm. E. 53. p. 63.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp39229800">
+        <form>
+          <orth>leathag</orth>
+        </form>
+        <def>(Gairm. E. 53. p. 63.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp39226848">
+        <form>
+          <orth>lughagachdainn</orth>
+        </form>
+        <def>permitting. (Gairm. E. 53. p. 68.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idp39223752">
+        <form>
+          <orth>muirtèachd (m)</orth>
+        </form>
+        <def>jelly-fish. (Éir.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7168272">
+        <form>
+          <orth>mirean (m: pl.)</orth>
+        </form>
+        <def>sticks for fire. (Éir.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7166760">
+        <form>
+          <orth>min Innseanach</orth>
+        </form>
+        <def>Indian meal. (Éir.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7165248">
+        <form>
+          <orth>miastadh le</orth>
+        </form>
+        <def>swarming with? (Gairm. E. 53. p. 83.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7163736">
+        <form>
+          <orth>miontrag (f)</orth>
+        </form>
+        <def>adventure. (Gairm. E. 53. p. 62.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7162224">
+        <form>
+          <orth>meacann (m)</orth>
+        </form>
+        <def>root. (Or. L. p. 15.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7160712">
+        <form>
+          <orth>praban (m)</orth>
+        </form>
+        <def>blear on eyes. (Éir.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7159200">
+        <form>
+          <orth>progadh</orth>
+        </form>
+        <def>breaking of sun thro’ clouds. (Éir.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7157688">
+        <form>
+          <orth>polca</orth>
+        </form>
+        <def>(Gairm. E. 53. p. 17.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7156176">
+        <form>
+          <orth>plannach</orth>
+        </form>
+        <def>fatty. (Gairm. E. 53. p. 81.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7154664">
+        <form>
+          <orth>rànaich (f)</orth>
+        </form>
+        <def>weeping. (Éir.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7153152">
+        <form>
+          <orth>ritheasg-rithisg</orth>
+        </form>
+        <def>a rough person. (Éir.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7151640">
+        <form>
+          <orth>roiteag (f)</orth>
+        </form>
+        <def>sheaf. (Éir.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7150128">
+        <form>
+          <orth>rionnach-clabach (m)</orth>
+        </form>
+        <def>horse-mackerel. (Éir.)</def>
+      </entry>
+      <entry xml:id="Word-lists_Eriskayanonymousmisc-idm7148616">
+        <form>
+          <orth>roighnidh (f)</orth>
+        </form>
+        <def>barren-cow. (Or. Luaidh. p. 6.)</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

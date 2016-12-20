@@ -1,185 +1,178 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <location>
-               <placeName>Eilean Thiriodh, Cornaig Mhór [Tiree, Cornaigmore]</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[school]</persName>
-            </person>
-            <person role="informant">
-               <persName>Cornaigmore School</persName>
-               <persName xml:lang="gd">Sgoil Chornaig Mhóir</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Shellfish</term>
-               <term>Maorach</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e26"
-            >1. Maorach</head>
-         <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e31">
-            <form>
-               <orth>feusgan</orth>
-            </form>
-            <def>mussel.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e40">
-            <form>
-               <orth>bairneach</orth>
-            </form>
-            <def>limpet.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e49">
-            <form>
-               <orth>maorach</orth>
-            </form>
-            <def>limpet.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e58">
-            <form>
-               <orth>guirgean</orth>
-            </form>
-            <def>whelk.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e67">
-            <form>
-               <orth>faochag</orth>
-            </form>
-            <def>whelk.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e76">
-            <form>
-               <orth>creachann</orth>
-            </form>
-            <def>clam.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e85">
-            <form>
-               <orth>muirsgein</orth>
-            </form>
-            <def>razor-fish.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e94">
-            <form>
-               <orth>eisir</orth>
-            </form>
-            <def>oyster.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e103">
-            <form>
-               <orth>coilleag</orth>
-            </form>
-            <def>cockle.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e112">
-            <form>
-               <orth>connicheag</orth>
-            </form>
-            <def>cockle.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e121">
-            <form>
-               <orth>gille fionn</orth>
-            </form>
-            <def>periwinkle.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e130">
-            <form>
-               <orth>gine  geal</orth>
-               <pron>[sic]</pron>
-            </form>
-            <def>[sic] periwinkle.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e139">
-            <form>
-               <orth>muasgan</orth>
-            </form>
-            <def>prawn.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e148">
-            <form>
-               <orth>carrachan</orth>
-            </form>
-            <def>shrimp.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e157">
-            <form>
-               <orth>giomach</orth>
-            </form>
-            <def>lobster.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e166">
-            <form>
-               <orth>partan</orth>
-            </form>
-            <def>crab.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e175">
-            <form>
-               <orth>cruban</orth>
-            </form>
-            <def>crab.</def>
-         </entry>
-         <head
-             xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e183"
-            >2. A’ tional maorach</head>
-         <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e188">
-            <form>
-               <orth>a’ trusadh fhaochag</orth>
-            </form>
-            <def>gathering whelks.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e197">
-            <form>
-               <orth>a’ buain mhaorach</orth>
-            </form>
-            <def>gathering limpets.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e206">
-            <form>
-               <orth>a’ trusadh fheasgainn</orth>
-            </form>
-            <def>gathering mussels.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e215">
-            <form>
-               <orth>a’ trusadh chonnichag</orth>
-            </form>
-            <def>gathering cockles.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e224">
-            <form>
-               <orth>a’ trusadh choilleagan</orth>
-            </form>
-            <def>gathering cockles.</def>
-         </entry>
-         <head
-             xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e232"
-            >3. Beathaichean eile a gheibhear ’sa’ chladach</head>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location>
+          <placeName>Eilean Thiriodh, Cornaig Mhór [Tiree, Cornaigmore]</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[school]</persName>
+        </person>
+        <person role="informant">
+          <persName>Cornaigmore School</persName>
+          <persName xml:lang="gd">Sgoil Chornaig Mhóir</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Shellfish</term>
+          <term>Maorach</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e26">1. Maorach</head>
+      <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e31">
+        <form>
+          <orth>feusgan</orth>
+        </form>
+        <def>mussel.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e40">
+        <form>
+          <orth>bairneach</orth>
+        </form>
+        <def>limpet.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e49">
+        <form>
+          <orth>maorach</orth>
+        </form>
+        <def>limpet.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e58">
+        <form>
+          <orth>guirgean</orth>
+        </form>
+        <def>whelk.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e67">
+        <form>
+          <orth>faochag</orth>
+        </form>
+        <def>whelk.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e76">
+        <form>
+          <orth>creachann</orth>
+        </form>
+        <def>clam.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e85">
+        <form>
+          <orth>muirsgein</orth>
+        </form>
+        <def>razor-fish.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e94">
+        <form>
+          <orth>eisir</orth>
+        </form>
+        <def>oyster.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e103">
+        <form>
+          <orth>coilleag</orth>
+        </form>
+        <def>cockle.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e112">
+        <form>
+          <orth>connicheag</orth>
+        </form>
+        <def>cockle.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e121">
+        <form>
+          <orth>gille fionn</orth>
+        </form>
+        <def>periwinkle.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e130">
+        <form>
+          <orth>gine geal</orth>
+          <pron>[sic]</pron>
+        </form>
+        <def>[sic] periwinkle.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e139">
+        <form>
+          <orth>muasgan</orth>
+        </form>
+        <def>prawn.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e148">
+        <form>
+          <orth>carrachan</orth>
+        </form>
+        <def>shrimp.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e157">
+        <form>
+          <orth>giomach</orth>
+        </form>
+        <def>lobster.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e166">
+        <form>
+          <orth>partan</orth>
+        </form>
+        <def>crab.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e175">
+        <form>
+          <orth>cruban</orth>
+        </form>
+        <def>crab.</def>
+      </entry>
+      <head xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e183">2. A’ tional maorach</head>
+      <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e188">
+        <form>
+          <orth>a’ trusadh fhaochag</orth>
+        </form>
+        <def>gathering whelks.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e197">
+        <form>
+          <orth>a’ buain mhaorach</orth>
+        </form>
+        <def>gathering limpets.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e206">
+        <form>
+          <orth>a’ trusadh fheasgainn</orth>
+        </form>
+        <def>gathering mussels.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e215">
+        <form>
+          <orth>a’ trusadh chonnichag</orth>
+        </form>
+        <def>gathering cockles.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e224">
+        <form>
+          <orth>a’ trusadh choilleagan</orth>
+        </form>
+        <def>gathering cockles.</def>
+      </entry>
+      <head xml:id="WoolworkingandFishing_CornaigmoreSchoolmaorach-d0e232">3. Beathaichean eile a gheibhear ’sa’ chladach</head>
+    </body>
+  </text>
 </TEI>

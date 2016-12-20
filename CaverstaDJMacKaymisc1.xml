@@ -1,160 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AJSmith_CaverstaDJMacKaymisc1">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>November 1972</date>
-            <location>
-               <placeName>[Lewis], Lochs, Caversta</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>A. J. Smith</persName>
-            </person>
-            <person role="informant">
-               <persName>D. J. MacKay</persName>
-               <birth>
-                  <placeName>Caversta</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118725416">
-            <form>
-               <orth>braosdair</orth>
-               <pron>[bɾɤ:sd̪ɑð]</pron>
-            </form>
-            <def>[bɾɤ:sd̪ɑð] Quot.: “braosdair teine”. Note: fire with a centre of very hot burning embers.</def>
-         </entry>
-         <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118834208">
-            <form>
-               <orth>craos</orth>
-               <pron>[kɾw:s]</pron>
-            </form>
-            <def>[kɾw:s] Quot.: craos de theine. Note: same as above [i.e. braosdair].</def>
-         </entry>
-         <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118751840">
-            <form>
-               <orth>cuallach</orth>
-               <pron>[ku̜ɤɫɑx]</pron>
-            </form>
-            <def>[ku̜ɤɫɑx] Note: a bundle, a good amount.</def>
-         </entry>
-         <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118723184">
-            <form>
-               <orth>pronn-bhiadh</orth>
-               <pron>[ˈpɾɔ̃n̪ɔvəɣ]</pron>
-            </form>
-            <def>[ˈpɾɔ̃n̪ɔvəɣ] Note: mashed bait thrown out to attract cuddies.</def>
-         </entry>
-         <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118806056">
-            <form>
-               <orth>rusdaige</orth>
-               <pron>[ˈru̜sd̪iɡʹə]</pron>
-            </form>
-            <def>[ˈru̜sd̪iɡʹə] Quot.: Chaneil ann dheth ach rusdaige grannda. Note: a “bad stick”.</def>
-         </entry>
-         <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118769336">
-            <form>
-               <orth>spudraisg</orth>
-               <pron>[spu̟d̪ɾiʃɡʹ]</pron>
-            </form>
-            <def>[spu̟d̪ɾiʃɡʹ] Note: a dirty mixture.</def>
-         </entry>
-         <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118724480">
-            <form>
-               <orth>spriughal</orth>
-               <pron>[ˈspðu̜əɫ]</pron>
-            </form>
-            <def>[ˈspðu̜əɫ] Quot.: “spriughal chlach”, “spriughal aran”. “Tha e na spriughal.” Note: fragments, crumbs.</def>
-         </entry>
-         <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118734848">
-            <form>
-               <orth>spoilltreag</orth>
-               <pron>[spɤılʹt̪ɾɑɡ]</pron>
-            </form>
-            <def>[spɤılʹt̪ɾɑɡ] Note: a split herring.</def>
-         </entry>
-         <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118810736">
-            <form>
-               <orth>glaidhm</orth>
-               <pron>[ɡɫɑ̃ĩm]</pron>
-            </form>
-            <def>[ɡɫɑ̃ĩm] Quot.: “a’ toirt glaidhm a pìos”. Note: a mouthful.</def>
-         </entry>
-         <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118835936">
-            <form>
-               <orth>sglamhadh</orth>
-               <pron>[sɡɫɑ̃fəɣ]</pron>
-            </form>
-            <def>[sɡɫɑ̃fəɣ] Quot.: “Thug e sglamhadh thuige.” Note: a voracious lunge, as a dog after a cat, without actually touching it.</def>
-         </entry>
-         <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118772072">
-            <form>
-               <orth>pràbladh</orth>
-            </form>
-            <def>Quot.: “An urrainn dhuit a’ Ghàidhlig a leughadh?” “Ni mi pràbladh math oirre co-dhiùbh.” Note: a fairly good attempt.</def>
-         </entry>
-         <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118761560">
-            <form>
-               <orth>seathamh</orth>
-               <pron>[ˈʃɛhu̟]</pron>
-            </form>
-            <def>[ˈʃɛhu̟] Quot.: “Tha mi a falbh chon a’ mhóintich.” “Chaneil sin seathamh dhuit là dhan t-seòrsa-sa.” Note: refers to the advisability of doing something or going somewhere on a day of very bad weather, when one would be exposed to it.</def>
-         </entry>
-         <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118727072">
-            <form>
-               <orth>duainidh</orth>
-               <pron>[d̪ũ̜ɑ̃nʹi]</pron>
-            </form>
-            <def>[d̪ũ̜ɑ̃nʹi] Quot.: (1) “là duainidh”. (2) “Nach tu tha duainidh a coimhead.” Note: (1) dull, bleak day. (2) a person of grey pallor.</def>
-         </entry>
-         <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118757744">
-            <form>
-               <orth>eileach</orth>
-            </form>
-            <def>Note: low wall built across a stream or river with a gap left in the middle where a “cabhall” was put to catch fish.</def>
-         </entry>
-         <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118804400">
-            <form>
-               <orth>fùdraig</orth>
-            </form>
-            <def>Quot.: “Bhiodh iad a’ fùdraigeadh le maide gus an dheidheadh na bradain dhan a’ chabhall.” Note: beating along the banks to drive salmon into the net.</def>
-         </entry>
-         <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118830176">
-            <form>
-               <orth>slacan</orth>
-            </form>
-            <def>Quot.: “slacan bean an tighe”. Note: referring to tongs.</def>
-         </entry>
-         <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118746800">
-            <form>
-               <orth>stiora</orth>
-               <pron>[ʃtʹwɾə]</pron>
-            </form>
-            <def>[ʃtʹwɾə] Note: fish of the shark variety larger than a dogfish. Not eaten.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>November 1972</date>
+        <location>
+          <placeName>[Lewis], Lochs, Caversta</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>A. J. Smith</persName>
+        </person>
+        <person role="informant">
+          <persName>D. J. MacKay</persName>
+          <birth>
+            <placeName>Caversta</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118725416">
+        <form>
+          <orth>braosdair</orth>
+          <pron>[bɾɤ:sd̪ɑð]</pron>
+        </form>
+        <def>[bɾɤ:sd̪ɑð] Quot.: “braosdair teine”. Note: fire with a centre of very hot burning embers.</def>
+      </entry>
+      <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118834208">
+        <form>
+          <orth>craos</orth>
+          <pron>[kɾw:s]</pron>
+        </form>
+        <def>[kɾw:s] Quot.: craos de theine. Note: same as above [i.e. braosdair].</def>
+      </entry>
+      <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118751840">
+        <form>
+          <orth>cuallach</orth>
+          <pron>[ku̜ɤɫɑx]</pron>
+        </form>
+        <def>[ku̜ɤɫɑx] Note: a bundle, a good amount.</def>
+      </entry>
+      <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118723184">
+        <form>
+          <orth>pronn-bhiadh</orth>
+          <pron>[ˈpɾɔ̃n̪ɔvəɣ]</pron>
+        </form>
+        <def>[ˈpɾɔ̃n̪ɔvəɣ] Note: mashed bait thrown out to attract cuddies.</def>
+      </entry>
+      <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118806056">
+        <form>
+          <orth>rusdaige</orth>
+          <pron>[ˈru̜sd̪iɡʹə]</pron>
+        </form>
+        <def>[ˈru̜sd̪iɡʹə] Quot.: Chaneil ann dheth ach rusdaige grannda. Note: a “bad stick”.</def>
+      </entry>
+      <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118769336">
+        <form>
+          <orth>spudraisg</orth>
+          <pron>[spu̟d̪ɾiʃɡʹ]</pron>
+        </form>
+        <def>[spu̟d̪ɾiʃɡʹ] Note: a dirty mixture.</def>
+      </entry>
+      <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118724480">
+        <form>
+          <orth>spriughal</orth>
+          <pron>[ˈspðu̜əɫ]</pron>
+        </form>
+        <def>[ˈspðu̜əɫ] Quot.: “spriughal chlach”, “spriughal aran”. “Tha e na spriughal.” Note: fragments, crumbs.</def>
+      </entry>
+      <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118734848">
+        <form>
+          <orth>spoilltreag</orth>
+          <pron>[spɤılʹt̪ɾɑɡ]</pron>
+        </form>
+        <def>[spɤılʹt̪ɾɑɡ] Note: a split herring.</def>
+      </entry>
+      <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118810736">
+        <form>
+          <orth>glaidhm</orth>
+          <pron>[ɡɫɑ̃ĩm]</pron>
+        </form>
+        <def>[ɡɫɑ̃ĩm] Quot.: “a’ toirt glaidhm a pìos”. Note: a mouthful.</def>
+      </entry>
+      <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118835936">
+        <form>
+          <orth>sglamhadh</orth>
+          <pron>[sɡɫɑ̃fəɣ]</pron>
+        </form>
+        <def>[sɡɫɑ̃fəɣ] Quot.: “Thug e sglamhadh thuige.” Note: a voracious lunge, as a dog after a cat, without actually touching it.</def>
+      </entry>
+      <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118772072">
+        <form>
+          <orth>pràbladh</orth>
+        </form>
+        <def>Quot.: “An urrainn dhuit a’ Ghàidhlig a leughadh?” “Ni mi pràbladh math oirre co-dhiùbh.” Note: a fairly good attempt.</def>
+      </entry>
+      <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118761560">
+        <form>
+          <orth>seathamh</orth>
+          <pron>[ˈʃɛhu̟]</pron>
+        </form>
+        <def>[ˈʃɛhu̟] Quot.: “Tha mi a falbh chon a’ mhóintich.” “Chaneil sin seathamh dhuit là dhan t-seòrsa-sa.” Note: refers to the advisability of doing something or going somewhere on a day of
+          very bad weather, when one would be exposed to it.</def>
+      </entry>
+      <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118727072">
+        <form>
+          <orth>duainidh</orth>
+          <pron>[d̪ũ̜ɑ̃nʹi]</pron>
+        </form>
+        <def>[d̪ũ̜ɑ̃nʹi] Quot.: (1) “là duainidh”. (2) “Nach tu tha duainidh a coimhead.” Note: (1) dull, bleak day. (2) a person of grey pallor.</def>
+      </entry>
+      <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118757744">
+        <form>
+          <orth>eileach</orth>
+        </form>
+        <def>Note: low wall built across a stream or river with a gap left in the middle where a “cabhall” was put to catch fish.</def>
+      </entry>
+      <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118804400">
+        <form>
+          <orth>fùdraig</orth>
+        </form>
+        <def>Quot.: “Bhiodh iad a’ fùdraigeadh le maide gus an dheidheadh na bradain dhan a’ chabhall.” Note: beating along the banks to drive salmon into the net.</def>
+      </entry>
+      <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118830176">
+        <form>
+          <orth>slacan</orth>
+        </form>
+        <def>Quot.: “slacan bean an tighe”. Note: referring to tongs.</def>
+      </entry>
+      <entry xml:id="AJSmith_CaverstaDJMacKaymisc1-idp118746800">
+        <form>
+          <orth>stiora</orth>
+          <pron>[ʃtʹwɾə]</pron>
+        </form>
+        <def>[ʃtʹwɾə] Note: fish of the shark variety larger than a dogfish. Not eaten.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

@@ -1,52 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="Slips_FreeChurchCollegeDMacLeodslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>Spring 1979</date>
-            <location>
-               <placeName>Free Church College</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="informant">
-               <persName>Rev. Prof. D. MacLeod</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_FreeChurchCollegeDMacLeodslips-idp115439096">
-            <form>
-               <orth>trianail</orth>
-            </form>
-            <def>Notes: triune.</def>
-         </entry>
-         <entry xml:id="Slips_FreeChurchCollegeDMacLeodslips-idp115447232">
-            <form>
-               <orth>trianalachd</orth>
-            </form>
-            <def>Notes: triuneness.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_FreeChurchCollegeDMacLeodslips">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>Spring 1979</date>
+        <location>
+          <placeName>Free Church College</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="informant">
+          <persName>Rev. Prof. D. MacLeod</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_FreeChurchCollegeDMacLeodslips-idp115439096">
+        <form>
+          <orth>trianail</orth>
+        </form>
+        <def>Notes: triune.</def>
+      </entry>
+      <entry xml:id="Slips_FreeChurchCollegeDMacLeodslips-idp115447232">
+        <form>
+          <orth>trianalachd</orth>
+        </form>
+        <def>Notes: triuneness.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

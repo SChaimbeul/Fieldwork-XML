@@ -1,50 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="Slips_ChristmasIslandAMacKenzieslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>05/1971</date>
-            <location>
-               <placeName>Canada, Christmas Island</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[AJ Smith?]</persName>
-            </person>
-            <person role="informant">
-               <persName>A. MacKenzie</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_ChristmasIslandAMacKenzieslips-idp115484728">
-            <form>
-               <orth>sgiochan</orth>
-               <pron>[sɡʹ[ıɤ]</pron>
-            </form>
-            <def>[sɡʹ[ıɤ]xɑṉ] Notes: barrel lid.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_ChristmasIslandAMacKenzieslips">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>05/1971</date>
+        <location>
+          <placeName>Canada, Christmas Island</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[AJ Smith?]</persName>
+        </person>
+        <person role="informant">
+          <persName>A. MacKenzie</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_ChristmasIslandAMacKenzieslips-idp115484728">
+        <form>
+          <orth>sgiochan</orth>
+          <pron>[sɡʹ[ıɤ]</pron>
+        </form>
+        <def>[sɡʹ[ıɤ]xɑṉ] Notes: barrel lid.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>
