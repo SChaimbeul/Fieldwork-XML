@@ -19,17 +19,11 @@
     <profileDesc>
       <creation>
         <date>09/1971</date>
-        <location>
-          <placeName>Lewis, Barvas</placeName>
-        </location>
+        <location corresp="Lewis_Barvas"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[self?]</persName>
-        </person>
-        <person role="informant">
-          <persName>A. J. Smith</persName>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="A_J_Smith"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -88,14 +82,14 @@
           <orth>lamh-chrann</orth>
           <pron>[ɫɑ̃:xɾɑ̃ṉ]</pron>
         </form>
-        <def>[ɫɑ̃:xɾɑ̃ṉ] Notes: handle of flail.</def>
+        <def>Notes: handle of flail.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp162211464">
         <form>
           <orth>laobhag</orth>
           <pron>[ɫɤ:vɑɡ]</pron>
         </form>
-        <def>[ɫɤ:vɑɡ] Notes: home-made slipper.</def>
+        <def>Notes: home-made slipper.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp162213192">
         <form>
@@ -126,7 +120,7 @@
           <orth>leacainn</orth>
           <pron>[lʹɛkĩnʹ]</pron>
         </form>
-        <def>[lʹɛkĩnʹ] Notes: regular sloping piece of ground.</def>
+        <def>Notes: regular sloping piece of ground.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166269248">
         <form>
@@ -145,7 +139,7 @@
           <orth>leamhnagan</orth>
           <pron>[lʹɛ̃ũ̟ṉəɡɑṉ]</pron>
         </form>
-        <def>[lʹɛ̃ũ̟ṉəɡɑṉ] Notes: sty on the eye.</def>
+        <def>Notes: sty on the eye.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166274360">
         <form>
@@ -182,14 +176,14 @@
           <orth>leitear</orth>
           <pron>[lʹetʹɑð]</pron>
         </form>
-        <def>[lʹetʹɑð] Notes: mattressing on beds, usually a bottom layer of heather with a top layer of rushes.</def>
+        <def>Notes: mattressing on beds, usually a bottom layer of heather with a top layer of rushes.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166284152">
         <form>
           <orth>leogan</orth>
           <pron>[lʹɔɡɑ̃ṉ]</pron>
         </form>
-        <def>[lʹɔɡɑ̃ṉ] Notes: a small stone.</def>
+        <def>Notes: a small stone.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166285880">
         <form>
@@ -220,21 +214,21 @@
           <orth>liacraich</orth>
           <pron>[lʹiɑkɾiç]</pron>
         </form>
-        <def>[lʹiɑkɾiç] Notes: smear.</def>
+        <def>Notes: smear.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166294232">
         <form>
           <orth>liamach</orth>
-          <pron>[lʹ[ĩɑ̃]</pron>
+          <pron>[lʹ[ĩɑ̃]mɑx]</pron>
         </form>
-        <def>[lʹ[ĩɑ̃]mɑx] Notes: slimy.</def>
+        <def>Notes: slimy.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166296392">
         <form>
           <orth>lianag</orth>
-          <pron>[lʹ[ĩɑ̃]</pron>
+          <pron>[lʹ[ĩɑ̃]:ṉɑɡ]</pron>
         </form>
-        <def>[lʹ[ĩɑ̃]:ṉɑɡ] Notes: regular, flat piece of ground, usually grassy; also lianag fhraoich – level heather-covered area.</def>
+        <def>Notes: regular, flat piece of ground, usually grassy; also lianag fhraoich – level heather-covered area.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166298552">
         <form>
@@ -263,9 +257,9 @@
       <entry xml:id="Slips_BarvasAJSmithslips-idp166304600">
         <form>
           <orth>lionanaich</orth>
-          <pron>[lʹ[ĩɤ̃]</pron>
+          <pron>[lʹ[ĩɤ̃]ṉɑṉiç]</pron>
         </form>
-        <def>[lʹ[ĩɤ̃]ṉɑṉiç] Notes: green slimy weed growing in wells and streams. More noticeable in dry weather.</def>
+        <def>Notes: green slimy weed growing in wells and streams. More noticeable in dry weather.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166306760">
         <form>
@@ -284,7 +278,7 @@
           <orth>liut</orth>
           <pron>[lʹu̟t̪]</pron>
         </form>
-        <def>[lʹu̟t̪] Quotation: A ’bheil dad a [lu̟t̪] agad air fighe? Notes: skill.</def>
+        <def>Quotation: A ’bheil dad a [lu̟t̪] agad air fighe? Notes: skill.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166311944">
         <form>
@@ -327,14 +321,14 @@
           <orth>lòpraich</orth>
           <pron>[ɫɔ:pɾiç]</pron>
         </form>
-        <def>[ɫɔ:pɾiç] Notes: soft piece of ground turned into a quagmire by the tramping of beasts.</def>
+        <def>Notes: soft piece of ground turned into a quagmire by the tramping of beasts.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166322888">
         <form>
           <orth>loromachd</orth>
           <pron>[ɫɤɾɤmɑxk]</pron>
         </form>
-        <def>[ɫɤɾɤmɑxk] Quotation: dearg loromachd. Notes: stark naked.</def>
+        <def>Quotation: dearg loromachd. Notes: stark naked.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166324760">
         <form>
@@ -353,7 +347,7 @@
           <orth>luathaireach</orth>
           <pron>[ɫu̜ɤhəðɑx]</pron>
         </form>
-        <def>[ɫu̜ɤhəðɑx] Quotation: buntata luathaireach. Notes: early potatoes.</def>
+        <def>Quotation: buntata luathaireach. Notes: early potatoes.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166329800">
         <form>
@@ -366,21 +360,21 @@
           <orth>lubht</orth>
           <pron>[ɫu̜t̪]</pron>
         </form>
-        <def>[ɫu̜t̪] Quotation: Shuas air a’ [ɫu̜t̪]. Notes: for lobht.</def>
+        <def>Quotation: Shuas air a’ [ɫu̜t̪]. Notes: for lobht.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166333544">
         <form>
           <orth>ludair</orth>
           <pron>[ɫu̜d̪əɾ]</pron>
         </form>
-        <def>[ɫu̜d̪əɾ] Notes: stir up, mix up liquid. Also “Fhuair e ludradh” – he got a severe shaking or said of a person who came home very wet, caught in a very heavy shower of rain.</def>
+        <def>Notes: stir up, mix up liquid. Also “Fhuair e ludradh” – he got a severe shaking or said of a person who came home very wet, caught in a very heavy shower of rain.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166335272" type="person">
         <form>
           <orth>luid</orth>
           <pron>[ɫu̜dʹ]</pron>
         </form>
-        <def>[ɫu̜dʹ] Quotation: “Bu tu a’ luid!” Notes: clumsy person.</def>
+        <def>Quotation: “Bu tu a’ luid!” Notes: clumsy person.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166337144">
         <form>
@@ -393,7 +387,7 @@
           <orth>luin</orth>
           <pron>[ɫũ̜nʹ]</pron>
         </form>
-        <def>[ɫũ̜nʹ] Quotation: “Mial-chu féidh ’s a (e?) leum air buinnig ’s a’ luin cha chumadh i fàir air.” Cho luath ris a’ luin. Notes: shimmering heat haze as seen on the horizon.</def>
+        <def>Quotation: “Mial-chu féidh ’s a (e?) leum air buinnig ’s a’ luin cha chumadh i fàir air.” Cho luath ris a’ luin. Notes: shimmering heat haze as seen on the horizon.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166340528" type="person">
         <form>
@@ -436,7 +430,7 @@
           <orth>maide-uilt</orth>
           <pron>[mɑ̃dʹu̟lʹtʹ]</pron>
         </form>
-        <def>[mɑ̃dʹu̟lʹtʹ] Quotation: maidean uilt. Notes: two thin sticks used to separate threads when tying in.</def>
+        <def>Quotation: maidean uilt. Notes: two thin sticks used to separate threads when tying in.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166352264">
         <form>
@@ -449,7 +443,7 @@
           <orth>màlach</orth>
           <pron>[mɑ̃:ɫɑx]</pron>
         </form>
-        <def>[mɑ̃:ɫɑx] Notes: a heavy blow.</def>
+        <def>Notes: a heavy blow.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166355648">
         <form>
@@ -468,7 +462,7 @@
           <orth>meadh-bhlàth</orth>
           <pron>[mjɤ:vɫɑ:]</pron>
         </form>
-        <def>[mjɤ:vɫɑ:] Notes: tepid.</def>
+        <def>Notes: tepid.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166360976">
         <form>
@@ -481,28 +475,28 @@
           <orth>meallag</orth>
           <pron>[ˈmjɑɫɑɡ]</pron>
         </form>
-        <def>[ˈmjɑɫɑɡ] Notes: wiry grass roots found on edge of sandbanks. Used in small bunches as pot-scrapers. Sand was left in among it for better scraping.</def>
+        <def>Notes: wiry grass roots found on edge of sandbanks. Used in small bunches as pot-scrapers. Sand was left in among it for better scraping.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166364216">
         <form>
           <orth>meapaid</orth>
           <pron>[mɛ̃pɑdʹ]</pron>
         </form>
-        <def>[mɛ̃pɑdʹ] Notes: scrubber made originally from the roots of sea-bent.</def>
+        <def>Notes: scrubber made originally from the roots of sea-bent.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166366016" type="person">
         <form>
           <orth>meigea(r)lan</orth>
           <pron>[mɛ̃ɡʹəɫɑṉ]</pron>
         </form>
-        <def>[mɛ̃ɡʹəɫɑṉ] Notes: a small cheeky boy.</def>
+        <def>Notes: a small cheeky boy.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166367744">
         <form>
           <orth>meurlan</orth>
           <pron>[mjɤ:ɫɑṉ]</pron>
         </form>
-        <def>[mjɤ:ɫɑṉ] Quotation: meurlan iarach, meurlan uarach or àrd. Notes: right-angled piece cut off at the tip of a sheep’s ear. </def>
+        <def>Quotation: meurlan iarach, meurlan uarach or àrd. Notes: right-angled piece cut off at the tip of a sheep’s ear. </def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166369616">
         <form>
@@ -515,7 +509,7 @@
           <orth>mi-stiùrrachd</orth>
           <pron>[mĩ:ʃtʹu̜:rɑxk]</pron>
         </form>
-        <def>[mĩ:ʃtʹu̜:rɑxk] Quotation: Dé a mhi-stiùrrachd a bha thu a deanamh? Notes: mischief.</def>
+        <def>Quotation: Dé a mhi-stiùrrachd a bha thu a deanamh? Notes: mischief.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166373432">
         <form>
@@ -526,9 +520,9 @@
       <entry xml:id="Slips_BarvasAJSmithslips-idp166374944">
         <form>
           <orth>miasdadh</orth>
-          <pron>[m[ĩɤ̃]</pron>
+          <pron>[m[ĩɤ̃]sd̪ɑɣ] </pron>
         </form>
-        <def>[m[ĩɤ̃]sd̪ɑɣ] Quotation: De am miasdadh a th’ort a’ sin? Notes: In Dw. “mischief done by cows and horses that have broken loose in corn, etc.” With us, applied more to mischief done by
+        <def>Quotation: De am miasdadh a th’ort a’ sin? Notes: In Dw. “mischief done by cows and horses that have broken loose in corn, etc.” With us, applied more to mischief done by
           children.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166377248">
@@ -542,14 +536,14 @@
           <orth>miothlachd</orth>
           <pron>[mĩɔ̃ɫɑxk]</pron>
         </form>
-        <def>[mĩɔ̃ɫɑxk] Quotation: Chaneil miothlachd sam bith ann. Notes: harm.</def>
+        <def>Quotation: Chaneil miothlachd sam bith ann. Notes: harm.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166380632">
         <form>
           <orth>mòigh</orth>
-          <pron>[m[ɔ̃ĩ]</pron>
+          <pron>[m[ɔ̃ĩ]]</pron>
         </form>
-        <def>[m[ɔ̃ĩ]] Quotation: Mhòigh mi air gun a dhol a mach. Notes: threaten, warn. Dw. muigh.</def>
+        <def>Quotation: Mhòigh mi air gun a dhol a mach. Notes: threaten, warn. Dw. muigh.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166382936">
         <form>
@@ -562,42 +556,42 @@
           <orth>mónaich</orth>
           <pron>[mo:ṉiç]</pron>
         </form>
-        <def>[mo:ṉiç] Notes: used by some for móran.</def>
+        <def>Notes: used by some for móran.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166386176">
         <form>
           <orth>morghan</orth>
           <pron>[mɔɾɑɣɑṉ]</pron>
         </form>
-        <def>[mɔɾɑɣɑṉ] Notes: gravel, usually found on the bed of a loch or river.</def>
+        <def>Notes: gravel, usually found on the bed of a loch or river.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166387976">
         <form>
           <orth>morghlaich</orth>
           <pron>[mɔɾɑɫiç]</pron>
         </form>
-        <def>[mɔɾɑɫiç] Notes: mixture of fine and rough gravel.</def>
+        <def>Notes: mixture of fine and rough gravel.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166389704">
         <form>
           <orth>morran</orth>
           <pron>[mɔrɑṉ]</pron>
         </form>
-        <def>[mɔrɑṉ] Quotation: ceap morran. Notes: used as a seat in shielings because of its toughness. Morran – a very tough grass.</def>
+        <def>Quotation: ceap morran. Notes: used as a seat in shielings because of its toughness. Morran – a very tough grass.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp166391576">
         <form>
           <orth>morran</orth>
           <pron>[mɔrɑṉ]</pron>
         </form>
-        <def>[mɔrɑṉ] Notes: very tough grass found growing in peaty soil.</def>
+        <def>Notes: very tough grass found growing in peaty soil.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp117927576">
         <form>
           <orth>rabht</orth>
-          <pron>[r[ɑu̟]</pron>
+          <pron>[r[ɑu̟]t̪]</pron>
         </form>
-        <def>[r[ɑu̟]t̪] Quotation: Na bi ag innse na rabhtan sin. Notes: a tall yarn. (Dw. – idle or nonsensical talk.)</def>
+        <def>Quotation: Na bi ag innse na rabhtan sin. Notes: a tall yarn. (Dw. – idle or nonsensical talk.)</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp117929952" type="person">
         <form>
@@ -628,14 +622,14 @@
           <orth>ramaiseadh</orth>
           <pron>[rɑ̃mɑʃəɣ]</pron>
         </form>
-        <def>[rɑ̃mɑʃəɣ] Quotation: Thug e [rɑ̃mɑʃəɣ] mhath dhi. Notes: improper handling of a woman.</def>
+        <def>Quotation: Thug e [rɑ̃mɑʃəɣ] mhath dhi. Notes: improper handling of a woman.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp117938592" type="person">
         <form>
           <orth>ramalair</orth>
           <pron>[rɑ̃məlɑð]</pron>
         </form>
-        <def>[rɑ̃məlɑð] Notes: a “broth of a boy”.</def>
+        <def>Notes: a “broth of a boy”.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp117940320">
         <form>
@@ -673,7 +667,7 @@
           <orth>reothart</orth>
           <pron>[ˈroəḏ]</pron>
         </form>
-        <def>[ˈroəḏ] Quotation: [t̪ɔpˈroəḏ]. Notes: the height of the spring tide.</def>
+        <def>Quotation: [t̪ɔpˈroəḏ]. Notes: the height of the spring tide.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp117950544">
         <form>
@@ -692,7 +686,7 @@
           <orth>riasg</orth>
           <pron>[rɛ:sɡ]</pron>
         </form>
-        <def>[rɛ:sɡ] Notes: raw peat.</def>
+        <def>Notes: raw peat.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp117955584">
         <form>
@@ -705,7 +699,7 @@
           <orth>roille</orth>
           <pron>[rɤlʹə]</pron>
         </form>
-        <def>[rɤlʹə] Notes: dribble of saliva running down from the mouth.</def>
+        <def>Notes: dribble of saliva running down from the mouth.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp117958824">
         <form>
@@ -760,7 +754,7 @@
           <orth>ruideil</orth>
           <pron>[ru̜dʹəl]</pron>
         </form>
-        <def>[ru̜dʹəl] Quotation: Bha e a’ ruideil thall ’s a bhos na do lorg. Notes: scurrying.</def>
+        <def>Quotation: Bha e a’ ruideil thall ’s a bhos na do lorg. Notes: scurrying.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp117973872">
         <form>
@@ -773,7 +767,7 @@
           <orth>rumastaireachd</orth>
           <pron>[rũ̜məst̪ɑðɑk]</pron>
         </form>
-        <def>[rũ̜məst̪ɑðɑk] Notes: rummaging.</def>
+        <def>Notes: rummaging.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp117977256">
         <form>
@@ -816,7 +810,7 @@
           <orth>ablach</orth>
           <pron>[ɑbəɫɑx]</pron>
         </form>
-        <def>[ɑbəɫɑx] Quotation: ablach de chàr. Notes: can be used of anything which has become useless, anything in poor repair.</def>
+        <def>Quotation: ablach de chàr. Notes: can be used of anything which has become useless, anything in poor repair.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp117988632">
         <form>
@@ -853,7 +847,7 @@
           <orth>iaradh</orth>
           <pron>[iɤɾəɣ]</pron>
         </form>
-        <def>[iɤɾəɣ] Quotation: Cha deach iaradh air a’ bheul aige bho mhaduinn. Notes: He hasn’t stopped talking since morning. (“Lull”)</def>
+        <def>Quotation: Cha deach iaradh air a’ bheul aige bho mhaduinn. Notes: He hasn’t stopped talking since morning. (“Lull”)</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp117999288">
         <form>
@@ -872,14 +866,14 @@
           <orth>innisgich</orth>
           <pron>[ĩṉiʃɡʹiç]</pron>
         </form>
-        <def>[ĩṉiʃɡʹiç] Quotation: Bha e dha innisgeachadh. Notes: He was giving him a dressing-down.</def>
+        <def>Quotation: Bha e dha innisgeachadh. Notes: He was giving him a dressing-down.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp118004328">
         <form>
           <orth>ìoc</orth>
           <pron>[i:k]</pron>
         </form>
-        <def>[i:k] Notes: a triangular piece of clothing inserted at the sides of garments to make them wider at the bottom. </def>
+        <def>Notes: a triangular piece of clothing inserted at the sides of garments to make them wider at the bottom. </def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp118006056">
         <form>
@@ -898,7 +892,7 @@
           <orth>iormadh</orth>
           <pron>[wɾəmɑɣ]</pron>
         </form>
-        <def>[wɾəmɑɣ] Notes: for iomradh.</def>
+        <def>Notes: for iomradh.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp118011312">
         <form>
@@ -917,7 +911,7 @@
           <orth>it-fhitheach</orth>
           <pron>[ĩtʹˈiɑx]</pron>
         </form>
-        <def>[ĩtʹˈiɑx] Notes: gullet.</def>
+        <def>Notes: gullet.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp118016064">
         <form>
@@ -930,7 +924,7 @@
           <orth>iungh</orth>
           <pron>[jɤ̃ɣ:]</pron>
         </form>
-        <def>[jɤ̃ɣ:] Quotation: Bha iungh air a thoirt bhon an dàrna taobh agus air fhuaigheal air an taobh eile. Notes: when making shirts out of flour-bags, a long narrow triangular strip was taken
+        <def>Quotation: Bha iungh air a thoirt bhon an dàrna taobh agus air fhuaigheal air an taobh eile. Notes: when making shirts out of flour-bags, a long narrow triangular strip was taken
           off one edge and fitted on the other side to make a more favourable shape. </def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp118019592">
@@ -950,14 +944,14 @@
           <orth>niùlag</orth>
           <pron>[nʹũ̜:ɫɑɡ]</pron>
         </form>
-        <def>[nʹũ̜:ɫɑɡ] Notes: a very small potato.</def>
+        <def>Notes: a very small potato.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp118024632">
         <form>
           <orth>ochdan</orth>
           <pron>[okɑṉ]</pron>
         </form>
-        <def>[okɑṉ] Notes: a short steep rise in a brae.</def>
+        <def>Notes: a short steep rise in a brae.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp118026360">
         <form>
@@ -982,7 +976,7 @@
           <orth>oileag</orth>
           <pron>[ɔlɑɡ]</pron>
         </form>
-        <def>[ɔlɑɡ] Notes: fairly large stone, but could be thrown.</def>
+        <def>Notes: fairly large stone, but could be thrown.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp118032768">
         <form>
@@ -995,7 +989,7 @@
           <orth>oslaig</orth>
           <pron>[ɔsɫiɡʹ]</pron>
         </form>
-        <def>[ɔsɫiɡʹ] Quotation: oslaig de dhuine or oslaig de bhoirionnach. Notes: a large person.</def>
+        <def>Quotation: oslaig de dhuine or oslaig de bhoirionnach. Notes: a large person.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp118036368">
         <form>
@@ -1036,9 +1030,9 @@
       <entry xml:id="Slips_BarvasAJSmithslips-idp118046016">
         <form>
           <orth>planndrais</orth>
-          <pron>[pɫ[ɑ̃ũ̜]</pron>
+          <pron>[pɫ[ɑ̃ũ̜]n̪d̪ɾiʃ] </pron>
         </form>
-        <def>[pɫ[ɑ̃ũ̜]n̪d̪ɾiʃ] Notes: young cabbage plant.</def>
+        <def>Notes: young cabbage plant.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp118048176">
         <form>
@@ -1057,7 +1051,7 @@
           <orth>plocan</orth>
           <pron>[pɫɔkɑṉ]</pron>
         </form>
-        <def>[pɫɔkɑṉ] Notes: long-handled wooden mallet for breaking down clods of earth.</def>
+        <def>Notes: long-handled wooden mallet for breaking down clods of earth.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp118053288">
         <form>
@@ -4416,9 +4410,9 @@
       <entry xml:id="Slips_BarvasAJSmithslips-idp116428216">
         <form>
           <orth>guanach</orth>
-          <pron>[ɡ[ũ̜ɑ̃]</pron>
+          <pron>[ɡ[ũ̜ɑ̃]:ṉɑx]</pron>
         </form>
-        <def>[ɡ[ũ̜ɑ̃]:ṉɑx] Quotation: duine guanach na dhòigh. Notes: Dw. fickleness, airyness. Also slow-moving, slow to act in Barvas.</def>
+        <def>Quotation: duine guanach na dhòigh. Notes: Dw. fickleness, airyness. Also slow-moving, slow to act in Barvas.</def>
       </entry>
       <entry xml:id="Slips_BarvasAJSmithslips-idp116430520">
         <form>
@@ -4431,7 +4425,7 @@
           <orth>gùineal</orth>
           <pron>[ɡũ̟:nʹɑɫ]</pron>
         </form>
-        <def>[ɡũ̟:nʹɑɫ] Notes: same as gùirneal in Dw.</def>
+        <def>Notes: same as gùirneal in Dw.</def>
       </entry>
     </body>
   </text>

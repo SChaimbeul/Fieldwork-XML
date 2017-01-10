@@ -19,20 +19,11 @@
     <profileDesc>
       <creation>
         <date>May 1972</date>
-        <location>
-          <placeName>[Lewis], Lower Barvas</placeName>
-        </location>
+        <location corresp="Lewis_Barvas_Lower"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>A. J. Smith</persName>
-        </person>
-        <person role="informant">
-          <persName>Smith</persName>
-          <birth>
-            <placeName>[Barvas]</placeName>
-          </birth>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith"/>
+        <person role="informant" corresp="Smith_Lewis_Lower_Barvas"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -49,28 +40,28 @@
           <orth>sgìmeag</orth>
           <pron>[sɡʹĩ:mɑɡ]</pron>
         </form>
-        <def>[sɡʹĩ:mɑɡ] Note: a very thin layer, a film. (“Sgìmeach” also used.)</def>
+        <def>Note: a very thin layer, a film. (“Sgìmeach” also used.)</def>
       </entry>
       <entry xml:id="AJSmith_BarvasSmithmisc2-idm36421816">
         <form>
           <orth>lì</orth>
           <pron>[lʹı:]</pron>
         </form>
-        <def>[lʹı:] Note: a thin film, e.g. oil, on the surface of water.</def>
+        <def>Note: a thin film, e.g. oil, on the surface of water.</def>
       </entry>
       <entry xml:id="AJSmith_BarvasSmithmisc2-idm36420088">
         <form>
           <orth>goirtean</orth>
           <pron>[ɡɔʴsṯɑṉ]</pron>
         </form>
-        <def>[ɡɔʴsṯɑṉ] Note: used in Barvas for a very small plot on the machair where potatoes were planted. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+        <def>Note: used in Barvas for a very small plot on the machair where potatoes were planted. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
       </entry>
       <entry xml:id="AJSmith_BarvasSmithmisc2-idm36418216" type="person">
         <form>
           <orth>grioban</orth>
           <pron>[ɡɾıbɔ̃ṉ]</pron>
         </form>
-        <def>[ɡɾıbɔ̃ṉ] Quot.: “A’ ghriobain bhradaich!” Note: small pest of a boy.</def>
+        <def>Quot.: “A’ ghriobain bhradaich!” Note: small pest of a boy.</def>
       </entry>
       <entry xml:id="AJSmith_BarvasSmithmisc2-idm36416272">
         <form>
@@ -2674,14 +2665,14 @@
           <orth>dualachas</orth>
           <pron>[duɤɫɑxəs]</pron>
         </form>
-        <def>[duɤɫɑxəs] Quot.: “Gu deimhinn, cha b’e dol a dualachas sin dha!” Note: “Indeed, that was to be expected of him!”</def>
+        <def>Quot.: “Gu deimhinn, cha b’e dol a dualachas sin dha!” Note: “Indeed, that was to be expected of him!”</def>
       </entry>
       <entry xml:id="AJSmith_BarvasSmithmisc2-idm40535712">
         <form>
           <orth>fineachas</orth>
           <pron>[fĩṉɑxəs]</pron>
         </form>
-        <def>[fĩṉɑxəs] Quot.: “Gu deimhinn, cha b’e dol a fineachas sin dha.” Note: same as for “dualachas” [q.v.].</def>
+        <def>Quot.: “Gu deimhinn, cha b’e dol a fineachas sin dha.” Note: same as for “dualachas” [q.v.].</def>
       </entry>
       <entry xml:id="AJSmith_BarvasSmithmisc2-idm40533696">
         <form>
@@ -2708,7 +2699,7 @@
           <orth>stàirsnich</orth>
           <pron>[st̪ɑ:ʴsṉiç]</pron>
         </form>
-        <def>[st̪ɑ:ʴsṉiç] Quot.: “Dé ’n gnothaich a th’aige bhi stàirsneachd air mo chuid-sa fonn [q.v.]?” Note: wandering about. [NOTES: the turned r used for the symbol which is unclear in the
+        <def>Quot.: “Dé ’n gnothaich a th’aige bhi stàirsneachd air mo chuid-sa fonn [q.v.]?” Note: wandering about. [NOTES: the turned r used for the symbol which is unclear in the
           original.]</def>
       </entry>
       <entry xml:id="AJSmith_BarvasSmithmisc2-idm40524696">
@@ -2722,7 +2713,7 @@
           <orth>foiream</orth>
           <pron>[fɔðɑm]</pron>
         </form>
-        <def>[fɔðɑm] Note: a loud noise.</def>
+        <def>Note: a loud noise.</def>
       </entry>
       <entry xml:id="AJSmith_BarvasSmithmisc2-idm40521096">
         <form>

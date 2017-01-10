@@ -553,6 +553,55 @@
             <surname>MacNeil</surname>
           </persName>
         </person>
+        <person xml:id="Donald_Smith_Lewis_Barvas">
+          <persName xml:lang="en">
+            <forename>Donald</forename>
+            <surname>Smith</surname>
+          </persName>
+        </person>
+        <person xml:id="John_Murray_Lewis_Barvas">
+          <persName xml:lang="en">
+            <forename>John</forename>
+            <surname>Murray</surname>
+          </persName>
+        </person>
+        <person xml:id="Smith_Lewis_Lower_Barvas">
+          <persName xml:lang="en">
+            <surname>Smith</surname>
+          </persName>
+          <birth>
+            <location corresp="Lewis_Barvas"/>
+          </birth>
+        </person>
+        <person xml:id="Cairstiona_Lewis_Upper_Bayble">
+          <persName>
+            <forename>Cairstiona</forename>
+          </persName>
+        </person>
+        <person xml:id="Mrs_C_Dunn_Lewis_Bayble">
+          <persName xml:lang="en">
+            <roleName>Mrs</roleName>
+            <forename>C.</forename>
+            <surname>Dunn</surname>
+          </persName>
+        </person>
+        <person xml:id="Andrew_Laing_North_Uist_Bayhead">
+          <persName xml:lang="en">
+            <forename>Andrew</forename>
+            <surname>Laing</surname>
+          </persName>
+          <age>c. 80</age>
+          <birth>
+            <location corresp="North_Uist_Bayhead"/>
+          </birth>
+        </person>
+        <person xml:id="Neil_MacLean_North_Uist_Bayhead">
+          <persName xml:lang="en">
+            <forename>Neil</forename>
+            <surname>MacLean</surname>
+          </persName>
+          <age>c. 65</age>
+        </person>
         
 
         <!-- Fieldworkers -->

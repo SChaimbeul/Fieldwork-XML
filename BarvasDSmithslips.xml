@@ -19,17 +19,11 @@
     <profileDesc>
       <creation>
         <date>09/1971</date>
-        <location>
-          <placeName>Lewis, Barvas</placeName>
-        </location>
+        <location corresp="Lewis_Barvas"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>Donald Smith</persName>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith"/>
+        <person role="informant" corresp="Donald_Smith_Lewis_Barvas"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -46,7 +40,7 @@
           <orth>atach</orth>
           <pron>[ɑt̪ɑx]</pron>
         </form>
-        <def>[ɑt̪ɑx] Quotation: atach bhrògan, atach de chòta. Notes: used of items of clothes past their usefulness. Also used of the remains of a sheep. (Is it used of anything useless?)</def>
+        <def>Quotation: atach bhrògan, atach de chòta. Notes: used of items of clothes past their usefulness. Also used of the remains of a sheep. (Is it used of anything useless?)</def>
       </entry>
       <entry xml:id="Slips_BarvasDSmithslips-idp115467872">
         <form>

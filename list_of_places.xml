@@ -28,6 +28,15 @@
               <place xml:id="Lewis_Point_Garrabost">
                 <placeName xml:lang="en">Garrabost</placeName>
               </place>
+              <place xml:id="Lewis_Point_Bayble">
+                <placeName xml:lang="en">Bayble</placeName>
+                <place xml:id="Lewis_Point_Bayble_Upper">
+                  <placeName xml:lang="en">Upper Bayble</placeName>
+                </place>
+                <place xml:id="Lewis_Point_Bayble_Lower">
+                  <placeName xml:lang="en">Lower Bayble</placeName>
+                </place>
+              </place>
             </place>
             <place xml:id="Lewis_Park">
               <placeName>Sgìre na Pàirc an Leódhas</placeName>
@@ -44,6 +53,12 @@
             </place>
             <place xml:id="Lewis_Balallan">
               <placeName xml:lang="en">Balallan</placeName>
+            </place>
+            <place xml:id="Lewis_Barvas">
+              <placeName xml:lang="en">Barvas</placeName>
+              <place xml:id="Lewis_Barvas_Lower">
+                <placeName xml:lang="en">Lower Barvas</placeName>
+              </place>
             </place>
           </place>
           <place xml:id="Harris">
@@ -164,9 +179,14 @@
             </place>
           </place>
           <place xml:id="North_Uist">
+            <placeName>Uibhist a Tuath</placeName>
             <placeName xml:lang="en">North Uist</placeName>
             <place xml:id="North_Uist_Baleshare">
               <placeName xml:lang="en">Baleshare</placeName>
+            </place>
+            <place xml:id="North_Uist_Bayhead">
+              <placeName>Ceann a Bhàigh</placeName>
+              <placeName xml:lang="en">Bayhead</placeName>
             </place>
           </place>
           <place xml:id="Benbecula">

@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WoolworkingandFishing_BayheadSchoolmaorach">
   <teiHeader>
     <fileDesc>
@@ -14,9 +18,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <location>
-          <placeName>Uibhist a Tuath, Ceann a Bhàigh [North Uist, Bayhead]</placeName>
-        </location>
+        <location corresp="North_Uist_Bayhead"/>
       </creation>
       <particDesc>
         <person role="fieldworker">
@@ -37,208 +39,214 @@
   </teiHeader>
   <text>
     <body>
-      <head xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e26">1. Maorach</head>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e31">
-        <form>
-          <orth>bàirneach</orth>
-        </form>
-        <def>limpet.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e40">
-        <form>
-          <orth>faochag</orth>
-        </form>
-        <def>whelk.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e49">
-        <form>
-          <orth>cnomhagan</orth>
-        </form>
-        <def>periwinkle, conch.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e58">
-        <form>
-          <orth>eisir</orth>
-        </form>
-        <def>oyster.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e67">
-        <form>
-          <orth>strùban</orth>
-        </form>
-        <def>cockle.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e76">
-        <form>
-          <orth>muirsgian</orth>
-        </form>
-        <def>razor fish.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e85">
-        <form>
-          <orth>mùsgan</orth>
-        </form>
-        <def>hose fish.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e94">
-        <form>
-          <orth>creachann</orth>
-        </form>
-        <def>clam, scallop.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e103">
-        <form>
-          <orth>fiasgann</orth>
-        </form>
-        <def>mussle.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e112">
-        <form>
-          <orth>gibearnach</orth>
-        </form>
-        <def>cuttle fish.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e121">
-        <form>
-          <orth>gibneach</orth>
-        </form>
-        <def>squid, ink-fish.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e130">
-        <form>
-          <orth>giùran</orth>
-        </form>
-        <def>barnacle.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e139">
-        <form>
-          <orth>crogan-feannaig</orth>
-        </form>
-        <def>sea-urchin.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e148">
-        <form>
-          <orth>faoiteag</orth>
-        </form>
-        <def>cowrie.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e157">
-        <form>
-          <orth>sporan-feannaig</orth>
-        </form>
-        <def>egg of skate or dogfish.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e166">
-        <form>
-          <orth>maorach</orth>
-        </form>
-        <def>limpet (used in Tiree).</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e175">
-        <form>
-          <orth>madadh</orth>
-        </form>
-        <def>large mussel.</def>
-      </entry>
-      <head xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e183">2. A’ tional maorach</head>
-      <head xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e187">3. Beathaichean eile a gheibhear ’sa’ chladach</head>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e192">
-        <form>
-          <orth>luga</orth>
-        </form>
-        <def>lugworm.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e201">
-        <form>
-          <orth>easgann</orth>
-        </form>
-        <def>eel.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e210">
-        <form>
-          <orth>cluaimheag</orth>
-        </form>
-        <def>butter-fish.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e219">
-        <form>
-          <orth>cloimheag</orth>
-          <pron>[See cluaimheag.]</pron>
-        </form>
-        <def>[See cluaimheag.]</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e228">
-        <form>
-          <orth>caran-creige</orth>
-        </form>
-        <def>sea-porcupine.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e237">
-        <form>
-          <orth>muc-chreige</orth>
-        </form>
-        <def>wrasse.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e246">
-        <form>
-          <orth>giomach</orth>
-        </form>
-        <def>lobster.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e255">
-        <form>
-          <orth>partan</orth>
-        </form>
-        <def>crab.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e264">
-        <form>
-          <orth>crùbag</orth>
-        </form>
-        <def>edible crab.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e273">
-        <form>
-          <orth>muir-teachd</orth>
-        </form>
-        <def>jelly-fish.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e282">
-        <form>
-          <orth>crosgag-thràghad</orth>
-        </form>
-        <def>star fish.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e291">
-        <form>
-          <orth>sgait</orth>
-        </form>
-        <def>skate.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e300">
-        <form>
-          <orth>sòrnan</orth>
-        </form>
-        <def>small skate.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e309">
-        <form>
-          <orth>siolag</orth>
-        </form>
-        <def>sand eel.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e318">
-        <form>
-          <orth>liabag</orth>
-        </form>
-        <def>flounder.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e327">
-        <form>
-          <orth>caran-creige</orth>
-        </form>
-        <def>stickleback.</def>
-      </entry>
+      <div>
+        <head xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e26">1. Maorach</head>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e31">
+          <form>
+            <orth>bàirneach</orth>
+          </form>
+          <def>limpet.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e40">
+          <form>
+            <orth>faochag</orth>
+          </form>
+          <def>whelk.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e49">
+          <form>
+            <orth>cnomhagan</orth>
+          </form>
+          <def>periwinkle, conch.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e58">
+          <form>
+            <orth>eisir</orth>
+          </form>
+          <def>oyster.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e67">
+          <form>
+            <orth>strùban</orth>
+          </form>
+          <def>cockle.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e76">
+          <form>
+            <orth>muirsgian</orth>
+          </form>
+          <def>razor fish.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e85">
+          <form>
+            <orth>mùsgan</orth>
+          </form>
+          <def>hose fish.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e94">
+          <form>
+            <orth>creachann</orth>
+          </form>
+          <def>clam, scallop.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e103">
+          <form>
+            <orth>fiasgann</orth>
+          </form>
+          <def>mussle.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e112">
+          <form>
+            <orth>gibearnach</orth>
+          </form>
+          <def>cuttle fish.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e121">
+          <form>
+            <orth>gibneach</orth>
+          </form>
+          <def>squid, ink-fish.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e130">
+          <form>
+            <orth>giùran</orth>
+          </form>
+          <def>barnacle.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e139">
+          <form>
+            <orth>crogan-feannaig</orth>
+          </form>
+          <def>sea-urchin.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e148">
+          <form>
+            <orth>faoiteag</orth>
+          </form>
+          <def>cowrie.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e157">
+          <form>
+            <orth>sporan-feannaig</orth>
+          </form>
+          <def>egg of skate or dogfish.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e166">
+          <form>
+            <orth>maorach</orth>
+          </form>
+          <def>limpet (used in Tiree).</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e175">
+          <form>
+            <orth>madadh</orth>
+          </form>
+          <def>large mussel.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e183">2. A’ tional maorach</head>
+      </div>
+      <div>
+        <head xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e187">3. Beathaichean eile a gheibhear ’sa’ chladach</head>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e192">
+          <form>
+            <orth>luga</orth>
+          </form>
+          <def>lugworm.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e201">
+          <form>
+            <orth>easgann</orth>
+          </form>
+          <def>eel.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e210">
+          <form>
+            <orth>cluaimheag</orth>
+          </form>
+          <def>butter-fish.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e219">
+          <form>
+            <orth>cloimheag</orth>
+            <pron>[See cluaimheag.]</pron>
+          </form>
+          <def>[See cluaimheag.]</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e228">
+          <form>
+            <orth>caran-creige</orth>
+          </form>
+          <def>sea-porcupine.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e237">
+          <form>
+            <orth>muc-chreige</orth>
+          </form>
+          <def>wrasse.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e246">
+          <form>
+            <orth>giomach</orth>
+          </form>
+          <def>lobster.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e255">
+          <form>
+            <orth>partan</orth>
+          </form>
+          <def>crab.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e264">
+          <form>
+            <orth>crùbag</orth>
+          </form>
+          <def>edible crab.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e273">
+          <form>
+            <orth>muir-teachd</orth>
+          </form>
+          <def>jelly-fish.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e282">
+          <form>
+            <orth>crosgag-thràghad</orth>
+          </form>
+          <def>star fish.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e291">
+          <form>
+            <orth>sgait</orth>
+          </form>
+          <def>skate.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e300">
+          <form>
+            <orth>sòrnan</orth>
+          </form>
+          <def>small skate.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e309">
+          <form>
+            <orth>siolag</orth>
+          </form>
+          <def>sand eel.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e318">
+          <form>
+            <orth>liabag</orth>
+          </form>
+          <def>flounder.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_BayheadSchoolmaorach-d0e327">
+          <form>
+            <orth>caran-creige</orth>
+          </form>
+          <def>stickleback.</def>
+        </entry>
+      </div>
     </body>
   </text>
 </TEI>

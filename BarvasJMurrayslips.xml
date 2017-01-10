@@ -19,17 +19,11 @@
     <profileDesc>
       <creation>
         <date>1975</date>
-        <location>
-          <placeName>Lewis, Barvas</placeName>
-        </location>
+        <location corresp="Lewis_Barvas"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[Tony Dilworth?]</persName>
-        </person>
-        <person role="informant">
-          <persName>John Murray</persName>
-        </person>
+        <person role="fieldworker" corresp="Tony_Dilworth" cert="medium"/>
+        <person role="informant" corresp="John_Murray_Lewis_Barvas"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -52,7 +46,7 @@
           <orth>féist</orth>
           <pron>[fɛ̜:ʃtʹ]</pron>
         </form>
-        <def>[fɛ̜:ʃtʹ] Quotation: Thug mi a steach féist air. Notes: of skirt, “tuck”. (Heard a woman, probably from ‘An Rubha’, Lewis, say it.)</def>
+        <def>Quotation: Thug mi a steach féist air. Notes: of skirt, “tuck”. (Heard a woman, probably from ‘An Rubha’, Lewis, say it.)</def>
       </entry>
     </body>
   </text>
