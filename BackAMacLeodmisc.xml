@@ -1,144 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AOHenley_BackAMacLeodmisc">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[1987-88]</date>
-            <location>
-               <placeName>Lewis, Back</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>A. O’Henley</persName>
-            </person>
-            <person role="informant">
-               <persName>Angus MacLeod</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="AOHenley_BackAMacLeodmisc-idp19616">
-            <form>
-               <orth>carcair</orth>
-            </form>
-            <def>the surface of a peat bog having been turfed.</def>
-         </entry>
-         <entry xml:id="AOHenley_BackAMacLeodmisc-idp21128">
-            <form>
-               <orth>cabhal</orth>
-            </form>
-            <def>a fishing net in the shape of a deep bag. Held down by weights in the narrow part of a river.</def>
-         </entry>
-         <entry xml:id="AOHenley_BackAMacLeodmisc-idp22640">
-            <form>
-               <orth>fideach</orth>
-            </form>
-            <def>low lying land near the shore which is covered by the tide at times. Salt marsh.</def>
-         </entry>
-         <entry xml:id="AOHenley_BackAMacLeodmisc-idp24152">
-            <form>
-               <orth>glomhar</orth>
-            </form>
-            <def>low lying land which is always wet and never dries.</def>
-         </entry>
-         <entry xml:id="AOHenley_BackAMacLeodmisc-idp25664">
-            <form>
-               <orth>meachranach</orth>
-            </form>
-            <def>a word used in the context of wood that is prone to cracking.</def>
-         </entry>
-         <entry xml:id="AOHenley_BackAMacLeodmisc-idp27248">
-            <form>
-               <orth>lighe</orth>
-            </form>
-            <def>a steep decline. Rock is characterised by fertile spots and consequently is quite grassy.</def>
-         </entry>
-         <entry xml:id="AOHenley_BackAMacLeodmisc-idp28760">
-            <form>
-               <orth>palla</orth>
-            </form>
-            <def>a shelf in a rock.</def>
-         </entry>
-         <entry xml:id="AOHenley_BackAMacLeodmisc-idp30272" type="person">
-            <form>
-               <orth>sàthag</orth>
-            </form>
-            <def>a taunt to embarrass someone.</def>
-         </entry>
-         <entry xml:id="AOHenley_BackAMacLeodmisc-idp32648">
-            <form>
-               <orth>liabhach</orth>
-            </form>
-            <def>a word used to indicate coldness of weather. “Latha liabhach fuar.”</def>
-         </entry>
-         <entry xml:id="AOHenley_BackAMacLeodmisc-idp34304">
-            <form>
-               <orth>tabhainneach</orth>
-            </form>
-            <def>oppressive, wearisome. Means the same as ‘sàraichte’. “Tha an t-eallach tabhainneach air sgàth ’s gu bheil an iris ro fhada.”</def>
-         </entry>
-         <entry xml:id="AOHenley_BackAMacLeodmisc-idp36032">
-            <form>
-               <orth>corr-fhàd</orth>
-            </form>
-            <def>the first peat that is cut at the outside of each row. More rugged that other peats due to the crust being exposed to the elements.</def>
-         </entry>
-         <entry xml:id="AOHenley_BackAMacLeodmisc-idp37544">
-            <form>
-               <orth>coinnle-pianain</orth>
-            </form>
-            <def>variation on ‘coinnle-blianain’, phosphorescence.</def>
-         </entry>
-         <entry xml:id="AOHenley_BackAMacLeodmisc-idp39056">
-            <form>
-               <orth>làgaraid</orth>
-            </form>
-            <def>a swift current in a narrow strait or in a sea loch.</def>
-         </entry>
-         <entry xml:id="AOHenley_BackAMacLeodmisc-idp40568">
-            <form>
-               <orth>smeachan</orth>
-            </form>
-            <def>foot rest on a peat iron.</def>
-         </entry>
-         <entry xml:id="AOHenley_BackAMacLeodmisc-idp42080">
-            <form>
-               <orth>ruathair</orth>
-            </form>
-            <def>the spreading of a contagious disease.</def>
-         </entry>
-         <entry xml:id="AOHenley_BackAMacLeodmisc-idp43592">
-            <form>
-               <orth>cambar</orth>
-            </form>
-            <def>a large rock. As applied to one of the rocks near the bottom of Tolsta Point.</def>
-         </entry>
-         <entry xml:id="AOHenley_BackAMacLeodmisc-idp45104">
-            <form>
-               <orth>innsireachd</orth>
-            </form>
-            <def>tale bearing, e.g. grassing on your mates at school.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[1987-88]</date>
+        <location corresp="Lewis_Back"/>
+      </creation>
+      <particDesc>
+        <person role="fieldworker" corresp="A_O_Henley"/>
+        <person role="informant" corresp="Angus_MacLeod_Lewis_Back"/>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="AOHenley_BackAMacLeodmisc-idp19616">
+        <form>
+          <orth>carcair</orth>
+        </form>
+        <def>the surface of a peat bog having been turfed.</def>
+      </entry>
+      <entry xml:id="AOHenley_BackAMacLeodmisc-idp21128">
+        <form>
+          <orth>cabhal</orth>
+        </form>
+        <def>a fishing net in the shape of a deep bag. Held down by weights in the narrow part of a river.</def>
+      </entry>
+      <entry xml:id="AOHenley_BackAMacLeodmisc-idp22640">
+        <form>
+          <orth>fideach</orth>
+        </form>
+        <def>low lying land near the shore which is covered by the tide at times. Salt marsh.</def>
+      </entry>
+      <entry xml:id="AOHenley_BackAMacLeodmisc-idp24152">
+        <form>
+          <orth>glomhar</orth>
+        </form>
+        <def>low lying land which is always wet and never dries.</def>
+      </entry>
+      <entry xml:id="AOHenley_BackAMacLeodmisc-idp25664">
+        <form>
+          <orth>meachranach</orth>
+        </form>
+        <def>a word used in the context of wood that is prone to cracking.</def>
+      </entry>
+      <entry xml:id="AOHenley_BackAMacLeodmisc-idp27248">
+        <form>
+          <orth>lighe</orth>
+        </form>
+        <def>a steep decline. Rock is characterised by fertile spots and consequently is quite grassy.</def>
+      </entry>
+      <entry xml:id="AOHenley_BackAMacLeodmisc-idp28760">
+        <form>
+          <orth>palla</orth>
+        </form>
+        <def>a shelf in a rock.</def>
+      </entry>
+      <entry xml:id="AOHenley_BackAMacLeodmisc-idp30272" type="person">
+        <form>
+          <orth>sàthag</orth>
+        </form>
+        <def>a taunt to embarrass someone.</def>
+      </entry>
+      <entry xml:id="AOHenley_BackAMacLeodmisc-idp32648">
+        <form>
+          <orth>liabhach</orth>
+        </form>
+        <def>a word used to indicate coldness of weather. “Latha liabhach fuar.”</def>
+      </entry>
+      <entry xml:id="AOHenley_BackAMacLeodmisc-idp34304">
+        <form>
+          <orth>tabhainneach</orth>
+        </form>
+        <def>oppressive, wearisome. Means the same as ‘sàraichte’. “Tha an t-eallach tabhainneach air sgàth ’s gu bheil an iris ro fhada.”</def>
+      </entry>
+      <entry xml:id="AOHenley_BackAMacLeodmisc-idp36032">
+        <form>
+          <orth>corr-fhàd</orth>
+        </form>
+        <def>the first peat that is cut at the outside of each row. More rugged that other peats due to the crust being exposed to the elements.</def>
+      </entry>
+      <entry xml:id="AOHenley_BackAMacLeodmisc-idp37544">
+        <form>
+          <orth>coinnle-pianain</orth>
+        </form>
+        <def>variation on ‘coinnle-blianain’, phosphorescence.</def>
+      </entry>
+      <entry xml:id="AOHenley_BackAMacLeodmisc-idp39056">
+        <form>
+          <orth>làgaraid</orth>
+        </form>
+        <def>a swift current in a narrow strait or in a sea loch.</def>
+      </entry>
+      <entry xml:id="AOHenley_BackAMacLeodmisc-idp40568">
+        <form>
+          <orth>smeachan</orth>
+        </form>
+        <def>foot rest on a peat iron.</def>
+      </entry>
+      <entry xml:id="AOHenley_BackAMacLeodmisc-idp42080">
+        <form>
+          <orth>ruathair</orth>
+        </form>
+        <def>the spreading of a contagious disease.</def>
+      </entry>
+      <entry xml:id="AOHenley_BackAMacLeodmisc-idp43592">
+        <form>
+          <orth>cambar</orth>
+        </form>
+        <def>a large rock. As applied to one of the rocks near the bottom of Tolsta Point.</def>
+      </entry>
+      <entry xml:id="AOHenley_BackAMacLeodmisc-idp45104">
+        <form>
+          <orth>innsireachd</orth>
+        </form>
+        <def>tale bearing, e.g. grassing on your mates at school.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

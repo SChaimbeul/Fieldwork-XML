@@ -1,267 +1,266 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="AOHenley_GlasgowDJMacVicarmisc3">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[1987-88]</date>
-            <location>
-               <placeName>[Glasgow]</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>A. O’Henley</persName>
-            </person>
-            <person role="informant">
-               <persName>D. J. MacVicar</persName>
-               <birth>
-                  <placeName>? [South Uist?]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112448160">
-            <form>
-               <orth>leibhidh</orth>
-               <pron>[NOTES: definition added in second hand – souming.]</pron>
-            </form>
-            <def>[NOTES: definition added in second hand – souming.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112453560">
-            <form>
-               <orth>leabhainn</orth>
-            </form>
-            <def>grain loft inside a mill.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112424112">
-            <form>
-               <orth>eubhaiseach</orth>
-            </form>
-            <def>large person. “Nach e bha…”</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112534128">
-            <form>
-               <orth>peursa</orth>
-            </form>
-            <def>signal pole in a village which would be raised to gather the villagers. Usually placed on a hill.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112491144">
-            <form>
-               <orth>àrd-bhuinn</orth>
-            </form>
-            <def>threshold.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112514400">
-            <form>
-               <orth>sorn</orth>
-            </form>
-            <def>raised stone platform beside the fire. Also used for the wall inside a kiln.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112441680">
-            <form>
-               <orth>sorrachan</orth>
-            </form>
-            <def>fireplace.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112448016">
-            <form>
-               <orth>sioman</orth>
-            </form>
-            <def>rope for drying clothes above the fire.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112535928">
-            <form>
-               <orth>ballan</orth>
-            </form>
-            <def>barrel.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112525920">
-            <form>
-               <orth>starsach</orth>
-            </form>
-            <def>footpath around the house.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112520016">
-            <form>
-               <orth>seapan</orth>
-            </form>
-            <def>measure of alcohol. A quart or 2 pints.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112465080">
-            <form>
-               <orth>lìopain</orth>
-            </form>
-            <def>dry measure used for flour and grain. Not sure of exact measurement.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112458312">
-            <form>
-               <orth>dean</orth>
-            </form>
-            <def>plump of rain. “Nach i rinn an dean uisge.” [NOTES: corrected to ‘deann’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112462128">
-            <form>
-               <orth>cnap</orth>
-            </form>
-            <def>used for an overcast sky.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112465440">
-            <form>
-               <orth>fionnar</orth>
-            </form>
-            <def>fresh wind.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112428072">
-            <form>
-               <orth>tais</orth>
-            </form>
-            <def>damp weather.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112436352">
-            <form>
-               <orth>cuireach</orth>
-            </form>
-            <def>damp drizzle. [NOTES: corrected to ‘ciurach’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112540536">
-            <form>
-               <orth>bog-balbh</orth>
-            </form>
-            <def>calm, dead flat.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112048144">
-            <form>
-               <orth>buaillaidh</orth>
-            </form>
-            <def>a halo on the moon.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112050520">
-            <form>
-               <orth>smùid</orth>
-            </form>
-            <def>used for gusts of wind. “Nach ann orra a tha smuid [sic].”</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112052176">
-            <form>
-               <orth>ceann-dubh</orth>
-            </form>
-            <def>eclipse.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112053688">
-            <form>
-               <orth>geallach-mhùgach</orth>
-            </form>
-            <def>dim.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112055200">
-            <form>
-               <orth>an grioglachan</orth>
-               <pron>[sic]</pron>
-            </form>
-            <def>[sic] Milky Way.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112056712">
-            <form>
-               <orth>ré</orth>
-            </form>
-            <def>also used for moon.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112058224">
-            <form>
-               <orth>teine-adhar</orth>
-            </form>
-            <def>thunderbolt.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112059736">
-            <form>
-               <orth>gaoth pheathreach</orth>
-            </form>
-            <def>hurricane. [NOTES: note added above ‘pheathreach’ – bheithreach.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112061464">
-            <form>
-               <orth>spliucach</orth>
-            </form>
-            <def>drizzly, miserable weather. [NOTES: corrected to ‘spliugach’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112063120">
-            <form>
-               <orth>pleòtag (-an)</orth>
-            </form>
-            <def>snowflake(s).</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112064632">
-            <form>
-               <orth>cathadh</orth>
-            </form>
-            <def>drifting snow.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112066144">
-            <form>
-               <orth>cathadh làir</orth>
-            </form>
-            <def>powdery snow.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112067656">
-            <form>
-               <orth>cathadh mara</orth>
-            </form>
-            <def>froth flying off the waves.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112070032">
-            <form>
-               <orth>siaban</orth>
-            </form>
-            <def>spindrift.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112071544">
-            <form>
-               <orth>eileanan-mara</orth>
-            </form>
-            <def>tidal islands.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112073056">
-            <form>
-               <orth>rùid</orth>
-            </form>
-            <def>swell.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112074568">
-            <form>
-               <orth>ioma-ghaoth</orth>
-            </form>
-            <def>an eddy, swirling wind, i.e. around a house.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112076080">
-            <form>
-               <orth>searrag</orth>
-            </form>
-            <def>another word for bottle.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AOHenley_GlasgowDJMacVicarmisc3">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[1987-88]</date>
+        <location>
+          <placeName>[Glasgow]</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>A. O’Henley</persName>
+        </person>
+        <person role="informant">
+          <persName>D. J. MacVicar</persName>
+          <birth>
+            <placeName>? [South Uist?]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112448160">
+        <form>
+          <orth>leibhidh</orth>
+          <pron>[NOTES: definition added in second hand – souming.]</pron>
+        </form>
+        <def>[NOTES: definition added in second hand – souming.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112453560">
+        <form>
+          <orth>leabhainn</orth>
+        </form>
+        <def>grain loft inside a mill.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112424112" type="person">
+        <form>
+          <orth>eubhaiseach</orth>
+        </form>
+        <def>large person. “Nach e bha…”</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112534128">
+        <form>
+          <orth>peursa</orth>
+        </form>
+        <def>signal pole in a village which would be raised to gather the villagers. Usually placed on a hill.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112491144">
+        <form>
+          <orth>àrd-bhuinn</orth>
+        </form>
+        <def>threshold.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112514400">
+        <form>
+          <orth>sorn</orth>
+        </form>
+        <def>raised stone platform beside the fire. Also used for the wall inside a kiln.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112441680">
+        <form>
+          <orth>sorrachan</orth>
+        </form>
+        <def>fireplace.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112448016">
+        <form>
+          <orth>sioman</orth>
+        </form>
+        <def>rope for drying clothes above the fire.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112535928">
+        <form>
+          <orth>ballan</orth>
+        </form>
+        <def>barrel.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112525920">
+        <form>
+          <orth>starsach</orth>
+        </form>
+        <def>footpath around the house.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112520016">
+        <form>
+          <orth>seapan</orth>
+        </form>
+        <def>measure of alcohol. A quart or 2 pints.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112465080">
+        <form>
+          <orth>lìopain</orth>
+        </form>
+        <def>dry measure used for flour and grain. Not sure of exact measurement.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112458312">
+        <form>
+          <orth>dean</orth>
+        </form>
+        <def>plump of rain. “Nach i rinn an dean uisge.” [NOTES: corrected to ‘deann’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112462128">
+        <form>
+          <orth>cnap</orth>
+        </form>
+        <def>used for an overcast sky.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112465440">
+        <form>
+          <orth>fionnar</orth>
+        </form>
+        <def>fresh wind.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112428072">
+        <form>
+          <orth>tais</orth>
+        </form>
+        <def>damp weather.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112436352">
+        <form>
+          <orth>cuireach</orth>
+        </form>
+        <def>damp drizzle. [NOTES: corrected to ‘ciurach’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112540536">
+        <form>
+          <orth>bog-balbh</orth>
+        </form>
+        <def>calm, dead flat.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112048144">
+        <form>
+          <orth>buaillaidh</orth>
+        </form>
+        <def>a halo on the moon.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112050520">
+        <form>
+          <orth>smùid</orth>
+        </form>
+        <def>used for gusts of wind. “Nach ann orra a tha smuid [sic].”</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112052176">
+        <form>
+          <orth>ceann-dubh</orth>
+        </form>
+        <def>eclipse.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112053688">
+        <form>
+          <orth>geallach-mhùgach</orth>
+        </form>
+        <def>dim.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112055200">
+        <form>
+          <orth>an grioglachan</orth>
+          <pron>[sic]</pron>
+        </form>
+        <def>[sic] Milky Way.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112056712">
+        <form>
+          <orth>ré</orth>
+        </form>
+        <def>also used for moon.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112058224">
+        <form>
+          <orth>teine-adhar</orth>
+        </form>
+        <def>thunderbolt.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112059736">
+        <form>
+          <orth>gaoth pheathreach</orth>
+        </form>
+        <def>hurricane. [NOTES: note added above ‘pheathreach’ – bheithreach.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112061464">
+        <form>
+          <orth>spliucach</orth>
+        </form>
+        <def>drizzly, miserable weather. [NOTES: corrected to ‘spliugach’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112063120">
+        <form>
+          <orth>pleòtag (-an)</orth>
+        </form>
+        <def>snowflake(s).</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112064632">
+        <form>
+          <orth>cathadh</orth>
+        </form>
+        <def>drifting snow.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112066144">
+        <form>
+          <orth>cathadh làir</orth>
+        </form>
+        <def>powdery snow.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112067656">
+        <form>
+          <orth>cathadh mara</orth>
+        </form>
+        <def>froth flying off the waves.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112070032">
+        <form>
+          <orth>siaban</orth>
+        </form>
+        <def>spindrift.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112071544">
+        <form>
+          <orth>eileanan-mara</orth>
+        </form>
+        <def>tidal islands.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112073056">
+        <form>
+          <orth>rùid</orth>
+        </form>
+        <def>swell.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112074568">
+        <form>
+          <orth>ioma-ghaoth</orth>
+        </form>
+        <def>an eddy, swirling wind, i.e. around a house.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc3-idp112076080">
+        <form>
+          <orth>searrag</orth>
+        </form>
+        <def>another word for bottle.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

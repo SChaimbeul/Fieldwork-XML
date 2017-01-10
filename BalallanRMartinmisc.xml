@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AJSmith_BalallanRMartinmisc">
   <teiHeader>
     <fileDesc>
@@ -18,20 +22,11 @@
     <profileDesc>
       <creation>
         <date>October 1972</date>
-        <location>
-          <placeName>[Lewis], Lochs, Balallan</placeName>
-        </location>
+        <location corresp="Lewis_Balallan"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>A. J. Smith</persName>
-        </person>
-        <person role="informant">
-          <persName>Roderick Martin</persName>
-          <birth>
-            <placeName>Balallan</placeName>
-          </birth>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith"/>
+        <person role="informant" corresp="Roderick_Martin_Lewis_Balallan"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -48,28 +43,28 @@
           <orth>amhthainn</orth>
           <pron>[ɑ̃hĩnʹ]</pron>
         </form>
-        <def>[ɑ̃hĩnʹ] Quot.: “Bhiodh e na [ɑ̃hĩnʹ] aca.” “Cha lean [ɑ̃hĩnʹ] ach bliadhnachan ach leanaidh bàrdachd lìnneachan (sic).” Note: a saying.</def>
+        <def>Quot.: “Bhiodh e na [ɑ̃hĩnʹ] aca.” “Cha lean [ɑ̃hĩnʹ] ach bliadhnachan ach leanaidh bàrdachd lìnneachan (sic).” Note: a saying.</def>
       </entry>
       <entry xml:id="AJSmith_BalallanRMartinmisc-idm37665456">
         <form>
           <orth>eibhleag</orth>
           <pron>[ȷɤu̟lɑɡ]</pron>
         </form>
-        <def>[ȷɤu̟lɑɡ] Note: ember (pronunciation). Also use éibhil [e:vilʹ].</def>
+        <def>Note: ember (pronunciation). Also use éibhil [e:vilʹ].</def>
       </entry>
       <entry xml:id="AJSmith_BalallanRMartinmisc-idm37664088">
         <form>
           <orth>àrlas</orth>
           <pron>[ɑ:ʴɫɑs]</pron>
         </form>
-        <def>[ɑ:ʴɫɑs] Note: hole in roof for exit of smoke. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+        <def>Note: hole in roof for exit of smoke. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
       </entry>
       <entry xml:id="AJSmith_BalallanRMartinmisc-idm37626936">
         <form>
           <orth>reumhach</orth>
           <pron>[rĩɑ̃vɑx]</pron>
         </form>
-        <def>[rĩɑ̃vɑx] Note: for “freumhach”, root. Quot.: “reumhach na cairt”.</def>
+        <def>Note: for “freumhach”, root. Quot.: “reumhach na cairt”.</def>
       </entry>
       <entry xml:id="AJSmith_BalallanRMartinmisc-idm37685544">
         <form>
@@ -82,28 +77,28 @@
           <orth>simid</orth>
           <pron>[ʃĩmid]</pron>
         </form>
-        <def>[ʃĩmid] Note: (1) potato masher. (2) barley beater.</def>
+        <def>Note: (1) potato masher. (2) barley beater.</def>
       </entry>
       <entry xml:id="AJSmith_BalallanRMartinmisc-idm37672728">
         <form>
           <orth>treadhan</orth>
           <pron>[t̪ɾɤɣɑṉ]</pron>
         </form>
-        <def>[t̪ɾɤɣɑṉ] Note: cow farrow for three years, before its first calf.</def>
+        <def>Note: cow farrow for three years, before its first calf.</def>
       </entry>
       <entry xml:id="AJSmith_BalallanRMartinmisc-idm37710240">
         <form>
           <orth>feisde</orth>
           <pron>[feʃdʹə]</pron>
         </form>
-        <def>[feʃdʹə] Note: tether for cattle. (Dw. [fe:ʃdʹə] – Lewis.)</def>
+        <def>Note: tether for cattle. (Dw. [fe:ʃdʹə] – Lewis.)</def>
       </entry>
       <entry xml:id="AJSmith_BalallanRMartinmisc-idm37659192">
         <form>
           <orth>roighne</orth>
           <pron>[rɤiṉə]</pron>
         </form>
-        <def>[rɤiṉə] Quot.: “Tha roighne gu bhi againn am bliadhna.” Note: beef of a beast killed “ma Shamhainn”.</def>
+        <def>Quot.: “Tha roighne gu bhi againn am bliadhna.” Note: beef of a beast killed “ma Shamhainn”.</def>
       </entry>
       <entry xml:id="AJSmith_BalallanRMartinmisc-idm37668624">
         <form>
@@ -116,28 +111,28 @@
           <orth>luamhgha</orth>
           <pron>[ɫũ̜ɑ̃ɣə]</pron>
         </form>
-        <def>[ɫũ̜ɑ̃ɣə] Note: the stomach (with flaps inside it) of a cow.</def>
+        <def>Note: the stomach (with flaps inside it) of a cow.</def>
       </entry>
       <entry xml:id="AJSmith_BalallanRMartinmisc-idm37684752">
         <form>
           <orth>àth-liath</orth>
           <pron>[ɑ lıɤ]</pron>
         </form>
-        <def>[ɑ lıɤ] Note: organ somewhat like the liver, smaller. Reddish. Pancreas?</def>
+        <def>Note: organ somewhat like the liver, smaller. Reddish. Pancreas?</def>
       </entry>
       <entry xml:id="AJSmith_BalallanRMartinmisc-idm37675464">
         <form>
           <orth>rangais</orth>
           <pron>[rɑ̃ŋɡiʃ]</pron>
         </form>
-        <def>[rɑ̃ŋɡiʃ] Note: says it is a small fish akin to the “muc-chreige”.</def>
+        <def>Note: says it is a small fish akin to the “muc-chreige”.</def>
       </entry>
       <entry xml:id="AJSmith_BalallanRMartinmisc-idm37623120">
         <form>
           <orth>breacag</orth>
           <pron>[bɾɛkɑɡ]</pron>
         </form>
-        <def>[bɾɛkɑɡ] Note: spotted dogfish.</def>
+        <def>Note: spotted dogfish.</def>
       </entry>
       <entry xml:id="AJSmith_BalallanRMartinmisc-idm37657104">
         <form>
@@ -157,49 +152,49 @@
           <orth>gridheach</orth>
           <pron>[ˈɡðıɑx]</pron>
         </form>
-        <def>[ˈɡðıɑx] Note: a hind.</def>
+        <def>Note: a hind.</def>
       </entry>
       <entry xml:id="AJSmith_BalallanRMartinmisc-idm37342608">
         <form>
           <orth>guailleachan</orth>
           <pron>[ɡuɤlʹɑxɑṉ]</pron>
         </form>
-        <def>[ɡuɤlʹɑxɑṉ] Note: woman’s cape. (Source: Mrs MacLeod, Keose P.O.)</def>
+        <def>Note: woman’s cape. (Source: Mrs MacLeod, Keose P.O.)</def>
       </entry>
       <entry xml:id="AJSmith_BalallanRMartinmisc-idm37316256" type="person">
         <form>
           <orth>giobal</orth>
           <pron>[ɡıbəɫ]</pron>
         </form>
-        <def>[ɡıbəɫ] Note: a lackey. (Source: Mrs MacLeod, Keose P.O.)</def>
+        <def>Note: a lackey. (Source: Mrs MacLeod, Keose P.O.)</def>
       </entry>
       <entry xml:id="AJSmith_BalallanRMartinmisc-idm37352256">
         <form>
           <orth>reudan</orth>
           <pron>[rɤ:d̪ɑṉ]</pron>
         </form>
-        <def>[rɤ:d̪ɑṉ] Note: applies term to woodworm. (Source: Neil MacLeod, Keose P.O.)</def>
+        <def>Note: applies term to woodworm. (Source: Neil MacLeod, Keose P.O.)</def>
       </entry>
       <entry xml:id="AJSmith_BalallanRMartinmisc-idm37321296">
         <form>
           <orth>corracha-meille</orth>
           <pron>[kɔrɑxəmĩlə]</pron>
         </form>
-        <def>[kɔrɑxəmĩlə] Note: plural? Wild liquorice. (Source: Neil MacLeod, Keose P.O.)</def>
+        <def>Note: plural? Wild liquorice. (Source: Neil MacLeod, Keose P.O.)</def>
       </entry>
       <entry xml:id="AJSmith_BalallanRMartinmisc-idm37338288" type="person">
         <form>
           <orth>ball-seimhig</orth>
           <pron>[bɑɫˈʃɛ̃iɡʹ]</pron>
         </form>
-        <def>[bɑɫˈʃɛ̃iɡʹ] Note: a laughing-stock. (Source: Neil MacLeod, Keose P.O.)</def>
+        <def>Note: a laughing-stock. (Source: Neil MacLeod, Keose P.O.)</def>
       </entry>
       <entry xml:id="AJSmith_BalallanRMartinmisc-idm37320936" type="person">
         <form>
           <orth>samplair</orth>
           <pron>[sɑ̃ũ̜mpɫɑð]</pron>
         </form>
-        <def>[sɑ̃ũ̜mpɫɑð] Note: rogue, rascal.</def>
+        <def>Note: rogue, rascal.</def>
       </entry>
     </body>
   </text>

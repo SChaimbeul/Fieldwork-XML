@@ -1,692 +1,692 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="AOHenley_GlasgowDJMacVicarmisc2">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[1987-88]</date>
-            <location>
-               <placeName>[Glasgow], Hyndland</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>A. O’Henley</persName>
-            </person>
-            <person role="informant">
-               <persName>D. J. MacVicar</persName>
-               <birth>
-                  <placeName>? [South Uist?]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109724120">
-            <form>
-               <orth>rabhaill</orth>
-            </form>
-            <def>extremity of an island. Rabhail a deas, rabhaill a tuath.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109731608">
-            <form>
-               <orth>gob</orth>
-            </form>
-            <def>headland.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109805984">
-            <form>
-               <orth>àird</orth>
-            </form>
-            <def>upland.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109784960">
-            <form>
-               <orth>corran</orth>
-            </form>
-            <def>sandspit. Caused by a tidal drift.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109799360">
-            <form>
-               <orth>bealach</orth>
-            </form>
-            <def>a pass.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109700936">
-            <form>
-               <orth>coilleag (-an)</orth>
-            </form>
-            <def>sand dunes.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109709936">
-            <form>
-               <orth>sgorr</orth>
-            </form>
-            <def>fissure; a split in a rock. [NOTES: corrected to ‘sgor’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109703240">
-            <form>
-               <orth>sgùrr (ù – oo)</orth>
-            </form>
-            <def>pinacle.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109779272">
-            <form>
-               <orth>fodrainn</orth>
-            </form>
-            <def>footering about.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109786256">
-            <form>
-               <orth>ruagadh</orth>
-            </form>
-            <def>harass.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109755584">
-            <form>
-               <orth>geotha</orth>
-            </form>
-            <def>a sea cliff.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109793744">
-            <form>
-               <orth>grioba</orth>
-            </form>
-            <def>precipice.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109754360">
-            <form>
-               <orth>garbhlach</orth>
-            </form>
-            <def>strewn boulders.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109751192">
-            <form>
-               <orth>boglach</orth>
-            </form>
-            <def>swamp.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109758248">
-            <form>
-               <orth>sùil-chruthaich</orth>
-            </form>
-            <def>quagmire.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109761344">
-            <form>
-               <orth>slugan</orth>
-            </form>
-            <def>a small gulf as in the stretch of sea between Illeray and Kirkibost.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109762568">
-            <form>
-               <orth>fadhall</orth>
-            </form>
-            <def>ford.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109736936">
-            <form>
-               <orth>ath-chorrain</orth>
-            </form>
-            <def>a ford with a sandspit on it. [NOTES: corrected to ‘àth-chorrain’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109734560">
-            <form>
-               <orth>bearradh</orth>
-            </form>
-            <def>where the machair land meets the sand dunes.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109737584">
-            <form>
-               <orth>raonaidh</orth>
-            </form>
-            <def>a small grassy plain in front of a house where children played.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109738376">
-            <form>
-               <orth>sliabh</orth>
-            </form>
-            <def>moorland as well as meaning a slope.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109742624">
-            <form>
-               <orth>gearraidh</orth>
-            </form>
-            <def>moorland. [NOTES: corrected to ‘geàrraidh’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109740248">
-            <form>
-               <orth>coire</orth>
-            </form>
-            <def>corrie.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109745864">
-            <form>
-               <orth>bidein</orth>
-            </form>
-            <def>pinnacle.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109745360">
-            <form>
-               <orth>stròm</orth>
-            </form>
-            <def>inlet, strome.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109713824">
-            <form>
-               <orth>bun</orth>
-            </form>
-            <def>estuary.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109711952">
-            <form>
-               <orth>glaic</orth>
-            </form>
-            <def>delve.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109748384">
-            <form>
-               <orth>cachaillaidh</orth>
-            </form>
-            <def>an opening in a wall with a ‘maide cachaillaidh’ placed across the gap. <graphic url="GlasgowDJMacVicarmisc2illust1.jpg" width="300px"/>
-            </def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109773656">
-            <form>
-               <orth>maide cachaillaidh</orth>
-               <pron>[See cachaillaidh.]</pron>
-            </form>
-            <def>[See cachaillaidh.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109778696">
-            <form>
-               <orth>cuilc</orth>
-            </form>
-            <def>reeds.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109326120">
-            <form>
-               <orth>fialochan</orth>
-            </form>
-            <def>a lochs [sic] with lots of reeds, grass growing in it. [NOTES: note added above ‘fialochan’ – feurlochan.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109327776">
-            <form>
-               <orth>seasgan</orth>
-            </form>
-            <def>reed grass. [NOTES: corrected to ‘seasgann’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109329432">
-            <form>
-               <orth>glùta</orth>
-            </form>
-            <def>deep pool.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109330944">
-            <form>
-               <orth>sùghanaich</orth>
-            </form>
-            <def>quicksand.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109332456">
-            <form>
-               <orth>làthach</orth>
-            </form>
-            <def>mud and sand.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109333968">
-            <form>
-               <orth>stalla</orth>
-            </form>
-            <def>bedrock.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109335480">
-            <form>
-               <orth>boghta</orth>
-            </form>
-            <def>a bank of peat.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109336992">
-            <form>
-               <orth>bruaich</orth>
-            </form>
-            <def>embankment.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109338504">
-            <form>
-               <orth>lagan</orth>
-            </form>
-            <def>dell.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109340016">
-            <form>
-               <orth>camus</orth>
-            </form>
-            <def>a bay.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109341528">
-            <form>
-               <orth>bearna</orth>
-            </form>
-            <def>an opening, breach. [NOTES: corrected to ‘beàrna’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109343184">
-            <form>
-               <orth>moraghan</orth>
-            </form>
-            <def>shells and sand. A kind of gravel but not the gravel found in quarries. This substance found on the shore.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109345560">
-            <form>
-               <orth>bogha</orth>
-            </form>
-            <def>a submerged reef.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109347072">
-            <form>
-               <orth>feadan</orth>
-            </form>
-            <def>underground channel.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109348584">
-            <form>
-               <orth>dìog</orth>
-            </form>
-            <def>in the sense of a sea channel. Usually found after the tide has gone out. [NOTES: corrected to ‘dìg’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109350240">
-            <form>
-               <orth>lige</orth>
-            </form>
-            <def>a man-made canal.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109351752">
-            <form>
-               <orth>druim</orth>
-            </form>
-            <def>a ridge.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109353264">
-            <form>
-               <orth>ciofainn</orth>
-            </form>
-            <def>a little titbit. [NOTES: corrected to ‘ciofain’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109354920">
-            <form>
-               <orth>slocan</orth>
-            </form>
-            <def>a seaweed substance similar to ‘duillisg’.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109356432">
-            <form>
-               <orth>annas</orth>
-            </form>
-            <def>a delicacy.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109357944">
-            <form>
-               <orth>fuarag</orth>
-            </form>
-            <def>oatmeal and cream.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109359456">
-            <form>
-               <orth>eabar</orth>
-            </form>
-            <def>describes a surface that is muddy, wet. “Tha an talamh na eabar.”</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109361976">
-            <form>
-               <orth>drollanda</orth>
-            </form>
-            <def>depressed, unhappy.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109363488">
-            <form>
-               <orth>claban</orth>
-            </form>
-            <def>top of the skull. “Chaidh claban a chinn a chuir dheth.”</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109365144">
-            <form>
-               <orth>clabag</orth>
-            </form>
-            <def>an amount of money. [NOTES: note added – Fhuair e clabag.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109366800">
-            <form>
-               <orth>flagais</orth>
-            </form>
-            <def>a layer of sand, maure [sic] [manure?], peat dust. This was left to rot and used for manure. A compost heap. Could also be used of a flirty woman.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109368312">
-            <form>
-               <orth>sgùird</orth>
-            </form>
-            <def>a lapful. Women would carry things in their apron or in the lap of their dress, skirt… Since then could also be applied for a knitting bag, a bag for seed planting. Can also be applied for a satchel used to hold fish. A satchel which was strapped to the shoulders. “Làn sgùird de liapagan.” [NOTES: ‘liapagan’ corrected to ‘liabagan’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109370976">
-            <form>
-               <orth>siutal</orth>
-            </form>
-            <def>a vagabond.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109372488">
-            <form>
-               <orth>seotal</orth>
-            </form>
-            <def>a small compartment in a chest where valuable and sentimental objects were kept.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109374000">
-            <form>
-               <orth>feudalach</orth>
-            </form>
-            <def>precious.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp463464">
-            <form>
-               <orth>duall fuillt</orth>
-            </form>
-            <def>a lock of hair. [NOTES: ‘duall’ corrected to ‘dual’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp461952">
-            <form>
-               <orth>criathar</orth>
-            </form>
-            <def>a sieve.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp460440">
-            <form>
-               <orth>ruideall</orth>
-            </form>
-            <def>a riddle. [NOTES: corrected to ‘ruideal’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp459936">
-            <form>
-               <orth>mogan</orth>
-            </form>
-            <def>a covering on the feet. Also in the sense of a money bag.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109375888">
-            <form>
-               <orth>bùthach</orth>
-            </form>
-            <def>canvas cover put on a cow’s udder to prevent suckling. Could also be placed on a ram to prevent mating.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109378480">
-            <form>
-               <orth>cotan</orth>
-            </form>
-            <def>a fold for sheep.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109379992">
-            <form>
-               <orth>tearbadh</orth>
-            </form>
-            <def>separating the lambs at the end of August. Lambs would be placed in the fold (cotan [q.v.]).</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109381504">
-            <form>
-               <orth>sàth</orth>
-            </form>
-            <def>thrust. Often used when launching a boat. “Bheir sàthadh math dhith.”</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109383304">
-            <form>
-               <orth>tiurr</orth>
-            </form>
-            <def>seaweed, flotsam, strand. [NOTES: corrected to ‘tiùrr’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109384960">
-            <form>
-               <orth>cairidh</orth>
-            </form>
-            <def>a wall built in the river estuary at low tide designed to capture fish at high tide. This would [sic] they remained upstream.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109386472">
-            <form>
-               <orth>susaladh</orth>
-            </form>
-            <def>overcooked, shrunk. [NOTES: note added – Tha e a’ susaladh.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109388128">
-            <form>
-               <orth>pinnteachadh</orth>
-            </form>
-            <def>curdled.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109390504">
-            <form>
-               <orth>Chaidh e na ghrùth ’s na mheang</orth>
-            </form>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109392016">
-            <form>
-               <orth>deisgeann</orth>
-            </form>
-            <def>rennet. Needed this to make the milk curdle whilst still warm. Could then make ‘caise bainne blàth’.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109393528">
-            <form>
-               <orth>taosg</orth>
-            </form>
-            <def>half a cupful.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109395040">
-            <form>
-               <orth>taosgnadh</orth>
-            </form>
-            <def>kneading.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109396552">
-            <form>
-               <orth>goileam</orth>
-            </form>
-            <def>loud chatter.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109398064">
-            <form>
-               <orth>deisleam</orth>
-            </form>
-            <def>infection on the fingertip. Whittle. [NOTES: corrected to ‘dèisleam’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109399720">
-            <form>
-               <orth>sleamhneagan</orth>
-            </form>
-            <def>stye.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109401232">
-            <form>
-               <orth>roisinn</orth>
-            </form>
-            <def>a flail.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109402744">
-            <form>
-               <orth>slacan</orth>
-            </form>
-            <def>used by women to beat the blankets when washing them on rocks.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109405192">
-            <form>
-               <orth>sguidseadh</orth>
-            </form>
-            <def>taking the ears of the crop.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109406704">
-            <form>
-               <orth>sguidsear</orth>
-            </form>
-            <def>a bit of bamboo about two feet long, and used for the above process [i.e. sguidseadh].</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109408216">
-            <form>
-               <orth>ann an deagh riochd</orth>
-            </form>
-            <def>in good condition.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109409728">
-            <form>
-               <orth>moull</orth>
-            </form>
-            <def>chaff. [NOTES: corrected to ‘moll’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109411384">
-            <form>
-               <orth>sgeap</orth>
-            </form>
-            <def>chaff. [NOTES: corrected to ‘sgèap’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109413040">
-            <form>
-               <orth>càthadh</orth>
-            </form>
-            <def>winnowing.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109414552">
-            <form>
-               <orth>sùgan</orth>
-            </form>
-            <def>a grass rope used for tying down corn ricks or small haystacks.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109416136">
-            <form>
-               <orth>caidhea(rr?)</orth>
-            </form>
-            <def>coir yarn. From coconut hair. [NOTES: corrected to ‘caidheàr’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109417792">
-            <form>
-               <orth>a’ cnamhan</orth>
-            </form>
-            <def>moaning. [NOTES: corrected to ‘a’ cnàmhan’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109420312">
-            <form>
-               <orth>crabhag</orth>
-            </form>
-            <def>broken corn. [NOTES: corrected to ‘cràbhag’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109421968">
-            <form>
-               <orth>gabht</orth>
-            </form>
-            <def>an iron bar. A smithy would use this term.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109423480">
-            <form>
-               <orth>goibhneacht</orth>
-            </form>
-            <def>smithying. [NOTES: corrected to ‘goibhneachd’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109425136">
-            <form>
-               <orth>fridheann</orth>
-            </form>
-            <def>a ripple of water.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109426648">
-            <form>
-               <orth>fiodhan</orth>
-            </form>
-            <def>a wooden box used to make cheese.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109428160">
-            <form>
-               <orth>sliofag</orth>
-            </form>
-            <def>another word other than ‘pleathag’.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109429672">
-            <form>
-               <orth>siullachain</orth>
-            </form>
-            <def>hames for a horse.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109431184">
-            <form>
-               <orth>dreallag</orth>
-            </form>
-            <def>a swing for children.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109432696">
-            <form>
-               <orth>mireannach</orth>
-            </form>
-            <def>the bit in a horse’s mouth. [NOTES: corrected to ‘mìreannach’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109434352">
-            <form>
-               <orth>caigeann</orth>
-            </form>
-            <def>a pair of lambs. Also used for a fetter on a lamb’s legs.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109436800">
-            <form>
-               <orth>sgreamhachadh</orth>
-            </form>
-            <def>frightened. “Bha mi air mo…”</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109438456">
-            <form>
-               <orth>bra(th)</orth>
-            </form>
-            <def>crowd. [NOTES: note added – Thainig bràth orm. Bha an t-àite bràth le daoine.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109440112">
-            <form>
-               <orth>cairt-shleamhna</orth>
-            </form>
-            <def>lesser celandine used to bathe feet to heal broken skin. Used as a dye for wool. Also used for tanning skins, e.g. for a false face.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp57744">
-            <form>
-               <orth>dùdan</orth>
-            </form>
-            <def>disease in seeds. Black in appearance.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp59256">
-            <form>
-               <orth>ditheann-nan-calman</orth>
-            </form>
-            <def>vetch. [NOTES: corrected to ‘dìthean-nan-calman’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp60912">
-            <form>
-               <orth>seise</orth>
-            </form>
-            <def>a bench. Variation on ‘beinngidh’.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp62424">
-            <form>
-               <orth>pràpte</orth>
-            </form>
-            <def>creased. [NOTES: corrected to ‘prapte’.]</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AOHenley_GlasgowDJMacVicarmisc2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[1987-88]</date>
+        <location>
+          <placeName>[Glasgow], Hyndland</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>A. O’Henley</persName>
+        </person>
+        <person role="informant">
+          <persName>D. J. MacVicar</persName>
+          <birth>
+            <placeName>? [South Uist?]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109724120">
+        <form>
+          <orth>rabhaill</orth>
+        </form>
+        <def>extremity of an island. Rabhail a deas, rabhaill a tuath.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109731608">
+        <form>
+          <orth>gob</orth>
+        </form>
+        <def>headland.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109805984">
+        <form>
+          <orth>àird</orth>
+        </form>
+        <def>upland.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109784960">
+        <form>
+          <orth>corran</orth>
+        </form>
+        <def>sandspit. Caused by a tidal drift.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109799360">
+        <form>
+          <orth>bealach</orth>
+        </form>
+        <def>a pass.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109700936">
+        <form>
+          <orth>coilleag (-an)</orth>
+        </form>
+        <def>sand dunes.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109709936">
+        <form>
+          <orth>sgorr</orth>
+        </form>
+        <def>fissure; a split in a rock. [NOTES: corrected to ‘sgor’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109703240">
+        <form>
+          <orth>sgùrr (ù – oo)</orth>
+        </form>
+        <def>pinacle.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109779272">
+        <form>
+          <orth>fodrainn</orth>
+        </form>
+        <def>footering about.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109786256">
+        <form>
+          <orth>ruagadh</orth>
+        </form>
+        <def>harass.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109755584">
+        <form>
+          <orth>geotha</orth>
+        </form>
+        <def>a sea cliff.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109793744">
+        <form>
+          <orth>grioba</orth>
+        </form>
+        <def>precipice.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109754360">
+        <form>
+          <orth>garbhlach</orth>
+        </form>
+        <def>strewn boulders.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109751192">
+        <form>
+          <orth>boglach</orth>
+        </form>
+        <def>swamp.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109758248">
+        <form>
+          <orth>sùil-chruthaich</orth>
+        </form>
+        <def>quagmire.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109761344">
+        <form>
+          <orth>slugan</orth>
+        </form>
+        <def>a small gulf as in the stretch of sea between Illeray and Kirkibost.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109762568">
+        <form>
+          <orth>fadhall</orth>
+        </form>
+        <def>ford.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109736936">
+        <form>
+          <orth>ath-chorrain</orth>
+        </form>
+        <def>a ford with a sandspit on it. [NOTES: corrected to ‘àth-chorrain’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109734560">
+        <form>
+          <orth>bearradh</orth>
+        </form>
+        <def>where the machair land meets the sand dunes.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109737584">
+        <form>
+          <orth>raonaidh</orth>
+        </form>
+        <def>a small grassy plain in front of a house where children played.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109738376">
+        <form>
+          <orth>sliabh</orth>
+        </form>
+        <def>moorland as well as meaning a slope.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109742624">
+        <form>
+          <orth>gearraidh</orth>
+        </form>
+        <def>moorland. [NOTES: corrected to ‘geàrraidh’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109740248">
+        <form>
+          <orth>coire</orth>
+        </form>
+        <def>corrie.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109745864">
+        <form>
+          <orth>bidein</orth>
+        </form>
+        <def>pinnacle.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109745360">
+        <form>
+          <orth>stròm</orth>
+        </form>
+        <def>inlet, strome.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109713824">
+        <form>
+          <orth>bun</orth>
+        </form>
+        <def>estuary.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109711952">
+        <form>
+          <orth>glaic</orth>
+        </form>
+        <def>delve.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109748384">
+        <form>
+          <orth>cachaillaidh</orth>
+        </form>
+        <def>an opening in a wall with a ‘maide cachaillaidh’ placed across the gap. <graphic url="GlasgowDJMacVicarmisc2illust1.jpg" width="300px"/>
+        </def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109773656">
+        <form>
+          <orth>maide cachaillaidh</orth>
+          <pron>[See cachaillaidh.]</pron>
+        </form>
+        <def>[See cachaillaidh.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109778696">
+        <form>
+          <orth>cuilc</orth>
+        </form>
+        <def>reeds.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109326120">
+        <form>
+          <orth>fialochan</orth>
+        </form>
+        <def>a lochs [sic] with lots of reeds, grass growing in it. [NOTES: note added above ‘fialochan’ – feurlochan.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109327776">
+        <form>
+          <orth>seasgan</orth>
+        </form>
+        <def>reed grass. [NOTES: corrected to ‘seasgann’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109329432">
+        <form>
+          <orth>glùta</orth>
+        </form>
+        <def>deep pool.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109330944">
+        <form>
+          <orth>sùghanaich</orth>
+        </form>
+        <def>quicksand.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109332456">
+        <form>
+          <orth>làthach</orth>
+        </form>
+        <def>mud and sand.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109333968">
+        <form>
+          <orth>stalla</orth>
+        </form>
+        <def>bedrock.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109335480">
+        <form>
+          <orth>boghta</orth>
+        </form>
+        <def>a bank of peat.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109336992">
+        <form>
+          <orth>bruaich</orth>
+        </form>
+        <def>embankment.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109338504">
+        <form>
+          <orth>lagan</orth>
+        </form>
+        <def>dell.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109340016">
+        <form>
+          <orth>camus</orth>
+        </form>
+        <def>a bay.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109341528">
+        <form>
+          <orth>bearna</orth>
+        </form>
+        <def>an opening, breach. [NOTES: corrected to ‘beàrna’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109343184">
+        <form>
+          <orth>moraghan</orth>
+        </form>
+        <def>shells and sand. A kind of gravel but not the gravel found in quarries. This substance found on the shore.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109345560">
+        <form>
+          <orth>bogha</orth>
+        </form>
+        <def>a submerged reef.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109347072">
+        <form>
+          <orth>feadan</orth>
+        </form>
+        <def>underground channel.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109348584">
+        <form>
+          <orth>dìog</orth>
+        </form>
+        <def>in the sense of a sea channel. Usually found after the tide has gone out. [NOTES: corrected to ‘dìg’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109350240">
+        <form>
+          <orth>lige</orth>
+        </form>
+        <def>a man-made canal.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109351752">
+        <form>
+          <orth>druim</orth>
+        </form>
+        <def>a ridge.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109353264">
+        <form>
+          <orth>ciofainn</orth>
+        </form>
+        <def>a little titbit. [NOTES: corrected to ‘ciofain’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109354920">
+        <form>
+          <orth>slocan</orth>
+        </form>
+        <def>a seaweed substance similar to ‘duillisg’.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109356432">
+        <form>
+          <orth>annas</orth>
+        </form>
+        <def>a delicacy.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109357944">
+        <form>
+          <orth>fuarag</orth>
+        </form>
+        <def>oatmeal and cream.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109359456">
+        <form>
+          <orth>eabar</orth>
+        </form>
+        <def>describes a surface that is muddy, wet. “Tha an talamh na eabar.”</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109361976">
+        <form>
+          <orth>drollanda</orth>
+        </form>
+        <def>depressed, unhappy.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109363488">
+        <form>
+          <orth>claban</orth>
+        </form>
+        <def>top of the skull. “Chaidh claban a chinn a chuir dheth.”</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109365144">
+        <form>
+          <orth>clabag</orth>
+        </form>
+        <def>an amount of money. [NOTES: note added – Fhuair e clabag.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109366800">
+        <form>
+          <orth>flagais</orth>
+        </form>
+        <def>a layer of sand, maure [sic] [manure?], peat dust. This was left to rot and used for manure. A compost heap. Could also be used of a flirty woman.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109368312">
+        <form>
+          <orth>sgùird</orth>
+        </form>
+        <def>a lapful. Women would carry things in their apron or in the lap of their dress, skirt… Since then could also be applied for a knitting bag, a bag for seed planting. Can also be applied
+          for a satchel used to hold fish. A satchel which was strapped to the shoulders. “Làn sgùird de liapagan.” [NOTES: ‘liapagan’ corrected to ‘liabagan’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109370976" type="person">
+        <form>
+          <orth>siutal</orth>
+        </form>
+        <def>a vagabond.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109372488">
+        <form>
+          <orth>seotal</orth>
+        </form>
+        <def>a small compartment in a chest where valuable and sentimental objects were kept.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109374000">
+        <form>
+          <orth>feudalach</orth>
+        </form>
+        <def>precious.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp463464">
+        <form>
+          <orth>duall fuillt</orth>
+        </form>
+        <def>a lock of hair. [NOTES: ‘duall’ corrected to ‘dual’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp461952">
+        <form>
+          <orth>criathar</orth>
+        </form>
+        <def>a sieve.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp460440">
+        <form>
+          <orth>ruideall</orth>
+        </form>
+        <def>a riddle. [NOTES: corrected to ‘ruideal’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp459936">
+        <form>
+          <orth>mogan</orth>
+        </form>
+        <def>a covering on the feet. Also in the sense of a money bag.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109375888">
+        <form>
+          <orth>bùthach</orth>
+        </form>
+        <def>canvas cover put on a cow’s udder to prevent suckling. Could also be placed on a ram to prevent mating.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109378480">
+        <form>
+          <orth>cotan</orth>
+        </form>
+        <def>a fold for sheep.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109379992">
+        <form>
+          <orth>tearbadh</orth>
+        </form>
+        <def>separating the lambs at the end of August. Lambs would be placed in the fold (cotan [q.v.]).</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109381504">
+        <form>
+          <orth>sàth</orth>
+        </form>
+        <def>thrust. Often used when launching a boat. “Bheir sàthadh math dhith.”</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109383304">
+        <form>
+          <orth>tiurr</orth>
+        </form>
+        <def>seaweed, flotsam, strand. [NOTES: corrected to ‘tiùrr’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109384960">
+        <form>
+          <orth>cairidh</orth>
+        </form>
+        <def>a wall built in the river estuary at low tide designed to capture fish at high tide. This would [sic] they remained upstream.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109386472">
+        <form>
+          <orth>susaladh</orth>
+        </form>
+        <def>overcooked, shrunk. [NOTES: note added – Tha e a’ susaladh.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109388128">
+        <form>
+          <orth>pinnteachadh</orth>
+        </form>
+        <def>curdled.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109390504">
+        <form>
+          <orth>Chaidh e na ghrùth ’s na mheang</orth>
+        </form>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109392016">
+        <form>
+          <orth>deisgeann</orth>
+        </form>
+        <def>rennet. Needed this to make the milk curdle whilst still warm. Could then make ‘caise bainne blàth’.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109393528">
+        <form>
+          <orth>taosg</orth>
+        </form>
+        <def>half a cupful.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109395040">
+        <form>
+          <orth>taosgnadh</orth>
+        </form>
+        <def>kneading.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109396552">
+        <form>
+          <orth>goileam</orth>
+        </form>
+        <def>loud chatter.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109398064">
+        <form>
+          <orth>deisleam</orth>
+        </form>
+        <def>infection on the fingertip. Whittle. [NOTES: corrected to ‘dèisleam’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109399720">
+        <form>
+          <orth>sleamhneagan</orth>
+        </form>
+        <def>stye.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109401232">
+        <form>
+          <orth>roisinn</orth>
+        </form>
+        <def>a flail.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109402744">
+        <form>
+          <orth>slacan</orth>
+        </form>
+        <def>used by women to beat the blankets when washing them on rocks.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109405192">
+        <form>
+          <orth>sguidseadh</orth>
+        </form>
+        <def>taking the ears of the crop.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109406704">
+        <form>
+          <orth>sguidsear</orth>
+        </form>
+        <def>a bit of bamboo about two feet long, and used for the above process [i.e. sguidseadh].</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109408216">
+        <form>
+          <orth>ann an deagh riochd</orth>
+        </form>
+        <def>in good condition.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109409728">
+        <form>
+          <orth>moull</orth>
+        </form>
+        <def>chaff. [NOTES: corrected to ‘moll’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109411384">
+        <form>
+          <orth>sgeap</orth>
+        </form>
+        <def>chaff. [NOTES: corrected to ‘sgèap’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109413040">
+        <form>
+          <orth>càthadh</orth>
+        </form>
+        <def>winnowing.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109414552">
+        <form>
+          <orth>sùgan</orth>
+        </form>
+        <def>a grass rope used for tying down corn ricks or small haystacks.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109416136">
+        <form>
+          <orth>caidhea(rr?)</orth>
+        </form>
+        <def>coir yarn. From coconut hair. [NOTES: corrected to ‘caidheàr’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109417792">
+        <form>
+          <orth>a’ cnamhan</orth>
+        </form>
+        <def>moaning. [NOTES: corrected to ‘a’ cnàmhan’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109420312">
+        <form>
+          <orth>crabhag</orth>
+        </form>
+        <def>broken corn. [NOTES: corrected to ‘cràbhag’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109421968">
+        <form>
+          <orth>gabht</orth>
+        </form>
+        <def>an iron bar. A smithy would use this term.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109423480">
+        <form>
+          <orth>goibhneacht</orth>
+        </form>
+        <def>smithying. [NOTES: corrected to ‘goibhneachd’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109425136">
+        <form>
+          <orth>fridheann</orth>
+        </form>
+        <def>a ripple of water.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109426648">
+        <form>
+          <orth>fiodhan</orth>
+        </form>
+        <def>a wooden box used to make cheese.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109428160">
+        <form>
+          <orth>sliofag</orth>
+        </form>
+        <def>another word other than ‘pleathag’.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109429672">
+        <form>
+          <orth>siullachain</orth>
+        </form>
+        <def>hames for a horse.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109431184">
+        <form>
+          <orth>dreallag</orth>
+        </form>
+        <def>a swing for children.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109432696">
+        <form>
+          <orth>mireannach</orth>
+        </form>
+        <def>the bit in a horse’s mouth. [NOTES: corrected to ‘mìreannach’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109434352">
+        <form>
+          <orth>caigeann</orth>
+        </form>
+        <def>a pair of lambs. Also used for a fetter on a lamb’s legs.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109436800">
+        <form>
+          <orth>sgreamhachadh</orth>
+        </form>
+        <def>frightened. “Bha mi air mo…”</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109438456">
+        <form>
+          <orth>bra(th)</orth>
+        </form>
+        <def>crowd. [NOTES: note added – Thainig bràth orm. Bha an t-àite bràth le daoine.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp109440112">
+        <form>
+          <orth>cairt-shleamhna</orth>
+        </form>
+        <def>lesser celandine used to bathe feet to heal broken skin. Used as a dye for wool. Also used for tanning skins, e.g. for a false face.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp57744">
+        <form>
+          <orth>dùdan</orth>
+        </form>
+        <def>disease in seeds. Black in appearance.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp59256">
+        <form>
+          <orth>ditheann-nan-calman</orth>
+        </form>
+        <def>vetch. [NOTES: corrected to ‘dìthean-nan-calman’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp60912">
+        <form>
+          <orth>seise</orth>
+        </form>
+        <def>a bench. Variation on ‘beinngidh’.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarmisc2-idp62424">
+        <form>
+          <orth>pràpte</orth>
+        </form>
+        <def>creased. [NOTES: corrected to ‘prapte’.]</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

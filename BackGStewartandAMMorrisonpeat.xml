@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Peat_BackGStewartandAMMorrisonpeat">
   <teiHeader>
     <fileDesc>
@@ -18,28 +22,12 @@
     <profileDesc>
       <creation>
         <date>April 1962</date>
-        <location>
-          <placeName>Lewis, Back</placeName>
-        </location>
+        <location corresp="Lewis_Back"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>I. M. Morrison</persName>
-        </person>
-        <person role="informant">
-          <persName>George Stewart</persName>
-          <age>45</age>
-          <birth>
-            <placeName>Lewis, Back</placeName>
-          </birth>
-        </person>
-        <person role="informant">
-          <persName>Alex M. Morrison</persName>
-          <age>60</age>
-          <birth>
-            <placeName>Lewis, Back</placeName>
-          </birth>
-        </person>
+        <person role="fieldworker" corresp="I_M_Morrison"/>
+        <person role="informant" corresp="George_Stewart_Lewis_Back"/>
+        <person role="informant" corresp="Alex_M_Morrison_Lewis_Back"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -151,7 +139,6 @@
       <entry xml:id="Peat_BackGStewartandAMMorrisonpeat-d0e192">
         <form>
           <orth>fear/té tha cur a mach</orth>
-          <pron>[?]</pron>
         </form>
         <def>[?] the person who throws out the peat.</def>
       </entry>

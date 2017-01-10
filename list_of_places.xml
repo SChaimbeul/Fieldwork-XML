@@ -39,6 +39,12 @@
             <place xml:id="Lewis_Stornoway">
               <placeName xml:lang="en">Stornoway</placeName>
             </place>
+            <place xml:id="Lewis_Back">
+              <placeName xml:lang="en">Back</placeName>
+            </place>
+            <place xml:id="Lewis_Balallan">
+              <placeName xml:lang="en">Balallan</placeName>
+            </place>
           </place>
           <place xml:id="Harris">
             <placeName xml:lang="en">Harris</placeName>
@@ -157,6 +163,12 @@
               </place>
             </place>
           </place>
+          <place xml:id="North_Uist">
+            <placeName xml:lang="en">North Uist</placeName>
+            <place xml:id="North_Uist_Baleshare">
+              <placeName xml:lang="en">Baleshare</placeName>
+            </place>
+          </place>
           <place xml:id="Benbecula">
             <placeName xml:lang="en">Benbecula</placeName>
             <place xml:id="Benbecula_Airdbheag">
@@ -166,9 +178,14 @@
           <place xml:id="South_Uist">
             <placeName xml:lang="en">South Uist</placeName>
             <place xml:id="South_Uist_Iochdar">
-              <placeName xml:lang="en">Iochdar</placeName>
+              <placeName>Iochdar</placeName>
+              <placeName>Eochdar</placeName>
               <place xml:id="South_Uist_Iochdar_Ardivachar">
                 <placeName xml:lang="en">Ardivachar</placeName>
+              </place>
+              <place xml:id="South_Uist_Iochdar_Balgarva">
+                <placeName>Baile Gharbhaidh</placeName>
+                <placeName xml:lang="en">Balgarva</placeName>
               </place>
             </place>
           </place>
@@ -180,8 +197,15 @@
             <place xml:id="Barra_Ard_Mhinish">
               <placeName>Ard Mhinish</placeName>
             </place>
+            <place xml:id="Barra_Northbay">
+              <placeName xml:lang="en">Northbay</placeName>
+            </place>
+            <place xml:id="Barra_Castlebay">
+              <placeName xml:lang="en">Castlebay</placeName>
+            </place>
           </place>
         </place>
+        
         <place xml:id="Inner_Hebrides">
           <place xml:id="Coll">
             <placeName xml:lang="en">Coll</placeName>
@@ -238,6 +262,17 @@
             <placeName xml:lang="en">Aultbea</placeName>
           </place>
         </place>
+        <place xml:id="Inverness-shire">
+          <placeName xml:lang="en">Inverness-shire</placeName>
+          <place xml:id="Inverness-shire_Glenurquhart">
+            <placeName xml:lang="en">Glenurquhart</placeName>
+            <place xml:id="Inverness-shire_Glenurquhart_Balbeg">
+              <placeName xml:lang="en">Balbeg</placeName>
+            </place>
+          </place>
+        </place>
+        
+        
         <place xml:id="Sutherland">
           <placeName xml:lang="en">Sutherland</placeName>
           <place xml:id="Sutherland_Achlyness">
@@ -246,7 +281,14 @@
           <place xml:id="Sutherland_Armadale">
             <placeName xml:lang="en">Armadale</placeName>
           </place>
+          <place xml:id="Sutherland_Durness">
+            <placeName xml:lang="en">Durness</placeName>
+            <place xml:id="Sutherland_Durness_Balvoolich">
+              <placeName xml:lang="en">Balvoolich</placeName>
+            </place>
+          </place>
         </place>
+        
         <place xml:id="Nova_Scotia">
           <placeName>Alba Nuadh</placeName>
           <placeName xml:lang="en">Nova Scotia</placeName>

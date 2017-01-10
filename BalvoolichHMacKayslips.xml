@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BalvoolichHMacKayslips">
   <teiHeader>
     <fileDesc>
@@ -15,18 +19,11 @@
     <profileDesc>
       <creation>
         <date>10/1969</date>
-        <location>
-          <placeName>Sutherland, Durness, Balvoolich</placeName>
-        </location>
+        <location corresp="Sutherland_Durness_Balvoolich"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>Hector MacKay</persName>
-          <age>80s</age>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="Hector_MacKay_Sutherland_Balvoolich"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -49,7 +46,7 @@
           <orth>lèatran</orth>
           <pron>[lʹe:t̪ɾɑṉ]</pron>
         </form>
-        <def>[lʹe:t̪ɾɑṉ] Notes: area in front of the church where the elders sit.</def>
+        <def>Notes: area in front of the church where the elders sit.</def>
       </entry>
       <entry xml:id="Slips_BalvoolichHMacKayslips-idp161823544">
         <form>
@@ -74,7 +71,7 @@
           <orth>sgar</orth>
           <pron>[sɡɑɾ]</pron>
         </form>
-        <def>[sɡɑɾ] Notes: a swathe.</def>
+        <def>Notes: a swathe.</def>
       </entry>
       <entry xml:id="Slips_BalvoolichHMacKayslips-idp161906488">
         <form>
@@ -87,7 +84,7 @@
           <orth>sior-shuileach</orth>
           <pron>[ʃıɤɾhu̜lɑx]</pron>
         </form>
-        <def>[ʃıɤɾhu̜lɑx] Notes: squint-eyed.</def>
+        <def>Notes: squint-eyed.</def>
       </entry>
       <entry xml:id="Slips_BalvoolichHMacKayslips-idp161903968">
         <form>
@@ -106,35 +103,35 @@
           <orth>altachadh</orth>
           <pron>[ɑɫt̪ɑxu̜]</pron>
         </form>
-        <def>[ɑɫt̪ɑxu̜] Notes: grace before meat.</def>
+        <def>Notes: grace before meat.</def>
       </entry>
       <entry xml:id="Slips_BalvoolichHMacKayslips-idp161898856">
         <form>
           <orth>àradh</orth>
           <pron>[ɑ:ɾu̜]</pron>
         </form>
-        <def>[ɑ:ɾu̜] Notes: bier.</def>
+        <def>Notes: bier.</def>
       </entry>
       <entry xml:id="Slips_BalvoolichHMacKayslips-idp161897488">
         <form>
           <orth>bathais</orth>
           <pron>[bɑiʃ]</pron>
         </form>
-        <def>[bɑiʃ] Notes: forehead.</def>
+        <def>Notes: forehead.</def>
       </entry>
       <entry xml:id="Slips_BalvoolichHMacKayslips-idp161895616">
         <form>
           <orth>biathaidh</orth>
           <pron>[biɑhi]</pron>
         </form>
-        <def>[biɑhi] Notes: earthworm.</def>
+        <def>Notes: earthworm.</def>
       </entry>
       <entry xml:id="Slips_BalvoolichHMacKayslips-idp161894032">
         <form>
           <orth>brad</orth>
           <pron>[bɾɑd̪]</pron>
         </form>
-        <def>[bɾɑd̪] Quotation: “Tha thu toir leis brad sgar.” Notes: considerable (in size or excellence).</def>
+        <def>Quotation: “Tha thu toir leis brad sgar.” Notes: considerable (in size or excellence).</def>
       </entry>
       <entry xml:id="Slips_BalvoolichHMacKayslips-idp161892016">
         <form>
@@ -177,21 +174,21 @@
           <orth>deudadh</orth>
           <pron>[dʹe:d̪u̜]</pron>
         </form>
-        <def>[dʹe:d̪u̜] Notes: toothache.</def>
+        <def>Notes: toothache.</def>
       </entry>
       <entry xml:id="Slips_BalvoolichHMacKayslips-idp161880856">
         <form>
           <orth>fasanach</orth>
           <pron>[fɑsɑṉɑx]</pron>
         </form>
-        <def>[fɑsɑṉɑx] Notes: fashionable.</def>
+        <def>Notes: fashionable.</def>
       </entry>
       <entry xml:id="Slips_BalvoolichHMacKayslips-idp161879344">
         <form>
           <orth>gaoth-chuartlan</orth>
           <pron>[ɡw:xu̜ɤʴsṯɫɑ̃ṉ]</pron>
         </form>
-        <def>[ɡw:xu̜ɤʴsṯɫɑ̃ṉ] Notes: a whirling wind. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+        <def>Notes: a whirling wind. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
       </entry>
       <entry xml:id="Slips_BalvoolichHMacKayslips-idp161877616" type="bird">
         <form>

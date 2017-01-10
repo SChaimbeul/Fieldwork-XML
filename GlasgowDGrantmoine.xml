@@ -1,275 +1,273 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Peat_GlasgowDGrantmoine">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <location>
-               <placeName>[Glasgow?]</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>Donald Grant</persName>
-               <persName xml:lang="gd">Domhnall Grannd</persName>
-               <age>[66?]</age>
-               <birth>
-                  <placeName>Camaschros an sgìre Shléite san Eilean Sgitheanach [Skye, Camus Chroise]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Peat-Working</term>
-               <term>Mòine</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head xml:id="Peat_GlasgowDGrantmoine-d0e34">(Faclan á Camaschros an sgìre Shléite san Eilean Sgitheanach.)</head>
-         <head xml:id="Peat_GlasgowDGrantmoine-d0e38">1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e43">
-            <form>
-               <orth>poll-mòna</orth>
-            </form>
-            <def>peat-bog.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e52">
-            <form>
-               <orth>[drèanachan]</orth>
-            </form>
-            <def>A’ deanamh dhrèanachan (no claisean) a chum an uisge a thoirt air falbh far a robh feum air sin.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e61">
-            <form>
-               <orth>[claisean]</orth>
-               <pron>[See drèanachan]</pron>
-            </form>
-            <def>[See drèanachan]</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e70">
-            <form>
-               <orth>[breacadh]</orth>
-            </form>
-            <def>A’ breacadh uachdar a’ phuill – ga ghearradh le spaid, a’ deanamh earrannan a bhitheadh soirbh an togail.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e79">
-            <form>
-               <orth>caibe-lair</orth>
-            </form>
-            <def>airson rusgadh a’ phuill. 
-        <graphic url="GlasgowDGrantmoineillust1.jpg" width="150px"/>
-            </def>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e89">
-            <form>
-               <orth>ceaba-lair</orth>
-               <pron>[See caibe-lair]</pron>
-            </form>
-            <def>[See caibe-lair]</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e98">
-            <form>
-               <orth>rùsgadh na mona</orth>
-            </form>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e104">
-            <form>
-               <orth>[feannadh]</orth>
-               <pron>[See rùsgadh]</pron>
-            </form>
-            <def>[See rùsgadh] Theireadh Hearach a bha comhla rium am Portrigh “feannadh” na mòna.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e113">
-            <form>
-               <orth>riasg</orth>
-            </form>
-            <def>an talamh righinn a dh’fheumar a thogail.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e122">
-            <form>
-               <orth>ceap</orth>
-            </form>
-            <def>na pìosan a rachadh a thogail agus cuid dhiubh air an cur a feum an déidh laimhe a chomhdach nan cruachan.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e131">
-            <form>
-               <orth>ploc, pl. pluic</orth>
-               <pron>[See ceap]</pron>
-            </form>
-            <def>[See ceap]</def>
-         </entry>
-         <head xml:id="Peat_GlasgowDGrantmoine-d0e139">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e144">
-            <form>
-               <orth>iarran-mòna</orth>
-            </form>
-            <def>
-               <graphic url="GlasgowDGrantmoineillust2.jpg" width="150px"/>
-            </def>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e155">
-            <form>
-               <orth>tairisgeir</orth>
-               <pron>[See iarann-mòna]</pron>
-            </form>
-            <def>[See iarann-mòna]</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e164">
-            <form>
-               <orth>tairisgian</orth>
-               <pron>[See iarann-mòna]</pron>
-            </form>
-            <def>[See iarann-mòna]</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e173">
-            <form>
-               <orth>fear a’ buain</orth>
-            </form>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e179">
-            <form>
-               <orth>fear (no té) anns a’ bhac</orth>
-            </form>
-            <def>a’ breith air na fàdan (nam fòd) agus gan sgaoileadh gu h-àrd (leis a’ chiad fhàd) agus gu h-ìseal (leis an dara no ’n treas fàd). Chan fhaca mise tric barrachd air dà fhàd de dhoimhneachd.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e188">
-            <form>
-               <orth>moine mhosgannach</orth>
-            </form>
-            <def>mòine aotrom dhonn.</def>
-         </entry>
-         <head xml:id="Peat_GlasgowDGrantmoine-d0e196">3. A’ tiormachadh na mònach</head>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e201">
-            <form>
-               <orth>a’ togail na mòna</orth>
-            </form>
-            <def>gan cur trì is trì, aon air fhad is a dha eile an taic ris air an cinn. 
-        <graphic url="GlasgowDGrantmoineillust3.jpg" width="150px"/>
-            </def>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e212">
-            <form>
-               <orth>a’ tionndadh na mona</orth>
-            </form>
-            <def>a’ tionndadh an taoibh fhliuich an àird is a’ cur tuilleadh ri cheile.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e221">
-            <form>
-               <orth>rùdhan</orth>
-            </form>
-            <def>tòrr beag mòna (cruach bheag).</def>
-         </entry>
-         <head xml:id="Peat_GlasgowDGrantmoine-d0e229">4. A’ cruachadh na mònach</head>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e234">
-            <form>
-               <orth>cridhe na cruaiche</orth>
-            </form>
-            <def>
-               <graphic url="GlasgowDGrantmoineillust4.jpg" width="150px"/>
-            </def>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e245">
-            <form>
-               <orth>a’ grìomhadh (gnìomhadh?) na cruaiche</orth>
-            </form>
-            <def>a’ cur nam fàdan air a leud ris an talamh is a’ togail sreath os cionn sreath mar chlachan ann am balla.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e254">
-            <form>
-               <orth>caoran</orth>
-            </form>
-            <def>pios beag fòid.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e263">
-            <form>
-               <orth>gulm (guilm?)</orth>
-            </form>
-            <def>dusd na mòna.</def>
-         </entry>
-         <head xml:id="Peat_GlasgowDGrantmoine-d0e271">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e276">
-            <form>
-               <orth>a’ tarraing na mòna</orth>
-            </form>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e282">
-            <form>
-               <orth>cliabh</orth>
-            </form>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e288">
-            <form>
-               <orth>iris</orth>
-            </form>
-            <def>ròp an ceangal ris a’ chliabh aig na tabhaisdean [q.v.]. 
-        <graphic url="GlasgowDGrantmoineillust5.jpg" width="300px"/>
-            </def>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e299">
-            <form>
-               <orth>tabhaisdean (taobh-aisnean)</orth>
-            </form>
-            <def>
-               <graphic url="GlasgowDGrantmoineillust5.jpg" width="300px"/>
-            </def>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e310">
-            <form>
-               <orth>muladh  air a chliabh</orth>
-               <pron>[?]</pron>
-            </form>
-            <def>[?] a’ mhòine a’ ruigheachd bàrr a’ chléibh.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e319">
-            <form>
-               <orth>barradh air a’ chliabh</orth>
-            </form>
-            <def>na fòid mu dheireadh air an cur air an oir is a’ ruigheachd os cionn a’ chléibh, a’ toirt cothroim air barrachd a ghiùlan.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e328">
-            <form>
-               <orth>brìg</orth>
-            </form>
-            <def>aig an taigh a’ cur na mona an tòrr sgiobalta.</def>
-         </entry>
-         <head xml:id="Peat_GlasgowDGrantmoine-d0e336">6. Seòrsachan mònach</head>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e341">
-            <form>
-               <orth>mòine bhuidhe</orth>
-            </form>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e347">
-            <form>
-               <orth>mòine dhubh</orth>
-            </form>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e353">
-            <form>
-               <orth>mòine righinn</orth>
-            </form>
-         </entry>
-         <entry xml:id="Peat_GlasgowDGrantmoine-d0e359">
-            <form>
-               <orth>mòine phrann</orth>
-            </form>
-         </entry>
-         <head xml:id="Peat_GlasgowDGrantmoine-d0e364">7. Faclan eile</head>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location>
+          <placeName>[Glasgow?]</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>Donald Grant</persName>
+          <persName xml:lang="gd">Domhnall Grannd</persName>
+          <age>[66?]</age>
+          <birth>
+            <placeName>Camaschros an sgìre Shléite san Eilean Sgitheanach [Skye, Camus Chroise]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Peat-Working</term>
+          <term>Mòine</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="Peat_GlasgowDGrantmoine-d0e34">(Faclan á Camaschros an sgìre Shléite san Eilean Sgitheanach.)</head>
+      <head xml:id="Peat_GlasgowDGrantmoine-d0e38">1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e43">
+        <form>
+          <orth>poll-mòna</orth>
+        </form>
+        <def>peat-bog.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e52">
+        <form>
+          <orth>[drèanachan]</orth>
+        </form>
+        <def>A’ deanamh dhrèanachan (no claisean) a chum an uisge a thoirt air falbh far a robh feum air sin.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e61">
+        <form>
+          <orth>[claisean]</orth>
+          <pron>[See drèanachan]</pron>
+        </form>
+        <def>[See drèanachan]</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e70">
+        <form>
+          <orth>[breacadh]</orth>
+        </form>
+        <def>A’ breacadh uachdar a’ phuill – ga ghearradh le spaid, a’ deanamh earrannan a bhitheadh soirbh an togail.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e79">
+        <form>
+          <orth>caibe-lair</orth>
+        </form>
+        <def>airson rusgadh a’ phuill. <graphic url="GlasgowDGrantmoineillust1.jpg" width="150px"/>
+        </def>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e89">
+        <form>
+          <orth>ceaba-lair</orth>
+          <pron>[See caibe-lair]</pron>
+        </form>
+        <def>[See caibe-lair]</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e98">
+        <form>
+          <orth>rùsgadh na mona</orth>
+        </form>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e104">
+        <form>
+          <orth>[feannadh]</orth>
+          <pron>[See rùsgadh]</pron>
+        </form>
+        <def>[See rùsgadh] Theireadh Hearach a bha comhla rium am Portrigh “feannadh” na mòna.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e113">
+        <form>
+          <orth>riasg</orth>
+        </form>
+        <def>an talamh righinn a dh’fheumar a thogail.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e122">
+        <form>
+          <orth>ceap</orth>
+        </form>
+        <def>na pìosan a rachadh a thogail agus cuid dhiubh air an cur a feum an déidh laimhe a chomhdach nan cruachan.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e131">
+        <form>
+          <orth>ploc, pl. pluic</orth>
+          <pron>[See ceap]</pron>
+        </form>
+        <def>[See ceap]</def>
+      </entry>
+      <head xml:id="Peat_GlasgowDGrantmoine-d0e139">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e144">
+        <form>
+          <orth>iarran-mòna</orth>
+        </form>
+        <def>
+          <graphic url="GlasgowDGrantmoineillust2.jpg" width="150px"/>
+        </def>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e155">
+        <form>
+          <orth>tairisgeir</orth>
+          <pron>[See iarann-mòna]</pron>
+        </form>
+        <def>[See iarann-mòna]</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e164">
+        <form>
+          <orth>tairisgian</orth>
+          <pron>[See iarann-mòna]</pron>
+        </form>
+        <def>[See iarann-mòna]</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e173">
+        <form>
+          <orth>fear a’ buain</orth>
+        </form>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e179">
+        <form>
+          <orth>fear (no té) anns a’ bhac</orth>
+        </form>
+        <def>a’ breith air na fàdan (nam fòd) agus gan sgaoileadh gu h-àrd (leis a’ chiad fhàd) agus gu h-ìseal (leis an dara no ’n treas fàd). Chan fhaca mise tric barrachd air dà fhàd de
+          dhoimhneachd.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e188">
+        <form>
+          <orth>moine mhosgannach</orth>
+        </form>
+        <def>mòine aotrom dhonn.</def>
+      </entry>
+      <head xml:id="Peat_GlasgowDGrantmoine-d0e196">3. A’ tiormachadh na mònach</head>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e201">
+        <form>
+          <orth>a’ togail na mòna</orth>
+        </form>
+        <def>gan cur trì is trì, aon air fhad is a dha eile an taic ris air an cinn. <graphic url="GlasgowDGrantmoineillust3.jpg" width="150px"/>
+        </def>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e212">
+        <form>
+          <orth>a’ tionndadh na mona</orth>
+        </form>
+        <def>a’ tionndadh an taoibh fhliuich an àird is a’ cur tuilleadh ri cheile.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e221">
+        <form>
+          <orth>rùdhan</orth>
+        </form>
+        <def>tòrr beag mòna (cruach bheag).</def>
+      </entry>
+      <head xml:id="Peat_GlasgowDGrantmoine-d0e229">4. A’ cruachadh na mònach</head>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e234">
+        <form>
+          <orth>cridhe na cruaiche</orth>
+        </form>
+        <def>
+          <graphic url="GlasgowDGrantmoineillust4.jpg" width="150px"/>
+        </def>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e245">
+        <form>
+          <orth>a’ grìomhadh (gnìomhadh?) na cruaiche</orth>
+        </form>
+        <def>a’ cur nam fàdan air a leud ris an talamh is a’ togail sreath os cionn sreath mar chlachan ann am balla.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e254">
+        <form>
+          <orth>caoran</orth>
+        </form>
+        <def>pios beag fòid.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e263">
+        <form>
+          <orth>gulm (guilm?)</orth>
+        </form>
+        <def>dusd na mòna.</def>
+      </entry>
+      <head xml:id="Peat_GlasgowDGrantmoine-d0e271">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e276">
+        <form>
+          <orth>a’ tarraing na mòna</orth>
+        </form>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e282">
+        <form>
+          <orth>cliabh</orth>
+        </form>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e288">
+        <form>
+          <orth>iris</orth>
+        </form>
+        <def>ròp an ceangal ris a’ chliabh aig na tabhaisdean [q.v.]. <graphic url="GlasgowDGrantmoineillust5.jpg" width="300px"/>
+        </def>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e299">
+        <form>
+          <orth>tabhaisdean (taobh-aisnean)</orth>
+        </form>
+        <def>
+          <graphic url="GlasgowDGrantmoineillust5.jpg" width="300px"/>
+        </def>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e310">
+        <form>
+          <orth>muladh air a chliabh</orth>
+          <pron>[?]</pron>
+        </form>
+        <def>[?] a’ mhòine a’ ruigheachd bàrr a’ chléibh.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e319">
+        <form>
+          <orth>barradh air a’ chliabh</orth>
+        </form>
+        <def>na fòid mu dheireadh air an cur air an oir is a’ ruigheachd os cionn a’ chléibh, a’ toirt cothroim air barrachd a ghiùlan.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e328">
+        <form>
+          <orth>brìg</orth>
+        </form>
+        <def>aig an taigh a’ cur na mona an tòrr sgiobalta.</def>
+      </entry>
+      <head xml:id="Peat_GlasgowDGrantmoine-d0e336">6. Seòrsachan mònach</head>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e341">
+        <form>
+          <orth>mòine bhuidhe</orth>
+        </form>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e347">
+        <form>
+          <orth>mòine dhubh</orth>
+        </form>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e353">
+        <form>
+          <orth>mòine righinn</orth>
+        </form>
+      </entry>
+      <entry xml:id="Peat_GlasgowDGrantmoine-d0e359">
+        <form>
+          <orth>mòine phrann</orth>
+        </form>
+      </entry>
+      <head xml:id="Peat_GlasgowDGrantmoine-d0e364">7. Faclan eile</head>
+    </body>
+  </text>
 </TEI>

@@ -1,99 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WoolworkingandFishing_GlasgowDGrantwool">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <location>
-               <placeName>Glasgow</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>Donald Grant</persName>
-               <persName xml:lang="gd">Domhnall Grannd </persName>
-               <age>66</age>
-               <birth>
-                  <placeName>[Skye, Camus Chroise]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Wool-Working</term>
-               <term>Obair na Clòimhe</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e29"
-            >1. Raw wool</head>
-         <head
-             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e33"
-            >2. Oil or grease put on wool before carding</head>
-         <head
-             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e37"
-            >3. Carding</head>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e42">
-            <form>
-               <orth>a’ càrdadh</orth>
-               <pron>[carding.]</pron>
-            </form>
-            <def>[carding.]</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e51">
-            <form>
-               <orth>rolag</orth>
-            </form>
-            <def>roll of wool.</def>
-         </entry>
-         <head
-             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e59"
-            >4. Spinning</head>
-         <head
-             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e63"
-            >5. Parts of the spinning wheel</head>
-         <head
-             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e67"
-            >6. Yarn and associated apparatus</head>
-         <head
-             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e71"
-            >7. Dyeing</head>
-         <head
-             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e75"
-            >8. Washing after dyeing</head>
-         <head
-             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e79"
-            >9. Warping</head>
-         <head
-             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e83"
-            >10. Beaming and tying</head>
-         <head
-             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e87"
-            >11. Weaving</head>
-         <head
-             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e91"
-            >12. Parts of the weaving loom</head>
-         <head
-             xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e95"
-            >13. Finishing</head>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WoolworkingandFishing_GlasgowDGrantwool">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location>
+          <placeName>Glasgow</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>Donald Grant</persName>
+          <persName xml:lang="gd">Domhnall Grannd </persName>
+          <age>66</age>
+          <birth>
+            <placeName>[Skye, Camus Chroise]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Wool-Working</term>
+          <term>Obair na Clòimhe</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e29">1. Raw wool</head>
+      <head xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e33">2. Oil or grease put on wool before carding</head>
+      <head xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e37">3. Carding</head>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e42">
+        <form>
+          <orth>a’ càrdadh</orth>
+          <pron>[carding.]</pron>
+        </form>
+        <def>[carding.]</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e51">
+        <form>
+          <orth>rolag</orth>
+        </form>
+        <def>roll of wool.</def>
+      </entry>
+      <head xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e59">4. Spinning</head>
+      <head xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e63">5. Parts of the spinning wheel</head>
+      <head xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e67">6. Yarn and associated apparatus</head>
+      <head xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e71">7. Dyeing</head>
+      <head xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e75">8. Washing after dyeing</head>
+      <head xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e79">9. Warping</head>
+      <head xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e83">10. Beaming and tying</head>
+      <head xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e87">11. Weaving</head>
+      <head xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e91">12. Parts of the weaving loom</head>
+      <head xml:id="WoolworkingandFishing_GlasgowDGrantwool-d0e95">13. Finishing</head>
+    </body>
+  </text>
 </TEI>

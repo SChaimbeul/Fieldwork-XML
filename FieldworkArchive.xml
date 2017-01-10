@@ -18,6 +18,8 @@
     </fileDesc>
   </teiHeader>
 
+<!--
+
   <xi:include href="list_of_people.xml"/>
   <xi:include href="list_of_places.xml"/>
 
@@ -744,5 +746,7 @@
   <xi:include href="peatloosepage.xml"/>
   <xi:include href="ruaimleachadh.xml"/>
   <xi:include href="variousslips.xml"/>
+
+-->
 
 </teiCorpus>

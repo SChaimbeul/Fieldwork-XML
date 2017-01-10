@@ -1,198 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WoolworkingandFishing_GlasgowDGrantmaorach">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <location>
-               <placeName>Glasgow</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>Donald Grant</persName>
-               <persName xml:lang="gd">Dòmhnall Grannd </persName>
-               <age>[66?]</age>
-               <birth>
-                  <placeName>[Skye, Camus Chroise]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Shellfish</term>
-               <term>Maorach</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e29"
-            >1. Maorach</head>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e34">
-            <form>
-               <orth>faochag</orth>
-            </form>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e40">
-            <form>
-               <orth>gille-fionn</orth>
-            </form>
-            <def>periwinkle.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e49">
-            <form>
-               <orth>coilleag</orth>
-            </form>
-            <def>cockle.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e58">
-            <form>
-               <orth>eachan</orth>
-            </form>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e64">
-            <form>
-               <orth>creachan</orth>
-            </form>
-            <def>nas motha na eachan, le slige ghil.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e73">
-            <form>
-               <orth>fiasgan</orth>
-            </form>
-            <def>mussel.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e82">
-            <form>
-               <orth>madadh</orth>
-            </form>
-            <def>nas motha na fiasgan.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e91">
-            <form>
-               <orth>eisir</orth>
-            </form>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e97">
-            <form>
-               <orth>bàirneach</orth>
-            </form>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e103">
-            <form>
-               <orth>muirsgian</orth>
-            </form>
-            <def>spoutfish.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e112">
-            <form>
-               <orth>crogan-feannaig</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e117"
-            >2. A’ tional maorach</head>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e122">
-            <form>
-               <orth>a’ buain maoraich</orth>
-            </form>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e128">
-            <form>
-               <orth>a’ buain choilleagan</orth>
-            </form>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e134">
-            <form>
-               <orth>a’ togail nam faochag</orth>
-            </form>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e140">
-            <form>
-               <orth>ris an fhaochaig</orth>
-            </form>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e146">
-            <form>
-               <orth>an tràigh-mhuirsgian</orth>
-            </form>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e152">
-            <form>
-               <orth>an oitir</orth>
-            </form>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e158">
-            <form>
-               <orth>an tràigh air sgeith</orth>
-            </form>
-            <def>na muirsgianan ’na laighe air uachdar na gainmhich.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e167">
-            <form>
-               <orth>sliseag</orth>
-            </form>
-            <def>pìos fiodha gu breith air a’ mhuirsgian mun d’rachadh i sìos. <graphic url="GlasgowDGrantmaorachillust1.jpg" width="400px"/>
-            </def>
-         </entry>
-         <head
-             xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e176"
-            >3. Beathaichean eile a gheibhear ’sa’ chladach</head>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e181">
-            <form>
-               <orth>clòimheag</orth>
-            </form>
-            <def>easgann òg?</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e190">
-            <form>
-               <orth>donnag</orth>
-            </form>
-            <def>liùgh òg?</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e199">
-            <form>
-               <orth>cudaig(inn)</orth>
-            </form>
-            <def>saoithean òg.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e208">
-            <form>
-               <orth>lugais</orth>
-            </form>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e214">
-            <form>
-               <orth>portan</orth>
-            </form>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e220">
-            <form>
-               <orth>crubag</orth>
-            </form>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e226">
-            <form>
-               <orth>liabag</orth>
-            </form>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WoolworkingandFishing_GlasgowDGrantmaorach">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location>
+          <placeName>Glasgow</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>Donald Grant</persName>
+          <persName xml:lang="gd">Dòmhnall Grannd </persName>
+          <age>[66?]</age>
+          <birth>
+            <placeName>[Skye, Camus Chroise]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Shellfish</term>
+          <term>Maorach</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e29">1. Maorach</head>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e34">
+        <form>
+          <orth>faochag</orth>
+        </form>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e40">
+        <form>
+          <orth>gille-fionn</orth>
+        </form>
+        <def>periwinkle.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e49">
+        <form>
+          <orth>coilleag</orth>
+        </form>
+        <def>cockle.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e58">
+        <form>
+          <orth>eachan</orth>
+        </form>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e64">
+        <form>
+          <orth>creachan</orth>
+        </form>
+        <def>nas motha na eachan, le slige ghil.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e73">
+        <form>
+          <orth>fiasgan</orth>
+        </form>
+        <def>mussel.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e82">
+        <form>
+          <orth>madadh</orth>
+        </form>
+        <def>nas motha na fiasgan.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e91">
+        <form>
+          <orth>eisir</orth>
+        </form>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e97">
+        <form>
+          <orth>bàirneach</orth>
+        </form>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e103">
+        <form>
+          <orth>muirsgian</orth>
+        </form>
+        <def>spoutfish.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e112">
+        <form>
+          <orth>crogan-feannaig</orth>
+        </form>
+      </entry>
+      <head xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e117">2. A’ tional maorach</head>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e122">
+        <form>
+          <orth>a’ buain maoraich</orth>
+        </form>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e128">
+        <form>
+          <orth>a’ buain choilleagan</orth>
+        </form>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e134">
+        <form>
+          <orth>a’ togail nam faochag</orth>
+        </form>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e140">
+        <form>
+          <orth>ris an fhaochaig</orth>
+        </form>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e146">
+        <form>
+          <orth>an tràigh-mhuirsgian</orth>
+        </form>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e152">
+        <form>
+          <orth>an oitir</orth>
+        </form>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e158">
+        <form>
+          <orth>an tràigh air sgeith</orth>
+        </form>
+        <def>na muirsgianan ’na laighe air uachdar na gainmhich.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e167">
+        <form>
+          <orth>sliseag</orth>
+        </form>
+        <def>pìos fiodha gu breith air a’ mhuirsgian mun d’rachadh i sìos. <graphic url="GlasgowDGrantmaorachillust1.jpg" width="400px"/>
+        </def>
+      </entry>
+      <head xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e176">3. Beathaichean eile a gheibhear ’sa’ chladach</head>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e181">
+        <form>
+          <orth>clòimheag</orth>
+        </form>
+        <def>easgann òg?</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e190">
+        <form>
+          <orth>donnag</orth>
+        </form>
+        <def>liùgh òg?</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e199">
+        <form>
+          <orth>cudaig(inn)</orth>
+        </form>
+        <def>saoithean òg.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e208">
+        <form>
+          <orth>lugais</orth>
+        </form>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e214">
+        <form>
+          <orth>portan</orth>
+        </form>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e220">
+        <form>
+          <orth>crubag</orth>
+        </form>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantmaorach-d0e226">
+        <form>
+          <orth>liabag</orth>
+        </form>
+      </entry>
+    </body>
+  </text>
 </TEI>

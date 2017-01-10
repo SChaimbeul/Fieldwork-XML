@@ -1,149 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WoolworkingandFishing_GlasgowDGrantiasgach">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <location>
-               <placeName>Glasgow</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>Donald Grant</persName>
-               <persName xml:lang="gd">Domhnall Grannd </persName>
-               <age>66</age>
-               <birth>
-                  <placeName>[Skye, Camus Chroise]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Fishing Tackle</term>
-               <term>Acfhuinn Iasgaich</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e32"
-            >1. Lìon-mór</head>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e37">
-            <form>
-               <orth>sgul (m)</orth>
-            </form>
-            <def>basket to hold lines.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e46">
-            <form>
-               <orth>a’ biathadh nan lìon</orth>
-            </form>
-            <def>baiting the hooks.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e55">
-            <form>
-               <orth>lugaisean (f)</orth>
-            </form>
-            <def>lugworms.</def>
-         </entry>
-         <head
-             xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e63"
-            >2. Lìon-beag</head>
-         <head
-             xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e67"
-            >3. Lìon-sgadanach</head>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e72">
-            <form>
-               <orth>lìon-sgadain (m)</orth>
-            </form>
-            <def>herring-net.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e81">
-            <form>
-               <orth>mogul (m)</orth>
-            </form>
-            <def>mesh.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e90">
-            <form>
-               <orth>druim an lìn</orth>
-            </form>
-            <def>top of the net.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e99">
-            <form>
-               <orth>bolla (m)</orth>
-            </form>
-            <def>float.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e108">
-            <form>
-               <orth>àirc (f)</orth>
-            </form>
-            <def>cork.</def>
-         </entry>
-         <head
-             xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e116"
-            >4. Lìon sam bith eile</head>
-         <head
-             xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e120"
-            >5. Duirgh, slatan, driamlaichean</head>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e125">
-            <form>
-               <orth>doraghach</orth>
-            </form>
-            <def>hand-line fishing.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e134">
-            <form>
-               <orth>dorghadh</orth>
-            </form>
-            <def>hand-line fishing.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e143">
-            <form>
-               <orth>sgrìoban (m)</orth>
-            </form>
-            <def>hand-lines.</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e152">
-            <form>
-               <orth>meidhe (m)</orth>
-            </form>
-            <def>weight (lead).</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e161">
-            <form>
-               <orth>maghar (m)</orth>
-            </form>
-            <def>fly (artificial lure).</def>
-         </entry>
-         <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e170">
-            <form>
-               <orth>fuaidreag (f)</orth>
-            </form>
-            <def>line for lythe.</def>
-         </entry>
-         <head
-             xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e178"
-            >6. Acfhuinn sam bith eile</head>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WoolworkingandFishing_GlasgowDGrantiasgach">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location>
+          <placeName>Glasgow</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>Donald Grant</persName>
+          <persName xml:lang="gd">Domhnall Grannd </persName>
+          <age>66</age>
+          <birth>
+            <placeName>[Skye, Camus Chroise]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Fishing Tackle</term>
+          <term>Acfhuinn Iasgaich</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e32">1. Lìon-mór</head>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e37">
+        <form>
+          <orth>sgul (m)</orth>
+        </form>
+        <def>basket to hold lines.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e46">
+        <form>
+          <orth>a’ biathadh nan lìon</orth>
+        </form>
+        <def>baiting the hooks.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e55">
+        <form>
+          <orth>lugaisean (f)</orth>
+        </form>
+        <def>lugworms.</def>
+      </entry>
+      <head xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e63">2. Lìon-beag</head>
+      <head xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e67">3. Lìon-sgadanach</head>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e72">
+        <form>
+          <orth>lìon-sgadain (m)</orth>
+        </form>
+        <def>herring-net.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e81">
+        <form>
+          <orth>mogul (m)</orth>
+        </form>
+        <def>mesh.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e90">
+        <form>
+          <orth>druim an lìn</orth>
+        </form>
+        <def>top of the net.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e99">
+        <form>
+          <orth>bolla (m)</orth>
+        </form>
+        <def>float.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e108">
+        <form>
+          <orth>àirc (f)</orth>
+        </form>
+        <def>cork.</def>
+      </entry>
+      <head xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e116">4. Lìon sam bith eile</head>
+      <head xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e120">5. Duirgh, slatan, driamlaichean</head>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e125">
+        <form>
+          <orth>doraghach</orth>
+        </form>
+        <def>hand-line fishing.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e134">
+        <form>
+          <orth>dorghadh</orth>
+        </form>
+        <def>hand-line fishing.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e143">
+        <form>
+          <orth>sgrìoban (m)</orth>
+        </form>
+        <def>hand-lines.</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e152">
+        <form>
+          <orth>meidhe (m)</orth>
+        </form>
+        <def>weight (lead).</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e161">
+        <form>
+          <orth>maghar (m)</orth>
+        </form>
+        <def>fly (artificial lure).</def>
+      </entry>
+      <entry xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e170">
+        <form>
+          <orth>fuaidreag (f)</orth>
+        </form>
+        <def>line for lythe.</def>
+      </entry>
+      <head xml:id="WoolworkingandFishing_GlasgowDGrantiasgach-d0e178">6. Acfhuinn sam bith eile</head>
+    </body>
+  </text>
 </TEI>

@@ -1,506 +1,484 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="CattleandSheep_GlasgowMMacLeodcattle1">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: this is not the ‘cattle’ questionnaire itself but a letter that most probably accompanied it (see the first sentence: ‘Seo am pàipear agus tha e ’na thìde a chur a steach’). It contains a few additional words as well as a list of all the nouns that presumably appeared in the questionnaire with their gender (E for masculine and I for feminine). The questionnaire itself seems to be missing.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>26/04/1971</date>
-            <location>
-               <placeName>Glasgow</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>Murdo
-MacLeod</persName>
-               <persName xml:lang="gd">Murchadh MacLeòid </persName>
-               <age>[59]</age>
-               <birth>
-                  <placeName>[Lewis, Uig an Iar]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Cattle</term>
-               <term>Crodh</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e38"
-            >Facail – E agus I</head>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e43">
-            <form>
-               <orth>spiorsag (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e49">
-            <form>
-               <orth>spreodag (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e55">
-            <form>
-               <orth>smiurs (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e61">
-            <form>
-               <orth>gith-how (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e67">
-            <form>
-               <orth>durra-mheig (E)</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e72"
-            >[blank]</head>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e77">
-            <form>
-               <orth>laogh (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e83">
-            <form>
-               <orth>gamhainn (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e89">
-            <form>
-               <orth>agh (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e95">
-            <form>
-               <orth>seasgach (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e101">
-            <form>
-               <orth>rotair (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e107">
-            <form>
-               <orth>bó (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e113">
-            <form>
-               <orth>bó laoigh (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e119">
-            <form>
-               <orth>gamhnach (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e125">
-            <form>
-               <orth>seachlach (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e131">
-            <form>
-               <orth>tri-ghamhnach (I)</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e136"
-            >(Biadhtach, dubh-chladach, spicean, ’se E a bhios unnda-san.)</head>
-         <head
-             xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e140"
-            >[blank]</head>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e145">
-            <form>
-               <orth>calg (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e151">
-            <form>
-               <orth>amh-sporag (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e157">
-            <form>
-               <orth>it-igheach (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e163">
-            <form>
-               <orth>sgòrnan (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e169">
-            <form>
-               <orth>sgamhan (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e175">
-            <form>
-               <orth>cliseach (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e181">
-            <form>
-               <orth>sprogan (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e187">
-            <form>
-               <orth>arc (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e193">
-            <form>
-               <orth>snàithle (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e199">
-            <form>
-               <orth>isbean (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e205">
-            <form>
-               <orth>lub-dhubh (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e211">
-            <form>
-               <orth>slabhaig (I)</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e216"
-            >[blank]</head>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e221">
-            <form>
-               <orth>mèin darach (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e227">
-            <form>
-               <orth>dàir (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e233">
-            <form>
-               <orth>fianlan (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e239">
-            <form>
-               <orth>badhar (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e245">
-            <form>
-               <orth>salchar (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e251">
-            <form>
-               <orth>balg-uisge (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e257">
-            <form>
-               <orth>mulad (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e263">
-            <form>
-               <orth>sgrìob (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e269">
-            <form>
-               <orth>[fèadhaichean]</orth>
-            </form>
-            <def>‘Fèadhaichean’, cha chuala mi riamh iad ach ann am plural.</def>
-         </entry>
-         <head
-             xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e277"
-            >[blank]</head>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e282">
-            <form>
-               <orth>(sreangan) sreang (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e288">
-            <form>
-               <orth>cas-ladarach (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e294">
-            <form>
-               <orth>bonnach comaineach (E)</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e299"
-            >[blank]</head>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e304">
-            <form>
-               <orth>bleoghan (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e310">
-            <form>
-               <orth>sradadh (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e316">
-            <form>
-               <orth>bainne (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e322">
-            <form>
-               <orth>nùs (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e328">
-            <form>
-               <orth>leth-thrath (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e334">
-            <form>
-               <orth>peile (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e340">
-            <form>
-               <orth>muga (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e346">
-            <form>
-               <orth>siuga (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e352">
-            <form>
-               <orth>stòp (E)</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e357"
-            >[blank]</head>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e362">
-            <form>
-               <orth>biota (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e368">
-            <form>
-               <orth>crannachan (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e374">
-            <form>
-               <orth>imideal (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e380">
-            <form>
-               <orth>buachair (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e386">
-            <form>
-               <orth>sgàird (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e392">
-            <form>
-               <orth>piatan (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e398">
-            <form>
-               <orth>afoinn (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e404">
-            <form>
-               <orth>buidheann (E)</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e409"
-            >[blank]</head>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e414">
-            <form>
-               <orth>inghilt (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e420">
-            <form>
-               <orth>ionaltradh (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e426">
-            <form>
-               <orth>buachailleachd (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e432">
-            <form>
-               <orth>buachaille (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e438">
-            <form>
-               <orth>cuairteir (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e444">
-            <form>
-               <orth>banachaig (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e450">
-            <form>
-               <orth>cnap (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e456">
-            <form>
-               <orth>fiodaigeadh (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e462">
-            <form>
-               <orth>fodradh (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e468">
-            <form>
-               <orth>muillean (E)</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e473"
-            >[blank]</head>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e478">
-            <form>
-               <orth>stàla (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e484">
-            <form>
-               <orth>buabhall (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e490">
-            <form>
-               <orth>stiall (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e496">
-            <form>
-               <orth>smeadhag (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e502">
-            <form>
-               <orth>dòrnan (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e508">
-            <form>
-               <orth>ceangal (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e514">
-            <form>
-               <orth>bacan (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e520">
-            <form>
-               <orth>buarach (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e526">
-            <form>
-               <orth>spearrach (Cha chreid mi nach robh an dà chuid againn E agus I.)</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e531"
-            >[blank]</head>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e536">
-            <form>
-               <orth>spùt (E) (No smait na dhà E agus I.)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e542">
-            <form>
-               <orth>ruadh (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e548">
-            <form>
-               <orth>galair (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e554">
-            <form>
-               <orth>teasach (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e560">
-            <form>
-               <orth>crobhdach (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e566">
-            <form>
-               <orth>lios (Chanainn gur h-e E a chanadh sinne.)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e572">
-            <form>
-               <orth>tòc (I)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e578">
-            <form>
-               <orth>suab (Chanainn gur h-e I.)</orth>
-            </form>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e584">
-            <form>
-               <orth>bìdearra (E)</orth>
-            </form>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CattleandSheep_GlasgowMMacLeodcattle1">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: this is not the ‘cattle’ questionnaire itself but a letter that most probably accompanied it (see the first sentence: ‘Seo am pàipear agus tha e ’na thìde a chur a steach’). It
+          contains a few additional words as well as a list of all the nouns that presumably appeared in the questionnaire with their gender (E for masculine and I for feminine). The questionnaire
+          itself seems to be missing.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>26/04/1971</date>
+        <location>
+          <placeName>Glasgow</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>Murdo MacLeod</persName>
+          <persName xml:lang="gd">Murchadh MacLeòid </persName>
+          <age>[59]</age>
+          <birth>
+            <placeName>[Lewis, Uig an Iar]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Cattle</term>
+          <term>Crodh</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e38">Facail – E agus I</head>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e43">
+        <form>
+          <orth>spiorsag (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e49">
+        <form>
+          <orth>spreodag (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e55">
+        <form>
+          <orth>smiurs (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e61">
+        <form>
+          <orth>gith-how (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e67">
+        <form>
+          <orth>durra-mheig (E)</orth>
+        </form>
+      </entry>
+      <head xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e72">[blank]</head>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e77">
+        <form>
+          <orth>laogh (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e83">
+        <form>
+          <orth>gamhainn (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e89">
+        <form>
+          <orth>agh (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e95">
+        <form>
+          <orth>seasgach (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e101">
+        <form>
+          <orth>rotair (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e107">
+        <form>
+          <orth>bó (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e113">
+        <form>
+          <orth>bó laoigh (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e119">
+        <form>
+          <orth>gamhnach (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e125">
+        <form>
+          <orth>seachlach (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e131">
+        <form>
+          <orth>tri-ghamhnach (I)</orth>
+        </form>
+      </entry>
+      <head xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e136">(Biadhtach, dubh-chladach, spicean, ’se E a bhios unnda-san.)</head>
+      <head xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e140">[blank]</head>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e145">
+        <form>
+          <orth>calg (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e151">
+        <form>
+          <orth>amh-sporag (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e157">
+        <form>
+          <orth>it-igheach (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e163">
+        <form>
+          <orth>sgòrnan (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e169">
+        <form>
+          <orth>sgamhan (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e175">
+        <form>
+          <orth>cliseach (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e181">
+        <form>
+          <orth>sprogan (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e187">
+        <form>
+          <orth>arc (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e193">
+        <form>
+          <orth>snàithle (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e199">
+        <form>
+          <orth>isbean (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e205">
+        <form>
+          <orth>lub-dhubh (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e211">
+        <form>
+          <orth>slabhaig (I)</orth>
+        </form>
+      </entry>
+      <head xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e216">[blank]</head>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e221">
+        <form>
+          <orth>mèin darach (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e227">
+        <form>
+          <orth>dàir (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e233">
+        <form>
+          <orth>fianlan (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e239">
+        <form>
+          <orth>badhar (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e245">
+        <form>
+          <orth>salchar (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e251">
+        <form>
+          <orth>balg-uisge (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e257">
+        <form>
+          <orth>mulad (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e263">
+        <form>
+          <orth>sgrìob (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e269">
+        <form>
+          <orth>[fèadhaichean]</orth>
+        </form>
+        <def>‘Fèadhaichean’, cha chuala mi riamh iad ach ann am plural.</def>
+      </entry>
+      <head xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e277">[blank]</head>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e282">
+        <form>
+          <orth>(sreangan) sreang (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e288">
+        <form>
+          <orth>cas-ladarach (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e294">
+        <form>
+          <orth>bonnach comaineach (E)</orth>
+        </form>
+      </entry>
+      <head xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e299">[blank]</head>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e304">
+        <form>
+          <orth>bleoghan (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e310">
+        <form>
+          <orth>sradadh (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e316">
+        <form>
+          <orth>bainne (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e322">
+        <form>
+          <orth>nùs (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e328">
+        <form>
+          <orth>leth-thrath (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e334">
+        <form>
+          <orth>peile (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e340">
+        <form>
+          <orth>muga (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e346">
+        <form>
+          <orth>siuga (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e352">
+        <form>
+          <orth>stòp (E)</orth>
+        </form>
+      </entry>
+      <head xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e357">[blank]</head>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e362">
+        <form>
+          <orth>biota (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e368">
+        <form>
+          <orth>crannachan (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e374">
+        <form>
+          <orth>imideal (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e380">
+        <form>
+          <orth>buachair (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e386">
+        <form>
+          <orth>sgàird (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e392">
+        <form>
+          <orth>piatan (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e398">
+        <form>
+          <orth>afoinn (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e404">
+        <form>
+          <orth>buidheann (E)</orth>
+        </form>
+      </entry>
+      <head xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e409">[blank]</head>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e414">
+        <form>
+          <orth>inghilt (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e420">
+        <form>
+          <orth>ionaltradh (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e426">
+        <form>
+          <orth>buachailleachd (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e432">
+        <form>
+          <orth>buachaille (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e438">
+        <form>
+          <orth>cuairteir (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e444">
+        <form>
+          <orth>banachaig (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e450">
+        <form>
+          <orth>cnap (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e456">
+        <form>
+          <orth>fiodaigeadh (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e462">
+        <form>
+          <orth>fodradh (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e468">
+        <form>
+          <orth>muillean (E)</orth>
+        </form>
+      </entry>
+      <head xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e473">[blank]</head>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e478">
+        <form>
+          <orth>stàla (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e484">
+        <form>
+          <orth>buabhall (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e490">
+        <form>
+          <orth>stiall (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e496">
+        <form>
+          <orth>smeadhag (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e502">
+        <form>
+          <orth>dòrnan (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e508">
+        <form>
+          <orth>ceangal (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e514">
+        <form>
+          <orth>bacan (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e520">
+        <form>
+          <orth>buarach (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e526">
+        <form>
+          <orth>spearrach (Cha chreid mi nach robh an dà chuid againn E agus I.)</orth>
+        </form>
+      </entry>
+      <head xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e531">[blank]</head>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e536">
+        <form>
+          <orth>spùt (E) (No smait na dhà E agus I.)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e542">
+        <form>
+          <orth>ruadh (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e548">
+        <form>
+          <orth>galair (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e554">
+        <form>
+          <orth>teasach (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e560">
+        <form>
+          <orth>crobhdach (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e566">
+        <form>
+          <orth>lios (Chanainn gur h-e E a chanadh sinne.)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e572">
+        <form>
+          <orth>tòc (I)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e578">
+        <form>
+          <orth>suab (Chanainn gur h-e I.)</orth>
+        </form>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle1-d0e584">
+        <form>
+          <orth>bìdearra (E)</orth>
+        </form>
+      </entry>
+    </body>
+  </text>
 </TEI>

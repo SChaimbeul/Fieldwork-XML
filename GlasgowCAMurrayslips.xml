@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_GlasgowCAMurrayslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>1971</date>
-            <location>
-               <placeName>Glasgow</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="informant">
-               <persName>Miss C. A. Murray</persName>
-               <birth>
-                  <placeName>Lewis, Ness</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_GlasgowCAMurrayslips-idp115447048">
-            <form>
-               <orth>bara</orth>
-            </form>
-            <def>Quotation: An duine bhios a bhara air falbh, cha shuidh e ach air failbhean corrach.</def>
-         </entry>
-         <entry xml:id="Slips_GlasgowCAMurrayslips-idp115456120">
-            <form>
-               <orth>failbhean</orth>
-            </form>
-            <def>Quotation: An duine bhios a bhara air falbh, cha shuidh e ach air failbhean corrach. Notes: v. Matheson, An Clàrsair Dall, pp. 209, 227.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>1971</date>
+        <location>
+          <placeName>Glasgow</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="informant">
+          <persName>Miss C. A. Murray</persName>
+          <birth>
+            <placeName>Lewis, Ness</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_GlasgowCAMurrayslips-idp115447048">
+        <form>
+          <orth>bara</orth>
+        </form>
+        <def>Quotation: An duine bhios a bhara air falbh, cha shuidh e ach air failbhean corrach.</def>
+      </entry>
+      <entry xml:id="Slips_GlasgowCAMurrayslips-idp115456120">
+        <form>
+          <orth>failbhean</orth>
+        </form>
+        <def>Quotation: An duine bhios a bhara air falbh, cha shuidh e ach air failbhean corrach. Notes: v. Matheson, An Clàrsair Dall, pp. 209, 227.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

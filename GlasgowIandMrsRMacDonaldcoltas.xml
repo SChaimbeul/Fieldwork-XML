@@ -1,611 +1,598 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: some notes in second hand, most probably added by K. D. MacDonald. See below for details.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[1987-88]</date>
-            <location>
-               <placeName>Glasgow</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>A. O’Henley</persName>
-            </person>
-            <person role="informant">
-               <persName>Ishbel and Mrs R. MacDonald</persName>
-               <birth>
-                  <placeName>[South Uist]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Personal Appearance</term>
-               <term>Coltas an Duine</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-d0e32"
-            >Shapes and general appearance</head>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109742784">
-            <form>
-               <orth>bachaill</orth>
-            </form>
-            <def>clumsy, untidy, unkempt man – ’Se sàr bhachall [sic] a th’ann.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109744728">
-            <form>
-               <orth>clabaisteir</orth>
-            </form>
-            <def>large, clumsy person (male) rather than brawler as used by Dwelly.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109710384">
-            <form>
-               <orth>blataillein</orth>
-            </form>
-            <def>a very outsize unattractive [sic]. [NOTES: the following explanation and the next three words written in second hand.] Thàinig e ’s blatàillein de thè còmh’ ris. Also used to describe a crowd of people (prob. batallion), e.g. Thàinig blatàillein a steach.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109708368">
-            <form>
-               <orth>pleabain</orth>
-            </form>
-            <def>(used of a man) a skinny, miserable, useless looking character with no obvious personality.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp472264">
-            <form>
-               <orth>crabhàidseach</orth>
-            </form>
-            <def>Seann chràbhaidseach – an old decrepit person (female). (Donald MacIntyre in Sporan Dhòmhnaill uses “cranàidseichean”.)</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp474496">
-            <form>
-               <orth>sgraoid</orth>
-            </form>
-            <def>(used of a woman) e.g. seann sgraoid. Untidy older woman who takes no care of her appearance. Used also as a derogatory term describing an unpopular person, probably female.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp477520">
-            <form>
-               <orth>pliobain</orth>
-            </form>
-            <def>second in command, someone with no authority. [NOTES: note added above ‘n’ in ‘pliobain’ – (r).]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp479464">
-            <form>
-               <orth>trusdair</orth>
-            </form>
-            <def>rascal.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp481408">
-            <form>
-               <orth>gille ceann beinnge</orth>
-            </form>
-            <def>someone providing moral support at a ‘reiteach’.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp483352">
-            <form>
-               <orth>pliadhach</orth>
-            </form>
-            <def>splay footed.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp485296">
-            <form>
-               <orth>sianndaiche</orth>
-            </form>
-            <def>distant person.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp487240">
-            <form>
-               <orth>diud</orth>
-            </form>
-            <def>shy. “Duine diud.” [NOTES: corrected to ‘diùid’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp489544">
-            <form>
-               <orth>sgimileir</orth>
-            </form>
-            <def>slicked person.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp491488">
-            <form>
-               <orth>busairteach</orth>
-            </form>
-            <def>chancer, amateur.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp493432">
-            <form>
-               <orth>clùmhadh</orth>
-            </form>
-            <def>nestling.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp495376">
-            <form>
-               <orth>sgàiteach</orth>
-            </form>
-            <def>witty, same as ‘eirmseach’. [NOTES: corrected to ‘sgaiteach’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp497464">
-            <form>
-               <orth>bumalair</orth>
-            </form>
-            <def>big headed. Also used to describe size. [NOTES: note added above ‘b’ in ‘bumalair’ – (p).]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp499408">
-            <form>
-               <orth>oinseach</orth>
-            </form>
-            <def>used of foolish woman. [NOTES: corrected to ‘òinseach’.]</def>
-         </entry>
-         <head
-             xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-d0e198"
-            >Deformities, blemishes, scars</head>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp502360">
-            <form>
-               <orth>riofainaich</orth>
-            </form>
-            <def>ragnails.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp503872">
-            <form>
-               <orth>ioncair</orth>
-            </form>
-            <def>puss.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp505384">
-            <form>
-               <orth>ball dobhrain</orth>
-            </form>
-            <def>mole.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp506896">
-            <form>
-               <orth>ruiteach</orth>
-            </form>
-            <def>red in the face.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp508408">
-            <form>
-               <orth>lachdainn</orth>
-            </form>
-            <def>sallow skinned.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp509920">
-            <form>
-               <orth>fòghneachan</orth>
-            </form>
-            <def>warts. [NOTES: note added above in second hand – foinneachan.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp511720">
-            <form>
-               <orth>sleamhnain</orth>
-            </form>
-            <def>stye.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp513232">
-            <form>
-               <orth>slinneanach</orth>
-            </form>
-            <def>broad shouldered.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp514744">
-            <form>
-               <orth>gàgan</orth>
-            </form>
-            <def>hacks, especially with people who work with kelp.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp516256">
-            <form>
-               <orth>pronnadh</orth>
-            </form>
-            <def>bruise.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp517768">
-            <form>
-               <orth>cadal deiligneach</orth>
-            </form>
-            <def>pins and needles.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp519280">
-            <form>
-               <orth>forc</orth>
-            </form>
-            <def>cramp.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp179480">
-            <form>
-               <orth>deideadh</orth>
-            </form>
-            <def>toothache. [NOTES: corrected to ‘dèideadh’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp181136">
-            <form>
-               <orth>lòin</orth>
-            </form>
-            <def>rheumatism.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp182648">
-            <form>
-               <orth>druim-lòin</orth>
-            </form>
-            <def>rheumatism.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp184160">
-            <form>
-               <orth>greim-lòin</orth>
-            </form>
-            <def>rheumatism.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp185672">
-            <form>
-               <orth>breaca sianain</orth>
-            </form>
-            <def>freckles.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp187184">
-            <form>
-               <orth>spliucan</orth>
-            </form>
-            <def>tobacco pouch. [NOTES: corrected to ‘spliùcan’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp188840">
-            <form>
-               <orth>leabhar poca</orth>
-            </form>
-            <def>wallet.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp190352">
-            <form>
-               <orth>claisean</orth>
-            </form>
-            <def>wrinkles.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp191864">
-            <form>
-               <orth>‘bathais gun naire’</orth>
-            </form>
-            <def>saying.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp193376">
-            <form>
-               <orth>pleat</orth>
-            </form>
-            <def>“Nach ann air a bha pleat.” – used for a showy person.</def>
-         </entry>
-         <head
-             xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-d0e400"
-            >Beauty and ugliness</head>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp195824">
-            <form>
-               <orth>sgeamp</orth>
-            </form>
-            <def>stylish person (male), dandy. Sàr sgeamp – bang in fashion.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp197552">
-            <form>
-               <orth>smàiseil</orth>
-            </form>
-            <def>good looker.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp199064">
-            <form>
-               <orth>snàsail</orth>
-            </form>
-            <def>good looker. [NOTES: corrected to ‘snasail’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp200720">
-            <form>
-               <orth>gad phonaigeadh fhein</orth>
-            </form>
-            <def>dolling up.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp202232">
-            <form>
-               <orth>mi-thuarail</orth>
-            </form>
-            <def>sickly.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp203744">
-            <form>
-               <orth>culla sgrath</orth>
-            </form>
-            <def>ugly. [NOTES: note added above ‘culla’ – culaidh; ‘sgrath’ corrected to ‘sgràth'.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp205472">
-            <form>
-               <orth>culla sgreimh</orth>
-            </form>
-            <def>ugly. [NOTES: note added below ‘mh’ in ‘sgreimh’ – (f); note added above ‘culla’ – culaidh.]</def>
-         </entry>
-         <head
-             xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-d0e467"
-            >Strength, fitness and the opposite</head>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp208064">
-            <form>
-               <orth>treun</orth>
-            </form>
-            <def>strong.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp209576">
-            <form>
-               <orth>calm(a)</orth>
-            </form>
-            <def>strong.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp211088">
-            <form>
-               <orth>supailte</orth>
-            </form>
-            <def>supple.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp212600">
-            <form>
-               <orth>miota</orth>
-            </form>
-            <def>weakling.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp214112">
-            <form>
-               <orth>lapach</orth>
-            </form>
-            <def>poorly.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp215624">
-            <form>
-               <orth>liost na bochd</orth>
-            </form>
-            <def>parish relief.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp217136">
-            <form>
-               <orth>bachdach</orth>
-            </form>
-            <def>lame.</def>
-         </entry>
-         <head
-             xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-d0e534"
-            >Ways of walking, sitting, lying</head>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp219512">
-            <form>
-               <orth>air bhigearna</orth>
-            </form>
-            <def>on tenterhooks.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp221024">
-            <form>
-               <orth>fàdhach</orth>
-            </form>
-            <def>striving. Bha mi fàdhach ri crioch a chuir air … [NOTES: corrected to ‘fadhach’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp222896">
-            <form>
-               <orth>cugallach</orth>
-            </form>
-            <def>unsteady.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp224408">
-            <form>
-               <orth>cabach</orth>
-            </form>
-            <def>blether. Tha e cabach. Cabain (male), cabag (female).</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp226280">
-            <form>
-               <orth>bleadraich</orth>
-            </form>
-            <def>blethering.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp227792">
-            <form>
-               <orth>cabainneach</orth>
-            </form>
-            <def>blether.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp229304">
-            <form>
-               <orth>greannach</orth>
-            </form>
-            <def>grumpy.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp230816">
-            <form>
-               <orth>glaoic</orth>
-            </form>
-            <def>fool.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp232328">
-            <form>
-               <orth>Amadan aig Mac ’Ic Ailein</orth>
-            </form>
-            <def>phrase for a jester.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp233840">
-            <form>
-               <orth>piobrachadh</orth>
-            </form>
-            <def>to encourage, to pepper things up, to incite.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp235352">
-            <form>
-               <orth>ardanach</orth>
-            </form>
-            <def>haughty person. [NOTES: corrected to ‘àrdanach’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp237008">
-            <form>
-               <orth>corrach</orth>
-            </form>
-            <def>rugged.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp238520">
-            <form>
-               <orth>bleigeard</orth>
-            </form>
-            <def>mischievous.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp240032">
-            <form>
-               <orth>tamhasg</orth>
-            </form>
-            <def>mischievous. Also used for a particular ghost type in Barra.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp241616">
-            <form>
-               <orth>luasganach</orth>
-            </form>
-            <def>harum-scarum.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp243128">
-            <form>
-               <orth>anns a’ cham a chòthail</orth>
-            </form>
-            <def>used for someone coming into a conversation, company.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109370648">
-            <form>
-               <orth>corra-bide</orth>
-            </form>
-            <def>tiptoes.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109372160">
-            <form>
-               <orth>tinneas-laighe</orth>
-            </form>
-            <def>nightmare.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109373672">
-            <form>
-               <orth>sgleogach</orth>
-            </form>
-            <def>effeminate.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109375184">
-            <form>
-               <orth>pleastar</orth>
-            </form>
-            <def>someone you can’t get rid of. Also ‘tearr’. ’Se tearr de dhuine a th’ann.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109376912">
-            <form>
-               <orth>[tearr]</orth>
-               <pron>[See pleastar.]</pron>
-            </form>
-            <def>[See pleastar.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109378496">
-            <form>
-               <orth>luideach</orth>
-            </form>
-            <def>clumsy.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109380080">
-            <form>
-               <orth>luid</orth>
-            </form>
-            <def>silly woman. “Fhuair mi luid / Fhuair mi cuid / Dh’fhan a’ luid / ’S dh’fhalbh mo chuid.”</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109382240">
-            <form>
-               <orth>[mionaig]</orth>
-            </form>
-            <def>“Slainte na mionaig nach tig / ’S tric is mionaig a thàinig / Ach nach truagh nach e mionaig nach tig / A bha an àite a’ mhionaig a thàinig.” A toast with a pun on the word ‘mionaig’ meaning ‘often’ and also being used of a woman who is preferred to the wife of the person making the toast. So ‘mionaig’ means someone who he preferred to his own spouse.</def>
-         </entry>
-         <head
-             xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-d0e754"
-            >Pulling faces, frowns, other expressions</head>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109385264">
-            <form>
-               <orth>greann</orth>
-            </form>
-            <def>frown.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109386776">
-            <form>
-               <orth>cur chreinnean</orth>
-            </form>
-            <def>making faces.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109388288">
-            <form>
-               <orth>air fhiaradh</orth>
-            </form>
-            <def>looking at something with a squint.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109389800">
-            <form>
-               <orth>fo’n t-sùil</orth>
-            </form>
-            <def>looking at something with a squint.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109391312">
-            <form>
-               <orth>smèideadh</orth>
-            </form>
-            <def>waving.</def>
-         </entry>
-         <head
-             xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-d0e803"
-            >Clean and untidy</head>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109393688">
-            <form>
-               <orth>spàideil</orth>
-            </form>
-            <def>very neat.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109395632">
-            <form>
-               <orth>giobach</orth>
-            </form>
-            <def>untidy.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109397576">
-            <form>
-               <orth>peallag</orth>
-            </form>
-            <def>untidy female.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109399520">
-            <form>
-               <orth>peallan</orth>
-            </form>
-            <def>untidy male.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109401464">
-            <form>
-               <orth>giobain</orth>
-            </form>
-            <def>descriptive word applied to individual in friendly manner. “Sheall an giobain a tha a’ nall thugainn.”</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109403768">
-            <form>
-               <orth>maill</orth>
-            </form>
-            <def>delay.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109405712">
-            <form>
-               <orth>blineas</orth>
-            </form>
-            <def>silly grin. “Blineas air.” [NOTES: corrected to ‘blìneas’.]</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: some notes in second hand, most probably added by K. D. MacDonald. See below for details.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[1987-88]</date>
+        <location>
+          <placeName>Glasgow</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>A. O’Henley</persName>
+        </person>
+        <person role="informant">
+          <persName>Ishbel and Mrs R. MacDonald</persName>
+          <birth>
+            <placeName>[South Uist]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Personal Appearance</term>
+          <term>Coltas an Duine</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-d0e32">Shapes and general appearance</head>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109742784" type="person">
+        <form>
+          <orth>bachaill</orth>
+        </form>
+        <def>clumsy, untidy, unkempt man – ’Se sàr bhachall [sic] a th’ann.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109744728" type="person">
+        <form>
+          <orth>clabaisteir</orth>
+        </form>
+        <def>large, clumsy person (male) rather than brawler as used by Dwelly.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109710384" type="person">
+        <form>
+          <orth>blataillein</orth>
+        </form>
+        <def>a very outsize unattractive [sic]. [NOTES: the following explanation and the next three words written in second hand.] Thàinig e ’s blatàillein de thè còmh’ ris. Also used to describe a
+          crowd of people (prob. batallion), e.g. Thàinig blatàillein a steach.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109708368" type="person">
+        <form>
+          <orth>pleabain</orth>
+        </form>
+        <def>(used of a man) a skinny, miserable, useless looking character with no obvious personality.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp472264" type="person">
+        <form>
+          <orth>crabhàidseach</orth>
+        </form>
+        <def>Seann chràbhaidseach – an old decrepit person (female). (Donald MacIntyre in Sporan Dhòmhnaill uses “cranàidseichean”.)</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp474496" type="person">
+        <form>
+          <orth>sgraoid</orth>
+        </form>
+        <def>(used of a woman) e.g. seann sgraoid. Untidy older woman who takes no care of her appearance. Used also as a derogatory term describing an unpopular person, probably female.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp477520" type="person">
+        <form>
+          <orth>pliobain</orth>
+        </form>
+        <def>second in command, someone with no authority. [NOTES: note added above ‘n’ in ‘pliobain’ – (r).]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp479464" type="person">
+        <form>
+          <orth>trusdair</orth>
+        </form>
+        <def>rascal.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp481408" type="person">
+        <form>
+          <orth>gille ceann beinnge</orth>
+        </form>
+        <def>someone providing moral support at a ‘reiteach’.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp483352" type="person">
+        <form>
+          <orth>pliadhach</orth>
+        </form>
+        <def>splay footed.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp485296" type="person">
+        <form>
+          <orth>sianndaiche</orth>
+        </form>
+        <def>distant person.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp487240" type="person">
+        <form>
+          <orth>diud</orth>
+        </form>
+        <def>shy. “Duine diud.” [NOTES: corrected to ‘diùid’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp489544" type="person">
+        <form>
+          <orth>sgimileir</orth>
+        </form>
+        <def>slicked person.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp491488" type="person">
+        <form>
+          <orth>busairteach</orth>
+        </form>
+        <def>chancer, amateur.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp493432" type="person">
+        <form>
+          <orth>clùmhadh</orth>
+        </form>
+        <def>nestling.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp495376" type="person">
+        <form>
+          <orth>sgàiteach</orth>
+        </form>
+        <def>witty, same as ‘eirmseach’. [NOTES: corrected to ‘sgaiteach’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp497464" type="person">
+        <form>
+          <orth>bumalair</orth>
+        </form>
+        <def>big headed. Also used to describe size. [NOTES: note added above ‘b’ in ‘bumalair’ – (p).]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp499408" type="person">
+        <form>
+          <orth>oinseach</orth>
+        </form>
+        <def>used of foolish woman. [NOTES: corrected to ‘òinseach’.]</def>
+      </entry>
+      <head xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-d0e198">Deformities, blemishes, scars</head>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp502360">
+        <form>
+          <orth>riofainaich</orth>
+        </form>
+        <def>ragnails.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp503872">
+        <form>
+          <orth>ioncair</orth>
+        </form>
+        <def>puss.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp505384">
+        <form>
+          <orth>ball dobhrain</orth>
+        </form>
+        <def>mole.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp506896" type="person">
+        <form>
+          <orth>ruiteach</orth>
+        </form>
+        <def>red in the face.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp508408" type="person">
+        <form>
+          <orth>lachdainn</orth>
+        </form>
+        <def>sallow skinned.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp509920">
+        <form>
+          <orth>fòghneachan</orth>
+        </form>
+        <def>warts. [NOTES: note added above in second hand – foinneachan.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp511720">
+        <form>
+          <orth>sleamhnain</orth>
+        </form>
+        <def>stye.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp513232" type="person">
+        <form>
+          <orth>slinneanach</orth>
+        </form>
+        <def>broad shouldered.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp514744">
+        <form>
+          <orth>gàgan</orth>
+        </form>
+        <def>hacks, especially with people who work with kelp.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp516256">
+        <form>
+          <orth>pronnadh</orth>
+        </form>
+        <def>bruise.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp517768">
+        <form>
+          <orth>cadal deiligneach</orth>
+        </form>
+        <def>pins and needles.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp519280">
+        <form>
+          <orth>forc</orth>
+        </form>
+        <def>cramp.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp179480">
+        <form>
+          <orth>deideadh</orth>
+        </form>
+        <def>toothache. [NOTES: corrected to ‘dèideadh’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp181136">
+        <form>
+          <orth>lòin</orth>
+        </form>
+        <def>rheumatism.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp182648">
+        <form>
+          <orth>druim-lòin</orth>
+        </form>
+        <def>rheumatism.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp184160">
+        <form>
+          <orth>greim-lòin</orth>
+        </form>
+        <def>rheumatism.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp185672">
+        <form>
+          <orth>breaca sianain</orth>
+        </form>
+        <def>freckles.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp187184">
+        <form>
+          <orth>spliucan</orth>
+        </form>
+        <def>tobacco pouch. [NOTES: corrected to ‘spliùcan’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp188840">
+        <form>
+          <orth>leabhar poca</orth>
+        </form>
+        <def>wallet.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp190352">
+        <form>
+          <orth>claisean</orth>
+        </form>
+        <def>wrinkles.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp191864">
+        <form>
+          <orth>‘bathais gun naire’</orth>
+        </form>
+        <def>saying.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp193376">
+        <form>
+          <orth>pleat</orth>
+        </form>
+        <def>“Nach ann air a bha pleat.” – used for a showy person.</def>
+      </entry>
+      <head xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-d0e400">Beauty and ugliness</head>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp195824" type="person">
+        <form>
+          <orth>sgeamp</orth>
+        </form>
+        <def>stylish person (male), dandy. Sàr sgeamp – bang in fashion.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp197552" type="person">
+        <form>
+          <orth>smàiseil</orth>
+        </form>
+        <def>good looker.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp199064" type="person">
+        <form>
+          <orth>snàsail</orth>
+        </form>
+        <def>good looker. [NOTES: corrected to ‘snasail’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp200720">
+        <form>
+          <orth>gad phonaigeadh fhein</orth>
+        </form>
+        <def>dolling up.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp202232" type="person">
+        <form>
+          <orth>mi-thuarail</orth>
+        </form>
+        <def>sickly.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp203744" type="person">
+        <form>
+          <orth>culla sgrath</orth>
+        </form>
+        <def>ugly. [NOTES: note added above ‘culla’ – culaidh; ‘sgrath’ corrected to ‘sgràth'.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp205472" type="person">
+        <form>
+          <orth>culla sgreimh</orth>
+        </form>
+        <def>ugly. [NOTES: note added below ‘mh’ in ‘sgreimh’ – (f); note added above ‘culla’ – culaidh.]</def>
+      </entry>
+      <head xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-d0e467">Strength, fitness and the opposite</head>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp208064">
+        <form>
+          <orth>treun</orth>
+        </form>
+        <def>strong.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp209576" type="person">
+        <form>
+          <orth>calm(a)</orth>
+        </form>
+        <def>strong.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp211088" type="person">
+        <form>
+          <orth>supailte</orth>
+        </form>
+        <def>supple.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp212600" type="person">
+        <form>
+          <orth>miota</orth>
+        </form>
+        <def>weakling.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp214112" type="person">
+        <form>
+          <orth>lapach</orth>
+        </form>
+        <def>poorly.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp215624">
+        <form>
+          <orth>liost na bochd</orth>
+        </form>
+        <def>parish relief.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp217136" type="person">
+        <form>
+          <orth>bachdach</orth>
+        </form>
+        <def>lame.</def>
+      </entry>
+      <head xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-d0e534">Ways of walking, sitting, lying</head>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp219512">
+        <form>
+          <orth>air bhigearna</orth>
+        </form>
+        <def>on tenterhooks.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp221024">
+        <form>
+          <orth>fàdhach</orth>
+        </form>
+        <def>striving. Bha mi fàdhach ri crioch a chuir air … [NOTES: corrected to ‘fadhach’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp222896" type="person">
+        <form>
+          <orth>cugallach</orth>
+        </form>
+        <def>unsteady.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp224408" type="person">
+        <form>
+          <orth>cabach</orth>
+        </form>
+        <def>blether. Tha e cabach. Cabain (male), cabag (female).</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp226280">
+        <form>
+          <orth>bleadraich</orth>
+        </form>
+        <def>blethering.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp227792" type="person">
+        <form>
+          <orth>cabainneach</orth>
+        </form>
+        <def>blether.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp229304" type="person">
+        <form>
+          <orth>greannach</orth>
+        </form>
+        <def>grumpy.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp230816" type="person">
+        <form>
+          <orth>glaoic</orth>
+        </form>
+        <def>fool.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp232328" type="person">
+        <form>
+          <orth>Amadan aig Mac ’Ic Ailein</orth>
+        </form>
+        <def>phrase for a jester.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp233840">
+        <form>
+          <orth>piobrachadh</orth>
+        </form>
+        <def>to encourage, to pepper things up, to incite.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp235352" type="person">
+        <form>
+          <orth>ardanach</orth>
+        </form>
+        <def>haughty person. [NOTES: corrected to ‘àrdanach’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp237008" type="person">
+        <form>
+          <orth>corrach</orth>
+        </form>
+        <def>rugged.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp238520" type="person">
+        <form>
+          <orth>bleigeard</orth>
+        </form>
+        <def>mischievous.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp240032" type="person">
+        <form>
+          <orth>tamhasg</orth>
+        </form>
+        <def>mischievous. Also used for a particular ghost type in Barra.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp241616">
+        <form>
+          <orth>luasganach</orth>
+        </form>
+        <def>harum-scarum.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp243128">
+        <form>
+          <orth>anns a’ cham a chòthail</orth>
+        </form>
+        <def>used for someone coming into a conversation, company.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109370648">
+        <form>
+          <orth>corra-bide</orth>
+        </form>
+        <def>tiptoes.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109372160">
+        <form>
+          <orth>tinneas-laighe</orth>
+        </form>
+        <def>nightmare.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109373672" type="person">
+        <form>
+          <orth>sgleogach</orth>
+        </form>
+        <def>effeminate.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109375184" type="person">
+        <form>
+          <orth>pleastar</orth>
+        </form>
+        <def>someone you can’t get rid of. Also ‘tearr’. ’Se tearr de dhuine a th’ann.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109376912" type="person">
+        <form>
+          <orth>[tearr]</orth>
+          <pron>[See pleastar.]</pron>
+        </form>
+        <def>[See pleastar.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109378496" type="person">
+        <form>
+          <orth>luideach</orth>
+        </form>
+        <def>clumsy.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109380080" type="person">
+        <form>
+          <orth>luid</orth>
+        </form>
+        <def>silly woman. “Fhuair mi luid / Fhuair mi cuid / Dh’fhan a’ luid / ’S dh’fhalbh mo chuid.”</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109382240" type="person">
+        <form>
+          <orth>[mionaig]</orth>
+        </form>
+        <def>“Slainte na mionaig nach tig / ’S tric is mionaig a thàinig / Ach nach truagh nach e mionaig nach tig / A bha an àite a’ mhionaig a thàinig.” A toast with a pun on the word ‘mionaig’
+          meaning ‘often’ and also being used of a woman who is preferred to the wife of the person making the toast. So ‘mionaig’ means someone who he preferred to his own spouse.</def>
+      </entry>
+      <head xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-d0e754">Pulling faces, frowns, other expressions</head>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109385264">
+        <form>
+          <orth>greann</orth>
+        </form>
+        <def>frown.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109386776">
+        <form>
+          <orth>cur chreinnean</orth>
+        </form>
+        <def>making faces.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109388288">
+        <form>
+          <orth>air fhiaradh</orth>
+        </form>
+        <def>looking at something with a squint.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109389800">
+        <form>
+          <orth>fo’n t-sùil</orth>
+        </form>
+        <def>looking at something with a squint.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109391312">
+        <form>
+          <orth>smèideadh</orth>
+        </form>
+        <def>waving.</def>
+      </entry>
+      <head xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-d0e803">Clean and untidy</head>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109393688" type="person">
+        <form>
+          <orth>spàideil</orth>
+        </form>
+        <def>very neat.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109395632" type="person">
+        <form>
+          <orth>giobach</orth>
+        </form>
+        <def>untidy.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109397576" type="person">
+        <form>
+          <orth>peallag</orth>
+        </form>
+        <def>untidy female.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109399520" type="person">
+        <form>
+          <orth>peallan</orth>
+        </form>
+        <def>untidy male.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109401464">
+        <form>
+          <orth>giobain</orth>
+        </form>
+        <def>descriptive word applied to individual in friendly manner. “Sheall an giobain a tha a’ nall thugainn.”</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109403768">
+        <form>
+          <orth>maill</orth>
+        </form>
+        <def>delay.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowIandMrsRMacDonaldcoltas-idp109405712">
+        <form>
+          <orth>blineas</orth>
+        </form>
+        <def>silly grin. “Blineas air.” [NOTES: corrected to ‘blìneas’.]</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

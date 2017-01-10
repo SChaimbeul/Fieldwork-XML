@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_GairlochRWentworthslips">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>1987</date>
-            <location>
-               <placeName>Ross-shire, Gairloch</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="informant">
-               <persName>Ray Wentworth</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="Slips_GairlochRWentworthslips-idp161827760">
-            <form>
-               <orth>beubanachd</orth>
-            </form>
-            <def>Quotation: Rinn iad beubanachd oirre. Notes: [the surgeons] mangled her.</def>
-         </entry>
-         <entry xml:id="Slips_GairlochRWentworthslips-idp161829416">
-            <form>
-               <orth>àird</orth>
-            </form>
-            <def>Quotation: ’Se cion àird a bu choireach. Notes: lack of attention.</def>
-         </entry>
-         <entry xml:id="Slips_GairlochRWentworthslips-idp161831072">
-            <form>
-               <orth>comach</orth>
-            </form>
-            <def>Quotation: Thuit mar chomach ris an deibh. Notes: ‘on account of’.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>1987</date>
+        <location>
+          <placeName>Ross-shire, Gairloch</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="informant">
+          <persName>Ray Wentworth</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="Slips_GairlochRWentworthslips-idp161827760">
+        <form>
+          <orth>beubanachd</orth>
+        </form>
+        <def>Quotation: Rinn iad beubanachd oirre. Notes: [the surgeons] mangled her.</def>
+      </entry>
+      <entry xml:id="Slips_GairlochRWentworthslips-idp161829416">
+        <form>
+          <orth>àird</orth>
+        </form>
+        <def>Quotation: ’Se cion àird a bu choireach. Notes: lack of attention.</def>
+      </entry>
+      <entry xml:id="Slips_GairlochRWentworthslips-idp161831072">
+        <form>
+          <orth>comach</orth>
+        </form>
+        <def>Quotation: Thuit mar chomach ris an deibh. Notes: ‘on account of’.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

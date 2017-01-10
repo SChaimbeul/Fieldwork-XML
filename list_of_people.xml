@@ -144,7 +144,8 @@
             <surname>MacLeod</surname>
           </persName>
         </person>
-        <person xml:id="Donald_John_MacLeod_Ardhasaig"> <!-- same as above? -->
+        <person xml:id="Donald_John_MacLeod_Ardhasaig">
+          <!-- same as above? -->
           <persName xml:lang="en">
             <forename>Donald</forename>
             <forename>John</forename>
@@ -431,6 +432,128 @@
             <surname>MacDonald</surname>
           </persName>
         </person>
+        <person xml:id="Angus_MacLeod_Lewis_Back">
+          <persName xml:lang="en">
+            <forename>Angus</forename>
+            <surname>MacLeod</surname>
+          </persName>
+        </person>
+        <person xml:id="George_Stewart_Lewis_Back">
+          <persName xml:lang="en">
+            <forename>George</forename>
+            <surname>Stewart</surname>
+          </persName>
+          <age>45</age>
+          <birth>
+            <location corresp="Lewis_Back"/>
+          </birth>
+        </person>
+        <person xml:id="Alex_M_Morrison_Lewis_Back">
+          <persName xml:lang="en">
+            <forename>Alex</forename>
+            <forename>M.</forename>
+            <surname>Morrison</surname>
+          </persName>
+          <age>60</age>
+          <birth>
+            <location corresp="Lewis_Back"/>
+          </birth>
+        </person>
+        <person xml:id="Murdo_MacLeod_Lewis_Back">
+          <persName xml:lang="en">
+            <forename>Murdo</forename>
+            <surname>MacLeod</surname>
+          </persName>
+        </person>
+        <person xml:id="Miss_C_MacKay_Lewis_Balallan">
+          <persName xml:lang="en">
+            <roleName>Miss</roleName>
+            <forename>C.</forename>
+            <surname>MacKay</surname>
+          </persName>
+        </person>
+        <person xml:id="Mrs_Margaret_MacInnes_Lewis_Balallan">
+          <persName xml:lang="en">
+            <roleName>Mrs</roleName>
+            <forename>Margaret</forename>
+            <surname>MacInnes</surname>
+          </persName>
+        </person>
+        <person xml:id="Roderick_Martin_Lewis_Balallan">
+          <persName xml:lang="en">
+            <forename>Roderick</forename>
+            <surname>Martin</surname>
+          </persName>
+          <birth>
+            <location corresp="Lewis_Balallan"/>
+          </birth>
+        </person>
+        <person xml:id="Andrew_Fraser_Glenurquhart">
+          <persName xml:lang="en">
+            <forename>Andrew</forename>
+            <surname>Fraser</surname>
+          </persName>
+          <age>93</age>
+          <birth>
+            <location corresp="Inverness-shire_Glenurquhart"/>
+          </birth>
+        </person>
+        <person xml:id="Calum_Robertson_North_Uist_Baleshare">
+          <persName xml:lang="en">
+            <forename>Calum</forename>
+            <surname>Robertson</surname>
+          </persName>
+          <age>c. 80</age>
+        </person>
+        <person xml:id="Hugh_Matheson_North_Uist_Baleshare">
+          <persName xml:lang="en">
+            <forename>Hugh</forename>
+            <surname>Matheson</surname>
+          </persName>
+          <age>67/8</age>
+          <birth>
+            <location corresp="North_Uist_Baleshare"/>
+          </birth>
+        </person>
+        <person xml:id="D_A_MacQueen_South_Uist_Balgarva">
+          <persName xml:lang="en">
+            <forename>Donald</forename>
+            <forename>A.</forename>
+            <surname>MacQueen</surname>
+          </persName>
+          <age>c. 50 (in 1969)</age>
+        </person>
+        <person xml:id="Hector_MacKay_Sutherland_Balvoolich">
+          <persName xml:lang="en">
+            <forename>Hector</forename>
+            <surname>MacKay</surname>
+          </persName>
+          <age>80s</age>
+        </person>
+        <person xml:id="Mrs_Christine_MacInnes_Barra_Northbay">
+          <persName xml:lang="en">
+            <roleName>Mrs</roleName>
+            <forename>Christine</forename>
+            <surname>MacInnes</surname>
+          </persName>
+        </person>
+        <person xml:id="Donald_Boyd_Barra_Castlebay">
+          <persName xml:lang="en">
+            <forename>Donald</forename>
+            <surname>Boyd</surname>
+          </persName>
+          <age>? [c. 65?]</age>
+          <birth>
+            <location corresp="North_Uist" cert="medium"/>
+          </birth>
+        </person>
+        <person xml:id="Roderick_MacNeil_Barra">
+          <persName xml:lang="en">
+            <forename>Roderick</forename>
+            <surname>MacNeil</surname>
+          </persName>
+        </person>
+        
 
         <!-- Fieldworkers -->
         <person xml:id="A_J_Smith">
@@ -450,6 +573,9 @@
         </person>
         <person xml:id="Major_N_T_MacLeod">
           <persName xml:lang="en">Major N. T. MacLeod</persName>
+        </person>
+        <person xml:id="I_M_Morrison">
+          <persName xml:lang="en">I. M. Morrison</persName>
         </person>
 
         <!-- Editors -->

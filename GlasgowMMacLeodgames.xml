@@ -1,445 +1,428 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Games_GlasgowMMacLeodgames">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: the informant uses E and I to mark the gender of the nouns, masculine and feminine respectively.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <location>
-               <placeName>Glaschu [Glasgow]</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>Murdo MacLeod</persName>
-               <persName xml:lang="gd">Murchadh MacLeòid</persName>
-               <age>57 5/12</age>
-               <birth>
-                  <placeName>Leodhas [Lewis], Uig</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Recreation: Toys, Games, Contests</term>
-               <term>Cur-seachadan: Dèideagan, Geamaichean is Farpaisean</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="Games_GlasgowMMacLeodgames-d0e37"
-            >1. Toys</head>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e42">
-            <form>
-               <orth>srannachan (E)</orth>
-            </form>
-            <def>mar seo shìos. Dèanta de leathar no mar sin.
-        <graphic url="GlasgowMMacLeodgamesillust1.jpg" width="500px"/>
-            </def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e53">
-            <form>
-               <orth>gille-mirein (E)</orth>
-            </form>
-            <def>Dèanta de phiorna (piorna na bùtha). Bheireadh tu a dhà dhiubh as a’ phiorna. 
-        <graphic url="GlasgowMMacLeodgamesillust2.jpg" width="150px"/>
-               <graphic url="GlasgowMMacLeodgamesillust3.jpg" width="150px"/>
-            </def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e66">
-            <form>
-               <orth>bodach-sàbhaidh (E)</orth>
-            </form>
-            <def>Cudthrom freagarrach sam bith dheanadh e a’ chùis. Nuair a chuireadh sibh am bodach air ghluasad, bheir e ùine mhór ag [?] air an t-sàbhadh mus stadadh e. Meud a’ bhodaich: 9", no na bu mhotha, an cumantas. E dèanta de fhiodh.
-        <graphic url="GlasgowMMacLeodgamesillust4.jpg" width="600px"/>
-            </def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e77">
-            <form>
-               <orth>longag (I)</orth>
-            </form>
-            <def>(Fuaimnich seo ‘lungag’.) Chan eil ainm àrraid sam bith agam air an leathar.
-        <graphic url="GlasgowMMacLeodgamesillust5.jpg" width="300px"/>
-            </def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e88">
-            <form>
-               <orth>soitheach-bòrd-air-oir (I)</orth>
-            </form>
-            <def>Dèanta de bhòrd fiodha agus druim oirre. Luaidhe airson cudthrom, ceangailte ris an druim air a neo air a leigeil a steach do an druim. Bho a taobh, bho a toiseach gu a deireadh:
-        <graphic url="GlasgowMMacLeodgamesillust6.jpg" width="200px"/>
-               <graphic url="GlasgowMMacLeodgamesillust7.jpg" width="200px"/>
-            </def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e101">
-            <form>
-               <orth>soitheach-chuairt, soitheach-thimchill (I)</orth>
-            </form>
-            <def>Soitheach agus broinn innte – dìreach mar eathar ceart, agus timchill oirre. Dèanta de fhiodh tana a ghabhadh lùbadh. A h-uile càil oirre dìreach mar eathar mór. Ach ’s e corra dhuine de na balaich a bhiodh cho làmhcharach agus gun dèanadh e tè.
-        <graphic url="GlasgowMMacLeodgamesillust8.jpg" width="200px"/>
-            </def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e112">
-            <form>
-               <orth>soitheach-chnap (I)</orth>
-            </form>
-            <def>Dèanta à cnap fiodha agus air a cladhach. Cumadh oirre, agus broinn innte, dìreach mar eathar mór.
-        <graphic url="GlasgowMMacLeodgamesillust9.jpg" width="200px"/>
-            </def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e123">
-            <form>
-               <orth>[seòl]</orth>
-            </form>
-            <def>An seòrsa sheòl a bhiodh againn air na soithichean:
-        <graphic url="GlasgowMMacLeodgamesillust10.jpg" width="400px"/>
-            </def>
-         </entry>
-         <head
-             xml:id="Games_GlasgowMMacLeodgames-d0e133"
-            >2. Swings, see-saws</head>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e138">
-            <form>
-               <orth>riabaisteallag (I)</orth>
-            </form>
-            <def>Dìreach mar a chì sibh aca anns na pàircean. Ach againne air àrd-dhorus freagarrach no air spàrr. Agus uaireannan air an t-slabhraidh os cionn an teine anns na seann tighean. Airson riabaisteallag air an t-slabhraidh, gheibheadh sinn ar creach.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e147">
-            <form>
-               <orth>babhsaigeadh (E)</orth>
-            </form>
-            <def>(Fuaimnich mar ‘rouse’ (Beurla) + ‘aigeadh’.) Planca air cloich mhóir agus duine againn air gach ceann dheth. Uaireannan bhiodh barrachd air dithis a’ babhsaigeadh air a’ phlanca.</def>
-         </entry>
-         <head
-             xml:id="Games_GlasgowMMacLeodgames-d0e155"
-            >3. Games played indoors</head>
-         <entry xml:id="Games_GlasgowMMacLeodgames-idola108">
-            <form>
-               <orth>[am broinn an tighe]</orth>
-            </form>
-            <def>Cha bhitheadh móran, gheibheadh tu do chreach airson cluiche no caoch am broinn an tighe. Ach bhiodh againn seòrsa de chluicheannan, no seòrsa de lùth-chleasan, mar: 1. A’ tighinn troimh a’ chlobha. 2. A’ tighinn troimh a’ bhata. 3. Ag eirigh leis an eallach aotrom. ’S mar sin. Dh’fheumainn iad seo shuas a shealltainn.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-idola109">
-            <form>
-               <orth>[toimhseachanan]</orth>
-            </form>
-            <def>Agus bhiodh againn toimhseachanan ’s mar sin airson an oibreachadh a mach, mar: 1. Aiseag nan Ceardaichnean. 2. Na Buideil. 3. Muinntir Dhubhain.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-idola110">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>(Tha mi a’ cur seo air an duilleig-sa [i.e. on the blank page between 3. and 4.].)</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e187">
-            <form>
-               <orth>forca-shiubhail (I)</orth>
-            </form>
-            <def>B’e seo seòrsa de chàrn-slaoid a bhiodh aca againne ro ar n-àm-ne. Dèanta de fhiodh. Clàir baraille anns a’ bhonn aige agus an còrr mar a thuigeas sibh. Gus a dheanamh sleamhuinn bhiodh na balaich a’ suathadh liaghag feamann(d) (feamad) ris. Abair gu’m falbhadh e an uair sin, agus abair gu’m falbhadh! Chan eil ainm àrraid sam bith agam airson nam pàirtean aige. Rinn mi-fhìn fear aca uaireigin, nuair a bha sinn òg, agus theab e ar cur as an rathad.
-        <graphic url="GlasgowMMacLeodgamesillust11.jpg" width="200px"/>
-            </def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e198">
-            <form>
-               <orth>dogan speil (E)</orth>
-            </form>
-            <def>(Fuaimnich ‘dog’ mar ‘dog’ (Beurla) + ‘speil’. ‘Speil’ fuaimnich mar ‘ceil’ (Gàidhlig).) Ri linn m’ athair bhiodh gèim (E) aca a muigh le caman is ball (E). B’ e seo ‘cat and bat’ tha mi deanamh a mach. No faisg air co dhiù. Mur a biodh ball aca air dhòigh eile, dheanadh iad ball le fionnadh a’ chruidh.</def>
-         </entry>
-         <head
-             xml:id="Games_GlasgowMMacLeodgames-d0e206"
-            >4. Outdoor games not involving a ball or puck</head>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e211">
-            <form>
-               <orth>pitchers</orth>
-            </form>
-            <def>A’ cheud ghèim a tha cuimhne agam-sa riamh fhaicinn ’se ‘pitchers’. (’Se seo a th’aig na balaich mhóra air.) Is ann le leacan [?] freagarrach a bhiodh iad ag obair air. Roimhe ’n seo aig an fheadhainn a th’ann romhainn bha na peileastairean (‘Peilistearan’ aig Dwelly.) Bha an gèim-sa faisg air an aon seòrsa ri na pitcher-an aig na balaich. Mur a h-e an aona ghèim a th’ann! ’Se gèim de’n t-seòrsa-sa a’ cheud ghèim a tha lorg air a bhith anns na h-Eileanan Breatunnach.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e220">
-            <form>
-               <orth>[peileastairean]</orth>
-               <pron>[See pitchers.]</pron>
-            </form>
-            <def>[See pitchers.]</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e229">
-            <form>
-               <orth>cailleach bheag bhrùigh</orth>
-            </form>
-            <def>(Can ‘cailleach bheag bhrùgh’.) Seo gèim a bhiodh againn mar bu trice air an oidhche. A muigh.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e238">
-            <form>
-               <orth>cluiche air na putanan</orth>
-            </form>
-            <def>Cho fada agus a tha cuimhne agam is ann faisg air an aon seòrsa a bha na trì cluicheannan-sa [i.e. cluiche air na putanan, cluiche air na clacha beaga and cluiche air na sgilligean]. Gun mhóran eadar-dhealachaidh, ma bha eadar-dhealachadh sam bith, ach anns na h-ainmeannan. Bhiodh sinn cuideachd ’g an dèanamh a muigh air a’ chùl le buachar tioram nan caorach as t-samhradh. (Airson ‘cùl’ agam-sa tha mi deanamh a mach gur h-e ‘cùl-cinn’ a th’aig Dòmhnall Iain (fear na Hearadh.) Feuchaibh e!)</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e247">
-            <form>
-               <orth>cluiche air na clacha beaga</orth>
-               <pron>[See cluiche air na putanan.]</pron>
-            </form>
-            <def>[See cluiche air na putanan.]</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e256">
-            <form>
-               <orth>cluiche air na sgilligean</orth>
-               <pron>[See cluiche air na putanan.]</pron>
-            </form>
-            <def>[See cluiche air na putanan.]</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-idola111">
-            <form>
-               <orth>[geimeannan]</orth>
-            </form>
-            <def>A’ h-uile gin de na geimeannan (no cluicheannan) a thog mi an seo shuas, cho fada agus a tha lorg agam, tha iad air an aon stéidh. Cha mhath tha cuimhne agam an diugh, gu mionaideach dé mar a bha iad a’ dol. Geimeannan am measg nan curracagan, abair sin. Gu leòir, agus feadhainn a bhiodh sinn fhìn a’ deanamh, a thuilleadh air feadhainn shuidhichte bho shean, mar falach-fead (bìog falach fead a bh’againne air.) Cha b’ann a’ fàs ’s a’ fàs na b’àirde chun an adhair a bhiodh na curracagan idir mar a bhiodh na làithean agus na h-oidhcheannan a’ dol seachad. Agus abair nach b’ann!</def>
-         </entry>
-         <head
-             xml:id="Games_GlasgowMMacLeodgames-d0e273"
-            >5. Ball games</head>
-         <head
-             xml:id="Games_GlasgowMMacLeodgames-d0e277"
-             subtype="h2">Ball</head>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e282">
-            <form>
-               <orth>ball (E)</orth>
-            </form>
-            <def>such as football or shinty.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e291">
-            <form>
-               <orth>an dearcag</orth>
-            </form>
-            <def>a bhiodh aig an feadhainn romhainne airson ball an iomain.</def>
-         </entry>
-         <head
-             xml:id="Games_GlasgowMMacLeodgames-d0e299"
-             subtype="h2">Bats or clubs</head>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e304">
-            <form>
-               <orth>caman</orth>
-            </form>
-            <def>airson an iomain.</def>
-         </entry>
-         <head
-             xml:id="Games_GlasgowMMacLeodgames-d0e312"
-             subtype="h2">Team</head>
-         <entry xml:id="Games_GlasgowMMacLeodgames-idola112">
-            <form>
-               <orth>[buidheann no sgiobadh]</orth>
-            </form>
-            <def>Chan eil fhios agam an e buidheann no sgiobadh airson an ait againne.</def>
-         </entry>
-         <head
-             xml:id="Games_GlasgowMMacLeodgames-d0e325"
-             subtype="h2">Field of play etc.</head>
-         <entry xml:id="Games_GlasgowMMacLeodgames-idola113">
-            <form>
-               <orth>blàr iomain</orth>
-            </form>
-            <def>Chan eil mi cinnteach nach e blàr iomain a bh’ aca air an raoin far am biodh an t-iomain air a dhèanamh.</def>
-         </entry>
-         <head
-             xml:id="Games_GlasgowMMacLeodgames-d0e338"
-             subtype="h2">Penalties etc.</head>
-         <entry xml:id="Games_GlasgowMMacLeodgames-idola114">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>’Se.</def>
-         </entry>
-         <head
-             xml:id="Games_GlasgowMMacLeodgames-d0e351"
-            >6. Athletics</head>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e356">
-            <form>
-               <orth>leum</orth>
-            </form>
-            <def>Airson seo [i.e. long jump] tha againn ‘leum’ agus ‘leum-ruith’.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e365">
-            <form>
-               <orth>leum-ruith</orth>
-            </form>
-            <def>Airson seo [i.e. long jump] tha againn ‘leum’ agus ‘leum-ruith’.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-idola115">
-            <form>
-               <orth>[high jump]</orth>
-            </form>
-            <def>Chan eil ainm suidhichte sam bith againn airson seo.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e383">
-            <form>
-               <orth>leth-chois</orth>
-            </form>
-            <def>hop.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e392">
-            <form>
-               <orth>leth-chois is sìnteag is leum</orth>
-            </form>
-            <def>hop step and jump; hop skip and jump; hop stride and jump.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e401">
-            <form>
-               <orth>cruinn-leum</orth>
-            </form>
-            <def>standing jump with both feet together.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e410">
-            <form>
-               <orth>ceann-dìreach</orth>
-            </form>
-            <def>somersault. (Fuaimnich seo ‘cein-nìreach’ no ‘cain-nìreach’; ‘c’ mar ‘c’ ann an ‘King’ (Beurla).)</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e419">
-            <form>
-               <orth>race, rus</orth>
-            </form>
-            <def>running a race. Chan eil againn airson seo ach ‘race’ (‘rus’ a chanas sinn; fuaimnich mar ‘fuss’ (Beurla).)</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e428">
-            <form>
-               <orth>rus</orth>
-            </form>
-            <def>sprinting.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-idola116">
-            <form>
-               <orth>[jogging or running slowly]</orth>
-            </form>
-            <def>Cha chreid mi gu bheil nì suidhichte sam bith againn airson seo [i.e. jogging or running slowly], a bharrachd. Ach ruith, ’na ruith, nan ruith ’s mar sin.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e446">
-            <form>
-               <orth>duine ’n a leth-ruith, b’ e sin</orth>
-            </form>
-            <def>Duine na bu luaithe na ri coiseachd, no na bu shlaodaich na ri ruith ceart, ’s mar sin. (Ruith. ’S e ‘rith’ mar a chanas sinne e. Aig na Lochan, thall, ’se ‘ruith’, direach mar a tha e sgrìobhte, a chanas iad. Aig na Lochan, cuideachd, ’se ‘sin’, mar a tha e sgrìobhte, a chanas iad. ’Se ‘sean’ a chanas sinne airson ‘sin’.)</def>
-         </entry>
-         <head
-             xml:id="Games_GlasgowMMacLeodgames-d0e454"
-            >7. Heavy events</head>
-         <entry xml:id="Games_GlasgowMMacLeodgames-idola117">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>(Tha mo pheann dubh air a dhol dona.) [NOTES: the rest of the questionnaire is in red and blue.]</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e468">
-            <form>
-               <orth>cur air a’ chloich</orth>
-            </form>
-            <def>the shot-putt. Ach chanadh sinne, an linn a b’òige, cuideachd, ‘buille air a’ chloich’. “Chuireadh Tormod a’ chlach ann an Dòmhnall Mór.” “Chuireadh Donnchadh Dubh a’ chlach a mach air Dòmhnall Mór.”</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e477">
-            <form>
-               <orth>buille air a’ chloich</orth>
-               <pron>[See cur air a’ chloich.]</pron>
-            </form>
-            <def>[See cur air a’ chloich.]</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e486">
-            <form>
-               <orth>an dòrnag</orth>
-            </form>
-            <def>’S ann a bha seo aca mar ainm [airson ‘the shot-putt’?] bho’n taobh a muigh.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e495">
-            <form>
-               <orth>tilgeil an ùird</orth>
-            </form>
-            <def>throwing the hammer. Cha robh seo againne idir, no aig an fheadhainn romhainn, cho fada ’s is aithne dhomh. Ach bha lorg aca air glé mhath. ‘Tilgeil an ùird’ a chanadh iad. (Chì sibh ’s e ‘tilgeil’ a chanas sinne airson ‘tilgeadh’ ann an àiteachan eile.)</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e504">
-            <form>
-               <orth>tilgeil a’ chabair</orth>
-            </form>
-            <def>tossing the caber. Mar an t-ord, cha robh an cabar againn, a bharrachd. Cha chreid mi nach e ‘tilgeil a’ chabair’ a chanadh iad, cuideachd.</def>
-         </entry>
-         <head
-             xml:id="Games_GlasgowMMacLeodgames-d0e512"
-            >8. Contests involving pulling or pushing.</head>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e517">
-            <form>
-               <orth>maide-leisg</orth>
-            </form>
-            <def>Trial of strength involving two men sitting on the ground with the soles of their feet touching and pulling on a stick held between them until one raises the other from the ground.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e526">
-            <form>
-               <orth>togail air a’ bhata</orth>
-            </form>
-            <def>“Thog mi air a’ bhata e.” “Thog Tormod Donnchadh air a’ bhata.” (Thog m’ athair uaireigin a h-uile mac a riamh aca air a’ bhata a muigh air tìr-mór nuair a bha iad ris an iasgach.) ’S e ‘togail air a’ bhata’ a chanadh sinne an cumantas.</def>
-         </entry>
-         <head
-             xml:id="Games_GlasgowMMacLeodgames-d0e534"
-            >9. Boxing and wrestling</head>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e539">
-            <form>
-               <orth>bocsaigeadh</orth>
-            </form>
-            <def>boxing.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e548">
-            <form>
-               <orth>gleac</orth>
-            </form>
-            <def>wrestling. Agus ‘car-gleac’ (Na dhà.) ’Se car-gleac a chanadh sinne a b’òige. Chanadh an t-seann fheadhainn na dhà, ‘gleac’ agus ‘car-gleac’. “Iad a’ feuchainn gleac.” “Iad ri gleac.” ‘Gleac’ bu trice a chanadh iad.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e557">
-            <form>
-               <orth>sguaraigeadh</orth>
-            </form>
-            <def>menacing attitude of two standing opposite each other ready to fight. ‘Sguaraigeadh’ againne a b’òige, dìreach ‘square’ (Beurla) agus ‘aigeadh’ as a dhéidh. Aig an fhìor sheann fheadhainn, ‘square’ air a chantainn ‘sguar’, mar a chanas Ileach ‘fuar’ (foo ar). (foo-ar-aigeadh, fuaraigeadh, sguaraigeadh)</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e566">
-            <form>
-               <orth>greim</orth>
-            </form>
-            <def>Chan eil nì agam-sa, co dhiù, airson seo [i.e. sudden grasping as in wrestling] ach ‘greim’.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e575">
-            <form>
-               <orth>cas-bhac</orth>
-            </form>
-            <def>Chan eil lorg agam air ainm airson gin [i.e. movements with the feet and legs to knock one’s opponent down], ma bha iad ann, ach aonan ‘cas-bhac’. “Chuir e a’ chas-bhac air.”</def>
-         </entry>
-         <head
-             xml:id="Games_GlasgowMMacLeodgames-d0e583"
-            >10. Blows in general</head>
-         <entry xml:id="Games_GlasgowMMacLeodgames-idola118">
-            <form>
-               <orth>[bualadh]</orth>
-            </form>
-            <def>Anns a’ bhaile againn fhìn chan fhaca mi duine ri bualadh duine eile a riamh. Cha [sic] fhaca mi fhìn duine ann an greim. No a’ tarruing na làimhe air dhòigh sam bith. Chunnaic agus chuala mi trodan ’s mar sin ach sin uile e. Chan fhaca duine daoine a riamh cho ciallach agus cho cliùiteach riutha mar sin. Ged a bha nithean anns na gnàthasan-cainnte a chuir mi steach thugaibh, a shaoileadh sibh gu robh iad crosd is ann a bha sin a nuas bho làithean na b’aosda na chunnaic sinne. No bho àiteachan eile, ’s bho thighean-change, bho shabaidean aig òl, ’s bho shabaidean gun òl idir. ’S mar sin.</def>
-         </entry>
-         <head
-             xml:id="Games_GlasgowMMacLeodgames-d0e596"
-            >11. Injury and exhaustion</head>
-         <entry xml:id="Games_GlasgowMMacLeodgames-d0e601">
-            <form>
-               <orth>sgochadh</orth>
-            </form>
-            <def>sprain.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: the informant uses E and I to mark the gender of the nouns, masculine and feminine respectively.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location>
+          <placeName>Glaschu [Glasgow]</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>Murdo MacLeod</persName>
+          <persName xml:lang="gd">Murchadh MacLeòid</persName>
+          <age>57 5/12</age>
+          <birth>
+            <placeName>Leodhas [Lewis], Uig</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Recreation: Toys, Games, Contests</term>
+          <term>Cur-seachadan: Dèideagan, Geamaichean is Farpaisean</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="Games_GlasgowMMacLeodgames-d0e37">1. Toys</head>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e42">
+        <form>
+          <orth>srannachan (E)</orth>
+        </form>
+        <def>mar seo shìos. Dèanta de leathar no mar sin. <graphic url="GlasgowMMacLeodgamesillust1.jpg" width="500px"/>
+        </def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e53">
+        <form>
+          <orth>gille-mirein (E)</orth>
+        </form>
+        <def>Dèanta de phiorna (piorna na bùtha). Bheireadh tu a dhà dhiubh as a’ phiorna. <graphic url="GlasgowMMacLeodgamesillust2.jpg" width="150px"/>
+          <graphic url="GlasgowMMacLeodgamesillust3.jpg" width="150px"/>
+        </def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e66">
+        <form>
+          <orth>bodach-sàbhaidh (E)</orth>
+        </form>
+        <def>Cudthrom freagarrach sam bith dheanadh e a’ chùis. Nuair a chuireadh sibh am bodach air ghluasad, bheir e ùine mhór ag [?] air an t-sàbhadh mus stadadh e. Meud a’ bhodaich: 9", no na bu
+          mhotha, an cumantas. E dèanta de fhiodh. <graphic url="GlasgowMMacLeodgamesillust4.jpg" width="600px"/>
+        </def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e77">
+        <form>
+          <orth>longag (I)</orth>
+        </form>
+        <def>(Fuaimnich seo ‘lungag’.) Chan eil ainm àrraid sam bith agam air an leathar. <graphic url="GlasgowMMacLeodgamesillust5.jpg" width="300px"/>
+        </def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e88">
+        <form>
+          <orth>soitheach-bòrd-air-oir (I)</orth>
+        </form>
+        <def>Dèanta de bhòrd fiodha agus druim oirre. Luaidhe airson cudthrom, ceangailte ris an druim air a neo air a leigeil a steach do an druim. Bho a taobh, bho a toiseach gu a deireadh: <graphic
+            url="GlasgowMMacLeodgamesillust6.jpg" width="200px"/>
+          <graphic url="GlasgowMMacLeodgamesillust7.jpg" width="200px"/>
+        </def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e101">
+        <form>
+          <orth>soitheach-chuairt, soitheach-thimchill (I)</orth>
+        </form>
+        <def>Soitheach agus broinn innte – dìreach mar eathar ceart, agus timchill oirre. Dèanta de fhiodh tana a ghabhadh lùbadh. A h-uile càil oirre dìreach mar eathar mór. Ach ’s e corra dhuine de
+          na balaich a bhiodh cho làmhcharach agus gun dèanadh e tè. <graphic url="GlasgowMMacLeodgamesillust8.jpg" width="200px"/>
+        </def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e112">
+        <form>
+          <orth>soitheach-chnap (I)</orth>
+        </form>
+        <def>Dèanta à cnap fiodha agus air a cladhach. Cumadh oirre, agus broinn innte, dìreach mar eathar mór. <graphic url="GlasgowMMacLeodgamesillust9.jpg" width="200px"/>
+        </def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e123">
+        <form>
+          <orth>[seòl]</orth>
+        </form>
+        <def>An seòrsa sheòl a bhiodh againn air na soithichean: <graphic url="GlasgowMMacLeodgamesillust10.jpg" width="400px"/>
+        </def>
+      </entry>
+      <head xml:id="Games_GlasgowMMacLeodgames-d0e133">2. Swings, see-saws</head>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e138">
+        <form>
+          <orth>riabaisteallag (I)</orth>
+        </form>
+        <def>Dìreach mar a chì sibh aca anns na pàircean. Ach againne air àrd-dhorus freagarrach no air spàrr. Agus uaireannan air an t-slabhraidh os cionn an teine anns na seann tighean. Airson
+          riabaisteallag air an t-slabhraidh, gheibheadh sinn ar creach.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e147">
+        <form>
+          <orth>babhsaigeadh (E)</orth>
+        </form>
+        <def>(Fuaimnich mar ‘rouse’ (Beurla) + ‘aigeadh’.) Planca air cloich mhóir agus duine againn air gach ceann dheth. Uaireannan bhiodh barrachd air dithis a’ babhsaigeadh air a’ phlanca.</def>
+      </entry>
+      <head xml:id="Games_GlasgowMMacLeodgames-d0e155">3. Games played indoors</head>
+      <entry xml:id="Games_GlasgowMMacLeodgames-idola108">
+        <form>
+          <orth>[am broinn an tighe]</orth>
+        </form>
+        <def>Cha bhitheadh móran, gheibheadh tu do chreach airson cluiche no caoch am broinn an tighe. Ach bhiodh againn seòrsa de chluicheannan, no seòrsa de lùth-chleasan, mar: 1. A’ tighinn troimh
+          a’ chlobha. 2. A’ tighinn troimh a’ bhata. 3. Ag eirigh leis an eallach aotrom. ’S mar sin. Dh’fheumainn iad seo shuas a shealltainn.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-idola109">
+        <form>
+          <orth>[toimhseachanan]</orth>
+        </form>
+        <def>Agus bhiodh againn toimhseachanan ’s mar sin airson an oibreachadh a mach, mar: 1. Aiseag nan Ceardaichnean. 2. Na Buideil. 3. Muinntir Dhubhain.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-idola110">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>(Tha mi a’ cur seo air an duilleig-sa [i.e. on the blank page between 3. and 4.].)</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e187">
+        <form>
+          <orth>forca-shiubhail (I)</orth>
+        </form>
+        <def>B’e seo seòrsa de chàrn-slaoid a bhiodh aca againne ro ar n-àm-ne. Dèanta de fhiodh. Clàir baraille anns a’ bhonn aige agus an còrr mar a thuigeas sibh. Gus a dheanamh sleamhuinn bhiodh
+          na balaich a’ suathadh liaghag feamann(d) (feamad) ris. Abair gu’m falbhadh e an uair sin, agus abair gu’m falbhadh! Chan eil ainm àrraid sam bith agam airson nam pàirtean aige. Rinn mi-fhìn
+          fear aca uaireigin, nuair a bha sinn òg, agus theab e ar cur as an rathad. <graphic url="GlasgowMMacLeodgamesillust11.jpg" width="200px"/>
+        </def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e198">
+        <form>
+          <orth>dogan speil (E)</orth>
+        </form>
+        <def>(Fuaimnich ‘dog’ mar ‘dog’ (Beurla) + ‘speil’. ‘Speil’ fuaimnich mar ‘ceil’ (Gàidhlig).) Ri linn m’ athair bhiodh gèim (E) aca a muigh le caman is ball (E). B’ e seo ‘cat and bat’ tha mi
+          deanamh a mach. No faisg air co dhiù. Mur a biodh ball aca air dhòigh eile, dheanadh iad ball le fionnadh a’ chruidh.</def>
+      </entry>
+      <head xml:id="Games_GlasgowMMacLeodgames-d0e206">4. Outdoor games not involving a ball or puck</head>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e211">
+        <form>
+          <orth>pitchers</orth>
+        </form>
+        <def>A’ cheud ghèim a tha cuimhne agam-sa riamh fhaicinn ’se ‘pitchers’. (’Se seo a th’aig na balaich mhóra air.) Is ann le leacan [?] freagarrach a bhiodh iad ag obair air. Roimhe ’n seo aig
+          an fheadhainn a th’ann romhainn bha na peileastairean (‘Peilistearan’ aig Dwelly.) Bha an gèim-sa faisg air an aon seòrsa ri na pitcher-an aig na balaich. Mur a h-e an aona ghèim a th’ann!
+          ’Se gèim de’n t-seòrsa-sa a’ cheud ghèim a tha lorg air a bhith anns na h-Eileanan Breatunnach.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e220">
+        <form>
+          <orth>[peileastairean]</orth>
+          <pron>[See pitchers.]</pron>
+        </form>
+        <def>[See pitchers.]</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e229">
+        <form>
+          <orth>cailleach bheag bhrùigh</orth>
+        </form>
+        <def>(Can ‘cailleach bheag bhrùgh’.) Seo gèim a bhiodh againn mar bu trice air an oidhche. A muigh.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e238">
+        <form>
+          <orth>cluiche air na putanan</orth>
+        </form>
+        <def>Cho fada agus a tha cuimhne agam is ann faisg air an aon seòrsa a bha na trì cluicheannan-sa [i.e. cluiche air na putanan, cluiche air na clacha beaga and cluiche air na sgilligean]. Gun
+          mhóran eadar-dhealachaidh, ma bha eadar-dhealachadh sam bith, ach anns na h-ainmeannan. Bhiodh sinn cuideachd ’g an dèanamh a muigh air a’ chùl le buachar tioram nan caorach as t-samhradh.
+          (Airson ‘cùl’ agam-sa tha mi deanamh a mach gur h-e ‘cùl-cinn’ a th’aig Dòmhnall Iain (fear na Hearadh.) Feuchaibh e!)</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e247">
+        <form>
+          <orth>cluiche air na clacha beaga</orth>
+          <pron>[See cluiche air na putanan.]</pron>
+        </form>
+        <def>[See cluiche air na putanan.]</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e256">
+        <form>
+          <orth>cluiche air na sgilligean</orth>
+          <pron>[See cluiche air na putanan.]</pron>
+        </form>
+        <def>[See cluiche air na putanan.]</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-idola111">
+        <form>
+          <orth>[geimeannan]</orth>
+        </form>
+        <def>A’ h-uile gin de na geimeannan (no cluicheannan) a thog mi an seo shuas, cho fada agus a tha lorg agam, tha iad air an aon stéidh. Cha mhath tha cuimhne agam an diugh, gu mionaideach dé
+          mar a bha iad a’ dol. Geimeannan am measg nan curracagan, abair sin. Gu leòir, agus feadhainn a bhiodh sinn fhìn a’ deanamh, a thuilleadh air feadhainn shuidhichte bho shean, mar falach-fead
+          (bìog falach fead a bh’againne air.) Cha b’ann a’ fàs ’s a’ fàs na b’àirde chun an adhair a bhiodh na curracagan idir mar a bhiodh na làithean agus na h-oidhcheannan a’ dol seachad. Agus
+          abair nach b’ann!</def>
+      </entry>
+      <head xml:id="Games_GlasgowMMacLeodgames-d0e273">5. Ball games</head>
+      <head xml:id="Games_GlasgowMMacLeodgames-d0e277" subtype="h2">Ball</head>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e282">
+        <form>
+          <orth>ball (E)</orth>
+        </form>
+        <def>such as football or shinty.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e291">
+        <form>
+          <orth>an dearcag</orth>
+        </form>
+        <def>a bhiodh aig an feadhainn romhainne airson ball an iomain.</def>
+      </entry>
+      <head xml:id="Games_GlasgowMMacLeodgames-d0e299" subtype="h2">Bats or clubs</head>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e304">
+        <form>
+          <orth>caman</orth>
+        </form>
+        <def>airson an iomain.</def>
+      </entry>
+      <head xml:id="Games_GlasgowMMacLeodgames-d0e312" subtype="h2">Team</head>
+      <entry xml:id="Games_GlasgowMMacLeodgames-idola112">
+        <form>
+          <orth>[buidheann no sgiobadh]</orth>
+        </form>
+        <def>Chan eil fhios agam an e buidheann no sgiobadh airson an ait againne.</def>
+      </entry>
+      <head xml:id="Games_GlasgowMMacLeodgames-d0e325" subtype="h2">Field of play etc.</head>
+      <entry xml:id="Games_GlasgowMMacLeodgames-idola113">
+        <form>
+          <orth>blàr iomain</orth>
+        </form>
+        <def>Chan eil mi cinnteach nach e blàr iomain a bh’ aca air an raoin far am biodh an t-iomain air a dhèanamh.</def>
+      </entry>
+      <head xml:id="Games_GlasgowMMacLeodgames-d0e338" subtype="h2">Penalties etc.</head>
+      <entry xml:id="Games_GlasgowMMacLeodgames-idola114">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>’Se.</def>
+      </entry>
+      <head xml:id="Games_GlasgowMMacLeodgames-d0e351">6. Athletics</head>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e356">
+        <form>
+          <orth>leum</orth>
+        </form>
+        <def>Airson seo [i.e. long jump] tha againn ‘leum’ agus ‘leum-ruith’.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e365">
+        <form>
+          <orth>leum-ruith</orth>
+        </form>
+        <def>Airson seo [i.e. long jump] tha againn ‘leum’ agus ‘leum-ruith’.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-idola115">
+        <form>
+          <orth>[high jump]</orth>
+        </form>
+        <def>Chan eil ainm suidhichte sam bith againn airson seo.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e383">
+        <form>
+          <orth>leth-chois</orth>
+        </form>
+        <def>hop.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e392">
+        <form>
+          <orth>leth-chois is sìnteag is leum</orth>
+        </form>
+        <def>hop step and jump; hop skip and jump; hop stride and jump.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e401">
+        <form>
+          <orth>cruinn-leum</orth>
+        </form>
+        <def>standing jump with both feet together.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e410">
+        <form>
+          <orth>ceann-dìreach</orth>
+        </form>
+        <def>somersault. (Fuaimnich seo ‘cein-nìreach’ no ‘cain-nìreach’; ‘c’ mar ‘c’ ann an ‘King’ (Beurla).)</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e419">
+        <form>
+          <orth>race, rus</orth>
+        </form>
+        <def>running a race. Chan eil againn airson seo ach ‘race’ (‘rus’ a chanas sinn; fuaimnich mar ‘fuss’ (Beurla).)</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e428">
+        <form>
+          <orth>rus</orth>
+        </form>
+        <def>sprinting.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-idola116">
+        <form>
+          <orth>[jogging or running slowly]</orth>
+        </form>
+        <def>Cha chreid mi gu bheil nì suidhichte sam bith againn airson seo [i.e. jogging or running slowly], a bharrachd. Ach ruith, ’na ruith, nan ruith ’s mar sin.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e446">
+        <form>
+          <orth>duine ’n a leth-ruith, b’ e sin</orth>
+        </form>
+        <def>Duine na bu luaithe na ri coiseachd, no na bu shlaodaich na ri ruith ceart, ’s mar sin. (Ruith. ’S e ‘rith’ mar a chanas sinne e. Aig na Lochan, thall, ’se ‘ruith’, direach mar a tha e
+          sgrìobhte, a chanas iad. Aig na Lochan, cuideachd, ’se ‘sin’, mar a tha e sgrìobhte, a chanas iad. ’Se ‘sean’ a chanas sinne airson ‘sin’.)</def>
+      </entry>
+      <head xml:id="Games_GlasgowMMacLeodgames-d0e454">7. Heavy events</head>
+      <entry xml:id="Games_GlasgowMMacLeodgames-idola117">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>(Tha mo pheann dubh air a dhol dona.) [NOTES: the rest of the questionnaire is in red and blue.]</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e468">
+        <form>
+          <orth>cur air a’ chloich</orth>
+        </form>
+        <def>the shot-putt. Ach chanadh sinne, an linn a b’òige, cuideachd, ‘buille air a’ chloich’. “Chuireadh Tormod a’ chlach ann an Dòmhnall Mór.” “Chuireadh Donnchadh Dubh a’ chlach a mach air
+          Dòmhnall Mór.”</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e477">
+        <form>
+          <orth>buille air a’ chloich</orth>
+          <pron>[See cur air a’ chloich.]</pron>
+        </form>
+        <def>[See cur air a’ chloich.]</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e486">
+        <form>
+          <orth>an dòrnag</orth>
+        </form>
+        <def>’S ann a bha seo aca mar ainm [airson ‘the shot-putt’?] bho’n taobh a muigh.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e495">
+        <form>
+          <orth>tilgeil an ùird</orth>
+        </form>
+        <def>throwing the hammer. Cha robh seo againne idir, no aig an fheadhainn romhainn, cho fada ’s is aithne dhomh. Ach bha lorg aca air glé mhath. ‘Tilgeil an ùird’ a chanadh iad. (Chì sibh ’s e
+          ‘tilgeil’ a chanas sinne airson ‘tilgeadh’ ann an àiteachan eile.)</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e504">
+        <form>
+          <orth>tilgeil a’ chabair</orth>
+        </form>
+        <def>tossing the caber. Mar an t-ord, cha robh an cabar againn, a bharrachd. Cha chreid mi nach e ‘tilgeil a’ chabair’ a chanadh iad, cuideachd.</def>
+      </entry>
+      <head xml:id="Games_GlasgowMMacLeodgames-d0e512">8. Contests involving pulling or pushing.</head>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e517">
+        <form>
+          <orth>maide-leisg</orth>
+        </form>
+        <def>Trial of strength involving two men sitting on the ground with the soles of their feet touching and pulling on a stick held between them until one raises the other from the ground.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e526">
+        <form>
+          <orth>togail air a’ bhata</orth>
+        </form>
+        <def>“Thog mi air a’ bhata e.” “Thog Tormod Donnchadh air a’ bhata.” (Thog m’ athair uaireigin a h-uile mac a riamh aca air a’ bhata a muigh air tìr-mór nuair a bha iad ris an iasgach.) ’S e
+          ‘togail air a’ bhata’ a chanadh sinne an cumantas.</def>
+      </entry>
+      <head xml:id="Games_GlasgowMMacLeodgames-d0e534">9. Boxing and wrestling</head>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e539">
+        <form>
+          <orth>bocsaigeadh</orth>
+        </form>
+        <def>boxing.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e548">
+        <form>
+          <orth>gleac</orth>
+        </form>
+        <def>wrestling. Agus ‘car-gleac’ (Na dhà.) ’Se car-gleac a chanadh sinne a b’òige. Chanadh an t-seann fheadhainn na dhà, ‘gleac’ agus ‘car-gleac’. “Iad a’ feuchainn gleac.” “Iad ri gleac.”
+          ‘Gleac’ bu trice a chanadh iad.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e557">
+        <form>
+          <orth>sguaraigeadh</orth>
+        </form>
+        <def>menacing attitude of two standing opposite each other ready to fight. ‘Sguaraigeadh’ againne a b’òige, dìreach ‘square’ (Beurla) agus ‘aigeadh’ as a dhéidh. Aig an fhìor sheann
+          fheadhainn, ‘square’ air a chantainn ‘sguar’, mar a chanas Ileach ‘fuar’ (foo ar). (foo-ar-aigeadh, fuaraigeadh, sguaraigeadh)</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e566">
+        <form>
+          <orth>greim</orth>
+        </form>
+        <def>Chan eil nì agam-sa, co dhiù, airson seo [i.e. sudden grasping as in wrestling] ach ‘greim’.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e575">
+        <form>
+          <orth>cas-bhac</orth>
+        </form>
+        <def>Chan eil lorg agam air ainm airson gin [i.e. movements with the feet and legs to knock one’s opponent down], ma bha iad ann, ach aonan ‘cas-bhac’. “Chuir e a’ chas-bhac air.”</def>
+      </entry>
+      <head xml:id="Games_GlasgowMMacLeodgames-d0e583">10. Blows in general</head>
+      <entry xml:id="Games_GlasgowMMacLeodgames-idola118">
+        <form>
+          <orth>[bualadh]</orth>
+        </form>
+        <def>Anns a’ bhaile againn fhìn chan fhaca mi duine ri bualadh duine eile a riamh. Cha [sic] fhaca mi fhìn duine ann an greim. No a’ tarruing na làimhe air dhòigh sam bith. Chunnaic agus
+          chuala mi trodan ’s mar sin ach sin uile e. Chan fhaca duine daoine a riamh cho ciallach agus cho cliùiteach riutha mar sin. Ged a bha nithean anns na gnàthasan-cainnte a chuir mi steach
+          thugaibh, a shaoileadh sibh gu robh iad crosd is ann a bha sin a nuas bho làithean na b’aosda na chunnaic sinne. No bho àiteachan eile, ’s bho thighean-change, bho shabaidean aig òl, ’s bho
+          shabaidean gun òl idir. ’S mar sin.</def>
+      </entry>
+      <head xml:id="Games_GlasgowMMacLeodgames-d0e596">11. Injury and exhaustion</head>
+      <entry xml:id="Games_GlasgowMMacLeodgames-d0e601">
+        <form>
+          <orth>sgochadh</orth>
+        </form>
+        <def>sprain.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

@@ -1,334 +1,338 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Peat_GlasgowMMacLeodmoine">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <location>
-               <placeName>[Glasgow]</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>Murdo MacLeod</persName>
-               <birth>
-                  <placeName>[Lewis, Uig]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Peat-Working</term>
-               <term>Mòine</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="Peat_GlasgowMMacLeodmoine-d0e28"
-            >1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e33">
-            <form>
-               <orth>am blàr mòna</orth>
-            </form>
-            <def>Far am bi a’ mhòine air a buain. Far am bi móran pholl.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e42">
-            <form>
-               <orth>rodaigeadh</orth>
-            </form>
-            <def>(‘d’ cruaidh) Poll air a rodaigeadh = comharran air a dheanamh anns an lèana airson sealltainn do dhuine sam bith gu robh thu dol a ghearradh poll ’s a’ bhad sin.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e51">
-            <form>
-               <orth>rùsgadh</orth>
-            </form>
-            <def>A’ rùsgadh na talmhainn bharr uachdar a’ phuill gu’m faigheadh tu an riasg glan. An uair sin bha thu deiseil airson tòiseachadh a’ buain. Leud an rusgaidh: Airson poll dhà fhad, dà throigh (2'). Airson poll thrì fad, troigh gu leth (1½'). Ach airson poll ùr ann an lèana b’e leud fad spaide an leud bu lugha a dh’fheumadh a bhith ann. Bha seo airson na’n deadh ainmhidh do an pholl gu’m biodh rùm aige airson tionndadh. (lagh an fhearainn no lagh an uachdarain). Doimhne an rùsgaidh: Gu robh thu a’ faighinn an réisg glan.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e60">
-            <form>
-               <orth>riasg</orth>
-            </form>
-            <def> (Bu chòir dhomh seo a bhith air a chur as déidh blàr mòna. An stuth de am bheil a’ mhòine dèanta. ’Se mòine a chanas a’ chuid mhór, tha mi ’n dùil, ris an riasg againne. Tha sinne a’ cur eadar-dhealachadh mór eadar riasg agus mòine. Mòine dhuinne, ’se sin mòine [riasg?] air a gearradh ’s air a deanamh ’na mòine.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e69">
-            <form>
-               <orth>gheàrr e poll</orth>
-            </form>
-            <def>“Ghearr e poll anns an lèana.”</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e78">
-            <form>
-               <orth>rinn e poll</orth>
-            </form>
-            <def>“Rinn e poll anns a’ bhruthaich.”</def>
-         </entry>
-         <head
-             xml:id="Peat_GlasgowMMacLeodmoine-d0e86"
-            >2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e91">
-            <form>
-               <orth>carcaire</orth>
-            </form>
-            <def>Far am bheil thu ’na do sheasamh air a’ pholl ’ga bhuain. (Faic Faclair MhicGhillFhinnein.)</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e100">
-            <form>
-               <orth>am bàrr-fhàd</orth>
-            </form>
-            <def>Am fàd as airde ’s a’ pholl. (Fuaimnich mar barr’ad.)</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e109">
-            <form>
-               <orth>an dàrna fàd</orth>
-            </form>
-            <def>An ath fhad sìos ’s a’ pholl.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e118">
-            <form>
-               <orth>an caoran</orth>
-            </form>
-            <def>Am fàd as ìsle ’s a’ pholl. (Ann am poll sam bith; 2, 3, 4 fòid no àireamh sam bith.)</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e127">
-            <form>
-               <orth>an corr-fhàd</orth>
-            </form>
-            <def>Am fàd as fhaide a muigh ’s a’ charcaire (fàd aodann a’ phuill). (Fuaimnich mar corr’ad.)</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e136">
-            <form>
-               <orth>a’ leagail</orth>
-            </form>
-            <def>A’ gearradh na mòna as a’ pholl.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e145">
-            <form>
-               <orth>a’ tilgeil</orth>
-            </form>
-            <def>A’ tilgeil nam fàd ’s a deanamh sgaoilteach.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e154">
-            <form>
-               <orth>a’ leagail agus a’ tilgeil</orth>
-            </form>
-            <def>Dithis mu’n toirbhsgear.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e163">
-            <form>
-               <orth>saobhaidh</orth>
-            </form>
-            <def>Toll (nàdurach) ann an aodann a’ phuill, no anns a’ charcaire. (Fuaimnich ‘ao’ mar ann an ‘aoradh’.)</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e172">
-            <form>
-               <orth>toirbhsgear</orth>
-            </form>
-            <def>An t-iarunn gearraidh: – cas an toirbhsgeir – an smeachan – iarunn an toirbhsgeir – an sgian – crò an toirbhsgeir. Toirbhsgear agus spaid, an dà uineal a bh’air a chleachdadh againne ri buain na mònach. Cha do rug an caibe-làir no a leithid sin òirnne.
-        <graphic url="GlasgowMMacLeodmoineillust1.jpg" width="400px"/>
-            </def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e183">
-            <form>
-               <orth>iarunn</orth>
-            </form>
-            <def>Ainm eile air toirbhsgear, litireil, bàrdail, uasal.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e192">
-            <form>
-               <orth>obair iaruinn</orth>
-            </form>
-            <def>B’e sin sia fichead slat a bhuain agus leud an rùsgaidh dà throigh airson poll dhà fhad, agus troigh gu leth airson poll thrì fàd. Mar “Moine an tigh-mhóir (an Luige [?]) fichead obair iaruinn.”</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e201">
-            <form>
-               <orth>gàradh</orth>
-            </form>
-            <def>gàradh de an mhòine air a dheanamh air bearradh a’ phuill airson barrachd ruma a thoirt dhuit no airson na h-uibhir de mhaise a thoirt do’n obair. Dà sheorsa gàraidh: gàradh cumanta, gàradh-air-oir. 
-        <graphic url="GlasgowMMacLeodmoineillust2.jpg" width="200px"/> 
-               <graphic url="GlasgowMMacLeodmoineillust3.jpg" width="200px"/>
-            </def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e214">
-            <form>
-               <orth>spaid</orth>
-            </form>
-            <def>
-        Mar ’san toirbhsgear: cas agus ceann (an dà phàirt mhór) – dul na spaide – lurga na spaide – cluaisean na spaide – oisean na spaide. Toirbhsgear agus spaid, an dà uineal a bh’air a chleachdadh againne ri buain na mònach. Cha do rug an caibe-làir no a leithid sin òirnne.
-        <graphic url="GlasgowMMacLeodmoineillust4.jpg" width="400px"/> 
-            </def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e225">
-            <form>
-               <orth>no cromadh a’ bhrochain</orth>
-            </form>
-            <def>Bhiodh am brochan (chan è lite, ach brochan na feòla) aca a muigh aig buain na mòna. Dithis mu’n toirbhsgear bhiodh iad ag atharrachadh as déidh a’ h-uile biadh – na’m biodh tu a’ leagail, as déidh a’ bhidh dheadh tu a thilgeil. Bhiodh strì am measg nam bodach airson faighinn a thilgeil an toiseach airson faighinn a leagail as déidh a’ bhrochain. Bhiodh iad cho làn agus cho dùmhail as déidh a’ bhrochain agus gu robh e mòran na bu chomhfhurtail a bhith a’ leagail na a bhith a’ tilgeil.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e234">
-            <form>
-               <orth>sgiobadh</orth>
-            </form>
-            <def>Nuair a bhiodh grunn mór thoirbhsgearan de mhuinntir eile a bhaile agad a buain na mona. Bhuaineadh iad i ’s an aon latha. Bhitheadh tu fhéin a rithist aca-san air là an sgiobaidh aca. Chan eil fhios agam dé cho tràth ’s a thòisich an obair-sa, an sgiobadh. Iomadach uair do dhuine leth-làmhach a rinn sinn a bhuain dha ’s an aon latha. Cha chanadh sinn sgiobadh ris an seo idir.</def>
-         </entry>
-         <head
-             xml:id="Peat_GlasgowMMacLeodmoine-d0e242"
-            >3. A’ tiormachadh na mònach</head>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e247">
-            <form>
-               <orth>rùghan</orth>
-            </form>
-            <def>B’e a’ cheud nì a’ mhòine a chur air a casan as an sgaoiltich – a’ deanamh ’n a rùghanan. Dà fhad an taca a chèile, fàd aig gach ceann, agus fàd air a’ mhullach, b’e sin rùghan. Ach ’s ann tearc a bhiodh an rùghan cho beag an sin. Bhiodh fòid ’ga chur ris airson a dheanamh na bu bhonncharaiche.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e256">
-            <form>
-               <orth>ath-rughan</orth>
-            </form>
-            <def>(Fuamnich: ar’abhan.) Nam biodh feum air, a’ rùghadh an dàrna h-uair. A’ ceartachadh nan rùghan ’s ’g an deanamh na bu mhotha. A’ cur barrachd de na fàdan tiorma còmhla ri chèile, agus an fheadhainn fhliuch air an taobh a muigh.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-idola198">
-            <form>
-               <orth>[rodaigeadh]</orth>
-            </form>
-            <def>Chan eil cuimhne agam a riamh mi fhìn an obair-sa a dheanamh, ach ’s ann mar siod a bhà cho fad agus a tha lorg agam-sa. Nì àrraid eile, chan fhaca mi a riamh poll air a rodaigeadh. Agus mi air mo bhreith ’s air m’ àrach ann an saoghal na monach.</def>
-         </entry>
-         <head
-             xml:id="Peat_GlasgowMMacLeodmoine-d0e273"
-            >4. A’ cruachadh na mònach</head>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e278">
-            <form>
-               <orth>cruachadh</orth>
-            </form>
-            <def>As déidh nan rùghan bha an cruachadh. A’ mhòine, as na rùghanan, air a deanamh na cruachan móra air bearradh a’ phuill. Ach fada air falbh gu leòir bho an bhearradh airson rum a bhith do na cip airson an tughaidh. Bliadhna a bhiodh neo-chumanta math airson an tiormachaidh, chruachadh tu a’ mhòine as an sgaoiltich. Ach cha b’ann tric a bhitheadh seo.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e287">
-            <form>
-               <orth>tughadh</orth>
-            </form>
-            <def>A’ tughadh nan cruach airson nan siantaidhnean le na cip a bha thu air a thoirt as an rùsgadh. Mur a biodh na cip slàn gu leòir, no mur a biodh na cip ann, airson an aobhair, dheanadh tu cip leis an spaid.</def>
-         </entry>
-         <head
-             xml:id="Peat_GlasgowMMacLeodmoine-d0e295"
-            >5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e300">
-            <form>
-               <orth>poca</orth>
-            </form>
-            <def>Is ann le poca a thòisich mise an toiseach air toirt na mòna dhachaidh, tarruing na mònach mar a chanadh sinn. As déidh a’ phoca bha thu tighinn chun a’ chléibh. Tha cuimhne agam air bachlaibh (ba-chliabh) fhaicinn. (Rugadh mi an 1911.)</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e309">
-            <form>
-               <orth>bachlabh (ba-chliabh)</orth>
-            </form>
-            <def>B’e sin cliabh beag, an aona chumadh ri cliabh mór. Is ann airson duine òg a tha cuimhne agam-sa air bachlabh.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e318">
-            <form>
-               <orth>cliabh</orth>
-            </form>
-            <def>
-        Cliabh: an iris – na spriotan (’Se staingean a chanas iad an ceàrnaidhean de Leòdhas ri na spriotan againne.) – an t-slat-bheòil – an t-sreang – breugan a’ chléibh (Fuaimnich briagan.) – na cabair oisein agus na cabair eile – an fhighe no an cura.
-        <graphic url="GlasgowMMacLeodmoineillust5.jpg" width="700px"/>
-            </def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e329">
-            <form>
-               <orth>tàbhan</orth>
-            </form>
-            <def>Lòd beag mòna ’s a’ chliabh air an drùim b’e sin tàbhan. “Tormod a’ tighinn leis an tàbhan mar is àbhaist.”</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e338">
-            <form>
-               <orth>sac</orth>
-            </form>
-            <def>Lòd mór b’e sin sac. “Donnchadh agus saca an eilbhein air.”</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e347">
-            <form>
-               <orth>cairt agus each</orth>
-            </form>
-            <def>Cairt chumanta. Cha robh cairt gun chuibhleachan, no nì de’n t-seòrsa sin, a riamh againne ri mòine.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e356">
-            <form>
-               <orth>bara-cuibhle</orth>
-            </form>
-            <def>Tha bara-cuibhle aca an diugh ’ga chleachdadh airson a’ mhòine a thoirt bharr nam poll gu taobh an rathad.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e365">
-            <form>
-               <orth>làraidh</orth>
-            </form>
-            <def>Chan eil móran each a’ dol an diugh an àite sam bith, cò dhiù mu ghabhas e seachnadh. Ach am bheil fhios aca de an fhìor rud a th’ ann horse-power? Cha robh duine de an obair mhóir a bh’aca ann an Aird Uige uaireigin a bha comasach air a’ cheist fhuasgladh, agus bràthair dhomh ’n am measg. ’Se mise a thachair a bhith comasach airson fuasgladh a thoirt dhaibh. Thug mi dhaibh togail 33,000 punnd aon troigh ann an aon mhionaid. Gheibh sibh an aon suidheachadh aig daoine ’s a’ bhaile-sa fhéin. Bha fear ag argumaid rium aig Kelvindale nach robh a leithid a rud agus differential ann an càr. Gu robh easan air a bhith a’ draibheadh fad bhliadhnachan.</def>
-         </entry>
-         <head
-             xml:id="Peat_GlasgowMMacLeodmoine-d0e373"
-            >6. Seòrsachan mònach</head>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e378">
-            <form>
-               <orth>mòine-dhubh</orth>
-            </form>
-            <def>Dh’fheumadh tu a gearradh tiugh. Bha i pronn. ’Se connadh math a bh’innte. Bha i trom ri a tarruing air an druim.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e387">
-            <form>
-               <orth>mòine-bhàn</orth>
-            </form>
-            <def>Bha thu ’ga gearradh tana. Bha i na bu duilghe a tiormachadh. Ach bha i aotrom ri a tarruing. Sgamhan bàn, chanadh na bodaich. Sgamhan de mhòine bhàin. Cha sheasadh a’ mhòine bhàn cho fada ’s an teine idir ris a’ mhòine dhuibh.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e396">
-            <form>
-               <orth>mòine luath-deirg</orth>
-            </form>
-            <def>Cha bu chaomh le na bodaich idir a’ mhòine-sa agus gun chàil cèarr oirre ach gu robh an luath aice dearg. Mar a’ mhòine bhàn bha i aotrom ri a tarruing.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e405">
-            <form>
-               <orth>mòine-bharrach</orth>
-            </form>
-            <def>Mòine faisg a làimh a bhith tu a’ gearradh leis an spaid. Bhiodh na h-uibhir de fhraoch, ’s na h-uibhir de thalamh, ’s na h-uibhir de riasg glan innte. Chunnaic mi seo ’s a’ bhaile, ged nach robh e againn fhìn.</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e414">
-            <form>
-               <orth>ath-mhòine</orth>
-            </form>
-            <def>(Faic pàipear a chuir mi a steach roimhe air a’ bhliadhna.)</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e423">
-            <form>
-               <orth>geallabhal</orth>
-            </form>
-            <def>An riasg a bhiodh air cruadhachadh ’s air tiormachadh a’ stigh fo na bruthaichean. Connadh math. Is ann ri àm a bhiodh connadh air leth gann a bhithist a’ cur thairis nam bruthaichean airson an stuth-sa.</def>
-         </entry>
-         <head
-             xml:id="Peat_GlasgowMMacLeodmoine-d0e431"
-            >7. Faclan eile</head>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e436">
-            <form>
-               <orth>dronnag</orth>
-            </form>
-            <def>No. 5. Cliabh. Faic dronnag. (Faclair MhicGhillfhinnein, Faclair Dwelly.)</def>
-         </entry>
-         <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e445">
-            <form>
-               <orth>cruachan-tarruing</orth>
-            </form>
-            <def>Cruachan a bhithist a’ deanamh aig an tigh mar a dheadh agad air. Cha robh làmh a’ dol orra gu’m biodh feum air – gu’n tòisicheadh an obair.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location>
+          <placeName>[Glasgow]</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>Murdo MacLeod</persName>
+          <birth>
+            <placeName>[Lewis, Uig]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Peat-Working</term>
+          <term>Mòine</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="Peat_GlasgowMMacLeodmoine-d0e28">1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e33">
+        <form>
+          <orth>am blàr mòna</orth>
+        </form>
+        <def>Far am bi a’ mhòine air a buain. Far am bi móran pholl.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e42">
+        <form>
+          <orth>rodaigeadh</orth>
+        </form>
+        <def>(‘d’ cruaidh) Poll air a rodaigeadh = comharran air a dheanamh anns an lèana airson sealltainn do dhuine sam bith gu robh thu dol a ghearradh poll ’s a’ bhad sin.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e51">
+        <form>
+          <orth>rùsgadh</orth>
+        </form>
+        <def>A’ rùsgadh na talmhainn bharr uachdar a’ phuill gu’m faigheadh tu an riasg glan. An uair sin bha thu deiseil airson tòiseachadh a’ buain. Leud an rusgaidh: Airson poll dhà fhad, dà
+          throigh (2'). Airson poll thrì fad, troigh gu leth (1½'). Ach airson poll ùr ann an lèana b’e leud fad spaide an leud bu lugha a dh’fheumadh a bhith ann. Bha seo airson na’n deadh ainmhidh
+          do an pholl gu’m biodh rùm aige airson tionndadh. (lagh an fhearainn no lagh an uachdarain). Doimhne an rùsgaidh: Gu robh thu a’ faighinn an réisg glan.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e60">
+        <form>
+          <orth>riasg</orth>
+        </form>
+        <def> (Bu chòir dhomh seo a bhith air a chur as déidh blàr mòna. An stuth de am bheil a’ mhòine dèanta. ’Se mòine a chanas a’ chuid mhór, tha mi ’n dùil, ris an riasg againne. Tha sinne a’ cur
+          eadar-dhealachadh mór eadar riasg agus mòine. Mòine dhuinne, ’se sin mòine [riasg?] air a gearradh ’s air a deanamh ’na mòine.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e69">
+        <form>
+          <orth>gheàrr e poll</orth>
+        </form>
+        <def>“Ghearr e poll anns an lèana.”</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e78">
+        <form>
+          <orth>rinn e poll</orth>
+        </form>
+        <def>“Rinn e poll anns a’ bhruthaich.”</def>
+      </entry>
+      <head xml:id="Peat_GlasgowMMacLeodmoine-d0e86">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e91">
+        <form>
+          <orth>carcaire</orth>
+        </form>
+        <def>Far am bheil thu ’na do sheasamh air a’ pholl ’ga bhuain. (Faic Faclair MhicGhillFhinnein.)</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e100">
+        <form>
+          <orth>am bàrr-fhàd</orth>
+        </form>
+        <def>Am fàd as airde ’s a’ pholl. (Fuaimnich mar barr’ad.)</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e109">
+        <form>
+          <orth>an dàrna fàd</orth>
+        </form>
+        <def>An ath fhad sìos ’s a’ pholl.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e118">
+        <form>
+          <orth>an caoran</orth>
+        </form>
+        <def>Am fàd as ìsle ’s a’ pholl. (Ann am poll sam bith; 2, 3, 4 fòid no àireamh sam bith.)</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e127">
+        <form>
+          <orth>an corr-fhàd</orth>
+        </form>
+        <def>Am fàd as fhaide a muigh ’s a’ charcaire (fàd aodann a’ phuill). (Fuaimnich mar corr’ad.)</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e136">
+        <form>
+          <orth>a’ leagail</orth>
+        </form>
+        <def>A’ gearradh na mòna as a’ pholl.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e145">
+        <form>
+          <orth>a’ tilgeil</orth>
+        </form>
+        <def>A’ tilgeil nam fàd ’s a deanamh sgaoilteach.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e154">
+        <form>
+          <orth>a’ leagail agus a’ tilgeil</orth>
+        </form>
+        <def>Dithis mu’n toirbhsgear.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e163">
+        <form>
+          <orth>saobhaidh</orth>
+        </form>
+        <def>Toll (nàdurach) ann an aodann a’ phuill, no anns a’ charcaire. (Fuaimnich ‘ao’ mar ann an ‘aoradh’.)</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e172">
+        <form>
+          <orth>toirbhsgear</orth>
+        </form>
+        <def>An t-iarunn gearraidh: – cas an toirbhsgeir – an smeachan – iarunn an toirbhsgeir – an sgian – crò an toirbhsgeir. Toirbhsgear agus spaid, an dà uineal a bh’air a chleachdadh againne ri
+          buain na mònach. Cha do rug an caibe-làir no a leithid sin òirnne. <graphic url="GlasgowMMacLeodmoineillust1.jpg" width="400px"/>
+        </def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e183">
+        <form>
+          <orth>iarunn</orth>
+        </form>
+        <def>Ainm eile air toirbhsgear, litireil, bàrdail, uasal.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e192">
+        <form>
+          <orth>obair iaruinn</orth>
+        </form>
+        <def>B’e sin sia fichead slat a bhuain agus leud an rùsgaidh dà throigh airson poll dhà fhad, agus troigh gu leth airson poll thrì fàd. Mar “Moine an tigh-mhóir (an Luige [?]) fichead obair
+          iaruinn.”</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e201">
+        <form>
+          <orth>gàradh</orth>
+        </form>
+        <def>gàradh de an mhòine air a dheanamh air bearradh a’ phuill airson barrachd ruma a thoirt dhuit no airson na h-uibhir de mhaise a thoirt do’n obair. Dà sheorsa gàraidh: gàradh cumanta,
+          gàradh-air-oir. <graphic url="GlasgowMMacLeodmoineillust2.jpg" width="200px"/>
+          <graphic url="GlasgowMMacLeodmoineillust3.jpg" width="200px"/>
+        </def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e214">
+        <form>
+          <orth>spaid</orth>
+        </form>
+        <def> Mar ’san toirbhsgear: cas agus ceann (an dà phàirt mhór) – dul na spaide – lurga na spaide – cluaisean na spaide – oisean na spaide. Toirbhsgear agus spaid, an dà uineal a bh’air a
+          chleachdadh againne ri buain na mònach. Cha do rug an caibe-làir no a leithid sin òirnne. <graphic url="GlasgowMMacLeodmoineillust4.jpg" width="400px"/>
+        </def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e225">
+        <form>
+          <orth>no cromadh a’ bhrochain</orth>
+        </form>
+        <def>Bhiodh am brochan (chan è lite, ach brochan na feòla) aca a muigh aig buain na mòna. Dithis mu’n toirbhsgear bhiodh iad ag atharrachadh as déidh a’ h-uile biadh – na’m biodh tu a’
+          leagail, as déidh a’ bhidh dheadh tu a thilgeil. Bhiodh strì am measg nam bodach airson faighinn a thilgeil an toiseach airson faighinn a leagail as déidh a’ bhrochain. Bhiodh iad cho làn
+          agus cho dùmhail as déidh a’ bhrochain agus gu robh e mòran na bu chomhfhurtail a bhith a’ leagail na a bhith a’ tilgeil.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e234">
+        <form>
+          <orth>sgiobadh</orth>
+        </form>
+        <def>Nuair a bhiodh grunn mór thoirbhsgearan de mhuinntir eile a bhaile agad a buain na mona. Bhuaineadh iad i ’s an aon latha. Bhitheadh tu fhéin a rithist aca-san air là an sgiobaidh aca.
+          Chan eil fhios agam dé cho tràth ’s a thòisich an obair-sa, an sgiobadh. Iomadach uair do dhuine leth-làmhach a rinn sinn a bhuain dha ’s an aon latha. Cha chanadh sinn sgiobadh ris an seo
+          idir.</def>
+      </entry>
+      <head xml:id="Peat_GlasgowMMacLeodmoine-d0e242">3. A’ tiormachadh na mònach</head>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e247">
+        <form>
+          <orth>rùghan</orth>
+        </form>
+        <def>B’e a’ cheud nì a’ mhòine a chur air a casan as an sgaoiltich – a’ deanamh ’n a rùghanan. Dà fhad an taca a chèile, fàd aig gach ceann, agus fàd air a’ mhullach, b’e sin rùghan. Ach ’s
+          ann tearc a bhiodh an rùghan cho beag an sin. Bhiodh fòid ’ga chur ris airson a dheanamh na bu bhonncharaiche.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e256">
+        <form>
+          <orth>ath-rughan</orth>
+        </form>
+        <def>(Fuamnich: ar’abhan.) Nam biodh feum air, a’ rùghadh an dàrna h-uair. A’ ceartachadh nan rùghan ’s ’g an deanamh na bu mhotha. A’ cur barrachd de na fàdan tiorma còmhla ri chèile, agus an
+          fheadhainn fhliuch air an taobh a muigh.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-idola198">
+        <form>
+          <orth>[rodaigeadh]</orth>
+        </form>
+        <def>Chan eil cuimhne agam a riamh mi fhìn an obair-sa a dheanamh, ach ’s ann mar siod a bhà cho fad agus a tha lorg agam-sa. Nì àrraid eile, chan fhaca mi a riamh poll air a rodaigeadh. Agus
+          mi air mo bhreith ’s air m’ àrach ann an saoghal na monach.</def>
+      </entry>
+      <head xml:id="Peat_GlasgowMMacLeodmoine-d0e273">4. A’ cruachadh na mònach</head>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e278">
+        <form>
+          <orth>cruachadh</orth>
+        </form>
+        <def>As déidh nan rùghan bha an cruachadh. A’ mhòine, as na rùghanan, air a deanamh na cruachan móra air bearradh a’ phuill. Ach fada air falbh gu leòir bho an bhearradh airson rum a bhith do
+          na cip airson an tughaidh. Bliadhna a bhiodh neo-chumanta math airson an tiormachaidh, chruachadh tu a’ mhòine as an sgaoiltich. Ach cha b’ann tric a bhitheadh seo.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e287">
+        <form>
+          <orth>tughadh</orth>
+        </form>
+        <def>A’ tughadh nan cruach airson nan siantaidhnean le na cip a bha thu air a thoirt as an rùsgadh. Mur a biodh na cip slàn gu leòir, no mur a biodh na cip ann, airson an aobhair, dheanadh tu
+          cip leis an spaid.</def>
+      </entry>
+      <head xml:id="Peat_GlasgowMMacLeodmoine-d0e295">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e300">
+        <form>
+          <orth>poca</orth>
+        </form>
+        <def>Is ann le poca a thòisich mise an toiseach air toirt na mòna dhachaidh, tarruing na mònach mar a chanadh sinn. As déidh a’ phoca bha thu tighinn chun a’ chléibh. Tha cuimhne agam air
+          bachlaibh (ba-chliabh) fhaicinn. (Rugadh mi an 1911.)</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e309">
+        <form>
+          <orth>bachlabh (ba-chliabh)</orth>
+        </form>
+        <def>B’e sin cliabh beag, an aona chumadh ri cliabh mór. Is ann airson duine òg a tha cuimhne agam-sa air bachlabh.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e318">
+        <form>
+          <orth>cliabh</orth>
+        </form>
+        <def> Cliabh: an iris – na spriotan (’Se staingean a chanas iad an ceàrnaidhean de Leòdhas ri na spriotan againne.) – an t-slat-bheòil – an t-sreang – breugan a’ chléibh (Fuaimnich briagan.) –
+          na cabair oisein agus na cabair eile – an fhighe no an cura. <graphic url="GlasgowMMacLeodmoineillust5.jpg" width="700px"/>
+        </def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e329">
+        <form>
+          <orth>tàbhan</orth>
+        </form>
+        <def>Lòd beag mòna ’s a’ chliabh air an drùim b’e sin tàbhan. “Tormod a’ tighinn leis an tàbhan mar is àbhaist.”</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e338">
+        <form>
+          <orth>sac</orth>
+        </form>
+        <def>Lòd mór b’e sin sac. “Donnchadh agus saca an eilbhein air.”</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e347">
+        <form>
+          <orth>cairt agus each</orth>
+        </form>
+        <def>Cairt chumanta. Cha robh cairt gun chuibhleachan, no nì de’n t-seòrsa sin, a riamh againne ri mòine.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e356">
+        <form>
+          <orth>bara-cuibhle</orth>
+        </form>
+        <def>Tha bara-cuibhle aca an diugh ’ga chleachdadh airson a’ mhòine a thoirt bharr nam poll gu taobh an rathad.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e365">
+        <form>
+          <orth>làraidh</orth>
+        </form>
+        <def>Chan eil móran each a’ dol an diugh an àite sam bith, cò dhiù mu ghabhas e seachnadh. Ach am bheil fhios aca de an fhìor rud a th’ ann horse-power? Cha robh duine de an obair mhóir a
+          bh’aca ann an Aird Uige uaireigin a bha comasach air a’ cheist fhuasgladh, agus bràthair dhomh ’n am measg. ’Se mise a thachair a bhith comasach airson fuasgladh a thoirt dhaibh. Thug mi
+          dhaibh togail 33,000 punnd aon troigh ann an aon mhionaid. Gheibh sibh an aon suidheachadh aig daoine ’s a’ bhaile-sa fhéin. Bha fear ag argumaid rium aig Kelvindale nach robh a leithid a
+          rud agus differential ann an càr. Gu robh easan air a bhith a’ draibheadh fad bhliadhnachan.</def>
+      </entry>
+      <head xml:id="Peat_GlasgowMMacLeodmoine-d0e373">6. Seòrsachan mònach</head>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e378">
+        <form>
+          <orth>mòine-dhubh</orth>
+        </form>
+        <def>Dh’fheumadh tu a gearradh tiugh. Bha i pronn. ’Se connadh math a bh’innte. Bha i trom ri a tarruing air an druim.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e387">
+        <form>
+          <orth>mòine-bhàn</orth>
+        </form>
+        <def>Bha thu ’ga gearradh tana. Bha i na bu duilghe a tiormachadh. Ach bha i aotrom ri a tarruing. Sgamhan bàn, chanadh na bodaich. Sgamhan de mhòine bhàin. Cha sheasadh a’ mhòine bhàn cho
+          fada ’s an teine idir ris a’ mhòine dhuibh.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e396">
+        <form>
+          <orth>mòine luath-deirg</orth>
+        </form>
+        <def>Cha bu chaomh le na bodaich idir a’ mhòine-sa agus gun chàil cèarr oirre ach gu robh an luath aice dearg. Mar a’ mhòine bhàn bha i aotrom ri a tarruing.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e405">
+        <form>
+          <orth>mòine-bharrach</orth>
+        </form>
+        <def>Mòine faisg a làimh a bhith tu a’ gearradh leis an spaid. Bhiodh na h-uibhir de fhraoch, ’s na h-uibhir de thalamh, ’s na h-uibhir de riasg glan innte. Chunnaic mi seo ’s a’ bhaile, ged
+          nach robh e againn fhìn.</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e414">
+        <form>
+          <orth>ath-mhòine</orth>
+        </form>
+        <def>(Faic pàipear a chuir mi a steach roimhe air a’ bhliadhna.)</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e423">
+        <form>
+          <orth>geallabhal</orth>
+        </form>
+        <def>An riasg a bhiodh air cruadhachadh ’s air tiormachadh a’ stigh fo na bruthaichean. Connadh math. Is ann ri àm a bhiodh connadh air leth gann a bhithist a’ cur thairis nam bruthaichean
+          airson an stuth-sa.</def>
+      </entry>
+      <head xml:id="Peat_GlasgowMMacLeodmoine-d0e431">7. Faclan eile</head>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e436">
+        <form>
+          <orth>dronnag</orth>
+        </form>
+        <def>No. 5. Cliabh. Faic dronnag. (Faclair MhicGhillfhinnein, Faclair Dwelly.)</def>
+      </entry>
+      <entry xml:id="Peat_GlasgowMMacLeodmoine-d0e445">
+        <form>
+          <orth>cruachan-tarruing</orth>
+        </form>
+        <def>Cruachan a bhithist a’ deanamh aig an tigh mar a dheadh agad air. Cha robh làmh a’ dol orra gu’m biodh feum air – gu’n tòisicheadh an obair.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

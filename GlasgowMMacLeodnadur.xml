@@ -1,1190 +1,1168 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="MurdoMacLeod_GlasgowMMacLeodnadur">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: the informant uses E and I to mark the gender of the nouns, masculine and feminine respectively.]</note>
-            <note>[NOTES: the questionnaire suggests a number of words/phrases under each heading so very often Mr MacLeod refers to them in his list saying ‘Tha e seo againn.’ or he gives a local variant instead. See below.]</note>
-            <note>[NOTES: part of the questionnaire has been slipped (in English) and therefore, apart from the definitions provided by Mr MacLeod, in this file the definitions as they appear on the slips have been also included.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[1972 on the slips]</date>
-            <location>
-               <placeName>Glaschu [Glasgow]</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>Murdo MacLeod</persName>
-               <persName xml:lang="gd">Murchadh MacLeòid </persName>
-               <age>61 ¼</age>
-               <birth>
-                  <placeName>Leòdhas [Lewis], Uig an Iar</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Personality</term>
-               <term>Nàdur an Duine</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e46"
-            >SEORSAICHEAN DUINE</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e51">
-            <form>
-               <orth>bumailear (E)</orth>
-            </form>
-            <def>Tha e seo againn. [NOTES: slip not found.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e60">
-            <form>
-               <orth>bugair (E)</orth>
-            </form>
-            <def>Tha e seo againn. ’S bidh fhios agam fhéin mu a dheidhinn. [SLIP: no definition.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e69">
-            <form>
-               <orth>blaigeard</orth>
-            </form>
-            <def>E seo, cuideachd, mar am fear shuas. [NOTES: slip not found.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e78">
-            <form>
-               <orth>closach (I)</orth>
-            </form>
-            <def>Duine mór, trom. 6' suas agus sìos mar sin:
-        <graphic url="GlasgowMMacLeodnadurillust1.jpg" width="100px"/>
-            </def>
-            <note>[SLIP: A big heavily-built man.]</note>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e92">
-            <form>
-               <orth>cainnean (E)</orth>
-            </form>
-            <def>Duine dìreach mar a shaoileadh sibh a rèir an ainm. Aithghearr, aithghearr anns an nàdur agus a théid ’n a theine airson rudan glé bheag. ’S mar sin. [NOTES: slipped under ‘cainean’. Definition: An upright man.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e101">
-            <form>
-               <orth>carran (E)</orth>
-            </form>
-            <def>Duine buaireanta. Duine nach leigeadh móran seachad gun na h-uibhir de bhuaireadh a dheanamh m’a dheidhinn. ’S mar sin. [SLIP: An annoying man.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e110">
-            <form>
-               <orth>duine amhaidh (E)</orth>
-            </form>
-            <def>Duine amh. ’Na dhòigh agus ’n a chòmhradh. Mar a shaoileadh sibh leis an ainm. [NOTES: slipped under ‘amhaidh’. Definition: A rough person in speech and manner.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e119">
-            <form>
-               <orth>dannarran (E)</orth>
-            </form>
-            <def>Duine a dheadh an airde [?] gu buaireadh ’s droch nàdur ’s mar sin gu math aithghearr. ’S a bhiodh mar sin an còmhnuidh. [SLIP: A man with an annoyingly bad temper.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e128">
-            <form>
-               <orth>fannlag (I)</orth>
-            </form>
-            <def>Duine gun mhóran neart ann, duine beag an cumantas. “Cha robh dad a dh’fheum unnda idir. Fannlagan a bh’unnda.” [SLIP: Usually a small, weak man.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e137">
-            <form>
-               <orth>gleidreaman (E)</orth>
-            </form>
-            <def>Rudeigin mar peitealan [q.v.]. Duine a bhiodh a’ deanamh móran á rud gle bheag. Gu math tric a’ deanamh dragha mu chuspairean beaga ’s mar sin, eadhon gu ìre a bhith deanamh miothlachd. [SLIP: A man who makes a mountain out of a molehill, making small matters seem large.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e146">
-            <form>
-               <orth>gliogaid (I)</orth>
-            </form>
-            <def>Duine mór, gliogach. Faic MacGhillfh. “a thin clumsy man”. 6' suas agus sìos [?]:
-        <graphic url="GlasgowMMacLeodnadurillust2.jpg" width="100px"/>
-            </def>
-            <note>[SLIP: A big, bald-headed, clumsy man.]</note>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e160">
-            <form>
-               <orth>iosgaideach (E)</orth>
-            </form>
-            <def>Duine, mór an cumantas, agus iosgaidean móra, fada aige. Biodh e trom no caol. [SLIP: A big man with large thighs.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e169">
-            <form>
-               <orth>lìogaire (E)</orth>
-            </form>
-            <def>Duine lìogach. (Faic MacGhillfh.) (lìgeach) Duine slaodach, cuideachd a bhiodh a’ lìogaireachd. Cha b’ann gu taobh molaidh a bhiodh ‘lìogaire’ a’ claonadh uair sam bith. [SLIP 1: A slow-moving person, deliberate in gait.] [SLIP 2: lìogaireachd. Definition: Verb of ‘lìogaire’ q.v.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e178">
-            <form>
-               <orth>leth-chiallach (E agus I)</orth>
-            </form>
-            <def>Dìreach mar an t-ainm. [SLIP: Noun – half-wit.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e187">
-            <form>
-               <orth>malcaid (I)</orth>
-            </form>
-            <def>Duine mór, trom a rithist. Agus leisg ’s mar sin. Agus gun e deanamh móran feuma. [SLIP: A big, heavy man – also lazy.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e196">
-            <form>
-               <orth>oslaig (I)</orth>
-            </form>
-            <def>Duine mór, mór, trom. [SLIP: A big, heavily-built man.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e205">
-            <form>
-               <orth>peallag (I)</orth>
-            </form>
-            <def>Rudeigin an ceart aghaidh oslaig [q.v.]. Duine beag, sunndach, ’s mar sin. Mar bu trice cha b’ann a’ claonadh gu taobh a bhith cur onair air a chanadh tu ‘peallag’. [SLIP: Positive term for a small, lively man.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e214">
-            <form>
-               <orth>mastaige</orth>
-            </form>
-            <def>Duine grànda, ’na dhòigh. Duine a nì rudan grànda, agus glé ghrànda. Chan eil fhios ’am an ann bho mastiff masluidh [?] (cù) a tha seo. Faic Dwelly. [SLIP: A man who would “do the dirty” on other people.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e223">
-            <form>
-               <orth>peitealan (E)</orth>
-            </form>
-            <def>Duine gun chonn. A bhios a’ leum bho rud gu rud ’s mu shròn dhaoine. ’S a’ miodal ’s a’ brosgul ’s mar sin mar a shaoileadh sibh. [SLIP: A senseless man who jumps from one thing to the other, annoying people. Also ingratiating.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e232">
-            <form>
-               <orth>salchar (E)</orth>
-            </form>
-            <def>Bidh e seo anns a h-uile h-àit. [SLIP: no definition.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e241">
-            <form>
-               <orth>sleigeire (E)</orth>
-            </form>
-            <def>Duine fada anns na lethcheannan ’s mar sin.
-        <graphic url="GlasgowMMacLeodnadurillust3.jpg" width="100px"/>
-            </def>
-            <note>[SLIP: A man with long cheeks.]</note>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e255">
-            <form>
-               <orth>sìliche (E)</orth>
-            </form>
-            <def>Lìogaire [q.v.] de dhuine. (Faic lìogach aig MacGhillfh.) Duine a bhios a’ deanamh rudan lìogach, ’s mar sin; sly, cunning, ’s nach tig air uachdar aig an toiseach ’s mar sin. [SLIP: Sly, clumsy person.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e264">
-            <form>
-               <orth>trusdar (E)</orth>
-            </form>
-            <def>Bidh e seo anns a h-uile h-àit. Agus faisg air anns an aon seadh. [SLIP: A “filthy fellow”.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e273">
-            <form>
-               <orth>truaghan (E)</orth>
-            </form>
-            <def>Air a chleachdadh dìreach mar a shaoileadh sibh. Againne dìreach mar a tha e aig MacGhillfh. [NOTES: slip not found.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e282">
-            <form>
-               <orth>duine gun diù (E)</orth>
-            </form>
-            <def>Air a chleachdadh dìreach mar a shaoileadh sibh. [NOTES: slip not found.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e291">
-            <form>
-               <orth>ceàrd (E)</orth>
-            </form>
-            <def>Bidh e seo air a chleachdadh faisg air an aon dòigh anns a h-uile h-àit. “’Se ceàrd a bh’ann.” “Nach b’e an ceàrd e.” [SLIP: no definitions.]</def>
-         </entry>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e299"
-             subtype="h2">Boirionnaich</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e304">
-            <form>
-               <orth>cearchaill (I)</orth>
-            </form>
-            <def>Boirionnach tiugh, cruinn, trom ’n a pearsa. [SLIP: A rotund, heavily-built woman.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e313">
-            <form>
-               <orth>tuarnag (I)</orth>
-            </form>
-            <def>Faisg air an aon seòrsa ris cearchaill [q.v.] ach nas lugha ’n a pearsa agus nas òige an cumantas. (Chan e ‘tuairneag’, mar ’s na faclairean, a chanas sinn idir.) [SLIP: Usually younger smaller than a cearchaill qv. but still rotund and heavily-built.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e322">
-            <form>
-               <orth>tumarraid (I)</orth>
-            </form>
-            <def>Faisg air an seòrsa ri cearchaill [q.v.] – mór, tiugh agus trom ’n a pearsa. [SLIP 1: A rotund heavily-built woman.] [SLIP 2: A big, tough woman. Seldom used of a boy.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e331">
-            <form>
-               <orth>fursair (E)</orth>
-            </form>
-            <def>Boirionnach rough. Og an cumantas. Teenager rough mar gu’n canadh tu. ’S ann eagalach tearc a chleachdas sinn ‘fursair’ ri balach. [SLIP: A young, tough woman. Seldom used of a boy.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e340">
-            <form>
-               <orth>màrsach (I)</orth>
-            </form>
-            <def>Boirionnach a tha a’ sealltuinn gu bheil i làidir a thaobh nam fear – ag iarraidh thuca ’s mar sin. Tuigidh sibh fhein! Mar tha ‘màrsach’ againne tha e gu math duilich còmhradh a chur air. [SLIP: A woman who shows she is strong vis-à-vis men.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e349">
-            <form>
-               <orth>làir (I)</orth>
-            </form>
-            <def>Mar a bha mi ag innse dhuibh aig Sràid Sauchiehall. [SLIP: no definition.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e358">
-            <form>
-               <orth>baobh (I)</orth>
-            </form>
-            <def>Mar aig Sràid Sauchiehall cuideachd. [SLIP: do definition.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e367">
-            <form>
-               <orth>ramailear (E)</orth>
-            </form>
-            <def>Boirionnach a bhiodh a’ leum ’s a falbh bho àite gu àite gun mhóran stamhnaidh bho thigeadh rud sam bith ’n a ceann. “A ramaileireach an siod ’s an seo.” “Ramailear eagalach a th’innte.” [SLIP: An impetuous woman who would be up and off when it came into her head.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e376">
-            <form>
-               <orth>goibhneal (E)</orth>
-            </form>
-            <def>Boirionnach caol – chan ann cho caol ri ‘raod’ [q.v.] agus ‘sgriot’ [q.v.] ach dìreach caol gun a bhith cruinn mar boirionnach an cumantas. Agus gun a bhith ro ìosal ’na pearsa. Fuaimnich mar seo: aoi, raoir, coibhneal, goibhneal. [SLIP: A slender woman, though not as thin as ‘raod’ or ‘sgriot’ qv.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e385">
-            <form>
-               <orth>raod (E)</orth>
-            </form>
-            <def>Boirionnach caol – glé chaol ’n a pearsa. “Raod eagalach a th’innte.” [SLIP: A very thin woman.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e394">
-            <form>
-               <orth>sgriot (E)</orth>
-            </form>
-            <def>An aon seòrsa ri raod [q.v.]. Faisg, faisg air co dhiu. “Sgriot eagalach a th’innte.” [SLIP: A very thin woman.]</def>
-         </entry>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e402"
-            >BAD COMPANY</head>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e406"
-             subtype="h2">(1)</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e411">
-            <form>
-               <orth>sgoladh d’a theangaidh</orth>
-               <pron>[NOTES: one of the phrases suggested in the questionnaire.]</pron>
-            </form>
-            <def>[NOTES: one of the phrases suggested in the questionnaire.] [NOTES: slipped under ‘sgoladh’. Definition: Tongue-lashing.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e420">
-            <form>
-               <orth>sgearrach</orth>
-            </form>
-            <def>Tha aca anns na Hearadh – có dhiu bha ’san Scarp – ‘sgearrach’. “Thug mi sgearrach air, no dhà.” [SLIP: Scarp word for ‘tongue-lashing.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e429">
-            <form>
-               <orth>[teanga]</orth>
-            </form>
-            <def>“Thug e teanga dha.” “Thug e pìos d’a theangaidh dha.” [SLIP: Tongue-lashing.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e438">
-            <form>
-               <orth>[seatha]</orth>
-            </form>
-            <def>“Thug e seatha dha.” – He gave him a telling off. “Thug mi seatha dha.” Cha chreid mi nach robh againn cuideachd ‘seatha’ airson ‘cheek’: “Thug e seatha dha.” – He gave him cheek. [SLIP 1: Thug e seatha dha. He gave him a telling-off. Also: he gave him cheek.] [SLIP 2: Cheek, telling-off.]</def>
-         </entry>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e446"
-             subtype="h2">(2)</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e451">
-            <form>
-               <orth>duine fada as</orth>
-            </form>
-            <def>Tha e seo againn. Agus ’na aghaidh: duine faisg ort. [NOTES: slip not found.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e460">
-            <form>
-               <orth>[duine faisg ort]</orth>
-            </form>
-            <def>“Tha e cho faisg (ort).” (Faic ‘duine amhaidh’ [q.v.] air an duilleig eile.) [SLIP: Friendly.]</def>
-         </entry>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e468"
-             subtype="h2">(3)</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e473">
-            <form>
-               <orth>cabag</orth>
-            </form>
-            <def>Blether, gossip: tha e seo againn. Cabag agus cabaire. Agus preigeadair agus preigire.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e482">
-            <form>
-               <orth>[cabaire]</orth>
-               <pron>[See cabag.]</pron>
-            </form>
-            <def>[See cabag.] [SLIP: Gossip, blether.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e491">
-            <form>
-               <orth>[preigeadair]</orth>
-               <pron>[See cabag.]</pron>
-            </form>
-            <def>[See cabag.] [SLIP: Gossip, blether.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e500">
-            <form>
-               <orth>[preigire]</orth>
-               <pron>[See cabag.]</pron>
-            </form>
-            <def>[See cabag.] [SLIP: Gossip, blether.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola169">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>agus mar sin air adhair [sic]</def>
-         </entry>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e517"
-            >GOOD COMPANY</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e522">
-            <form>
-               <orth>[cuideachd]</orth>
-            </form>
-            <def>“Bha e math ann an cuideachd.” – “Good company”. [NOTES: slip not found.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e531">
-            <form>
-               <orth>[cridhe]</orth>
-            </form>
-            <def>“Bha cridhe math ann.” – warm-hearted and kind. [SLIP: Warm-hearted.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e540">
-            <form>
-               <orth>[blàth-chridheach]</orth>
-            </form>
-            <def>“Bha e blàth-chridheach.” – warm-hearted and kind. [SLIP: Warm-hearted.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e549">
-            <form>
-               <orth>geur</orth>
-            </form>
-            <def>Witty. “Tha Domhnull geur.”</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e558">
-            <form>
-               <orth>[beurr]</orth>
-            </form>
-            <def>Anns na Baigh anns an sgìre againn (Uig an Iar), ’se ‘beurr’ a chanas iad mar a chanas sinne ‘geur’ [q.v.]: “Tha e cho beurr.” [SLIP: Said in ‘na Baigh’ (Sgìre Uig) for ‘geur’ – ‘witty’.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e567">
-            <form>
-               <orth>eirmiseach</orth>
-            </form>
-            <def>Witty. “Tha e eirmiseach.”</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e576">
-            <form>
-               <orth>deas air a theangaidh</orth>
-            </form>
-            <def>Witty. “Tha e deas air a theangaidh.” [NOTES: slipped under ‘deas’.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e585">
-            <form>
-               <orth>[freagairt]</orth>
-            </form>
-            <def>“Tha a fhreagairt gu math faisg air.” – [witty]. [NOTES: slip not found.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e594">
-            <form>
-               <orth>[cheerful]</orth>
-            </form>
-            <def>Cha chreid mi gu bheil móran sam bith agam airson ‘cheerful’.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e603">
-            <form>
-               <orth>[còmhraideach]</orth>
-            </form>
-            <def>A good talker. “Tha e còmhraideach.” [SLIP: Talkative.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e612">
-            <form>
-               <orth>[còmhraidh]</orth>
-            </form>
-            <def>“Tha pailteas còmhraidh aige.” – a good talker. [NOTES: slip not found.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola170">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>Tuilleadh ri shuas.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e630">
-            <form>
-               <orth>[tròcair]</orth>
-            </form>
-            <def>Rinn e tròcair rium [one of the phrases suggested in the questionnaire]. “Rinn e tròcair orm” a chanas sinne. [SLIP: He did me a favour.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e639">
-            <form>
-               <orth>[fàbhar]</orth>
-            </form>
-            <def>“Rinn e fàbhar rium”, againne. [SLIP: He did me a favour.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e648">
-            <form>
-               <orth>céileach</orth>
-            </form>
-            <def>’Se ‘céileach’ a th’againne [for ‘céilidhiche’ suggested in the questionnaire]. [SLIP: Entertaining, of a person.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e657">
-            <form>
-               <orth>abhcaid</orth>
-            </form>
-            <def>Tha e seo againn. [Joking – one of the words suggested in the questionnaire.] [NOTES: slip not found.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola171">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>Tha againn:</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e675">
-            <form>
-               <orth>duine éibhinn</orth>
-               <pron>[NOTES: slip not found.]</pron>
-            </form>
-            <def>[NOTES: slip not found.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e684">
-            <form>
-               <orth>duine aincheardach</orth>
-               <pron>[NOTES: slipped under ‘aincheardach’. Definition: Funny man.]</pron>
-            </form>
-            <def>[NOTES: slipped under ‘aincheardach’. Definition: Funny man.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e693">
-            <form>
-               <orth>duine dibhearsaineach</orth>
-               <pron>[NOTES: slipped under ‘dibhearsaineach’. Definition: Funny man.]</pron>
-            </form>
-            <def>[NOTES: slipped under ‘dibhearsaineach’. Definition: Funny man.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e702">
-            <form>
-               <orth>duine àraid</orth>
-            </form>
-            <def>(Fuaimnich àrraid.) [NOTES: slip not found.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola172">
-            <form>
-               <orth>[‘funny man’]</orth>
-            </form>
-            <def>Iad seo uile airson mar gu’n canadh sibh ‘funny man’. Tuigidh sibh fhéin. Tha barrachd air an seo againn na’n cuimhnichinn orra.</def>
-         </entry>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e719"
-            >CHEERFUL</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e724">
-            <form>
-               <orth>[sona]</orth>
-            </form>
-            <def>“Nach e tha sona dheth.” – bha e seo againn. Tha againn: “Cho sona ri bó ann an loch.” “Cho sona ’s a tha an là cho fada.” [SLIP: no definition.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e733">
-            <form>
-               <orth>[duine dòigheil]</orth>
-            </form>
-            <def>Easy-going, self-control, patience. “Tha e cho dòigheil.” “’Se duine dòigheil a tha an Calum.” “Dòmhnull, ’s e cho dòigheil.” – happy, easy-going, patient. [NOTES: slipped under ‘dòigheil’. Definition: Easy-going.]</def>
-         </entry>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e741"
-            >GLOOMY</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e746">
-            <form>
-               <orth>dreunasach, dreunaire</orth>
-            </form>
-            <def>Tha na dhà-sa againn. [NOTES: ‘dreunasach’ suggested in the questionnaire – ‘a surly person’.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola173">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>Tha móran ainmeannan againn, na’n cuimhnichinn-sa orra, le ‘an’, ‘ach’, ‘aire’, ’s mar sin, ’s an deireadh.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e764">
-            <form>
-               <orth>dranndan</orth>
-               <pron>[SLIP: surly.]</pron>
-            </form>
-            <def>[SLIP: surly.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e773">
-            <form>
-               <orth>dreunasach</orth>
-               <pron>[NOTES: suggested in the questionnaire – ‘a surly person’. Slip not found.]</pron>
-            </form>
-            <def>[NOTES: suggested in the questionnaire – ‘a surly person’. Slip not found.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e782">
-            <form>
-               <orth>dreunaire</orth>
-               <pron>[SLIP: surly.]</pron>
-            </form>
-            <def>[SLIP: surly.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e791">
-            <form>
-               <orth>dreimisg</orth>
-               <pron>[SLIP: surly.]</pron>
-            </form>
-            <def>[SLIP: surly.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e800">
-            <form>
-               <orth>mar ugh air aran</orth>
-            </form>
-            <def>’S e ‘mar ugh air bonnach’ a bh’againne. [NOTES: slipped under ‘bonnach’. Definition: Excited.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e809">
-            <form>
-               <orth>[sìos]</orth>
-            </form>
-            <def>“Tha e sìos (’s an inntinn).” “Tha e fada sìos ’s an inntinn.” – depressed.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e818">
-            <form>
-               <orth>[impetuous]</orth>
-            </form>
-            <def>Againne mar a th’aig MacGhillfh.: fiadhaich, feargach, cas, brais.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e827">
-            <form>
-               <orth>[fiadhaich]</orth>
-               <pron>[Impetuous.]</pron>
-            </form>
-            <def>[Impetuous.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e836">
-            <form>
-               <orth>[feargach]</orth>
-               <pron>[Impetuous.]</pron>
-            </form>
-            <def>[Impetuous.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e845">
-            <form>
-               <orth>[cas]</orth>
-               <pron>[Impetuous.]</pron>
-            </form>
-            <def>[Impetuous.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e854">
-            <form>
-               <orth>[brais]</orth>
-               <pron>[Impetuous.]</pron>
-            </form>
-            <def>[Impetuous.]</def>
-         </entry>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e862"
-            >A GOOD MAN</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola174">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>Cha chreid mi gu bheil càch againne mu an seo ach na tha cumanta anns a h-uile h-àit.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e876">
-            <form>
-               <orth>duinne grinn</orth>
-            </form>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e882">
-            <form>
-               <orth>duine onarach</orth>
-            </form>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e888">
-            <form>
-               <orth>duine ceart</orth>
-            </form>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e894">
-            <form>
-               <orth>fìor dhuine</orth>
-            </form>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e900">
-            <form>
-               <orth>’s mar sin.</orth>
-            </form>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e906">
-            <form>
-               <orth>[gasda]</orth>
-            </form>
-            <def>Thuirt mi roimhe gu bheil againn mu dhuine diadhaidh – duine stòlda diadhaidh, ged nach bitheadh e air leth soilleir mar an fheadhainn chomharraichte – gasda. “’Se gille gasd a th’ann.” ’Se ‘gille’ a chanadh iad ged a bhiodh an duine pòsda agus ’na sheanair. [SLIP: A religious man – irrespective of age.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e915">
-            <form>
-               <orth>[ionraic]</orth>
-            </form>
-            <def>Duine ionraic – pure. Tha seo againn. Bhà, có dhiù.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e924">
-            <form>
-               <orth>grinn</orth>
-            </form>
-            <def>Canaidh sinn ‘grinn’ cuideachd mu dhuine a bhios ’n a aodach ’s mar sin. Snog, glan, sgiobalta. “Tha Calum cho grinn.” “Tha e cho grinn a h-uile turus a théid e a mach.” “Tha e ’ga chumail fhéin cho grinn.” Canaidh sinn ‘grinn’ cuideachd mu ghrinn ann an giùlan. [SLIP: Tidy; also ‘fine’ of behaviour.]</def>
-         </entry>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e932"
-            >A BAD MAN</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e937">
-            <form>
-               <orth>[gràisg]</orth>
-            </form>
-            <def>Chan ’eil fhios ’am a bheil e ann an àiteachan eile. Chanadh na bodaich againne ‘a’ ghràisg’ ri clann an cumantas. Gu h-àraidh nuair a bhiodh sinn a’ ruith a muigh. ’S mar sin. [SLIP: ‘Rascals’ – particularly used by older people when children e.g. running out.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e946">
-            <form>
-               <orth>crosd</orth>
-            </form>
-            <def>’Se seo a chanas sinn mu chloinn a thà crosd. Cuideachd ‘crosd’ mu dhuine a bhiodh dona gu sabaid, ’s mar sin. “Bha e crosd.” “Duine crosd.” (Bha fear thall againne an Uig ri linn mo sheanar ris an canadh iad “Dòmhnull Bàn Crosd”. Duine tough nuair a bha e òg.) [SLIP: Mischievous (of children). Also (of man) tough, bad-tempered, spoiling for a fight.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e955">
-            <form>
-               <orth>ain-diadhach</orth>
-            </form>
-            <def>Tha e seo againn, dìreach mar a th’aig Dwelly (faic t-d 15). Ach chan eil e againn airson ‘atheist’. ’S ann a tha e againn arison ungodly person. [SLIP: Ungodly person (not ‘atheist’.)]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e964">
-            <form>
-               <orth>fineach</orth>
-            </form>
-            <def>(Fuaimnich ‘fionach’ – seo mar tha e againne.) Tha seo againn airson duine mar tha seo shuas [i.e. ain-diadhach]. Duine gun dia mar gu’n canadh tu, heathen. Faic ‘fineachail’ ag Dwelly. “Domhnull Mór ’se fineach a th’ann.” “’Se fineach a th’ann an Calum Ruadh.” [SLIP: Atheist.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola175">
-            <form>
-               <orth>[note]</orth>
-               <pron>[NOTES: slips seem to stop here. There are no more ticks in the questionnaire either.]</pron>
-            </form>
-            <def>[NOTES: slips seem to stop here. There are no more ticks in the questionnaire either.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola176">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>Tuilleadh air cuimhneachadh air bho an phàipear eile:</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e991">
-            <form>
-               <orth>daorach (I)</orth>
-            </form>
-            <def>Mu dheoch ’s mar sin. “Tha e ’ga dhalladh leis an daoraich.” Agus “Tha e ’ga dhalladh” fhein (gun ‘leis an daoraich’ idir).  “Domhnull Thormoid ’s e ’ga dhalladh.” (Dòmhnull Thormoid leis an daoraich.) “Bha e ’ga sheann dalladh.”</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1000">
-            <form>
-               <orth>[dalladh]</orth>
-               <pron>[See daorach.]</pron>
-            </form>
-            <def>[See daorach.]</def>
-         </entry>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1008"
-            >A SUCCESSFUL MAN</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1013">
-            <form>
-               <orth>sùil-dhìleas</orth>
-            </form>
-            <def>Tha e seo againn. [NOTES: one of the words suggested in the questionnaire – no definition.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1022">
-            <form>
-               <orth>[tiuc]</orth>
-            </form>
-            <def>Air a thiuc fhéin. Tha e seo againn. Agus ‘air a gheabhraisde fhéin’. [NOTES: one of the phrases suggested in the questionnaire – ‘doing something on his own initiative’.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1031">
-            <form>
-               <orth>[geabhraisde]</orth>
-               <pron>[See tiuc.]</pron>
-            </form>
-            <def>[See tiuc.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1040">
-            <form>
-               <orth>corra-chriostag</orth>
-            </form>
-            <def>Chuala mi am facal uair no dhà uaireigin ach chan eil bladh sam bith agam mu a dheidhinn. [NOTES: one of the words suggested in the questionnaire – ‘a woman who is always working’.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1049">
-            <form>
-               <orth>cosnaiche</orth>
-            </form>
-            <def>Hard-working, ambitious, capable, lively. “’Se cosnaiche math a bh’ann.” (Faic na faclairean.) Tha ‘cosnaiche’ againn, cuideachd, airson nam fiaclan gearraidh (incisors) gu h-araidh ann an ainmhidhean, bó ’s mar sin. “Na cosnaichean” – the incisors.</def>
-         </entry>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1057"
-            >A FAILURE</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1062">
-            <form>
-               <orth>[sgluis]</orth>
-            </form>
-            <def>Tha againn ann an Leòdhas ‘sgluis’ airson tè de’n t-seòrsa-sa [i.e. sgliùrach – word suggested in the questionnaire – ‘an untidy housewife’.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1071">
-            <form>
-               <orth>dradharna</orth>
-            </form>
-            <def>Chan eil e seo againn idir. [NOTES: one of the words suggested in the questionnaire – ‘an insignificant, useless person’.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1080">
-            <form>
-               <orth>leisgeadair</orth>
-            </form>
-            <def>Tha againn ‘leisgeadair’. Agus, cha chreid mi, cuideachd, ‘leisgeach’ airson boirionnach de’n t-seòrsa.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1089">
-            <form>
-               <orth>[leisgeach]</orth>
-               <pron>[See leisgeadair.]</pron>
-            </form>
-            <def>[See leisgeadair.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1098">
-            <form>
-               <orth>learach</orth>
-            </form>
-            <def>Agus ‘learach’ airson boirionnach a bhiodh comasach (glé chomasach) air obair ’s mar sin a dheanamh, ach a bha leisg agus nach robh ’ga dhèanamh. Chan eil fhios agam an ann bho ‘leireach’ a thàinig ‘learach’.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1107">
-            <form>
-               <orth>luid</orth>
-            </form>
-            <def>Tha seo againn air an aon sraoin ri sgluis [q.v.]. “’Se luid a th’innte.” Canaidh sinn ‘luid’ mar as trice ri boirionnach.</def>
-         </entry>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1115"
-            >A WISE MAN</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1120">
-            <form>
-               <orth>tùrail</orth>
-            </form>
-            <def>Intelligent or skilful. Tha e againn an dà chuid. Ach na’s motha ‘skilful’. Tùrail – math air a làmhan a thaobh fiodha agus gnothaichean eile, math air tuigsinn dé mar a tha cùisean mu na cuspairean sin etc. agus math agus grinn air dèanamh.</def>
-         </entry>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1128"
-            >FOOLISH</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1133">
-            <form>
-               <orth>sgimileir</orth>
-            </form>
-            <def>Chan eil e againn.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1142">
-            <form>
-               <orth>òinseach (I)</orth>
-            </form>
-            <def>Thà [e againn]. [NOTES: one of the words suggested in the questionnaire – ‘a foolish woman’.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1151">
-            <form>
-               <orth>bumalair (E)</orth>
-            </form>
-            <def>Thà [ e againn]. [NOTES: one of the words suggested in the questionnaire – ‘a large bumbling man’.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola177">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>Tha grunnan ainmeannan againn mar:</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1169">
-            <form>
-               <orth>bumallair</orth>
-               <pron>[sic]</pron>
-            </form>
-            <def>[sic] </def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1175">
-            <form>
-               <orth>buaistear (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1181">
-            <form>
-               <orth>blabhdaire (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1187">
-            <form>
-               <orth>bladhastair (E)</orth>
-            </form>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola178">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>(Faic na faclairean airson ‘blabhdaire’ agus ‘bladhastair’.)</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola179">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>Chanainn gu bheil ‘bumalair’ agus ‘buaisteir’ [sic] ann an iomadh àite.</def>
-         </entry>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1210"
-            >BOLD</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1215">
-            <form>
-               <orth>aghannail</orth>
-            </form>
-            <def>A forward person. Bold. Chanainn gur h-ann bho ‘aghaidh’ a tha seo: aghaidh, aghannail.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1224">
-            <form>
-               <orth>[aghaidh]</orth>
-            </form>
-            <def>Chanadh iad againne, a maoidhean òirnn nuair a bhiodh sinn crosd nuair a bha sinn òg: “Cuiridh mi ìomhaigh na h-agh’ dhiot.” Cho fada agus a thuig mise, có dhiu, ’se “cuiridh mi ìomhaigh na h-aghaidh dhiot” a bha iad a’ ciallachadh.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1233">
-            <form>
-               <orth>tàidsear (E)</orth>
-            </form>
-            <def>Chan eil idir againn. ’Sann a tha ‘tàidsear’ againne, mar: “Thug e tàidsearan dhà (no air).” – Thug e broadsides dha (ann am barrachd air aon seadh). Tuigidh sibh fhein.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1242">
-            <form>
-               <orth>làidir (1)</orth>
-            </form>
-            <def>Bold.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1251">
-            <form>
-               <orth>ladarna (2)</orth>
-            </form>
-            <def>Bold.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1260">
-            <form>
-               <orth>dàna (3)</orth>
-            </form>
-            <def>Bold.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola180">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>’Se (1) agus (3) as fheàrr a fhreagras mar a tha e againne.</def>
-         </entry>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1277"
-            >TIMID</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola181">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>Againne “an easily led man”:</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1291">
-            <form>
-               <orth>[blath-laoghain]</orth>
-            </form>
-            <def>“Tha e ’n a bhlath-laoghain aice.”</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1300">
-            <form>
-               <orth>[clobhda-sgùraidh] (E)</orth>
-            </form>
-            <def>“Tha e ’n a chlobhda-sgùraidh.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola182">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>’S mar sin.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1318">
-            <form>
-               <orth>[mòinteach]</orth>
-            </form>
-            <def>“Tha e furasda a thoirt a’ mhòinteach.”</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1327">
-            <form>
-               <orth>[taobh]</orth>
-            </form>
-            <def>“Tha e furasda a thoirt a thaobh.”</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1336">
-            <form>
-               <orth>[leannan-òinsich]</orth>
-            </form>
-            <def>Cha chreid mi gu bheil ‘leannan-òinsich’ againn idir. [NOTES: one of the phrases suggested in the questionnaire – ‘an easily led man’.]</def>
-         </entry>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1344"
-            >PROUD</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1349">
-            <form>
-               <orth>[bòsda]</orth>
-            </form>
-            <def>Cha chreid mi gu bheil aon fhacal sam bith againn airson an fheadhainn-sa shuas ach airson ‘boast’ – bòsda, uaill.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1358">
-            <form>
-               <orth>[uaill]</orth>
-               <pron>[See bòsda.]</pron>
-            </form>
-            <def>[See bòsda.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola183">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>Ma thà facail ann, cha chuimnich mise orra aig an àm-sa.</def>
-         </entry>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1375"
-            >HUMBLE</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1380">
-            <form>
-               <orth>iriosal</orth>
-            </form>
-            <def>Humble. “Tha Domhnull cho iriosal ri duine an àite sam bith”. “Tha e cho beag uaill [q.v.]”</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1389">
-            <form>
-               <orth>dìblidh</orth>
-            </form>
-            <def>Servile. ’Se ‘dìblidh’, saoilidh mi, a th’againne an còmhnuidh.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1398">
-            <form>
-               <orth>miodal</orth>
-            </form>
-            <def>Fawning.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1407">
-            <form>
-               <orth>brosgul</orth>
-            </form>
-            <def>Flattery. “Leis a’ bhrosgul.”</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1416">
-            <form>
-               <orth>beulachas</orth>
-            </form>
-            <def>Flattery. “Leis a’ bheulachas.” “E cho beulach.”</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola184">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>’S mar sin.</def>
-         </entry>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1433"
-            >POLITE</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1438">
-            <form>
-               <orth>[boirionn]</orth>
-            </form>
-            <def>Feminine (used of a man). “Tha e cho boirionn.”</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1447">
-            <form>
-               <orth>[grinn]</orth>
-            </form>
-            <def>Well-mannered. “Tha e cho grinn ’s cho modhail.” “Tha e cho grinn.”</def>
-         </entry>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1455"
-            >COARSE</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1460">
-            <form>
-               <orth>[curs]</orth>
-            </form>
-            <def>Coarse, bad-mannered. “Tha e curs.” “Tha e curs ’n a dhòigh.”</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1469">
-            <form>
-               <orth>[firionn]</orth>
-            </form>
-            <def>Masculine (used of a woman). “Tha i cho firionn.”</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1478">
-            <form>
-               <orth>fursair</orth>
-            </form>
-            <def>’Se ‘fursair’ a th’againne [for ‘cursair’ – one of the words suggested in the questionnaire – ‘a rough forward person (usually a woman)’]. “’Se fursair eagalach a th’innte.” Tha am facal ‘fursaireachd’ againn cuideachd agus ’ga chleachdadh.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1487">
-            <form>
-               <orth>[fursaireachd]</orth>
-               <pron>[See fursair.]</pron>
-            </form>
-            <def>[See fursair.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1496">
-            <form>
-               <orth>biast</orth>
-            </form>
-            <def>Tha againn cuideachd mu bhoirionnach, ‘biast’ no ‘biasd’. “’Se biast a th’innte.” (curs agus garg) Cuideachd, boirionnach cruaidh agus marbh ann am faireachdainn: biast. “Nach b’e a’ bhiast i!” Cleas a’ bhoirionnaich a chaill an duine le bàthadh ’s nach do chuir e móran sum bith oirre. “Nach b’e a’ bhiast i!”</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1505">
-            <form>
-               <orth>biasd</orth>
-               <pron>[See biast.]</pron>
-            </form>
-            <def>[See biast.]</def>
-         </entry>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1513"
-            >BAD TYPES</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1518">
-            <form>
-               <orth>duine droch nàdurach</orth>
-            </form>
-            <def>Bad tempered.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1527">
-            <form>
-               <orth>duine buaireanta</orth>
-            </form>
-            <def>Troublemaker.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1536">
-            <form>
-               <orth>biorag</orth>
-            </form>
-            <def>Chan eil seo againn idir. [NOTES: one of the words suggested in the questionnaire – ‘an acid-tongued woman’.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1545">
-            <form>
-               <orth>laghail</orth>
-            </form>
-            <def>Tha againn ‘laghail’ agus ‘laghalachd’ [for ‘laghanta’ – one of the words suggested in the questionnaire – ‘always laying down the law (?).]. “Tha e cho laghail.” – litigious. “Thusa agus do laghalachd.”</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1554">
-            <form>
-               <orth>[laghalachd]</orth>
-               <pron>[See laghail.]</pron>
-            </form>
-            <def>[See laghail.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola185">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>Chan eil facail againn airson duine nosey, suspicious, cunning, stubborn, ’s mar sin idir. Ach mar seo:</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1572">
-            <form>
-               <orth>[sròn]</orth>
-            </form>
-            <def>“Tha e le a shròn anns a h-uile rud.” – duine nosey.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1581">
-            <form>
-               <orth>[an-amharusach]</orth>
-            </form>
-            <def>“Tha e cho an-amharusach.” – duine suspicious.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1590">
-            <form>
-               <orth>[carach]</orth>
-            </form>
-            <def>“Tha e cho carach.” – duine cunning.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1599">
-            <form>
-               <orth>[seòlta]</orth>
-            </form>
-            <def>“Tha e cho seòlta.” – duine cunning.</def>
-         </entry>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1607"
-            >YOUNG</head>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1611"
-             subtype="h2">“Growing up”</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1616">
-            <form>
-               <orth>pocan</orth>
-            </form>
-            <def>Chan eil e againn. [NOTES: one of the words suggested in the questionnaire – ‘tubby, cheeky boy’.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1625">
-            <form>
-               <orth>[òirleach]</orth>
-            </form>
-            <def>“Cha d’thàinig òirleach air.” – airson “Cha deacha gnogadh air.” [NOTES: one of the phrases suggested in the questionnaire – ‘he hasn’t grown an inch’.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1634">
-            <form>
-               <orth>[dub]</orth>
-            </form>
-            <def>“Cha d’thàinig dub air.” – airson “Cha deacha gnogadh air.” [NOTES: one of the phrases suggested in the questionnaire – ‘he hasn’t grown an inch’.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1643">
-            <form>
-               <orth>seanacharra</orth>
-            </form>
-            <def>’Se ‘seanacharra’ a chanas sinne [for ‘seanabheulach’ – one of the words suggested in the questionnaire – ‘used of a child who talks like a grown-up’.]</def>
-         </entry>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1651"
-            >OLD</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1656">
-            <form>
-               <orth>bramalaid</orth>
-            </form>
-            <def>Cho coltach ri facal a bhiodh aca ’s na Hearadh. Dìreach mar facal a thigeadh bho bheul “A’ Bhonnaich” as an Scarp. [NOTES: one of the words suggested in the questionnaire – ‘a lazy, useless woman’.]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1665">
-            <form>
-               <orth>brogaiche no brogach</orth>
-            </form>
-            <def>Cha chreid mi gu bheil am facal ’sa ann an Leòdhas air fad. [NOTES: one of the words suggested in the questionnaire – ‘a spry old man’.]</def>
-         </entry>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1673"
-            >AGUS FACLAN SAM BITH EILE</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1678">
-            <form>
-               <orth>griupag (I)</orth>
-            </form>
-            <def>Boirionnaich nach eil air leth tarruingeach air dhòigh sam bith. ’N am pearsa, beag. ’S mar sin. Cuideachd nach tugadh dhuit móran (no nì sam bith) mun a faigheadh i uibhir eile air a shon. “’Se griupag a th’innte.” Bha Taillear Eadar-dha-Fhaodhail aig an robh am bus, a’ tighinn eadar Steòrnabhagh agus an t-Acha Mór. Ghoid cailleach anns a’ bhus ball bathair a bh’aig fear de na bh’ann. Nuair a fhuair Pàdruig (an Taillear) a mach có a rinn a’ ghoid ’s e an rud a thuirt e ris a’ chaillich: “A ghriupag ghrànda, nan robh fhios agam-sa gur h-e thus’ a bh’ann.”
-        <graphic url="GlasgowMMacLeodnadurillust4.jpg" width="200px"/>
-            </def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MurdoMacLeod_GlasgowMMacLeodnadur">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: the informant uses E and I to mark the gender of the nouns, masculine and feminine respectively.]</note>
+        <note>[NOTES: the questionnaire suggests a number of words/phrases under each heading so very often Mr MacLeod refers to them in his list saying ‘Tha e seo againn.’ or he gives a local variant
+          instead. See below.]</note>
+        <note>[NOTES: part of the questionnaire has been slipped (in English) and therefore, apart from the definitions provided by Mr MacLeod, in this file the definitions as they appear on the slips
+          have been also included.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[1972 on the slips]</date>
+        <location>
+          <placeName>Glaschu [Glasgow]</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>Murdo MacLeod</persName>
+          <persName xml:lang="gd">Murchadh MacLeòid </persName>
+          <age>61 ¼</age>
+          <birth>
+            <placeName>Leòdhas [Lewis], Uig an Iar</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Personality</term>
+          <term>Nàdur an Duine</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e46">SEORSAICHEAN DUINE</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e51" type="person">
+        <form>
+          <orth>bumailear (E)</orth>
+        </form>
+        <def>Tha e seo againn. [NOTES: slip not found.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e60" type="person">
+        <form>
+          <orth>bugair (E)</orth>
+        </form>
+        <def>Tha e seo againn. ’S bidh fhios agam fhéin mu a dheidhinn. [SLIP: no definition.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e69" type="person">
+        <form>
+          <orth>blaigeard</orth>
+        </form>
+        <def>E seo, cuideachd, mar am fear shuas. [NOTES: slip not found.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e78" type="person">
+        <form>
+          <orth>closach (I)</orth>
+        </form>
+        <def>Duine mór, trom. 6' suas agus sìos mar sin: <graphic url="GlasgowMMacLeodnadurillust1.jpg" width="100px"/>
+        </def>
+        <note>[SLIP: A big heavily-built man.]</note>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e92" type="person">
+        <form>
+          <orth>cainnean (E)</orth>
+        </form>
+        <def>Duine dìreach mar a shaoileadh sibh a rèir an ainm. Aithghearr, aithghearr anns an nàdur agus a théid ’n a theine airson rudan glé bheag. ’S mar sin. [NOTES: slipped under ‘cainean’.
+          Definition: An upright man.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e101" type="person">
+        <form>
+          <orth>carran (E)</orth>
+        </form>
+        <def>Duine buaireanta. Duine nach leigeadh móran seachad gun na h-uibhir de bhuaireadh a dheanamh m’a dheidhinn. ’S mar sin. [SLIP: An annoying man.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e110" type="person">
+        <form>
+          <orth>duine amhaidh (E)</orth>
+        </form>
+        <def>Duine amh. ’Na dhòigh agus ’n a chòmhradh. Mar a shaoileadh sibh leis an ainm. [NOTES: slipped under ‘amhaidh’. Definition: A rough person in speech and manner.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e119" type="person">
+        <form>
+          <orth>dannarran (E)</orth>
+        </form>
+        <def>Duine a dheadh an airde [?] gu buaireadh ’s droch nàdur ’s mar sin gu math aithghearr. ’S a bhiodh mar sin an còmhnuidh. [SLIP: A man with an annoyingly bad temper.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e128" type="person">
+        <form>
+          <orth>fannlag (I)</orth>
+        </form>
+        <def>Duine gun mhóran neart ann, duine beag an cumantas. “Cha robh dad a dh’fheum unnda idir. Fannlagan a bh’unnda.” [SLIP: Usually a small, weak man.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e137" type="person">
+        <form>
+          <orth>gleidreaman (E)</orth>
+        </form>
+        <def>Rudeigin mar peitealan [q.v.]. Duine a bhiodh a’ deanamh móran á rud gle bheag. Gu math tric a’ deanamh dragha mu chuspairean beaga ’s mar sin, eadhon gu ìre a bhith deanamh miothlachd.
+          [SLIP: A man who makes a mountain out of a molehill, making small matters seem large.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e146" type="person">
+        <form>
+          <orth>gliogaid (I)</orth>
+        </form>
+        <def>Duine mór, gliogach. Faic MacGhillfh. “a thin clumsy man”. 6' suas agus sìos [?]: <graphic url="GlasgowMMacLeodnadurillust2.jpg" width="100px"/>
+        </def>
+        <note>[SLIP: A big, bald-headed, clumsy man.]</note>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e160" type="person">
+        <form>
+          <orth>iosgaideach (E)</orth>
+        </form>
+        <def>Duine, mór an cumantas, agus iosgaidean móra, fada aige. Biodh e trom no caol. [SLIP: A big man with large thighs.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e169" type="person">
+        <form>
+          <orth>lìogaire (E)</orth>
+        </form>
+        <def>Duine lìogach. (Faic MacGhillfh.) (lìgeach) Duine slaodach, cuideachd a bhiodh a’ lìogaireachd. Cha b’ann gu taobh molaidh a bhiodh ‘lìogaire’ a’ claonadh uair sam bith. [SLIP 1: A
+          slow-moving person, deliberate in gait.] [SLIP 2: lìogaireachd. Definition: Verb of ‘lìogaire’ q.v.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e178" type="person">
+        <form>
+          <orth>leth-chiallach (E agus I)</orth>
+        </form>
+        <def>Dìreach mar an t-ainm. [SLIP: Noun – half-wit.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e187" type="person">
+        <form>
+          <orth>malcaid (I)</orth>
+        </form>
+        <def>Duine mór, trom a rithist. Agus leisg ’s mar sin. Agus gun e deanamh móran feuma. [SLIP: A big, heavy man – also lazy.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e196" type="person">
+        <form>
+          <orth>oslaig (I)</orth>
+        </form>
+        <def>Duine mór, mór, trom. [SLIP: A big, heavily-built man.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e205" type="person">
+        <form>
+          <orth>peallag (I)</orth>
+        </form>
+        <def>Rudeigin an ceart aghaidh oslaig [q.v.]. Duine beag, sunndach, ’s mar sin. Mar bu trice cha b’ann a’ claonadh gu taobh a bhith cur onair air a chanadh tu ‘peallag’. [SLIP: Positive term
+          for a small, lively man.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e214" type="person">
+        <form>
+          <orth>mastaige</orth>
+        </form>
+        <def>Duine grànda, ’na dhòigh. Duine a nì rudan grànda, agus glé ghrànda. Chan eil fhios ’am an ann bho mastiff masluidh [?] (cù) a tha seo. Faic Dwelly. [SLIP: A man who would “do the dirty”
+          on other people.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e223" type="person">
+        <form>
+          <orth>peitealan (E)</orth>
+        </form>
+        <def>Duine gun chonn. A bhios a’ leum bho rud gu rud ’s mu shròn dhaoine. ’S a’ miodal ’s a’ brosgul ’s mar sin mar a shaoileadh sibh. [SLIP: A senseless man who jumps from one thing to the
+          other, annoying people. Also ingratiating.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e232" type="person">
+        <form>
+          <orth>salchar (E)</orth>
+        </form>
+        <def>Bidh e seo anns a h-uile h-àit. [SLIP: no definition.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e241" type="person">
+        <form>
+          <orth>sleigeire (E)</orth>
+        </form>
+        <def>Duine fada anns na lethcheannan ’s mar sin. <graphic url="GlasgowMMacLeodnadurillust3.jpg" width="100px"/>
+        </def>
+        <note>[SLIP: A man with long cheeks.]</note>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e255" type="person">
+        <form>
+          <orth>sìliche (E)</orth>
+        </form>
+        <def>Lìogaire [q.v.] de dhuine. (Faic lìogach aig MacGhillfh.) Duine a bhios a’ deanamh rudan lìogach, ’s mar sin; sly, cunning, ’s nach tig air uachdar aig an toiseach ’s mar sin. [SLIP: Sly,
+          clumsy person.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e264" type="person">
+        <form>
+          <orth>trusdar (E)</orth>
+        </form>
+        <def>Bidh e seo anns a h-uile h-àit. Agus faisg air anns an aon seadh. [SLIP: A “filthy fellow”.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e273" type="person">
+        <form>
+          <orth>truaghan (E)</orth>
+        </form>
+        <def>Air a chleachdadh dìreach mar a shaoileadh sibh. Againne dìreach mar a tha e aig MacGhillfh. [NOTES: slip not found.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e282" type="person">
+        <form>
+          <orth>duine gun diù (E)</orth>
+        </form>
+        <def>Air a chleachdadh dìreach mar a shaoileadh sibh. [NOTES: slip not found.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e291" type="person">
+        <form>
+          <orth>ceàrd (E)</orth>
+        </form>
+        <def>Bidh e seo air a chleachdadh faisg air an aon dòigh anns a h-uile h-àit. “’Se ceàrd a bh’ann.” “Nach b’e an ceàrd e.” [SLIP: no definitions.]</def>
+      </entry>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e299" subtype="h2">Boirionnaich</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e304" type="person">
+        <form>
+          <orth>cearchaill (I)</orth>
+        </form>
+        <def>Boirionnach tiugh, cruinn, trom ’n a pearsa. [SLIP: A rotund, heavily-built woman.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e313" type="person">
+        <form>
+          <orth>tuarnag (I)</orth>
+        </form>
+        <def>Faisg air an aon seòrsa ris cearchaill [q.v.] ach nas lugha ’n a pearsa agus nas òige an cumantas. (Chan e ‘tuairneag’, mar ’s na faclairean, a chanas sinn idir.) [SLIP: Usually younger
+          smaller than a cearchaill qv. but still rotund and heavily-built.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e322" type="person">
+        <form>
+          <orth>tumarraid (I)</orth>
+        </form>
+        <def>Faisg air an seòrsa ri cearchaill [q.v.] – mór, tiugh agus trom ’n a pearsa. [SLIP 1: A rotund heavily-built woman.] [SLIP 2: A big, tough woman. Seldom used of a boy.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e331" type="person">
+        <form>
+          <orth>fursair (E)</orth>
+        </form>
+        <def>Boirionnach rough. Og an cumantas. Teenager rough mar gu’n canadh tu. ’S ann eagalach tearc a chleachdas sinn ‘fursair’ ri balach. [SLIP: A young, tough woman. Seldom used of a
+          boy.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e340" type="person">
+        <form>
+          <orth>màrsach (I)</orth>
+        </form>
+        <def>Boirionnach a tha a’ sealltuinn gu bheil i làidir a thaobh nam fear – ag iarraidh thuca ’s mar sin. Tuigidh sibh fhein! Mar tha ‘màrsach’ againne tha e gu math duilich còmhradh a chur
+          air. [SLIP: A woman who shows she is strong vis-à-vis men.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e349" type="person">
+        <form>
+          <orth>làir (I)</orth>
+        </form>
+        <def>Mar a bha mi ag innse dhuibh aig Sràid Sauchiehall. [SLIP: no definition.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e358" type="person">
+        <form>
+          <orth>baobh (I)</orth>
+        </form>
+        <def>Mar aig Sràid Sauchiehall cuideachd. [SLIP: do definition.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e367" type="person">
+        <form>
+          <orth>ramailear (E)</orth>
+        </form>
+        <def>Boirionnach a bhiodh a’ leum ’s a falbh bho àite gu àite gun mhóran stamhnaidh bho thigeadh rud sam bith ’n a ceann. “A ramaileireach an siod ’s an seo.” “Ramailear eagalach a th’innte.”
+          [SLIP: An impetuous woman who would be up and off when it came into her head.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e376" type="person">
+        <form>
+          <orth>goibhneal (E)</orth>
+        </form>
+        <def>Boirionnach caol – chan ann cho caol ri ‘raod’ [q.v.] agus ‘sgriot’ [q.v.] ach dìreach caol gun a bhith cruinn mar boirionnach an cumantas. Agus gun a bhith ro ìosal ’na pearsa. Fuaimnich
+          mar seo: aoi, raoir, coibhneal, goibhneal. [SLIP: A slender woman, though not as thin as ‘raod’ or ‘sgriot’ qv.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e385" type="person">
+        <form>
+          <orth>raod (E)</orth>
+        </form>
+        <def>Boirionnach caol – glé chaol ’n a pearsa. “Raod eagalach a th’innte.” [SLIP: A very thin woman.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e394" type="person">
+        <form>
+          <orth>sgriot (E)</orth>
+        </form>
+        <def>An aon seòrsa ri raod [q.v.]. Faisg, faisg air co dhiu. “Sgriot eagalach a th’innte.” [SLIP: A very thin woman.]</def>
+      </entry>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e402">BAD COMPANY</head>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e406" subtype="h2">(1)</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e411">
+        <form>
+          <orth>sgoladh d’a theangaidh</orth>
+          <pron>[NOTES: one of the phrases suggested in the questionnaire.]</pron>
+        </form>
+        <def>[NOTES: one of the phrases suggested in the questionnaire.] [NOTES: slipped under ‘sgoladh’. Definition: Tongue-lashing.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e420">
+        <form>
+          <orth>sgearrach</orth>
+        </form>
+        <def>Tha aca anns na Hearadh – có dhiu bha ’san Scarp – ‘sgearrach’. “Thug mi sgearrach air, no dhà.” [SLIP: Scarp word for ‘tongue-lashing.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e429">
+        <form>
+          <orth>[teanga]</orth>
+        </form>
+        <def>“Thug e teanga dha.” “Thug e pìos d’a theangaidh dha.” [SLIP: Tongue-lashing.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e438">
+        <form>
+          <orth>[seatha]</orth>
+        </form>
+        <def>“Thug e seatha dha.” – He gave him a telling off. “Thug mi seatha dha.” Cha chreid mi nach robh againn cuideachd ‘seatha’ airson ‘cheek’: “Thug e seatha dha.” – He gave him cheek. [SLIP
+          1: Thug e seatha dha. He gave him a telling-off. Also: he gave him cheek.] [SLIP 2: Cheek, telling-off.]</def>
+      </entry>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e446" subtype="h2">(2)</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e451" type="person">
+        <form>
+          <orth>duine fada as</orth>
+        </form>
+        <def>Tha e seo againn. Agus ’na aghaidh: duine faisg ort. [NOTES: slip not found.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e460" type="person">
+        <form>
+          <orth>[duine faisg ort]</orth>
+        </form>
+        <def>“Tha e cho faisg (ort).” (Faic ‘duine amhaidh’ [q.v.] air an duilleig eile.) [SLIP: Friendly.]</def>
+      </entry>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e468" subtype="h2">(3)</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e473" type="person">
+        <form>
+          <orth>cabag</orth>
+        </form>
+        <def>Blether, gossip: tha e seo againn. Cabag agus cabaire. Agus preigeadair agus preigire.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e482" type="person">
+        <form>
+          <orth>[cabaire]</orth>
+          <pron>[See cabag.]</pron>
+        </form>
+        <def>[See cabag.] [SLIP: Gossip, blether.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e491" type="person">
+        <form>
+          <orth>[preigeadair]</orth>
+          <pron>[See cabag.]</pron>
+        </form>
+        <def>[See cabag.] [SLIP: Gossip, blether.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e500" type="person">
+        <form>
+          <orth>[preigire]</orth>
+          <pron>[See cabag.]</pron>
+        </form>
+        <def>[See cabag.] [SLIP: Gossip, blether.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola169">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>agus mar sin air adhair [sic]</def>
+      </entry>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e517">GOOD COMPANY</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e522">
+        <form>
+          <orth>[cuideachd]</orth>
+        </form>
+        <def>“Bha e math ann an cuideachd.” – “Good company”. [NOTES: slip not found.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e531">
+        <form>
+          <orth>[cridhe]</orth>
+        </form>
+        <def>“Bha cridhe math ann.” – warm-hearted and kind. [SLIP: Warm-hearted.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e540" type="person">
+        <form>
+          <orth>[blàth-chridheach]</orth>
+        </form>
+        <def>“Bha e blàth-chridheach.” – warm-hearted and kind. [SLIP: Warm-hearted.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e549" type="person">
+        <form>
+          <orth>geur</orth>
+        </form>
+        <def>Witty. “Tha Domhnull geur.”</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e558" type="person">
+        <form>
+          <orth>[beurr]</orth>
+        </form>
+        <def>Anns na Baigh anns an sgìre againn (Uig an Iar), ’se ‘beurr’ a chanas iad mar a chanas sinne ‘geur’ [q.v.]: “Tha e cho beurr.” [SLIP: Said in ‘na Baigh’ (Sgìre Uig) for ‘geur’ –
+          ‘witty’.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e567" type="person">
+        <form>
+          <orth>eirmiseach</orth>
+        </form>
+        <def>Witty. “Tha e eirmiseach.”</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e576" type="person">
+        <form>
+          <orth>deas air a theangaidh</orth>
+        </form>
+        <def>Witty. “Tha e deas air a theangaidh.” [NOTES: slipped under ‘deas’.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e585">
+        <form>
+          <orth>[freagairt]</orth>
+        </form>
+        <def>“Tha a fhreagairt gu math faisg air.” – [witty]. [NOTES: slip not found.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e594">
+        <form>
+          <orth>[cheerful]</orth>
+        </form>
+        <def>Cha chreid mi gu bheil móran sam bith agam airson ‘cheerful’.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e603" type="person">
+        <form>
+          <orth>[còmhraideach]</orth>
+        </form>
+        <def>A good talker. “Tha e còmhraideach.” [SLIP: Talkative.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e612">
+        <form>
+          <orth>[còmhraidh]</orth>
+        </form>
+        <def>“Tha pailteas còmhraidh aige.” – a good talker. [NOTES: slip not found.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola170">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>Tuilleadh ri shuas.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e630">
+        <form>
+          <orth>[tròcair]</orth>
+        </form>
+        <def>Rinn e tròcair rium [one of the phrases suggested in the questionnaire]. “Rinn e tròcair orm” a chanas sinne. [SLIP: He did me a favour.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e639">
+        <form>
+          <orth>[fàbhar]</orth>
+        </form>
+        <def>“Rinn e fàbhar rium”, againne. [SLIP: He did me a favour.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e648">
+        <form>
+          <orth>céileach</orth>
+        </form>
+        <def>’Se ‘céileach’ a th’againne [for ‘céilidhiche’ suggested in the questionnaire]. [SLIP: Entertaining, of a person.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e657">
+        <form>
+          <orth>abhcaid</orth>
+        </form>
+        <def>Tha e seo againn. [Joking – one of the words suggested in the questionnaire.] [NOTES: slip not found.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola171">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>Tha againn:</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e675" type="person">
+        <form>
+          <orth>duine éibhinn</orth>
+          <pron>[NOTES: slip not found.]</pron>
+        </form>
+        <def>[NOTES: slip not found.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e684" type="person">
+        <form>
+          <orth>duine aincheardach</orth>
+          <pron>[NOTES: slipped under ‘aincheardach’. Definition: Funny man.]</pron>
+        </form>
+        <def>[NOTES: slipped under ‘aincheardach’. Definition: Funny man.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e693" type="person">
+        <form>
+          <orth>duine dibhearsaineach</orth>
+          <pron>[NOTES: slipped under ‘dibhearsaineach’. Definition: Funny man.]</pron>
+        </form>
+        <def>[NOTES: slipped under ‘dibhearsaineach’. Definition: Funny man.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e702" type="person">
+        <form>
+          <orth>duine àraid</orth>
+        </form>
+        <def>(Fuaimnich àrraid.) [NOTES: slip not found.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola172">
+        <form>
+          <orth>[‘funny man’]</orth>
+        </form>
+        <def>Iad seo uile airson mar gu’n canadh sibh ‘funny man’. Tuigidh sibh fhéin. Tha barrachd air an seo againn na’n cuimhnichinn orra.</def>
+      </entry>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e719">CHEERFUL</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e724">
+        <form>
+          <orth>[sona]</orth>
+        </form>
+        <def>“Nach e tha sona dheth.” – bha e seo againn. Tha againn: “Cho sona ri bó ann an loch.” “Cho sona ’s a tha an là cho fada.” [SLIP: no definition.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e733" type="person">
+        <form>
+          <orth>[duine dòigheil]</orth>
+        </form>
+        <def>Easy-going, self-control, patience. “Tha e cho dòigheil.” “’Se duine dòigheil a tha an Calum.” “Dòmhnull, ’s e cho dòigheil.” – happy, easy-going, patient. [NOTES: slipped under
+          ‘dòigheil’. Definition: Easy-going.]</def>
+      </entry>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e741">GLOOMY</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e746" type="person">
+        <form>
+          <orth>dreunasach, dreunaire</orth>
+        </form>
+        <def>Tha na dhà-sa againn. [NOTES: ‘dreunasach’ suggested in the questionnaire – ‘a surly person’.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola173">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>Tha móran ainmeannan againn, na’n cuimhnichinn-sa orra, le ‘an’, ‘ach’, ‘aire’, ’s mar sin, ’s an deireadh.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e764" type="person">
+        <form>
+          <orth>dranndan</orth>
+          <pron>[SLIP: surly.]</pron>
+        </form>
+        <def>[SLIP: surly.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e773" type="person">
+        <form>
+          <orth>dreunasach</orth>
+          <pron>[NOTES: suggested in the questionnaire – ‘a surly person’. Slip not found.]</pron>
+        </form>
+        <def>[NOTES: suggested in the questionnaire – ‘a surly person’. Slip not found.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e782" type="person">
+        <form>
+          <orth>dreunaire</orth>
+          <pron>[SLIP: surly.]</pron>
+        </form>
+        <def>[SLIP: surly.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e791" type="person">
+        <form>
+          <orth>dreimisg</orth>
+          <pron>[SLIP: surly.]</pron>
+        </form>
+        <def>[SLIP: surly.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e800">
+        <form>
+          <orth>mar ugh air aran</orth>
+        </form>
+        <def>’S e ‘mar ugh air bonnach’ a bh’againne. [NOTES: slipped under ‘bonnach’. Definition: Excited.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e809">
+        <form>
+          <orth>[sìos]</orth>
+        </form>
+        <def>“Tha e sìos (’s an inntinn).” “Tha e fada sìos ’s an inntinn.” – depressed.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e818">
+        <form>
+          <orth>[impetuous]</orth>
+        </form>
+        <def>Againne mar a th’aig MacGhillfh.: fiadhaich, feargach, cas, brais.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e827" type="person">
+        <form>
+          <orth>[fiadhaich]</orth>
+          <pron>[Impetuous.]</pron>
+        </form>
+        <def>[Impetuous.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e836" type="person">
+        <form>
+          <orth>[feargach]</orth>
+          <pron>[Impetuous.]</pron>
+        </form>
+        <def>[Impetuous.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e845" type="person">
+        <form>
+          <orth>[cas]</orth>
+          <pron>[Impetuous.]</pron>
+        </form>
+        <def>[Impetuous.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e854" type="person">
+        <form>
+          <orth>[brais]</orth>
+          <pron>[Impetuous.]</pron>
+        </form>
+        <def>[Impetuous.]</def>
+      </entry>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e862">A GOOD MAN</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola174">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>Cha chreid mi gu bheil càch againne mu an seo ach na tha cumanta anns a h-uile h-àit.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e876" type="person">
+        <form>
+          <orth>duinne grinn</orth>
+        </form>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e882" type="person">
+        <form>
+          <orth>duine onarach</orth>
+        </form>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e888" type="person">
+        <form>
+          <orth>duine ceart</orth>
+        </form>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e894" type="person">
+        <form>
+          <orth>fìor dhuine</orth>
+        </form>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e900">
+        <form>
+          <orth>’s mar sin.</orth>
+        </form>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e906" type="person">
+        <form>
+          <orth>[gasda]</orth>
+        </form>
+        <def>Thuirt mi roimhe gu bheil againn mu dhuine diadhaidh – duine stòlda diadhaidh, ged nach bitheadh e air leth soilleir mar an fheadhainn chomharraichte – gasda. “’Se gille gasd a th’ann.”
+          ’Se ‘gille’ a chanadh iad ged a bhiodh an duine pòsda agus ’na sheanair. [SLIP: A religious man – irrespective of age.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e915" type="person">
+        <form>
+          <orth>[ionraic]</orth>
+        </form>
+        <def>Duine ionraic – pure. Tha seo againn. Bhà, có dhiù.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e924" type="person">
+        <form>
+          <orth>grinn</orth>
+        </form>
+        <def>Canaidh sinn ‘grinn’ cuideachd mu dhuine a bhios ’n a aodach ’s mar sin. Snog, glan, sgiobalta. “Tha Calum cho grinn.” “Tha e cho grinn a h-uile turus a théid e a mach.” “Tha e ’ga
+          chumail fhéin cho grinn.” Canaidh sinn ‘grinn’ cuideachd mu ghrinn ann an giùlan. [SLIP: Tidy; also ‘fine’ of behaviour.]</def>
+      </entry>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e932">A BAD MAN</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e937">
+        <form>
+          <orth>[gràisg]</orth>
+        </form>
+        <def>Chan ’eil fhios ’am a bheil e ann an àiteachan eile. Chanadh na bodaich againne ‘a’ ghràisg’ ri clann an cumantas. Gu h-àraidh nuair a bhiodh sinn a’ ruith a muigh. ’S mar sin. [SLIP:
+          ‘Rascals’ – particularly used by older people when children e.g. running out.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e946" type="person">
+        <form>
+          <orth>crosd</orth>
+        </form>
+        <def>’Se seo a chanas sinn mu chloinn a thà crosd. Cuideachd ‘crosd’ mu dhuine a bhiodh dona gu sabaid, ’s mar sin. “Bha e crosd.” “Duine crosd.” (Bha fear thall againne an Uig ri linn mo
+          sheanar ris an canadh iad “Dòmhnull Bàn Crosd”. Duine tough nuair a bha e òg.) [SLIP: Mischievous (of children). Also (of man) tough, bad-tempered, spoiling for a fight.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e955" type="person">
+        <form>
+          <orth>ain-diadhach</orth>
+        </form>
+        <def>Tha e seo againn, dìreach mar a th’aig Dwelly (faic t-d 15). Ach chan eil e againn airson ‘atheist’. ’S ann a tha e againn arison ungodly person. [SLIP: Ungodly person (not
+          ‘atheist’.)]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e964" type="person">
+        <form>
+          <orth>fineach</orth>
+        </form>
+        <def>(Fuaimnich ‘fionach’ – seo mar tha e againne.) Tha seo againn airson duine mar tha seo shuas [i.e. ain-diadhach]. Duine gun dia mar gu’n canadh tu, heathen. Faic ‘fineachail’ ag Dwelly.
+          “Domhnull Mór ’se fineach a th’ann.” “’Se fineach a th’ann an Calum Ruadh.” [SLIP: Atheist.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola175">
+        <form>
+          <orth>[note]</orth>
+          <pron>[NOTES: slips seem to stop here. There are no more ticks in the questionnaire either.]</pron>
+        </form>
+        <def>[NOTES: slips seem to stop here. There are no more ticks in the questionnaire either.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola176">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>Tuilleadh air cuimhneachadh air bho an phàipear eile:</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e991">
+        <form>
+          <orth>daorach (I)</orth>
+        </form>
+        <def>Mu dheoch ’s mar sin. “Tha e ’ga dhalladh leis an daoraich.” Agus “Tha e ’ga dhalladh” fhein (gun ‘leis an daoraich’ idir).  “Domhnull Thormoid ’s e ’ga dhalladh.” (Dòmhnull Thormoid leis
+          an daoraich.) “Bha e ’ga sheann dalladh.”</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1000">
+        <form>
+          <orth>[dalladh]</orth>
+          <pron>[See daorach.]</pron>
+        </form>
+        <def>[See daorach.]</def>
+      </entry>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1008">A SUCCESSFUL MAN</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1013">
+        <form>
+          <orth>sùil-dhìleas</orth>
+        </form>
+        <def>Tha e seo againn. [NOTES: one of the words suggested in the questionnaire – no definition.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1022">
+        <form>
+          <orth>[tiuc]</orth>
+        </form>
+        <def>Air a thiuc fhéin. Tha e seo againn. Agus ‘air a gheabhraisde fhéin’. [NOTES: one of the phrases suggested in the questionnaire – ‘doing something on his own initiative’.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1031">
+        <form>
+          <orth>[geabhraisde]</orth>
+          <pron>[See tiuc.]</pron>
+        </form>
+        <def>[See tiuc.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1040" type="person">
+        <form>
+          <orth>corra-chriostag</orth>
+        </form>
+        <def>Chuala mi am facal uair no dhà uaireigin ach chan eil bladh sam bith agam mu a dheidhinn. [NOTES: one of the words suggested in the questionnaire – ‘a woman who is always working’.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1049" type="person">
+        <form>
+          <orth>cosnaiche</orth>
+        </form>
+        <def>Hard-working, ambitious, capable, lively. “’Se cosnaiche math a bh’ann.” (Faic na faclairean.) Tha ‘cosnaiche’ againn, cuideachd, airson nam fiaclan gearraidh (incisors) gu h-araidh ann
+          an ainmhidhean, bó ’s mar sin. “Na cosnaichean” – the incisors.</def>
+      </entry>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1057">A FAILURE</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1062" type="person">
+        <form>
+          <orth>[sgluis]</orth>
+        </form>
+        <def>Tha againn ann an Leòdhas ‘sgluis’ airson tè de’n t-seòrsa-sa [i.e. sgliùrach – word suggested in the questionnaire – ‘an untidy housewife’.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1071" type="person">
+        <form>
+          <orth>dradharna</orth>
+        </form>
+        <def>Chan eil e seo againn idir. [NOTES: one of the words suggested in the questionnaire – ‘an insignificant, useless person’.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1080" type="person">
+        <form>
+          <orth>leisgeadair</orth>
+        </form>
+        <def>Tha againn ‘leisgeadair’. Agus, cha chreid mi, cuideachd, ‘leisgeach’ airson boirionnach de’n t-seòrsa.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1089" type="person">
+        <form>
+          <orth>[leisgeach]</orth>
+          <pron>[See leisgeadair.]</pron>
+        </form>
+        <def>[See leisgeadair.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1098" type="person">
+        <form>
+          <orth>learach</orth>
+        </form>
+        <def>Agus ‘learach’ airson boirionnach a bhiodh comasach (glé chomasach) air obair ’s mar sin a dheanamh, ach a bha leisg agus nach robh ’ga dhèanamh. Chan eil fhios agam an ann bho ‘leireach’
+          a thàinig ‘learach’.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1107" type="person">
+        <form>
+          <orth>luid</orth>
+        </form>
+        <def>Tha seo againn air an aon sraoin ri sgluis [q.v.]. “’Se luid a th’innte.” Canaidh sinn ‘luid’ mar as trice ri boirionnach.</def>
+      </entry>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1115">A WISE MAN</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1120" type="person">
+        <form>
+          <orth>tùrail</orth>
+        </form>
+        <def>Intelligent or skilful. Tha e againn an dà chuid. Ach na’s motha ‘skilful’. Tùrail – math air a làmhan a thaobh fiodha agus gnothaichean eile, math air tuigsinn dé mar a tha cùisean mu na
+          cuspairean sin etc. agus math agus grinn air dèanamh.</def>
+      </entry>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1128">FOOLISH</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1133" type="person">
+        <form>
+          <orth>sgimileir</orth>
+        </form>
+        <def>Chan eil e againn.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1142" type="person">
+        <form>
+          <orth>òinseach (I)</orth>
+        </form>
+        <def>Thà [e againn]. [NOTES: one of the words suggested in the questionnaire – ‘a foolish woman’.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1151" type="person">
+        <form>
+          <orth>bumalair (E)</orth>
+        </form>
+        <def>Thà [ e againn]. [NOTES: one of the words suggested in the questionnaire – ‘a large bumbling man’.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola177">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>Tha grunnan ainmeannan againn mar:</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1169" type="person">
+        <form>
+          <orth>bumallair</orth>
+          <pron>[sic]</pron>
+        </form>
+        <def>[sic] </def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1175" type="person">
+        <form>
+          <orth>buaistear (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1181" type="person">
+        <form>
+          <orth>blabhdaire (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1187" type="person">
+        <form>
+          <orth>bladhastair (E)</orth>
+        </form>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola178">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>(Faic na faclairean airson ‘blabhdaire’ agus ‘bladhastair’.)</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola179">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>Chanainn gu bheil ‘bumalair’ agus ‘buaisteir’ [sic] ann an iomadh àite.</def>
+      </entry>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1210">BOLD</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1215" type="person">
+        <form>
+          <orth>aghannail</orth>
+        </form>
+        <def>A forward person. Bold. Chanainn gur h-ann bho ‘aghaidh’ a tha seo: aghaidh, aghannail.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1224">
+        <form>
+          <orth>[aghaidh]</orth>
+        </form>
+        <def>Chanadh iad againne, a maoidhean òirnn nuair a bhiodh sinn crosd nuair a bha sinn òg: “Cuiridh mi ìomhaigh na h-agh’ dhiot.” Cho fada agus a thuig mise, có dhiu, ’se “cuiridh mi ìomhaigh
+          na h-aghaidh dhiot” a bha iad a’ ciallachadh.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1233">
+        <form>
+          <orth>tàidsear (E)</orth>
+        </form>
+        <def>Chan eil idir againn. ’Sann a tha ‘tàidsear’ againne, mar: “Thug e tàidsearan dhà (no air).” – Thug e broadsides dha (ann am barrachd air aon seadh). Tuigidh sibh fhein.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1242" type="person">
+        <form>
+          <orth>làidir (1)</orth>
+        </form>
+        <def>Bold.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1251" type="person">
+        <form>
+          <orth>ladarna (2)</orth>
+        </form>
+        <def>Bold.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1260" type="person">
+        <form>
+          <orth>dàna (3)</orth>
+        </form>
+        <def>Bold.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola180">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>’Se (1) agus (3) as fheàrr a fhreagras mar a tha e againne.</def>
+      </entry>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1277">TIMID</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola181">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>Againne “an easily led man”:</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1291">
+        <form>
+          <orth>[blath-laoghain]</orth>
+        </form>
+        <def>“Tha e ’n a bhlath-laoghain aice.”</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1300">
+        <form>
+          <orth>[clobhda-sgùraidh] (E)</orth>
+        </form>
+        <def>“Tha e ’n a chlobhda-sgùraidh.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola182">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>’S mar sin.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1318">
+        <form>
+          <orth>[mòinteach]</orth>
+        </form>
+        <def>“Tha e furasda a thoirt a’ mhòinteach.”</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1327">
+        <form>
+          <orth>[taobh]</orth>
+        </form>
+        <def>“Tha e furasda a thoirt a thaobh.”</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1336">
+        <form>
+          <orth>[leannan-òinsich]</orth>
+        </form>
+        <def>Cha chreid mi gu bheil ‘leannan-òinsich’ againn idir. [NOTES: one of the phrases suggested in the questionnaire – ‘an easily led man’.]</def>
+      </entry>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1344">PROUD</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1349">
+        <form>
+          <orth>[bòsda]</orth>
+        </form>
+        <def>Cha chreid mi gu bheil aon fhacal sam bith againn airson an fheadhainn-sa shuas ach airson ‘boast’ – bòsda, uaill.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1358">
+        <form>
+          <orth>[uaill]</orth>
+          <pron>[See bòsda.]</pron>
+        </form>
+        <def>[See bòsda.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola183">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>Ma thà facail ann, cha chuimnich mise orra aig an àm-sa.</def>
+      </entry>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1375">HUMBLE</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1380" type="person">
+        <form>
+          <orth>iriosal</orth>
+        </form>
+        <def>Humble. “Tha Domhnull cho iriosal ri duine an àite sam bith”. “Tha e cho beag uaill [q.v.]”</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1389" type="person">
+        <form>
+          <orth>dìblidh</orth>
+        </form>
+        <def>Servile. ’Se ‘dìblidh’, saoilidh mi, a th’againne an còmhnuidh.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1398" type="person">
+        <form>
+          <orth>miodal</orth>
+        </form>
+        <def>Fawning.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1407">
+        <form>
+          <orth>brosgul</orth>
+        </form>
+        <def>Flattery. “Leis a’ bhrosgul.”</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1416">
+        <form>
+          <orth>beulachas</orth>
+        </form>
+        <def>Flattery. “Leis a’ bheulachas.” “E cho beulach.”</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola184">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>’S mar sin.</def>
+      </entry>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1433">POLITE</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1438">
+        <form>
+          <orth>[boirionn]</orth>
+        </form>
+        <def>Feminine (used of a man). “Tha e cho boirionn.”</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1447" type="person">
+        <form>
+          <orth>[grinn]</orth>
+        </form>
+        <def>Well-mannered. “Tha e cho grinn ’s cho modhail.” “Tha e cho grinn.”</def>
+      </entry>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1455">COARSE</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1460" type="person">
+        <form>
+          <orth>[curs]</orth>
+        </form>
+        <def>Coarse, bad-mannered. “Tha e curs.” “Tha e curs ’n a dhòigh.”</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1469">
+        <form>
+          <orth>[firionn]</orth>
+        </form>
+        <def>Masculine (used of a woman). “Tha i cho firionn.”</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1478" type="person">
+        <form>
+          <orth>fursair</orth>
+        </form>
+        <def>’Se ‘fursair’ a th’againne [for ‘cursair’ – one of the words suggested in the questionnaire – ‘a rough forward person (usually a woman)’]. “’Se fursair eagalach a th’innte.” Tha am facal
+          ‘fursaireachd’ againn cuideachd agus ’ga chleachdadh.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1487">
+        <form>
+          <orth>[fursaireachd]</orth>
+          <pron>[See fursair.]</pron>
+        </form>
+        <def>[See fursair.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1496">
+        <form>
+          <orth>biast</orth>
+        </form>
+        <def>Tha againn cuideachd mu bhoirionnach, ‘biast’ no ‘biasd’. “’Se biast a th’innte.” (curs agus garg) Cuideachd, boirionnach cruaidh agus marbh ann am faireachdainn: biast. “Nach b’e a’
+          bhiast i!” Cleas a’ bhoirionnaich a chaill an duine le bàthadh ’s nach do chuir e móran sum bith oirre. “Nach b’e a’ bhiast i!”</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1505">
+        <form>
+          <orth>biasd</orth>
+          <pron>[See biast.]</pron>
+        </form>
+        <def>[See biast.]</def>
+      </entry>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1513">BAD TYPES</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1518" type="person">
+        <form>
+          <orth>duine droch nàdurach</orth>
+        </form>
+        <def>Bad tempered.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1527" type="person">
+        <form>
+          <orth>duine buaireanta</orth>
+        </form>
+        <def>Troublemaker.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1536" type="person">
+        <form>
+          <orth>biorag</orth>
+        </form>
+        <def>Chan eil seo againn idir. [NOTES: one of the words suggested in the questionnaire – ‘an acid-tongued woman’.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1545" type="person">
+        <form>
+          <orth>laghail</orth>
+        </form>
+        <def>Tha againn ‘laghail’ agus ‘laghalachd’ [for ‘laghanta’ – one of the words suggested in the questionnaire – ‘always laying down the law (?).]. “Tha e cho laghail.” – litigious. “Thusa agus
+          do laghalachd.”</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1554">
+        <form>
+          <orth>[laghalachd]</orth>
+          <pron>[See laghail.]</pron>
+        </form>
+        <def>[See laghail.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-idola185">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>Chan eil facail againn airson duine nosey, suspicious, cunning, stubborn, ’s mar sin idir. Ach mar seo:</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1572">
+        <form>
+          <orth>[sròn]</orth>
+        </form>
+        <def>“Tha e le a shròn anns a h-uile rud.” – duine nosey.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1581" type="person">
+        <form>
+          <orth>[an-amharusach]</orth>
+        </form>
+        <def>“Tha e cho an-amharusach.” – duine suspicious.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1590" type="person">
+        <form>
+          <orth>[carach]</orth>
+        </form>
+        <def>“Tha e cho carach.” – duine cunning.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1599" type="person">
+        <form>
+          <orth>[seòlta]</orth>
+        </form>
+        <def>“Tha e cho seòlta.” – duine cunning.</def>
+      </entry>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1607">YOUNG</head>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1611" subtype="h2">“Growing up”</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1616" type="person">
+        <form>
+          <orth>pocan</orth>
+        </form>
+        <def>Chan eil e againn. [NOTES: one of the words suggested in the questionnaire – ‘tubby, cheeky boy’.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1625">
+        <form>
+          <orth>[òirleach]</orth>
+        </form>
+        <def>“Cha d’thàinig òirleach air.” – airson “Cha deacha gnogadh air.” [NOTES: one of the phrases suggested in the questionnaire – ‘he hasn’t grown an inch’.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1634">
+        <form>
+          <orth>[dub]</orth>
+        </form>
+        <def>“Cha d’thàinig dub air.” – airson “Cha deacha gnogadh air.” [NOTES: one of the phrases suggested in the questionnaire – ‘he hasn’t grown an inch’.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1643" type="person">
+        <form>
+          <orth>seanacharra</orth>
+        </form>
+        <def>’Se ‘seanacharra’ a chanas sinne [for ‘seanabheulach’ – one of the words suggested in the questionnaire – ‘used of a child who talks like a grown-up’.]</def>
+      </entry>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1651">OLD</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1656" type="person">
+        <form>
+          <orth>bramalaid</orth>
+        </form>
+        <def>Cho coltach ri facal a bhiodh aca ’s na Hearadh. Dìreach mar facal a thigeadh bho bheul “A’ Bhonnaich” as an Scarp. [NOTES: one of the words suggested in the questionnaire – ‘a lazy,
+          useless woman’.]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1665" type="person">
+        <form>
+          <orth>brogaiche no brogach</orth>
+        </form>
+        <def>Cha chreid mi gu bheil am facal ’sa ann an Leòdhas air fad. [NOTES: one of the words suggested in the questionnaire – ‘a spry old man’.]</def>
+      </entry>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1673">AGUS FACLAN SAM BITH EILE</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodnadur-d0e1678" type="person">
+        <form>
+          <orth>griupag (I)</orth>
+        </form>
+        <def>Boirionnaich nach eil air leth tarruingeach air dhòigh sam bith. ’N am pearsa, beag. ’S mar sin. Cuideachd nach tugadh dhuit móran (no nì sam bith) mun a faigheadh i uibhir eile air a
+          shon. “’Se griupag a th’innte.” Bha Taillear Eadar-dha-Fhaodhail aig an robh am bus, a’ tighinn eadar Steòrnabhagh agus an t-Acha Mór. Ghoid cailleach anns a’ bhus ball bathair a bh’aig fear
+          de na bh’ann. Nuair a fhuair Pàdruig (an Taillear) a mach có a rinn a’ ghoid ’s e an rud a thuirt e ris a’ chaillich: “A ghriupag ghrànda, nan robh fhios agam-sa gur h-e thus’ a bh’ann.”
+            <graphic url="GlasgowMMacLeodnadurillust4.jpg" width="200px"/>
+        </def>
+      </entry>
+    </body>
+  </text>
 </TEI>

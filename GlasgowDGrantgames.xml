@@ -1,231 +1,213 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Games_GlasgowDGrantgames">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <location>
-               <placeName>Glasgow</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>Donald Grant</persName>
-               <persName xml:lang="gd">Domhnall Grannd</persName>
-               <age>66</age>
-               <birth>
-                  <placeName>[Skye, Camus Chroise]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Recreation: Toys, Games, Contests</term>
-               <term>Cur-seachadan: Dèideagan, Geamaichean is Farpaisean</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head xml:id="Games_GlasgowDGrantgames-d0e32">1. Toys</head>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e37">
-            <form>
-               <orth>doileag (f)</orth>
-            </form>
-            <def>doll.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e46">
-            <form>
-               <orth>gille-mirein (m)</orth>
-            </form>
-            <def>top.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e55">
-            <form>
-               <orth>fìdeag (f)</orth>
-            </form>
-            <def>whistle.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e64">
-            <form>
-               <orth>caman (m)</orth>
-            </form>
-            <def>shinty stick.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e73">
-            <form>
-               <orth>dreallag (f)</orth>
-            </form>
-            <def>hammock of string.</def>
-         </entry>
-         <head xml:id="Games_GlasgowDGrantgames-d0e81">2. Swings, see-saws</head>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e86">
-            <form>
-               <orth>dreallag (f)</orth>
-            </form>
-            <def>swing.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e95">
-            <form>
-               <orth>làir-mhaide (f)</orth>
-            </form>
-            <def>see-saw.</def>
-         </entry>
-         <head
-             xml:id="Games_GlasgowDGrantgames-d0e103"
-            >3. Games played indoors</head>
-         <head
-             xml:id="Games_GlasgowDGrantgames-d0e107"
-            >4. Outdoor games not involving a ball or puck</head>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e112">
-            <form>
-               <orth>goid a’ chrùin</orth>
-            </form>
-            <def>two opposing sides facing on mid-boundary; aim to “steal” crowns or caps.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e121">
-            <form>
-               <orth>falach-fead</orth>
-            </form>
-            <def>hide-and-seek.</def>
-         </entry>
-         <head
-             xml:id="Games_GlasgowDGrantgames-d0e129"
-            >5. Ball games</head>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e134">
-            <form>
-               <orth>iomain (f)</orth>
-            </form>
-            <def>shinty.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e143">
-            <form>
-               <orth>caman (m)</orth>
-            </form>
-            <def>shinty stick.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e152">
-            <form>
-               <orth>ball (f)</orth>
-            </form>
-            <def>ball.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e161">
-            <form>
-               <orth>cuir a thadhal</orth>
-            </form>
-            <def>score a goal.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e170">
-            <form>
-               <orth>speilean</orth>
-            </form>
-            <def>game played with bat and stick which hoisted ball from hollow (cat and bat?). I have forgotten the rules.</def>
-         </entry>
-         <head
-             xml:id="Games_GlasgowDGrantgames-d0e178"
-            >6. Athletics</head>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e183">
-            <form>
-               <orth>car-a-mhoiltein</orth>
-            </form>
-            <def>somersault.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e192">
-            <form>
-               <orth>a’ trotan</orth>
-            </form>
-            <def>jogging, trotting.</def>
-         </entry>
-         <head
-             xml:id="Games_GlasgowDGrantgames-d0e200"
-            >7. Heavy events</head>
-         <entry xml:id="Games_GlasgowDGrantgames-idola107">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>(I do not have any special words for these activities. Parallel expressions were used e.g. a’ tilgeil an ùird.)</def>
-         </entry>
-         <head
-             xml:id="Games_GlasgowDGrantgames-d0e213"
-            >8. Contests involving pulling or pushing</head>
-         <head
-             xml:id="Games_GlasgowDGrantgames-d0e217"
-            >9. Boxing and wrestling</head>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e222">
-            <form>
-               <orth>a’ carachd</orth>
-            </form>
-            <def>wrestling.</def>
-         </entry>
-         <head
-             xml:id="Games_GlasgowDGrantgames-d0e230"
-            >10. Blows in general</head>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e235">
-            <form>
-               <orth>sgleog (f)</orth>
-            </form>
-            <def>slap (on face).</def>
-         </entry>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e244">
-            <form>
-               <orth>breab (f)</orth>
-            </form>
-            <def>kick.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e253">
-            <form>
-               <orth>sainnseal (m)</orth>
-            </form>
-            <def>a severe blow.</def>
-         </entry>
-         <head
-             xml:id="Games_GlasgowDGrantgames-d0e261"
-            >11. Injury and exhaustion</head>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e266">
-            <form>
-               <orth>sùil ghorm</orth>
-            </form>
-            <def>black eye.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e275">
-            <form>
-               <orth>sgriab (f), sgriabadh</orth>
-            </form>
-            <def>scratching, scratch.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e284">
-            <form>
-               <orth>ann am paiseanadh</orth>
-            </form>
-            <def>knocked unconscious.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e293">
-            <form>
-               <orth>pìochan (m)</orth>
-            </form>
-            <def>panting.</def>
-         </entry>
-         <entry xml:id="Games_GlasgowDGrantgames-d0e302">
-            <form>
-               <orth>a’ dol mu seach</orth>
-            </form>
-            <def>staggering.</def>
-         </entry>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <location>
+          <placeName>Glasgow</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>Donald Grant</persName>
+          <persName xml:lang="gd">Domhnall Grannd</persName>
+          <age>66</age>
+          <birth>
+            <placeName>[Skye, Camus Chroise]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Recreation: Toys, Games, Contests</term>
+          <term>Cur-seachadan: Dèideagan, Geamaichean is Farpaisean</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="Games_GlasgowDGrantgames-d0e32">1. Toys</head>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e37">
+        <form>
+          <orth>doileag (f)</orth>
+        </form>
+        <def>doll.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e46">
+        <form>
+          <orth>gille-mirein (m)</orth>
+        </form>
+        <def>top.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e55">
+        <form>
+          <orth>fìdeag (f)</orth>
+        </form>
+        <def>whistle.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e64">
+        <form>
+          <orth>caman (m)</orth>
+        </form>
+        <def>shinty stick.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e73">
+        <form>
+          <orth>dreallag (f)</orth>
+        </form>
+        <def>hammock of string.</def>
+      </entry>
+      <head xml:id="Games_GlasgowDGrantgames-d0e81">2. Swings, see-saws</head>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e86">
+        <form>
+          <orth>dreallag (f)</orth>
+        </form>
+        <def>swing.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e95">
+        <form>
+          <orth>làir-mhaide (f)</orth>
+        </form>
+        <def>see-saw.</def>
+      </entry>
+      <head xml:id="Games_GlasgowDGrantgames-d0e103">3. Games played indoors</head>
+      <head xml:id="Games_GlasgowDGrantgames-d0e107">4. Outdoor games not involving a ball or puck</head>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e112">
+        <form>
+          <orth>goid a’ chrùin</orth>
+        </form>
+        <def>two opposing sides facing on mid-boundary; aim to “steal” crowns or caps.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e121">
+        <form>
+          <orth>falach-fead</orth>
+        </form>
+        <def>hide-and-seek.</def>
+      </entry>
+      <head xml:id="Games_GlasgowDGrantgames-d0e129">5. Ball games</head>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e134">
+        <form>
+          <orth>iomain (f)</orth>
+        </form>
+        <def>shinty.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e143">
+        <form>
+          <orth>caman (m)</orth>
+        </form>
+        <def>shinty stick.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e152">
+        <form>
+          <orth>ball (f)</orth>
+        </form>
+        <def>ball.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e161">
+        <form>
+          <orth>cuir a thadhal</orth>
+        </form>
+        <def>score a goal.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e170">
+        <form>
+          <orth>speilean</orth>
+        </form>
+        <def>game played with bat and stick which hoisted ball from hollow (cat and bat?). I have forgotten the rules.</def>
+      </entry>
+      <head xml:id="Games_GlasgowDGrantgames-d0e178">6. Athletics</head>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e183">
+        <form>
+          <orth>car-a-mhoiltein</orth>
+        </form>
+        <def>somersault.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e192">
+        <form>
+          <orth>a’ trotan</orth>
+        </form>
+        <def>jogging, trotting.</def>
+      </entry>
+      <head xml:id="Games_GlasgowDGrantgames-d0e200">7. Heavy events</head>
+      <entry xml:id="Games_GlasgowDGrantgames-idola107">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>(I do not have any special words for these activities. Parallel expressions were used e.g. a’ tilgeil an ùird.)</def>
+      </entry>
+      <head xml:id="Games_GlasgowDGrantgames-d0e213">8. Contests involving pulling or pushing</head>
+      <head xml:id="Games_GlasgowDGrantgames-d0e217">9. Boxing and wrestling</head>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e222">
+        <form>
+          <orth>a’ carachd</orth>
+        </form>
+        <def>wrestling.</def>
+      </entry>
+      <head xml:id="Games_GlasgowDGrantgames-d0e230">10. Blows in general</head>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e235">
+        <form>
+          <orth>sgleog (f)</orth>
+        </form>
+        <def>slap (on face).</def>
+      </entry>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e244">
+        <form>
+          <orth>breab (f)</orth>
+        </form>
+        <def>kick.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e253">
+        <form>
+          <orth>sainnseal (m)</orth>
+        </form>
+        <def>a severe blow.</def>
+      </entry>
+      <head xml:id="Games_GlasgowDGrantgames-d0e261">11. Injury and exhaustion</head>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e266">
+        <form>
+          <orth>sùil ghorm</orth>
+        </form>
+        <def>black eye.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e275">
+        <form>
+          <orth>sgriab (f), sgriabadh</orth>
+        </form>
+        <def>scratching, scratch.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e284">
+        <form>
+          <orth>ann am paiseanadh</orth>
+        </form>
+        <def>knocked unconscious.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e293">
+        <form>
+          <orth>pìochan (m)</orth>
+        </form>
+        <def>panting.</def>
+      </entry>
+      <entry xml:id="Games_GlasgowDGrantgames-d0e302">
+        <form>
+          <orth>a’ dol mu seach</orth>
+        </form>
+        <def>staggering.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

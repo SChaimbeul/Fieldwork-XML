@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BalgarvaDAMacQueenslips">
   <teiHeader>
     <fileDesc>
@@ -15,18 +19,11 @@
     <profileDesc>
       <creation>
         <date>02/1969</date>
-        <location>
-          <placeName>South Uist, Eochdar, Balgarva</placeName>
-        </location>
+        <location corresp="South_Uist_Iochdar_Balgarva"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>Donald A. MacQueen</persName>
-          <age>c. 50</age>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="D_A_MacQueen_South_Uist_Balgarva"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -55,7 +52,7 @@
           <orth>slabhcan</orth>
           <pron>[sɫɑu̜kɑ̃ṉ]</pron>
         </form>
-        <def>[sɫɑu̜kɑ̃ṉ] Notes: seaweed. A very thin green leaf about ¼" wide, 18" high. Made pudding with it. A bit like carrageen but green.</def>
+        <def>Notes: seaweed. A very thin green leaf about ¼" wide, 18" high. Made pudding with it. A bit like carrageen but green.</def>
       </entry>
       <entry xml:id="Slips_BalgarvaDAMacQueenslips-idp161865512">
         <form>
@@ -69,7 +66,7 @@
           <orth>pillein (or -an)</orth>
           <pron>[pilʹɛ̃nʹ]</pron>
         </form>
-        <def>[pilʹɛ̃nʹ] Notes: a small mat which went under the cart saddle (srathair Ghaidhealach).</def>
+        <def>Notes: a small mat which went under the cart saddle (srathair Ghaidhealach).</def>
       </entry>
       <entry xml:id="Slips_BalgarvaDAMacQueenslips-idp161869040">
         <form>
@@ -88,14 +85,14 @@
           <orth>sgùirt</orth>
           <pron>[sɡu̜:ʴstʹ]</pron>
         </form>
-        <def>[sɡu̜:ʴstʹ] Notes: a lapful. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+        <def>Notes: a lapful. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
       </entry>
       <entry xml:id="Slips_BalgarvaDAMacQueenslips-idp161874080">
         <form>
           <orth>sìlean (?)</orth>
           <pron>[ʃi:lʹɑ̃nʹ]</pron>
         </form>
-        <def>[ʃi:lʹɑ̃nʹ] Notes: seed.</def>
+        <def>Notes: seed.</def>
       </entry>
       <entry xml:id="Slips_BalgarvaDAMacQueenslips-idp161875808">
         <form>
@@ -120,14 +117,14 @@
           <orth>ailm</orth>
           <pron>[ɤləm]</pron>
         </form>
-        <def>[ɤləm] Notes: helm of a boat.</def>
+        <def>Notes: helm of a boat.</def>
       </entry>
       <entry xml:id="Slips_BalgarvaDAMacQueenslips-idp161882360">
         <form>
           <orth>boiteachan</orth>
           <pron>[bɔtʹɑxɑ̃ṉ]</pron>
         </form>
-        <def>[bɔtʹɑxɑ̃ṉ] Notes: piece of wood under the horse’s tail attached to panniers by a rope (?) and held the panniers from swinging to the horse’s head.</def>
+        <def>Notes: piece of wood under the horse’s tail attached to panniers by a rope (?) and held the panniers from swinging to the horse’s head.</def>
       </entry>
       <entry xml:id="Slips_BalgarvaDAMacQueenslips-idp161884088">
         <form>
@@ -146,14 +143,14 @@
           <orth>càbhraich</orth>
           <pron>[kɑu̟ɾiç]</pron>
         </form>
-        <def>[kɑu̟ɾiç] Notes: meal or flour on the turn.</def>
+        <def>Notes: meal or flour on the turn.</def>
       </entry>
       <entry xml:id="Slips_BalgarvaDAMacQueenslips-idp161889128">
         <form>
           <orth>car-cleitheadh</orth>
           <pron>[kɑɾklehəɣ]</pron>
         </form>
-        <def>[kɑɾklehəɣ] Notes: form of wrestling in which two people grip each other with hands and arms and try to get each other on to the ground. Feet used to trip.</def>
+        <def>Notes: form of wrestling in which two people grip each other with hands and arms and try to get each other on to the ground. Feet used to trip.</def>
       </entry>
       <entry xml:id="Slips_BalgarvaDAMacQueenslips-idp161890856">
         <form>
@@ -172,7 +169,7 @@
           <orth>cnotag</orth>
           <pron>[kɾɔ̃t̪ɑɡ]</pron>
         </form>
-        <def>[kɾɔ̃t̪ɑɡ] Notes: a stone with a hollow in it for beating barley. </def>
+        <def>Notes: a stone with a hollow in it for beating barley. </def>
       </entry>
       <entry xml:id="Slips_BalgarvaDAMacQueenslips-idp161896256">
         <form>
@@ -198,7 +195,7 @@
           <orth>daimheil</orth>
           <pron>[d̪ɛ̃:vɑl]</pron>
         </form>
-        <def>[d̪ɛ̃:vɑl] Quotation: Bha iad daimheil. Notes: They were related closely, e.g. uncle, aunt, nephew, niece, first cousins.</def>
+        <def>Quotation: Bha iad daimheil. Notes: They were related closely, e.g. uncle, aunt, nephew, niece, first cousins.</def>
       </entry>
       <entry xml:id="Slips_BalgarvaDAMacQueenslips-idp161902880">
         <form>

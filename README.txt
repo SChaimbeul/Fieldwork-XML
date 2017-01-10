@@ -68,7 +68,7 @@ Note that every person has a unique ID, usually formed as NAME_PLACE.
 The full structure of the 'person' elements is as follows:
 
 <person xml:id="Donald_MacDonald_Harris_Horgabost">
-  <persName xml:lang="gd">
+  <persName xml:lang="en">
     <forename>Donald</forename>
     <surname>MacDonald</surname>
   </persName>
@@ -82,7 +82,7 @@ The full structure of the 'person' elements is as follows:
   </birth>
 </person>
 
-Note that the birth>location element is used to encode the 'informant origin' field from the questionalists and wordlists. 
+Note that the birth>location element is used to encode the 'informant origin' field from the questionaires and wordlists. 
 The 'corresp' attribute is an IDREF that must point to a valid 'place' element in the file 'list_of_places.xml' (see next).
 
 The second file, 'list_of_places.xml', contains a complete, hierarchical list of all of the places involved in creating the fieldwork archive.
@@ -171,7 +171,7 @@ Note:
 
 2. The 'corresp' attributes within particDesc>person are IDREFs which must point to a valid 'person' in the file 'list_of_people.xml'.
 
-3. Where a question mark is used in the original to indiciate uncertainty, use the attribute cert="medium", e.g.
+3. Where a question mark is used in the original to indicate uncertainty, use the attribute cert="medium", e.g.
 
 <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
 

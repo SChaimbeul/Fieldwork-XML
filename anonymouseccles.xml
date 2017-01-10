@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ecclesiastical_anonymouseccles">
   <teiHeader>
     <fileDesc>
@@ -72,7 +76,7 @@
           <def>United Free Church and Established Church of Scotland (1930). U. F. Continuing. Those who did not join the 1930 Union. [NOTES: the last comment on U. F. added later.]</def>
         </entry>
         <div>
-          <head xml:id="Ecclesiastical_anonymouseccles-d0e78" subtype="h2">An eaglais eile</head>
+          <head xml:id="Ecclesiastical_anonymouseccles-d0e78" type="h2">An eaglais eile</head>
           <entry xml:id="Ecclesiastical_anonymouseccles-d0e83" type="person">
             <form>
               <orth>Cathlic</orth>

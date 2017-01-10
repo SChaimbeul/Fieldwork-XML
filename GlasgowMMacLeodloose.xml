@@ -1,93 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="MurdoMacLeod_GlasgowMMacLeodloose">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[1972 on the slips]</date>
-            <location>
-               <placeName>[Glasgow]</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>Murchadh MacLeòid (Murdo MacLeod)</persName>
-               <birth>
-                  <placeName>[Lewis, Uig an Iar]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodloose-d0e29"
-            >“Argyll’s Highlands or MacCailein Mor and the Lords of Lorne” by Cuthbert Bede (Rev. Edward Bradley of Grantham).</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodloose-d0e34">
-            <form>
-               <orth>leurach</orth>
-            </form>
-            <def>“The marriage customs were these: When a young pair had got through the leurach, or contract, and had agreed to get married with the consent of their relatives, a night was appointed for the reite, when the friends met and a feast was prepared, of which all were hearty partakers.” (page 199)</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodloose-d0e43">
-            <form>
-               <orth>sgreachan réilig</orth>
-            </form>
-            <def>“a shrieker of a burying place.” (page 204)</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodloose-d0e52">
-            <form>
-               <orth>crann tràigh</orth>
-            </form>
-            <def>“… that the fairy cross was also called crann tràigh.” (page 220)</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodloose-d0e61">
-            <form>
-               <orth>stike raide</orth>
-            </form>
-            <def>“it was customary to assign him a certain share of the spoil, which was called a stike raide or stike creich – ‘road collop’.” (page 252)</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodloose-d0e70">
-            <form>
-               <orth>stike creich</orth>
-               <pron>[See stike raide]</pron>
-            </form>
-            <def>[See stike raide]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodloose-d0e79">
-            <form>
-               <orth>Siol-Ghall</orth>
-               <pron>[sic]</pron>
-            </form>
-            <def>[sic] “ – he whose parents were Highland on the one side and Lowland on the other – was called Sìol Ghall.” (page 271)</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodloose-d0e88">
-            <form>
-               <orth>sìol-dubh</orth>
-            </form>
-            <def>plancton.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MurdoMacLeod_GlasgowMMacLeodloose">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[1972 on the slips]</date>
+        <location>
+          <placeName>[Glasgow]</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>Murchadh MacLeòid (Murdo MacLeod)</persName>
+          <birth>
+            <placeName>[Lewis, Uig an Iar]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodloose-d0e29">“Argyll’s Highlands or MacCailein Mor and the Lords of Lorne” by Cuthbert Bede (Rev. Edward Bradley of Grantham).</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodloose-d0e34">
+        <form>
+          <orth>leurach</orth>
+        </form>
+        <def>“The marriage customs were these: When a young pair had got through the leurach, or contract, and had agreed to get married with the consent of their relatives, a night was appointed for
+          the reite, when the friends met and a feast was prepared, of which all were hearty partakers.” (page 199)</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodloose-d0e43">
+        <form>
+          <orth>sgreachan réilig</orth>
+        </form>
+        <def>“a shrieker of a burying place.” (page 204)</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodloose-d0e52">
+        <form>
+          <orth>crann tràigh</orth>
+        </form>
+        <def>“… that the fairy cross was also called crann tràigh.” (page 220)</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodloose-d0e61">
+        <form>
+          <orth>stike raide</orth>
+        </form>
+        <def>“it was customary to assign him a certain share of the spoil, which was called a stike raide or stike creich – ‘road collop’.” (page 252)</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodloose-d0e70">
+        <form>
+          <orth>stike creich</orth>
+          <pron>[See stike raide]</pron>
+        </form>
+        <def>[See stike raide]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodloose-d0e79" type="person">
+        <form>
+          <orth>Siol-Ghall</orth>
+          <pron>[sic]</pron>
+        </form>
+        <def>[sic] “ – he whose parents were Highland on the one side and Lowland on the other – was called Sìol Ghall.” (page 271)</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodloose-d0e88">
+        <form>
+          <orth>sìol-dubh</orth>
+        </form>
+        <def>plancton.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

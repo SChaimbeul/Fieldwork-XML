@@ -1,219 +1,208 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="AOHenley_GlasgowDJMacVicarlobster">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: no personal information in the questionnaire itself. The informant identified on a post-it note attached.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[1987-88]</date>
-            <location>
-               <placeName>Glasgow [?]</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>A. O’Henley</persName>
-            </person>
-            <person role="informant">
-               <persName>D. J. MacVicar</persName>
-               <birth>
-                  <placeName>? [South Uist?]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Lobster-Fishing</term>
-               <term>Iasgach a’ Ghiomaich</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="AOHenley_GlasgowDJMacVicarlobster-d0e32"
-            >The Lobster</head>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109754168">
-            <form>
-               <orth>firionn</orth>
-            </form>
-            <def>male.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109799240">
-            <form>
-               <orth>boirionn</orth>
-            </form>
-            <def>female.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109752944">
-            <form>
-               <orth>ighnean? (inean?)</orth>
-            </form>
-            <def>claws.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109763024">
-            <form>
-               <orth>an t-ord</orth>
-            </form>
-            <def>used for breaking up shellfish.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109762592">
-            <form>
-               <orth>an sàbh</orth>
-            </form>
-            <def>another claw used for catching fish.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109766336">
-            <form>
-               <orth>gàilleach</orth>
-            </form>
-            <def>gills.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109768928">
-            <form>
-               <orth>earball</orth>
-            </form>
-            <def>tail.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109768424">
-            <form>
-               <orth>buigneag</orth>
-            </form>
-            <def>a lobster found in crevices near the shore after casting its shell in summertime.</def>
-         </entry>
-         <head
-             xml:id="AOHenley_GlasgowDJMacVicarlobster-d0e108"
-            >The Creel</head>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109776776">
-            <form>
-               <orth>sgùill</orth>
-            </form>
-            <def>creel.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109811912">
-            <form>
-               <orth>am bonn</orth>
-            </form>
-            <def>the base.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109813136">
-            <form>
-               <orth>cearcaill</orth>
-            </form>
-            <def>rods, before and after bending and fitting to base.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109814936">
-            <form>
-               <orth>a’ cnòdachadh na lìn</orth>
-            </form>
-            <def>the netting and how attached to base.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109814720">
-            <form>
-               <orth>an t-suil</orth>
-            </form>
-            <def>the eye.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109729760">
-            <form>
-               <orth>clachan acrach</orth>
-            </form>
-            <def>weight.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109717160">
-            <form>
-               <orth>buidhe rop</orth>
-            </form>
-            <def>rope.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109719536">
-            <form>
-               <orth>aircean</orth>
-            </form>
-            <def>floats.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109720760">
-            <form>
-               <orth>dorus na sgùill</orth>
-            </form>
-            <def>door (for admitting hand).</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idola20">
-            <form>
-               <orth>[fleet of creels]</orth>
-            </form>
-            <def>Fleet of creels, when attached to a single line: creels placed individually and not in a line as such.</def>
-         </entry>
-         <head
-             xml:id="AOHenley_GlasgowDJMacVicarlobster-d0e202"
-            >Fishing</head>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109723352">
-            <form>
-               <orth>biathadh</orth>
-            </form>
-            <def>bait.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idola9">
-            <form>
-               <orth>runnach</orth>
-            </form>
-            <def>kinds [of bait] used.</def>
-         </entry>
-         <head
-             xml:id="AOHenley_GlasgowDJMacVicarlobster-d0e224"
-            >Cleaning a creel, what creatures found within</head>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idola21">
-            <form>
-               <orth>crùbagan</orth>
-            </form>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idola22">
-            <form>
-               <orth>easgannan</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="AOHenley_GlasgowDJMacVicarlobster-d0e240"
-            >Other terms</head>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109687784">
-            <form>
-               <orth>brothadh</orth>
-               <pron>[about rope]</pron>
-            </form>
-            <def>[about rope] disintegrating.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idola23">
-            <form>
-               <orth>[tying claws of lobsters]</orth>
-            </form>
-            <def>Device used for tying claws of lobsters – string or elastic bands.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109694408">
-            <form>
-               <orth>bucas ghiomach</orth>
-            </form>
-            <def>keep-box. Moored under ‘sgorran’, rock crevices, near the shore.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109694336">
-            <form>
-               <orth>brod</orth>
-            </form>
-            <def>a gaff with a hook used to pull out the lobster.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AOHenley_GlasgowDJMacVicarlobster">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: no personal information in the questionnaire itself. The informant identified on a post-it note attached.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[1987-88]</date>
+        <location>
+          <placeName>Glasgow [?]</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>A. O’Henley</persName>
+        </person>
+        <person role="informant">
+          <persName>D. J. MacVicar</persName>
+          <birth>
+            <placeName>? [South Uist?]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Lobster-Fishing</term>
+          <term>Iasgach a’ Ghiomaich</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="AOHenley_GlasgowDJMacVicarlobster-d0e32">The Lobster</head>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109754168">
+        <form>
+          <orth>firionn</orth>
+        </form>
+        <def>male.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109799240">
+        <form>
+          <orth>boirionn</orth>
+        </form>
+        <def>female.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109752944">
+        <form>
+          <orth>ighnean? (inean?)</orth>
+        </form>
+        <def>claws.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109763024">
+        <form>
+          <orth>an t-ord</orth>
+        </form>
+        <def>used for breaking up shellfish.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109762592">
+        <form>
+          <orth>an sàbh</orth>
+        </form>
+        <def>another claw used for catching fish.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109766336">
+        <form>
+          <orth>gàilleach</orth>
+        </form>
+        <def>gills.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109768928">
+        <form>
+          <orth>earball</orth>
+        </form>
+        <def>tail.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109768424">
+        <form>
+          <orth>buigneag</orth>
+        </form>
+        <def>a lobster found in crevices near the shore after casting its shell in summertime.</def>
+      </entry>
+      <head xml:id="AOHenley_GlasgowDJMacVicarlobster-d0e108">The Creel</head>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109776776">
+        <form>
+          <orth>sgùill</orth>
+        </form>
+        <def>creel.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109811912">
+        <form>
+          <orth>am bonn</orth>
+        </form>
+        <def>the base.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109813136">
+        <form>
+          <orth>cearcaill</orth>
+        </form>
+        <def>rods, before and after bending and fitting to base.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109814936">
+        <form>
+          <orth>a’ cnòdachadh na lìn</orth>
+        </form>
+        <def>the netting and how attached to base.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109814720">
+        <form>
+          <orth>an t-suil</orth>
+        </form>
+        <def>the eye.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109729760">
+        <form>
+          <orth>clachan acrach</orth>
+        </form>
+        <def>weight.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109717160">
+        <form>
+          <orth>buidhe rop</orth>
+        </form>
+        <def>rope.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109719536">
+        <form>
+          <orth>aircean</orth>
+        </form>
+        <def>floats.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109720760">
+        <form>
+          <orth>dorus na sgùill</orth>
+        </form>
+        <def>door (for admitting hand).</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idola20">
+        <form>
+          <orth>[fleet of creels]</orth>
+        </form>
+        <def>Fleet of creels, when attached to a single line: creels placed individually and not in a line as such.</def>
+      </entry>
+      <head xml:id="AOHenley_GlasgowDJMacVicarlobster-d0e202">Fishing</head>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109723352">
+        <form>
+          <orth>biathadh</orth>
+        </form>
+        <def>bait.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idola9">
+        <form>
+          <orth>runnach</orth>
+        </form>
+        <def>kinds [of bait] used.</def>
+      </entry>
+      <head xml:id="AOHenley_GlasgowDJMacVicarlobster-d0e224">Cleaning a creel, what creatures found within</head>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idola21">
+        <form>
+          <orth>crùbagan</orth>
+        </form>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idola22">
+        <form>
+          <orth>easgannan</orth>
+        </form>
+      </entry>
+      <head xml:id="AOHenley_GlasgowDJMacVicarlobster-d0e240">Other terms</head>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109687784">
+        <form>
+          <orth>brothadh</orth>
+          <pron>[about rope]</pron>
+        </form>
+        <def>[about rope] disintegrating.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idola23">
+        <form>
+          <orth>[tying claws of lobsters]</orth>
+        </form>
+        <def>Device used for tying claws of lobsters – string or elastic bands.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109694408">
+        <form>
+          <orth>bucas ghiomach</orth>
+        </form>
+        <def>keep-box. Moored under ‘sgorran’, rock crevices, near the shore.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowDJMacVicarlobster-idp109694336">
+        <form>
+          <orth>brod</orth>
+        </form>
+        <def>a gaff with a hook used to pull out the lobster.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

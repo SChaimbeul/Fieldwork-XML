@@ -1,215 +1,214 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="AOHenley_GeirinishMissMMacKaymisc">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[1987-88]</date>
-            <location>
-               <placeName>South Uist, Geirinish</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>A. O’Henley</persName>
-            </person>
-            <person role="informant">
-               <persName>Miss M. MacKay</persName>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term xml:lang="en">Miscellaneous</term>
-               <term>Measgaichte</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112520048">
-            <form>
-               <orth>geaslagan</orth>
-            </form>
-            <def>superstitions. “Tha thu làn de na geaslagan.”</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112544096">
-            <form>
-               <orth>geaslagach</orth>
-            </form>
-            <def>superstitious.</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112546184">
-            <form>
-               <orth>réip</orth>
-            </form>
-            <def>a long, untidy beard. “Bha réip air.” [NOTES: note added above ‘p’ in ‘réip’ – b.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112434296">
-            <form>
-               <orth>còta breac</orth>
-            </form>
-            <def>a stripy long skirt, characterised by striking colours, usually red, white and blue.</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112430480">
-            <form>
-               <orth>còta drògaid</orth>
-            </form>
-            <def>also a long skirt [cf. còta drògaid], usually wine coloured.</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112429328">
-            <form>
-               <orth>còta fleinail</orth>
-            </form>
-            <def>a flannel underskirt, usually scarlet coloured.</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112424000">
-            <form>
-               <orth>dual</orth>
-            </form>
-            <def>cable stitch in knitting. [NOTES: note added above ‘dual’ – dubhal.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112460360">
-            <form>
-               <orth>craobh  na roinntich</orth>
-               <pron>[?]</pron>
-            </form>
-            <def>[?] fern leaf pattern in knitting.</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112459424">
-            <form>
-               <orth>githagan</orth>
-            </form>
-            <def>thistle pattern. [NOTES: corrected to ‘githeagan’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112459784">
-            <form>
-               <orth>calais</orth>
-            </form>
-            <def>chalice. [NOTES: note added – cailis.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112459496">
-            <form>
-               <orth>balga buachaill(e)</orth>
-            </form>
-            <def>mushroom.</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112455896">
-            <form>
-               <orth>cois ceum</orth>
-            </form>
-            <def>this was a mode of measurement which involved putting the heel of one shoe next to the toe of the other foot. Distance was measured using this system.</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112451360">
-            <form>
-               <orth>rudaneadh</orth>
-            </form>
-            <def>informant uses this in the sense of trudging as in trudging your feet. [NOTES: corrected to ‘rudanadh’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112466408">
-            <form>
-               <orth>[Latha Fheill Moire]</orth>
-            </form>
-            <def>“Latha Fheill Moire, mór ’s t-fhoghar, buain is ceangal” – this saying would be uttered on the 15th of August.</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112552520">
-            <form>
-               <orth>trùdhleach</orth>
-            </form>
-            <def>would be applied to a mischievous person, someone who was always in trouble. “Nach ’be tu an trùdhleach.”</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112550720">
-            <form>
-               <orth>clann na mithalamh</orth>
-            </form>
-            <def>similar in meaning to the above [i.e. trùdhleach (q.v.)].</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112509896">
-            <form>
-               <orth>an drochd fhasg ort</orth>
-            </form>
-            <def>a desire to give someone a ticking off due to having committed some trivial but annoying offence. [NOTES: ‘fhasg’ corrected to ‘fhàsg’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112513280">
-            <form>
-               <orth>latha buidhe Bealltuinn</orth>
-            </form>
-            <def>so called since traditionally, this day was expected to be sunny.</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112515656">
-            <form>
-               <orth>seathd</orth>
-            </form>
-            <def>a group, e.g. of people. “’Se droch sheathd a tha sin.” [NOTES: note added above ‘seathd’ – seat.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112485632">
-            <form>
-               <orth>coiteachadh</orth>
-            </form>
-            <def>to force something on someone else.</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112520120">
-            <form>
-               <orth>blàcadh</orth>
-            </form>
-            <def>to polish your shoes. [NOTES: corrected to ‘blacadh’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112531784">
-            <form>
-               <orth>bléicinn</orth>
-            </form>
-            <def>shoe polish. [NOTES: corrected to ‘bleicinn’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp2830128">
-            <form>
-               <orth>garadh càil</orth>
-            </form>
-            <def>cabbage garden.</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp2831640">
-            <form>
-               <orth>mointeag (-an)</orth>
-            </form>
-            <def>a name applied to cattle that came from Mull.</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp2833152">
-            <form>
-               <orth>lòchran</orth>
-            </form>
-            <def>located in Roman Catholic chapels. Usually located beside the tabernacle. A red coloured glass cylinder with a candle burning inside at night.</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp2834664">
-            <form>
-               <orth>sgoth fhosgailte</orth>
-            </form>
-            <def>a particular type of sail boat.</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp2836176">
-            <form>
-               <orth>Thainig phraig dhaoine orm</orth>
-            </form>
-            <def>an unexpected visit from a group of people. [NOTES: ‘phraig’ corrected to ‘phràig’ and note added above ‘ph’ – f.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp2837832">
-            <form>
-               <orth>blaudaireachd</orth>
-            </form>
-            <def>bawling as in ‘ag éigheach ’sa …’. [NOTES: note added above ‘u’ in ‘blaudaireachd’ – bh.]</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AOHenley_GeirinishMissMMacKaymisc">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[1987-88]</date>
+        <location>
+          <placeName>South Uist, Geirinish</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>A. O’Henley</persName>
+        </person>
+        <person role="informant">
+          <persName>Miss M. MacKay</persName>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term xml:lang="en">Miscellaneous</term>
+          <term>Measgaichte</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112520048">
+        <form>
+          <orth>geaslagan</orth>
+        </form>
+        <def>superstitions. “Tha thu làn de na geaslagan.”</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112544096">
+        <form>
+          <orth>geaslagach</orth>
+        </form>
+        <def>superstitious.</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112546184">
+        <form>
+          <orth>réip</orth>
+        </form>
+        <def>a long, untidy beard. “Bha réip air.” [NOTES: note added above ‘p’ in ‘réip’ – b.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112434296">
+        <form>
+          <orth>còta breac</orth>
+        </form>
+        <def>a stripy long skirt, characterised by striking colours, usually red, white and blue.</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112430480">
+        <form>
+          <orth>còta drògaid</orth>
+        </form>
+        <def>also a long skirt [cf. còta drògaid], usually wine coloured.</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112429328">
+        <form>
+          <orth>còta fleinail</orth>
+        </form>
+        <def>a flannel underskirt, usually scarlet coloured.</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112424000">
+        <form>
+          <orth>dual</orth>
+        </form>
+        <def>cable stitch in knitting. [NOTES: note added above ‘dual’ – dubhal.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112460360">
+        <form>
+          <orth>craobh na roinntich</orth>
+          <pron>[?]</pron>
+        </form>
+        <def>[?] fern leaf pattern in knitting.</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112459424">
+        <form>
+          <orth>githagan</orth>
+        </form>
+        <def>thistle pattern. [NOTES: corrected to ‘githeagan’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112459784">
+        <form>
+          <orth>calais</orth>
+        </form>
+        <def>chalice. [NOTES: note added – cailis.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112459496">
+        <form>
+          <orth>balga buachaill(e)</orth>
+        </form>
+        <def>mushroom.</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112455896">
+        <form>
+          <orth>cois ceum</orth>
+        </form>
+        <def>this was a mode of measurement which involved putting the heel of one shoe next to the toe of the other foot. Distance was measured using this system.</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112451360">
+        <form>
+          <orth>rudaneadh</orth>
+        </form>
+        <def>informant uses this in the sense of trudging as in trudging your feet. [NOTES: corrected to ‘rudanadh’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112466408">
+        <form>
+          <orth>[Latha Fheill Moire]</orth>
+        </form>
+        <def>“Latha Fheill Moire, mór ’s t-fhoghar, buain is ceangal” – this saying would be uttered on the 15th of August.</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112552520" type="person">
+        <form>
+          <orth>trùdhleach</orth>
+        </form>
+        <def>would be applied to a mischievous person, someone who was always in trouble. “Nach ’be tu an trùdhleach.”</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112550720" type="person">
+        <form>
+          <orth>clann na mithalamh</orth>
+        </form>
+        <def>similar in meaning to the above [i.e. trùdhleach (q.v.)].</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112509896">
+        <form>
+          <orth>an drochd fhasg ort</orth>
+        </form>
+        <def>a desire to give someone a ticking off due to having committed some trivial but annoying offence. [NOTES: ‘fhasg’ corrected to ‘fhàsg’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112513280">
+        <form>
+          <orth>latha buidhe Bealltuinn</orth>
+        </form>
+        <def>so called since traditionally, this day was expected to be sunny.</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112515656">
+        <form>
+          <orth>seathd</orth>
+        </form>
+        <def>a group, e.g. of people. “’Se droch sheathd a tha sin.” [NOTES: note added above ‘seathd’ – seat.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112485632">
+        <form>
+          <orth>coiteachadh</orth>
+        </form>
+        <def>to force something on someone else.</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112520120">
+        <form>
+          <orth>blàcadh</orth>
+        </form>
+        <def>to polish your shoes. [NOTES: corrected to ‘blacadh’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp112531784">
+        <form>
+          <orth>bléicinn</orth>
+        </form>
+        <def>shoe polish. [NOTES: corrected to ‘bleicinn’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp2830128">
+        <form>
+          <orth>garadh càil</orth>
+        </form>
+        <def>cabbage garden.</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp2831640">
+        <form>
+          <orth>mointeag (-an)</orth>
+        </form>
+        <def>a name applied to cattle that came from Mull.</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp2833152">
+        <form>
+          <orth>lòchran</orth>
+        </form>
+        <def>located in Roman Catholic chapels. Usually located beside the tabernacle. A red coloured glass cylinder with a candle burning inside at night.</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp2834664">
+        <form>
+          <orth>sgoth fhosgailte</orth>
+        </form>
+        <def>a particular type of sail boat.</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp2836176">
+        <form>
+          <orth>Thainig phraig dhaoine orm</orth>
+        </form>
+        <def>an unexpected visit from a group of people. [NOTES: ‘phraig’ corrected to ‘phràig’ and note added above ‘ph’ – f.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GeirinishMissMMacKaymisc-idp2837832">
+        <form>
+          <orth>blaudaireachd</orth>
+        </form>
+        <def>bawling as in ‘ag éigheach ’sa …’. [NOTES: note added above ‘u’ in ‘blaudaireachd’ – bh.]</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

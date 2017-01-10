@@ -1,218 +1,210 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="MurdoMacLeod_GlasgowMMacLeodsheep">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[1972 on the slips]</date>
-            <location>
-               <placeName>[Glasgow]</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>Murchadh MacLeòid (Murdo MacLeod)</persName>
-               <birth>
-                  <placeName>[Lewis, Uig an Iar]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Sheep</term>
-               <term>Caoraich</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e31"
-            >Caoirich</head>
-         <head
-             xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e35"
-             subtype="h2">Comharran nan cluas</head>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-idola186">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>Chan eil againne ’ga chleachdadh ach na h-ochd deargaidh:</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e49">
-            <form>
-               <orth>sùlag</orth>
-            </form>
-            <def>(Chan è ‘sùileag’, mar a th’aig Dwelly.)
-        <graphic url="GlasgowMMacLeodsheep2illust1.jpg" width="150px"/>
-            </def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e60">
-            <form>
-               <orth>beum</orth>
-            </form>
-            <def>
-               <graphic url="GlasgowMMacLeodsheep2illust2.jpg" width="150px"/>
-            </def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e71">
-            <form>
-               <orth>geugan</orth>
-            </form>
-            <def>(Chan è ‘geagan’, mar a th’aig Dwelly.) (Fuaimnich ‘eug’ mar ‘eug’ (death): g + eug + an.)
-        <graphic url="GlasgowMMacLeodsheep2illust3.jpg" width="150px"/>
-            </def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e82">
-            <form>
-               <orth>rubadh</orth>
-            </form>
-            <def>(Chan e ‘ròibeadh’, mar a th’aig Dwelly.)
-        <graphic url="GlasgowMMacLeodsheep2illust4.jpg" width="150px"/>
-            </def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e93">
-            <form>
-               <orth>bàrr</orth>
-            </form>
-            <def>
-               <graphic url="GlasgowMMacLeodsheep2illust5.jpg" width="150px"/>
-            </def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e104">
-            <form>
-               <orth>slisinn</orth>
-            </form>
-            <def>
-               <graphic url="GlasgowMMacLeodsheep2illust6.jpg" width="150px"/>
-            </def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e115">
-            <form>
-               <orth>gearradh</orth>
-            </form>
-            <def>
-               <graphic url="GlasgowMMacLeodsheep2illust7.jpg" width="150px"/>
-            </def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e126">
-            <form>
-               <orth>toll</orth>
-            </form>
-            <def>
-               <graphic url="GlasgowMMacLeodsheep2illust8.jpg" width="150px"/>
-            </def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e137">
-            <form>
-               <orth>slàn-chluasach</orth>
-            </form>
-            <def>Canaidh sinn seo mu chaora air nach eil comharra-cluaise ’s am bith.
-        <graphic url="GlasgowMMacLeodsheep2illust9.jpg" width="200px"/>
-            </def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e148">
-            <form>
-               <orth>gille-bog</orth>
-            </form>
-            <def>’Se seo a th’aca air uain a tha dìth lùthais orra ’s an druim. Cha téid na h-uain-sa air an casan a chaoidh. ’S ann aig caoirich a tha ag ithe tòrr de an fheamainn air na muil a bhios an seòrsa uan-sa. ’Se bodach anns a’ bhaile againn fhìn a thug an t-ainm-sa orra, agus lean an t-ainm. Mur eil mise ceàrr, ’s ann air isean sgairbh a bha’n t-ainm ‘gille-bog’ an toiseach.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e157">
-            <form>
-               <orth>lèabhach</orth>
-            </form>
-            <def>Caora mar tha ’n seo shuas bha i ‘lèabhach’. Adhaircean lèabhach oirre. A’ chaora lèabhach. (Faic M’Ghillfhinnean t-d 210.) Aig MacGh. a réir an litreachadh, bhiodh ‘liabhach’ mar ‘riabhach’ (brindled,  etc.) ’S ann a tha e againne mar ‘dèabhadh’.
-        <graphic url="GlasgowMMacLeodsheep2illust10.jpg" width="150px"/>
-            </def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e168">
-            <form>
-               <orth>niùlach</orth>
-            </form>
-            <def>Caora le adhaircean oirre mar seo bha i ‘niùlach’. Adhaircean niùlach oirre. A’ chaora niùlach.
-        <graphic url="GlasgowMMacLeodsheep2illust11.jpg" width="150px"/>
-            </def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e179">
-            <form>
-               <orth>sgeòdach</orth>
-            </form>
-            <def>Tionndadh a mach anns na h-adhaircean mar aig lèabhach [q.v.], canaidh iad gu bheil iad ‘sgeòdach’. Adhaircean sgeòdach oirre.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e188">
-            <form>
-               <orth>coirbhtheann, coirtheann (’s mar sin)</orth>
-            </form>
-            <def>3 òirlich thuirt mi, ach an cumantas bhiodh iad na bu mhotha na sin. 4 òirlich, a’ tòiseachadh aig an sin, dh’fhaodainn a chantuinn. Agus na bu mhotha. Caochladh chumaidhnean orra.
-        <graphic url="GlasgowMMacLeodsheep2illust12.jpg" width="300px"/>
-               <graphic url="GlasgowMMacLeodsheep2illust13.jpg" width="300px"/>
-            </def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e201">
-            <form>
-               <orth>caoraich-bheaga</orth>
-               <pron>[sic]</pron>
-            </form>
-            <def>[sic] Na caoirich-bheaga – na caoirich-bhrògach (black-faced sheep). Tha mi deanamh a mach gur h-e seo a chanadh na cìobairean, gun canadh iad seo, có dhiù. [Cf. caoirich-mhóra]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e210">
-            <form>
-               <orth>caoirich-mhóra</orth>
-            </form>
-            <def>Na caoirich-mhóra – na caoirich-mhaola, na caoirich Ghallda, Chieviots, ’s mar sin. Tha mi deanamh a mach gur h-e seo a chanadh na cìobairean, gun canadh iad seo, có dhiù. [Cf. caoraich-bheaga]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e219">
-            <form>
-               <orth>Cheviots</orth>
-            </form>
-            <def>’Se chēv’iots a chanadh na bodaich againne.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-idola187">
-            <form>
-               <orth>[note]</orth>
-            </form>
-            <def>Eadar-dhealachadh eadar ‘brògach’ agus ‘dubh-cheannach’.</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e237">
-            <form>
-               <orth>dubh-cheannach</orth>
-            </form>
-            <def>Dubh ge léir ’s an aodann, gun mìr geal ’sam bith. [Cf. brògach]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e246">
-            <form>
-               <orth>brògach</orth>
-            </form>
-            <def>Dorch, no dorch, dorch ’s an aodann ach gun a bhith uile gu léir dubh. [Cf. dubh-cheannach]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e255">
-            <form>
-               <orth>cùlan</orth>
-            </form>
-            <def>Na h-uibhir dubh de an chlòimh ann an cùl a’ chinn aig caora, có dhiu air mullach na h-amhach aig cùl a’ chinn. Tha cùlan innte. A’ chaora chùlanach. [Cf. tòn-dubh]</def>
-         </entry>
-         <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e264">
-            <form>
-               <orth>tòn-dubh</orth>
-            </form>
-            <def>An aon seòrsa rud [i.e. like cùlan q.v.] aig ceann eile na caorach. Na h-uibhir de an chlòimh dubh aig deireadh na caorach. Aig a deireadh, gun a bhith suas air an sin. Sin tòn-dubh. A chaora thòn-dubh.
-        <graphic url="GlasgowMMacLeodsheep2illust14.jpg" width="150px"/>
-            </def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MurdoMacLeod_GlasgowMMacLeodsheep">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[1972 on the slips]</date>
+        <location>
+          <placeName>[Glasgow]</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>Murchadh MacLeòid (Murdo MacLeod)</persName>
+          <birth>
+            <placeName>[Lewis, Uig an Iar]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Sheep</term>
+          <term>Caoraich</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e31">Caoirich</head>
+      <head xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e35" subtype="h2">Comharran nan cluas</head>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-idola186">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>Chan eil againne ’ga chleachdadh ach na h-ochd deargaidh:</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e49">
+        <form>
+          <orth>sùlag</orth>
+        </form>
+        <def>(Chan è ‘sùileag’, mar a th’aig Dwelly.) <graphic url="GlasgowMMacLeodsheep2illust1.jpg" width="150px"/>
+        </def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e60">
+        <form>
+          <orth>beum</orth>
+        </form>
+        <def>
+          <graphic url="GlasgowMMacLeodsheep2illust2.jpg" width="150px"/>
+        </def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e71">
+        <form>
+          <orth>geugan</orth>
+        </form>
+        <def>(Chan è ‘geagan’, mar a th’aig Dwelly.) (Fuaimnich ‘eug’ mar ‘eug’ (death): g + eug + an.) <graphic url="GlasgowMMacLeodsheep2illust3.jpg" width="150px"/>
+        </def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e82">
+        <form>
+          <orth>rubadh</orth>
+        </form>
+        <def>(Chan e ‘ròibeadh’, mar a th’aig Dwelly.) <graphic url="GlasgowMMacLeodsheep2illust4.jpg" width="150px"/>
+        </def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e93">
+        <form>
+          <orth>bàrr</orth>
+        </form>
+        <def>
+          <graphic url="GlasgowMMacLeodsheep2illust5.jpg" width="150px"/>
+        </def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e104">
+        <form>
+          <orth>slisinn</orth>
+        </form>
+        <def>
+          <graphic url="GlasgowMMacLeodsheep2illust6.jpg" width="150px"/>
+        </def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e115">
+        <form>
+          <orth>gearradh</orth>
+        </form>
+        <def>
+          <graphic url="GlasgowMMacLeodsheep2illust7.jpg" width="150px"/>
+        </def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e126">
+        <form>
+          <orth>toll</orth>
+        </form>
+        <def>
+          <graphic url="GlasgowMMacLeodsheep2illust8.jpg" width="150px"/>
+        </def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e137">
+        <form>
+          <orth>slàn-chluasach</orth>
+        </form>
+        <def>Canaidh sinn seo mu chaora air nach eil comharra-cluaise ’s am bith. <graphic url="GlasgowMMacLeodsheep2illust9.jpg" width="200px"/>
+        </def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e148">
+        <form>
+          <orth>gille-bog</orth>
+        </form>
+        <def>’Se seo a th’aca air uain a tha dìth lùthais orra ’s an druim. Cha téid na h-uain-sa air an casan a chaoidh. ’S ann aig caoirich a tha ag ithe tòrr de an fheamainn air na muil a bhios an
+          seòrsa uan-sa. ’Se bodach anns a’ bhaile againn fhìn a thug an t-ainm-sa orra, agus lean an t-ainm. Mur eil mise ceàrr, ’s ann air isean sgairbh a bha’n t-ainm ‘gille-bog’ an toiseach.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e157">
+        <form>
+          <orth>lèabhach</orth>
+        </form>
+        <def>Caora mar tha ’n seo shuas bha i ‘lèabhach’. Adhaircean lèabhach oirre. A’ chaora lèabhach. (Faic M’Ghillfhinnean t-d 210.) Aig MacGh. a réir an litreachadh, bhiodh ‘liabhach’ mar
+          ‘riabhach’ (brindled,  etc.) ’S ann a tha e againne mar ‘dèabhadh’. <graphic url="GlasgowMMacLeodsheep2illust10.jpg" width="150px"/>
+        </def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e168">
+        <form>
+          <orth>niùlach</orth>
+        </form>
+        <def>Caora le adhaircean oirre mar seo bha i ‘niùlach’. Adhaircean niùlach oirre. A’ chaora niùlach. <graphic url="GlasgowMMacLeodsheep2illust11.jpg" width="150px"/>
+        </def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e179">
+        <form>
+          <orth>sgeòdach</orth>
+        </form>
+        <def>Tionndadh a mach anns na h-adhaircean mar aig lèabhach [q.v.], canaidh iad gu bheil iad ‘sgeòdach’. Adhaircean sgeòdach oirre.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e188">
+        <form>
+          <orth>coirbhtheann, coirtheann (’s mar sin)</orth>
+        </form>
+        <def>3 òirlich thuirt mi, ach an cumantas bhiodh iad na bu mhotha na sin. 4 òirlich, a’ tòiseachadh aig an sin, dh’fhaodainn a chantuinn. Agus na bu mhotha. Caochladh chumaidhnean orra.
+            <graphic url="GlasgowMMacLeodsheep2illust12.jpg" width="300px"/>
+          <graphic url="GlasgowMMacLeodsheep2illust13.jpg" width="300px"/>
+        </def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e201">
+        <form>
+          <orth>caoraich-bheaga</orth>
+          <pron>[sic]</pron>
+        </form>
+        <def>[sic] Na caoirich-bheaga – na caoirich-bhrògach (black-faced sheep). Tha mi deanamh a mach gur h-e seo a chanadh na cìobairean, gun canadh iad seo, có dhiù. [Cf. caoirich-mhóra]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e210">
+        <form>
+          <orth>caoirich-mhóra</orth>
+        </form>
+        <def>Na caoirich-mhóra – na caoirich-mhaola, na caoirich Ghallda, Chieviots, ’s mar sin. Tha mi deanamh a mach gur h-e seo a chanadh na cìobairean, gun canadh iad seo, có dhiù. [Cf.
+          caoraich-bheaga]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e219">
+        <form>
+          <orth>Cheviots</orth>
+        </form>
+        <def>’Se chēv’iots a chanadh na bodaich againne.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-idola187">
+        <form>
+          <orth>[note]</orth>
+        </form>
+        <def>Eadar-dhealachadh eadar ‘brògach’ agus ‘dubh-cheannach’.</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e237">
+        <form>
+          <orth>dubh-cheannach</orth>
+        </form>
+        <def>Dubh ge léir ’s an aodann, gun mìr geal ’sam bith. [Cf. brògach]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e246">
+        <form>
+          <orth>brògach</orth>
+        </form>
+        <def>Dorch, no dorch, dorch ’s an aodann ach gun a bhith uile gu léir dubh. [Cf. dubh-cheannach]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e255">
+        <form>
+          <orth>cùlan</orth>
+        </form>
+        <def>Na h-uibhir dubh de an chlòimh ann an cùl a’ chinn aig caora, có dhiu air mullach na h-amhach aig cùl a’ chinn. Tha cùlan innte. A’ chaora chùlanach. [Cf. tòn-dubh]</def>
+      </entry>
+      <entry xml:id="MurdoMacLeod_GlasgowMMacLeodsheep-d0e264">
+        <form>
+          <orth>tòn-dubh</orth>
+        </form>
+        <def>An aon seòrsa rud [i.e. like cùlan q.v.] aig ceann eile na caorach. Na h-uibhir de an chlòimh dubh aig deireadh na caorach. Aig a deireadh, gun a bhith suas air an sin. Sin tòn-dubh. A
+          chaora thòn-dubh. <graphic url="GlasgowMMacLeodsheep2illust14.jpg" width="150px"/>
+        </def>
+      </entry>
+    </body>
+  </text>
 </TEI>

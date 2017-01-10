@@ -1,522 +1,504 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="AOHenley_GlasgowRMorrisonpiobaireachd">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: questionnaire and word-list clipped together. Both could do with some editing, especially when it comes to gathering related information under the same headword, but except for a few minor changes they have not been edited.]</note>
-            <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>[1987-88]</date>
-            <location>
-               <placeName>Glasgow, Broomhill</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>A. O’Henley</persName>
-            </person>
-            <person role="informant">
-               <persName>Ronald Morrison</persName>
-               <birth>
-                  <placeName>Uibhisteach [Uist]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Piping</term>
-               <term>Pìobaireachd</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <head
-             xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e36"
-            >1. Ainm an inneil-chiùil fhéin, agus ainm gach pàirt air leth</head>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp486688">
-            <form>
-               <orth>màl</orth>
-            </form>
-            <def>the pipe bag.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp506128">
-            <form>
-               <orth>stòc, stuic</orth>
-            </form>
-            <def>stock.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp507640">
-            <form>
-               <orth>sionnsair</orth>
-            </form>
-            <def>chanter.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp509152">
-            <form>
-               <orth>feadann</orth>
-            </form>
-            <def>chanter.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp510664">
-            <form>
-               <orth>dos</orth>
-            </form>
-            <def>drone. 3 – fear mór, dhà bheag.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp512176">
-            <form>
-               <orth>drùmanach</orth>
-            </form>
-            <def>Barra variation for drone. [NOTES: corrected to ‘drumanach’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp513832">
-            <form>
-               <orth>gaothaire</orth>
-            </form>
-            <def>blowpipe.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp515344">
-            <form>
-               <orth>bonn feadainn</orth>
-            </form>
-            <def>silvery top of the drone. <graphic url="GlasgowRMorrisonpiobaireachdillust1.jpg" width="200px"/>
-            </def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp516856">
-            <form>
-               <orth>dos meadhonach</orth>
-            </form>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp518368">
-            <form>
-               <orth>dos a muigh</orth>
-            </form>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp519880">
-            <form>
-               <orth>barra dhos</orth>
-            </form>
-            <def>top of the drone.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp521392">
-            <form>
-               <orth>riobainean</orth>
-            </form>
-            <def>tassels.</def>
-         </entry>
-         <head
-             xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e143"
-            >2. A’ cluich na pìoba; ’ga gleusadh; gluasad nam meòirean</head>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp523840">
-            <form>
-               <orth>alltair</orth>
-            </form>
-            <def>movement of the fingers.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109815456">
-            <form>
-               <orth>sèideadh</orth>
-            </form>
-            <def>blowing into the bag.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109309024">
-            <form>
-               <orth>gothaichean</orth>
-            </form>
-            <def>reeds.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109310536">
-            <form>
-               <orth>rifaidean</orth>
-            </form>
-            <def>reeds.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109312048">
-            <form>
-               <orth>gleusadh</orth>
-            </form>
-            <def>tuning.</def>
-         </entry>
-         <head
-             xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e192"
-            >3. Ceòl pìoba: ainm gach seòrsa ciùil</head>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109314424">
-            <form>
-               <orth>caismeachd</orth>
-            </form>
-            <def>music of warning. ‘Caismeachd Chlann Chamesroin’.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109316080">
-            <form>
-               <orth>fàilte (-an)</orth>
-            </form>
-            <def>salutes.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109317592">
-            <form>
-               <orth>cruinneachadh</orth>
-            </form>
-            <def>gatherings. Rousing war tune.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109319104">
-            <form>
-               <orth>cumha</orth>
-            </form>
-            <def>lament.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109320616">
-            <form>
-               <orth>spaidsearachd</orth>
-            </form>
-            <def>ceòl mór [q.v.].</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109322128">
-            <form>
-               <orth>dìth mhòladh</orth>
-            </form>
-            <def>satires.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109323640">
-            <form>
-               <orth>fanaid</orth>
-            </form>
-            <def>satires.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109325152">
-            <form>
-               <orth>aoir</orth>
-            </form>
-            <def>satires.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109326664">
-            <form>
-               <orth>càth</orth>
-            </form>
-            <def>battle tunes. [NOTES: corrected to ‘cath’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109328320">
-            <form>
-               <orth>ceòl mór</orth>
-            </form>
-            <def>classical music of the bagpipes.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109329832">
-            <form>
-               <orth>ceòl beag</orth>
-            </form>
-            <def>marches, strathspeys, jigs, reels, hornpipes.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109331344">
-            <form>
-               <orth>ceòl meadhonach</orth>
-            </form>
-            <def>same as ‘ceòl beag’ [q.v.].</def>
-         </entry>
-         <head
-             xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e304"
-            >4. Faclan sam bith eile co-cheangailte ri pìobaireachd</head>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109333720">
-            <form>
-               <orth>pìobaireachd</orth>
-            </form>
-            <def>on its own does not mean you play ‘ceòl mór’ [q.v.]. Would need to add that you were – ‘a’ pìobaireachd ceòl mór’.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109335232">
-            <form>
-               <orth>canntaireachd</orth>
-            </form>
-            <def>prior to staff notation, this was the term used for ‘ceòl mór’ [q.v.].</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109336744">
-            <form>
-               <orth>màrsadh</orth>
-            </form>
-            <def>walking movement during the ‘ceòl mór’ [q.v.].</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109338256">
-            <form>
-               <orth>cannt</orth>
-            </form>
-            <def>to chant, from the Gregorian chant.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109339768">
-            <form>
-               <orth>canntair</orth>
-            </form>
-            <def>chanter.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109341280">
-            <form>
-               <orth>fonn</orth>
-            </form>
-            <def>a tune.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109342792">
-            <form>
-               <orth>alt cheal</orth>
-            </form>
-            <def>grace note.</def>
-         </entry>
-         <head
-             xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e371"
-             subtype="h2">Ceòl mór</head>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109345816">
-            <form>
-               <orth>ùrlar</orth>
-            </form>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109347328">
-            <form>
-               <orth>siubhal</orth>
-            </form>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109348840">
-            <form>
-               <orth>taor luath</orth>
-            </form>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109350352">
-            <form>
-               <orth>crunnlùth</orth>
-            </form>
-         </entry>
-         <head
-             xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e399"
-            >Variations on the  these themes:</head>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109352728">
-            <form>
-               <orth>dithist</orth>
-            </form>
-            <def>singling.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109354240">
-            <form>
-               <orth>dublachadh</orth>
-            </form>
-            <def>doubling.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109355752">
-            <form>
-               <orth>taor luath</orth>
-            </form>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109357264">
-            <form>
-               <orth>leum luath</orth>
-            </form>
-            <def>finger pulses. These terms derive from harp music, some of which were adopted into piping in the 17th c. [?].</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109358992">
-            <form>
-               <orth>ùrlar, siubhal</orth>
-            </form>
-            <def>accepted.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109360504">
-            <form>
-               <orth>iuladh</orth>
-            </form>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109362016">
-            <form>
-               <orth>iulag</orth>
-            </form>
-            <def>compass.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109363528">
-            <form>
-               <orth>aon lùth</orth>
-            </form>
-            <def>first pulse.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109365040">
-            <form>
-               <orth>dà lùth</orth>
-            </form>
-            <def>2-fingered movement.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109366552">
-            <form>
-               <orth>trì lùth</orth>
-            </form>
-            <def>3-fingered movement corrupted into ‘taor luath’.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109368064">
-            <form>
-               <orth>ceithir lùth</orth>
-            </form>
-            <def>corrupted into crunluath [sic].</def>
-         </entry>
-         <head
-             xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e496"
-            >The word-list</head>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109372024">
-            <form>
-               <orth>iulach</orth>
-            </form>
-            <def>one who has knowledge of guiding.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109373536">
-            <form>
-               <orth>[lùth]</orth>
-            </form>
-            <def>Trì lùth a steach, trì lùth a mach – proper terms in piping, as opposed to: Taor lùth a steach, taor lùth a mach, which are corrupt.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109375352">
-            <form>
-               <orth>siubhal-na-h-òrdaig</orth>
-            </form>
-            <def>variation.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109376864">
-            <form>
-               <orth>lùth na lùdaig</orth>
-            </form>
-            <def>birl.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109378376">
-            <form>
-               <orth>crathannan</orth>
-            </form>
-            <def>shakes.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109379888">
-            <form>
-               <orth>[breabach]</orth>
-            </form>
-            <def>Crunnlùth breabach – a kicking movement in pipe music. ‘Ceithir lùth breabach’ would be the correct term.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109382480">
-            <form>
-               <orth>crith cheol</orth>
-            </form>
-            <def>warblings. [NOTES: ‘cheol’ corrected to ‘cheòl’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109384136">
-            <form>
-               <orth>dùinte</orth>
-            </form>
-            <def>closed movement.</def>
-         </entry>
-         <head
-             xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e572"
-            >Harp terms. Those which have been borrowed into piping are marked</head>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109386512">
-            <form>
-               <orth>barr lùth</orth>
-            </form>
-            <def>bar.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109388024">
-            <form>
-               <orth>cas lùth</orth>
-            </form>
-            <def>a turning point. ‘Cas’ borrowed from Irish.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109389536">
-            <form>
-               <orth>barr lùth fosgailte</orth>
-            </form>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109391048">
-            <form>
-               <orth>trì bhuilleach</orth>
-            </form>
-            <def>three shakes.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109392560">
-            <form>
-               <orth>glas lùth</orth>
-               <pron>[tick]</pron>
-            </form>
-            <def>[tick] locking your finger.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109394072">
-            <form>
-               <orth>glas mheur</orth>
-               <pron>[tick]</pron>
-            </form>
-            <def>[tick] a difficult tune in piping.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109395584">
-            <form>
-               <orth>taobh crobh</orth>
-            </form>
-            <def>side hand. [NOTES: ‘crobh’ corrected to ‘cròbh’.]</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109397240">
-            <form>
-               <orth>crònan</orth>
-               <pron>[tick]</pron>
-            </form>
-            <def>[tick] bass sound – in the drone.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109399616">
-            <form>
-               <orth>crònanach</orth>
-            </form>
-            <def>bass sound.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109401128">
-            <form>
-               <orth>siubhal</orth>
-            </form>
-            <def>also used in harp music.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109402640">
-            <form>
-               <orth>iuladh</orth>
-            </form>
-            <def>leading. Borrowed from Irish ‘iluidh’. Came down to us as [sic]. Same as ‘siubhal’.</def>
-         </entry>
-         <head
-             xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e672"
-            >As used by General Thomason in his Ceol  Mór</head>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109405016">
-            <form>
-               <orth>eallach</orth>
-            </form>
-            <def>corrupt term used for ‘lùth na h-òrdaig’.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109406528">
-            <form>
-               <orth>buillean fuaimneach</orth>
-            </form>
-            <def>echoing sounds.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109408040">
-            <form>
-               <orth>crathadh</orth>
-            </form>
-            <def>double echo. This is the correct term.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109409552">
-            <form>
-               <orth>rabhdaire</orth>
-            </form>
-            <def>bad piper.</def>
-         </entry>
-         <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109411928">
-            <form>
-               <orth>racaire</orth>
-            </form>
-            <def>used for a keening person. A kind of precentor who went before the coffin. According to tradition there was one in every village in Barra about 100 years ago.</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AOHenley_GlasgowRMorrisonpiobaireachd">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: questionnaire and word-list clipped together. Both could do with some editing, especially when it comes to gathering related information under the same headword, but except for a
+          few minor changes they have not been edited.]</note>
+        <note>[NOTES: some notes added (most probably by K. D. MacDonald?). See below for details.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>[1987-88]</date>
+        <location>
+          <placeName>Glasgow, Broomhill</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>A. O’Henley</persName>
+        </person>
+        <person role="informant">
+          <persName>Ronald Morrison</persName>
+          <birth>
+            <placeName>Uibhisteach [Uist]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Piping</term>
+          <term>Pìobaireachd</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e36">1. Ainm an inneil-chiùil fhéin, agus ainm gach pàirt air leth</head>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp486688">
+        <form>
+          <orth>màl</orth>
+        </form>
+        <def>the pipe bag.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp506128">
+        <form>
+          <orth>stòc, stuic</orth>
+        </form>
+        <def>stock.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp507640">
+        <form>
+          <orth>sionnsair</orth>
+        </form>
+        <def>chanter.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp509152">
+        <form>
+          <orth>feadann</orth>
+        </form>
+        <def>chanter.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp510664">
+        <form>
+          <orth>dos</orth>
+        </form>
+        <def>drone. 3 – fear mór, dhà bheag.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp512176">
+        <form>
+          <orth>drùmanach</orth>
+        </form>
+        <def>Barra variation for drone. [NOTES: corrected to ‘drumanach’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp513832">
+        <form>
+          <orth>gaothaire</orth>
+        </form>
+        <def>blowpipe.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp515344">
+        <form>
+          <orth>bonn feadainn</orth>
+        </form>
+        <def>silvery top of the drone. <graphic url="GlasgowRMorrisonpiobaireachdillust1.jpg" width="200px"/>
+        </def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp516856">
+        <form>
+          <orth>dos meadhonach</orth>
+        </form>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp518368">
+        <form>
+          <orth>dos a muigh</orth>
+        </form>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp519880">
+        <form>
+          <orth>barra dhos</orth>
+        </form>
+        <def>top of the drone.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp521392">
+        <form>
+          <orth>riobainean</orth>
+        </form>
+        <def>tassels.</def>
+      </entry>
+      <head xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e143">2. A’ cluich na pìoba; ’ga gleusadh; gluasad nam meòirean</head>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp523840">
+        <form>
+          <orth>alltair</orth>
+        </form>
+        <def>movement of the fingers.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109815456">
+        <form>
+          <orth>sèideadh</orth>
+        </form>
+        <def>blowing into the bag.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109309024">
+        <form>
+          <orth>gothaichean</orth>
+        </form>
+        <def>reeds.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109310536">
+        <form>
+          <orth>rifaidean</orth>
+        </form>
+        <def>reeds.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109312048">
+        <form>
+          <orth>gleusadh</orth>
+        </form>
+        <def>tuning.</def>
+      </entry>
+      <head xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e192">3. Ceòl pìoba: ainm gach seòrsa ciùil</head>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109314424">
+        <form>
+          <orth>caismeachd</orth>
+        </form>
+        <def>music of warning. ‘Caismeachd Chlann Chamesroin’.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109316080">
+        <form>
+          <orth>fàilte (-an)</orth>
+        </form>
+        <def>salutes.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109317592">
+        <form>
+          <orth>cruinneachadh</orth>
+        </form>
+        <def>gatherings. Rousing war tune.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109319104">
+        <form>
+          <orth>cumha</orth>
+        </form>
+        <def>lament.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109320616">
+        <form>
+          <orth>spaidsearachd</orth>
+        </form>
+        <def>ceòl mór [q.v.].</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109322128">
+        <form>
+          <orth>dìth mhòladh</orth>
+        </form>
+        <def>satires.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109323640">
+        <form>
+          <orth>fanaid</orth>
+        </form>
+        <def>satires.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109325152">
+        <form>
+          <orth>aoir</orth>
+        </form>
+        <def>satires.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109326664">
+        <form>
+          <orth>càth</orth>
+        </form>
+        <def>battle tunes. [NOTES: corrected to ‘cath’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109328320">
+        <form>
+          <orth>ceòl mór</orth>
+        </form>
+        <def>classical music of the bagpipes.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109329832">
+        <form>
+          <orth>ceòl beag</orth>
+        </form>
+        <def>marches, strathspeys, jigs, reels, hornpipes.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109331344">
+        <form>
+          <orth>ceòl meadhonach</orth>
+        </form>
+        <def>same as ‘ceòl beag’ [q.v.].</def>
+      </entry>
+      <head xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e304">4. Faclan sam bith eile co-cheangailte ri pìobaireachd</head>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109333720">
+        <form>
+          <orth>pìobaireachd</orth>
+        </form>
+        <def>on its own does not mean you play ‘ceòl mór’ [q.v.]. Would need to add that you were – ‘a’ pìobaireachd ceòl mór’.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109335232">
+        <form>
+          <orth>canntaireachd</orth>
+        </form>
+        <def>prior to staff notation, this was the term used for ‘ceòl mór’ [q.v.].</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109336744">
+        <form>
+          <orth>màrsadh</orth>
+        </form>
+        <def>walking movement during the ‘ceòl mór’ [q.v.].</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109338256">
+        <form>
+          <orth>cannt</orth>
+        </form>
+        <def>to chant, from the Gregorian chant.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109339768">
+        <form>
+          <orth>canntair</orth>
+        </form>
+        <def>chanter.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109341280">
+        <form>
+          <orth>fonn</orth>
+        </form>
+        <def>a tune.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109342792">
+        <form>
+          <orth>alt cheal</orth>
+        </form>
+        <def>grace note.</def>
+      </entry>
+      <head xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e371" subtype="h2">Ceòl mór</head>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109345816">
+        <form>
+          <orth>ùrlar</orth>
+        </form>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109347328">
+        <form>
+          <orth>siubhal</orth>
+        </form>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109348840">
+        <form>
+          <orth>taor luath</orth>
+        </form>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109350352">
+        <form>
+          <orth>crunnlùth</orth>
+        </form>
+      </entry>
+      <head xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e399">Variations on the these themes:</head>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109352728">
+        <form>
+          <orth>dithist</orth>
+        </form>
+        <def>singling.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109354240">
+        <form>
+          <orth>dublachadh</orth>
+        </form>
+        <def>doubling.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109355752">
+        <form>
+          <orth>taor luath</orth>
+        </form>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109357264">
+        <form>
+          <orth>leum luath</orth>
+        </form>
+        <def>finger pulses. These terms derive from harp music, some of which were adopted into piping in the 17th c. [?].</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109358992">
+        <form>
+          <orth>ùrlar, siubhal</orth>
+        </form>
+        <def>accepted.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109360504">
+        <form>
+          <orth>iuladh</orth>
+        </form>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109362016">
+        <form>
+          <orth>iulag</orth>
+        </form>
+        <def>compass.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109363528">
+        <form>
+          <orth>aon lùth</orth>
+        </form>
+        <def>first pulse.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109365040">
+        <form>
+          <orth>dà lùth</orth>
+        </form>
+        <def>2-fingered movement.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109366552">
+        <form>
+          <orth>trì lùth</orth>
+        </form>
+        <def>3-fingered movement corrupted into ‘taor luath’.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109368064">
+        <form>
+          <orth>ceithir lùth</orth>
+        </form>
+        <def>corrupted into crunluath [sic].</def>
+      </entry>
+      <head xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e496">The word-list</head>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109372024">
+        <form>
+          <orth>iulach</orth>
+        </form>
+        <def>one who has knowledge of guiding.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109373536">
+        <form>
+          <orth>[lùth]</orth>
+        </form>
+        <def>Trì lùth a steach, trì lùth a mach – proper terms in piping, as opposed to: Taor lùth a steach, taor lùth a mach, which are corrupt.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109375352">
+        <form>
+          <orth>siubhal-na-h-òrdaig</orth>
+        </form>
+        <def>variation.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109376864">
+        <form>
+          <orth>lùth na lùdaig</orth>
+        </form>
+        <def>birl.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109378376">
+        <form>
+          <orth>crathannan</orth>
+        </form>
+        <def>shakes.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109379888">
+        <form>
+          <orth>[breabach]</orth>
+        </form>
+        <def>Crunnlùth breabach – a kicking movement in pipe music. ‘Ceithir lùth breabach’ would be the correct term.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109382480">
+        <form>
+          <orth>crith cheol</orth>
+        </form>
+        <def>warblings. [NOTES: ‘cheol’ corrected to ‘cheòl’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109384136">
+        <form>
+          <orth>dùinte</orth>
+        </form>
+        <def>closed movement.</def>
+      </entry>
+      <head xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e572">Harp terms. Those which have been borrowed into piping are marked</head>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109386512">
+        <form>
+          <orth>barr lùth</orth>
+        </form>
+        <def>bar.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109388024">
+        <form>
+          <orth>cas lùth</orth>
+        </form>
+        <def>a turning point. ‘Cas’ borrowed from Irish.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109389536">
+        <form>
+          <orth>barr lùth fosgailte</orth>
+        </form>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109391048">
+        <form>
+          <orth>trì bhuilleach</orth>
+        </form>
+        <def>three shakes.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109392560">
+        <form>
+          <orth>glas lùth</orth>
+          <pron>[tick]</pron>
+        </form>
+        <def>[tick] locking your finger.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109394072">
+        <form>
+          <orth>glas mheur</orth>
+          <pron>[tick]</pron>
+        </form>
+        <def>[tick] a difficult tune in piping.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109395584">
+        <form>
+          <orth>taobh crobh</orth>
+        </form>
+        <def>side hand. [NOTES: ‘crobh’ corrected to ‘cròbh’.]</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109397240">
+        <form>
+          <orth>crònan</orth>
+          <pron>[tick]</pron>
+        </form>
+        <def>[tick] bass sound – in the drone.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109399616">
+        <form>
+          <orth>crònanach</orth>
+        </form>
+        <def>bass sound.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109401128">
+        <form>
+          <orth>siubhal</orth>
+        </form>
+        <def>also used in harp music.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109402640">
+        <form>
+          <orth>iuladh</orth>
+        </form>
+        <def>leading. Borrowed from Irish ‘iluidh’. Came down to us as [sic]. Same as ‘siubhal’.</def>
+      </entry>
+      <head xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-d0e672">As used by General Thomason in his Ceol Mór</head>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109405016">
+        <form>
+          <orth>eallach</orth>
+        </form>
+        <def>corrupt term used for ‘lùth na h-òrdaig’.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109406528">
+        <form>
+          <orth>buillean fuaimneach</orth>
+        </form>
+        <def>echoing sounds.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109408040">
+        <form>
+          <orth>crathadh</orth>
+        </form>
+        <def>double echo. This is the correct term.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109409552" type="person">
+        <form>
+          <orth>rabhdaire</orth>
+        </form>
+        <def>bad piper.</def>
+      </entry>
+      <entry xml:id="AOHenley_GlasgowRMorrisonpiobaireachd-idp109411928" type="person">
+        <form>
+          <orth>racaire</orth>
+        </form>
+        <def>used for a keening person. A kind of precentor who went before the coffin. According to tradition there was one in every village in Barra about 100 years ago.</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

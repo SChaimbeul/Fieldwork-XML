@@ -1,120 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="CattleandSheep_GlasgowMMacLeodcattle2">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title/>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <notesStmt>
-            <note>[NOTES: this is not the ‘cattle’ questionnaire itself but a letter that Mr MacLeod sent about a month after submitting it (see the first sentence: ‘Fhuair mi bhur litir as dèidh pàipear a’ chruidh agus tapadh leibh air a son’).  It contains a few additional words (‘Chuimhnich mi air nì no dhà bhon uair ud’). The questionnaire itself seems to be missing.]</note>
-         </notesStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <creation>
-            <date>25/05/1971</date>
-            <location>
-               <placeName>Glaschu [Glasgow]</placeName>
-            </location>
-         </creation>
-         <particDesc>
-            <person role="fieldworker">
-               <persName>[self]</persName>
-            </person>
-            <person role="informant">
-               <persName>Murdo MacLeod</persName>
-               <persName xml:lang="gd">Murchadh MacLeòid</persName>
-               <age>[59]</age>
-               <birth>
-                  <placeName>[Lewis, Uig an Iar]</placeName>
-               </birth>
-            </person>
-         </particDesc>
-         <textClass>
-            <keywords>
-               <term>Cattle</term>
-               <term>Crodh</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle2-d0e41">
-            <form>
-               <orth>an cruban ( an crùban)</orth>
-               <pron>[pron.]</pron>
-            </form>
-            <def>[pron.] B’ e seo galair a bhiodh a’ tighinn air crodh Gàidhealach (no smait air crodh sam bith) le a bhith air droch fheur, droch muis [?] ’s mar sin, agus le cus deoghail a bhith air a dheanamh orra leis an laogh.  ’S ann deireadh an t-samhraidh  agus as t-fhoghar a bhiodh an galair-sa an cumantas. Chan fhaca mise an galair-sa a riamh agus cha chuala, ach tha lorg agam gu robh a leithid sin.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle2-d0e50">
-            <form>
-               <orth>brochan-cail ( brochan-càil)</orth>
-               <pron>[pron.]</pron>
-            </form>
-            <def>[pron.] B’ e seo brochan a bhiodh iad a’ toirt dhaibh airson galair sam bith – galairean cumanta ’s galairean buailteach. Do an chrodh-dhubh, co dhiu. Brochan, brochan mine, air a dheanamh agus geir agus gnothaichean gorma air a phronnadh troimhe (càl, chanainn, ’s gnothaichean gorma mar sin a bhiodh ri làimh agus feumail). Chan fhaca ’s cha chuala mi a riamh brochan-càil mar seo againne.</def>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle2-d0e59">
-            <form>
-               <orth>[maodal]</orth>
-            </form>
-            <def>A nise gu maodal na bà (na stamagan).
-      <graphic url="GlasgowMMacLeodcattle2illust1.jpg" width="400px"/>
-	           </def>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle2-idola64">
-            <form>
-               <orth>[stamagan]</orth>
-            </form>
-            <def>(Fàgaidh sinn na stamagan mar seo an dràsda gu faigh sinn air an cur ceart, mar a tha iad againne.)</def>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle2-d0e79">
-            <form>
-               <orth>[a’ mhaodal-mhór]</orth>
-               <pron>[See maodal]</pron>
-            </form>
-            <def>[See maodal]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle2-d0e88">
-            <form>
-               <orth>luamha</orth>
-               <pron>[See maodal]</pron>
-            </form>
-            <def>[See maodal] Fuaimnich seo dìreach mar a tha e sgrìobhte (a réir dòigh na Gaidhlige) ach cur fuaim ‘gh’ an àite fuaim an ‘mh’. Leis an seo bidh e dìreach mar a tha e air a fhuaimneachadh againne. Luamha, ’se seo a’ bhinid anns an laogh agus a’ ghlas ([pron.] a’ ghlās) anns a’ chaoraich. Sin mar a tha iad againne mur a h-eil mise a’ dol ceàrr. (Feuchaibh Nic Neacail. Agus bu chòir gu’n innseadh i dhuibh mar a dheanadh iad binid airson bainne-binid (‘bainne-air-bhinid’ a th’againne).</def>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle2-d0e97">
-            <form>
-               <orth>[currac-an-rìgh]</orth>
-               <pron>[See maodal]</pron>
-            </form>
-            <def>[See maodal]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle2-d0e106">
-            <form>
-               <orth>[am broilein]</orth>
-               <pron>[See maodal]</pron>
-            </form>
-            <def>[See maodal]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle2-d0e115">
-            <form>
-               <orth>[an ceap]</orth>
-               <pron>[See maodal]</pron>
-            </form>
-            <def>[See maodal]</def>
-         </entry>
-         <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle2-d0e124">
-            <form>
-               <orth>[bainne-air-bhinid]</orth>
-            </form>
-            <def>Na h-uibhir de mhin, de bhainne, agus na h-uibhir de shalainn, air a chur ann am binid (stamag) an laoigh agus ’ga chrochadh an àirde gu’m biodh feum air airson bainne-air-bhinid. Agus dheanadh e sin a cheart cho math ri stuth ’sam bith airson an aobhair a gheibh sibh as a’ bhùth. Cha robh na bodaich gun tùr!</def>
-         </entry>
-      </body>
-   </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CattleandSheep_GlasgowMMacLeodcattle2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <notesStmt>
+        <note>[NOTES: this is not the ‘cattle’ questionnaire itself but a letter that Mr MacLeod sent about a month after submitting it (see the first sentence: ‘Fhuair mi bhur litir as dèidh pàipear
+          a’ chruidh agus tapadh leibh air a son’).  It contains a few additional words (‘Chuimhnich mi air nì no dhà bhon uair ud’). The questionnaire itself seems to be missing.]</note>
+      </notesStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>25/05/1971</date>
+        <location>
+          <placeName>Glaschu [Glasgow]</placeName>
+        </location>
+      </creation>
+      <particDesc>
+        <person role="fieldworker">
+          <persName>[self]</persName>
+        </person>
+        <person role="informant">
+          <persName>Murdo MacLeod</persName>
+          <persName xml:lang="gd">Murchadh MacLeòid</persName>
+          <age>[59]</age>
+          <birth>
+            <placeName>[Lewis, Uig an Iar]</placeName>
+          </birth>
+        </person>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term>Cattle</term>
+          <term>Crodh</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle2-d0e41">
+        <form>
+          <orth>an cruban ( an crùban)</orth>
+          <pron>[pron.]</pron>
+        </form>
+        <def>[pron.] B’ e seo galair a bhiodh a’ tighinn air crodh Gàidhealach (no smait air crodh sam bith) le a bhith air droch fheur, droch muis [?] ’s mar sin, agus le cus deoghail a bhith air a
+          dheanamh orra leis an laogh. ’S ann deireadh an t-samhraidh agus as t-fhoghar a bhiodh an galair-sa an cumantas. Chan fhaca mise an galair-sa a riamh agus cha chuala, ach tha lorg agam gu
+          robh a leithid sin.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle2-d0e50">
+        <form>
+          <orth>brochan-cail ( brochan-càil)</orth>
+          <pron>[pron.]</pron>
+        </form>
+        <def>[pron.] B’ e seo brochan a bhiodh iad a’ toirt dhaibh airson galair sam bith – galairean cumanta ’s galairean buailteach. Do an chrodh-dhubh, co dhiu. Brochan, brochan mine, air a
+          dheanamh agus geir agus gnothaichean gorma air a phronnadh troimhe (càl, chanainn, ’s gnothaichean gorma mar sin a bhiodh ri làimh agus feumail). Chan fhaca ’s cha chuala mi a riamh
+          brochan-càil mar seo againne.</def>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle2-d0e59">
+        <form>
+          <orth>[maodal]</orth>
+        </form>
+        <def>A nise gu maodal na bà (na stamagan). <graphic url="GlasgowMMacLeodcattle2illust1.jpg" width="400px"/>
+        </def>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle2-idola64">
+        <form>
+          <orth>[stamagan]</orth>
+        </form>
+        <def>(Fàgaidh sinn na stamagan mar seo an dràsda gu faigh sinn air an cur ceart, mar a tha iad againne.)</def>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle2-d0e79">
+        <form>
+          <orth>[a’ mhaodal-mhór]</orth>
+          <pron>[See maodal]</pron>
+        </form>
+        <def>[See maodal]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle2-d0e88">
+        <form>
+          <orth>luamha</orth>
+          <pron>[See maodal]</pron>
+        </form>
+        <def>[See maodal] Fuaimnich seo dìreach mar a tha e sgrìobhte (a réir dòigh na Gaidhlige) ach cur fuaim ‘gh’ an àite fuaim an ‘mh’. Leis an seo bidh e dìreach mar a tha e air a fhuaimneachadh
+          againne. Luamha, ’se seo a’ bhinid anns an laogh agus a’ ghlas ([pron.] a’ ghlās) anns a’ chaoraich. Sin mar a tha iad againne mur a h-eil mise a’ dol ceàrr. (Feuchaibh Nic Neacail. Agus bu
+          chòir gu’n innseadh i dhuibh mar a dheanadh iad binid airson bainne-binid (‘bainne-air-bhinid’ a th’againne).</def>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle2-d0e97">
+        <form>
+          <orth>[currac-an-rìgh]</orth>
+          <pron>[See maodal]</pron>
+        </form>
+        <def>[See maodal]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle2-d0e106">
+        <form>
+          <orth>[am broilein]</orth>
+          <pron>[See maodal]</pron>
+        </form>
+        <def>[See maodal]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle2-d0e115">
+        <form>
+          <orth>[an ceap]</orth>
+          <pron>[See maodal]</pron>
+        </form>
+        <def>[See maodal]</def>
+      </entry>
+      <entry xml:id="CattleandSheep_GlasgowMMacLeodcattle2-d0e124">
+        <form>
+          <orth>[bainne-air-bhinid]</orth>
+        </form>
+        <def>Na h-uibhir de mhin, de bhainne, agus na h-uibhir de shalainn, air a chur ann am binid (stamag) an laoigh agus ’ga chrochadh an àirde gu’m biodh feum air airson bainne-air-bhinid. Agus
+          dheanadh e sin a cheart cho math ri stuth ’sam bith airson an aobhair a gheibh sibh as a’ bhùth. Cha robh na bodaich gun tùr!</def>
+      </entry>
+    </body>
+  </text>
 </TEI>

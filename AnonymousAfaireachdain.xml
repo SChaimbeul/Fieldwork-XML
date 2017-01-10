@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AssortedFieldworkers_AnonymousAfaireachdain">
   <teiHeader>
     <fileDesc>
@@ -60,7 +64,7 @@
       <div>
         <head xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e60">AN T-SÙIL</head>
         <div>
-          <head xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e64" subtype="h2">1. Seòrsachan sùil, pàirtean de’n t-sùil, tinneasan sùil, fradharc</head>
+          <head xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e64" type="h2">1. Seòrsachan sùil, pàirtean de’n t-sùil, tinneasan sùil, fradharc</head>
           <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e69">
             <form>
               <orth>frasg, fruisg</orth>
@@ -105,10 +109,10 @@
           </entry>
         </div>
         <div>
-          <head xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e131" subtype="h2">2. Dòighean air coimhead air duine</head>
+          <head xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e131" type="h2">2. Dòighean air coimhead air duine</head>
         </div>
         <div>
-          <head xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e135" subtype="h2">3. Gnathasan-cainnte tha bointinn ris an t-sùil</head>
+          <head xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e135" type="h2">3. Gnathasan-cainnte tha bointinn ris an t-sùil</head>
           <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e140">
             <form>
               <orth>[sùil]</orth>
@@ -183,7 +187,7 @@
       <div>
         <head xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e242">A’ CHLUAS</head>
         <div>
-        <head xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e246" subtype="h2">1. Cumaidhean chluas, pàirtean de’n chluais, tinneasan cluaise</head>
+        <head xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e246" type="h2">1. Cumaidhean chluas, pàirtean de’n chluais, tinneasan cluaise</head>
         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e251">
           <form>
             <orth>elibhag</orth>
@@ -198,7 +202,7 @@
         </entry>
         </div>
         <div>
-        <head xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e268" subtype="h2">2. Seòrsaichean de fhuaim</head>
+        <head xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e268" type="h2">2. Seòrsaichean de fhuaim</head>
         <entry xml:id="AssortedFieldworkers_AnonymousAfaireachdain-d0e273">
           <form>
             <orth>rànnaich na mara</orth>

@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BarraDBoydslips">
   <teiHeader>
     <fileDesc>
@@ -18,22 +22,11 @@
     <profileDesc>
       <creation>
         <date>1970</date>
-        <location>
-          <placeName>Barra, Castlebay</placeName>
-        </location>
+        <location corresp="Barra_Castlebay"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>? [self]</persName>
-        </person>
-        <person role="informant">
-          <persName>Donald Boyd?</persName>
-          <persName xml:lang="gd">D Boyd </persName>
-          <age>? [c. 65?]</age>
-          <birth>
-            <placeName>[North Uist?]</placeName>
-          </birth>
-        </person>
+        <person role="fieldworker" corresp="Donald_Boyd_Barra_Castlebay" cert="medium"/>
+        <person role="informant" corresp="Donald_Boyd_Barra_Castlebay"/>
       </particDesc>
       <textClass>
         <keywords>

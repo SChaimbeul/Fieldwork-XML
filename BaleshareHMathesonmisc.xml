@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AOHenley_BaleshareHMathesonmisc">
   <teiHeader>
     <fileDesc>
@@ -18,21 +22,11 @@
     <profileDesc>
       <creation>
         <date>[1987-88]</date>
-        <location>
-          <placeName>North Uist, Baleshare</placeName>
-        </location>
+        <location corresp="North_Uist_Baleshare"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>A. O’Henley</persName>
-        </person>
-        <person role="informant">
-          <persName>Hugh Matheson</persName>
-          <age>67/8</age>
-          <birth>
-            <placeName>Baleshare</placeName>
-          </birth>
-        </person>
+        <person role="fieldworker" corresp="A_O_Henley"/>
+        <person role="informant" corresp="Hugh_Matheson_North_Uist_Baleshare"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -53,7 +47,6 @@
       <entry xml:id="AOHenley_BaleshareHMathesonmisc-idp2934872">
         <form>
           <orth>[guirne]</orth>
-          <pron>[See giurne]</pron>
         </form>
         <def>[See giurne]</def>
       </entry>
