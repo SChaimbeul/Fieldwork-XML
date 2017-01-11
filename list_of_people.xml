@@ -691,7 +691,82 @@
             <surname>MacIlwrath</surname>
           </persName>
         </person>
-
+        <person xml:id="Joe_Gillis_Cape_Breton_Boisdale">
+          <persName xml:lang="en">
+            <forename>Joe</forename> 
+            <surname>Gillis</surname>
+          </persName>
+        </person>
+        <person xml:id="J_L_MacDonald_Cape_Breton_Boisdale">
+          <persName xml:lang="en">
+            <forename>J.</forename>
+            <forename>L.</forename>
+            <surname>MacDonald</surname>
+          </persName>
+        </person>
+        <person xml:id="Sadie_MacIntyre_Cape_Breton_Boisdale">
+          <persName xml:lang="en">
+            <forename>Sadie</forename>
+            <surname>MacIntyre</surname>
+          </persName>
+        </person>
+        <person xml:id="Murchadh_MacLeod_Skye_Boreraig">
+          <persName xml:lang="en">
+            <forename>Murchadh</forename>
+            <surname>MacLeod</surname>
+          </persName>
+          <persName>
+            <forename>Murchadh</forename>
+            <surname>MacLeoid</surname>
+          </persName>
+          <age>87</age>
+          <birth>
+            <location corresp="Skye_Boreraig"/>
+          </birth>
+        </person>
+        <person xml:id="Ewen_MacMillan_South_Uist_Bornish">
+          <persName xml:lang="en">
+            <forename>Ewen</forename>
+            <surname>MacMillan</surname>
+          </persName>
+        </person>
+        <person xml:id="John_MacInnes_South_Uist_Bornish">
+          <persName xml:lang="en">
+            <forename>John</forename>
+            <surname>MacInnes</surname>
+          </persName>
+        </person>
+        <person xml:id="John_MacMillan_South_Uist_Bornish">
+          <persName xml:lang="en">
+            <forename>John</forename>
+            <surname>MacMillan</surname>
+          </persName>
+        </person>
+        <person xml:id="Kate_MacMillan_South_Uist_Bornish">
+          <persName xml:lang="en">
+            <forename>Kate</forename>
+            <surname>MacMillan</surname>
+          </persName>
+        </person>
+        <person xml:id="Murdo_Morrison_Lewis_Borve">
+          <persName xml:lang="en">
+            <forename>Murdo</forename>
+            <surname>Morrison</surname>
+          </persName>
+        </person>
+        <person xml:id="Nora_Murray_Lewis_Borve">
+          <persName xml:lang="en">
+            <forename>Nora</forename>
+            <surname>Murray</surname>
+          </persName>
+        </person>
+        <person xml:id="Hugh_Duncan_Islay_Bowmore">
+          <persName xml:lang="en">
+            <forename>Hugh</forename>
+            <surname>Duncan</surname>
+          </persName>
+          <age>c. 70</age>
+        </person>
 
         <!-- Fieldworkers -->
         <person xml:id="A_J_Smith">
@@ -720,6 +795,10 @@
         </person>
         <person xml:id="John_A_Morrison">
           <persName>John A. Morrison</persName>
+        </person>
+        <person xml:id="Roderick_MacKinnon_Perth">
+          <persName>Ruairidh MacFhionghuin</persName>
+          <persName>Roderick MacKinnon</persName>
         </person>
 
         <!-- Editors -->

@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BorveNMurrayslips">
   <teiHeader>
     <fileDesc>
@@ -15,17 +19,11 @@
     <profileDesc>
       <creation>
         <date>09/1971</date>
-        <location>
-          <placeName>Lewis, Borve</placeName>
-        </location>
+        <location corresp="Lewis_Borve"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>Nora Murray</persName>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="Nora_Murray_Lewis_Borve"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -42,7 +40,7 @@
           <orth>simide</orth>
           <pron>[ʃĩmidʹə]</pron>
         </form>
-        <def>[ʃĩmidʹə] Notes: wooden stick used for beating clothes when washing them. “Simide” used elsewhere for a potato-masher – shaped like a baseball-bat.</def>
+        <def>Notes: wooden stick used for beating clothes when washing them. “Simide” used elsewhere for a potato-masher – shaped like a baseball-bat.</def>
       </entry>
     </body>
   </text>

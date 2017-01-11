@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BornishJMacInnesslips">
   <teiHeader>
     <fileDesc>
@@ -15,17 +19,11 @@
     <profileDesc>
       <creation>
         <date>02/1969</date>
-        <location>
-          <placeName>South Uist, Bornish</placeName>
-        </location>
+        <location corresp="South_Uist_Bornish"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>John MacInnes</persName>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith"/>
+        <person role="informant" corresp="John_MacInnes_South_Uist_Bornish"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -48,14 +46,14 @@
           <orth>lùth-luath</orth>
           <pron>[ɫu̜:ɫu̜ə]</pron>
         </form>
-        <def>[ɫu̜:ɫu̜ə] Notes: shimmering seen above an outside fire.</def>
+        <def>Notes: shimmering seen above an outside fire.</def>
       </entry>
       <entry xml:id="Slips_BornishJMacInnesslips-idp117946616" type="person">
         <form>
           <orth>meaban (?)</orth>
           <pron>[mɛ̃bɛ̃nʹ]</pron>
         </form>
-        <def>[mɛ̃bɛ̃nʹ] Notes: half-wit. (Barvas – cheeky young rascal.)</def>
+        <def>Notes: half-wit. (Barvas – cheeky young rascal.)</def>
       </entry>
       <entry xml:id="Slips_BornishJMacInnesslips-idp117967496">
         <form>
@@ -68,7 +66,7 @@
           <orth>riof-ìrein</orth>
           <pron>[rifi:ðɑ̃nʹ]</pron>
         </form>
-        <def>[rifi:ðɑ̃nʹ] Notes: the nearest reef to the sheet in a sail.</def>
+        <def>Notes: the nearest reef to the sheet in a sail.</def>
       </entry>
       <entry xml:id="Slips_BornishJMacInnesslips-idp117971168">
         <form>
@@ -81,7 +79,7 @@
           <orth>peursa</orth>
           <pron>[pjɤ:ʴsə]</pron>
         </form>
-        <def>[pjɤ:ʴsə] Notes: a pole (1) stuck on a rock in the sea to warn boats, (2) put up by seaweed watchers to let the people of the village know it was ashore. [NOTES: the turned r used for the
+        <def>Notes: a pole (1) stuck on a rock in the sea to warn boats, (2) put up by seaweed watchers to let the people of the village know it was ashore. [NOTES: the turned r used for the
           symbol which is unclear in the original.]</def>
       </entry>
       <entry xml:id="Slips_BornishJMacInnesslips-idp117975056">
@@ -89,21 +87,21 @@
           <orth>seursadh</orth>
           <pron>[ʃɤ:ʴsəɣ]</pron>
         </form>
-        <def>[ʃɤ:ʴsəɣ] Quotation: a’ seursadh. Notes: urging people to go and to [sic] something. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+        <def>Quotation: a’ seursadh. Notes: urging people to go and to [sic] something. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
       </entry>
       <entry xml:id="Slips_BornishJMacInnesslips-idp117977072">
         <form>
           <orth>sgàth-fhras</orth>
           <pron>[sɡɑ:ɾɑs]</pron>
         </form>
-        <def>[sɡɑ:ɾɑs] Notes: a very small shower.</def>
+        <def>Notes: a very small shower.</def>
       </entry>
       <entry xml:id="Slips_BornishJMacInnesslips-idp117978800">
         <form>
           <orth>snòt</orth>
           <pron>[sn̪ɔ:t̪]</pron>
         </form>
-        <def>[sn̪ɔ:t̪] Notes: ripple made by a fish.</def>
+        <def>Notes: ripple made by a fish.</def>
       </entry>
       <entry xml:id="Slips_BornishJMacInnesslips-idp117980528">
         <form>
@@ -122,14 +120,14 @@
           <orth>straointe</orth>
           <pron>[st̪ɾw̃:nʹtʹə]</pron>
         </form>
-        <def>[st̪ɾw̃:nʹtʹə] Quotation: Dh’fhàg e ’n dorus straointe fosgailte. Notes: He left the door wide open.</def>
+        <def>Quotation: Dh’fhàg e ’n dorus straointe fosgailte. Notes: He left the door wide open.</def>
       </entry>
       <entry xml:id="Slips_BornishJMacInnesslips-idp117986288">
         <form>
           <orth>tannt</orth>
           <pron>[t̪ɑ̃n̪t̪]</pron>
         </form>
-        <def>[t̪ɑ̃n̪t̪] Notes: a miscalling (from taunt).</def>
+        <def>Notes: a miscalling (from taunt).</def>
       </entry>
       <entry xml:id="Slips_BornishJMacInnesslips-idp117988016">
         <form>
@@ -142,14 +140,14 @@
           <orth>treamasgal</orth>
           <pron>[t̪ɾɛ̃mɑsɡəɫ]</pron>
         </form>
-        <def>[t̪ɾɛ̃mɑsɡəɫ] Notes: rubbish.</def>
+        <def>Notes: rubbish.</def>
       </entry>
       <entry xml:id="Slips_BornishJMacInnesslips-idp117991400">
         <form>
           <orth>tuilig</orth>
           <pron>[t̪u̟lıɡʹ]</pron>
         </form>
-        <def>[t̪u̟lıɡʹ] Quotation: Cha do chuir e tuilig innte. Notes: He never budged it (e.g. a boulder).</def>
+        <def>Quotation: Cha do chuir e tuilig innte. Notes: He never budged it (e.g. a boulder).</def>
       </entry>
       <entry xml:id="Slips_BornishJMacInnesslips-idp117993272">
         <form>
@@ -162,14 +160,14 @@
           <orth>blabhdadh</orth>
           <pron>[bɫɑu̟d̪əɣ]</pron>
         </form>
-        <def>[bɫɑu̟d̪əɣ] Notes: sudden loud bark or shout.</def>
+        <def>Notes: sudden loud bark or shout.</def>
       </entry>
       <entry xml:id="Slips_BornishJMacInnesslips-idp117996656">
         <form>
           <orth>buille-trot</orth>
           <pron>[bu̟lʹət̪ɾɔt̪]</pron>
         </form>
-        <def>[bu̟lʹət̪ɾɔt̪] Notes: trot.</def>
+        <def>Notes: trot.</def>
       </entry>
       <entry xml:id="Slips_BornishJMacInnesslips-idp117998384">
         <form>
@@ -182,21 +180,21 @@
           <orth>conaghucag</orth>
           <pron>[kɔṉɑɣu̜xkɑɡ]</pron>
         </form>
-        <def>[kɔṉɑɣu̜xkɑɡ] Notes: shellfish. </def>
+        <def>Notes: shellfish. </def>
       </entry>
       <entry xml:id="Slips_BornishJMacInnesslips-idp118002056">
         <form>
           <orth>corghail</orth>
           <pron>[kɔɾɑɣəl]</pron>
         </form>
-        <def>[kɔɾɑɣəl] Notes: low chirping of birds.</def>
+        <def>Notes: low chirping of birds.</def>
       </entry>
       <entry xml:id="Slips_BornishJMacInnesslips-idp118003784">
         <form>
           <orth>cread-mhàthair</orth>
           <pron>[kðed̪vɑ̃:həɾ]</pron>
         </form>
-        <def>[kðed̪vɑ̃:həɾ] Quotation: Chaneil cread-mhàthair air. Notes: “There is absolutely nothing wrong with him.”</def>
+        <def>Quotation: Chaneil cread-mhàthair air. Notes: “There is absolutely nothing wrong with him.”</def>
       </entry>
     </body>
   </text>

@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BowmoreHDuncanslips">
   <teiHeader>
     <fileDesc>
@@ -15,18 +19,11 @@
     <profileDesc>
       <creation>
         <date>12/1968</date>
-        <location>
-          <placeName>Islay, Bowmore</placeName>
-        </location>
+        <location corresp="Islay_Bowmore"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith]</persName>
-        </person>
-        <person role="informant">
-          <persName>Hugh Duncan</persName>
-          <age>c. 70</age>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith"/>
+        <person role="informant" corresp="Hugh_Duncan_Islay_Bowmore"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -157,7 +154,7 @@
           <orth>muthairle</orth>
           <pron>[mũ̜ʔərlʹə]</pron>
         </form>
-        <def>[mũ̜ʔərlʹə] Notes: ankle.</def>
+        <def>Notes: ankle.</def>
       </entry>
       <entry xml:id="Slips_BowmoreHDuncanslips-idp166347616">
         <form>

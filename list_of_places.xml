@@ -63,6 +63,9 @@
             <place xml:id="Lewis_Great_Bernera">
               <placeName xml:lang="en">Great Bernera</placeName>
             </place>
+            <place xml:id="Lewis_Borve">
+              <placeName xml:lang="en">Borve</placeName>
+            </place>
           </place>
           <place xml:id="Harris">
             <placeName xml:lang="en">Harris</placeName>
@@ -218,6 +221,9 @@
                 <placeName xml:lang="en">Balgarva</placeName>
               </place>
             </place>
+            <place xml:id="South_Uist_Bornish">
+              <placeName xml:lang="en">Bornish</placeName>
+            </place>
           </place>
           <place xml:id="Barra">
             <placeName xml:lang="en">Barra</placeName>
@@ -247,9 +253,20 @@
             </place>
           </place>
           <place xml:id="Skye">
+            <placeName>An t-Eilean Sgitheanach</placeName>
             <placeName xml:lang="en">Skye</placeName>
             <place xml:id="Skye_Bernisdale">
               <placeName xml:lang="en">Bernisdale</placeName>
+            </place>
+            <place xml:id="Skye_Boreraig">
+              <placeName>Borraraig</placeName>
+              <placeName xml:lang="en">Boreraig</placeName>
+            </place>
+          </place>
+          <place xml:id="Islay">
+            <placeName xml:lang="en">Islay</placeName>
+            <place xml:id="Islay_Bowmore">
+              <placeName xml:lang="en">Bowmore</placeName>
             </place>
           </place>
         </place>
@@ -346,13 +363,24 @@
           </place>
         </place>
         
-        <place xml:id="Nova_Scotia">
-          <placeName>Alba Nuadh</placeName>
-          <placeName xml:lang="en">Nova Scotia</placeName>
-          <place xml:id="Nova_Scotia_Antigonish">
-            <placeName xml:lang="en">Antigonish</placeName>
+        
+        <place xml:id="Canada">
+          <place xml:id="Nova_Scotia">
+            <placeName>Alba Nuadh</placeName>
+            <placeName xml:lang="en">Nova Scotia</placeName>
+            <place xml:id="Nova_Scotia_Antigonish">
+              <placeName xml:lang="en">Antigonish</placeName>
+            </place>
+            <place xml:id="Nova_Scotia_Cape_Breton">
+              <placeName xml:lang="en">Cape Breton</placeName>
+              <place xml:id="Nova_Scotia_Cape_Breton_Boisdale">
+                <placeName xml:lang="en">Boisdale</placeName>
+              </place>
+            </place>
           </place>
+          
         </place>
+        
       </listPlace>
     </body>
   </text>
