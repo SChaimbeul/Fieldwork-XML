@@ -24,12 +24,8 @@
         </location>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>M. MacD</persName>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="M_MacD_BBC"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -58,7 +54,7 @@
           <orth>rath-spars</orth>
           <pron>[rɑspɑʴs]</pron>
         </form>
-        <def>[rɑspɑʴs] Notes: impudence, e.g. of a young child. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+        <def>Notes: impudence, e.g. of a young child. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
       </entry>
       <entry xml:id="Slips_BBCMMacDslips-idp162086712">
         <form>
@@ -71,7 +67,7 @@
           <orth>brabhadach</orth>
           <pron>[bɾɑvɑd̪ɑx]</pron>
         </form>
-        <def>[bɾɑvɑd̪ɑx] Notes: M. says it’s used in Islay for “lame”. (Dw. brabhdach – bandy-legged.)</def>
+        <def>Notes: M. says it’s used in Islay for “lame”. (Dw. brabhdach – bandy-legged.)</def>
       </entry>
       <entry xml:id="Slips_BBCMMacDslips-idp162112416">
         <form>
@@ -84,14 +80,14 @@
           <orth>ceum-leatha</orth>
           <pron>[ce:mˈlɛə]</pron>
         </form>
-        <def>[ce:mˈlɛə] Quotation: Tha ceum-leatha ann. Notes: He is inclined to exaggerate.</def>
+        <def>Quotation: Tha ceum-leatha ann. Notes: He is inclined to exaggerate.</def>
       </entry>
       <entry xml:id="Slips_BBCMMacDslips-idp162115800">
         <form>
           <orth>clispearnach</orth>
           <pron>[klıspɑʴṉɑx]</pron>
         </form>
-        <def>[klıspɑʴṉɑx] Notes: penis. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+        <def>Notes: penis. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
       </entry>
       <entry xml:id="Slips_BBCMMacDslips-idp162117672">
         <form>
@@ -128,14 +124,14 @@
           <orth>fàil</orth>
           <pron>[fɑ:lʹ]</pron>
         </form>
-        <def>[fɑ:lʹ] Quotation: [fɑ:lʹ] a rathaid [rɔıdʹ]. Notes: the green bank between road and ditch.</def>
+        <def>Quotation: [fɑ:lʹ] a rathaid [rɔıdʹ]. Notes: the green bank between road and ditch.</def>
       </entry>
       <entry xml:id="Slips_BBCMMacDslips-idp162127896">
         <form>
           <orth>fidean</orth>
           <pron>[fidʹəṉ]</pron>
         </form>
-        <def>[fidʹəṉ] Notes: (usually na fidean) ground on which grass grows and is covered at high tide.</def>
+        <def>Notes: (usually na fidean) ground on which grass grows and is covered at high tide.</def>
       </entry>
       <entry xml:id="Slips_BBCMMacDslips-idp162129624">
         <form>
@@ -148,14 +144,14 @@
           <orth>gidhe</orth>
           <pron>[ˈɡʹıə]</pron>
         </form>
-        <def>[ˈɡʹıə] Notes: layer of hay put on a stack while in the making.</def>
+        <def>Notes: layer of hay put on a stack while in the making.</def>
       </entry>
       <entry xml:id="Slips_BBCMMacDslips-idp162133008">
         <form>
           <orth>gios</orth>
           <pron>[ɡʹıs]</pron>
         </form>
-        <def>[ɡʹıs] Quotation: Gios ort! Notes: heard this locally in Portree area for “Greas ort!”</def>
+        <def>Quotation: Gios ort! Notes: heard this locally in Portree area for “Greas ort!”</def>
       </entry>
     </body>
   </text>

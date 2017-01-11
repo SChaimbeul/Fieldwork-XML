@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AOHenley_BearsdenNMacDonaldaiteach">
   <teiHeader>
     <fileDesc>
@@ -18,25 +22,15 @@
     <profileDesc>
       <creation>
         <date>[1987-88]</date>
-        <location>
-          <placeName>[Glasgow], Bearsden</placeName>
-        </location>
+        <location corresp="Glasgow_Bearsden"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>A. O’Henley</persName>
-        </person>
-        <person role="informant">
-          <persName>Neil MacDonald</persName>
-          <persName xml:lang="gd">Niall Domhnallach </persName>
-          <birth>
-            <placeName>Na Hearadh [Harris]</placeName>
-          </birth>
-        </person>
+        <person role="fieldworker" corresp="A_O_Henley"/>
+        <person role="informant" corresp="Neil_MacDonald_Glasgow_Bearsden"/>
       </particDesc>
       <textClass>
         <keywords>
-          <term>Agriculture</term>
+          <term xml:lang="en">Agriculture</term>
           <term>Àiteach</term>
         </keywords>
       </textClass>
@@ -44,352 +38,378 @@
   </teiHeader>
   <text>
     <body>
-      <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e35">1. Na togalaichean: sobhal, bàthach is mar sin, agus ainm gach pàirt dhiubh</head>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112092136">
-        <form>
-          <orth>casan ceangail</orth>
-        </form>
-        <def>
-          <graphic url="BearsdenNMacDonaldaiteachillust1.jpg" width="150px"/>
-        </def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112095376">
-        <form>
-          <orth>gàth droma</orth>
-        </form>
-        <def>ridge.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112100056">
-        <form>
-          <orth>muran</orth>
-        </form>
-        <def>sea bent used for thatching.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112074496">
-        <form>
-          <orth>sioman fraoich</orth>
-        </form>
-        <def>rope for tying down the thatch.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112072984">
-        <form>
-          <orth>sioman thearlaich</orth>
-        </form>
-        <def>quire [sic] [coir?] yarn. A proper rope imported from the mainland. [NOTES: ‘thearlaich’ corrected to ‘theàrlaich’.]</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112071832">
-        <form>
-          <orth>frasach</orth>
-        </form>
-        <def>box used for horse feed.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112070320">
-        <form>
-          <orth>stalla</orth>
-        </form>
-        <def>stalls.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112068232">
-        <form>
-          <orth>taod</orth>
-        </form>
-        <def>rope put round the head of a cow or horse.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112066720">
-        <form>
-          <orth>saidhbhair</orth>
-        </form>
-        <def>hollow trench in byre where excrement accumulated.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112065208">
-        <form>
-          <orth>leac ardarais</orth>
-        </form>
-        <def>lintel.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112063696">
-        <form>
-          <orth>starsach</orth>
-        </form>
-        <def>threshold.</def>
-      </entry>
-      <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e138">2. A’ mathachadh no a’ leasachadh na talmhainn</head>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112061536">
-        <form>
-          <orth>flagais</orth>
-        </form>
-        <def>manure (horse, cattle). Mixed with seaweed and used for oats only. [Corca-flagais.]</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2502280">
-        <form>
-          <orth>feamainn shiabaidh</orth>
-        </form>
-        <def>seaweed left at high tide used as potato fertiliser.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2516392">
-        <form>
-          <orth>tiurr a’ làin</orth>
-        </form>
-        <def>what was left after high tide.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2512936">
-        <form>
-          <orth>corca-flagais</orth>
-          <pron>[See flagais.]</pron>
-        </form>
-        <def>[See flagais.]</def>
-      </entry>
-      <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e178">3. A’ treabhadh no a’ ruamhar: an crann agus ainm gach pàirt dheth</head>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2507104">
-        <form>
-          <orth>sòc</orth>
-        </form>
-        <def> the nose of the plough which went under the soil. [NOTES: corrected to ‘soc’.]</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2510632">
-        <form>
-          <orth>bòrd ùrach</orth>
-        </form>
-        <def>levelled off the dust/soil.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2511712">
-        <form>
-          <orth>colltair</orth>
-        </form>
-        <def>the part that actually cut the soil.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2517472">
-        <form>
-          <orth>spòg a’ chruinn</orth>
-        </form>
-        <def>handles of the plough.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2515960">
-        <form>
-          <orth>treasaichean</orth>
-        </form>
-        <def>chains.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2522944">
-        <form>
-          <orth>[amull]</orth>
-        </form>
-        <def>
-          <graphic url="BearsdenNMacDonaldaiteachillust2.jpg" width="300px"/> Amull mór – used with one horse. Amull beag – used with two horses.</def>
-      </entry>
-      <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e237">4. Innealan beaga leithid spaid, gràp, ràcan is mar sin</head>
-      <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e241">5. Acfhuinn an eich airson gach seòrsa obair</head>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2532232">
-        <form>
-          <orth>an t-srathair</orth>
-        </form>
-        <def>saddle on a cart.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2523736">
-        <form>
-          <orth>diallaid</orth>
-        </form>
-        <def>saddle for a steed, charger.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2539576">
-        <form>
-          <orth>coilair</orth>
-        </form>
-        <def>placed round the neck.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2541808">
-        <form>
-          <orth>briogais</orth>
-        </form>
-        <def>on the side of the horse, used when pulling a cart.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2503144">
-        <form>
-          <orth>srian</orth>
-        </form>
-        <def>reins.</def>
-      </entry>
-      <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e290">6. A’ cur an t-sìl</head>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2462576">
-        <form>
-          <orth>fàsgnadh</orth>
-        </form>
-        <def>winnowing.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2464232">
-        <form>
-          <orth>criathair</orth>
-        </form>
-        <def>sieve made with hardened sheep’s skin punctured by a white hot poker. Stretched over a wooden frame.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112111808">
-        <form>
-          <orth>moull</orth>
-        </form>
-        <def>chaff. [NOTES: corrected to ‘moll’.]</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112113464">
-        <form>
-          <orth>cuinneag</orth>
-        </form>
-        <def>bucket for carrying seed.</def>
-      </entry>
-      <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e330">7. A’ buain agus a’ tiormachadh an arbhair no an fheòir</head>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112115912">
-        <form>
-          <orth>speal</orth>
-        </form>
-        <def>scythe.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112117424">
-        <form>
-          <orth>claisean</orth>
-        </form>
-        <def>ridges in the land being harvested.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112118936">
-        <form>
-          <orth>corran mór</orth>
-        </form>
-        <def>used in this type of land.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112120448">
-        <form>
-          <orth>spàdh (-an)</orth>
-        </form>
-        <def>the line which is visible once the hay has been cut. Lines between each row of freshly cut grass. [NOTES: corrected to ‘spadh’.]</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112122104">
-        <form>
-          <orth>sguaban</orth>
-        </form>
-        <def>sheaves.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112123616">
-        <form>
-          <orth>adag</orth>
-        </form>
-        <def>four or six sheaves make an ‘adag’.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112125128">
-        <form>
-          <orth>tòit (-ean)</orth>
-        </form>
-        <def>small rick of corn.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112126640">
-        <form>
-          <orth>còcadh</orth>
-        </form>
-        <def>making small haystacks. Also used for haystacks in Harris. [NOTES: corrected to ‘cocadh’.]</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112128368">
-        <form>
-          <orth>tùghadh</orth>
-        </form>
-        <def>thatch used to keep the rain off haystacks. [NOTES: corrected to ‘tughadh’.]</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112130024">
-        <form>
-          <orth>cabhlach</orth>
-        </form>
-        <def>straw. Could also be used for weatherproofing. [NOTES: note added – connlach.]</def>
-      </entry>
-      <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e424">8. A’ togail a’ bhuntàta</head>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112132544">
-        <form>
-          <orth>seargadh</orth>
-        </form>
-        <def>when the potato leaves had withered.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112134056">
-        <form>
-          <orth>a’ putadh</orth>
-        </form>
-        <def>penetrating the ground with an iron dung fork so that it would be easier for the next process.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112135568">
-        <form>
-          <orth>cròcan</orth>
-        </form>
-        <def>a rounded piece of iron with a wooden handle used to lift potatoes. <graphic url="BearsdenNMacDonaldaiteachillust3.jpg" width="100px"/>
-        </def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112137080">
-        <form>
-          <orth>ruidealadh</orth>
-        </form>
-        <def>shaking of the dust in a basket.</def>
-      </entry>
-      <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e465">9. A’ tasgadh an arbhair agus a’ bhuntàta</head>
-      <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e469">10. A’ bualadh ’s a’ criathradh</head>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112141184">
-        <form>
-          <orth>suist</orth>
-        </form>
-        <def>
-          <graphic url="BearsdenNMacDonaldaiteachillust5.jpg" width="400px"/>
-        </def>
-        <note>[NOTES: corrected to ‘sùist’.]</note>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112142840">
-        <form>
-          <orth>bualadh</orth>
-        </form>
-        <def>describes the work done with the ‘suist’ [q.v.], which was used to grind the corn, etc.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112144352">
-        <form>
-          <orth>froiseadh</orth>
-        </form>
-        <def>oats stripped of their ears with the instrument below. <graphic url="BearsdenNMacDonaldaiteachillust6.jpg" width="400px"/>
-        </def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112145864">
-        <form>
-          <orth>clach bhràtha</orth>
-        </form>
-        <def>quernstone.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112147376">
-        <form>
-          <orth>cliathan</orth>
-        </form>
-        <def>made of wood with iron prongs. Used for harrowing.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112148888">
-        <form>
-          <orth>cliathadh</orth>
-        </form>
-        <def>harrowing.</def>
-      </entry>
-      <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e531">11. A’ bleith an t-sìl</head>
-      <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e535">12. Ainmean a chleachdar ri earrainn fearainn</head>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112152128">
-        <form>
-          <orth>iomaire</orth>
-        </form>
-        <def>plot of potatoes, corn, etc.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112153640">
-        <form>
-          <orth>feannagan</orth>
-        </form>
-        <def>lazy beds.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112155152">
-        <form>
-          <orth>sreathan</orth>
-        </form>
-        <def>drills of potato.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112156664">
-        <form>
-          <orth>cul ceinn</orth>
-        </form>
-        <def>common grazing. [NOTES: corrected to ‘cùl-ceinn’.]</def>
-      </entry>
-      <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e575">13. Faclan sam bith eile</head>
+      <div>
+        <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e35">1. Na togalaichean: sobhal, bàthach is mar sin, agus ainm gach pàirt dhiubh</head>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112092136">
+          <form>
+            <orth>casan ceangail</orth>
+          </form>
+          <def>
+            <graphic url="BearsdenNMacDonaldaiteachillust1.jpg" width="150px"/>
+          </def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112095376">
+          <form>
+            <orth>gàth droma</orth>
+          </form>
+          <def>ridge.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112100056">
+          <form>
+            <orth>muran</orth>
+          </form>
+          <def>sea bent used for thatching.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112074496">
+          <form>
+            <orth>sioman fraoich</orth>
+          </form>
+          <def>rope for tying down the thatch.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112072984">
+          <form>
+            <orth>sioman thearlaich</orth>
+          </form>
+          <def>quire [sic] [coir?] yarn. A proper rope imported from the mainland. [NOTES: ‘thearlaich’ corrected to ‘theàrlaich’.]</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112071832">
+          <form>
+            <orth>frasach</orth>
+          </form>
+          <def>box used for horse feed.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112070320">
+          <form>
+            <orth>stalla</orth>
+          </form>
+          <def>stalls.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112068232">
+          <form>
+            <orth>taod</orth>
+          </form>
+          <def>rope put round the head of a cow or horse.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112066720">
+          <form>
+            <orth>saidhbhair</orth>
+          </form>
+          <def>hollow trench in byre where excrement accumulated.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112065208">
+          <form>
+            <orth>leac ardarais</orth>
+          </form>
+          <def>lintel.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112063696">
+          <form>
+            <orth>starsach</orth>
+          </form>
+          <def>threshold.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e138">2. A’ mathachadh no a’ leasachadh na talmhainn</head>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112061536">
+          <form>
+            <orth>flagais</orth>
+          </form>
+          <def>manure (horse, cattle). Mixed with seaweed and used for oats only. [Corca-flagais.]</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2502280">
+          <form>
+            <orth>feamainn shiabaidh</orth>
+          </form>
+          <def>seaweed left at high tide used as potato fertiliser.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2516392">
+          <form>
+            <orth>tiurr a’ làin</orth>
+          </form>
+          <def>what was left after high tide.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2512936">
+          <form>
+            <orth>corca-flagais</orth>
+            <pron>[See flagais.]</pron>
+          </form>
+          <def>[See flagais.]</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e178">3. A’ treabhadh no a’ ruamhar: an crann agus ainm gach pàirt dheth</head>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2507104">
+          <form>
+            <orth>sòc</orth>
+          </form>
+          <def> the nose of the plough which went under the soil. [NOTES: corrected to ‘soc’.]</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2510632">
+          <form>
+            <orth>bòrd ùrach</orth>
+          </form>
+          <def>levelled off the dust/soil.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2511712">
+          <form>
+            <orth>colltair</orth>
+          </form>
+          <def>the part that actually cut the soil.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2517472">
+          <form>
+            <orth>spòg a’ chruinn</orth>
+          </form>
+          <def>handles of the plough.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2515960">
+          <form>
+            <orth>treasaichean</orth>
+          </form>
+          <def>chains.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2522944">
+          <form>
+            <orth>[amull]</orth>
+          </form>
+          <def>
+            <graphic url="BearsdenNMacDonaldaiteachillust2.jpg" width="300px"/> Amull mór – used with one horse. Amull beag – used with two horses.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e237">4. Innealan beaga leithid spaid, gràp, ràcan is mar sin</head>
+      </div>
+      <div>
+        <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e241">5. Acfhuinn an eich airson gach seòrsa obair</head>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2532232">
+          <form>
+            <orth>an t-srathair</orth>
+          </form>
+          <def>saddle on a cart.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2523736">
+          <form>
+            <orth>diallaid</orth>
+          </form>
+          <def>saddle for a steed, charger.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2539576">
+          <form>
+            <orth>coilair</orth>
+          </form>
+          <def>placed round the neck.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2541808">
+          <form>
+            <orth>briogais</orth>
+          </form>
+          <def>on the side of the horse, used when pulling a cart.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2503144">
+          <form>
+            <orth>srian</orth>
+          </form>
+          <def>reins.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e290">6. A’ cur an t-sìl</head>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2462576">
+          <form>
+            <orth>fàsgnadh</orth>
+          </form>
+          <def>winnowing.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp2464232">
+          <form>
+            <orth>criathair</orth>
+          </form>
+          <def>sieve made with hardened sheep’s skin punctured by a white hot poker. Stretched over a wooden frame.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112111808">
+          <form>
+            <orth>moull</orth>
+          </form>
+          <def>chaff. [NOTES: corrected to ‘moll’.]</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112113464">
+          <form>
+            <orth>cuinneag</orth>
+          </form>
+          <def>bucket for carrying seed.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e330">7. A’ buain agus a’ tiormachadh an arbhair no an fheòir</head>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112115912">
+          <form>
+            <orth>speal</orth>
+          </form>
+          <def>scythe.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112117424">
+          <form>
+            <orth>claisean</orth>
+          </form>
+          <def>ridges in the land being harvested.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112118936">
+          <form>
+            <orth>corran mór</orth>
+          </form>
+          <def>used in this type of land.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112120448">
+          <form>
+            <orth>spàdh (-an)</orth>
+          </form>
+          <def>the line which is visible once the hay has been cut. Lines between each row of freshly cut grass. [NOTES: corrected to ‘spadh’.]</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112122104">
+          <form>
+            <orth>sguaban</orth>
+          </form>
+          <def>sheaves.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112123616">
+          <form>
+            <orth>adag</orth>
+          </form>
+          <def>four or six sheaves make an ‘adag’.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112125128">
+          <form>
+            <orth>tòit (-ean)</orth>
+          </form>
+          <def>small rick of corn.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112126640">
+          <form>
+            <orth>còcadh</orth>
+          </form>
+          <def>making small haystacks. Also used for haystacks in Harris. [NOTES: corrected to ‘cocadh’.]</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112128368">
+          <form>
+            <orth>tùghadh</orth>
+          </form>
+          <def>thatch used to keep the rain off haystacks. [NOTES: corrected to ‘tughadh’.]</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112130024">
+          <form>
+            <orth>cabhlach</orth>
+          </form>
+          <def>straw. Could also be used for weatherproofing. [NOTES: note added – connlach.]</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e424">8. A’ togail a’ bhuntàta</head>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112132544">
+          <form>
+            <orth>seargadh</orth>
+          </form>
+          <def>when the potato leaves had withered.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112134056">
+          <form>
+            <orth>a’ putadh</orth>
+          </form>
+          <def>penetrating the ground with an iron dung fork so that it would be easier for the next process.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112135568">
+          <form>
+            <orth>cròcan</orth>
+          </form>
+          <def>a rounded piece of iron with a wooden handle used to lift potatoes. <graphic url="BearsdenNMacDonaldaiteachillust3.jpg" width="100px"/>
+          </def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112137080">
+          <form>
+            <orth>ruidealadh</orth>
+          </form>
+          <def>shaking of the dust in a basket.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e465">9. A’ tasgadh an arbhair agus a’ bhuntàta</head>
+      </div>
+      <div>
+        <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e469">10. A’ bualadh ’s a’ criathradh</head>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112141184">
+          <form>
+            <orth>suist</orth>
+          </form>
+          <def>
+            <graphic url="BearsdenNMacDonaldaiteachillust5.jpg" width="400px"/>
+          </def>
+          <note>[NOTES: corrected to ‘sùist’.]</note>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112142840">
+          <form>
+            <orth>bualadh</orth>
+          </form>
+          <def>describes the work done with the ‘suist’ [q.v.], which was used to grind the corn, etc.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112144352">
+          <form>
+            <orth>froiseadh</orth>
+          </form>
+          <def>oats stripped of their ears with the instrument below. <graphic url="BearsdenNMacDonaldaiteachillust6.jpg" width="400px"/>
+          </def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112145864">
+          <form>
+            <orth>clach bhràtha</orth>
+          </form>
+          <def>quernstone.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112147376">
+          <form>
+            <orth>cliathan</orth>
+          </form>
+          <def>made of wood with iron prongs. Used for harrowing.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112148888">
+          <form>
+            <orth>cliathadh</orth>
+          </form>
+          <def>harrowing.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e531">11. A’ bleith an t-sìl</head>
+      </div>
+      <div>
+        <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e535">12. Ainmean a chleachdar ri earrainn fearainn</head>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112152128">
+          <form>
+            <orth>iomaire</orth>
+          </form>
+          <def>plot of potatoes, corn, etc.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112153640">
+          <form>
+            <orth>feannagan</orth>
+          </form>
+          <def>lazy beds.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112155152">
+          <form>
+            <orth>sreathan</orth>
+          </form>
+          <def>drills of potato.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldaiteach-idp112156664">
+          <form>
+            <orth>cul ceinn</orth>
+          </form>
+          <def>common grazing. [NOTES: corrected to ‘cùl-ceinn’.]</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="AOHenley_BearsdenNMacDonaldaiteach-d0e575">13. Faclan sam bith eile</head>
+      </div>
     </body>
   </text>
 </TEI>

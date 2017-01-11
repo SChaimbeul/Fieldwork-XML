@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BettyhillBMunroslips">
   <teiHeader>
     <fileDesc>
@@ -15,17 +19,11 @@
     <profileDesc>
       <creation>
         <date>1969</date>
-        <location>
-          <placeName>Sutherland, Bettyhill</placeName>
-        </location>
+        <location corresp="Sutherland_Bettyhill"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>Betty Munro</persName>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="Betty_Munro_Sutherland_Bettyhill"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -42,56 +40,56 @@
           <orth>miotan</orth>
           <pron>[mĩt̪ɑ̃ṉ]</pron>
         </form>
-        <def>[mĩt̪ɑ̃ṉ] Notes: glove.</def>
+        <def>Notes: glove.</def>
       </entry>
       <entry xml:id="Slips_BettyhillBMunroslips-idp117940752">
         <form>
           <orth>iunnlar</orth>
           <pron>[jũ̜:ɫɑɾ]</pron>
         </form>
-        <def>[jũ̜:ɫɑɾ] Notes: floor.</def>
+        <def>Notes: floor.</def>
       </entry>
       <entry xml:id="Slips_BettyhillBMunroslips-idp117942480">
         <form>
           <orth>neapaig</orth>
           <pron>[nʹɛ̃piɡʹ]</pron>
         </form>
-        <def>[nʹɛ̃piɡʹ] Notes: handkerchief.</def>
+        <def>Notes: handkerchief.</def>
       </entry>
       <entry xml:id="Slips_BettyhillBMunroslips-idp117944208">
         <form>
           <orth>plangaid</orth>
           <pron>[pɫɑŋɡɑdʹ]</pron>
         </form>
-        <def>[pɫɑŋɡɑdʹ] Notes: blanket.</def>
+        <def>Notes: blanket.</def>
       </entry>
       <entry xml:id="Slips_BettyhillBMunroslips-idp117945936">
         <form>
           <orth>tubhailt</orth>
           <pron>[t̪u̜ɑtʹʃ]</pron>
         </form>
-        <def>[t̪u̜ɑtʹʃ] Notes: towel.</def>
+        <def>Notes: towel.</def>
       </entry>
       <entry xml:id="Slips_BettyhillBMunroslips-idp117947664">
         <form>
           <orth>briuthas</orth>
           <pron>[bɾu̟əs]</pron>
         </form>
-        <def>[bɾu̟əs] Notes: broth.</def>
+        <def>Notes: broth.</def>
       </entry>
       <entry xml:id="Slips_BettyhillBMunroslips-idp117949392">
         <form>
           <orth>ceann-chropaidh</orth>
           <pron>[cw̃ṉxɾɔpi]</pron>
         </form>
-        <def>[cw̃ṉxɾɔpi] Notes: “ceann-cropaic”.</def>
+        <def>Notes: “ceann-cropaic”.</def>
       </entry>
       <entry xml:id="Slips_BettyhillBMunroslips-idp117951120">
         <form>
           <orth>griogag</orth>
           <pron>[ɡɾıɤɡɑɡ]</pron>
         </form>
-        <def>[ɡɾıɤɡɑɡ] Notes: bead.</def>
+        <def>Notes: bead.</def>
       </entry>
     </body>
   </text>

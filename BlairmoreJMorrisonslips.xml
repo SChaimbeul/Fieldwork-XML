@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BlairmoreJMorrisonslips">
   <teiHeader>
     <fileDesc>
@@ -15,17 +19,11 @@
     <profileDesc>
       <creation>
         <date>10/1969</date>
-        <location>
-          <placeName>Sutherland, Kinlochbervie, Blairmore</placeName>
-        </location>
+        <location corresp="Sutherland_Kinlochbervie_Blairmore"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>J. Morrison</persName>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="J_Morrison_Sutherland_Kinlochbervie_Blairmore"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -48,77 +46,77 @@
           <orth>lang</orth>
           <pron>[ɫɑ̃ɣ]</pron>
         </form>
-        <def>[ɫɑ̃ɣ] Notes: ling.</def>
+        <def>Notes: ling.</def>
       </entry>
       <entry xml:id="Slips_BlairmoreJMorrisonslips-idp118014496">
         <form>
           <orth>leas</orth>
           <pron>[lʹɛs]</pron>
         </form>
-        <def>[lʹɛs] Notes: garden or stackyard.</def>
+        <def>Notes: garden or stackyard.</def>
       </entry>
       <entry xml:id="Slips_BlairmoreJMorrisonslips-idp118010392">
         <form>
           <orth>leóbag</orth>
           <pron>[lʹo:bɑɡ]</pron>
         </form>
-        <def>[lʹo:bɑɡ] </def>
+        <def></def>
       </entry>
       <entry xml:id="Slips_BlairmoreJMorrisonslips-idp118034944">
         <form>
           <orth>leumachan</orth>
           <pron>[lʹe:mɑxɑṉ]</pron>
         </form>
-        <def>[lʹe:mɑxɑṉ] Notes: frog.</def>
+        <def>Notes: frog.</def>
       </entry>
       <entry xml:id="Slips_BlairmoreJMorrisonslips-idp118036672">
         <form>
           <orth>mealc</orth>
           <pron>[mjɑɫk]</pron>
         </form>
-        <def>[mjɑɫk] Notes: milt.</def>
+        <def>Notes: milt.</def>
       </entry>
       <entry xml:id="Slips_BlairmoreJMorrisonslips-idp118038400">
         <form>
           <orth>meanbh-chuileag</orth>
           <pron>[mɑ̃ɾɑxu̟lɑɡ]</pron>
         </form>
-        <def>[mɑ̃ɾɑxu̟lɑɡ] </def>
+        <def></def>
       </entry>
       <entry xml:id="Slips_BlairmoreJMorrisonslips-idp118040128">
         <form>
           <orth>mean-thudan</orth>
           <pron>[mɛ̃ṉhu̟d̪ɑṉ]</pron>
         </form>
-        <def>[mɛ̃ṉhu̟d̪ɑṉ] Notes: a small stack of corn on a field containing 10-12 stooks.</def>
+        <def>Notes: a small stack of corn on a field containing 10-12 stooks.</def>
       </entry>
       <entry xml:id="Slips_BlairmoreJMorrisonslips-idp118041856">
         <form>
           <orth>meung</orth>
           <pron>[mjɤ̃ŋɡ]</pron>
         </form>
-        <def>[mjɤ̃ŋɡ] Notes: whey.</def>
+        <def>Notes: whey.</def>
       </entry>
       <entry xml:id="Slips_BlairmoreJMorrisonslips-idp118043584">
         <form>
           <orth>moll</orth>
           <pron>[mũ̜:ɫ]</pron>
         </form>
-        <def>[mũ̜:ɫ] Notes: chaff.</def>
+        <def>Notes: chaff.</def>
       </entry>
       <entry xml:id="Slips_BlairmoreJMorrisonslips-idp118045312">
         <form>
           <orth>ràmh</orth>
           <pron>[rɑ̃:v]</pron>
         </form>
-        <def>[rɑ̃:v] Notes: oar.</def>
+        <def>Notes: oar.</def>
       </entry>
       <entry xml:id="Slips_BlairmoreJMorrisonslips-idp118047040">
         <form>
           <orth>rùbhag</orth>
           <pron>[ru̜:ɑɡ]</pron>
         </form>
-        <def>[ru̜:ɑɡ] Notes: crab.</def>
+        <def>Notes: crab.</def>
       </entry>
       <entry xml:id="Slips_BlairmoreJMorrisonslips-idp118048768">
         <form>

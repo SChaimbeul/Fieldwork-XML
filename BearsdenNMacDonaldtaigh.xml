@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AOHenley_BearsdenNMacDonaldtaigh">
   <teiHeader>
     <fileDesc>
@@ -15,25 +19,15 @@
     <profileDesc>
       <creation>
         <date>[1987-88]</date>
-        <location>
-          <placeName>[Glasgow, Bearsden]</placeName>
-        </location>
+        <location corresp="Glasgow_Bearsden"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>A. O’Henley</persName>
-        </person>
-        <person role="informant">
-          <persName>Neil MacDonald</persName>
-          <persName xml:lang="gd">Niall Domhnallach </persName>
-          <birth>
-            <placeName>Na Hearadh [Harris]</placeName>
-          </birth>
-        </person>
+        <person role="fieldworker" corresp="A_O_Henley"/>
+        <person role="informant" corresp="Neil_MacDonald_Glasgow_Bearsden"/>
       </particDesc>
       <textClass>
         <keywords>
-          <term>House and Furnishings</term>
+          <term xml:lang="en">House and Furnishings</term>
           <term>Taigh Gàidhealach</term>
         </keywords>
       </textClass>
@@ -41,222 +35,236 @@
   </teiHeader>
   <text>
     <body>
-      <head xml:id="AOHenley_BearsdenNMacDonaldtaigh-d0e32">1. An stéidh is am balla</head>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112065376">
-        <form>
-          <orth>criath</orth>
-        </form>
-        <def>clay foundation. Also black soil was used.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112069552">
-        <form>
-          <orth>snaidheadh</orth>
-        </form>
-        <def>dressing the stones.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112070128">
-        <form>
-          <orth>a’ ghlaic</orth>
-        </form>
-        <def>the space between the outer and inner walls.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112085680">
-        <form>
-          <orth>clachan meanbh</orth>
-        </form>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112083592">
-        <form>
-          <orth>glutraigeadh</orth>
-        </form>
-        <def>small stones and clay mixed and thereafter placed between the two walls.</def>
-      </entry>
-      <head xml:id="AOHenley_BearsdenNMacDonaldtaigh-d0e78">2. Am mullach ’s an tughadh</head>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112076032">
-        <form>
-          <orth>tughadh</orth>
-        </form>
-        <def>thatch.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112059616">
-        <form>
-          <orth>muran</orth>
-        </form>
-        <def>sea bent used for thatch.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112057744">
-        <form>
-          <orth>sioman fraoich</orth>
-        </form>
-        <def>heather rope used to tie down the thatch.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112056016">
-        <form>
-          <orth>ciadhàir</orth>
-        </form>
-        <def>quire (choir?) yarn brought from mainland. Also called sioman Thearlaich.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112054792">
-        <form>
-          <orth>na casan ceangail</orth>
-        </form>
-        <def>placed on the inside of the wall. When finished a grown man could walk round the outside of the wall.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112052848">
-        <form>
-          <orth>na sparran</orth>
-        </form>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112052200">
-        <form>
-          <orth>luidhear</orth>
-        </form>
-        <def>chimney.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112056736">
-        <form>
-          <orth>maide starraig</orth>
-        </form>
-        <def>protruded from the end of the house.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112049104">
-        <form>
-          <orth>bòrdan fiodh</orth>
-        </form>
-        <def>put across the beams under the thatch.</def>
-      </entry>
-      <head xml:id="AOHenley_BearsdenNMacDonaldtaigh-d0e160">3. Dorsan is uinneagan</head>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112046296">
-        <form>
-          <orth>dorus a’ muigh</orth>
-        </form>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112101088">
-        <form>
-          <orth>lùdagan</orth>
-        </form>
-        <def>hinges.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2400392">
-        <form>
-          <orth>ursunnan</orth>
-        </form>
-        <def>door frame.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2401904">
-        <form>
-          <orth>sneac</orth>
-        </form>
-        <def>used to close the door. A small block of wood.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2403416">
-        <form>
-          <orth>socrachadh</orth>
-        </form>
-        <def>word used for positioning the ‘sneac’ [q.v.] on the inside of the door.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2404928">
-        <form>
-          <orth>clòsaid</orth>
-        </form>
-        <def>closet. Also called ‘cùlaiste’.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2406440">
-        <form>
-          <orth>[cùlaiste]</orth>
-          <pron>[See clòsaid.]</pron>
-        </form>
-        <def>[See clòsaid.]</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2407952">
-        <form>
-          <orth>trannsa</orth>
-        </form>
-        <def>lobby.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2409464">
-        <form>
-          <orth>mòt</orth>
-        </form>
-        <def>used for a fireplace not in the centre of the floor.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2410976">
-        <form>
-          <orth>mòit</orth>
-          <pron>[See mòt.]</pron>
-        </form>
-        <def>[See mòt.]</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2412488">
-        <form>
-          <orth>busan</orth>
-        </form>
-        <def>on each side of the fire. Made of clay and stone. Flat on top and were useful for keeping pans near the fire.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2414000">
-        <form>
-          <orth>leac an teinean</orth>
-        </form>
-        <def>stone slab in front of the fire.</def>
-      </entry>
-      <head xml:id="AOHenley_BearsdenNMacDonaldtaigh-d0e269">4. An broinn an taighe: na sèamraichean</head>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2416376">
-        <form>
-          <orth>beinge fiodh</orth>
-        </form>
-        <def>bench capable of sitting six.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2417888">
-        <form>
-          <orth>dreasair</orth>
-        </form>
-        <def>used to store china, silverware etc.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2419400">
-        <form>
-          <orth>creathall</orth>
-        </form>
-        <def>cradle. Also a table that would sit about eight people.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2421128">
-        <form>
-          <orth>cluinneagan uisge</orth>
-        </form>
-        <def>water containers, usually buckets to be found in the lobby or ‘trannsa’.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2422640">
-        <form>
-          <orth>sguab fhraoich</orth>
-        </form>
-        <def>a brush made of heather used to sweep the sand of the floor every Saturday night to be replaced by new sand. On having done this the house was then said to be – “air a
-          dhreasaigeadh”.</def>
-      </entry>
-      <head xml:id="AOHenley_BearsdenNMacDonaldtaigh-d0e318">5. An t-àite-teine</head>
-      <head xml:id="AOHenley_BearsdenNMacDonaldtaigh-d0e322">6. Airneis an taighe</head>
-      <head xml:id="AOHenley_BearsdenNMacDonaldtaigh-d0e326">7. Sobhal, bàthach, no bothanan sam bith eile</head>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2426744">
-        <form>
-          <orth>balla cloiche</orth>
-        </form>
-        <def>between the house and the ‘sobhal’.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2428688">
-        <form>
-          <orth>bothag chearc</orth>
-        </form>
-        <def>faisg air an taigh.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2430632">
-        <form>
-          <orth>taigh sgàile</orth>
-        </form>
-        <def>extension to the house.</def>
-      </entry>
-      <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2432576">
-        <form>
-          <orth>làr creatha</orth>
-        </form>
-      </entry>
+      <div>
+        <head xml:id="AOHenley_BearsdenNMacDonaldtaigh-d0e32">1. An stéidh is am balla</head>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112065376">
+          <form>
+            <orth>criath</orth>
+          </form>
+          <def>clay foundation. Also black soil was used.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112069552">
+          <form>
+            <orth>snaidheadh</orth>
+          </form>
+          <def>dressing the stones.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112070128">
+          <form>
+            <orth>a’ ghlaic</orth>
+          </form>
+          <def>the space between the outer and inner walls.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112085680">
+          <form>
+            <orth>clachan meanbh</orth>
+          </form>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112083592">
+          <form>
+            <orth>glutraigeadh</orth>
+          </form>
+          <def>small stones and clay mixed and thereafter placed between the two walls.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="AOHenley_BearsdenNMacDonaldtaigh-d0e78">2. Am mullach ’s an tughadh</head>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112076032">
+          <form>
+            <orth>tughadh</orth>
+          </form>
+          <def>thatch.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112059616">
+          <form>
+            <orth>muran</orth>
+          </form>
+          <def>sea bent used for thatch.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112057744">
+          <form>
+            <orth>sioman fraoich</orth>
+          </form>
+          <def>heather rope used to tie down the thatch.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112056016">
+          <form>
+            <orth>ciadhàir</orth>
+          </form>
+          <def>quire (choir?) yarn brought from mainland. Also called sioman Thearlaich.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112054792">
+          <form>
+            <orth>na casan ceangail</orth>
+          </form>
+          <def>placed on the inside of the wall. When finished a grown man could walk round the outside of the wall.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112052848">
+          <form>
+            <orth>na sparran</orth>
+          </form>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112052200">
+          <form>
+            <orth>luidhear</orth>
+          </form>
+          <def>chimney.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112056736">
+          <form>
+            <orth>maide starraig</orth>
+          </form>
+          <def>protruded from the end of the house.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112049104">
+          <form>
+            <orth>bòrdan fiodh</orth>
+          </form>
+          <def>put across the beams under the thatch.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="AOHenley_BearsdenNMacDonaldtaigh-d0e160">3. Dorsan is uinneagan</head>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112046296">
+          <form>
+            <orth>dorus a’ muigh</orth>
+          </form>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp112101088">
+          <form>
+            <orth>lùdagan</orth>
+          </form>
+          <def>hinges.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2400392">
+          <form>
+            <orth>ursunnan</orth>
+          </form>
+          <def>door frame.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2401904">
+          <form>
+            <orth>sneac</orth>
+          </form>
+          <def>used to close the door. A small block of wood.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2403416">
+          <form>
+            <orth>socrachadh</orth>
+          </form>
+          <def>word used for positioning the ‘sneac’ [q.v.] on the inside of the door.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2404928">
+          <form>
+            <orth>clòsaid</orth>
+          </form>
+          <def>closet. Also called ‘cùlaiste’.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2406440">
+          <form>
+            <orth>[cùlaiste]</orth>
+            <pron>[See clòsaid.]</pron>
+          </form>
+          <def>[See clòsaid.]</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2407952">
+          <form>
+            <orth>trannsa</orth>
+          </form>
+          <def>lobby.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2409464">
+          <form>
+            <orth>mòt</orth>
+          </form>
+          <def>used for a fireplace not in the centre of the floor.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2410976">
+          <form>
+            <orth>mòit</orth>
+            <pron>[See mòt.]</pron>
+          </form>
+          <def>[See mòt.]</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2412488">
+          <form>
+            <orth>busan</orth>
+          </form>
+          <def>on each side of the fire. Made of clay and stone. Flat on top and were useful for keeping pans near the fire.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2414000">
+          <form>
+            <orth>leac an teinean</orth>
+          </form>
+          <def>stone slab in front of the fire.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="AOHenley_BearsdenNMacDonaldtaigh-d0e269">4. An broinn an taighe: na sèamraichean</head>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2416376">
+          <form>
+            <orth>beinge fiodh</orth>
+          </form>
+          <def>bench capable of sitting six.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2417888">
+          <form>
+            <orth>dreasair</orth>
+          </form>
+          <def>used to store china, silverware etc.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2419400">
+          <form>
+            <orth>creathall</orth>
+          </form>
+          <def>cradle. Also a table that would sit about eight people.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2421128">
+          <form>
+            <orth>cluinneagan uisge</orth>
+          </form>
+          <def>water containers, usually buckets to be found in the lobby or ‘trannsa’.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2422640">
+          <form>
+            <orth>sguab fhraoich</orth>
+          </form>
+          <def>a brush made of heather used to sweep the sand of the floor every Saturday night to be replaced by new sand. On having done this the house was then said to be – “air a
+            dhreasaigeadh”.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="AOHenley_BearsdenNMacDonaldtaigh-d0e318">5. An t-àite-teine</head>
+      </div>
+      <div>
+        <head xml:id="AOHenley_BearsdenNMacDonaldtaigh-d0e322">6. Airneis an taighe</head>
+      </div>
+      <div>
+        <head xml:id="AOHenley_BearsdenNMacDonaldtaigh-d0e326">7. Sobhal, bàthach, no bothanan sam bith eile</head>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2426744">
+          <form>
+            <orth>balla cloiche</orth>
+          </form>
+          <def>between the house and the ‘sobhal’.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2428688">
+          <form>
+            <orth>bothag chearc</orth>
+          </form>
+          <def>faisg air an taigh.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2430632">
+          <form>
+            <orth>taigh sgàile</orth>
+          </form>
+          <def>extension to the house.</def>
+        </entry>
+        <entry xml:id="AOHenley_BearsdenNMacDonaldtaigh-idp2432576">
+          <form>
+            <orth>làr creatha</orth>
+          </form>
+        </entry>
+      </div>
     </body>
   </text>
 </TEI>

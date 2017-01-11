@@ -60,6 +60,9 @@
                 <placeName xml:lang="en">Lower Barvas</placeName>
               </place>
             </place>
+            <place xml:id="Lewis_Great_Bernera">
+              <placeName xml:lang="en">Great Bernera</placeName>
+            </place>
           </place>
           <place xml:id="Harris">
             <placeName xml:lang="en">Harris</placeName>
@@ -178,6 +181,9 @@
               </place>
             </place>
           </place>
+          <place xml:id="Berneray">
+            <placeName xml:lang="en">Berneray</placeName>
+          </place>
           <place xml:id="North_Uist">
             <placeName>Uibhist a Tuath</placeName>
             <placeName xml:lang="en">North Uist</placeName>
@@ -187,6 +193,10 @@
             <place xml:id="North_Uist_Bayhead">
               <placeName>Ceann a Bhàigh</placeName>
               <placeName xml:lang="en">Bayhead</placeName>
+            </place>
+            <place xml:id="North_Uist_Blashaval">
+              <placeName>Blàsheabhal</placeName>
+              <placeName xml:lang="en">Blashaval</placeName>
             </place>
           </place>
           <place xml:id="Benbecula">
@@ -232,9 +242,17 @@
             <place xml:id="Coll_Arinagour">
               <placeName xml:lang="en">Arinagour</placeName>
             </place>
+            <place xml:id="Coll_Ben_Meadhonach">
+              <placeName>Ben Meadhonach</placeName>
+            </place>
+          </place>
+          <place xml:id="Skye">
+            <placeName xml:lang="en">Skye</placeName>
+            <place xml:id="Skye_Bernisdale">
+              <placeName xml:lang="en">Bernisdale</placeName>
+            </place>
           </place>
         </place>
-
 
         <place xml:id="Perthshire">
           <placeName xml:lang="en">Perthshire</placeName>
@@ -306,6 +324,25 @@
             <place xml:id="Sutherland_Durness_Balvoolich">
               <placeName xml:lang="en">Balvoolich</placeName>
             </place>
+          </place>
+          <place xml:id="Sutherland_Bettyhill">
+            <placeName xml:lang="en">Bettyhill</placeName>
+          </place>
+          <place xml:id="Sutherland_Kinlochbervie">
+            <placeName xml:lang="en">Kinlochbervie</placeName>
+            <place xml:id="Sutherland_Kinlochbervie_Blairmore">
+              <placeName xml:lang="en">Blairmore</placeName>
+            </place>
+          </place>
+        </place>
+        
+        <place xml:id="Glasgow">
+          <placeName xml:lang="en">Glasgow</placeName>
+          <place xml:id="Glasgow_Bearsden">
+            <placeName xml:lang="en">Bearsden</placeName>
+          </place>
+          <place xml:id="Glasgow_Bishopbriggs">
+            <placeName xml:lang="en">Bishopbriggs</placeName>
           </place>
         </place>
         

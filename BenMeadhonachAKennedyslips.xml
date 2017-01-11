@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BenMeadhonachAKennedyslips">
   <teiHeader>
     <fileDesc>
@@ -15,17 +19,11 @@
     <profileDesc>
       <creation>
         <date>10/1970</date>
-        <location>
-          <placeName>Coll, Ben Meadhonach</placeName>
-        </location>
+        <location corresp="Coll_Ben_Meadhonach"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>Angus Kennedy</persName>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="Angus_Kennedy_Coll_Ben_Meadhonach"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -42,7 +40,7 @@
           <orth>ladair</orth>
           <pron>[ɫɑd̪əɾ]</pron>
         </form>
-        <def>[ɫɑd̪əɾ] Notes: ladle.</def>
+        <def>Notes: ladle.</def>
       </entry>
       <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162137576">
         <form>
@@ -68,7 +66,7 @@
           <orth>mulan</orth>
           <pron>[mũ̜ɫɑṉ]</pron>
         </form>
-        <def>[mũ̜ɫɑṉ] Notes: a round stack.</def>
+        <def>Notes: a round stack.</def>
       </entry>
       <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162143840">
         <form>
@@ -81,7 +79,7 @@
           <orth>pàirc</orth>
           <pron>[pɑ:ɾiçc]</pron>
         </form>
-        <def>[pɑ:ɾiçc] [sic] Notes: a field; can be used of an open field.</def>
+        <def>[sic] Notes: a field; can be used of an open field.</def>
       </entry>
       <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162147152">
         <form>
@@ -100,7 +98,7 @@
           <orth>sleadhan</orth>
           <pron>[slɛɑṉ]</pron>
         </form>
-        <def>[slɛɑṉ] Notes: spurtle.</def>
+        <def>Notes: spurtle.</def>
       </entry>
       <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162152048">
         <form>
@@ -113,7 +111,7 @@
           <orth>spreigean</orth>
           <pron>[spɾeɡʹɑṉ]</pron>
         </form>
-        <def>[spɾeɡʹɑṉ] Notes: a match.</def>
+        <def>Notes: a match.</def>
       </entry>
       <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162155288">
         <form>
@@ -126,7 +124,7 @@
           <orth>taobh-shlat</orth>
           <pron>[t̪w:ɫɑd̪]</pron>
         </form>
-        <def>[t̪w:ɫɑd̪] Notes: strap on which boat seats rest.</def>
+        <def>Notes: strap on which boat seats rest.</def>
       </entry>
       <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162158672">
         <form>
@@ -139,7 +137,7 @@
           <orth>ùireachair</orth>
           <pron>[u̜:ɾɑxəɾ]</pron>
         </form>
-        <def>[u̜:ɾɑxəɾ] Notes: mould-board.</def>
+        <def>Notes: mould-board.</def>
       </entry>
       <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162162128">
         <form>
@@ -176,7 +174,7 @@
           <orth>buthal</orth>
           <pron>[ˈbu̜əɫ]</pron>
         </form>
-        <def>[ˈbu̜əɫ] Quotation: buthal na poite. Notes: pot handle.</def>
+        <def>Quotation: buthal na poite. Notes: pot handle.</def>
       </entry>
       <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162172136">
         <form>
@@ -243,7 +241,7 @@
           <orth>goillean</orth>
           <pron>[ɡɤlʹɑṉ]</pron>
         </form>
-        <def>[ɡɤlʹɑṉ] Notes: a taper.</def>
+        <def>Notes: a taper.</def>
       </entry>
       <entry xml:id="Slips_BenMeadhonachAKennedyslips-idp162189128">
         <form>

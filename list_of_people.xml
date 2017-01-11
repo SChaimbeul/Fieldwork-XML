@@ -602,7 +602,96 @@
           </persName>
           <age>c. 65</age>
         </person>
-        
+        <person xml:id="M_MacD_BBC">
+          <persName>M. MacD</persName>
+        </person>
+        <person xml:id="Neil_MacDonald_Glasgow_Bearsden">
+          <persName xml:lang="en">
+            <forename>Neil</forename>
+            <surname>MacDonald</surname>
+          </persName>
+          <persName>
+            <forename>Niall</forename>
+            <surname>Domhnallach</surname>
+          </persName>
+          <birth>
+            <location corresp="Harris"/>
+          </birth>
+        </person>
+        <person xml:id="Angus_Kennedy_Coll_Ben_Meadhonach">
+          <persName xml:lang="en">
+            <forename>Angus</forename>
+            <surname>Kennedy</surname>
+          </persName>
+        </person>
+        <person xml:id="Donald_MacAulay_Lewis_Great_Bernera">
+          <persName xml:lang="en">
+            <forename>Donald</forename>
+            <surname>MacAulay</surname>
+          </persName>
+        </person>
+        <person xml:id="Flora_MacCuish_Berneray">
+          <persName xml:lang="en">
+            <forename>Flora</forename>
+            <surname>MacCuish</surname>
+          </persName>
+          <age>63</age>
+        </person>
+        <person xml:id="Finlay_MacCuish_Berneray">
+          <persName xml:lang="en">
+            <forename>Finlay</forename> 
+            <surname>MacCuish</surname>
+          </persName>
+          <age>70 [?]</age>
+        </person>
+        <person xml:id="Neil_Campbell_Berneray">
+          <persName xml:lang="en">
+            <forename>Neil</forename>
+            <surname>Campbell</surname>
+          </persName>
+          <age>48</age>
+          <birth>
+            <location corresp="Berneray"/>
+            <placeName>Harris, Bernera</placeName>
+          </birth>
+        </person>
+        <person xml:id="Mr_J_Sutherland_Skye_Bernisdale">
+          <persName xml:lang="en">
+            <roleName>Mr</roleName>
+            <forename>J.</forename>
+            <surname>Sutherland</surname>
+          </persName>
+        </person>
+        <person xml:id="Betty_Munro_Sutherland_Bettyhill">
+          <persName xml:lang="en">
+            <forename>Betty</forename>
+            <surname>Munro</surname>
+          </persName>
+        </person>
+        <person xml:id="Mrs_Mary_Crane_Glasgow_Bishopbriggs">
+          <persName xml:lang="en">
+            <roleName>Mrs</roleName> 
+            <forename>Mary</forename> 
+            <surname>Crane</surname>
+          </persName>
+          <birth>
+            <location corresp="Lewis"/>
+          </birth>
+        </person>
+        <person xml:id="J_Morrison_Sutherland_Kinlochbervie_Blairmore">
+          <persName>
+            <forename>J.</forename>
+            <surname>Morrison</surname>
+          </persName>
+        </person>
+        <person xml:id="Katie_Mary_MacIlwrath_North_Uist_Blashaval">
+          <persName>
+            <forename>Katie</forename>
+            <forename>Mary</forename>
+            <surname>MacIlwrath</surname>
+          </persName>
+        </person>
+
 
         <!-- Fieldworkers -->
         <person xml:id="A_J_Smith">
@@ -625,6 +714,12 @@
         </person>
         <person xml:id="I_M_Morrison">
           <persName xml:lang="en">I. M. Morrison</persName>
+        </person>
+        <person xml:id="Marion_MacLean">
+          <persName>Marion MacLean</persName>
+        </person>
+        <person xml:id="John_A_Morrison">
+          <persName>John A. Morrison</persName>
         </person>
 
         <!-- Editors -->
