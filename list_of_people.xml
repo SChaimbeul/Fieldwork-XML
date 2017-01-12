@@ -843,7 +843,30 @@
             <location corresp="Inverness-shire_Glenurquhart_Drumnadrochit_Bunloit"/>
           </birth>
         </person>
-        
+        <person xml:id="Donald_Robertson_Skye_Sleat_Calligary">
+          <persName xml:lang="en">
+            <forename>Donald</forename>
+            <surname>Robertson</surname>
+          </persName>
+          <age>c. 80</age>
+        </person>
+        <person xml:id="Angus_Martin_Kintyre_Campbeltown">
+          <persName xml:lang="en">
+            <forename>Angus</forename>
+            <surname>Martin</surname>
+          </persName>
+        </person>
+        <person xml:id="Murdo_MacLeod_Kintyre_Campbeltown">
+          <persName xml:lang="en">
+            <forename>Murdo</forename>
+            <surname>MacLeod</surname>
+          </persName>
+          <persName>Murchadh MacLeòid</persName>
+          <age>60</age>
+          <birth>
+            <location corresp="Lewis_Uig"/>
+          </birth>
+        </person>
 
         <!-- Fieldworkers -->
         <person xml:id="A_J_Smith">

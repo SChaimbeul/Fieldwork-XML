@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Ecclesiastical_CampbeltownMMacLeodeccles">
   <teiHeader>
     <fileDesc>
@@ -14,25 +18,15 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <location>
-          <placeName>Argyll, Campbeltown</placeName>
-        </location>
+        <location corresp="Kintyre_Campbeltown"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[self]</persName>
-        </person>
-        <person role="informant">
-          <persName>Murdo MacLeod</persName>
-          <age>60</age>
-          <birth>
-            <placeName>Lewis, Uig</placeName>
-          </birth>
-        </person>
+        <person role="fieldworker" corresp="Murdo_MacLeod_Kintyre_Campbeltown"/>
+        <person role="informant" corresp="Murdo_MacLeod_Kintyre_Campbeltown"/>
       </particDesc>
       <textClass>
         <keywords>
-          <term>Ecclesiastical Terms</term>
+          <term xml:lang="en">Ecclesiastical Terms</term>
           <term>An Eaglais</term>
         </keywords>
       </textClass>
@@ -219,54 +213,56 @@
             <orth>An Cruithear</orth>
           </form>
         </entry>
-        <head xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e270" subtype="h2">Sayings referring to God:</head>
-        <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e275">
-          <form>
-            <orth>An ainm an Righ!</orth>
-          </form>
-        </entry>
-        <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e281">
-          <form>
-            <orth>Gu sealladh E ort!</orth>
-          </form>
-        </entry>
-        <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e287">
-          <form>
-            <orth>Air sgàth ni math!</orth>
-          </form>
-        </entry>
-        <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e293">
-          <form>
-            <orth>A Thi nam Buadh!</orth>
-          </form>
-        </entry>
-        <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e299">
-          <form>
-            <orth>Gu sealladh Sealbh ort!</orth>
-          </form>
-        </entry>
-        <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e305">
-          <form>
-            <orth>Gu sealladh Sealbh Mor ort!</orth>
-          </form>
-        </entry>
-        <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e311">
-          <form>
-            <orth>A Thi mhòir, fhearaibh!</orth>
-          </form>
-        </entry>
-        <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e317">
-          <form>
-            <orth>A chruthadair mhathasaich!</orth>
-          </form>
-        </entry>
-        <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e323">
-          <form>
-            <orth>[Moire]</orth>
-          </form>
-          <def>Bha sibh ag iasgach an diugh. An d’fhuair sibh tòrr/mòran? Moire, fhuair! Fhuair sinn an t-Agh. ‘Moire!’ is used quite regularly in Uig, although it is very far from Catholic
-            influences.</def>
-        </entry>
+        <div>
+          <head xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e270" type="h2">Sayings referring to God:</head>
+          <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e275">
+            <form>
+              <orth>An ainm an Righ!</orth>
+            </form>
+          </entry>
+          <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e281">
+            <form>
+              <orth>Gu sealladh E ort!</orth>
+            </form>
+          </entry>
+          <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e287">
+            <form>
+              <orth>Air sgàth ni math!</orth>
+            </form>
+          </entry>
+          <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e293">
+            <form>
+              <orth>A Thi nam Buadh!</orth>
+            </form>
+          </entry>
+          <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e299">
+            <form>
+              <orth>Gu sealladh Sealbh ort!</orth>
+            </form>
+          </entry>
+          <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e305">
+            <form>
+              <orth>Gu sealladh Sealbh Mor ort!</orth>
+            </form>
+          </entry>
+          <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e311">
+            <form>
+              <orth>A Thi mhòir, fhearaibh!</orth>
+            </form>
+          </entry>
+          <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e317">
+            <form>
+              <orth>A chruthadair mhathasaich!</orth>
+            </form>
+          </entry>
+          <entry xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e323">
+            <form>
+              <orth>[Moire]</orth>
+            </form>
+            <def>Bha sibh ag iasgach an diugh. An d’fhuair sibh tòrr/mòran? Moire, fhuair! Fhuair sinn an t-Agh. ‘Moire!’ is used quite regularly in Uig, although it is very far from Catholic
+              influences.</def>
+          </entry>
+        </div>
       </div>
       <div>
         <head xml:id="Ecclesiastical_CampbeltownMMacLeodeccles-d0e331">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</head>

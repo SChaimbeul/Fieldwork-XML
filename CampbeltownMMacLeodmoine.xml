@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Peat_CampbeltownMMacLeodmoine">
   <teiHeader>
     <fileDesc>
@@ -17,19 +21,11 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <location>
-          <placeName>Cinntire, An Ceann a Deas [Kintyre, Southend by Campbeltown]</placeName>
-        </location>
+        <location corresp="Kintyre_Campbeltown"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[self]</persName>
-        </person>
-        <person role="informant">
-          <persName>Murdo MacLeod</persName>
-          <persName xml:lang="gd">Murchadh MacLeòid </persName>
-          <age>59</age>
-        </person>
+        <person role="fieldworker" corresp="Murdo_MacLeod_Kintyre_Campbeltown"/>
+        <person role="informant" corresp="Murdo_MacLeod_Kintyre_Campbeltown"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -41,274 +37,278 @@
   </teiHeader>
   <text>
     <body>
-      <head xml:id="Peat_CampbeltownMMacLeodmoine-d0e34">1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e39">
-        <form>
-          <orth>poll mònadh</orth>
-        </form>
-        <def>peat bank.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e48">
-        <form>
-          <orth>’rùsgadh</orth>
-        </form>
-        <def>cutting the top layer of turf.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e57">
-        <form>
-          <orth>rodaigeadh</orth>
-        </form>
-        <def>cutting a straight line with a spade, marking the breadth of turf to be taken off.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e66">
-        <form>
-          <orth>fèannadh</orth>
-        </form>
-        <def>cutting underneath the turf.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e75">
-        <form>
-          <orth>ceap ()</orth>
-          <pron>[masc.]</pron>
-        </form>
-        <def>[masc.] a piece of turf usually three spades’ breadth wide by one across by one in depth. </def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e86">
-        <form>
-          <orth>a’ càradh nan ceap</orth>
-        </form>
-        <def>laying the turf neatly grassy side up inside the peat bank. This arrangement actually improves the growth of grass.</def>
-      </entry>
-      <head xml:id="Peat_CampbeltownMMacLeodmoine-d0e94">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e99">
-        <form>
-          <orth>teireisgeir ()</orth>
-          <pron>[masc.]</pron>
-        </form>
-        <def>[masc.] peat iron. Has three main parts: ‘iarunn’ i.e. the blade; ‘cas’ i.e. handle and ‘smeachan’ i.e. foot-rest, for the right foot (a chas dheas) to press the implement down. </def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e110">
-        <form>
-          <orth>an carcaire</orth>
-        </form>
-        <def>the part of the peat bank with the turf removed, i.e. the part to be cut. <graphic url="CampbeltownMMacLeodmoineillust3.jpg" width="400px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e121">
-        <form>
-          <orth>am barrad (am barr fhad)</orth>
-        </form>
-        <def>the top peat, i.e. the first layer to be cut.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e130">
-        <form>
-          <orth>an corrod</orth>
-        </form>
-        <def>the very fist peat cut. As it comes out of the face of the ‘carcaire’ [q.v.] the outside has been exposed to the elements since the last cutting the previous year. Consequently it is not
-          so good and sometimes discarded (Tha e chòrr.)</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e139">
-        <form>
-          <orth>an caoran</orth>
-        </form>
-        <def>the last layer of peat; or the bottom layer, usually of less depth than the ones above it; generally hard and black. ‘Iarraidh an caoran-dubh a gharadh mu’n gar e fhein càch.’</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e148">
-        <form>
-          <orth>mòine dhubh</orth>
-        </form>
-        <def>always hard, good quality.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e157">
-        <form>
-          <orth>moine bhan</orth>
-        </form>
-        <def>usually soft, light and not so good. (The word used in Kintyre to describe this kind of peat is ‘phozy’.)</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e166">
-        <form>
-          <orth>moine dhonn</orth>
-        </form>
-        <def>good quality, not brittle.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e175">
-        <form>
-          <orth>moine chòsach bhàn</orth>
-        </form>
-        <def>light and ‘phozy’, not good.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e184">
-        <form>
-          <orth>moine phlòiteanach</orth>
-        </form>
-        <def>light and ‘phozy’, not good.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e193">
-        <form>
-          <orth>plòitean</orth>
-        </form>
-        <def>fibry, brown material in peat. Pockets of it are sometimes found in quite hard peat. It used to be smoked in home-made pipes by boys. The pipes were either made of potato hollowed out
-          with a stem of ‘cuiseag’ (docken plant) or of a section from a cabbage stem (the tough part above the ground was best) with the ‘cuiseag’ stem: piob phuntàt and piob chàil.</def>
-      </entry>
-      <head xml:id="Peat_CampbeltownMMacLeodmoine-d0e201">3. A’ tiormachadh na mònach</head>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e206">
-        <form>
-          <orth>rùdhadh</orth>
-        </form>
-        <def>setting the peats up on end in groups of five or six, with one peat flat over the top of the others, like a ‘crom-lech’ to ward off the rain, a kind of cap. Each group is a ‘rùdhan’. This
-          is called ‘fittin’’ the peats in Kintyre. A lady from Shetland visiting recently used this term fittin’ – probably from ‘footing’.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e215">
-        <form>
-          <orth>cruachadh</orth>
-        </form>
-        <def>fairly big heaps of peat after drying off in the ‘rùdhan’.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e224">
-        <form>
-          <orth>cruach mhor</orth>
-          <pron>[See cruachadh]</pron>
-        </form>
-        <def>[See cruachadh]</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e233">
-        <form>
-          <orth>cruach stéidhidh</orth>
-        </form>
-        <def>a very big heap of peats with the outside layer carefully built, one peat overlapping another like slates of a house, to ward off the rain. When a year’s supply is carted home, it is
-          finished off in this manner, although some people favour the ‘side on’ method of ‘stéidheadh’, e.g. <graphic url="CampbeltownMMacLeodmoineillust4.jpg" width="200px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e244">
-        <form>
-          <orth>tughadh</orth>
-        </form>
-        <def>covering the stacks with turf for the winter. The turf is the ‘cip’ (ceap, Sing.; cip, Plural) cut off the ‘carcaire’ [q.v.] and fairly dry; used grass-side in, i.e. next the peats. Tha
-          a’ mhòine a’ tiormachadh anns a’ chruaich. Cha bhithear a tuthadh [sic] nan cruach gu bith mhoine an ìre mhath tioram. Tha i n uairsin ‘fo laidh’ [q.v.] airson a Gheamhraidh.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e253">
-        <form>
-          <orth>fo laidh</orth>
-        </form>
-        <def>safe under cover. This may be a Lewis expression. It rhymes with ‘tigh’ as pronounced in Lewis. The ‘l’ is single as in ‘loch’. I’m not at all sure of the spelling.</def>
-      </entry>
-      <head xml:id="Peat_CampbeltownMMacLeodmoine-d0e261">4. A’ cruachadh na mònach</head>
-      <head xml:id="Peat_CampbeltownMMacLeodmoine-d0e265">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e270">
-        <form>
-          <orth>cliabh</orth>
-        </form>
-        <def>
-          <graphic url="CampbeltownMMacLeodmoineillust5.jpg" width="400px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e281">
-        <form>
-          <orth>iris</orth>
-        </form>
-        <def>
-          <graphic url="CampbeltownMMacLeodmoineillust5.jpg" width="400px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e292">
-        <form>
-          <orth>briagan</orth>
-        </form>
-        <def>
-          <graphic url="CampbeltownMMacLeodmoineillust5.jpg" width="400px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e303">
-        <form>
-          <orth>sprid ( spridean</orth>
-          <pron>[fem.]</pron>
-        </form>
-        <def>[fem.]), [pl.] the end of the ‘iris’ [q.v.] fitted over the ‘sprid’. This kept the ‘iris’ from pulling out.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e312">
-        <form>
-          <orth>bachalaibh (pronounced bachaloo)</orth>
-        </form>
-        <def>a small creel.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e321">
-        <form>
-          <orth>dronnag</orth>
-        </form>
-        <def>a coarse skirt which was rolled up round the waist and arranged as a cushion below the creel. This ‘cushion’ was the ‘dronnag’. The skirt was ‘còta-dronnaig’.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e330">
-        <form>
-          <orth>cuaran ()</orth>
-          <pron>[masc.]</pron>
-        </form>
-        <def>[masc.] stockings with thick soles of cloth, or perhaps socks folded up, sewn on. Worn by the women.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e339">
-        <form>
-          <orth>osan ()</orth>
-          <pron>[masc.]</pron>
-        </form>
-        <def>[masc.] stocking with the sole cut off, leaving the top of the foot on. This top part was kept in place by means of a loop of woollen thread (many threads twisted together) which fitted
-          over the two middle toes.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e348">
-        <form>
-          <orth>cabar</orth>
-        </form>
-        <def>when a new creel was being made, the stakes (of willow) were called ‘cabair’. Cabair a’ chleibh.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e357">
-        <form>
-          <orth>caol</orth>
-        </form>
-        <def>willow.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e366">
-        <form>
-          <orth>caol-fighe</orth>
-        </form>
-        <def>willow for weaving the sides of a creel or basket.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e375">
-        <form>
-          <orth>caol-dubh</orth>
-          <pron>[willow]</pron>
-        </form>
-        <def>[willow] found growing wild. Sometimes used [for weaving the sides of a creel or basket] when there was no other.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e384">
-        <form>
-          <orth>ceap or ceap cleibh</orth>
-        </form>
-        <def>a square frame with holes to hold the ‘cabair’ [q.v.] when making a creel.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e393">
-        <form>
-          <orth>ceap-iarainn</orth>
-        </form>
-        <def>cobbler’s last.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e402">
-        <form>
-          <orth>ceap starra</orth>
-        </form>
-        <def>a cross piece of wood at the door as one came in. It was underfoot.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e411">
-        <form>
-          <orth>ceap-mullaich</orth>
-        </form>
-        <def>topmost turf. To go one better than anyone else. Chuir thu ceap mullaich orra.</def>
-      </entry>
-      <entry xml:id="Peat_CampbeltownMMacLeodmoine-idola193">
-        <form>
-          <orth>[note]</orth>
-        </form>
-        <def>(Sorry for the digression and not keeping to the strict headings of the faclan.)</def>
-      </entry>
-      <head xml:id="Peat_CampbeltownMMacLeodmoine-d0e428">6. Seòrsachan mònach</head>
-      <head xml:id="Peat_CampbeltownMMacLeodmoine-d0e432">7. Faclan eile</head>
+      <div>
+        <head xml:id="Peat_CampbeltownMMacLeodmoine-d0e34">1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e39">
+          <form>
+            <orth>poll mònadh</orth>
+          </form>
+          <def>peat bank.</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e48">
+          <form>
+            <orth>’rùsgadh</orth>
+          </form>
+          <def>cutting the top layer of turf.</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e57">
+          <form>
+            <orth>rodaigeadh</orth>
+          </form>
+          <def>cutting a straight line with a spade, marking the breadth of turf to be taken off.</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e66">
+          <form>
+            <orth>fèannadh</orth>
+          </form>
+          <def>cutting underneath the turf.</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e75">
+          <form>
+            <orth>ceap ()</orth>
+          </form>
+          <def>[masc.] a piece of turf usually three spades’ breadth wide by one across by one in depth. </def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e86">
+          <form>
+            <orth>a’ càradh nan ceap</orth>
+          </form>
+          <def>laying the turf neatly grassy side up inside the peat bank. This arrangement actually improves the growth of grass.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Peat_CampbeltownMMacLeodmoine-d0e94">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e99">
+          <form>
+            <orth>teireisgeir ()</orth>
+          </form>
+          <def>[masc.] peat iron. Has three main parts: ‘iarunn’ i.e. the blade; ‘cas’ i.e. handle and ‘smeachan’ i.e. foot-rest, for the right foot (a chas dheas) to press the implement down. </def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e110">
+          <form>
+            <orth>an carcaire</orth>
+          </form>
+          <def>the part of the peat bank with the turf removed, i.e. the part to be cut. <graphic url="CampbeltownMMacLeodmoineillust3.jpg" width="400px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e121">
+          <form>
+            <orth>am barrad (am barr fhad)</orth>
+          </form>
+          <def>the top peat, i.e. the first layer to be cut.</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e130">
+          <form>
+            <orth>an corrod</orth>
+          </form>
+          <def>the very fist peat cut. As it comes out of the face of the ‘carcaire’ [q.v.] the outside has been exposed to the elements since the last cutting the previous year. Consequently it is
+            not so good and sometimes discarded (Tha e chòrr.)</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e139">
+          <form>
+            <orth>an caoran</orth>
+          </form>
+          <def>the last layer of peat; or the bottom layer, usually of less depth than the ones above it; generally hard and black. ‘Iarraidh an caoran-dubh a gharadh mu’n gar e fhein càch.’</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e148">
+          <form>
+            <orth>mòine dhubh</orth>
+          </form>
+          <def>always hard, good quality.</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e157">
+          <form>
+            <orth>moine bhan</orth>
+          </form>
+          <def>usually soft, light and not so good. (The word used in Kintyre to describe this kind of peat is ‘phozy’.)</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e166">
+          <form>
+            <orth>moine dhonn</orth>
+          </form>
+          <def>good quality, not brittle.</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e175">
+          <form>
+            <orth>moine chòsach bhàn</orth>
+          </form>
+          <def>light and ‘phozy’, not good.</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e184">
+          <form>
+            <orth>moine phlòiteanach</orth>
+          </form>
+          <def>light and ‘phozy’, not good.</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e193">
+          <form>
+            <orth>plòitean</orth>
+          </form>
+          <def>fibry, brown material in peat. Pockets of it are sometimes found in quite hard peat. It used to be smoked in home-made pipes by boys. The pipes were either made of potato hollowed out
+            with a stem of ‘cuiseag’ (docken plant) or of a section from a cabbage stem (the tough part above the ground was best) with the ‘cuiseag’ stem: piob phuntàt and piob chàil.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Peat_CampbeltownMMacLeodmoine-d0e201">3. A’ tiormachadh na mònach</head>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e206">
+          <form>
+            <orth>rùdhadh</orth>
+          </form>
+          <def>setting the peats up on end in groups of five or six, with one peat flat over the top of the others, like a ‘crom-lech’ to ward off the rain, a kind of cap. Each group is a ‘rùdhan’.
+            This is called ‘fittin’’ the peats in Kintyre. A lady from Shetland visiting recently used this term fittin’ – probably from ‘footing’.</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e215">
+          <form>
+            <orth>cruachadh</orth>
+          </form>
+          <def>fairly big heaps of peat after drying off in the ‘rùdhan’.</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e224">
+          <form>
+            <orth>cruach mhor</orth>
+          </form>
+          <def>[See cruachadh]</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e233">
+          <form>
+            <orth>cruach stéidhidh</orth>
+          </form>
+          <def>a very big heap of peats with the outside layer carefully built, one peat overlapping another like slates of a house, to ward off the rain. When a year’s supply is carted home, it is
+            finished off in this manner, although some people favour the ‘side on’ method of ‘stéidheadh’, e.g. <graphic url="CampbeltownMMacLeodmoineillust4.jpg" width="200px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e244">
+          <form>
+            <orth>tughadh</orth>
+          </form>
+          <def>covering the stacks with turf for the winter. The turf is the ‘cip’ (ceap, Sing.; cip, Plural) cut off the ‘carcaire’ [q.v.] and fairly dry; used grass-side in, i.e. next the peats. Tha
+            a’ mhòine a’ tiormachadh anns a’ chruaich. Cha bhithear a tuthadh [sic] nan cruach gu bith mhoine an ìre mhath tioram. Tha i n uairsin ‘fo laidh’ [q.v.] airson a Gheamhraidh.</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e253">
+          <form>
+            <orth>fo laidh</orth>
+          </form>
+          <def>safe under cover. This may be a Lewis expression. It rhymes with ‘tigh’ as pronounced in Lewis. The ‘l’ is single as in ‘loch’. I’m not at all sure of the spelling.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Peat_CampbeltownMMacLeodmoine-d0e261">4. A’ cruachadh na mònach</head>
+      </div>
+      <div>
+        <head xml:id="Peat_CampbeltownMMacLeodmoine-d0e265">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e270">
+          <form>
+            <orth>cliabh</orth>
+          </form>
+          <def>
+            <graphic url="CampbeltownMMacLeodmoineillust5.jpg" width="400px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e281">
+          <form>
+            <orth>iris</orth>
+          </form>
+          <def>
+            <graphic url="CampbeltownMMacLeodmoineillust5.jpg" width="400px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e292">
+          <form>
+            <orth>briagan</orth>
+          </form>
+          <def>
+            <graphic url="CampbeltownMMacLeodmoineillust5.jpg" width="400px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e303">
+          <form>
+            <orth>sprid ( spridean</orth>
+          </form>
+          <def>[fem.]), [pl.] the end of the ‘iris’ [q.v.] fitted over the ‘sprid’. This kept the ‘iris’ from pulling out.</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e312">
+          <form>
+            <orth>bachalaibh (pronounced bachaloo)</orth>
+          </form>
+          <def>a small creel.</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e321">
+          <form>
+            <orth>dronnag</orth>
+          </form>
+          <def>a coarse skirt which was rolled up round the waist and arranged as a cushion below the creel. This ‘cushion’ was the ‘dronnag’. The skirt was ‘còta-dronnaig’.</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e330">
+          <form>
+            <orth>cuaran ()</orth>
+          </form>
+          <def>[masc.] stockings with thick soles of cloth, or perhaps socks folded up, sewn on. Worn by the women.</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e339">
+          <form>
+            <orth>osan ()</orth>
+          </form>
+          <def>[masc.] stocking with the sole cut off, leaving the top of the foot on. This top part was kept in place by means of a loop of woollen thread (many threads twisted together) which fitted
+            over the two middle toes.</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e348">
+          <form>
+            <orth>cabar</orth>
+          </form>
+          <def>when a new creel was being made, the stakes (of willow) were called ‘cabair’. Cabair a’ chleibh.</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e357">
+          <form>
+            <orth>caol</orth>
+          </form>
+          <def>willow.</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e366">
+          <form>
+            <orth>caol-fighe</orth>
+          </form>
+          <def>willow for weaving the sides of a creel or basket.</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e375">
+          <form>
+            <orth>caol-dubh</orth>
+          </form>
+          <def>[willow] found growing wild. Sometimes used [for weaving the sides of a creel or basket] when there was no other.</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e384">
+          <form>
+            <orth>ceap or ceap cleibh</orth>
+          </form>
+          <def>a square frame with holes to hold the ‘cabair’ [q.v.] when making a creel.</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e393">
+          <form>
+            <orth>ceap-iarainn</orth>
+          </form>
+          <def>cobbler’s last.</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e402">
+          <form>
+            <orth>ceap starra</orth>
+          </form>
+          <def>a cross piece of wood at the door as one came in. It was underfoot.</def>
+        </entry>
+        <entry xml:id="Peat_CampbeltownMMacLeodmoine-d0e411">
+          <form>
+            <orth>ceap-mullaich</orth>
+          </form>
+          <def>topmost turf. To go one better than anyone else. Chuir thu ceap mullaich orra.</def>
+        </entry>
+        <note xml:id="Peat_CampbeltownMMacLeodmoine-idola193">
+          (Sorry for the digression and not keeping to the strict headings of the faclan.)
+        </note>
+      </div>
+      <div>
+        <head xml:id="Peat_CampbeltownMMacLeodmoine-d0e428">6. Seòrsachan mònach</head>
+      </div>
+      <div>
+        <head xml:id="Peat_CampbeltownMMacLeodmoine-d0e432">7. Faclan eile</head>
+      </div>
     </body>
   </text>
 </TEI>

@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_CalligaryDRobertsonslips">
   <teiHeader>
     <fileDesc>
@@ -15,18 +19,11 @@
     <profileDesc>
       <creation>
         <date>03/1970</date>
-        <location>
-          <placeName>Skye, Sleat, Calligary</placeName>
-        </location>
+        <location corresp="Skye_Sleat_Calligary"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>Donald Robertson</persName>
-          <age>c. 80</age>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="Donald_Robertson_Skye_Sleat_Calligary"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -67,7 +64,7 @@
           <orth>lodair</orth>
           <pron>[ɫɔd̪əɾ]</pron>
         </form>
-        <def>[ɫɔd̪əɾ] Notes: a wooden collecting ladle used in church. (Seen in church at Aird, Sleat.)</def>
+        <def>Notes: a wooden collecting ladle used in church. (Seen in church at Aird, Sleat.)</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp118951376" type="person">
         <form>
@@ -80,14 +77,14 @@
           <orth>mac-làmhaich</orth>
           <pron>[mɑ̃xkɫɑ:hiç]</pron>
         </form>
-        <def>[mɑ̃xkɫɑ:hiç] Notes: monkfish.</def>
+        <def>Notes: monkfish.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp118954760">
         <form>
           <orth>malaidh</orth>
           <pron>[mɑ̃ɫi]</pron>
         </form>
-        <def>[mɑ̃ɫi] Notes: forehead.</def>
+        <def>Notes: forehead.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp118956488">
         <form>
@@ -104,9 +101,9 @@
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp118959656">
         <form>
           <orth>molltair</orth>
-          <pron>[m[ɤu̜]</pron>
+          <pron>[m[ɤu̜]ɫd̪ɑɾ]</pron>
         </form>
-        <def>[m[ɤu̜]ɫd̪ɑɾ] Notes: candle-mould.</def>
+        <def>Notes: candle-mould.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp118961816">
         <form>
@@ -131,7 +128,7 @@
           <orth>slabhag</orth>
           <pron>[sɫɑu̜əɡ]</pron>
         </form>
-        <def>[sɫɑu̜əɡ] Notes: horn-pith.</def>
+        <def>Notes: horn-pith.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp118968368">
         <form>
@@ -156,7 +153,7 @@
           <orth>poca-salainn</orth>
           <pron>[pɔkəsɑɫĩnʹ]</pron>
         </form>
-        <def>[pɔkəsɑɫĩnʹ] Notes: spider.</def>
+        <def>Notes: spider.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp118974920">
         <form>
@@ -175,28 +172,28 @@
           <orth>seillein</orth>
           <pron>[ʃelʹɛ̃nʹ]</pron>
         </form>
-        <def>[ʃelʹɛ̃nʹ] Notes: bee.</def>
+        <def>Notes: bee.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp118979960">
         <form>
           <orth>sgall</orth>
           <pron>[sɡɑu̜ɫ]</pron>
         </form>
-        <def>[sɡɑu̜ɫ] Notes: a chafing of the skin.</def>
+        <def>Notes: a chafing of the skin.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp118981688">
         <form>
           <orth>sganail</orth>
           <pron>[sɡɑ̃ṉɑl]</pron>
         </form>
-        <def>[sɡɑ̃ṉɑl] Notes: scandal.</def>
+        <def>Notes: scandal.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp118983416">
         <form>
           <orth>sganaileach</orth>
           <pron>[sɡɑ̃ṉɑlɑx]</pron>
         </form>
-        <def>[sɡɑ̃ṉɑlɑx] Notes: scandalous.</def>
+        <def>Notes: scandalous.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp118985144">
         <form>
@@ -209,14 +206,14 @@
           <orth>siadair</orth>
           <pron>[ʃıɤd̪ɑɾ]</pron>
         </form>
-        <def>[ʃıɤd̪ɑɾ] Notes: a useless person, physically, e.g. for fighting.</def>
+        <def>Notes: a useless person, physically, e.g. for fighting.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp118988528" type="person">
         <form>
           <orth>sloightire</orth>
-          <pron>[sɫ[ɤi]</pron>
+          <pron>[sɫ[ɤi]tʹəɾə]</pron>
         </form>
-        <def>[sɫ[ɤi]tʹəɾə] Notes: a rascal, a “bad stick”.</def>
+        <def>Notes: a rascal, a “bad stick”.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp118990688" type="bird">
         <form>
@@ -229,14 +226,14 @@
           <orth>streathart</orth>
           <pron>[st̪ɾɛhɔʴḏ]</pron>
         </form>
-        <def>[st̪ɾɛhɔʴḏ] Notes: a sneeze. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+        <def>Notes: a sneeze. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp118994072">
         <form>
           <orth>sùbailte</orth>
           <pron>[su̜:bilʹtʹə]</pron>
         </form>
-        <def>[su̜:bilʹtʹə] Quotation: Tha e cho sùbailte ri easgann. Notes: supple.</def>
+        <def>Quotation: Tha e cho sùbailte ri easgann. Notes: supple.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp118995944">
         <form>
@@ -285,7 +282,7 @@
           <orth>alaire</orth>
           <pron>[ɑɫɑɾə]</pron>
         </form>
-        <def>[ɑɫɑɾə] Notes: whisky, biscuits and cheese taken at a funeral.</def>
+        <def>Notes: whisky, biscuits and cheese taken at a funeral.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp161856088">
         <form>
@@ -304,7 +301,7 @@
           <orth>bacag</orth>
           <pron>[bɑxkɑɡ]</pron>
         </form>
-        <def>[bɑxkɑɡ] Quotation: Chuir e bacag air. Notes: a wrestling “trip”.</def>
+        <def>Quotation: Chuir e bacag air. Notes: a wrestling “trip”.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp161851120">
         <form>
@@ -317,14 +314,14 @@
           <orth>balg-snàmhadh</orth>
           <pron>[bɑɫɑɡsn̪ɑ̃:həɣ]</pron>
         </form>
-        <def>[bɑɫɑɡsn̪ɑ̃:həɣ] Notes: air bladder in fish.</def>
+        <def>Notes: air bladder in fish.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp161848024">
         <form>
           <orth>bìogais</orth>
           <pron>[bı:ɡiʃ]</pron>
         </form>
-        <def>[bı:ɡiʃ] Notes: a kind of dogfish. DR says he wouldn’t know it from the “dallag”.</def>
+        <def>Notes: a kind of dogfish. DR says he wouldn’t know it from the “dallag”.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp161846296">
         <form>
@@ -337,7 +334,7 @@
           <orth>boinnealaich</orth>
           <pron>[bonʹɑɫiç]</pron>
         </form>
-        <def>[bonʹɑɫiç] Notes: drops of rain.</def>
+        <def>Notes: drops of rain.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp161842840">
         <form>
@@ -350,7 +347,7 @@
           <orth>breac-lion</orth>
           <pron>[bɾɛxklw̃ṉ]</pron>
         </form>
-        <def>[bɾɛxklw̃ṉ] Notes: for lion-bhreac.</def>
+        <def>Notes: for lion-bhreac.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp161839528" type="bird">
         <form>
@@ -381,7 +378,7 @@
           <orth>buinnig</orth>
           <pron>[bũ̜nʹıɡʹ]</pron>
         </form>
-        <def>[bũ̜nʹıɡʹ] Quotation: Tha a là a buinnigeadh, a sìor bhuinnigeadh. Notes: The day is getting longer.</def>
+        <def>Quotation: Tha a là a buinnigeadh, a sìor bhuinnigeadh. Notes: The day is getting longer.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp161829952" type="bird">
         <form>
@@ -394,7 +391,7 @@
           <orth>cadha</orth>
           <pron>[kɑə]</pron>
         </form>
-        <def>[kɑə] Notes: a cove.</def>
+        <def>Notes: a cove.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp161827720" type="bird">
         <form>
@@ -461,7 +458,7 @@
           <orth>crom-riabhach</orth>
           <pron>[kɾw̃mrıɤɤx]</pron>
         </form>
-        <def>[kɾw̃mrıɤɤx] Notes: the snipe.</def>
+        <def>Notes: the snipe.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp115740360">
         <form>
@@ -486,7 +483,7 @@
           <orth>cuimseach</orth>
           <pron>[kw̃mıʃɑx]</pron>
         </form>
-        <def>[kw̃mıʃɑx] Quotation: Bha e cuimseach làn. Notes: somewhat.</def>
+        <def>Quotation: Bha e cuimseach làn. Notes: somewhat.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp115747056">
         <form>
@@ -504,9 +501,9 @@
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp115750368">
         <form>
           <orth>déile</orth>
-          <pron>[dʹ[ɤı]</pron>
+          <pron>[dʹ[ɤı]lə]</pron>
         </form>
-        <def>[dʹ[ɤı]lə] Notes: plank on which body was laid.</def>
+        <def>Notes: plank on which body was laid.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp115752528">
         <form>
@@ -531,14 +528,14 @@
           <orth>faic</orth>
           <pron>[fɛçc]</pron>
         </form>
-        <def>[fɛçc] Notes: lobster’s hole among rocks.</def>
+        <def>Notes: lobster’s hole among rocks.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp115759152">
         <form>
           <orth>failc</orth>
           <pron>[fɛlc]</pron>
         </form>
-        <def>[fɛlc] Quotation: Bha sinn gar failceadh cuideachd. Notes: We were bathing together.</def>
+        <def>Quotation: Bha sinn gar failceadh cuideachd. Notes: We were bathing together.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp115761024">
         <form>
@@ -599,14 +596,14 @@
           <orth>gaisde</orth>
           <pron>[ɡɛʃdʹə]</pron>
         </form>
-        <def>[ɡɛʃdʹə] Quotation: gaisde sguabaich. Notes: heather brush. (Or gaisde fraoich.)</def>
+        <def>Quotation: gaisde sguabaich. Notes: heather brush. (Or gaisde fraoich.)</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp115777872">
         <form>
           <orth>gaisde</orth>
           <pron>[ɡɛʃdʹə]</pron>
         </form>
-        <def>[ɡɛʃdʹə] Quotation: gaisde fraoich. Notes: heather brush. (Also gaisde sguabaich.)</def>
+        <def>Quotation: gaisde fraoich. Notes: heather brush. (Also gaisde sguabaich.)</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp115779744">
         <form>
@@ -623,16 +620,16 @@
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp115783056">
         <form>
           <orth>gille-bianan</orth>
-          <pron>[ɡılʹəb[ĩɤ̃]</pron>
+          <pron>[ɡılʹəb[ĩɤ̃]ṉɑṉ]</pron>
         </form>
-        <def>[ɡılʹəb[ĩɤ̃]ṉɑṉ] Notes: phosphorescence.</def>
+        <def>Notes: phosphorescence.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp115785216">
         <form>
           <orth>gnòsd</orth>
           <pron>[ɡɾɔ̃:səd̪]</pron>
         </form>
-        <def>[ɡɾɔ̃:səd̪] Notes: grunt as of a cow or pig.</def>
+        <def>Notes: grunt as of a cow or pig.</def>
       </entry>
       <entry xml:id="Slips_CalligaryDRobertsonslips-idp115786944" type="person">
         <form>

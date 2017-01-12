@@ -293,6 +293,12 @@
             <place xml:id="Skye_Torrin">
               <placeName xml:lang="en">Torrin</placeName>
             </place>
+            <place xml:id="Skye_Sleat">
+              <placeName xml:lang="en">Sleat</placeName>
+              <place xml:id="Skye_Sleat_Calligary">
+                <placeName xml:lang="en">Calligary</placeName>
+              </place>
+            </place>
           </place>
           <place xml:id="Islay">
             <placeName xml:lang="en">Islay</placeName>
@@ -387,6 +393,13 @@
             <place xml:id="Sutherland_Kinlochbervie_Blairmore">
               <placeName xml:lang="en">Blairmore</placeName>
             </place>
+          </place>
+        </place>
+        
+        <place xml:id="Kintyre">
+          <placeName xml:lang="en">Kintyre</placeName>
+          <place xml:id="Kintyre_Campbeltown">
+            <placeName xml:lang="en">Campbeltown</placeName>
           </place>
         </place>
         
