@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BroadCoveMrsKennedyslips">
   <teiHeader>
     <fileDesc>
@@ -15,17 +19,11 @@
     <profileDesc>
       <creation>
         <date>05/1971</date>
-        <location>
-          <placeName>Canada, Cape Breton, Broad Cove</placeName>
-        </location>
+        <location corresp="Nova_Scotia_Cape_Breton_Broad_Cove"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>Mrs Archie Kennedy</persName>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="Mrs_Archie_Kennedy_Nova_Scotia_Cape_Breton_Broad_Cove"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -40,30 +38,30 @@
       <entry xml:id="Slips_BroadCoveMrsKennedyslips-idp161831264">
         <form>
           <orth>muilleachadh</orth>
-          <pron>[m[ɔi]</pron>
+          <pron>[m[ɔi]lʹɑxəɣ]</pron>
         </form>
-        <def>[m[ɔi]lʹɑxəɣ] Notes: mill dues. (Word used by her mother – she herself would use ‘dolla’ (?).)</def>
+        <def>Notes: mill dues. (Word used by her mother – she herself would use ‘dolla’ (?).)</def>
       </entry>
       <entry xml:id="Slips_BroadCoveMrsKennedyslips-idp161833424">
         <form>
           <orth>sluisearachd</orth>
           <pron>[sɫuʃəɾɑxk]</pron>
         </form>
-        <def>[sɫuʃəɾɑxk] Notes: area of muddy water.</def>
+        <def>Notes: area of muddy water.</def>
       </entry>
       <entry xml:id="Slips_BroadCoveMrsKennedyslips-idp161835152">
         <form>
           <orth>bragair</orth>
           <pron>[bɾɑɡəɾ]</pron>
         </form>
-        <def>[bɾɑɡəɾ] Quotation: bragairean de sgeulachan. Notes: stones without much to them.</def>
+        <def>Quotation: bragairean de sgeulachan. Notes: stones without much to them.</def>
       </entry>
       <entry xml:id="Slips_BroadCoveMrsKennedyslips-idp161837024">
         <form>
           <orth>droighneach</orth>
-          <pron>[d̪ɾ[ɤı]</pron>
+          <pron>[d̪ɾ[ɤı]nʹɑx] </pron>
         </form>
-        <def>[d̪ɾ[ɤı]nʹɑx] Quotation: droighneach de dhuine. Notes: worthless person.</def>
+        <def>Quotation: droighneach de dhuine. Notes: worthless person.</def>
       </entry>
       <entry xml:id="Slips_BroadCoveMrsKennedyslips-idp161839328">
         <form>

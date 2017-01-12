@@ -24,12 +24,8 @@
         </location>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>W. MacDonald</persName>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="W_MacDonald_Braes"/>
       </particDesc>
       <textClass>
         <keywords>

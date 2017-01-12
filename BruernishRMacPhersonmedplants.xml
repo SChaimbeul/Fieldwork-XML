@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants">
   <teiHeader>
     <fileDesc>
@@ -15,26 +19,15 @@
     <profileDesc>
       <creation>
         <date>09/1983</date>
-        <location>
-          <placeName>Barraigh, Brudharnais [Barra, Bruernish]</placeName>
-        </location>
+        <location corresp="Barra_Bruernish"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[Ian Quick]</persName>
-        </person>
-        <person role="informant">
-          <persName>Roderick MacPherson</persName>
-          <persName xml:lang="gd">Ruairidh Mac a’ phearsain</persName>
-          <age>81</age>
-          <birth>
-            <placeName>[Barra]</placeName>
-          </birth>
-        </person>
+        <person role="fieldworker" corresp="Ian_Quick"/>
+        <person role="informant" corresp="Roderick_MacPherson_Barra_Bruernish"/>
       </particDesc>
       <textClass>
         <keywords>
-          <term>Medicinal Plants</term>
+          <term xml:lang="en">Medicinal Plants</term>
           <term>Blàthan-Leighis</term>
         </keywords>
       </textClass>
@@ -61,7 +54,7 @@
           </entry>
         </div>
         <div>
-          <head xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e61" subtype="h2">2. Respiratory diseases</head>
+          <head xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e61" type="h2">2. Respiratory diseases</head>
           <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e66">
             <form>
               <orth>pionnd</orth>
@@ -70,7 +63,7 @@
           </entry>
         </div>
         <div>
-          <head xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e74" subtype="h2">3. The blood</head>
+          <head xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e74" type="h2">3. The blood</head>
           <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e79">
             <form>
               <orth>cuach Phàdraig</orth>
@@ -86,7 +79,7 @@
           </entry>
         </div>
         <div>
-          <head xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e96" subtype="h2">4. The bowels and stomach</head>
+          <head xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e96" type="h2">4. The bowels and stomach</head>
           <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e101">
             <form>
               <orth>pionnd</orth>
@@ -95,22 +88,22 @@
           </entry>
         </div>
         <div>
-          <head xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e109" subtype="h2">5. Bladder and kidneys</head>
+          <head xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e109" type="h2">5. Bladder and kidneys</head>
         </div>
         <div>
-          <head xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e113" subtype="h2">6. Other internal organs</head>
+          <head xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e113" type="h2">6. Other internal organs</head>
         </div>
         <div>
-          <head xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e117" subtype="h2">7. Gynaecological complaints</head>
+          <head xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e117" type="h2">7. Gynaecological complaints</head>
         </div>
         <div>
-          <head xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e121" subtype="h2">8. Skin diseases not already mentioned</head>
+          <head xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e121" type="h2">8. Skin diseases not already mentioned</head>
         </div>
         <div>
-          <head xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e125" subtype="h2">9. Acute diseases</head>
+          <head xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e125" type="h2">9. Acute diseases</head>
         </div>
         <div>
-          <head xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e129" subtype="h2">10. The skeleton and muscles</head>
+          <head xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e129" type="h2">10. The skeleton and muscles</head>
           <entry xml:id="AssortedFieldworkers_BruernishRMacPhersonmedplants-d0e134">
             <form>
               <orth>an fheanndag</orth>

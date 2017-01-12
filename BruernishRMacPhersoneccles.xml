@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AssortedFieldworkers_BruernishRMacPhersoneccles">
   <teiHeader>
     <fileDesc>
@@ -18,28 +22,17 @@
     <profileDesc>
       <creation>
         <date>[09/1983?]</date>
-        <location>
-          <placeName>Barra, Bruernish / Dailabrog [Daliburgh]</placeName>
-        </location>
+        <location corresp="Barra_Bruernish"/>
+        <location corresp="South_Uist_Daliburgh"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>Ian Quick</persName>
-        </person>
-        <person role="informant">
-          <persName>Roderick MacPherson</persName>
-          <age>81</age>
-          <birth>
-            <placeName>Barra</placeName>
-          </birth>
-        </person>
-        <person role="informant">
-          <persName>Conor [?] John MacLean</persName>
-        </person>
+        <person role="fieldworker" corresp="Ian_Quick"/>
+        <person role="informant" corresp="Roderick_MacPherson_Barra_Bruernish"/>
+        <person role="informant" corresp="Conor_John_MacLean_South_Uist_Daliburgh"/>
       </particDesc>
       <textClass>
         <keywords>
-          <term>Ecclesiastical Terms</term>
+          <term xml:lang="en">Ecclesiastical Terms</term>
           <term>An Eaglais</term>
         </keywords>
       </textClass>

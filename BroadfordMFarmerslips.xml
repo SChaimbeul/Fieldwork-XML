@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BroadfordMFarmerslips">
   <teiHeader>
     <fileDesc>
@@ -15,14 +19,10 @@
     <profileDesc>
       <creation>
         <date>1979-83</date>
-        <location>
-          <placeName>Skye, Broadford</placeName>
-        </location>
+        <location corresp="Skye_Broadford"/>
       </creation>
       <particDesc>
-        <person role="informant">
-          <persName>Mrs M. Farmer</persName>
-        </person>
+        <person role="informant" corresp="Mrs_M_Farmer_Skye_Broadford"/>
       </particDesc>
       <textClass>
         <keywords>

@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BroadfordCMacKinnonslips">
   <teiHeader>
     <fileDesc>
@@ -15,21 +19,11 @@
     <profileDesc>
       <creation>
         <date>03/1970</date>
-        <location>
-          <placeName>Skye, Broadford</placeName>
-        </location>
+        <location corresp="Skye_Broadford"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>Charles MacKinnon</persName>
-          <age>c. 90</age>
-          <birth>
-            <placeName>Skye, Torrin</placeName>
-          </birth>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="Charles_MacKinnon_Skye_Broadford"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -64,14 +58,14 @@
           <orth>miosar</orth>
           <pron>[mĩsiɾ]</pron>
         </form>
-        <def>[mĩsiɾ] Notes: wooden bucket for holding milk.</def>
+        <def>Notes: wooden bucket for holding milk.</def>
       </entry>
       <entry xml:id="Slips_BroadfordCMacKinnonslips-idp161907280">
         <form>
           <orth>musal</orth>
           <pron>[mũ̜səɫ]</pron>
         </form>
-        <def>[mũ̜səɫ] Notes: muzzle at the head of the plough.</def>
+        <def>Notes: muzzle at the head of the plough.</def>
       </entry>
       <entry xml:id="Slips_BroadfordCMacKinnonslips-idp161909008">
         <form>
@@ -90,7 +84,7 @@
           <orth>sabhal</orth>
           <pron>[soəɫ]</pron>
         </form>
-        <def>[soəɫ] Notes: barn.</def>
+        <def>Notes: barn.</def>
       </entry>
       <entry xml:id="Slips_BroadfordCMacKinnonslips-idp161913904">
         <form>
@@ -107,9 +101,9 @@
       <entry xml:id="Slips_BroadfordCMacKinnonslips-idp161916928">
         <form>
           <orth>sìneachan</orth>
-          <pron>[ʃ[ɤi]</pron>
+          <pron>[ʃ[ɤi]ṉɑxəṉ]</pron>
         </form>
-        <def>[ʃ[ɤi]ṉɑxəṉ] Notes: drag chains.</def>
+        <def>Notes: drag chains.</def>
       </entry>
       <entry xml:id="Slips_BroadfordCMacKinnonslips-idp161919088">
         <form>
@@ -120,16 +114,16 @@
       <entry xml:id="Slips_BroadfordCMacKinnonslips-idp161920600">
         <form>
           <orth>sleamhragan</orth>
-          <pron>[ʃlʹ[ɛ̃ũ]</pron>
+          <pron>[ʃlʹ[ɛ̃ũ]ɾəɡɑṉ]</pron>
         </form>
-        <def>[ʃlʹ[ɛ̃ũ]ɾəɡɑṉ] Notes: sty.</def>
+        <def>Notes: sty.</def>
       </entry>
       <entry xml:id="Slips_BroadfordCMacKinnonslips-idp161922760">
         <form>
           <orth>slifeag</orth>
           <pron>[ʃlʹifɑɡ]</pron>
         </form>
-        <def>[ʃlʹifɑɡ] Notes: flat piece of wood used for digging for “muirsginn”. </def>
+        <def>Notes: flat piece of wood used for digging for “muirsginn”. </def>
       </entry>
       <entry xml:id="Slips_BroadfordCMacKinnonslips-idp161924488">
         <form>
@@ -142,14 +136,14 @@
           <orth>statha</orth>
           <pron>[st̪ɑə]</pron>
         </form>
-        <def>[st̪ɑə] Quotation: statha choirc. Notes: a swathe.</def>
+        <def>Quotation: statha choirc. Notes: a swathe.</def>
       </entry>
       <entry xml:id="Slips_BroadfordCMacKinnonslips-idp161928016">
         <form>
           <orth>stùr</orth>
           <pron>[st̪u̟:ɾ]</pron>
         </form>
-        <def>[st̪u̟:ɾ] Notes: dust.</def>
+        <def>Notes: dust.</def>
       </entry>
       <entry xml:id="Slips_BroadfordCMacKinnonslips-idp161929744">
         <form>
@@ -174,14 +168,14 @@
           <orth>ailm</orth>
           <pron>[elem]</pron>
         </form>
-        <def>[elem] Notes: tiller.</def>
+        <def>Notes: tiller.</def>
       </entry>
       <entry xml:id="Slips_BroadfordCMacKinnonslips-idp161936152">
         <form>
           <orth>aondragaich</orth>
           <pron>[w̃:n̪d̪ɾɑɡiç]</pron>
         </form>
-        <def>[w̃:n̪d̪ɾɑɡiç] Quotation: Bha an t-each dha aondragaich fhéin. Notes: wallowing, rolling from side to side on its back.</def>
+        <def>Quotation: Bha an t-each dha aondragaich fhéin. Notes: wallowing, rolling from side to side on its back.</def>
       </entry>
       <entry xml:id="Slips_BroadfordCMacKinnonslips-idp161938312">
         <form>
@@ -210,9 +204,9 @@
       <entry xml:id="Slips_BroadfordCMacKinnonslips-idp161944648">
         <form>
           <orth>bràghaid</orth>
-          <pron>[bɾ[ɤı]</pron>
+          <pron>[bɾ[ɤı]dʹ] </pron>
         </form>
-        <def>[bɾ[ɤı]dʹ] Notes: collar of the horse.</def>
+        <def>Notes: collar of the horse.</def>
       </entry>
       <entry xml:id="Slips_BroadfordCMacKinnonslips-idp161946808">
         <form>
@@ -231,7 +225,7 @@
           <orth>ceaba</orth>
           <pron>[cebə]</pron>
         </form>
-        <def>[cebə] Notes: the iron part of the flauchter spade; the iron blade of the cas-chrom.</def>
+        <def>Notes: the iron part of the flauchter spade; the iron blade of the cas-chrom.</def>
       </entry>
       <entry xml:id="Slips_BroadfordCMacKinnonslips-idp161951920">
         <form>
@@ -245,7 +239,7 @@
           <orth>ceannard</orth>
           <pron>[cɑ̃n̪ɑʴḏ]</pron>
         </form>
-        <def>[cɑ̃n̪ɑʴḏ] Notes: where the horses turn at the end of the field when ploughing. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+        <def>Notes: where the horses turn at the end of the field when ploughing. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
       </entry>
       <entry xml:id="Slips_BroadfordCMacKinnonslips-idp115739928">
         <form>
@@ -288,7 +282,7 @@
           <orth>creadhag</orth>
           <pron>[kɾɛɑɡ]</pron>
         </form>
-        <def>[kɾɛɑɡ] Quotation: creadhag a’ bhuntàta. Notes: a white worm which is found in potatoes.</def>
+        <def>Quotation: creadhag a’ bhuntàta. Notes: a white worm which is found in potatoes.</def>
       </entry>
       <entry xml:id="Slips_BroadfordCMacKinnonslips-idp115751232">
         <form>
@@ -319,7 +313,7 @@
           <orth>dealan</orth>
           <pron>[dʹɑɫɑṉ]</pron>
         </form>
-        <def>[dʹɑɫɑṉ] Notes: locking device on a door. </def>
+        <def>Notes: locking device on a door. </def>
       </entry>
       <entry xml:id="Slips_BroadfordCMacKinnonslips-idp115759296">
         <form>

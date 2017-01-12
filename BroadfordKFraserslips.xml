@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_BroadfordKFraserslips">
   <teiHeader>
     <fileDesc>
@@ -15,17 +19,11 @@
     <profileDesc>
       <creation>
         <date>03/1970</date>
-        <location>
-          <placeName>Skye, Broadford</placeName>
-        </location>
+        <location corresp="Skye_Broadford"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>Kenny Fraser</persName>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="Kenny_Fraser_Skye_Broadford"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -40,9 +38,9 @@
       <entry xml:id="Slips_BroadfordKFraserslips-idp161864896">
         <form>
           <orth>moighlean</orth>
-          <pron>[m[ɔ̃ĩ]</pron>
+          <pron>[m[ɔ̃ĩ]lʹɑṉ]</pron>
         </form>
-        <def>[m[ɔ̃ĩ]lʹɑṉ] Notes: bundle of hay or fodder given to beasts. “Cuiridh seo sgillinn air a’ mhoighlean” – a saying used when snow came: cattle would need more feeding.</def>
+        <def>Notes: bundle of hay or fodder given to beasts. “Cuiridh seo sgillinn air a’ mhoighlean” – a saying used when snow came: cattle would need more feeding.</def>
       </entry>
       <entry xml:id="Slips_BroadfordKFraserslips-idp161862448">
         <form>
@@ -128,7 +126,7 @@
           <orth>toirisgil</orth>
           <pron>[t̪ɤɾıʃɡʹəl]</pron>
         </form>
-        <def>[t̪ɤɾıʃɡʹəl] Notes: peat cutting iron.</def>
+        <def>Notes: peat cutting iron.</def>
       </entry>
       <entry xml:id="Slips_BroadfordKFraserslips-idp161841136">
         <form>
@@ -141,7 +139,7 @@
           <orth>aisne</orth>
           <pron>[ɑʃṉə]</pron>
         </form>
-        <def>[ɑʃṉə] Notes: upright stave of a creel.</def>
+        <def>Notes: upright stave of a creel.</def>
       </entry>
       <entry xml:id="Slips_BroadfordKFraserslips-idp161838040">
         <form>
@@ -160,7 +158,7 @@
           <orth>cliseach</orth>
           <pron>[kliʃɑx]</pron>
         </form>
-        <def>[kliʃɑx] Notes: a rough wooden gate; hinges also made of wood. C. MacLean, Kyleakin says “clisneach” as in Dw.</def>
+        <def>Notes: a rough wooden gate; hinges also made of wood. C. MacLean, Kyleakin says “clisneach” as in Dw.</def>
       </entry>
       <entry xml:id="Slips_BroadfordKFraserslips-idp161832568">
         <form>
@@ -209,14 +207,14 @@
           <orth>eadar-da-lunn</orth>
           <pron>[ɛd̪əɾd̪ɑlɤ̃ũ̜n̪]</pron>
         </form>
-        <def>[ɛd̪əɾd̪ɑlɤ̃ũ̜n̪] Notes: floating but half-submerged. Also used of indecision – “Bha mi eadar-da-lunn.”</def>
+        <def>Notes: floating but half-submerged. Also used of indecision – “Bha mi eadar-da-lunn.”</def>
       </entry>
       <entry xml:id="Slips_BroadfordKFraserslips-idp161935024">
         <form>
           <orth>èibhiseach</orth>
           <pron>[ɛ:viʃɑx]</pron>
         </form>
-        <def>[ɛ:viʃɑx] Quotation: aimsir èibhiseach math. Notes: unusually good.</def>
+        <def>Quotation: aimsir èibhiseach math. Notes: unusually good.</def>
       </entry>
     </body>
   </text>

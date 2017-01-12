@@ -767,6 +767,83 @@
           </persName>
           <age>c. 70</age>
         </person>
+        <person xml:id="W_MacDonald_Braes">
+          <persName xml:lang="en">
+            <forename>W.</forename> 
+            <surname>MacDonald</surname>
+          </persName>
+        </person>
+        <person xml:id="D_Murray_Lewis_Bragar">
+          <persName xml:lang="en">
+            <forename>D.</forename>
+            <surname>Murray</surname>
+          </persName>
+        </person>
+        <person xml:id="Kenny_Fraser_Skye_Breakish">
+          <persName>
+            <forename>Kenny</forename>
+            <surname>Fraser</surname>
+          </persName>
+        </person>
+        <person xml:id="Kenny_Fraser_Skye_Broadford"> <!-- same as above?? -->
+          <persName>
+            <forename>Kenny</forename>
+            <surname>Fraser</surname>
+          </persName>
+        </person>
+        <person xml:id="Margaret_Farmer_Skye_Breakish">
+          <persName>
+            <forename>Margaret</forename>
+            <surname>Farmer</surname>
+          </persName>
+        </person>
+        <person xml:id="Mrs_M_Farmer_Skye_Broadford"> <!-- same as above?? -->
+          <persName>
+            <roleName>Mrs</roleName>
+            <forename>M.</forename>
+            <surname>Farmer</surname>
+          </persName>
+        </person>
+        <person xml:id="Mrs_M_Nicolson_Skye_Breakish">
+          <persName>
+            <roleName>Mrs</roleName>
+            <forename>M.</forename>
+            <surname>Nicolson</surname>
+          </persName>
+        </person>
+        <person xml:id="Mrs_Archie_Kennedy_Nova_Scotia_Cape_Breton_Broad_Cove">
+          <persName>
+            <roleName>Mrs</roleName>
+            <forename>Archie</forename>
+            <surname>Kennedy</surname>
+          </persName>
+        </person>
+        <person xml:id="Charles_MacKinnon_Skye_Broadford">
+          <persName>Charles MacKinnon</persName>
+          <age>c. 90</age>
+          <birth>
+            <location corresp="Skye_Torrin"/>
+          </birth>
+        </person>
+        <person xml:id="Roderick_MacPherson_Barra_Bruernish">
+          <persName>Ruairidh Mac a’ Phearsain</persName>
+          <persName xml:lang="en">Roderick MacPherson</persName>
+          <age>81</age>
+          <birth>
+            <location corresp="Barra"/>
+          </birth>
+        </person>
+        <person xml:id="Conor_John_MacLean_South_Uist_Daliburgh">
+          <persName>Conor [?] John MacLean</persName>
+        </person>
+        <person xml:id="Alasdair_Iain_Chisholm_Glenurquhart_Drumnadrochit_Bunloit">
+          <persName>Alasdair Iain Chisholm</persName>
+          <age>c. 70</age>
+          <birth>
+            <location corresp="Inverness-shire_Glenurquhart_Drumnadrochit_Bunloit"/>
+          </birth>
+        </person>
+        
 
         <!-- Fieldworkers -->
         <person xml:id="A_J_Smith">
@@ -799,6 +876,12 @@
         <person xml:id="Roderick_MacKinnon_Perth">
           <persName>Ruairidh MacFhionghuin</persName>
           <persName>Roderick MacKinnon</persName>
+        </person>
+        <person xml:id="Finlay_J_MacDonald">
+          <persName>Finlay J. MacDonald</persName>
+        </person>
+        <person xml:id="Ian_Quick">
+          <persName>Ian Quick</persName>
         </person>
 
         <!-- Editors -->

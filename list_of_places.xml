@@ -22,7 +22,16 @@
         <place xml:id="Outer_Hebrides">
           <placeName xml:lang="en">the Outer Hebrides</placeName>
           <place xml:id="Lewis">
+            <placeName>Leòdhas</placeName>
             <placeName xml:lang="en">Lewis</placeName>
+            <place xml:id="Lewis_Back">
+              <placeName>Am Bac</placeName>
+              <placeName xml:lang="en">Back</placeName>
+            </place>
+            <place xml:id="Lewis_Ness">
+              <placeName>Nis</placeName>
+              <placeName xml:lang="en">Ness</placeName>
+            </place>
             <place xml:id="Lewis_Point">
               <placeName xml:lang="en">Point</placeName>
               <place xml:id="Lewis_Point_Garrabost">
@@ -38,18 +47,25 @@
                 </place>
               </place>
             </place>
+            <place xml:id="Lewis_Uig">
+              <placeName>Ùig</placeName>
+              <placeName xml:lang="en">Uig</placeName>
+              <place xml:id="Lewis_Great_Bernera">
+                <placeName xml:lang="en">Great Bernera</placeName>
+              </place>
+            </place>
             <place xml:id="Lewis_Park">
               <placeName>Sgìre na Pàirc an Leódhas</placeName>
               <placeName xml:lang="en">Lewis, the Park district</placeName>
             </place>
-            <place xml:id="Lewis_Arnol">
-              <placeName>Arnol</placeName>
-            </place>
             <place xml:id="Lewis_Stornoway">
               <placeName xml:lang="en">Stornoway</placeName>
             </place>
-            <place xml:id="Lewis_Back">
-              <placeName xml:lang="en">Back</placeName>
+            <place xml:id="Lewis_Arnol">
+              <placeName>Arnol</placeName>
+            </place>
+            <place xml:id="Lewis_Bragar">
+              <placeName>Bragar</placeName>
             </place>
             <place xml:id="Lewis_Balallan">
               <placeName xml:lang="en">Balallan</placeName>
@@ -59,9 +75,6 @@
               <place xml:id="Lewis_Barvas_Lower">
                 <placeName xml:lang="en">Lower Barvas</placeName>
               </place>
-            </place>
-            <place xml:id="Lewis_Great_Bernera">
-              <placeName xml:lang="en">Great Bernera</placeName>
             </place>
             <place xml:id="Lewis_Borve">
               <placeName xml:lang="en">Borve</placeName>
@@ -224,8 +237,13 @@
             <place xml:id="South_Uist_Bornish">
               <placeName xml:lang="en">Bornish</placeName>
             </place>
+            <place xml:id="South_Uist_Daliburgh">
+              <placeName>Dailabrog</placeName>
+              <placeName xml:lang="en">Daliburgh</placeName>
+            </place>
           </place>
           <place xml:id="Barra">
+            <placeName>Barraigh</placeName>
             <placeName xml:lang="en">Barra</placeName>
             <place xml:id="Barra_Allasdale">
               <placeName xml:lang="en">Allasdale</placeName>
@@ -238,6 +256,10 @@
             </place>
             <place xml:id="Barra_Castlebay">
               <placeName xml:lang="en">Castlebay</placeName>
+            </place>
+            <place xml:id="Barra_Bruernish">
+              <placeName xml:lang="en">Bruernish</placeName>
+              <placeName>Brudharnais</placeName>
             </place>
           </place>
         </place>
@@ -261,6 +283,15 @@
             <place xml:id="Skye_Boreraig">
               <placeName>Borraraig</placeName>
               <placeName xml:lang="en">Boreraig</placeName>
+            </place>
+            <place xml:id="Skye_Breakish">
+              <placeName xml:lang="en">Breakish</placeName>
+            </place>
+            <place xml:id="Skye_Broadford">
+              <placeName xml:lang="en">Broadford</placeName>
+            </place>
+            <place xml:id="Skye_Torrin">
+              <placeName xml:lang="en">Torrin</placeName>
             </place>
           </place>
           <place xml:id="Islay">
@@ -324,6 +355,12 @@
             <place xml:id="Inverness-shire_Glenurquhart_Balbeg">
               <placeName xml:lang="en">Balbeg</placeName>
             </place>
+            <place xml:id="Inverness-shire_Glenurquhart_Drumnadrochit">
+              <placeName xml:lang="en">Drumnadrochit</placeName>
+              <place xml:id="Inverness-shire_Glenurquhart_Drumnadrochit_Bunloit">
+                <placeName xml:lang="en">Bunloit</placeName>
+              </place>
+            </place>
           </place>
         </place>
         
@@ -375,6 +412,9 @@
               <placeName xml:lang="en">Cape Breton</placeName>
               <place xml:id="Nova_Scotia_Cape_Breton_Boisdale">
                 <placeName xml:lang="en">Boisdale</placeName>
+              </place>
+              <place xml:id="Nova_Scotia_Cape_Breton_Broad_Cove">
+                <placeName xml:lang="en">Broad Cove</placeName>
               </place>
             </place>
           </place>
