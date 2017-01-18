@@ -867,6 +867,202 @@
             <location corresp="Lewis_Uig"/>
           </birth>
         </person>
+        <person xml:id="Duncan_Matheson_Ross-shire_Killilan_Camusluanie">
+          <persName xml:lang="en">
+            <forename>Duncan</forename>
+            <surname>Matheson</surname>
+          </persName>
+          <age>40-50</age>
+          <birth>
+            <location corresp="Ross-shire_Killilan_Camusluanie"/>
+          </birth>
+        </person>
+        <person xml:id="Calum_Nicolson_Skye_Camustianavaig">
+          <persName xml:lang="en">
+            <forename>Calum</forename>
+            <surname>Nicolson</surname>
+          </persName>
+        </person>
+        <person xml:id="James_MacKay_Canada_Inverness_County_Lochaber">
+          <persName xml:lang="en">
+            <forename>James</forename> 
+            <surname>MacKay</surname></persName>
+          <birth>
+            <location corresp="Nova_Scotia_Inverness_County_Lochaber"/>
+          </birth>
+          <note>Roman Catholic</note>
+        </person>
+        <person xml:id="Alec_Beaton_Canada_Inverness_County">
+          <persName xml:lang="en">
+            <forename>Alec</forename> 
+            <surname>Beaton</surname>
+          </persName>
+          <birth>
+            <location corresp="Nova_Scotia_Inverness_County_Lochaber"/>
+          </birth>
+        </person>
+        <person xml:id="S_J_MacKinnon_Canada_Inverness_County">
+          <persName xml:lang="en">
+            <forename>S.</forename>
+            <forename>J.</forename> 
+            <surname>MacKinnon</surname>
+          </persName>
+          <birth>
+            <location corresp="Nova_Scotia_Inverness_County_Lochaber"/>
+          </birth>
+          <note>Roman Catholic</note>
+        </person>
+        <person xml:id="Dan_A_MacLeod_Canada_Victoria_County">
+          <persName>
+            <forename>Dan</forename>
+            <forename>A.</forename>
+            <surname>MacLeod</surname>
+          </persName>
+          <birth>
+            <location corresp="Canada_Victoria_County"/>
+          </birth>
+        </person>
+        <person xml:id="ADE_MacKinnon_Canada">
+          <persName>ADE MacKinnon</persName>
+          <birth>
+            <placeName>(Skye – [Canada], Inverness and Victoria? Co.’s) – Protestant</placeName>
+          </birth>
+        </person>
+        <person xml:id="Hugh_MacFadyen_Tiree_Caolis">
+          <persName xml:lang="en">
+            <forename>Hugh</forename> 
+            <surname>MacFadyen</surname>
+          </persName>
+        </person>
+        <person xml:id="H_Meek_Tiree_Caolis">
+          <persName xml:lang="en">
+            <forename>H.</forename> 
+            <surname>Meek</surname>
+          </persName>
+        </person>
+        <person xml:id="Hugh_MacKenzie_Nova_Scotia_Cape_Breton">
+          <persName xml:lang="en">
+            <forename>Hugh</forename>
+            <surname>MacKenzie</surname>
+          </persName>
+        </person>
+        <person xml:id="Donald_A_MacDonald_North_Uist_Carinish_Trianaid_House">
+          <persName xml:lang="en">
+            <forename>Donald</forename>
+            <forename>A.</forename>
+            <surname>MacDonald</surname>
+          </persName>
+        </person>
+        <person xml:id="Angus_MacKillop_Lewis_Carloway">
+          <persName xml:lang="en">
+            <forename>Angus</forename>
+            <surname>MacKillop</surname>
+          </persName>
+          <persName>
+            <forename>Aonghas</forename>
+            <surname>’icIllip</surname>
+          </persName>
+          <age>còrr is leth cheud [over 50]</age>
+          <birth>
+            <location corresp="Lewis"/>
+            <placeName>Eileanaich [natives of Lewis]</placeName>
+          </birth>
+        </person>
+        <person xml:id="Margaraet_MacKillop_Lewis_Carloway">
+          <persName xml:lang="en">
+            <forename>Margaret</forename>
+            <surname>MacKillop</surname>
+          </persName>
+          <persName>
+            <forename>Mairead</forename>
+            <surname>’icIllip</surname>
+          </persName>
+          <age>còrr is leth cheud [over 50]</age>
+          <birth>
+            <location corresp="Lewis"/>
+            <placeName>Eileanaich [natives of Lewis]</placeName>
+          </birth>
+        </person>
+        <person xml:id="Miss_Catherine_MacDonald_Lewis_Carloway">
+          <persName xml:lang="en">
+            <roleName>Miss</roleName>
+            <forename>Catherine</forename>
+            <surname>MacDonald</surname>
+          </persName>
+        </person>
+        <person xml:id="Donald_Morrison_Lewis_Carloway_Doune">
+          <persName xml:lang="en">
+            <forename>Donald</forename>
+            <surname>Morrison</surname>
+          </persName>
+          <birth>
+            <location corresp="Lewis_Carloway_Doune"/>
+          </birth>
+        </person>
+        <person xml:id="Mary_Ann_MacLeod_Lewis_Carloway">
+          <persName xml:lang="en">
+            <forename>Mary</forename>
+            <forename>Ann</forename>
+            <surname>MacLeod</surname>
+          </persName>
+        </person>
+        <person xml:id="Robert_MacLeod_Lewis_Carloway">
+          <persName xml:lang="en">
+            <forename>Robert</forename>
+            <surname>MacLeod</surname>
+          </persName>
+          <age>60</age>
+        </person>
+        <person xml:id="Alexander_MacLennan_Lewis_Carloway">
+          <persName>
+            <forename>Alexander</forename>
+            <surname>MacLennan</surname>
+          </persName>
+          <age>34</age>
+        </person>
+        <person xml:id="Neil_MacDougall_Argyll_Carradale">
+          <persName xml:lang="en">
+            <forename>Neil</forename> 
+            <surname>MacDougall</surname>
+          </persName>
+          <age>80s</age>
+          <birth>
+            <location corresp="Argyll_Carradale"/>
+          </birth>
+        </person>
+        <person xml:id="Fr_Angus_MacQueen_Barra_Castlebay">
+          <persName>
+            <roleName>Fr.</roleName> 
+            <forename>Angus</forename> 
+            <surname>MacQueen</surname>
+          </persName>
+          <birth>
+            <location corresp="South_Uist"/>
+          </birth>
+        </person>
+        <person xml:id="Morag_MacAulay_Barra_Castlebay">
+          <persName xml:lang="en">
+            <forename>Morag</forename>
+            <surname>MacAulay</surname>
+          </persName>
+        </person>
+        <person xml:id="D_J_MacKay_Lewis_South_Lochs_Caversta">
+          <persName xml:lang="en">
+            <forename>D.</forename> 
+            <forename>J.</forename> 
+            <surname>MacKay</surname>
+          </persName>
+          <birth>
+            <location corresp="Lewis_South_Lochs_Caversta"/>
+          </birth>
+          <note>Councillor</note>
+        </person>
+        <person xml:id="Chirsty_MacKay_Lewis_South_Lochs_Caversta">
+          <persName xml:lang="en">
+            <forename>Chirsty</forename> 
+            <surname>MacKay</surname>
+          </persName>
+        </person>
 
         <!-- Fieldworkers -->
         <person xml:id="A_J_Smith">
@@ -905,6 +1101,12 @@
         </person>
         <person xml:id="Ian_Quick">
           <persName>Ian Quick</persName>
+        </person>
+        <person xml:id="Susan_Norwood">
+          <persName>Susan Norwood</persName>
+        </person>
+        <person xml:id="Margaret_MacLeod">
+          <persName>Margaret MacLeod</persName>
         </person>
 
         <!-- Editors -->

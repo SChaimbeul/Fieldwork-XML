@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AJSmith_CaverstaDJMacKaymisc2">
   <teiHeader>
     <fileDesc>
@@ -15,20 +19,11 @@
     <profileDesc>
       <creation>
         <date>October 1972</date>
-        <location>
-          <placeName>[Lewis], [S.] Lochs, Caversta</placeName>
-        </location>
+        <location corresp="Lewis_South_Lochs_Caversta"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>A. J. Smith</persName>
-        </person>
-        <person role="informant">
-          <persName>D. J. MacKay</persName>
-          <birth>
-            <placeName>[Caversta]</placeName>
-          </birth>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith"/>
+        <person role="informant" corresp="D_J_MacKay_Lewis_South_Lochs_Caversta"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -45,7 +40,7 @@
           <orth>frachd</orth>
           <pron>[fɾɑk]</pron>
         </form>
-        <def>[fɾɑk] Note: says this was grain given in part payment for rent long ago.</def>
+        <def>Note: says this was grain given in part payment for rent long ago.</def>
       </entry>
       <entry xml:id="AJSmith_CaverstaDJMacKaymisc2-idm37308072">
         <form>
@@ -801,7 +796,7 @@
           <orth>deòdhag</orth>
           <pron>[dʹɔ:ɑɡ]</pron>
         </form>
-        <def>[dʹɔ:ɑɡ] Quot.: deòdhag bheag gaoith. Note: a very slight movement of air.</def>
+        <def>Quot.: deòdhag bheag gaoith. Note: a very slight movement of air.</def>
       </entry>
       <entry xml:id="AJSmith_CaverstaDJMacKaymisc2-idm35370144">
         <form>
@@ -820,14 +815,14 @@
           <orth>piulbhan</orth>
           <pron>[pȷu̜ɫu̜vɑṉ]</pron>
         </form>
-        <def>[pȷu̜ɫu̜vɑṉ] Quot.: “piulbhan de theine”, “piulbhan de cheò”. Note: a sudden spurt.</def>
+        <def>Quot.: “piulbhan de theine”, “piulbhan de cheò”. Note: a sudden spurt.</def>
       </entry>
       <entry xml:id="AJSmith_CaverstaDJMacKaymisc2-idm35364528">
         <form>
           <orth>biorgadaich</orth>
           <pron>[bwɾwɡəd̪iç]</pron>
         </form>
-        <def>[bwɾwɡəd̪iç] Quot.: teine a’ biorgadaich. Note: flickering.</def>
+        <def>Quot.: teine a’ biorgadaich. Note: flickering.</def>
       </entry>
     </body>
   </text>

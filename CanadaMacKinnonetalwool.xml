@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Canada_CanadaMacKinnonetalwool">
   <teiHeader>
     <fileDesc>
@@ -15,36 +19,17 @@
     <profileDesc>
       <creation>
         <date>1969</date>
-        <location>
-          <placeName>Canada</placeName>
-        </location>
+        <location corresp="Canada"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>Susan Norwood</persName>
-        </person>
-        <person role="informant">
-          <persName>S.J. MacKinnon</persName>
-          <birth>
-            <placeName>([Canada], Inverness Co., Lochaber)</placeName>
-          </birth>
-        </person>
-        <person role="informant">
-          <persName>James MacKay</persName>
-          <birth>
-            <placeName>([Canada], Inverness Co., Lochaber dialect)</placeName>
-          </birth>
-        </person>
-        <person role="informant">
-          <persName>Alec Beaton</persName>
-          <birth>
-            <placeName>([Canada], Inverness Co., Lochaber)</placeName>
-          </birth>
-        </person>
+        <person role="fieldworker" corresp="Susan_Norwood"/>
+        <person role="informant" corresp="S_J_MacKinnon_Canada_Inverness_County"/>
+        <person role="informant" corresp="James_MacKay_Canada_Inverness_County_Lochaber"/>
+        <person role="informant" corresp="Alec_Beaton_Canada_Inverness_County"/>
       </particDesc>
       <textClass>
         <keywords>
-          <term>Wool-Working</term>
+          <term xml:lang="en">Wool-Working</term>
           <term>Obair na Clòimhe</term>
         </keywords>
       </textClass>
@@ -52,374 +37,400 @@
   </teiHeader>
   <text>
     <body>
-      <head xml:id="Canada_CanadaMacKinnonetalwool-d0e46">1. Raw wool</head>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e51">
-        <form>
-          <orth>clòimh</orth>
-        </form>
-        <def>wool.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e60">
-        <form>
-          <orth>rùsg ~ rùisg</orth>
-        </form>
-        <def>fleece.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e69">
-        <form>
-          <orth>marbhrachan</orth>
-        </form>
-        <def>fleece of a dead sheep.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e78">
-        <form>
-          <orth>ceideag</orth>
-        </form>
-        <def>tuft of wool.</def>
-      </entry>
-      <head xml:id="Canada_CanadaMacKinnonetalwool-d0e86">2. Oil or grease put on wool before carding</head>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e91">
-        <form>
-          <orth>smearadh</orth>
-        </form>
-        <def>putting oil on wool.</def>
-      </entry>
-      <head xml:id="Canada_CanadaMacKinnonetalwool-d0e99">3. Carding</head>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e104">
-        <form>
-          <orth>cardadh</orth>
-        </form>
-        <def>carding.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e113">
-        <form>
-          <orth>cairt</orth>
-          <pron>[pl]</pron>
-        </form>
-        <def>[pl] cairtean – cards.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e122">
-        <form>
-          <orth>cìridh</orth>
-        </form>
-        <def>combing.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e131">
-        <form>
-          <orth>rollag</orth>
-        </form>
-        <def>roll of wool.</def>
-      </entry>
-      <head xml:id="Canada_CanadaMacKinnonetalwool-d0e139">4. Spinning</head>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e144">
-        <form>
-          <orth>snìomh</orth>
-        </form>
-        <def>spinning.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e153">
-        <form>
-          <orth>snàth caol</orth>
-        </form>
-        <def>thin thread.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e162">
-        <form>
-          <orth>snàth meadhonach</orth>
-        </form>
-        <def>medium thread.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e171">
-        <form>
-          <orth>snàth reamhar</orth>
-        </form>
-        <def>thick thread.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e180">
-        <form>
-          <orth>snàth garbh</orth>
-        </form>
-        <def>thick thread.</def>
-      </entry>
-      <head xml:id="Canada_CanadaMacKinnonetalwool-d0e188">5. Parts of the spinning wheel</head>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e193">
-        <form>
-          <orth>cuidheall</orth>
-        </form>
-        <def>spinning-wheel.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e202">
-        <form>
-          <orth>rèim</orth>
-        </form>
-        <def>rim.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e211">
-        <form>
-          <orth>bonn</orth>
-          <pron>[sic]</pron>
-        </form>
-        <def>[sic] band or belt.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e220">
-        <form>
-          <orth>na h-eich</orth>
-        </form>
-        <def>sticks supporting wheel.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e229">
-        <form>
-          <orth>maide siubhal</orth>
-        </form>
-        <def>stick going up from treadle.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e238">
-        <form>
-          <orth>claidheamh</orth>
-        </form>
-        <def>stick going up from treadle.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e247">
-        <form>
-          <orth>piùrna</orth>
-        </form>
-        <def> bobbin (sometimes pirnea).</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e256">
-        <form>
-          <orth>cìr</orth>
-        </form>
-        <def>comb.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e265">
-        <form>
-          <orth>iuchair</orth>
-        </form>
-        <def>to tighten cìr [q.v.].</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e274">
-        <form>
-          <orth>maighdeannan</orth>
-        </form>
-        <def>spokes.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e283">
-        <form>
-          <orth>iteachan</orth>
-        </form>
-        <def>bobbin.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e292">
-        <form>
-          <orth>casachan</orth>
-        </form>
-        <def>treadle.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e301">
-        <form>
-          <orth>cuigeal</orth>
-        </form>
-        <def>distaff.</def>
-      </entry>
-      <head xml:id="Canada_CanadaMacKinnonetalwool-d0e309">6. Yarn and associated apparatus</head>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e314">
-        <form>
-          <orth>cearsla ~ ceirsle</orth>
-        </form>
-        <def>ball of yarn.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e323">
-        <form>
-          <orth>bunnag</orth>
-        </form>
-        <def>ball of yarn.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e332">
-        <form>
-          <orth>iarna</orth>
-        </form>
-        <def>hank.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e341">
-        <form>
-          <orth>crois-iarna</orth>
-        </form>
-        <def>winding-wheel. <graphic url="CanadaMacKinnonetalwoolillust1.jpg" width="200px"/>
-        </def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e352">
-        <form>
-          <orth>liùrag</orth>
-          <pron>[Cf. tachrasan]</pron>
-        </form>
-        <def>[Cf. tachrasan] <graphic url="CanadaMacKinnonetalwoolillust2.jpg" width="200px"/>
-        </def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e363">
-        <form>
-          <orth>tachrasan</orth>
-        </form>
-        <def>(sometimes tacharsan) [Cf. liùrag] <graphic url="CanadaMacKinnonetalwoolillust2.jpg" width="200px"/>
-        </def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e374">
-        <form>
-          <orth>dealgan</orth>
-        </form>
-        <def>spindle.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e383">
-        <form>
-          <orth>dealgan fersaid</orth>
-          <pron>[sic]</pron>
-        </form>
-        <def>[sic] to double thread.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e392">
-        <form>
-          <orth>(an t-) seic</orth>
-        </form>
-        <def>bar with hooks to shift thread.</def>
-      </entry>
-      <head xml:id="Canada_CanadaMacKinnonetalwool-d0e400">7. Dyeing</head>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e405">
-        <form>
-          <orth>dathadh</orth>
-        </form>
-        <def>dyeing.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e414">
-        <form>
-          <orth>guirmean</orth>
-        </form>
-        <def>blueing; blue dye (store dye).</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e423">
-        <form>
-          <orth>cnotail</orth>
-        </form>
-        <def>lichen. (onion skin used also)</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e432">
-        <form>
-          <orth>mùin</orth>
-        </form>
-        <def>urine.</def>
-      </entry>
-      <head xml:id="Canada_CanadaMacKinnonetalwool-d0e440">8. Washing after dyeing</head>
-      <head xml:id="Canada_CanadaMacKinnonetalwool-d0e444">9. Warping</head>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e449">
-        <form>
-          <orth>crann dealbh</orth>
-        </form>
-        <def>warping frame.</def>
-      </entry>
-      <head xml:id="Canada_CanadaMacKinnonetalwool-d0e457">10. Beaming and tying</head>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e462">
-        <form>
-          <orth>riaghailt</orth>
-        </form>
-        <def>tying (onto frame).</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e471">
-        <form>
-          <orth>brochan</orth>
-        </form>
-        <def>starch for warp threads.</def>
-      </entry>
-      <head xml:id="Canada_CanadaMacKinnonetalwool-d0e479">11. Weaving</head>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e484">
-        <form>
-          <orth>figheadaireachd</orth>
-        </form>
-        <def>weaving.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e493">
-        <form>
-          <orth>dluth</orth>
-        </form>
-        <def>warp.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e502">
-        <form>
-          <orth>uachdar</orth>
-        </form>
-        <def>woof.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e511">
-        <form>
-          <orth>(an t-) aodach</orth>
-        </form>
-        <def>cloth.</def>
-      </entry>
-      <head xml:id="Canada_CanadaMacKinnonetalwool-d0e519">12. Parts of the weaving loom</head>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e524">
-        <form>
-          <orth>beart</orth>
-        </form>
-        <def>loom, frame.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e533">
-        <form>
-          <orth>bocsa na dealbh</orth>
-        </form>
-        <def>box for balls of yarn.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e542">
-        <form>
-          <orth>casachan</orth>
-        </form>
-        <def>treadle.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e551">
-        <form>
-          <orth>imalan</orth>
-        </form>
-        <def>heddle.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e560">
-        <form>
-          <orth>slinn</orth>
-        </form>
-        <def>comb(s).</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e569">
-        <form>
-          <orth>spàl</orth>
-        </form>
-        <def>shuttle.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e578">
-        <form>
-          <orth>spalag</orth>
-        </form>
-        <def>shuttle.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e587">
-        <form>
-          <orth>iteachan</orth>
-        </form>
-        <def>bobbin.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e596">
-        <form>
-          <orth>drumannach</orth>
-        </form>
-        <def>wood (us. cattail) which can be cored to make bobbin.</def>
-      </entry>
-      <head xml:id="Canada_CanadaMacKinnonetalwool-d0e604">13. Finishing</head>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-idola56">
-        <form>
-          <orth>[washing cloth]</orth>
-        </form>
-        <def>(Cloth washed in a brook and spread to dry, or taken to loft to dry.)</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e618">
-        <form>
-          <orth>luadhadh</orth>
-        </form>
-        <def>waulking.</def>
-      </entry>
+      <div>
+        <head xml:id="Canada_CanadaMacKinnonetalwool-d0e46">1. Raw wool</head>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e51">
+          <form>
+            <orth>clòimh</orth>
+          </form>
+          <def>wool.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e60">
+          <form>
+            <orth>rùsg ~ rùisg</orth>
+          </form>
+          <def>fleece.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e69">
+          <form>
+            <orth>marbhrachan</orth>
+          </form>
+          <def>fleece of a dead sheep.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e78">
+          <form>
+            <orth>ceideag</orth>
+          </form>
+          <def>tuft of wool.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Canada_CanadaMacKinnonetalwool-d0e86">2. Oil or grease put on wool before carding</head>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e91">
+          <form>
+            <orth>smearadh</orth>
+          </form>
+          <def>putting oil on wool.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Canada_CanadaMacKinnonetalwool-d0e99">3. Carding</head>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e104">
+          <form>
+            <orth>cardadh</orth>
+          </form>
+          <def>carding.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e113">
+          <form>
+            <orth>cairt</orth>
+            <pron>[pl]</pron>
+          </form>
+          <def>[pl] cairtean – cards.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e122">
+          <form>
+            <orth>cìridh</orth>
+          </form>
+          <def>combing.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e131">
+          <form>
+            <orth>rollag</orth>
+          </form>
+          <def>roll of wool.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Canada_CanadaMacKinnonetalwool-d0e139">4. Spinning</head>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e144">
+          <form>
+            <orth>snìomh</orth>
+          </form>
+          <def>spinning.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e153">
+          <form>
+            <orth>snàth caol</orth>
+          </form>
+          <def>thin thread.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e162">
+          <form>
+            <orth>snàth meadhonach</orth>
+          </form>
+          <def>medium thread.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e171">
+          <form>
+            <orth>snàth reamhar</orth>
+          </form>
+          <def>thick thread.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e180">
+          <form>
+            <orth>snàth garbh</orth>
+          </form>
+          <def>thick thread.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Canada_CanadaMacKinnonetalwool-d0e188">5. Parts of the spinning wheel</head>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e193">
+          <form>
+            <orth>cuidheall</orth>
+          </form>
+          <def>spinning-wheel.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e202">
+          <form>
+            <orth>rèim</orth>
+          </form>
+          <def>rim.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e211">
+          <form>
+            <orth>bonn</orth>
+            <pron>[sic]</pron>
+          </form>
+          <def>[sic] band or belt.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e220">
+          <form>
+            <orth>na h-eich</orth>
+          </form>
+          <def>sticks supporting wheel.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e229">
+          <form>
+            <orth>maide siubhal</orth>
+          </form>
+          <def>stick going up from treadle.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e238">
+          <form>
+            <orth>claidheamh</orth>
+          </form>
+          <def>stick going up from treadle.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e247">
+          <form>
+            <orth>piùrna</orth>
+          </form>
+          <def> bobbin (sometimes pirnea).</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e256">
+          <form>
+            <orth>cìr</orth>
+          </form>
+          <def>comb.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e265">
+          <form>
+            <orth>iuchair</orth>
+          </form>
+          <def>to tighten cìr [q.v.].</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e274">
+          <form>
+            <orth>maighdeannan</orth>
+          </form>
+          <def>spokes.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e283">
+          <form>
+            <orth>iteachan</orth>
+          </form>
+          <def>bobbin.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e292">
+          <form>
+            <orth>casachan</orth>
+          </form>
+          <def>treadle.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e301">
+          <form>
+            <orth>cuigeal</orth>
+          </form>
+          <def>distaff.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Canada_CanadaMacKinnonetalwool-d0e309">6. Yarn and associated apparatus</head>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e314">
+          <form>
+            <orth>cearsla ~ ceirsle</orth>
+          </form>
+          <def>ball of yarn.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e323">
+          <form>
+            <orth>bunnag</orth>
+          </form>
+          <def>ball of yarn.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e332">
+          <form>
+            <orth>iarna</orth>
+          </form>
+          <def>hank.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e341">
+          <form>
+            <orth>crois-iarna</orth>
+          </form>
+          <def>winding-wheel. <graphic url="CanadaMacKinnonetalwoolillust1.jpg" width="200px"/>
+          </def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e352">
+          <form>
+            <orth>liùrag</orth>
+            <pron>[Cf. tachrasan]</pron>
+          </form>
+          <def>[Cf. tachrasan] <graphic url="CanadaMacKinnonetalwoolillust2.jpg" width="200px"/>
+          </def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e363">
+          <form>
+            <orth>tachrasan</orth>
+          </form>
+          <def>(sometimes tacharsan) [Cf. liùrag] <graphic url="CanadaMacKinnonetalwoolillust2.jpg" width="200px"/>
+          </def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e374">
+          <form>
+            <orth>dealgan</orth>
+          </form>
+          <def>spindle.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e383">
+          <form>
+            <orth>dealgan fersaid</orth>
+            <pron>[sic]</pron>
+          </form>
+          <def>[sic] to double thread.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e392">
+          <form>
+            <orth>(an t-) seic</orth>
+          </form>
+          <def>bar with hooks to shift thread.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Canada_CanadaMacKinnonetalwool-d0e400">7. Dyeing</head>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e405">
+          <form>
+            <orth>dathadh</orth>
+          </form>
+          <def>dyeing.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e414">
+          <form>
+            <orth>guirmean</orth>
+          </form>
+          <def>blueing; blue dye (store dye).</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e423">
+          <form>
+            <orth>cnotail</orth>
+          </form>
+          <def>lichen. (onion skin used also)</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e432">
+          <form>
+            <orth>mùin</orth>
+          </form>
+          <def>urine.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Canada_CanadaMacKinnonetalwool-d0e440">8. Washing after dyeing</head>
+      </div>
+      <div>
+        <head xml:id="Canada_CanadaMacKinnonetalwool-d0e444">9. Warping</head>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e449">
+          <form>
+            <orth>crann dealbh</orth>
+          </form>
+          <def>warping frame.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Canada_CanadaMacKinnonetalwool-d0e457">10. Beaming and tying</head>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e462">
+          <form>
+            <orth>riaghailt</orth>
+          </form>
+          <def>tying (onto frame).</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e471">
+          <form>
+            <orth>brochan</orth>
+          </form>
+          <def>starch for warp threads.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Canada_CanadaMacKinnonetalwool-d0e479">11. Weaving</head>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e484">
+          <form>
+            <orth>figheadaireachd</orth>
+          </form>
+          <def>weaving.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e493">
+          <form>
+            <orth>dluth</orth>
+          </form>
+          <def>warp.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e502">
+          <form>
+            <orth>uachdar</orth>
+          </form>
+          <def>woof.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e511">
+          <form>
+            <orth>(an t-) aodach</orth>
+          </form>
+          <def>cloth.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Canada_CanadaMacKinnonetalwool-d0e519">12. Parts of the weaving loom</head>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e524">
+          <form>
+            <orth>beart</orth>
+          </form>
+          <def>loom, frame.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e533">
+          <form>
+            <orth>bocsa na dealbh</orth>
+          </form>
+          <def>box for balls of yarn.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e542">
+          <form>
+            <orth>casachan</orth>
+          </form>
+          <def>treadle.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e551">
+          <form>
+            <orth>imalan</orth>
+          </form>
+          <def>heddle.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e560">
+          <form>
+            <orth>slinn</orth>
+          </form>
+          <def>comb(s).</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e569">
+          <form>
+            <orth>spàl</orth>
+          </form>
+          <def>shuttle.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e578">
+          <form>
+            <orth>spalag</orth>
+          </form>
+          <def>shuttle.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e587">
+          <form>
+            <orth>iteachan</orth>
+          </form>
+          <def>bobbin.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e596">
+          <form>
+            <orth>drumannach</orth>
+          </form>
+          <def>wood (us. cattail) which can be cored to make bobbin.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Canada_CanadaMacKinnonetalwool-d0e604">13. Finishing</head>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-idola56">
+          <form>
+            <orth>[washing cloth]</orth>
+          </form>
+          <def>(Cloth washed in a brook and spread to dry, or taken to loft to dry.)</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKinnonetalwool-d0e618">
+          <form>
+            <orth>luadhadh</orth>
+          </form>
+          <def>waulking.</def>
+        </entry>
+      </div>
     </body>
   </text>
 </TEI>

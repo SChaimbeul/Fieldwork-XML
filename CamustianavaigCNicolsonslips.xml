@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_CamustianavaigCNicolsonslips">
   <teiHeader>
     <fileDesc>
@@ -15,17 +19,11 @@
     <profileDesc>
       <creation>
         <date>07/1970</date>
-        <location>
-          <placeName>Skye, Camustianavaig</placeName>
-        </location>
+        <location corresp="Skye_Camustianavaig"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>Calum Nicolson</persName>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="Calum_Nicolson_Skye_Camustianavaig"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -54,7 +52,7 @@
           <orth>òmhas</orth>
           <pron>[ɔ̃:əs]</pron>
         </form>
-        <def>[ɔ̃:əs] Quotation: òmhas (sp?) bàta. Notes: “dock” for a boat on the shore.</def>
+        <def>Quotation: òmhas (sp?) bàta. Notes: “dock” for a boat on the shore.</def>
       </entry>
       <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161840384">
         <form>
@@ -67,7 +65,7 @@
           <orth>tollach</orth>
           <pron>[t̪ɔɫɑx]</pron>
         </form>
-        <def>[t̪ɔɫɑx] Quotation: ’S ann gu math tollach a bha i nuair a chunnaic i na bha as a’ ghlaine. Notes: dissatisfied.</def>
+        <def>Quotation: ’S ann gu math tollach a bha i nuair a chunnaic i na bha as a’ ghlaine. Notes: dissatisfied.</def>
       </entry>
       <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161913608">
         <form>
@@ -86,14 +84,14 @@
           <orth>earchall</orth>
           <pron>[ɛɾɛxɑɫ]</pron>
         </form>
-        <def>[ɛɾɛxɑɫ] Notes: accident.</def>
+        <def>Notes: accident.</def>
       </entry>
       <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161908568">
         <form>
           <orth>feothal</orth>
           <pron>[fjɔhəɫ]</pron>
         </form>
-        <def>[fjɔhəɫ] Notes: gossip.</def>
+        <def>Notes: gossip.</def>
       </entry>
       <entry xml:id="Slips_CamustianavaigCNicolsonslips-idp161906840" type="person">
         <form>
@@ -112,7 +110,7 @@
           <orth>flogadaich</orth>
           <pron>[fɫɔɡəd̪iç]</pron>
         </form>
-        <def>[fɫɔɡəd̪iç] Notes: flattery.</def>
+        <def>Notes: flattery.</def>
       </entry>
     </body>
   </text>

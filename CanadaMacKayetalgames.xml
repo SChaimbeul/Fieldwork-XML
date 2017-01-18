@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Canada_CanadaMacKayetalgames">
   <teiHeader>
     <fileDesc>
@@ -18,36 +22,17 @@
     <profileDesc>
       <creation>
         <date>[1969]</date>
-        <location>
-          <placeName>Canada</placeName>
-        </location>
+        <location corresp="Canada"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>Susan Norwood</persName>
-        </person>
-        <person role="informant">
-          <persName>James MacKay</persName>
-          <birth>
-            <placeName>([Canada], Inverness Co., [Lochaber])</placeName>
-          </birth>
-        </person>
-        <person role="informant">
-          <persName>Alec Beaton</persName>
-          <birth>
-            <placeName>([Canada], Inverness Co.)</placeName>
-          </birth>
-        </person>
-        <person role="informant">
-          <persName>S.J. MacKinnon</persName>
-          <birth>
-            <placeName>([Canada], Inverness Co.)</placeName>
-          </birth>
-        </person>
+        <person role="fieldworker" corresp="Susan_Norwood"/>
+        <person role="informant" corresp="James_MacKay_Canada_Inverness_County_Lochaber"/>
+        <person role="informant" corresp="Alec_Beaton_Canada_Inverness_County"/>
+        <person role="informant" corresp="S_J_MacKinnon_Canada_Inverness_County"/>
       </particDesc>
       <textClass>
         <keywords>
-          <term>Recreation: Toys, Games, Contests</term>
+          <term xml:lang="en">Recreation: Toys, Games, Contests</term>
           <term>Cur-seachadan: Dèideagan, Geamaichean is Farpaisean</term>
         </keywords>
       </textClass>
@@ -55,180 +40,201 @@
   </teiHeader>
   <text>
     <body>
-      <head xml:id="Canada_CanadaMacKayetalgames-d0e47">1. Toys</head>
-      <head xml:id="Canada_CanadaMacKayetalgames-d0e51">2. Swings, sea-saws etc.</head>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e56">
-        <form>
-          <orth>dreallag</orth>
-        </form>
-        <def>swing.</def>
-      </entry>
-      <head xml:id="Canada_CanadaMacKayetalgames-d0e64">3. Games played indoors</head>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e69">
-        <form>
-          <orth>dallan-dà</orth>
-        </form>
-        <def>blind-man’s-buff.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e78">
-        <form>
-          <orth>falach-fead</orth>
-        </form>
-        <def>hide-and-go-seek.</def>
-      </entry>
-      <head xml:id="Canada_CanadaMacKayetalgames-d0e86">4. Outdoor games not involving a ball or puck</head>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e91">
-        <form>
-          <orth>sgiobag</orth>
-        </form>
-        <def>tag.</def>
-      </entry>
-      <head xml:id="Canada_CanadaMacKayetalgames-d0e99">5. Ball games</head>
-      <head xml:id="Canada_CanadaMacKayetalgames-d0e103">6. Athletics</head>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e108">
-        <form>
-          <orth>leum fhada</orth>
-        </form>
-        <def>long jump.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e117">
-        <form>
-          <orth>leum fada</orth>
-        </form>
-        <def>long jump. (Lochaber)</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e126">
-        <form>
-          <orth>leum àrd</orth>
-        </form>
-        <def>high jump.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e135">
-        <form>
-          <orth>leum roid</orth>
-        </form>
-        <def>hop, step, and jump.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e144">
-        <form>
-          <orth>car-a-mhuilteim</orth>
-          <pron>[sic]</pron>
-        </form>
-        <def>[sic] somersault.</def>
-      </entry>
-      <head xml:id="Canada_CanadaMacKayetalgames-d0e152">7. Heavy events</head>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e157">
-        <form>
-          <orth>ceitheamh na chloiche</orth>
-        </form>
-        <def>stone-throwing.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e166">
-        <form>
-          <orth>ceitheamh na uird</orth>
-        </form>
-        <def>hammer-throwing.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e175">
-        <form>
-          <orth>ceitheamh na chabair</orth>
-        </form>
-        <def>caber-throwing.</def>
-      </entry>
-      <head xml:id="Canada_CanadaMacKayetalgames-d0e183">8. Contests involving pulling or pushing</head>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e188" resp="SJMacKinnon">
-        <form>
-          <orth>bata-leisg</orth>
-        </form>
-        <def>lazy-stick. (S.J. MacKinnon)</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e197">
-        <form>
-          <orth>maide-leisg</orth>
-        </form>
-        <def>lazy-stick.</def>
-      </entry>
-      <head xml:id="Canada_CanadaMacKayetalgames-d0e205">9. Boxing and wrestling</head>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e210" resp="SJMacKinnon">
-        <form>
-          <orth>carachd</orth>
-        </form>
-        <def>wrestling. (S.J. M[a]cK[innon])</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e219">
-        <form>
-          <orth>gleachd</orth>
-        </form>
-        <def>wrestling. (Lochaber)</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e228">
-        <form>
-          <orth>cuir an tripidh</orth>
-        </form>
-        <def>tripping.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e237">
-        <form>
-          <orth>breab</orth>
-        </form>
-        <def>kick.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e246">
-        <form>
-          <orth>ùbag</orth>
-        </form>
-        <def>a shove or push with the elbow.</def>
-      </entry>
-      <head xml:id="Canada_CanadaMacKayetalgames-d0e254">10. Blows in general</head>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e259">
-        <form>
-          <orth>ùbag</orth>
-        </form>
-        <def>shove or push with the elbow.</def>
-      </entry>
-      <head xml:id="Canada_CanadaMacKayetalgames-d0e267">11. Injury and exhaustion</head>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e272">
-        <form>
-          <orth>fallus</orth>
-        </form>
-        <def>sweating.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e281">
-        <form>
-          <orth>sgrobadh</orth>
-        </form>
-        <def>scratching, scraping.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e290">
-        <form>
-          <orth>sgriob</orth>
-        </form>
-        <def>scrape.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e299">
-        <form>
-          <orth>athailt</orth>
-        </form>
-        <def>scar.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e308">
-        <form>
-          <orth>siocadh</orth>
-        </form>
-        <def>sprain.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e317">
-        <form>
-          <orth>cas mu seach</orth>
-        </form>
-        <def>(foot-about) falling from weakness.</def>
-      </entry>
-      <entry xml:id="Canada_CanadaMacKayetalgames-d0e326">
-        <form>
-          <orth>nealachadh</orth>
-        </form>
-        <def>fainting.</def>
-      </entry>
+      <div>
+        <head xml:id="Canada_CanadaMacKayetalgames-d0e47">1. Toys</head>
+      </div>
+      <div>
+        <head xml:id="Canada_CanadaMacKayetalgames-d0e51">2. Swings, sea-saws etc.</head>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e56">
+          <form>
+            <orth>dreallag</orth>
+          </form>
+          <def>swing.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Canada_CanadaMacKayetalgames-d0e64">3. Games played indoors</head>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e69">
+          <form>
+            <orth>dallan-dà</orth>
+          </form>
+          <def>blind-man’s-buff.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e78">
+          <form>
+            <orth>falach-fead</orth>
+          </form>
+          <def>hide-and-go-seek.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Canada_CanadaMacKayetalgames-d0e86">4. Outdoor games not involving a ball or puck</head>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e91">
+          <form>
+            <orth>sgiobag</orth>
+          </form>
+          <def>tag.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Canada_CanadaMacKayetalgames-d0e99">5. Ball games</head>
+      </div>
+      <div>
+        <head xml:id="Canada_CanadaMacKayetalgames-d0e103">6. Athletics</head>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e108">
+          <form>
+            <orth>leum fhada</orth>
+          </form>
+          <def>long jump.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e117">
+          <form>
+            <orth>leum fada</orth>
+          </form>
+          <def>long jump. (Lochaber)</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e126">
+          <form>
+            <orth>leum àrd</orth>
+          </form>
+          <def>high jump.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e135">
+          <form>
+            <orth>leum roid</orth>
+          </form>
+          <def>hop, step, and jump.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e144">
+          <form>
+            <orth>car-a-mhuilteim</orth>
+          </form>
+          <def>[sic] somersault.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Canada_CanadaMacKayetalgames-d0e152">7. Heavy events</head>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e157">
+          <form>
+            <orth>ceitheamh na chloiche</orth>
+          </form>
+          <def>stone-throwing.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e166">
+          <form>
+            <orth>ceitheamh na uird</orth>
+          </form>
+          <def>hammer-throwing.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e175">
+          <form>
+            <orth>ceitheamh na chabair</orth>
+          </form>
+          <def>caber-throwing.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Canada_CanadaMacKayetalgames-d0e183">8. Contests involving pulling or pushing</head>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e188" resp="SJMacKinnon">
+          <form>
+            <orth>bata-leisg</orth>
+          </form>
+          <def>lazy-stick. (S.J. MacKinnon)</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e197">
+          <form>
+            <orth>maide-leisg</orth>
+          </form>
+          <def>lazy-stick.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Canada_CanadaMacKayetalgames-d0e205">9. Boxing and wrestling</head>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e210" resp="SJMacKinnon">
+          <form>
+            <orth>carachd</orth>
+          </form>
+          <def>wrestling. (S.J. M[a]cK[innon])</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e219">
+          <form>
+            <orth>gleachd</orth>
+          </form>
+          <def>wrestling. (Lochaber)</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e228">
+          <form>
+            <orth>cuir an tripidh</orth>
+          </form>
+          <def>tripping.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e237">
+          <form>
+            <orth>breab</orth>
+          </form>
+          <def>kick.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e246">
+          <form>
+            <orth>ùbag</orth>
+          </form>
+          <def>a shove or push with the elbow.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Canada_CanadaMacKayetalgames-d0e254">10. Blows in general</head>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e259">
+          <form>
+            <orth>ùbag</orth>
+          </form>
+          <def>shove or push with the elbow.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Canada_CanadaMacKayetalgames-d0e267">11. Injury and exhaustion</head>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e272">
+          <form>
+            <orth>fallus</orth>
+          </form>
+          <def>sweating.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e281">
+          <form>
+            <orth>sgrobadh</orth>
+          </form>
+          <def>scratching, scraping.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e290">
+          <form>
+            <orth>sgriob</orth>
+          </form>
+          <def>scrape.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e299">
+          <form>
+            <orth>athailt</orth>
+          </form>
+          <def>scar.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e308">
+          <form>
+            <orth>siocadh</orth>
+          </form>
+          <def>sprain.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e317">
+          <form>
+            <orth>cas mu seach</orth>
+          </form>
+          <def>(foot-about) falling from weakness.</def>
+        </entry>
+        <entry xml:id="Canada_CanadaMacKayetalgames-d0e326">
+          <form>
+            <orth>nealachadh</orth>
+          </form>
+          <def>fainting.</def>
+        </entry>
+      </div>
     </body>
   </text>
 </TEI>

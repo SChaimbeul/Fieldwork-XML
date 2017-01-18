@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_CaolisHMeekslips">
   <teiHeader>
     <fileDesc>
@@ -15,17 +19,11 @@
     <profileDesc>
       <creation>
         <date>10/1970</date>
-        <location>
-          <placeName>Tiree, Caolis</placeName>
-        </location>
+        <location corresp="Tiree_Caolis"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>H. Meek</persName>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="H_Meek_Tiree_Caolis"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -66,7 +64,7 @@
           <orth>leum-roid</orth>
           <pron>[lʹe:mrɔdʹ]</pron>
         </form>
-        <def>[lʹe:mrɔdʹ] Notes: a running jump.</def>
+        <def>Notes: a running jump.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMeekslips-idp119006584">
         <form>
@@ -79,7 +77,7 @@
           <orth>lubraich</orth>
           <pron>[ɫu̜bɾiç]</pron>
         </form>
-        <def>[ɫu̜bɾiç] Quotation: a’ lubraich. Notes: splashing about in water.</def>
+        <def>Quotation: a’ lubraich. Notes: splashing about in water.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMeekslips-idp161876880">
         <form>
@@ -92,21 +90,21 @@
           <orth>mealtrag</orth>
           <pron>[mjɑɫt̪ɾɑɡ]</pron>
         </form>
-        <def>[mjɑɫt̪ɾɑɡ] Notes: roots of grass growing in sand – used for scraping pots.</def>
+        <def>Notes: roots of grass growing in sand – used for scraping pots.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMeekslips-idp161879256">
         <form>
           <orth>meilicheartan</orth>
           <pron>[meliçɑʴsṯəṉ]</pron>
         </form>
-        <def>[meliçɑʴsṯəṉ] Notes: chilblains. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+        <def>Notes: chilblains. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
       </entry>
       <entry xml:id="Slips_CaolisHMeekslips-idp161881128">
         <form>
           <orth>rabaid</orth>
           <pron>[rɑbɑdʹ]</pron>
         </form>
-        <def>[rɑbɑdʹ] Notes: rubbish.</def>
+        <def>Notes: rubbish.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMeekslips-idp161883288">
         <form>
@@ -119,14 +117,14 @@
           <orth>rideais</orth>
           <pron>[ridʹɑʃ]</pron>
         </form>
-        <def>[ridʹɑʃ] Quotation: Tha na h-uain a’ [ridʹɑʃ]. Notes: gambolling.</def>
+        <def>Quotation: Tha na h-uain a’ [ridʹɑʃ]. Notes: gambolling.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMeekslips-idp161887968">
         <form>
           <orth>rìnne</orth>
           <pron>[rĩ:nʹə]</pron>
         </form>
-        <def>[rĩ:nʹə] Notes: a line of reefs.</def>
+        <def>Notes: a line of reefs.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMeekslips-idp161889264">
         <form>
@@ -181,21 +179,21 @@
           <orth>panaisgeag</orth>
           <pron>[pɑ̃ṉiʃɡʹɑɡ]</pron>
         </form>
-        <def>[pɑ̃ṉiʃɡʹɑɡ] Notes: pancake. (Colonsay)</def>
+        <def>Notes: pancake. (Colonsay)</def>
       </entry>
       <entry xml:id="Slips_CaolisHMeekslips-idp161842824">
         <form>
           <orth>piorsa</orth>
           <pron>[pjwrsə]</pron>
         </form>
-        <def>[pjwrsə] [sic] Notes: the iron band with the loop on it at the end of the swingle-tree.</def>
+        <def>[sic] Notes: the iron band with the loop on it at the end of the swingle-tree.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMeekslips-idp161901000">
         <form>
           <orth>plubail</orth>
           <pron>[pɫu̜bəl]</pron>
         </form>
-        <def>[pɫu̜bəl] Notes: plopping sound of water.</def>
+        <def>Notes: plopping sound of water.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMeekslips-idp161901216">
         <form>
@@ -208,14 +206,14 @@
           <orth>pronnasd</orth>
           <pron>[pɾɔ̃n̪əsd̪]</pron>
         </form>
-        <def>[pɾɔ̃n̪əsd̪] Notes: sulphur.</def>
+        <def>Notes: sulphur.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMeekslips-idp161909640">
         <form>
           <orth>purp</orth>
           <pron>[pu̟ɾp]</pron>
         </form>
-        <def>[pu̟ɾp] Quotation: Cha robh am purp sin innt. Notes: heard a Balemartin man use this for “gumption”.</def>
+        <def>Quotation: Cha robh am purp sin innt. Notes: heard a Balemartin man use this for “gumption”.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMeekslips-idp161908776">
         <form>
@@ -720,9 +718,9 @@
       <entry xml:id="Slips_CaolisHMeekslips-idp166365296">
         <form>
           <orth>froighneadh</orth>
-          <pron>[fɾ[ɤi]</pron>
+          <pron>[fɾ[ɤi]nʹəɣ]</pron>
         </form>
-        <def>[fɾ[ɤi]nʹəɣ] Quotation: Bha froighneadh air. Notes: He was cross, crabbit.</def>
+        <def>Quotation: Bha froighneadh air. Notes: He was cross, crabbit.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMeekslips-idp166367600">
         <form>
@@ -747,7 +745,7 @@
           <orth>giodal</orth>
           <pron>[ɡıd̪ɑɫ]</pron>
         </form>
-        <def>[ɡıd̪ɑɫ] Quotation: Tha e làn giodail. Notes: used of a dog showing pleasure.</def>
+        <def>Quotation: Tha e làn giodail. Notes: used of a dog showing pleasure.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMeekslips-idp166374224">
         <form>
@@ -772,14 +770,14 @@
           <orth>greallathaich</orth>
           <pron>[ɡɾɛɫɑhiç]</pron>
         </form>
-        <def>[ɡɾɛɫɑhiç] Notes: rubbish.</def>
+        <def>Notes: rubbish.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMeekslips-idp166380632">
         <form>
           <orth>guagan</orth>
           <pron>[ɡu̟ɤɡɑṉ]</pron>
         </form>
-        <def>[ɡu̟ɤɡɑṉ] Quotation: Far am bi gìogan bi guagan. Notes: parallel of “Thachair sruth ri steall”.</def>
+        <def>Quotation: Far am bi gìogan bi guagan. Notes: parallel of “Thachair sruth ri steall”.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMeekslips-idp166382504">
         <form>

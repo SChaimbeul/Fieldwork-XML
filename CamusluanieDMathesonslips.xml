@@ -19,21 +19,11 @@
     <profileDesc>
       <creation>
         <date>03/1970</date>
-        <location>
-          <placeName>Ross-shire, Killilan, Camusluanie</placeName>
-        </location>
+        <location corresp="Ross-shire_Killilan_Camusluanie"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>Duncan Matheson</persName>
-          <age>40-50</age>
-          <birth>
-            <placeName>Camusluanie</placeName>
-          </birth>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="Duncan_Matheson_Ross-shire_Killilan_Camusluanie"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -50,14 +40,14 @@
           <orth>leth-tithich</orth>
           <pron>[lʹɛtʹiiç]</pron>
         </form>
-        <def>[lʹɛtʹiiç] Notes: gullet.</def>
+        <def>Notes: gullet.</def>
       </entry>
       <entry xml:id="Slips_CamusluanieDMathesonslips-idp161844496">
         <form>
           <orth>athairle</orth>
           <pron>[ɑhɤu̜]</pron>
         </form>
-        <def>[ɑhɤu̜] Notes: two year old heifer.</def>
+        <def>Notes: two year old heifer.</def>
       </entry>
       <entry xml:id="Slips_CamusluanieDMathesonslips-idp161840896">
         <form>
@@ -76,14 +66,14 @@
           <orth>searrachan-taois</orth>
           <pron>[ʃɑrɑxɑṉt̪w:ʃ]</pron>
         </form>
-        <def>[ʃɑrɑxɑṉt̪w:ʃ] Notes: oval bannock, made from oatmeal, hot water and salt, and given to cattle.</def>
+        <def>Notes: oval bannock, made from oatmeal, hot water and salt, and given to cattle.</def>
       </entry>
       <entry xml:id="Slips_CamusluanieDMathesonslips-idp161865304">
         <form>
           <orth>seilbh</orth>
           <pron>[ʃeli]</pron>
         </form>
-        <def>[ʃeli] Notes: cattle (collect.).</def>
+        <def>Notes: cattle (collect.).</def>
       </entry>
       <entry xml:id="Slips_CamusluanieDMathesonslips-idp161867032">
         <form>
@@ -96,14 +86,14 @@
           <orth>stair</orth>
           <pron>[st̪ɤɾ]</pron>
         </form>
-        <def>[st̪ɤɾ] Notes: stepping stones across a burn.</def>
+        <def>Notes: stepping stones across a burn.</def>
       </entry>
       <entry xml:id="Slips_CamusluanieDMathesonslips-idp161870272">
         <form>
           <orth>treabhair</orth>
           <pron>[t̪ɾɔəɾ]</pron>
         </form>
-        <def>[t̪ɾɔəɾ] Quotation: Tha móran treabhair aige. Notes: collection of buildings such as a steading.</def>
+        <def>Quotation: Tha móran treabhair aige. Notes: collection of buildings such as a steading.</def>
       </entry>
       <entry xml:id="Slips_CamusluanieDMathesonslips-idp161872144">
         <form>
@@ -117,7 +107,7 @@
           <orth>bualaidh</orth>
           <pron>[bu̜ɤɫi]</pron>
         </form>
-        <def>[bu̜ɤɫi] Notes: cow stall.</def>
+        <def>Notes: cow stall.</def>
       </entry>
       <entry xml:id="Slips_CamusluanieDMathesonslips-idp161875384">
         <form>
@@ -138,14 +128,14 @@
           <orth>cabhsair</orth>
           <pron>[kɑu̟sɑɾ]</pron>
         </form>
-        <def>[kɑu̟sɑɾ] Notes: says it’s area of ground in front of a house.</def>
+        <def>Notes: says it’s area of ground in front of a house.</def>
       </entry>
       <entry xml:id="Slips_CamusluanieDMathesonslips-idp161880496">
         <form>
           <orth>cailbhe</orth>
           <pron>[kɑli]</pron>
         </form>
-        <def>[kɑli] Notes: wattle door.</def>
+        <def>Notes: wattle door.</def>
       </entry>
       <entry xml:id="Slips_CamusluanieDMathesonslips-idp161882224">
         <form>
@@ -176,7 +166,7 @@
           <orth>curruchd</orth>
           <pron>[ku̜ru̜xk]</pron>
         </form>
-        <def>[ku̜ru̜xk] Notes: a man’s cap. [NOTES: slipped under ‘currac’.]</def>
+        <def>Notes: a man’s cap. [NOTES: slipped under ‘currac’.]</def>
       </entry>
       <entry xml:id="Slips_CamusluanieDMathesonslips-idp161890792">
         <form>
@@ -202,21 +192,21 @@
           <orth>fiodhagach</orth>
           <pron>[fjwɣɑɡɑx]</pron>
         </form>
-        <def>[fjwɣɑɡɑx] Notes: the wild cherry.</def>
+        <def>Notes: the wild cherry.</def>
       </entry>
       <entry xml:id="Slips_CamusluanieDMathesonslips-idp161897488">
         <form>
           <orth>frainneach</orth>
           <pron>[fɾɑ̃nʹɑx]</pron>
         </form>
-        <def>[fɾɑ̃nʹɑx] </def>
+        <def></def>
       </entry>
       <entry xml:id="Slips_CamusluanieDMathesonslips-idp161899216">
         <form>
           <orth>greimeadair</orth>
           <pron>[ɡɾɤməd̪ɑɾ]</pron>
         </form>
-        <def>[ɡɾɤməd̪ɑɾ] Notes: a fork.</def>
+        <def>Notes: a fork.</def>
       </entry>
     </body>
   </text>

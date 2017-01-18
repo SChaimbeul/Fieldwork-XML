@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_CaolisHMacFadyenslips">
   <teiHeader>
     <fileDesc>
@@ -15,17 +19,11 @@
     <profileDesc>
       <creation>
         <date>10/1970</date>
-        <location>
-          <placeName>Tiree, Caolis</placeName>
-        </location>
+        <location corresp="Tiree_Caolis"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>Hugh MacFadyen</persName>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="Hugh_MacFadyen_Tiree_Caolis"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -60,7 +58,7 @@
           <orth>lunnan</orth>
           <pron>[ɫũ̜n̪əṉ]</pron>
         </form>
-        <def>[ɫũ̜n̪əṉ] Notes: rollers.</def>
+        <def>Notes: rollers.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMacFadyenslips-idp161857960">
         <form>
@@ -73,7 +71,7 @@
           <orth>moirich</orth>
           <pron>[mɔɾiç]</pron>
         </form>
-        <def>[mɔɾiç] Quotation: Fhuair mi air a mhoirich e. Notes: the green grass just up from the beach. (Could be [bɔɾiç].)</def>
+        <def>Quotation: Fhuair mi air a mhoirich e. Notes: the green grass just up from the beach. (Could be [bɔɾiç].)</def>
       </entry>
       <entry xml:id="Slips_CaolisHMacFadyenslips-idp161916424">
         <form>
@@ -86,7 +84,7 @@
           <orth>musgan</orth>
           <pron>[mũ̟sɡɑṉ]</pron>
         </form>
-        <def>[mũ̟sɡɑṉ] Notes: razorfish.</def>
+        <def>Notes: razorfish.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMacFadyenslips-idp161919664">
         <form>
@@ -136,21 +134,21 @@
           <orth>sgolladh</orth>
           <pron>[sɡɔɫəɣ]</pron>
         </form>
-        <def>[sɡɔɫəɣ] Quotation: a’ sgolladh. Notes: sculling.</def>
+        <def>Quotation: a’ sgolladh. Notes: sculling.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMacFadyenslips-idp161932912">
         <form>
           <orth>sgulathartaich</orth>
           <pron>[sɡu̟ləhɑʴsṯiç]</pron>
         </form>
-        <def>[sɡu̟ləhɑʴsṯiç] Notes: squeaking or shrieking, e.g. seagulls. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+        <def>Notes: squeaking or shrieking, e.g. seagulls. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
       </entry>
       <entry xml:id="Slips_CaolisHMacFadyenslips-idp161934784">
         <form>
           <orth>sileadh</orth>
           <pron>[ʃiləɣ]</pron>
         </form>
-        <def>[ʃiləɣ] Notes: piece of flooring fitting into the stem [?] of the boat.</def>
+        <def>Notes: piece of flooring fitting into the stem [?] of the boat.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMacFadyenslips-idp161936584">
         <form>
@@ -163,7 +161,7 @@
           <orth>steap</orth>
           <pron>[sṯɛp]</pron>
         </form>
-        <def>[sṯɛp] Quotation: steap a’ chruinn. Notes: hole into which the bottom of the mast filled.</def>
+        <def>Quotation: steap a’ chruinn. Notes: hole into which the bottom of the mast filled.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMacFadyenslips-idp161940040">
         <form>
@@ -176,7 +174,7 @@
           <orth>taobh-shlat</orth>
           <pron>[t̪w:ɫɑd̪]</pron>
         </form>
-        <def>[t̪w:ɫɑd̪] Notes: strap running the length of the boat and on which the seats rest.</def>
+        <def>Notes: strap running the length of the boat and on which the seats rest.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMacFadyenslips-idp161943424">
         <form>
@@ -211,16 +209,16 @@
       <entry xml:id="Slips_CaolisHMacFadyenslips-idp161951416">
         <form>
           <orth>tuim</orth>
-          <pron>[t̪[ɤ̃ĩ]</pron>
+          <pron>[t̪[ɤ̃ĩ]m]</pron>
         </form>
-        <def>[t̪[ɤ̃ĩ]m] Notes: water in a boat.</def>
+        <def>Notes: water in a boat.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMacFadyenslips-idp115737768">
         <form>
           <orth>àbaran (sic)</orth>
           <pron>[ɑ:bərɑṉ]</pron>
         </form>
-        <def>[ɑ:bərɑṉ] Notes: iron plate, later brass, fixed on gunwhale to prevent wear by the oar. (possibly should be aparan)</def>
+        <def>Notes: iron plate, later brass, fixed on gunwhale to prevent wear by the oar. (possibly should be aparan)</def>
       </entry>
       <entry xml:id="Slips_CaolisHMacFadyenslips-idp115739568">
         <form>
@@ -233,7 +231,7 @@
           <orth>àrachd</orth>
           <pron>[ɑ:ɾɑxk]</pron>
         </form>
-        <def>[ɑ:ɾɑxk] Quotation: na [hɑ:ɾɑxkɑ̃ṉʹ]. Notes: cork.</def>
+        <def>Quotation: na [hɑ:ɾɑxkɑ̃ṉʹ]. Notes: cork.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMacFadyenslips-idp115743312">
         <form>
@@ -265,7 +263,7 @@
           <orth>cèibinn</orth>
           <pron>[cɛ:bĩnʹ]</pron>
         </form>
-        <def>[cɛ:bĩnʹ] Notes: cabin, wheelhouse.</def>
+        <def>Notes: cabin, wheelhouse.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMacFadyenslips-idp115751232">
         <form>
@@ -276,9 +274,9 @@
       <entry xml:id="Slips_CaolisHMacFadyenslips-idp115753032">
         <form>
           <orth>clabhd</orth>
-          <pron>[kɫ[ɑu̟]</pron>
+          <pron>[kɫ[ɑu̟]d̪]</pron>
         </form>
-        <def>[kɫ[ɑu̟]d̪] Notes: a piece of hard wood fixed on to oar to prevent chafing (on two sides).</def>
+        <def>Notes: a piece of hard wood fixed on to oar to prevent chafing (on two sides).</def>
       </entry>
       <entry xml:id="Slips_CaolisHMacFadyenslips-idp115755192">
         <form>
@@ -304,7 +302,7 @@
           <orth>cothannach</orth>
           <pron>[kɔhən̪ɑx]</pron>
         </form>
-        <def>[kɔhən̪ɑx] Quotation: “Bhiodh e a’ cunntadh naoi stuadhannan agus a’ [xɔhən̪ɑx] a thigeadh bhon an naoidheamh stuadh bhitheadh e na chuir ann am botul agus na chrathadh air fear air an
+        <def>Quotation: “Bhiodh e a’ cunntadh naoi stuadhannan agus a’ [xɔhən̪ɑx] a thigeadh bhon an naoidheamh stuadh bhitheadh e na chuir ann am botul agus na chrathadh air fear air an
           robh ‘barr a’ chinn’.” Notes: a Donald Sinclair from Tiree who is supposed to be able to cure “barr a’ chinn” – a lump or lumps which appear at the back of the throat.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMacFadyenslips-idp115762032">
@@ -318,28 +316,28 @@
           <orth>deargan</orth>
           <pron>[dʹɛɾɛɡɑṉ]</pron>
         </form>
-        <def>[dʹɛɾɛɡɑṉ] Notes: a brown fish caught among rocks. Thinks it is the young ling.</def>
+        <def>Notes: a brown fish caught among rocks. Thinks it is the young ling.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMacFadyenslips-idp115765272">
         <form>
           <orth>dòirneag</orth>
           <pron>[d̪ɔ:ʴnʹɑɡ]</pron>
         </form>
-        <def>[d̪ɔ:ʴnʹɑɡ] Quotation: dòirneag a’ raimh. Notes: handle of the oar. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+        <def>Quotation: dòirneag a’ raimh. Notes: handle of the oar. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
       </entry>
       <entry xml:id="Slips_CaolisHMacFadyenslips-idp115767288">
         <form>
           <orth>draghal</orth>
           <pron>[d̪ɾɤəɫ]</pron>
         </form>
-        <def>[d̪ɾɤəɫ] Notes: fishing line pulled up and let down. </def>
+        <def>Notes: fishing line pulled up and let down. </def>
       </entry>
       <entry xml:id="Slips_CaolisHMacFadyenslips-idp115769088">
         <form>
           <orth>failm</orth>
           <pron>[fɤlɤm]</pron>
         </form>
-        <def>[fɤlɤm] Notes: helm.</def>
+        <def>Notes: helm.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMacFadyenslips-idp115770816">
         <form>
@@ -358,7 +356,7 @@
           <orth>fuaidreag</orth>
           <pron>[fu̟ɤdʹɾɑɡ]</pron>
         </form>
-        <def>[fu̟ɤdʹɾɑɡ] Notes: rubber eel.</def>
+        <def>Notes: rubber eel.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMacFadyenslips-idp115775568">
         <form>
@@ -371,7 +369,7 @@
           <orth>gibinneach</orth>
           <pron>[ɡʹibinʹɔx]</pron>
         </form>
-        <def>[ɡʹibinʹɔx] Notes: ink-fish.</def>
+        <def>Notes: ink-fish.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMacFadyenslips-idp115778952">
         <form>
@@ -384,7 +382,7 @@
           <orth>golamas</orth>
           <pron>[ɡɔɫɑməs]</pron>
         </form>
-        <def>[ɡɔɫɑməs] Quotation: golamas de dh’iasg, golamas de dh’fheòil, etc. Notes: inferior stuff, mixture.</def>
+        <def>Quotation: golamas de dh’iasg, golamas de dh’fheòil, etc. Notes: inferior stuff, mixture.</def>
       </entry>
       <entry xml:id="Slips_CaolisHMacFadyenslips-idp115782552">
         <form>

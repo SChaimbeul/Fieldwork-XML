@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_CarlowayCMacDonaldslips">
   <teiHeader>
     <fileDesc>
@@ -15,14 +19,10 @@
     <profileDesc>
       <creation>
         <date>1966-67</date>
-        <location>
-          <placeName>Lewis, Carloway</placeName>
-        </location>
+        <location corresp="Lewis_Carloway"/>
       </creation>
       <particDesc>
-        <person role="informant">
-          <persName>Miss Catherine MacDonald</persName>
-        </person>
+        <person role="informant" corresp="Miss_Catherine_MacDonald_Lewis_Carloway"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -45,7 +45,7 @@
           <orth>mircean</orth>
           <pron>[miðkʹɑn]</pron>
         </form>
-        <def>[miðkʹɑn] Quotation: stamh earrach, duileasg samhraidh, mircean fobhair, dulach geamhraidh. Notes: kind of seaweed.</def>
+        <def>Quotation: stamh earrach, duileasg samhraidh, mircean fobhair, dulach geamhraidh. Notes: kind of seaweed.</def>
       </entry>
       <entry xml:id="Slips_CarlowayCMacDonaldslips-idp161835624">
         <form>

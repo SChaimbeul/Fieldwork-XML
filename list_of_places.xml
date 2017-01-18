@@ -79,6 +79,22 @@
             <place xml:id="Lewis_Borve">
               <placeName xml:lang="en">Borve</placeName>
             </place>
+            <place xml:id="Lewis_Carloway">
+              <placeName>Carlobhadh</placeName>
+              <placeName xml:lang="en">Carloway</placeName>
+              <place xml:id="Lewis_Carloway_Park">
+                <placeName xml:lang="en">Park</placeName>
+              </place>
+              <place xml:id="Lewis_Carloway_Doune">
+                <placeName xml:lang="en">Doune</placeName>
+              </place>
+            </place>
+            <place xml:id="Lewis_South_Lochs">
+              <placeName xml:lang="en">South Lochs</placeName>
+              <place xml:id="Lewis_South_Lochs_Caversta">
+                <placeName xml:lang="en">Caversta</placeName>
+              </place>
+            </place>
           </place>
           <place xml:id="Harris">
             <placeName xml:lang="en">Harris</placeName>
@@ -214,6 +230,12 @@
               <placeName>Blàsheabhal</placeName>
               <placeName xml:lang="en">Blashaval</placeName>
             </place>
+            <place xml:id="North_Uist_Carinish">
+              <placeName xml:lang="en">Carinish</placeName>
+              <place xml:id="North_Uist_Carinish_Trianaid_House">
+                <placeName xml:lang="en">Trianaid House</placeName>
+              </place>
+            </place>
           </place>
           <place xml:id="Benbecula">
             <placeName xml:lang="en">Benbecula</placeName>
@@ -299,11 +321,20 @@
                 <placeName xml:lang="en">Calligary</placeName>
               </place>
             </place>
+            <place xml:id="Skye_Camustianavaig">
+              <placeName xml:lang="en">Camustianavaig</placeName>
+            </place>
           </place>
           <place xml:id="Islay">
             <placeName xml:lang="en">Islay</placeName>
             <place xml:id="Islay_Bowmore">
               <placeName xml:lang="en">Bowmore</placeName>
+            </place>
+          </place>
+          <place xml:id="Tiree">
+            <placeName xml:lang="en">Tiree</placeName>
+            <place xml:id="Tiree_Caolis">
+              <placeName xml:lang="en">Caolis</placeName>
             </place>
           </place>
         </place>
@@ -353,6 +384,12 @@
           <place xml:id="Ross-shire_Aultbea">
             <placeName xml:lang="en">Aultbea</placeName>
           </place>
+          <place xml:id="Ross-shire_Killilan">
+            <placeName xml:lang="en">Killilan</placeName>
+            <place xml:id="Ross-shire_Killilan_Camusluanie">
+              <placeName xml:lang="en">Camusluanie</placeName>
+            </place>
+          </place>
         </place>
         <place xml:id="Inverness-shire">
           <placeName xml:lang="en">Inverness-shire</placeName>
@@ -396,10 +433,16 @@
           </place>
         </place>
         
-        <place xml:id="Kintyre">
-          <placeName xml:lang="en">Kintyre</placeName>
-          <place xml:id="Kintyre_Campbeltown">
-            <placeName xml:lang="en">Campbeltown</placeName>
+        <place xml:id="Argyll">
+          <placeName xml:lang="en">Argyll</placeName>
+          <place xml:id="Kintyre">
+            <placeName xml:lang="en">Kintyre</placeName>
+            <place xml:id="Kintyre_Campbeltown">
+              <placeName xml:lang="en">Campbeltown</placeName>
+            </place>
+          </place>
+          <place xml:id="Argyll_Carradale">
+            <placeName xml:lang="en">Carradale</placeName>
           </place>
         </place>
         
@@ -429,6 +472,15 @@
               <place xml:id="Nova_Scotia_Cape_Breton_Broad_Cove">
                 <placeName xml:lang="en">Broad Cove</placeName>
               </place>
+            </place>
+            <place xml:id="Nova_Scotia_Inverness_County">
+              <placeName>Inverness County</placeName>
+              <place xml:id="Nova_Scotia_Inverness_County_Lochaber">
+                <placeName>Lochaber</placeName>
+              </place>
+            </place>
+            <place xml:id="Canada_Victoria_County">
+              <placeName xml:lang="en">Victoria County</placeName>
             </place>
           </place>
           
