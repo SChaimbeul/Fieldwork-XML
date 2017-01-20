@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_ChristmasIslandJMacKenzieslips">
   <teiHeader>
     <fileDesc>
@@ -15,17 +19,11 @@
     <profileDesc>
       <creation>
         <date>05/1971</date>
-        <location>
-          <placeName>Canada, Christmas Island</placeName>
-        </location>
+        <location corresp="Nova_Scotia_Cape_Breton_Christmas_Island"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>J. MacKenzie</persName>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="J_MacKenzie_Nova_Scotia_Cape_Breton_Christmas_Island"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -42,14 +40,14 @@
           <orth>spleog</orth>
           <pron>[splɛɔɡ]</pron>
         </form>
-        <def>[splɛɔɡ] Notes: big, untidy woman.</def>
+        <def>Notes: big, untidy woman.</def>
       </entry>
       <entry xml:id="Slips_ChristmasIslandJMacKenzieslips-idp166275048">
         <form>
           <orth>àmhainn</orth>
           <pron>[ɑ̃:hĩnʹ]</pron>
         </form>
-        <def>[ɑ̃:hĩnʹ] Notes: flat cast-iron vessel on which bannocks were baked.</def>
+        <def>Notes: flat cast-iron vessel on which bannocks were baked.</def>
       </entry>
       <entry xml:id="Slips_ChristmasIslandJMacKenzieslips-idp166276848">
         <form>
@@ -68,7 +66,7 @@
           <orth>ceileag</orth>
           <pron>[celɑɡ]</pron>
         </form>
-        <def>[celɑɡ] Notes: home-made wooden anchor. Stone weight in centre. </def>
+        <def>Notes: home-made wooden anchor. Stone weight in centre. </def>
       </entry>
       <entry xml:id="Slips_ChristmasIslandJMacKenzieslips-idp166281600">
         <form>

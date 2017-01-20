@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_CulkeinAMathesonslips">
   <teiHeader>
     <fileDesc>
@@ -15,21 +19,11 @@
     <profileDesc>
       <creation>
         <date>10/1969</date>
-        <location>
-          <placeName>Sutherland, Lochinver, Culkein (Stoer)</placeName>
-        </location>
+        <location corresp="Sutherland_Lochinver_Culkein"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith]</persName>
-        </person>
-        <person role="informant">
-          <persName>Angus Matheson</persName>
-          <age>c. 65</age>
-          <birth>
-            <placeName>Culkein</placeName>
-          </birth>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith"/>
+        <person role="informant" corresp="Angus_Matheson_Sutherland_Lochinver_Culkein"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -50,30 +44,30 @@
       <entry xml:id="Slips_CulkeinAMathesonslips-idp166314056">
         <form>
           <orth>leamhnad</orth>
-          <pron>[lʹ[ɑũ̟]</pron>
+          <pron>[lʹ[ɑũ̟]ṉəd̪]</pron>
         </form>
-        <def>[lʹ[ɑũ̟]ṉəd̪] Notes: sty.</def>
+        <def>Notes: sty.</def>
       </entry>
       <entry xml:id="Slips_CulkeinAMathesonslips-idp166311896">
         <form>
           <orth>lèataran</orth>
           <pron>[lʹɛ:t̪əɾɑṉ]</pron>
         </form>
-        <def>[lʹɛ:t̪əɾɑṉ] Notes: area in front of the pulpit where the elders sat.</def>
+        <def>Notes: area in front of the pulpit where the elders sat.</def>
       </entry>
       <entry xml:id="Slips_CulkeinAMathesonslips-idp166309520">
         <form>
           <orth>maolag</orth>
           <pron>[mw̃:ɫɑɡ]</pron>
         </form>
-        <def>[mw̃:ɫɑɡ] Notes: bottom part of sock used as a slipper.</def>
+        <def>Notes: bottom part of sock used as a slipper.</def>
       </entry>
       <entry xml:id="Slips_CulkeinAMathesonslips-idp166308296">
         <form>
           <orth>mias</orth>
           <pron>[mɛ̃:s]</pron>
         </form>
-        <def>[mɛ̃:s] Notes: basin.</def>
+        <def>Notes: basin.</def>
       </entry>
       <entry xml:id="Slips_CulkeinAMathesonslips-idp166306424">
         <form>
@@ -270,7 +264,7 @@
           <orth>famh</orth>
           <pron>[fɑ̃v]</pron>
         </form>
-        <def>[fɑ̃v] Notes: mole.</def>
+        <def>Notes: mole.</def>
       </entry>
       <entry xml:id="Slips_CulkeinAMathesonslips-idp166389728">
         <form>

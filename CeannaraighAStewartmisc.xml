@@ -19,17 +19,11 @@
     <profileDesc>
       <creation>
         <date>[1987-88]</date>
-        <location>
-          <placeName>North Uist, Grimsay, Ceannaraigh</placeName>
-        </location>
+        <location corresp="North_Uist_Grimsay_Ceannaraigh"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>A. O’Henley</persName>
-        </person>
-        <person role="informant">
-          <persName>Angus Stewart</persName>
-        </person>
+        <person role="fieldworker" corresp="A_O_Henley"/>
+        <person role="informant" corresp="Angus_Stewart_North_Uist_Grimsay_Ceannaraigh"/>
       </particDesc>
       <textClass>
         <keywords>

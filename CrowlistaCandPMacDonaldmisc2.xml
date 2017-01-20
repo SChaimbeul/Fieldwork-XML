@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AJSmith_CrowlistaCandPMacDonaldmisc2">
   <teiHeader>
     <fileDesc>
@@ -15,17 +19,12 @@
     <profileDesc>
       <creation>
         <date>May 1972</date>
-        <location>
-          <placeName>Lewis, Uig, Crowlista</placeName>
-        </location>
+        <location corresp="Lewis_Uig_Crowlista"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>A. J. Smith</persName>
-        </person>
-        <person role="informant">
-          <persName>Calum and Peggy MacDonald</persName>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith"/>
+        <person role="informant" corresp="Calum_MacDonald_Lewis_Uig_Crowlista"/>
+        <person role="informant" corresp="Peggy_MacDonald_Lewis_Uig_Crowlista"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -42,7 +41,7 @@
           <orth>sgùil</orth>
           <pron>[sɡu̟:l]</pron>
         </form>
-        <def>[sɡu̟:l] Note: small-line basket, made of sea-bent.</def>
+        <def>Note: small-line basket, made of sea-bent.</def>
       </entry>
       <entry xml:id="AJSmith_CrowlistaCandPMacDonaldmisc2-idp118746184">
         <form>
@@ -55,7 +54,7 @@
           <orth>luamhgha</orth>
           <pron>[ɫũɑ̃ɣə]</pron>
         </form>
-        <def>[ɫũɑ̃ɣə] Note: part of sheep’s entrails used in the making of marags. A part closed at the narrow end, opening out to a wide mouth. This mouth is stitched across. (This is not a’ ghlas
+        <def>Note: part of sheep’s entrails used in the making of marags. A part closed at the narrow end, opening out to a wide mouth. This mouth is stitched across. (This is not a’ ghlas
           mhór or a’ ghlas bheag. [See glas.])</def>
       </entry>
       <entry xml:id="AJSmith_CrowlistaCandPMacDonaldmisc2-idp118823800">
@@ -90,7 +89,7 @@
           <orth>pròs</orth>
           <pron>[pɾɔ:əs]</pron>
         </form>
-        <def>[pɾɔ:əs] Quot.: “pròs tùchan”. Note: a very thick brose. A little taken with milk.</def>
+        <def>Quot.: “pròs tùchan”. Note: a very thick brose. A little taken with milk.</def>
       </entry>
       <entry xml:id="AJSmith_CrowlistaCandPMacDonaldmisc2-idp118792192">
         <form>
@@ -758,7 +757,7 @@
           <orth>réis</orth>
           <pron>[re:ʃ]</pron>
         </form>
-        <def>[re:ʃ] Quot.: “Tha na piseagan air tòiseachadh a’ réis.” Note: playing about, capering.</def>
+        <def>Quot.: “Tha na piseagan air tòiseachadh a’ réis.” Note: playing about, capering.</def>
       </entry>
     </body>
   </text>

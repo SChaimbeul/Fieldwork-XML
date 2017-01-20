@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_ComrieBBrownslips">
   <teiHeader>
     <fileDesc>
@@ -15,20 +19,11 @@
     <profileDesc>
       <creation>
         <date>1975</date>
-        <location>
-          <placeName>Comrie</placeName>
-        </location>
+        <location corresp="Perthshire_Comrie"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[Tony Dilworth?]</persName>
-        </person>
-        <person role="informant">
-          <persName>Miss Bessie Brown</persName>
-          <birth>
-            <placeName>Loch Tay</placeName>
-          </birth>
-        </person>
+        <person role="fieldworker" corresp="Tony_Dilworth" cert="medium"/>
+        <person role="informant" corresp="Miss_Bessie_Brown_Perthshire_Loch_Tay"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -42,23 +37,21 @@
     <body>
       <entry xml:id="Slips_ComrieBBrownslips-idp166293696">
         <form>
-          <orth>[f</orth>
-          <pron>[ai]</pron>
+          <pron>[f[ai]ˈiri]</pron>
         </form>
-        <def>[ai]ˈiri] Quotation: Bha m’athair glé [f[ai]ˈiri] agus bha e daolan a’ deanamh an obair da na croitearan.</def>
+        <def>Quotation: Bha m’athair glé [f[ai]ˈiri] agus bha e daolan a’ deanamh an obair da na croitearan.</def>
       </entry>
       <entry xml:id="Slips_ComrieBBrownslips-idp166288152">
         <form>
-          <orth>[ɡrɛ̜ ə vɔṉiç]</orth>
+          <pron>[ɡrɛ̜ ə vɔṉiç]</pron>
         </form>
         <def>Notes: an illness – ? Cf. Dw. ‘galar greidh’ – ‘fives, strangles’.</def>
       </entry>
       <entry xml:id="Slips_ComrieBBrownslips-idp166284624">
         <form>
-          <orth>[ru̜:k</orth>
-          <pron>[ai]</pron>
+          <pron>[ru̜:k[ai]nʹ]</pron>
         </form>
-        <def>[ai]nʹ] Quotation: Dar a bha iad glé thioram bha iad a’ deanamh [ru̜:k[ai]nʹ] dhiubh.</def>
+        <def>Quotation: Dar a bha iad glé thioram bha iad a’ deanamh [ru̜:k[ai]nʹ] dhiubh.</def>
       </entry>
       <entry xml:id="Slips_ComrieBBrownslips-idp166308600">
         <form>
@@ -95,7 +88,7 @@
           <orth>seurachd</orth>
           <pron>[ʃɛ̜:raxk]</pron>
         </form>
-        <def>[ʃɛ̜:raxk] Quotation: … agus bha ceithir croitearan agus seurachd ann. Notes: Or: … ‘agus seurachdan’. Shareholders? (Mentioned previously in English.)</def>
+        <def>Quotation: … agus bha ceithir croitearan agus seurachd ann. Notes: Or: … ‘agus seurachdan’. Shareholders? (Mentioned previously in English.)</def>
       </entry>
       <entry xml:id="Slips_ComrieBBrownslips-idp166318968">
         <form>
@@ -160,16 +153,16 @@
       <entry xml:id="Slips_ComrieBBrownslips-idp166336176">
         <form>
           <orth>clann</orth>
-          <pron>[kw[ɔu]</pron>
+          <pron>[kw[ɔu]ṉ]</pron>
         </form>
-        <def>[kw[ɔu]ṉ] [?] </def>
+        <def> [?] </def>
       </entry>
       <entry xml:id="Slips_ComrieBBrownslips-idp166338408">
         <form>
           <orth>crodh-bhàint’</orth>
           <pron>[krɔ: veṉtʹ]</pron>
         </form>
-        <def>[krɔ: veṉtʹ] Notes: milch-cows.</def>
+        <def>Notes: milch-cows.</def>
       </entry>
       <entry xml:id="Slips_ComrieBBrownslips-idp166340136">
         <form>
@@ -182,7 +175,7 @@
           <orth>cuimrigh</orth>
           <pron>[kiˈməri]</pron>
         </form>
-        <def>[kiˈməri] Notes: comrie.</def>
+        <def>Notes: comrie.</def>
       </entry>
       <entry xml:id="Slips_ComrieBBrownslips-idp166343736">
         <form>

@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach">
   <teiHeader>
     <fileDesc>
@@ -19,25 +23,17 @@
     <profileDesc>
       <creation>
         <date>[02/1968 on the slips]</date>
-        <location>
-          <placeName>North Uist, Locheport, Clachan</placeName>
-        </location>
+        <location corresp="North_Uist_Locheport_Clachan"/>
       </creation>
       <particDesc>
         <person role="fieldworker">
           <persName>[self]</persName>
         </person>
-        <person role="informant">
-          <persName>(Rev.) Norman MacDonald</persName>
-          <age>63</age>
-          <birth>
-            <placeName>Skye</placeName>
-          </birth>
-        </person>
+        <person role="informant" corresp="Rev_Norman_MacDonald_North_Uist_Locheport_Clachan"/>
       </particDesc>
       <textClass>
         <keywords>
-          <term>Fishing Tackle</term>
+          <term xml:lang="en">Fishing Tackle</term>
           <term>Acfhuinn Iasgaich</term>
         </keywords>
       </textClass>
@@ -45,25 +41,37 @@
   </teiHeader>
   <text>
     <body>
-      <head xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach-d0e35">1. Lìon-mór</head>
-      <entry xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach-d0e40">
-        <form>
-          <orth>biathadh linn-mhór</orth>
-        </form>
-        <def>The bait put on the hooks of these lines. [NOTES: slip not found.]</def>
-      </entry>
-      <head xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach-d0e48">2. Lìon-beag</head>
-      <head xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach-d0e52">3. Lìon-sgadanach</head>
-      <head xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach-d0e56">4. Lìon sam bith eile</head>
-      <head xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach-d0e60">5. Duirgh, slatan, driamlaichean</head>
-      <entry xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach-d0e65">
-        <form>
-          <orth>sgrìoban</orth>
-        </form>
-        <def>Hand line used for cod fishing. Line was twined around wooden frame. <graphic url="ClachanNMacDonaldiasgachillust1.jpg" width="200px"/> [SLIP: Sgrioban [sic] wooden frame round which a
-          hand line for cod fishing was entwined.]</def>
-      </entry>
-      <head xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach-d0e75">6. Acfhuinn sam bith eile</head>
+      <div>
+        <head xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach-d0e35">1. Lìon-mór</head>
+        <entry xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach-d0e40">
+          <form>
+            <orth>biathadh linn-mhór</orth>
+          </form>
+          <def>The bait put on the hooks of these lines. [NOTES: slip not found.]</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach-d0e48">2. Lìon-beag</head>
+      </div>
+      <div>
+        <head xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach-d0e52">3. Lìon-sgadanach</head>
+      </div>
+      <div>
+        <head xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach-d0e56">4. Lìon sam bith eile</head>
+      </div>
+      <div>
+        <head xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach-d0e60">5. Duirgh, slatan, driamlaichean</head>
+        <entry xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach-d0e65">
+          <form>
+            <orth>sgrìoban</orth>
+          </form>
+          <def>Hand line used for cod fishing. Line was twined around wooden frame. <graphic url="ClachanNMacDonaldiasgachillust1.jpg" width="200px"/> [SLIP: Sgrioban [sic] wooden frame round which a
+            hand line for cod fishing was entwined.]</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="WoolworkingandFishing_ClachanNMacDonaldiasgach-d0e75">6. Acfhuinn sam bith eile</head>
+      </div>
     </body>
   </text>
 </TEI>

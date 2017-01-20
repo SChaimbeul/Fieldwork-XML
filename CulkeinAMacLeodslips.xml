@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_CulkeinAMacLeodslips">
   <teiHeader>
     <fileDesc>
@@ -15,18 +19,11 @@
     <profileDesc>
       <creation>
         <date>10/1969</date>
-        <location>
-          <placeName>Sutherland, Lochinver, Culkein (Stoer)</placeName>
-        </location>
+        <location corresp="Sutherland_Lochinver_Culkein"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>Alex. (Alick) MacLeod</persName>
-          <age>c. 80</age>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith"/>
+        <person role="informant" corresp="Alex_MacLeod_Sutherland_Lochinver_Culkein"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -141,7 +138,7 @@
           <orth>famh-mhùgach</orth>
           <pron>[fɑ̃:vũ̟:ɡɑx]</pron>
         </form>
-        <def>[fɑ̃:vũ̟:ɡɑx] Notes: a mole.</def>
+        <def>Notes: a mole.</def>
       </entry>
       <entry xml:id="Slips_CulkeinAMacLeodslips-idp166325088">
         <form>
@@ -184,7 +181,7 @@
           <orth>goir</orth>
           <pron>[ɡɤɾ]</pron>
         </form>
-        <def>[ɡɤɾ] Quotation: Cha tigeadh e nan goir. Notes: He wouldn’t come near them.</def>
+        <def>Quotation: Cha tigeadh e nan goir. Notes: He wouldn’t come near them.</def>
       </entry>
       <entry xml:id="Slips_CulkeinAMacLeodslips-idp166336752">
         <form>

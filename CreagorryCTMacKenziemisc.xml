@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AOHenley_CreagorryCTMacKenziemisc">
   <teiHeader>
     <fileDesc>
@@ -15,17 +19,11 @@
     <profileDesc>
       <creation>
         <date>[1987-88]</date>
-        <location>
-          <placeName>Benbecula, Creagorry</placeName>
-        </location>
+        <location corresp="Benbecula_Creagorry"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>A. O’Henley</persName>
-        </person>
-        <person role="informant">
-          <persName>Rev. C. T. MacKenzie</persName>
-        </person>
+        <person role="fieldworker" corresp="A_O_Henley"/>
+        <person role="informant" corresp="Rev_C_T_MacKenzie_Benbecula_Creagorry"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -52,7 +50,6 @@
       <entry xml:id="AOHenley_CreagorryCTMacKenziemisc-idm109604840">
         <form>
           <orth>tearraideachadh</orth>
-          <pron>[See tearraidearrachd.]</pron>
         </form>
         <def>[See tearraidearrachd.]</def>
       </entry>
@@ -89,7 +86,6 @@
       <entry xml:id="AOHenley_CreagorryCTMacKenziemisc-idp94704">
         <form>
           <orth>bliathach</orth>
-          <pron>[See bleadhach.]</pron>
         </form>
         <def>[See bleadhach.]</def>
       </entry>
@@ -120,7 +116,6 @@
       <entry xml:id="AOHenley_CreagorryCTMacKenziemisc-idp86136">
         <form>
           <orth>da rusg</orth>
-          <pron>[See dubh rusg.]</pron>
         </form>
         <def>[See dubh rusg.]</def>
       </entry>
@@ -151,7 +146,6 @@
       <entry xml:id="AOHenley_CreagorryCTMacKenziemisc-idp79944">
         <form>
           <orth>diofaidhear</orth>
-          <pron>[See deifaidhir.]</pron>
         </form>
         <def>[See deifaidhir.]</def>
       </entry>
@@ -314,7 +308,6 @@
       <entry xml:id="AOHenley_CreagorryCTMacKenziemisc-idp36024" type="person">
         <form>
           <orth>seirgeal</orth>
-          <pron>[See siorgeal.]</pron>
         </form>
         <def>[See siorgeal.]</def>
       </entry>

@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_CornaigmoreKMacDonaldslips">
   <teiHeader>
     <fileDesc>
@@ -15,20 +19,11 @@
     <profileDesc>
       <creation>
         <date>10/1970</date>
-        <location>
-          <placeName>Tiree, Cornaigmore</placeName>
-        </location>
+        <location corresp="Tiree_Cornaigmore"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>Kenny MacDonald</persName>
-          <birth>
-            <placeName>Uig, Lewis</placeName>
-          </birth>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="Kenny_MacDonald_Tiree_Cornaigmore"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -45,7 +40,7 @@
           <orth>rangais</orth>
           <pron>[rɑŋɡiʃ]</pron>
         </form>
-        <def>[rɑŋɡiʃ] Notes: the strap running the length of the boat on which the seats rest on each side.</def>
+        <def>Notes: the strap running the length of the boat on which the seats rest on each side.</def>
       </entry>
       <entry xml:id="Slips_CornaigmoreKMacDonaldslips-idp161838584">
         <form>
@@ -71,28 +66,28 @@
           <orth>treaghanach</orth>
           <pron>[t̪ɾɤɣɑ̃ṉɔx]</pron>
         </form>
-        <def>[t̪ɾɤɣɑ̃ṉɔx] Notes: a cow which hasn’t calved for over three years.</def>
+        <def>Notes: a cow which hasn’t calved for over three years.</def>
       </entry>
       <entry xml:id="Slips_CornaigmoreKMacDonaldslips-idp161845424">
         <form>
           <orth>ceannachradh</orth>
           <pron>[cɑ̃nɑxɾɑɣ]</pron>
         </form>
-        <def>[cɑ̃nɑxɾɑɣ] Notes: thwart brace. [NOTES: slipped under ‘ceannachnadh’.]</def>
+        <def>Notes: thwart brace. [NOTES: slipped under ‘ceannachnadh’.]</def>
       </entry>
       <entry xml:id="Slips_CornaigmoreKMacDonaldslips-idp161847296">
         <form>
           <orth>fàladair</orth>
           <pron>[fɑ:ɫəd̪ɛð]</pron>
         </form>
-        <def>[fɑ:ɫəd̪ɛð] Notes: grass that comes up later on in the year in a place which has been grazed in early summer.</def>
+        <def>Notes: grass that comes up later on in the year in a place which has been grazed in early summer.</def>
       </entry>
       <entry xml:id="Slips_CornaigmoreKMacDonaldslips-idp161849024">
         <form>
           <orth>feannadh-builg</orth>
           <pron>[fjɑ̃n̪əɣbu̟liɡʹ]</pron>
         </form>
-        <def>[fjɑ̃n̪əɣbu̟liɡʹ] Quotation: a’ deanamh feannadh-builg. Notes: a method of skinning a rabbit or even a sheep (?). A hole was made in the skin. The person doing the skinning would then
+        <def>Quotation: a’ deanamh feannadh-builg. Notes: a method of skinning a rabbit or even a sheep (?). A hole was made in the skin. The person doing the skinning would then
           blow through the hole forcing the skin to rise from the carcase.</def>
       </entry>
       <entry xml:id="Slips_CornaigmoreKMacDonaldslips-idp161850896">

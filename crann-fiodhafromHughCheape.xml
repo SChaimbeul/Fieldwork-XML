@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Word-lists_crann-fiodhafromHughCheape">
   <teiHeader>
     <fileDesc>
@@ -23,21 +27,16 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <location>
+        <location corresp="Edinburgh">
           <placeName>Stockbridge</placeName>
         </location>
       </creation>
       <particDesc>
-        <person role="informant">
-          <persName>Mrs M Duncan</persName>
-          <birth>
-            <placeName>South Uist</placeName>
-          </birth>
-        </person>
+        <person role="informant" corresp="Mrs_M_Duncan_Edinburgh_Stockbridge"/>
       </particDesc>
       <textClass>
         <keywords>
-          <term>Agriculture</term>
+          <term xml:lang="en">Agriculture</term>
           <term>Àiteach</term>
         </keywords>
       </textClass>

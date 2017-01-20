@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_ChristmasIslandHFMacKenzieslips">
   <teiHeader>
     <fileDesc>
@@ -15,17 +19,11 @@
     <profileDesc>
       <creation>
         <date>05/1971</date>
-        <location>
-          <placeName>Canada, Christmas Island</placeName>
-        </location>
+        <location corresp="Nova_Scotia_Cape_Breton_Christmas_Island"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>H. F. MacKenzie</persName>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="H_F_MacKenzie_Nova_Scotia_Cape_Breton_Christmas_Island"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -60,21 +58,21 @@
           <orth>mogan</orth>
           <pron>[mɔ̃ɡɛnʹ]</pron>
         </form>
-        <def>[mɔ̃ɡɛnʹ] Notes: usually in pl. ‘mogain’. Footwear made up of three pairs of socks soled on bottom with woollen homespun cloth.</def>
+        <def>Notes: usually in pl. ‘mogain’. Footwear made up of three pairs of socks soled on bottom with woollen homespun cloth.</def>
       </entry>
       <entry xml:id="Slips_ChristmasIslandHFMacKenzieslips-idp161945960">
         <form>
           <orth>ramlaig</orth>
           <pron>[rɑ̃mɑɫiɡʹ]</pron>
         </form>
-        <def>[rɑ̃mɑɫiɡʹ] Notes: a mixed-up song.</def>
+        <def>Notes: a mixed-up song.</def>
       </entry>
       <entry xml:id="Slips_ChristmasIslandHFMacKenzieslips-idp161947688">
         <form>
           <orth>rannachdail</orth>
           <pron>[rɑ̃n̪ɑxɡəl]</pron>
         </form>
-        <def>[rɑ̃n̪ɑxɡəl] Notes: rambling, nonsensical talk.</def>
+        <def>Notes: rambling, nonsensical talk.</def>
       </entry>
       <entry xml:id="Slips_ChristmasIslandHFMacKenzieslips-idp161949416">
         <form>
@@ -87,14 +85,14 @@
           <orth>ròthanaich</orth>
           <pron>[rɔ:ɑṉiç]</pron>
         </form>
-        <def>[rɔ:ɑṉiç] Notes: snoring.</def>
+        <def>Notes: snoring.</def>
       </entry>
       <entry xml:id="Slips_ChristmasIslandHFMacKenzieslips-idp166262872">
         <form>
           <orth>aithinn</orth>
           <pron>[ɑhĩnʹ]</pron>
         </form>
-        <def>[ɑhĩnʹ] Notes: burning stick used as a torch.</def>
+        <def>Notes: burning stick used as a torch.</def>
       </entry>
       <entry xml:id="Slips_ChristmasIslandHFMacKenzieslips-idp166264600">
         <form>
@@ -481,42 +479,42 @@
           <orth>glais-sheil</orth>
           <pron>[ɡɫɑʃhel]</pron>
         </form>
-        <def>[ɡɫɑʃhel] Notes: acidic burp.</def>
+        <def>Notes: acidic burp.</def>
       </entry>
       <entry xml:id="Slips_ChristmasIslandHFMacKenzieslips-idp166367920">
         <form>
           <orth>glìbheid</orth>
           <pron>[ɡli:vɑdʹ]</pron>
         </form>
-        <def>[ɡli:vɑdʹ] Notes: sleet.</def>
+        <def>Notes: sleet.</def>
       </entry>
       <entry xml:id="Slips_ChristmasIslandHFMacKenzieslips-idp166369648">
         <form>
           <orth>gnoigean</orth>
           <pron>[ɡɾɔ̃ɡʹɛ̃nʹ]</pron>
         </form>
-        <def>[ɡɾɔ̃ɡʹɛ̃nʹ] Notes: a small piece of wood.</def>
+        <def>Notes: a small piece of wood.</def>
       </entry>
       <entry xml:id="Slips_ChristmasIslandHFMacKenzieslips-idp166371376">
         <form>
           <orth>goillein</orth>
           <pron>[ɡɤlʹɛ̃ṉ]</pron>
         </form>
-        <def>[ɡɤlʹɛ̃ṉ] Notes: long sliver of wood used as a taper.</def>
+        <def>Notes: long sliver of wood used as a taper.</def>
       </entry>
       <entry xml:id="Slips_ChristmasIslandHFMacKenzieslips-idp166373104">
         <form>
           <orth>gràgain</orth>
           <pron>[ɡɾɑ:ɡɑṉ]</pron>
         </form>
-        <def>[ɡɾɑ:ɡɑṉ] Quotation: Tha an té ud a’ gràgain. Notes: e.g. an old woman complaining and moaning.</def>
+        <def>Quotation: Tha an té ud a’ gràgain. Notes: e.g. an old woman complaining and moaning.</def>
       </entry>
       <entry xml:id="Slips_ChristmasIslandHFMacKenzieslips-idp166374976">
         <form>
           <orth>gumalas</orth>
           <pron>[ɡũ̜məɫɑs]</pron>
         </form>
-        <def>[ɡũ̜məɫɑs] Notes: a mixture of good-for-nothing speech.</def>
+        <def>Notes: a mixture of good-for-nothing speech.</def>
       </entry>
     </body>
   </text>

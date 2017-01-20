@@ -53,6 +53,9 @@
               <place xml:id="Lewis_Great_Bernera">
                 <placeName xml:lang="en">Great Bernera</placeName>
               </place>
+              <place xml:id="Lewis_Uig_Crowlista">
+                <placeName xml:lang="en">Crowlista</placeName>
+              </place>
             </place>
             <place xml:id="Lewis_Park">
               <placeName>Sgìre na Pàirc an Leódhas</placeName>
@@ -94,6 +97,9 @@
               <place xml:id="Lewis_South_Lochs_Caversta">
                 <placeName xml:lang="en">Caversta</placeName>
               </place>
+            </place>
+            <place xml:id="Lewis_Crossbost">
+              <placeName xml:lang="en">Crossbost</placeName>
             </place>
           </place>
           <place xml:id="Harris">
@@ -219,6 +225,12 @@
           <place xml:id="North_Uist">
             <placeName>Uibhist a Tuath</placeName>
             <placeName xml:lang="en">North Uist</placeName>
+            <place xml:id="North_Uist_Lochmaddy">
+              <placeName xml:lang="en">Lochmaddy</placeName>
+              <place xml:id="North_Uist_Lochmaddy_Crombagh">
+                <placeName xml:lang="en">Crombagh</placeName>
+              </place>
+            </place>
             <place xml:id="North_Uist_Baleshare">
               <placeName xml:lang="en">Baleshare</placeName>
             </place>
@@ -236,11 +248,26 @@
                 <placeName xml:lang="en">Trianaid House</placeName>
               </place>
             </place>
+            <place xml:id="North_Uist_Grimsay">
+              <placeName xml:lang="en">Grimsay</placeName>
+              <place xml:id="North_Uist_Grimsay_Ceannaraigh">
+                <placeName>Ceannaraigh</placeName>
+              </place>
+            </place>
+            <place xml:id="North_Uist_Locheport">
+              <placeName xml:lang="en">Locheport</placeName>
+              <place xml:id="North_Uist_Locheport_Clachan">
+                <placeName xml:lang="en">Clachan</placeName>
+              </place>
+            </place>
           </place>
           <place xml:id="Benbecula">
             <placeName xml:lang="en">Benbecula</placeName>
             <place xml:id="Benbecula_Airdbheag">
               <placeName xml:lang="en">Airdbheag</placeName>
+            </place>
+            <place xml:id="Benbecula_Creagorry">
+              <placeName xml:lang="en">Creagorry</placeName>
             </place>
           </place>
           <place xml:id="South_Uist">
@@ -336,6 +363,13 @@
             <place xml:id="Tiree_Caolis">
               <placeName xml:lang="en">Caolis</placeName>
             </place>
+            <place xml:id="Tiree_Cornaigbeg">
+              <placeName xml:lang="en">Cornaigbeg</placeName>
+            </place>
+            <place xml:id="Tiree_Cornaigmore">
+              <placeName>Cornaig Mhór</placeName>
+              <placeName xml:lang="en">Cornaigmore</placeName>
+            </place>
           </place>
         </place>
 
@@ -346,6 +380,12 @@
           </place>
           <place xml:id="Perthshire_Loch_Rannoch">
             <placeName xml:lang="en">Loch Rannoch</placeName>
+          </place>
+          <place xml:id="Perthshire_Comrie">
+            <placeName xml:lang="en">Comrie</placeName>
+          </place>
+          <place xml:id="Perthshire_Loch_Tay">
+            <placeName xml:lang="en">Loch Tay</placeName>
           </place>
         </place>
         <place xml:id="Ross-shire">
@@ -424,11 +464,21 @@
           </place>
           <place xml:id="Sutherland_Bettyhill">
             <placeName xml:lang="en">Bettyhill</placeName>
+            <place xml:id="Sutherland_Bettyhill_Crasg">
+              <placeName xml:lang="en">Crasg</placeName>
+            </place>
           </place>
           <place xml:id="Sutherland_Kinlochbervie">
             <placeName xml:lang="en">Kinlochbervie</placeName>
             <place xml:id="Sutherland_Kinlochbervie_Blairmore">
               <placeName xml:lang="en">Blairmore</placeName>
+            </place>
+          </place>
+          <place xml:id="Sutherland_Lochinver">
+            <placeName xml:lang="en">Lochinver</placeName>
+            <place xml:id="Sutherland_Lochinver_Culkein">
+              <placeName xml:lang="en">Culkein</placeName>
+              <placeName xml:lang="en">Stoer</placeName>
             </place>
           </place>
         </place>
@@ -444,6 +494,9 @@
           <place xml:id="Argyll_Carradale">
             <placeName xml:lang="en">Carradale</placeName>
           </place>
+          <place xml:id="Argyll_Craignish">
+            <placeName xml:lang="en">Craignish</placeName>
+          </place>
         </place>
         
         <place xml:id="Glasgow">
@@ -454,6 +507,13 @@
           <place xml:id="Glasgow_Bishopbriggs">
             <placeName xml:lang="en">Bishopbriggs</placeName>
           </place>
+          <place xml:id="Glasgow_Clarkston">
+            <placeName xml:lang="en">Clarkston</placeName>
+          </place>
+        </place>
+        
+        <place xml:id="Edinburgh">
+          <placeName xml:lang="en">Edinburgh</placeName>
         </place>
         
         
@@ -472,6 +532,9 @@
               <place xml:id="Nova_Scotia_Cape_Breton_Broad_Cove">
                 <placeName xml:lang="en">Broad Cove</placeName>
               </place>
+              <place xml:id="Nova_Scotia_Cape_Breton_Christmas_Island">
+                <placeName xml:lang="en">Christmas Island</placeName>
+              </place>
             </place>
             <place xml:id="Nova_Scotia_Inverness_County">
               <placeName>Inverness County</placeName>
@@ -479,11 +542,10 @@
                 <placeName>Lochaber</placeName>
               </place>
             </place>
-            <place xml:id="Canada_Victoria_County">
+            <place xml:id="Nova_Scotia_Victoria_County">
               <placeName xml:lang="en">Victoria County</placeName>
             </place>
           </place>
-          
         </place>
         
       </listPlace>

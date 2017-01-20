@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_CornaigbegHMacFadyenslips">
   <teiHeader>
     <fileDesc>
@@ -15,17 +19,11 @@
     <profileDesc>
       <creation>
         <date>10/1970</date>
-        <location>
-          <placeName>Tiree, Cornaigbeg</placeName>
-        </location>
+        <location corresp="Tiree_Cornaigbeg"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>H. MacFadyen</persName>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="H_MacFadyen_Tiree_Cornaigbeg"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -54,14 +52,14 @@
           <orth>sinnteag</orth>
           <pron>[ʃĩ:nʹtʹɑɡ]</pron>
         </form>
-        <def>[ʃĩ:nʹtʹɑɡ] Notes: stride or jump.</def>
+        <def>Notes: stride or jump.</def>
       </entry>
       <entry xml:id="Slips_CornaigbegHMacFadyenslips-idp161824736">
         <form>
           <orth>stuadh</orth>
           <pron>[st̪u̟ɤ]</pron>
         </form>
-        <def>[st̪u̟ɤ] Notes: gable-end of a house.</def>
+        <def>Notes: gable-end of a house.</def>
       </entry>
       <entry xml:id="Slips_CornaigbegHMacFadyenslips-idp161850584">
         <form>
@@ -92,14 +90,14 @@
           <orth>ciùbhragaich</orth>
           <pron>[cu̟:ɾɑɡiç]</pron>
         </form>
-        <def>[cu̟:ɾɑɡiç] Notes: drizzle.</def>
+        <def>Notes: drizzle.</def>
       </entry>
       <entry xml:id="Slips_CornaigbegHMacFadyenslips-idp161858648">
         <form>
           <orth>cràgair</orth>
           <pron>[kɾɑ:ɡɑɾ]</pron>
         </form>
-        <def>[kɾɑ:ɡɑɾ] Notes: the bits at the two ends of a horseshoe which are turned down.</def>
+        <def>Notes: the bits at the two ends of a horseshoe which are turned down.</def>
       </entry>
       <entry xml:id="Slips_CornaigbegHMacFadyenslips-idp161860376">
         <form>
@@ -153,14 +151,14 @@
           <orth>garadh-tàth</orth>
           <pron>[ɡɑɾəɣt̪ɑ:]</pron>
         </form>
-        <def>[ɡɑɾəɣt̪ɑ:] Notes: welding heat.</def>
+        <def>Notes: welding heat.</def>
       </entry>
       <entry xml:id="Slips_CornaigbegHMacFadyenslips-idp161873768">
         <form>
           <orth>greallathach</orth>
           <pron>[ɡɾɛɫɑhɑx]</pron>
         </form>
-        <def>[ɡɾɛɫɑhɑx] Notes: rubbish.</def>
+        <def>Notes: rubbish.</def>
       </entry>
     </body>
   </text>

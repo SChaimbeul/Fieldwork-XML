@@ -639,7 +639,7 @@
         </person>
         <person xml:id="Finlay_MacCuish_Berneray">
           <persName xml:lang="en">
-            <forename>Finlay</forename> 
+            <forename>Finlay</forename>
             <surname>MacCuish</surname>
           </persName>
           <age>70 [?]</age>
@@ -670,8 +670,8 @@
         </person>
         <person xml:id="Mrs_Mary_Crane_Glasgow_Bishopbriggs">
           <persName xml:lang="en">
-            <roleName>Mrs</roleName> 
-            <forename>Mary</forename> 
+            <roleName>Mrs</roleName>
+            <forename>Mary</forename>
             <surname>Crane</surname>
           </persName>
           <birth>
@@ -693,7 +693,7 @@
         </person>
         <person xml:id="Joe_Gillis_Cape_Breton_Boisdale">
           <persName xml:lang="en">
-            <forename>Joe</forename> 
+            <forename>Joe</forename>
             <surname>Gillis</surname>
           </persName>
         </person>
@@ -769,7 +769,7 @@
         </person>
         <person xml:id="W_MacDonald_Braes">
           <persName xml:lang="en">
-            <forename>W.</forename> 
+            <forename>W.</forename>
             <surname>MacDonald</surname>
           </persName>
         </person>
@@ -785,7 +785,8 @@
             <surname>Fraser</surname>
           </persName>
         </person>
-        <person xml:id="Kenny_Fraser_Skye_Broadford"> <!-- same as above?? -->
+        <person xml:id="Kenny_Fraser_Skye_Broadford">
+          <!-- same as above?? -->
           <persName>
             <forename>Kenny</forename>
             <surname>Fraser</surname>
@@ -797,7 +798,8 @@
             <surname>Farmer</surname>
           </persName>
         </person>
-        <person xml:id="Mrs_M_Farmer_Skye_Broadford"> <!-- same as above?? -->
+        <person xml:id="Mrs_M_Farmer_Skye_Broadford">
+          <!-- same as above?? -->
           <persName>
             <roleName>Mrs</roleName>
             <forename>M.</forename>
@@ -885,7 +887,7 @@
         </person>
         <person xml:id="James_MacKay_Canada_Inverness_County_Lochaber">
           <persName xml:lang="en">
-            <forename>James</forename> 
+            <forename>James</forename>
             <surname>MacKay</surname></persName>
           <birth>
             <location corresp="Nova_Scotia_Inverness_County_Lochaber"/>
@@ -894,7 +896,7 @@
         </person>
         <person xml:id="Alec_Beaton_Canada_Inverness_County">
           <persName xml:lang="en">
-            <forename>Alec</forename> 
+            <forename>Alec</forename>
             <surname>Beaton</surname>
           </persName>
           <birth>
@@ -904,7 +906,7 @@
         <person xml:id="S_J_MacKinnon_Canada_Inverness_County">
           <persName xml:lang="en">
             <forename>S.</forename>
-            <forename>J.</forename> 
+            <forename>J.</forename>
             <surname>MacKinnon</surname>
           </persName>
           <birth>
@@ -930,13 +932,13 @@
         </person>
         <person xml:id="Hugh_MacFadyen_Tiree_Caolis">
           <persName xml:lang="en">
-            <forename>Hugh</forename> 
+            <forename>Hugh</forename>
             <surname>MacFadyen</surname>
           </persName>
         </person>
         <person xml:id="H_Meek_Tiree_Caolis">
           <persName xml:lang="en">
-            <forename>H.</forename> 
+            <forename>H.</forename>
             <surname>Meek</surname>
           </persName>
         </person>
@@ -1022,7 +1024,7 @@
         </person>
         <person xml:id="Neil_MacDougall_Argyll_Carradale">
           <persName xml:lang="en">
-            <forename>Neil</forename> 
+            <forename>Neil</forename>
             <surname>MacDougall</surname>
           </persName>
           <age>80s</age>
@@ -1032,8 +1034,8 @@
         </person>
         <person xml:id="Fr_Angus_MacQueen_Barra_Castlebay">
           <persName>
-            <roleName>Fr.</roleName> 
-            <forename>Angus</forename> 
+            <roleName>Fr.</roleName>
+            <forename>Angus</forename>
             <surname>MacQueen</surname>
           </persName>
           <birth>
@@ -1048,8 +1050,8 @@
         </person>
         <person xml:id="D_J_MacKay_Lewis_South_Lochs_Caversta">
           <persName xml:lang="en">
-            <forename>D.</forename> 
-            <forename>J.</forename> 
+            <forename>D.</forename>
+            <forename>J.</forename>
             <surname>MacKay</surname>
           </persName>
           <birth>
@@ -1059,8 +1061,204 @@
         </person>
         <person xml:id="Chirsty_MacKay_Lewis_South_Lochs_Caversta">
           <persName xml:lang="en">
-            <forename>Chirsty</forename> 
+            <forename>Chirsty</forename>
             <surname>MacKay</surname>
+          </persName>
+        </person>
+        <person xml:id="Angus_Stewart_North_Uist_Grimsay_Ceannaraigh">
+          <persName xml:lang="en">
+            <forename>Angus</forename>
+            <surname>Stewart</surname>
+          </persName>
+        </person>
+        <person xml:id="A_MacKenzie_Nova_Scotia_Cape_Breton_Christmas_Island">
+          <persName xml:lang="en">
+            <forename>A.</forename>
+            <surname>MacKenzie</surname>
+          </persName>
+        </person>
+        <person xml:id="H_F_MacKenzie_Nova_Scotia_Cape_Breton_Christmas_Island">
+          <persName xml:lang="en">
+            <forename>H.</forename>
+            <forename>F.</forename>
+            <surname>MacKenzie</surname>
+          </persName>
+        </person>
+        <person xml:id="J_MacInnes_Nova_Scotia_Cape_Breton_Christmas_Island">
+          <persName xml:lang="en">
+            <forename>J.</forename>
+            <surname>MacInnes</surname>
+          </persName>
+        </person>
+        <person xml:id="J_MacKenzie_Nova_Scotia_Cape_Breton_Christmas_Island">
+          <persName xml:lang="en">
+            <forename>J.</forename>
+            <surname>MacKenzie</surname>
+          </persName>
+        </person>
+        <person xml:id="Rev_Norman_MacDonald_North_Uist_Locheport_Clachan">
+          <persName xml:lang="en">
+            <roleName>Rev.</roleName>
+            <forename>Norman</forename>
+            <surname>MacDonald</surname>
+          </persName>
+          <age>63</age>
+          <birth>
+            <location corresp="Skye"/>
+          </birth>
+        </person>
+        <person xml:id="Roderick_MacNeil_Glasgow_Clarkston">
+          <persName xml:lang="en">
+            <forename>Roderick</forename>
+            <surname>MacNeil</surname>
+          </persName>
+          <persName>
+            <forename>Ruaraidh</forename>
+            <surname>MacNeill</surname>
+          </persName>
+          <age>69</age>
+          <birth>
+            <location corresp="Barra"/>
+          </birth>
+        </person>
+        <person xml:id="Angus_Kennedy_Coll">
+          <persName xml:lang="en">
+            <forename>Angus</forename>
+            <surname>Kennedy</surname>
+          </persName>
+        </person>
+        <person xml:id="Miss_Bessie_Brown_Perthshire_Loch_Tay">
+          <persName xml:lang="en">
+            <roleName>Miss</roleName>
+            <forename>Bessie</forename>
+            <surname>Brown</surname>
+          </persName>
+          <birth>
+            <location corresp="Perthshire_Loch_Tay"/>
+          </birth>
+        </person>
+        <person xml:id="H_MacEachern_Tiree_Cornaigbeg">
+          <persName xml:lang="en">
+            <forename>H.</forename>
+            <surname>MacEachern</surname>
+          </persName>
+        </person>
+        <person xml:id="H_MacFadyen_Tiree_Cornaigbeg">
+          <persName xml:lang="en">
+            <forename>H.</forename>
+            <surname>MacFadyen</surname>
+          </persName>
+        </person>
+        <person xml:id="Kenny_MacDonald_Tiree_Cornaigmore">
+          <persName xml:lang="en">
+            <forename>Kenny</forename>
+            <surname>MacDonald</surname>
+          </persName>
+          <birth>
+            <location corresp="Lewis_Uig"/>
+          </birth>
+        </person>
+        <person xml:id="Miss_Maclean_Argyll_Craignish">
+          <persName xml:lang="en">
+            <roleName>Miss</roleName>
+            <surname>Maclean</surname>
+          </persName>
+        </person>
+        <person xml:id="Mrs_M_Duncan_Edinburgh_Stockbridge">
+          <persName xml:lang="en">
+            <roleName>Mrs</roleName>
+            <forename>M</forename>
+            <surname>Duncan</surname>
+          </persName>
+          <birth>
+            <location corresp="South_Uist"/>
+          </birth>
+        </person>
+        <person xml:id="John_Kenneth_MacKay_Sutherland_Bettyhill_Crasg">
+          <persName xml:lang="en">
+            <forename>John</forename>
+            <forename>Kenneth</forename>
+            <surname>MacKay</surname>
+          </persName>
+          <age>c. 50</age>
+        </person>
+        <person xml:id="Rev_C_T_MacKenzie_Benbecula_Creagorry">
+          <persName>
+            <roleName>Rev.</roleName>
+            <forename>C.</forename>
+            <forename>T.</forename>
+            <surname>MacKenzie</surname>
+          </persName>
+        </person>
+        <person xml:id="Mrs_Edwards_Benbecula_Creagorry">
+          <persName xml:lang="en">
+            <roleName>Mrs</roleName>
+            <surname>Edwards</surname>
+          </persName>
+          <birth>
+            <placeName>‘Islay connections’</placeName>
+          </birth>
+        </person>
+        <person xml:id="Kate_MacDonald_North_Uist_Lochmaddy_Crombagh">
+          <persName xml:lang="en">
+            <forename>Kate</forename>
+            <surname>MacDonald</surname>
+          </persName>
+        </person>
+        <person xml:id="Rev_D_Gillies_Lewis_Crossbost">
+          <persName xml:lang="en">
+            <roleName>Rev.</roleName>
+            <forename>D.</forename>
+            <surname>Gillies</surname>
+          </persName>
+          <birth>
+            <location corresp="Lewis_Ness"/>
+          </birth>
+        </person>
+        <person xml:id="Calum_MacDonald_Lewis_Uig_Crowlista">
+          <persName xml:lang="en">
+            <forename>Calum</forename>
+            <surname>MacDonald</surname>
+          </persName>
+        </person>
+        <person xml:id="Peggy_MacDonald_Lewis_Uig_Crowlista">
+          <persName xml:lang="en">
+            <forename>Peggy</forename>
+            <surname>MacDonald</surname>
+          </persName>
+        </person>
+        <person xml:id="Kenneth_Nicolson_Lewis_Uig_Crowlista">
+          <persName xml:lang="en">
+            <forename>Kenneth</forename>
+            <surname>Nicolson</surname>
+          </persName>
+          <birth>
+            <location corresp="Lewis_Uig_Crowlista"/>
+          </birth>
+        </person>
+        <person xml:id="Alex_MacLeod_Sutherland_Lochinver_Culkein">
+          <persName xml:lang="en">
+            <forename>Alex</forename>
+            <surname>MacLeod</surname>
+          </persName>
+          <persName xml:lang="en">
+            <forename>Alick</forename>
+          </persName>
+          <age>c. 80</age>
+        </person>
+        <person xml:id="Angus_Matheson_Sutherland_Lochinver_Culkein">
+          <persName xml:lang="en">
+            <forename>Angus</forename>
+            <surname>Matheson</surname>
+          </persName>
+          <age>c. 65</age>
+          <birth>
+            <location corresp="Sutherland_Lochinver_Culkein"/>
+          </birth>
+        </person>
+        <person xml:id="MacLean_Sutherland_Lochinver_Culkein">
+          <persName xml:lang="en">
+            <surname>MacLean</surname>
           </persName>
         </person>
 
