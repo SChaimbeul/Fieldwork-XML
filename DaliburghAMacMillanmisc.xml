@@ -22,17 +22,11 @@
     <profileDesc>
       <creation>
         <date>[1987-88]</date>
-        <location>
-          <placeName>South Uist, Daliburgh</placeName>
-        </location>
+        <location corresp="South_Uist_Daliburgh"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>A. O’Henley</persName>
-        </person>
-        <person role="informant">
-          <persName>Alastair MacMillan</persName>
-        </person>
+        <person role="fieldworker" corresp="A_O_Henley"/>
+        <person role="informant" corresp="Alastair_MacMillan_South_Uist_Daliburgh"/>
       </particDesc>
       <textClass>
         <keywords>

@@ -1261,6 +1261,53 @@
             <surname>MacLean</surname>
           </persName>
         </person>
+        <person xml:id="Alastair_MacMillan_South_Uist_Daliburgh">
+          <persName xml:lang="en">
+            <forename>Alastair</forename>
+            <surname>MacMillan</surname>
+          </persName>
+        </person>
+        <person xml:id="Rev_John_A_MacDonald_South_Uist_Daliburgh">
+          <persName xml:lang="en">
+            <roleName>Rev.</roleName>
+            <forename>John</forename>
+            <forename>A.</forename>
+            <surname>MacDonald</surname>
+          </persName>
+        </person>
+        <person xml:id="J_MacInnes_South_Uist_Daliburgh">
+          <persName xml:lang="en">
+            <forename>J.</forename>
+            <surname>MacInnes</surname>
+          </persName>
+        </person>
+        <person xml:id="John_MacInnes_South_Uist_Daliburgh"> <!-- same as above? -->
+          <persName xml:lang="en">
+            <forename>John</forename>
+            <surname>MacInnes</surname>
+          </persName>
+        </person>
+        <person xml:id="James_Wilson_South_Uist_Daliburgh">
+          <persName xml:lang="en">
+            <forename>James</forename>
+            <surname>Wilson</surname>
+          </persName>
+        </person>
+        <person xml:id="Mr_John_MacKinnon_South_Uist_Daliburgh">
+          <persName xml:lang="en">
+            <roleName>Mr</roleName>
+            <forename>John</forename>
+            <surname>MacKinnon</surname>
+          </persName>
+        </person>
+        <person xml:id="Mrs_John_MacKinnon_South_Uist_Daliburgh">
+          <persName xml:lang="en">
+            <roleName>Mrs</roleName>
+            <forename>John</forename>
+            <surname>MacKinnon</surname>
+          </persName>
+          <note>Wife of above.</note>
+        </person>
 
         <!-- Fieldworkers -->
         <person xml:id="A_J_Smith">

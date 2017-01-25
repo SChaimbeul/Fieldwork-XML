@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AOHenley_DaliburghJWilsonmisc">
   <teiHeader>
     <fileDesc>
@@ -18,17 +22,11 @@
     <profileDesc>
       <creation>
         <date>[1987-88]</date>
-        <location>
-          <placeName>South Uist, Daliburgh</placeName>
-        </location>
+        <location corresp="South_Uist_Daliburgh"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>A. O’Henley</persName>
-        </person>
-        <person role="informant">
-          <persName>James Wilson</persName>
-        </person>
+        <person role="fieldworker" corresp="A_O_Henley"/>
+        <person role="informant" corresp="James_Wilson_South_Uist_Daliburgh"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -67,7 +65,6 @@
       <entry xml:id="AOHenley_DaliburghJWilsonmisc-idp109813552">
         <form>
           <orth>[cairt shleamhna]</orth>
-          <pron>[See barra-braoinain.]</pron>
         </form>
         <def>[See barra-braoinain.]</def>
       </entry>
