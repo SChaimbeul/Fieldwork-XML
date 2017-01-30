@@ -436,6 +436,12 @@
               <placeName xml:lang="en">Diurinish</placeName>
             </place>
           </place>
+          <place xml:id="Ross-shire_Assynt">
+            <placeName xml:lang="en">Assynt</placeName>
+            <place xml:id="Ross-shire_Assynt_Stoer">
+              <placeName xml:lang="en">Stoer</placeName>
+            </place>
+          </place>
         </place>
         <place xml:id="Inverness-shire">
           <placeName xml:lang="en">Inverness-shire</placeName>
@@ -490,7 +496,14 @@
               <placeName xml:lang="en">Stoer</placeName>
             </place>
           </place>
+          <place xml:id="Sutherland_Lairg">
+            <placeName xml:lang="en">Lairg</placeName>
+            <place xml:id="Sutherland_Lairg_Durness">
+              <placeName xml:lang="en">Durness</placeName>
+            </place>
+          </place>
         </place>
+        
         
         <place xml:id="Argyll">
           <placeName xml:lang="en">Argyll</placeName>

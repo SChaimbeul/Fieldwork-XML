@@ -1367,7 +1367,16 @@
             <location corresp="Barra"/>
           </birth>
         </person>
-
+        <person xml:id="George_MacKenzie_Sutherland_Lairg_Durness">
+          <persName xml:lang="en">
+            <forename>George</forename>
+            <surname>MacKenzie</surname>
+          </persName>
+          <age>67</age>
+          <birth>
+            <location corresp="Ross-shire_Assynt_Stoer"/>
+          </birth>
+        </person>
 
         <!-- Fieldworkers -->
         <person xml:id="A_J_Smith">

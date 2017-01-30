@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DRMorrisonetal_DurnessGMacKenzieeccles">
   <teiHeader>
     <fileDesc>
@@ -15,25 +19,17 @@
     <profileDesc>
       <creation>
         <date>[1970]</date>
-        <location>
-          <placeName>Sutherland, Lairg, Durness</placeName>
-        </location>
+        <location corresp="Sutherland_Lairg_Durness"/>
       </creation>
       <particDesc>
         <person role="fieldworker">
           <persName>[self]</persName>
         </person>
-        <person role="informant">
-          <persName>George MacKenzie</persName>
-          <age>67</age>
-          <birth>
-            <placeName>Assynt, Stoer</placeName>
-          </birth>
-        </person>
+        <person role="informant" corresp="George_MacKenzie_Sutherland_Lairg_Durness"/>
       </particDesc>
       <textClass>
         <keywords>
-          <term>Ecclesiastical Terms</term>
+          <term xml:lang="en">Ecclesiastical Terms</term>
           <term>An Eaglais</term>
         </keywords>
       </textClass>
@@ -41,248 +37,271 @@
   </teiHeader>
   <text>
     <body>
-      <head xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-d0e33">1. Various denominations</head>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp120005472">
-        <form>
-          <orth>a’ Ehaglas “Mhoderate”</orth>
-        </form>
-        <def>Church of Scotland. (Stoer, Assynt)</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp120008928">
-        <form>
-          <orth>na “Wee Frees”</orth>
-        </form>
-        <def>Free Church of Scotland. (Stoer, Assynt)</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp120012456">
-        <form>
-          <orth>na “Susaders”</orth>
-        </form>
-        <def>Free Presbyterian Church of Scotland. (Stoer, Assynt)</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp119980632">
-        <form>
-          <orth>a’ Ehaglas Papnach</orth>
-        </form>
-        <def>R. C. Church. (Stoer, Assynt)</def>
-      </entry>
-      <head xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-d0e75">2. Member of each of these denominations</head>
-      <head xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-d0e81">3. Different courts of the Presbyterian churches</head>
-      <head xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-d0e87">4. Members of the clergy and office-bearers with the Presbyterian churches</head>
-      <head xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-d0e93">5. Members of the clergy and office-bearers in the Roman Catholic church</head>
-      <head xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-d0e99">6. Holy Orders within the Roman Catholic church</head>
-      <head xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-d0e105">7. Articles of dress or adornment</head>
-      <head xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-d0e111">8. Church building and churchyard</head>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp119985960">
-        <form>
-          <orth>cladh</orth>
-        </form>
-        <def>cemetery. (Stoer, Assynt)</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp119983224">
-        <form>
-          <orth>vestray</orth>
-        </form>
-        <def>vestry. (Stoer, Assynt)</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp119981712">
-        <form>
-          <orth>laetran</orth>
-          <pron>[sic]</pron>
-        </form>
-        <def>[sic] lectern – the enclosure in front of pulpit where elders sat. (Stoer, Assynt)</def>
-      </entry>
-      <head xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-d0e144">9. Church furniture and ornaments</head>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp119940816">
-        <form>
-          <orth>cubee</orth>
-        </form>
-        <def>pulpit. (Stoer, Assynt)</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp119944776">
-        <form>
-          <orth>laetran</orth>
-        </form>
-        <def>see above.</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115761688">
-        <form>
-          <orth>siach bastia</orth>
-        </form>
-        <def>baptismal font. (Stoer, Assynt)</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115763200">
-        <form>
-          <orth>a’ “bockus”</orth>
-        </form>
-        <def>collection box. (Stoer, Assynt)</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115764712">
-        <form>
-          <orth>a’ “cuip”</orth>
-        </form>
-        <def>chalice. (Stoer, Assynt)</def>
-      </entry>
-      <head xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-d0e195">10. Different services during the week, feast days, sacraments, Sunday school etc.</head>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115767376">
-        <form>
-          <orth>latha “trasgie”</orth>
-        </form>
-        <def>Thursday of the sacraments. (Stoer, Assynt)</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115768888">
-        <form>
-          <orth>na ordeann</orth>
-        </form>
-        <def>the sacraments. (Stoer, Assynt)</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115770400">
-        <form>
-          <orth>“coinoo” urnigh or “urnee”</orth>
-        </form>
-        <def>mid-week service. (Stoer, Assynt)</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115771912">
-        <form>
-          <orth>latha na “chaist”</orth>
-        </form>
-        <def>Friday of the sacraments. (Stoer, Assynt)</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115773424">
-        <form>
-          <orth>latha na bodich</orth>
-        </form>
-        <def>Friday of the sacraments. (Stoer, Assynt)</def>
-      </entry>
-      <head xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-d0e246">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers
-        etc.</head>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115775800">
-        <form>
-          <orth>Dia</orth>
-        </form>
-        <def>God. (Stoer, Assynt)</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115777312">
-        <form>
-          <orth>Tigherna</orth>
-        </form>
-        <def>Lord. (Stoer, Assynt)</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115778824">
-        <form>
-          <orth>Iosa Criosd</orth>
-        </form>
-        <def>Jesus Christ. (Stoer, Assynt)</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115780768">
-        <form>
-          <orth>Spiorid Naomha</orth>
-        </form>
-        <def>Holy Ghost. (Stoer, Assynt)</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115782280">
-        <form>
-          <orth>a “Noigh-Vorra”</orth>
-        </form>
-        <def>the Virgin. (Stoer, Assynt)</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115783792">
-        <form>
-          <orth>“iangil”</orth>
-        </form>
-        <def>angel. (Stoer, Assynt)</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115785736">
-        <form>
-          <orth>abstol</orth>
-        </form>
-        <def>apostle. (Stoer, Assynt)</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115787680">
-        <form>
-          <orth>Neave</orth>
-        </form>
-        <def>Heaven. (Stoer, Assynt)</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115789192">
-        <form>
-          <orth>Flasanas</orth>
-        </form>
-        <def>Heaven. (Stoer, Assynt)</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115790704">
-        <form>
-          <orth>Soisgeul</orth>
-        </form>
-        <def>Gospel. (Stoer, Assynt)</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115792216">
-        <form>
-          <orth>Urnaigh a Thigherna</orth>
-        </form>
-        <def>Lord’s Prayer. (Stoer, Assynt)</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115793728">
-        <form>
-          <orth>na Chestin</orth>
-        </form>
-        <def>the Shorter Catechism. (Stoer, Assynt)</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115795240">
-        <form>
-          <orth>a’ chestair</orth>
-        </form>
-        <def>catechist. (Stoer, Assynt)</def>
-      </entry>
-      <head xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-d0e369">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</head>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115797688">
-        <form>
-          <orth>Saatan</orth>
-        </form>
-        <def>Satan.</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115799632">
-        <form>
-          <orth>Diobhal</orth>
-        </form>
-        <def>Satan.</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115801576">
-        <form>
-          <orth>Donas</orth>
-        </form>
-        <def>Satan.</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115803520">
-        <form>
-          <orth>Ifrinn</orth>
-        </form>
-        <def>Hell.</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115805032">
-        <form>
-          <orth>“Urian”</orth>
-        </form>
-        <def>Hell.</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115806544">
-        <form>
-          <orth>Purgadair</orth>
-        </form>
-        <def>Purgatory.</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115808056">
-        <form>
-          <orth>“peacag”</orth>
-        </form>
-        <def>sin.</def>
-      </entry>
-      <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115809568">
-        <form>
-          <orth>reatich</orth>
-        </form>
-        <def>illegitimate.</def>
-      </entry>
+      <div>
+        <head xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-d0e33">1. Various denominations</head>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp120005472">
+          <form>
+            <orth>a’ Ehaglas “Mhoderate”</orth>
+          </form>
+          <def>Church of Scotland. (Stoer, Assynt)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp120008928">
+          <form>
+            <orth>na “Wee Frees”</orth>
+          </form>
+          <def>Free Church of Scotland. (Stoer, Assynt)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp120012456">
+          <form>
+            <orth>na “Susaders”</orth>
+          </form>
+          <def>Free Presbyterian Church of Scotland. (Stoer, Assynt)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp119980632">
+          <form>
+            <orth>a’ Ehaglas Papnach</orth>
+          </form>
+          <def>R. C. Church. (Stoer, Assynt)</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-d0e75">2. Member of each of these denominations</head>
+      </div>
+      <div>
+        <head xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-d0e81">3. Different courts of the Presbyterian churches</head>
+      </div>
+      <div>
+        <head xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-d0e87">4. Members of the clergy and office-bearers with the Presbyterian churches</head>
+      </div>
+      <div>
+        <head xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-d0e93">5. Members of the clergy and office-bearers in the Roman Catholic church</head>
+      </div>
+      <div>
+        <head xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-d0e99">6. Holy Orders within the Roman Catholic church</head>
+      </div>
+      <div>
+        <head xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-d0e105">7. Articles of dress or adornment</head>
+      </div>
+      <div>
+        <head xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-d0e111">8. Church building and churchyard</head>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp119985960">
+          <form>
+            <orth>cladh</orth>
+          </form>
+          <def>cemetery. (Stoer, Assynt)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp119983224">
+          <form>
+            <orth>vestray</orth>
+          </form>
+          <def>vestry. (Stoer, Assynt)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp119981712">
+          <form>
+            <orth>laetran</orth>
+          </form>
+          <def>[sic] lectern – the enclosure in front of pulpit where elders sat. (Stoer, Assynt)</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-d0e144">9. Church furniture and ornaments</head>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp119940816">
+          <form>
+            <orth>cubee</orth>
+          </form>
+          <def>pulpit. (Stoer, Assynt)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp119944776">
+          <form>
+            <orth>laetran</orth>
+          </form>
+          <def>see above.</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115761688">
+          <form>
+            <orth>siach bastia</orth>
+          </form>
+          <def>baptismal font. (Stoer, Assynt)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115763200">
+          <form>
+            <orth>a’ “bockus”</orth>
+          </form>
+          <def>collection box. (Stoer, Assynt)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115764712">
+          <form>
+            <orth>a’ “cuip”</orth>
+          </form>
+          <def>chalice. (Stoer, Assynt)</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-d0e195">10. Different services during the week, feast days, sacraments, Sunday school etc.</head>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115767376">
+          <form>
+            <orth>latha “trasgie”</orth>
+          </form>
+          <def>Thursday of the sacraments. (Stoer, Assynt)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115768888">
+          <form>
+            <orth>na ordeann</orth>
+          </form>
+          <def>the sacraments. (Stoer, Assynt)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115770400">
+          <form>
+            <orth>“coinoo” urnigh or “urnee”</orth>
+          </form>
+          <def>mid-week service. (Stoer, Assynt)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115771912">
+          <form>
+            <orth>latha na “chaist”</orth>
+          </form>
+          <def>Friday of the sacraments. (Stoer, Assynt)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115773424">
+          <form>
+            <orth>latha na bodich</orth>
+          </form>
+          <def>Friday of the sacraments. (Stoer, Assynt)</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-d0e246">11. God, the Lord, Jesus Christ, the Holy Ghost, the Blessed Virgin, the angels, the apostles, Heaven, the Gospel, prayers
+          etc.</head>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115775800">
+          <form>
+            <orth>Dia</orth>
+          </form>
+          <def>God. (Stoer, Assynt)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115777312">
+          <form>
+            <orth>Tigherna</orth>
+          </form>
+          <def>Lord. (Stoer, Assynt)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115778824">
+          <form>
+            <orth>Iosa Criosd</orth>
+          </form>
+          <def>Jesus Christ. (Stoer, Assynt)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115780768">
+          <form>
+            <orth>Spiorid Naomha</orth>
+          </form>
+          <def>Holy Ghost. (Stoer, Assynt)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115782280">
+          <form>
+            <orth>a “Noigh-Vorra”</orth>
+          </form>
+          <def>the Virgin. (Stoer, Assynt)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115783792">
+          <form>
+            <orth>“iangil”</orth>
+          </form>
+          <def>angel. (Stoer, Assynt)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115785736">
+          <form>
+            <orth>abstol</orth>
+          </form>
+          <def>apostle. (Stoer, Assynt)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115787680">
+          <form>
+            <orth>Neave</orth>
+          </form>
+          <def>Heaven. (Stoer, Assynt)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115789192">
+          <form>
+            <orth>Flasanas</orth>
+          </form>
+          <def>Heaven. (Stoer, Assynt)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115790704">
+          <form>
+            <orth>Soisgeul</orth>
+          </form>
+          <def>Gospel. (Stoer, Assynt)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115792216">
+          <form>
+            <orth>Urnaigh a Thigherna</orth>
+          </form>
+          <def>Lord’s Prayer. (Stoer, Assynt)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115793728">
+          <form>
+            <orth>na Chestin</orth>
+          </form>
+          <def>the Shorter Catechism. (Stoer, Assynt)</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115795240">
+          <form>
+            <orth>a’ chestair</orth>
+          </form>
+          <def>catechist. (Stoer, Assynt)</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-d0e369">12. Satan, Hell, Purgatory, Limbo, different kinds of sin etc.</head>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115797688">
+          <form>
+            <orth>Saatan</orth>
+          </form>
+          <def>Satan.</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115799632">
+          <form>
+            <orth>Diobhal</orth>
+          </form>
+          <def>Satan.</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115801576">
+          <form>
+            <orth>Donas</orth>
+          </form>
+          <def>Satan.</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115803520">
+          <form>
+            <orth>Ifrinn</orth>
+          </form>
+          <def>Hell.</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115805032">
+          <form>
+            <orth>“Urian”</orth>
+          </form>
+          <def>Hell.</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115806544">
+          <form>
+            <orth>Purgadair</orth>
+          </form>
+          <def>Purgatory.</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115808056">
+          <form>
+            <orth>“peacag”</orth>
+          </form>
+          <def>sin.</def>
+        </entry>
+        <entry xml:id="DRMorrisonetal_DurnessGMacKenzieeccles-idp115809568">
+          <form>
+            <orth>reatich</orth>
+          </form>
+          <def>illegitimate.</def>
+        </entry>
+      </div>
     </body>
   </text>
 </TEI>
