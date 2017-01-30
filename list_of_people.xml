@@ -1308,6 +1308,66 @@
           </persName>
           <note>Wife of above.</note>
         </person>
+        <person xml:id="Donald_Alex_Macdonald_North_Uist">
+          <persName xml:lang="en">
+            <forename>Donald</forename>
+            <forename>Alex</forename>
+            <surname>Macdonald</surname>
+          </persName>
+        </person>
+        <person xml:id="Donald_MacLennan_Ross-shire_Plockton_Diurinish">
+          <persName xml:lang="en">
+            <forename>Donald</forename>
+            <surname>MacLennan</surname>
+          </persName>
+        </person>
+        <person xml:id="D_MacQuarrie">
+          <persName xml:lang="en">
+            <forename>D.</forename>
+            <surname>MacQuarrie</surname>
+          </persName>
+        </person>
+        <person xml:id="Mrs_E_Fraser_Sutherland_Kinlochbervie_Droman">
+          <persName xml:lang="en">
+            <roleName>Mrs</roleName>
+            <forename>E.</forename>
+            <surname>Fraser</surname>
+          </persName>
+          <age>c. 80</age>
+        </person>
+        <person xml:id="Mrs_Teen_MacKay_Sutherland_Kinlochbervie_Droman">
+          <persName xml:lang="en">
+            <roleName>Mrs</roleName>
+            <forename>Teen</forename>
+            <surname>MacKay</surname>
+          </persName>
+          <age>80s</age>
+        </person>
+        <person xml:id="Donald_MacMillan_Inverness-shire_Glenurquhart_Drumnadrochit">
+          <persName xml:lang="en">
+            <forename>Donald</forename>
+            <surname>MacMillan</surname>
+          </persName>
+          <age>70s</age>
+          <birth>
+            <location corresp="Inverness-shire_Glenurquhart"/>
+          </birth>
+        </person>
+        <person xml:id="John_MacLean_Argyll_Dunoon">
+          <persName xml:lang="en">
+            <forename>John</forename>
+            <surname>MacLean</surname>
+          </persName>
+          <persName>
+            <forename>Iain</forename>
+            <surname>Mac ’Illeathain</surname>
+          </persName>
+          <age>48</age>
+          <birth>
+            <location corresp="Barra"/>
+          </birth>
+        </person>
+
 
         <!-- Fieldworkers -->
         <person xml:id="A_J_Smith">

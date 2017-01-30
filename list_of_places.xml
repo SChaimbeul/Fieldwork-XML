@@ -430,6 +430,12 @@
               <placeName xml:lang="en">Camusluanie</placeName>
             </place>
           </place>
+          <place xml:id="Ross-shire_Plockton">
+            <placeName xml:lang="en">Plockton</placeName>
+            <place xml:id="Ross-shire_Plockton_Diurinish">
+              <placeName xml:lang="en">Diurinish</placeName>
+            </place>
+          </place>
         </place>
         <place xml:id="Inverness-shire">
           <placeName xml:lang="en">Inverness-shire</placeName>
@@ -473,6 +479,9 @@
             <place xml:id="Sutherland_Kinlochbervie_Blairmore">
               <placeName xml:lang="en">Blairmore</placeName>
             </place>
+            <place xml:id="Sutherland_Kinlochbervie_Droman">
+              <placeName xml:lang="en">Droman</placeName>
+            </place>
           </place>
           <place xml:id="Sutherland_Lochinver">
             <placeName xml:lang="en">Lochinver</placeName>
@@ -496,6 +505,9 @@
           </place>
           <place xml:id="Argyll_Craignish">
             <placeName xml:lang="en">Craignish</placeName>
+          </place>
+          <place xml:id="Argyll_Dunoon">
+            <placeName xml:lang="en">Dunoon</placeName>
           </place>
         </place>
         

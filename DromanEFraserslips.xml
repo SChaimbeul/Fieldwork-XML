@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_DromanEFraserslips">
   <teiHeader>
     <fileDesc>
@@ -15,18 +19,11 @@
     <profileDesc>
       <creation>
         <date>10/1969</date>
-        <location>
-          <placeName>Sutherland, Kinlochbervie, Droman</placeName>
-        </location>
+        <location corresp="Sutherland_Kinlochbervie_Droman"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>Mrs E. Fraser</persName>
-          <age>c. 80</age>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="Mrs_E_Fraser_Sutherland_Kinlochbervie_Droman"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -73,7 +70,7 @@
           <orth>lèitrean</orth>
           <pron>[lʹɛ:t̪ɾɑ̃ṉ]</pron>
         </form>
-        <def>[lʹɛ:t̪ɾɑ̃ṉ] Notes: area in church occupied by elders.</def>
+        <def>Notes: area in church occupied by elders.</def>
       </entry>
       <entry xml:id="Slips_DromanEFraserslips-idp162377432">
         <form>
@@ -92,7 +89,7 @@
           <orth>mèireag</orth>
           <pron>[mɛ̃:ɾɑɡ]</pron>
         </form>
-        <def>[mɛ̃:ɾɑɡ] Quotation: mèireag de shnàth. Notes: ball of wool. (meurag?)</def>
+        <def>Quotation: mèireag de shnàth. Notes: ball of wool. (meurag?)</def>
       </entry>
       <entry xml:id="Slips_DromanEFraserslips-idp162382328">
         <form>
@@ -123,7 +120,7 @@
           <orth>searmaid</orth>
           <pron>[ʃɛɾɑmɛdʹ]</pron>
         </form>
-        <def>[ʃɛɾɑmɛdʹ] Notes: sermon.</def>
+        <def>Notes: sermon.</def>
       </entry>
       <entry xml:id="Slips_DromanEFraserslips-idp162390248">
         <form>
@@ -178,7 +175,7 @@
           <orth>coimeasgadh</orth>
           <pron>[kɤmw̃ʃɡʹu̜]</pron>
         </form>
-        <def>[kɤmw̃ʃɡʹu̜] Notes: mixing of different colours of wool.</def>
+        <def>Notes: mixing of different colours of wool.</def>
       </entry>
       <entry xml:id="Slips_DromanEFraserslips-idp162405152">
         <form>
@@ -197,7 +194,7 @@
           <orth>griaman</orth>
           <pron>[ɡɾĩɑ̃mɑṉ]</pron>
         </form>
-        <def>[ɡɾĩɑ̃mɑṉ] Notes: lichen used to provide wool dye.</def>
+        <def>Notes: lichen used to provide wool dye.</def>
       </entry>
       <entry xml:id="Slips_DromanEFraserslips-idp162410048">
         <form>

@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach">
   <teiHeader>
     <fileDesc>
@@ -14,26 +18,17 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <location>
-          <placeName>Dunoon</placeName>
-        </location>
+        <location corresp="Argyll_Dunoon"/>
       </creation>
       <particDesc>
         <person role="fieldworker">
           <persName>[self]</persName>
         </person>
-        <person role="informant">
-          <persName>John MacLean</persName>
-          <persName xml:lang="gd">Iain Mac ’Illeathain </persName>
-          <age>48</age>
-          <birth>
-            <placeName>Barra</placeName>
-          </birth>
-        </person>
+        <person role="informant" corresp="John_MacLean_Argyll_Dunoon"/>
       </particDesc>
       <textClass>
         <keywords>
-          <term>Fishing Tackle</term>
+          <term xml:lang="en">Fishing Tackle</term>
           <term>Acfhuinn Iasgaich</term>
         </keywords>
       </textClass>
@@ -41,393 +36,398 @@
   </teiHeader>
   <text>
     <body>
-      <head xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e32">1. Lìon-mór</head>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e37">
-        <form>
-          <orth>dubhan mor</orth>
-        </form>
-        <def>hook. <graphic url="DunoonJMacLeaniasgachillust1.jpg" width="300px"/>
-        </def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e47">
-        <form>
-          <orth>bac</orth>
-          <pron>[See dubhan mor.]</pron>
-        </form>
-        <def>[See dubhan mor.]</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e56">
-        <form>
-          <orth>frith-bhac</orth>
-          <pron>[See dubhan mor.]</pron>
-        </form>
-        <def>[See dubhan mor.]</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e65">
-        <form>
-          <orth>gob</orth>
-          <pron>[See dubhan mor.]</pron>
-        </form>
-        <def>[See dubhan mor.]</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e74">
-        <form>
-          <orth>snòd</orth>
-        </form>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e80">
-        <form>
-          <orth>baclag</orth>
-        </form>
-        <def>snead looped round the hook so the hook cannot catch.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e89">
-        <form>
-          <orth>biathadh (noun)</orth>
-        </form>
-        <def>the bait used.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e98">
-        <form>
-          <orth>a biathadh (verb) a linn</orth>
-        </form>
-        <def>baiting the net.</def>
-      </entry>
-      <head xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e106">2. Lìon-beag</head>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e111">
-        <form>
-          <orth>lion caol</orth>
-        </form>
-        <def>more commonly used [term for lìon-beag.] (Names as lion mor.)</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e120">
-        <form>
-          <orth>sgùlan</orth>
-        </form>
-        <def>wicker or wooden container for small line.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e129">
-        <form>
-          <orth>cruaidh</orth>
-        </form>
-        <def>the weight.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e138">
-        <form>
-          <orth>ceann</orth>
-        </form>
-        <def>the buoy and rope.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e147">
-        <form>
-          <orth>luga</orth>
-        </form>
-        <def>lugworm.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e156">
-        <form>
-          <orth>biathadh</orth>
-        </form>
-        <def>bait or the act of baiting the net.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e165">
-        <form>
-          <orth>dubhan</orth>
-        </form>
-        <def>hook. Same word used for a cat’s nail.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e174">
-        <form>
-          <orth>ag goramanachd</orth>
-        </form>
-        <def>taking the fish off the hook.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e183">
-        <form>
-          <orth>an grunnd</orth>
-        </form>
-        <def>the fishing ground.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e192">
-        <form>
-          <orth>oitir</orth>
-        </form>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e198">
-        <form>
-          <orth>croman</orth>
-        </form>
-        <def>a large hook or hooked piece of iron attached to a wooden handle to pull in a large fish which would be liable to get away by breaking the snead or the hook.</def>
-      </entry>
-      <head xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e206">3. Lìon-sgadan</head>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-idola225">
-        <form>
-          <orth>[note]</orth>
-          <pron>[NOTES: the original heading in the questionnaire was ‘lìon-sgadanach’ but the informant crossed out ‘ach’.]</pron>
-        </form>
-        <def>[NOTES: the original heading in the questionnaire was ‘lìon-sgadanach’ but the informant crossed out ‘ach’.]</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e220">
-        <form>
-          <orth>àcran</orth>
-        </form>
-        <def>cork.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e229">
-        <form>
-          <orth>mogul</orth>
-        </form>
-        <def>mesh.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e238">
-        <form>
-          <orth>An do mhoglaich e?</orth>
-        </form>
-        <def>Has it enmeshed?</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e247">
-        <form>
-          <orth>druim</orth>
-        </form>
-        <def>top part.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e256">
-        <form>
-          <orth>iochdar</orth>
-        </form>
-        <def>bottom part.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e265">
-        <form>
-          <orth>cluas</orth>
-        </form>
-        <def>corner of the net.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e274">
-        <form>
-          <orth>cur</orth>
-        </form>
-        <def>a cast or yield. Deagh chur, droch chur.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e283">
-        <form>
-          <orth>buta</orth>
-        </form>
-        <def>buoy.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e292">
-        <form>
-          <orth>coltas</orth>
-        </form>
-        <def>signs of herring like oily sea or gannets etc.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e301">
-        <form>
-          <orth>snàthad</orth>
-        </form>
-        <def>needle for holding the twine for repairs.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e310">
-        <form>
-          <orth>cairteadh</orth>
-        </form>
-        <def>the process of dipping nets or sails into a brown preserving solution.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e319">
-        <form>
-          <orth>stragaidh</orth>
-        </form>
-        <def>a goodly scattering of herring in the nets.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e328">
-        <form>
-          <orth>ag cur</orth>
-        </form>
-        <def>setting nets (used with all nets).</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e337">
-        <form>
-          <orth>a’ tarruing</orth>
-        </form>
-        <def>taking [nets] aboard (used with all nets).</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e346">
-        <form>
-          <orth>runnach</orth>
-        </form>
-        <def>mackerel.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e355">
-        <form>
-          <orth>runnach clappach</orth>
-        </form>
-        <def>horse mackerel.</def>
-      </entry>
-      <head xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e363">4. Lìon sam bith eile</head>
-      <head xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e367">5. Duirgh, slatan, driamlaichean</head>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e372">
-        <form>
-          <orth>slat</orth>
-        </form>
-        <def>the big rod.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e381">
-        <form>
-          <orth>slat mhor</orth>
-        </form>
-        <def>the big rod.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e390">
-        <form>
-          <orth>slat mhudhair</orth>
-        </form>
-        <def>the big rod.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e399">
-        <form>
-          <orth>slat r(h)ipidh</orth>
-        </form>
-        <def>small rod.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e408">
-        <form>
-          <orth>biathadh</orth>
-        </form>
-        <def>bait.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e417">
-        <form>
-          <orth>solladh</orth>
-        </form>
-        <def>crushed crabs, limpets etc. to attract fish to the rock.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e426">
-        <form>
-          <orth>ribeadh</orth>
-        </form>
-        <def>a bite.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e435">
-        <form>
-          <orth>pronnadh</orth>
-        </form>
-        <def>crushing act for solladh [q.v].</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e444">
-        <form>
-          <orth>beirt</orth>
-        </form>
-        <def>line.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e453">
-        <form>
-          <orth>plumaid</orth>
-        </form>
-        <def>plummet.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e462">
-        <form>
-          <orth>snod and guts</orth>
-        </form>
-        <def>snead and guts.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e471">
-        <form>
-          <orth>mudhar, pl. mùdhraichean</orth>
-        </form>
-        <def>fly.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e480">
-        <form>
-          <orth>a dol gu mudhar</orth>
-        </form>
-        <def>going out in a boat using rods and flies.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e489">
-        <form>
-          <orth>gad</orth>
-        </form>
-        <def>a length of flies – three or more hooks; a number of fish on a string.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e498">
-        <form>
-          <orth>slugag</orth>
-        </form>
-        <def>round hollow in the rock where solladh [q.v.] is made.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e507">
-        <form>
-          <orth>slaopadh</orth>
-        </form>
-        <def>warm water poured over bait to make it more tender and opens shell.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e516">
-        <form>
-          <orth>sgèdhradh</orth>
-        </form>
-        <def>fitting two pieces together to form a bigger rod.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e525">
-        <form>
-          <orth>dorgh</orth>
-        </form>
-        <def>hand line.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e534">
-        <form>
-          <orth>brionglaid</orth>
-        </form>
-        <def>entanglement.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e543">
-        <form>
-          <orth>tàbh (sometimes scummar)</orth>
-        </form>
-        <def>a large type of landing net. Parts: bogha màis, cas, cearcall, slatan, lion.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e552">
-        <form>
-          <orth>crosgag</orth>
-        </form>
-        <def>cross sticks or rectangle of wood for dorgh [q.v.].</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e561">
-        <form>
-          <orth>fuaitreag</orth>
-        </form>
-        <def>rubber eel.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e570">
-        <form>
-          <orth>roinn an eisg</orth>
-        </form>
-        <def>dividing the fish. One turns his back (falbh do’n chùil) while another points to each share saying each time “Whose is that?” (Co aige bi sud?).</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e579">
-        <form>
-          <orth>iasg air mo laimh</orth>
-        </form>
-        <def>I have a fish on my line.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e588">
-        <form>
-          <orth>comharran</orth>
-        </form>
-        <def>land marks used for fishing grounds.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e597">
-        <form>
-          <orth>driomlach</orth>
-        </form>
-        <def>an old dorgh [q.v.] past using or beginning to rot but word more commonly used for the giant boot laces.</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e606">
-        <form>
-          <orth>goile-brianain</orth>
-        </form>
-        <def>phosphorescent light in the sea or on fish.</def>
-      </entry>
-      <head xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e614">6. Acfhuinn sam bith eile</head>
+      <div>
+        <head xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e32">1. Lìon-mór</head>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e37">
+          <form>
+            <orth>dubhan mor</orth>
+          </form>
+          <def>hook. <graphic url="DunoonJMacLeaniasgachillust1.jpg" width="300px"/>
+          </def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e47">
+          <form>
+            <orth>bac</orth>
+          </form>
+          <def>[See dubhan mor.]</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e56">
+          <form>
+            <orth>frith-bhac</orth>
+          </form>
+          <def>[See dubhan mor.]</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e65">
+          <form>
+            <orth>gob</orth>
+          </form>
+          <def>[See dubhan mor.]</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e74">
+          <form>
+            <orth>snòd</orth>
+          </form>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e80">
+          <form>
+            <orth>baclag</orth>
+          </form>
+          <def>snead looped round the hook so the hook cannot catch.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e89">
+          <form>
+            <orth>biathadh (noun)</orth>
+          </form>
+          <def>the bait used.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e98">
+          <form>
+            <orth>a biathadh (verb) a linn</orth>
+          </form>
+          <def>baiting the net.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e106">2. Lìon-beag</head>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e111">
+          <form>
+            <orth>lion caol</orth>
+          </form>
+          <def>more commonly used [term for lìon-beag.] (Names as lion mor.)</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e120">
+          <form>
+            <orth>sgùlan</orth>
+          </form>
+          <def>wicker or wooden container for small line.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e129">
+          <form>
+            <orth>cruaidh</orth>
+          </form>
+          <def>the weight.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e138">
+          <form>
+            <orth>ceann</orth>
+          </form>
+          <def>the buoy and rope.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e147">
+          <form>
+            <orth>luga</orth>
+          </form>
+          <def>lugworm.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e156">
+          <form>
+            <orth>biathadh</orth>
+          </form>
+          <def>bait or the act of baiting the net.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e165">
+          <form>
+            <orth>dubhan</orth>
+          </form>
+          <def>hook. Same word used for a cat’s nail.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e174">
+          <form>
+            <orth>ag goramanachd</orth>
+          </form>
+          <def>taking the fish off the hook.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e183">
+          <form>
+            <orth>an grunnd</orth>
+          </form>
+          <def>the fishing ground.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e192">
+          <form>
+            <orth>oitir</orth>
+          </form>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e198">
+          <form>
+            <orth>croman</orth>
+          </form>
+          <def>a large hook or hooked piece of iron attached to a wooden handle to pull in a large fish which would be liable to get away by breaking the snead or the hook.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e206">3. Lìon-sgadan</head>
+        <note xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-idola225">
+          [NOTES: the original heading in the questionnaire was ‘lìon-sgadanach’ but the informant crossed out ‘ach’.]
+        </note>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e220">
+          <form>
+            <orth>àcran</orth>
+          </form>
+          <def>cork.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e229">
+          <form>
+            <orth>mogul</orth>
+          </form>
+          <def>mesh.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e238">
+          <form>
+            <orth>An do mhoglaich e?</orth>
+          </form>
+          <def>Has it enmeshed?</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e247">
+          <form>
+            <orth>druim</orth>
+          </form>
+          <def>top part.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e256">
+          <form>
+            <orth>iochdar</orth>
+          </form>
+          <def>bottom part.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e265">
+          <form>
+            <orth>cluas</orth>
+          </form>
+          <def>corner of the net.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e274">
+          <form>
+            <orth>cur</orth>
+          </form>
+          <def>a cast or yield. Deagh chur, droch chur.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e283">
+          <form>
+            <orth>buta</orth>
+          </form>
+          <def>buoy.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e292">
+          <form>
+            <orth>coltas</orth>
+          </form>
+          <def>signs of herring like oily sea or gannets etc.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e301">
+          <form>
+            <orth>snàthad</orth>
+          </form>
+          <def>needle for holding the twine for repairs.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e310">
+          <form>
+            <orth>cairteadh</orth>
+          </form>
+          <def>the process of dipping nets or sails into a brown preserving solution.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e319">
+          <form>
+            <orth>stragaidh</orth>
+          </form>
+          <def>a goodly scattering of herring in the nets.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e328">
+          <form>
+            <orth>ag cur</orth>
+          </form>
+          <def>setting nets (used with all nets).</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e337">
+          <form>
+            <orth>a’ tarruing</orth>
+          </form>
+          <def>taking [nets] aboard (used with all nets).</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e346">
+          <form>
+            <orth>runnach</orth>
+          </form>
+          <def>mackerel.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e355">
+          <form>
+            <orth>runnach clappach</orth>
+          </form>
+          <def>horse mackerel.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e363">4. Lìon sam bith eile</head>
+      </div>
+      <div>
+        <head xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e367">5. Duirgh, slatan, driamlaichean</head>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e372">
+          <form>
+            <orth>slat</orth>
+          </form>
+          <def>the big rod.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e381">
+          <form>
+            <orth>slat mhor</orth>
+          </form>
+          <def>the big rod.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e390">
+          <form>
+            <orth>slat mhudhair</orth>
+          </form>
+          <def>the big rod.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e399">
+          <form>
+            <orth>slat r(h)ipidh</orth>
+          </form>
+          <def>small rod.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e408">
+          <form>
+            <orth>biathadh</orth>
+          </form>
+          <def>bait.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e417">
+          <form>
+            <orth>solladh</orth>
+          </form>
+          <def>crushed crabs, limpets etc. to attract fish to the rock.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e426">
+          <form>
+            <orth>ribeadh</orth>
+          </form>
+          <def>a bite.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e435">
+          <form>
+            <orth>pronnadh</orth>
+          </form>
+          <def>crushing act for solladh [q.v].</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e444">
+          <form>
+            <orth>beirt</orth>
+          </form>
+          <def>line.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e453">
+          <form>
+            <orth>plumaid</orth>
+          </form>
+          <def>plummet.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e462">
+          <form>
+            <orth>snod and guts</orth>
+          </form>
+          <def>snead and guts.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e471">
+          <form>
+            <orth>mudhar, pl. mùdhraichean</orth>
+          </form>
+          <def>fly.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e480">
+          <form>
+            <orth>a dol gu mudhar</orth>
+          </form>
+          <def>going out in a boat using rods and flies.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e489">
+          <form>
+            <orth>gad</orth>
+          </form>
+          <def>a length of flies – three or more hooks; a number of fish on a string.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e498">
+          <form>
+            <orth>slugag</orth>
+          </form>
+          <def>round hollow in the rock where solladh [q.v.] is made.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e507">
+          <form>
+            <orth>slaopadh</orth>
+          </form>
+          <def>warm water poured over bait to make it more tender and opens shell.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e516">
+          <form>
+            <orth>sgèdhradh</orth>
+          </form>
+          <def>fitting two pieces together to form a bigger rod.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e525">
+          <form>
+            <orth>dorgh</orth>
+          </form>
+          <def>hand line.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e534">
+          <form>
+            <orth>brionglaid</orth>
+          </form>
+          <def>entanglement.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e543">
+          <form>
+            <orth>tàbh (sometimes scummar)</orth>
+          </form>
+          <def>a large type of landing net. Parts: bogha màis, cas, cearcall, slatan, lion.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e552">
+          <form>
+            <orth>crosgag</orth>
+          </form>
+          <def>cross sticks or rectangle of wood for dorgh [q.v.].</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e561">
+          <form>
+            <orth>fuaitreag</orth>
+          </form>
+          <def>rubber eel.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e570">
+          <form>
+            <orth>roinn an eisg</orth>
+          </form>
+          <def>dividing the fish. One turns his back (falbh do’n chùil) while another points to each share saying each time “Whose is that?” (Co aige bi sud?).</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e579">
+          <form>
+            <orth>iasg air mo laimh</orth>
+          </form>
+          <def>I have a fish on my line.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e588">
+          <form>
+            <orth>comharran</orth>
+          </form>
+          <def>land marks used for fishing grounds.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e597">
+          <form>
+            <orth>driomlach</orth>
+          </form>
+          <def>an old dorgh [q.v.] past using or beginning to rot but word more commonly used for the giant boot laces.</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e606">
+          <form>
+            <orth>goile-brianain</orth>
+          </form>
+          <def>phosphorescent light in the sea or on fish.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="WoolworkingandFishing_DunoonJMacLeaniasgach-d0e614">6. Acfhuinn sam bith eile</head>
+      </div>
     </body>
   </text>
 </TEI>

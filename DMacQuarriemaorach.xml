@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WoolworkingandFishing_DMacQuarriemaorach">
   <teiHeader>
     <fileDesc>
@@ -18,13 +22,11 @@
         <person role="fieldworker">
           <persName>[self]</persName>
         </person>
-        <person role="informant">
-          <persName>D. MacQuarrie</persName>
-        </person>
+        <person role="informant" corresp="D_MacQuarrie"/>
       </particDesc>
       <textClass>
         <keywords>
-          <term>Shellfish</term>
+          <term xml:lang="en">Shellfish</term>
           <term>Maorach</term>
         </keywords>
       </textClass>
@@ -32,70 +34,68 @@
   </teiHeader>
   <text>
     <body>
-      <head xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e20">1. Maorach</head>
-      <entry xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e25">
-        <form>
-          <orth>air feamainn</orth>
-        </form>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e31">
-        <form>
-          <orth>air creagan</orth>
-        </form>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e37">
-        <form>
-          <orth>air gainmeach</orth>
-        </form>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e43">
-        <form>
-          <orth>fo ghainmeach</orth>
-        </form>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e49">
-        <form>
-          <orth>amanan bliadhna airson an truiseadh</orth>
-          <pron>[?]</pron>
-        </form>
-        <def>[?] </def>
-      </entry>
-      <head xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e54">2. A’ tional maorach</head>
-      <entry xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e59">
-        <form>
-          <orth>amanan bliadhna</orth>
-          <pron>[?]</pron>
-        </form>
-        <def>[?] </def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e65">
-        <form>
-          <orth>mar a bha làn</orth>
-        </form>
-      </entry>
-      <head xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e70">3. Beothaichean eile a gheibhear ’sa’ chladach</head>
-      <entry xml:id="WoolworkingandFishing_DMacQuarriemaorach-idola224">
-        <form>
-          <orth>[note]</orth>
-          <pron>[NOTES: the following written on the reverse of the last page.]</pron>
-        </form>
-        <def>[NOTES: the following written on the reverse of the last page.]</def>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e84">
-        <form>
-          <orth>maorach</orth>
-        </form>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e90">
-        <form>
-          <orth>itheadh – leatha fhein no co leis</orth>
-        </form>
-      </entry>
-      <entry xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e96">
-        <form>
-          <orth>dòighean còcaireachd air gach seorsa</orth>
-        </form>
-      </entry>
+      <div>
+        <head xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e20">1. Maorach</head>
+        <entry xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e25">
+          <form>
+            <orth>air feamainn</orth>
+          </form>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e31">
+          <form>
+            <orth>air creagan</orth>
+          </form>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e37">
+          <form>
+            <orth>air gainmeach</orth>
+          </form>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e43">
+          <form>
+            <orth>fo ghainmeach</orth>
+          </form>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e49">
+          <form>
+            <orth>amanan bliadhna airson an truiseadh</orth>
+          </form>
+          <def>[?]</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e54">2. A’ tional maorach</head>
+        <entry xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e59">
+          <form>
+            <orth>amanan bliadhna</orth>
+          </form>
+          <def>[?]</def>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e65">
+          <form>
+            <orth>mar a bha làn</orth>
+          </form>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e70">3. Beothaichean eile a gheibhear ’sa’ chladach</head>
+        <note xml:id="WoolworkingandFishing_DMacQuarriemaorach-idola224">[NOTES: the following written on the reverse of the last page.]</note>
+        <entry xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e84">
+          <form>
+            <orth>maorach</orth>
+          </form>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e90">
+          <form>
+            <orth>itheadh – leatha fhein no co leis</orth>
+          </form>
+        </entry>
+        <entry xml:id="WoolworkingandFishing_DMacQuarriemaorach-d0e96">
+          <form>
+            <orth>dòighean còcaireachd air gach seorsa</orth>
+          </form>
+        </entry>
+      </div>
     </body>
   </text>
 </TEI>

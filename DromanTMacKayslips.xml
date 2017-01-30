@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Slips_DromanTMacKayslips">
   <teiHeader>
     <fileDesc>
@@ -15,18 +19,11 @@
     <profileDesc>
       <creation>
         <date>10/1969</date>
-        <location>
-          <placeName>Sutherland, Kinlochbervie, Droman</placeName>
-        </location>
+        <location corresp="Sutherland_Kinlochbervie_Droman"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>[AJ Smith?]</persName>
-        </person>
-        <person role="informant">
-          <persName>Mrs Teen MacKay</persName>
-          <age>80s</age>
-        </person>
+        <person role="fieldworker" corresp="A_J_Smith" cert="medium"/>
+        <person role="informant" corresp="Mrs_Teen_MacKay_Sutherland_Kinlochbervie_Droman"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -49,7 +46,7 @@
           <orth>maide-pait</orth>
           <pron>[mɑ̃dʹpɑtʹ]</pron>
         </form>
-        <def>[mɑ̃dʹpɑtʹ] Notes: wooden spoon.</def>
+        <def>Notes: wooden spoon.</def>
       </entry>
       <entry xml:id="Slips_DromanTMacKayslips-idp162347472">
         <form>
@@ -99,28 +96,28 @@
           <orth>timchioll</orth>
           <pron>[tʹʃwɫəmiç]</pron>
         </form>
-        <def>[tʹʃwɫəmiç] Notes: round.</def>
+        <def>Notes: round.</def>
       </entry>
       <entry xml:id="Slips_DromanTMacKayslips-idp162361152">
         <form>
           <orth>tog</orth>
           <pron>[t̪ɾoɡ]</pron>
         </form>
-        <def>[t̪ɾoɡ] Notes: left.</def>
+        <def>Notes: left.</def>
       </entry>
       <entry xml:id="Slips_DromanTMacKayslips-idp162362880">
         <form>
           <orth>ceangladair</orth>
           <pron>[cɑ̃:ɫd̪ɑɾ]</pron>
         </form>
-        <def>[cɑ̃:ɫd̪ɑɾ] Notes: wooden frame on which yarn is wound.</def>
+        <def>Notes: wooden frame on which yarn is wound.</def>
       </entry>
       <entry xml:id="Slips_DromanTMacKayslips-idp162364608">
         <form>
           <orth>cearsla</orth>
           <pron>[cɑʴsɫə]</pron>
         </form>
-        <def>[cɑʴsɫə] Notes: ball of rope. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
+        <def>Notes: ball of rope. [NOTES: the turned r used for the symbol which is unclear in the original.]</def>
       </entry>
     </body>
   </text>
