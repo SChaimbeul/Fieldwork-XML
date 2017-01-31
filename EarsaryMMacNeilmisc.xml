@@ -19,17 +19,11 @@
     <profileDesc>
       <creation>
         <date>[1988]</date>
-        <location>
-          <placeName>Barra, Earsharry [Earsary]</placeName>
-        </location>
+        <location corresp="Barra_Earsary"/>
       </creation>
       <particDesc>
-        <person role="fieldworker">
-          <persName>A. O’Henley</persName>
-        </person>
-        <person role="informant">
-          <persName>Michael MacNeil</persName>
-        </person>
+        <person role="fieldworker" corresp="A_O_Henley"/>
+        <person role="informant" corresp="Michael_MacNeil_Barra_Earsary"/>
       </particDesc>
       <textClass>
         <keywords>

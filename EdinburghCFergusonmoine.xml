@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Peat_EdinburghCFergusonmoine">
   <teiHeader>
     <fileDesc>
@@ -14,21 +18,13 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <location>
-          <placeName>Edinburgh</placeName>
-        </location>
+        <location corresp="Edinburgh"/>
       </creation>
       <particDesc>
         <person role="fieldworker">
           <persName>[self]</persName>
         </person>
-        <person role="informant">
-          <persName>Calum Ferguson</persName>
-          <age>37</age>
-          <birth>
-            <placeName>Leódhas, An Rudha [Lewis, Rudha]</placeName>
-          </birth>
-        </person>
+        <person role="informant" corresp="Calum_Ferguson_Edinburgh"/>
       </particDesc>
       <textClass>
         <keywords>
@@ -40,403 +36,412 @@
   </teiHeader>
   <text>
     <body>
-      <head xml:id="Peat_EdinburghCFergusonmoine-d0e28">1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e33">
-        <form>
-          <orth>poll</orth>
-        </form>
-        <def>peat bank.</def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e42">
-        <form>
-          <orth>grobhag</orth>
-        </form>
-        <def>a little wasting bank (often the cause of feuds since over a century perhaps the ‘grobhag’ has wandered into someone else’s staked territory).</def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e51">
-        <form>
-          <orth>ath-bhlar</orth>
-        </form>
-        <def>second or third generation peat bank. <graphic url="EdinburghCFergusonmoineillust1.jpg" width="400px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e62">
-        <form>
-          <orth>eilean mònach</orth>
-        </form>
-        <def>
-          <graphic url="EdinburghCFergusonmoineillust1.jpg" width="400px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e73">
-        <form>
-          <orth>an rùsgadh</orth>
-        </form>
-        <def>turfing (removing top layer of peat attached to sward).</def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e82">
-        <form>
-          <orth>spaid rùsgaidh</orth>
-        </form>
-        <def>an ordinary garden spade sharpened and its blade shortened usually by usage. <graphic url="EdinburghCFergusonmoineillust2.jpg" width="100px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e93">
-        <form>
-          <orth>a’ riachadh a’ phuill</orth>
-        </form>
-        <def>demarking the inner edge of the ‘ceap’.</def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e102">
-        <form>
-          <orth>dileadh a’ phuill</orth>
-        </form>
-        <def>the bank drain. After the ‘ceap’ [q.v.] has been turned over along the whole length of the poll, the ‘ceap’ is transferred to the ‘dileadh’. <graphic
-            url="EdinburghCFergusonmoineillust3.jpg" width="200px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e113">
-        <form>
-          <orth>ceap</orth>
-        </form>
-        <def>After the ‘ceap’ has been turned over along the whole length of the poll, the ‘ceap’ is transferred to the ‘dileadh [a’ phuill’] [q.v.]. <graphic url="EdinburghCFergusonmoineillust4.jpg"
-            width="400px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e124">
-        <form>
-          <orth>a’ glanadh a’ phuill</orth>
-        </form>
-        <def>removing small ridges off the ‘carcaill’ [q.v.].</def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e133">
-        <form>
-          <orth>a’ charcaill</orth>
-        </form>
-        <def>
-          <graphic url="EdinburghCFergusonmoineillust5.jpg" width="300px"/>
-        </def>
-      </entry>
-      <head xml:id="Peat_EdinburghCFergusonmoine-d0e143">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e148">
-        <form>
-          <orth>an taraisgeir</orth>
-        </form>
-        <def>
-          <graphic url="EdinburghCFergusonmoineillust6.jpg" width="400px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e159">
-        <form>
-          <orth>an smeachan</orth>
-        </form>
-        <def>foot piece. [See taraisgeir.]</def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e168">
-        <form>
-          <orth>an iarunn</orth>
-          <pron>[See taraisgeir.]</pron>
-        </form>
-        <def>[See taraisgeir.]</def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e177">
-        <form>
-          <orth>an sgian</orth>
-          <pron>[See taraisgeir.]</pron>
-        </form>
-        <def>[See taraisgeir.]</def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e186">
-        <form>
-          <orth>sgiobadh-buain-na-mònach</orth>
-        </form>
-        <def>the peat cutting team.</def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e195">
-        <form>
-          <orth>am barr fhad ( barr’ad)</orth>
-          <pron>[pron.]</pron>
-        </form>
-        <def>[pron.] top ‘carcaill’ [q.v.]. </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e206">
-        <form>
-          <orth>an caoran</orth>
-        </form>
-        <def>the last layer of peat, usually not the recognised depth of a ‘fàd’. <graphic url="EdinburghCFergusonmoineillust7.jpg" width="400px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e217">
-        <form>
-          <orth>an corr-fhad ( corr’ad)</orth>
-          <pron>[pron.]</pron>
-        </form>
-        <def>[pron.] the outermost peat of a ‘carcaill’ [q.v.] cut thick (esp. in ‘mòine dhubh’ [q.v.] because it has already undergone a year of weathering and tends to crumble if cut thin). </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e228">
-        <form>
-          <orth>riasg</orth>
-        </form>
-        <def>raw peat.</def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e237">
-        <form>
-          <orth>mòine bhàn</orth>
-        </form>
-        <def>light, brown peat of the hilltops.</def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e246">
-        <form>
-          <orth>mòine dhubh</orth>
-        </form>
-        <def>heavy, bluey-black peat of the marshlands.</def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e255">
-        <form>
-          <orth>mòine chòsach</orth>
-        </form>
-        <def>a stringy type of peat which has bent many a ‘sgian’; ‘còsach’ was smoked by the bodach when he had the ‘carathas’ – the craving for tobacco: this out of ‘ine crùbaig’!</def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e264">
-        <form>
-          <orth>blàr mònach</orth>
-        </form>
-        <def>peat moor.</def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e273">
-        <form>
-          <orth>sliabh mònach</orth>
-        </form>
-        <def>peat moor. Air an t-shleibh-mhònach - out tending the peat.</def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e282">
-        <form>
-          <orth>‘poll gearraibh-ás-e’</orth>
-        </form>
-        <def>the last bank to be cut.</def>
-      </entry>
-      <head xml:id="Peat_EdinburghCFergusonmoine-d0e290">3. A’ tiormachadh na mònach</head>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e295">
-        <form>
-          <orth>a’ rùmhadh (the ù is nasal)</orth>
-        </form>
-        <def>first lifting into five or six peats; structures in which twites and other varieties of birds nest.</def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e304">
-        <form>
-          <orth>rùmhan</orth>
-        </form>
-        <def>
-          <graphic url="EdinburghCFergusonmoineillust8.jpg" width="200px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e315">
-        <form>
-          <orth>ag ath rùmhadh</orth>
-        </form>
-        <def>building into bigger structure of about ten or a dozen peats.</def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e324">
-        <form>
-          <orth>ath-rùmhan</orth>
-        </form>
-        <def>
-          <graphic url="EdinburghCFergusonmoineillust9.jpg" width="200px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e335">
-        <form>
-          <orth>a’ torradh</orth>
-        </form>
-        <def>next stage, four foot high.</def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e344">
-        <form>
-          <orth>tòrr</orth>
-        </form>
-        <def>
-          <graphic url="EdinburghCFergusonmoineillust10.jpg" width="200px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e355">
-        <form>
-          <orth>ag ath-thorradh</orth>
-        </form>
-        <def>same height of structure; just turning peats so that they are completely baked.</def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e364">
-        <form>
-          <orth>a’ cruachadh</orth>
-        </form>
-        <def>building into seven foot ‘beehive structures’; this will be brought home at the woman’s leisure during good days in Autumn, Winter and Spring; few do this nowadays. Their work on the
-          ‘sliabh’ halts at ‘tòrr’ [q.v.] at which stage the tractor is called into action. <graphic url="EdinburghCFergusonmoineillust11.jpg" width="200px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e375">
-        <form>
-          <orth>a’ tughadh</orth>
-        </form>
-        <def>Bhiodh mòine dhubh a bhithear a fàgail air a’ pholl (airson eallaich cleibhe aig toiseach Earraich) g’a tughadh le cip; ainneamh a tha sin a tachairt an diugh.</def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e384">
-        <form>
-          <orth>smùir</orth>
-        </form>
-        <def>dross. <graphic url="EdinburghCFergusonmoineillust12.jpg" width="200px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e395">
-        <form>
-          <orth>criomag mònach</orth>
-        </form>
-        <def>
-          <graphic url="EdinburghCFergusonmoineillust13.jpg" width="200px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e406">
-        <form>
-          <orth>caoran</orth>
-        </form>
-        <def>a piece of ‘fàd’ [q.v.]. <graphic url="EdinburghCFergusonmoineillust14.jpg" width="200px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e417">
-        <form>
-          <orth>fàd</orth>
-        </form>
-        <def>the peat as cut by the ‘taraisgeir’ [q.v.]. <graphic url="EdinburghCFergusonmoineillust15.jpg" width="200px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e428">
-        <form>
-          <orth>asgairt</orth>
-        </form>
-        <def>rubble left after main mass of peat has been carted away. This word is also used to describe inferior seed potato.</def>
-      </entry>
-      <head xml:id="Peat_EdinburghCFergusonmoine-d0e436">4. A’ cruachadh na mònach</head>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e441">
-        <form>
-          <orth>glutadh na cruaich</orth>
-        </form>
-        <def>the amorphous mass within. <graphic url="EdinburghCFergusonmoineillust16.jpg" width="300px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e452">
-        <form>
-          <orth>iomall na cruaiche</orth>
-        </form>
-        <def>the perimeter where the ‘stéidheadh’ [q.v.] is to be done. <graphic url="EdinburghCFergusonmoineillust16.jpg" width="300px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e463">
-        <form>
-          <orth>glutadh</orth>
-        </form>
-        <def>
-          <graphic url="EdinburghCFergusonmoineillust17.jpg" width="300px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e474">
-        <form>
-          <orth>an stéidheach</orth>
-        </form>
-        <def>the exterior wall. <graphic url="EdinburghCFergusonmoineillust17.jpg" width="300px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-idola197">
-        <form>
-          <orth>[note]</orth>
-        </form>
-        <def>(This incidentally is in our district the final operation, at the crofter’s house.)</def>
-      </entry>
-      <head xml:id="Peat_EdinburghCFergusonmoine-d0e493">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e498">
-        <form>
-          <orth>‘an eallach’</orth>
-        </form>
-        <def>‘Fo’n an eallach’ Taking home the peats with creel or (in the case of male) sacks. <graphic url="EdinburghCFergusonmoineillust18.jpg" width="300px"/>
-          <graphic url="EdinburghCFergusonmoineillust19.jpg" width="200px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e511">
-        <form>
-          <orth>na briagan</orth>
-        </form>
-        <def>
-          <graphic url="EdinburghCFergusonmoineillust18.jpg" width="400px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e522">
-        <form>
-          <orth>an ithris ( ee-reesh)</orth>
-          <pron>[pron.]</pron>
-        </form>
-        <def>[pron.] </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e533">
-        <form>
-          <orth>an dronag</orth>
-        </form>
-        <def>
-          <graphic url="EdinburghCFergusonmoineillust18.jpg" width="400px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e544">
-        <form>
-          <orth>osanan</orth>
-        </form>
-        <def>Not used in our area since about 1944. Had dual function (a) to keep skin fair (only men should be tanned!) and (b) to save the calves from the rough brush heather lying across parts of
-          the ‘frith rathad’. ‘Osan’ (from ‘hose’?) was specially knitted, or formed by cutting foot part from woollen stocking. <graphic url="EdinburghCFergusonmoineillust18.jpg" width="400px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e555">
-        <form>
-          <orth>casan luirmeachd</orth>
-        </form>
-        <def>
-          <graphic url="EdinburghCFergusonmoineillust18.jpg" width="400px"/>
-        </def>
-      </entry>
-      <head xml:id="Peat_EdinburghCFergusonmoine-d0e565">6. Seòrsachan mònach</head>
-      <head xml:id="Peat_EdinburghCFergusonmoine-d0e569">7. Faclan eile</head>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e574">
-        <form>
-          <orth>sorachan mònach</orth>
-        </form>
-        <def>a stack of peats for sitting upon. <graphic url="EdinburghCFergusonmoineillust20.jpg" width="100px"/>
-        </def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e585">
-        <form>
-          <orth>craos teine</orth>
-        </form>
-        <def>white hot fire (as with ‘mòine dhubh’ [q.v.]).</def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e594">
-        <form>
-          <orth>an tasgadh</orth>
-        </form>
-        <def>banking fire overnight; using ash to cover peats so as to slow down burning.</def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e603">
-        <form>
-          <orth>foiteag foiteag!</orth>
-        </form>
-        <def>exclamation to indicate cold.</def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e612">
-        <form>
-          <orth>iteag-iteag!</orth>
-        </form>
-        <def>exclamation to indicate heat (e.g. fingers in hot water, on embers, etc.)</def>
-      </entry>
-      <entry xml:id="Peat_EdinburghCFergusonmoine-d0e621">
-        <form>
-          <orth>ultach mònach</orth>
-        </form>
-        <def>as much of a load as arms can carry. <graphic url="EdinburghCFergusonmoineillust21.jpg" width="200px"/>
-        </def>
-      </entry>
+      <div>
+        <head xml:id="Peat_EdinburghCFergusonmoine-d0e28">1. Ag ullachadh na talmhainn airson mòine a bhuain</head>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e33">
+          <form>
+            <orth>poll</orth>
+          </form>
+          <def>peat bank.</def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e42">
+          <form>
+            <orth>grobhag</orth>
+          </form>
+          <def>a little wasting bank (often the cause of feuds since over a century perhaps the ‘grobhag’ has wandered into someone else’s staked territory).</def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e51">
+          <form>
+            <orth>ath-bhlar</orth>
+          </form>
+          <def>second or third generation peat bank. <graphic url="EdinburghCFergusonmoineillust1.jpg" width="400px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e62">
+          <form>
+            <orth>eilean mònach</orth>
+          </form>
+          <def>
+            <graphic url="EdinburghCFergusonmoineillust1.jpg" width="400px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e73">
+          <form>
+            <orth>an rùsgadh</orth>
+          </form>
+          <def>turfing (removing top layer of peat attached to sward).</def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e82">
+          <form>
+            <orth>spaid rùsgaidh</orth>
+          </form>
+          <def>an ordinary garden spade sharpened and its blade shortened usually by usage. <graphic url="EdinburghCFergusonmoineillust2.jpg" width="100px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e93">
+          <form>
+            <orth>a’ riachadh a’ phuill</orth>
+          </form>
+          <def>demarking the inner edge of the ‘ceap’.</def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e102">
+          <form>
+            <orth>dileadh a’ phuill</orth>
+          </form>
+          <def>the bank drain. After the ‘ceap’ [q.v.] has been turned over along the whole length of the poll, the ‘ceap’ is transferred to the ‘dileadh’. <graphic
+              url="EdinburghCFergusonmoineillust3.jpg" width="200px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e113">
+          <form>
+            <orth>ceap</orth>
+          </form>
+          <def>After the ‘ceap’ has been turned over along the whole length of the poll, the ‘ceap’ is transferred to the ‘dileadh [a’ phuill’] [q.v.]. <graphic
+              url="EdinburghCFergusonmoineillust4.jpg" width="400px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e124">
+          <form>
+            <orth>a’ glanadh a’ phuill</orth>
+          </form>
+          <def>removing small ridges off the ‘carcaill’ [q.v.].</def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e133">
+          <form>
+            <orth>a’ charcaill</orth>
+          </form>
+          <def>
+            <graphic url="EdinburghCFergusonmoineillust5.jpg" width="300px"/>
+          </def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Peat_EdinburghCFergusonmoine-d0e143">2. A’ buain na mònach; na h-innealan a chleachdar; ainmean nam fàdan, etc.</head>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e148">
+          <form>
+            <orth>an taraisgeir</orth>
+          </form>
+          <def>
+            <graphic url="EdinburghCFergusonmoineillust6.jpg" width="400px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e159">
+          <form>
+            <orth>an smeachan</orth>
+          </form>
+          <def>foot piece. [See taraisgeir.]</def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e168">
+          <form>
+            <orth>an iarunn</orth>
+          </form>
+          <def>[See taraisgeir.]</def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e177">
+          <form>
+            <orth>an sgian</orth>
+          </form>
+          <def>[See taraisgeir.]</def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e186">
+          <form>
+            <orth>sgiobadh-buain-na-mònach</orth>
+          </form>
+          <def>the peat cutting team.</def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e195">
+          <form>
+            <orth>am barr fhad</orth>
+            <pron>barr’ad [pron.]</pron>
+          </form>
+          <def>[pron.] top ‘carcaill’ [q.v.]. </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e206">
+          <form>
+            <orth>an caoran</orth>
+          </form>
+          <def>the last layer of peat, usually not the recognised depth of a ‘fàd’. <graphic url="EdinburghCFergusonmoineillust7.jpg" width="400px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e217">
+          <form>
+            <orth>an corr-fhad </orth>
+            <pron>( corr’ad) [pron.]</pron>
+          </form>
+          <def>the outermost peat of a ‘carcaill’ [q.v.] cut thick (esp. in ‘mòine dhubh’ [q.v.] because it has already undergone a year of weathering and tends to crumble if cut thin). </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e228">
+          <form>
+            <orth>riasg</orth>
+          </form>
+          <def>raw peat.</def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e237">
+          <form>
+            <orth>mòine bhàn</orth>
+          </form>
+          <def>light, brown peat of the hilltops.</def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e246">
+          <form>
+            <orth>mòine dhubh</orth>
+          </form>
+          <def>heavy, bluey-black peat of the marshlands.</def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e255">
+          <form>
+            <orth>mòine chòsach</orth>
+          </form>
+          <def>a stringy type of peat which has bent many a ‘sgian’; ‘còsach’ was smoked by the bodach when he had the ‘carathas’ – the craving for tobacco: this out of ‘ine crùbaig’!</def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e264">
+          <form>
+            <orth>blàr mònach</orth>
+          </form>
+          <def>peat moor.</def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e273">
+          <form>
+            <orth>sliabh mònach</orth>
+          </form>
+          <def>peat moor. Air an t-shleibh-mhònach - out tending the peat.</def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e282">
+          <form>
+            <orth>‘poll gearraibh-ás-e’</orth>
+          </form>
+          <def>the last bank to be cut.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Peat_EdinburghCFergusonmoine-d0e290">3. A’ tiormachadh na mònach</head>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e295">
+          <form>
+            <orth>a’ rùmhadh (the ù is nasal)</orth>
+          </form>
+          <def>first lifting into five or six peats; structures in which twites and other varieties of birds nest.</def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e304">
+          <form>
+            <orth>rùmhan</orth>
+          </form>
+          <def>
+            <graphic url="EdinburghCFergusonmoineillust8.jpg" width="200px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e315">
+          <form>
+            <orth>ag ath rùmhadh</orth>
+          </form>
+          <def>building into bigger structure of about ten or a dozen peats.</def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e324">
+          <form>
+            <orth>ath-rùmhan</orth>
+          </form>
+          <def>
+            <graphic url="EdinburghCFergusonmoineillust9.jpg" width="200px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e335">
+          <form>
+            <orth>a’ torradh</orth>
+          </form>
+          <def>next stage, four foot high.</def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e344">
+          <form>
+            <orth>tòrr</orth>
+          </form>
+          <def>
+            <graphic url="EdinburghCFergusonmoineillust10.jpg" width="200px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e355">
+          <form>
+            <orth>ag ath-thorradh</orth>
+          </form>
+          <def>same height of structure; just turning peats so that they are completely baked.</def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e364">
+          <form>
+            <orth>a’ cruachadh</orth>
+          </form>
+          <def>building into seven foot ‘beehive structures’; this will be brought home at the woman’s leisure during good days in Autumn, Winter and Spring; few do this nowadays. Their work on the
+            ‘sliabh’ halts at ‘tòrr’ [q.v.] at which stage the tractor is called into action. <graphic url="EdinburghCFergusonmoineillust11.jpg" width="200px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e375">
+          <form>
+            <orth>a’ tughadh</orth>
+          </form>
+          <def>Bhiodh mòine dhubh a bhithear a fàgail air a’ pholl (airson eallaich cleibhe aig toiseach Earraich) g’a tughadh le cip; ainneamh a tha sin a tachairt an diugh.</def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e384">
+          <form>
+            <orth>smùir</orth>
+          </form>
+          <def>dross. <graphic url="EdinburghCFergusonmoineillust12.jpg" width="200px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e395">
+          <form>
+            <orth>criomag mònach</orth>
+          </form>
+          <def>
+            <graphic url="EdinburghCFergusonmoineillust13.jpg" width="200px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e406">
+          <form>
+            <orth>caoran</orth>
+          </form>
+          <def>a piece of ‘fàd’ [q.v.]. <graphic url="EdinburghCFergusonmoineillust14.jpg" width="200px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e417">
+          <form>
+            <orth>fàd</orth>
+          </form>
+          <def>the peat as cut by the ‘taraisgeir’ [q.v.]. <graphic url="EdinburghCFergusonmoineillust15.jpg" width="200px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e428">
+          <form>
+            <orth>asgairt</orth>
+          </form>
+          <def>rubble left after main mass of peat has been carted away. This word is also used to describe inferior seed potato.</def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Peat_EdinburghCFergusonmoine-d0e436">4. A’ cruachadh na mònach</head>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e441">
+          <form>
+            <orth>glutadh na cruaich</orth>
+          </form>
+          <def>the amorphous mass within. <graphic url="EdinburghCFergusonmoineillust16.jpg" width="300px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e452">
+          <form>
+            <orth>iomall na cruaiche</orth>
+          </form>
+          <def>the perimeter where the ‘stéidheadh’ [q.v.] is to be done. <graphic url="EdinburghCFergusonmoineillust16.jpg" width="300px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e463">
+          <form>
+            <orth>glutadh</orth>
+          </form>
+          <def>
+            <graphic url="EdinburghCFergusonmoineillust17.jpg" width="300px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e474">
+          <form>
+            <orth>an stéidheach</orth>
+          </form>
+          <def>the exterior wall. <graphic url="EdinburghCFergusonmoineillust17.jpg" width="300px"/>
+          </def>
+        </entry>
+        <note xml:id="Peat_EdinburghCFergusonmoine-idola197">
+          (This incidentally is in our district the final operation, at the crofter’s house.)
+        </note>
+      </div>
+      <div>
+        <head xml:id="Peat_EdinburghCFergusonmoine-d0e493">5. A’ toirt na mònach dhachaigh; an cliabh, etc.</head>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e498">
+          <form>
+            <orth>‘an eallach’</orth>
+          </form>
+          <def>‘Fo’n an eallach’ Taking home the peats with creel or (in the case of male) sacks. <graphic url="EdinburghCFergusonmoineillust18.jpg" width="300px"/>
+            <graphic url="EdinburghCFergusonmoineillust19.jpg" width="200px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e511">
+          <form>
+            <orth>na briagan</orth>
+          </form>
+          <def>
+            <graphic url="EdinburghCFergusonmoineillust18.jpg" width="400px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e522">
+          <form>
+            <orth>an ithris </orth>
+            <pron>( ee-reesh) [pron.]</pron>
+          </form>
+          <def></def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e533">
+          <form>
+            <orth>an dronag</orth>
+          </form>
+          <def>
+            <graphic url="EdinburghCFergusonmoineillust18.jpg" width="400px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e544">
+          <form>
+            <orth>osanan</orth>
+          </form>
+          <def>Not used in our area since about 1944. Had dual function (a) to keep skin fair (only men should be tanned!) and (b) to save the calves from the rough brush heather lying across parts of
+            the ‘frith rathad’. ‘Osan’ (from ‘hose’?) was specially knitted, or formed by cutting foot part from woollen stocking. <graphic url="EdinburghCFergusonmoineillust18.jpg" width="400px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e555">
+          <form>
+            <orth>casan luirmeachd</orth>
+          </form>
+          <def>
+            <graphic url="EdinburghCFergusonmoineillust18.jpg" width="400px"/>
+          </def>
+        </entry>
+      </div>
+      <div>
+        <head xml:id="Peat_EdinburghCFergusonmoine-d0e565">6. Seòrsachan mònach</head>
+      </div>
+      <div>
+        <head xml:id="Peat_EdinburghCFergusonmoine-d0e569">7. Faclan eile</head>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e574">
+          <form>
+            <orth>sorachan mònach</orth>
+          </form>
+          <def>a stack of peats for sitting upon. <graphic url="EdinburghCFergusonmoineillust20.jpg" width="100px"/>
+          </def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e585">
+          <form>
+            <orth>craos teine</orth>
+          </form>
+          <def>white hot fire (as with ‘mòine dhubh’ [q.v.]).</def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e594">
+          <form>
+            <orth>an tasgadh</orth>
+          </form>
+          <def>banking fire overnight; using ash to cover peats so as to slow down burning.</def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e603">
+          <form>
+            <orth>foiteag foiteag!</orth>
+          </form>
+          <def>exclamation to indicate cold.</def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e612">
+          <form>
+            <orth>iteag-iteag!</orth>
+          </form>
+          <def>exclamation to indicate heat (e.g. fingers in hot water, on embers, etc.)</def>
+        </entry>
+        <entry xml:id="Peat_EdinburghCFergusonmoine-d0e621">
+          <form>
+            <orth>ultach mònach</orth>
+          </form>
+          <def>as much of a load as arms can carry. <graphic url="EdinburghCFergusonmoineillust21.jpg" width="200px"/>
+          </def>
+        </entry>
+      </div>
     </body>
   </text>
 </TEI>

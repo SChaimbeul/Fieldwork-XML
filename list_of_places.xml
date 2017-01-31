@@ -310,6 +310,9 @@
               <placeName xml:lang="en">Bruernish</placeName>
               <placeName>Brudharnais</placeName>
             </place>
+            <place xml:id="Barra_Earsary">
+              <placeName xml:lang="en">Earsary</placeName>
+            </place>
           </place>
         </place>
         
@@ -457,8 +460,21 @@
               </place>
             </place>
           </place>
+          <place xml:id="Inverness-shire_Petty">
+            <placeName xml:lang="en">Petty</placeName>
+            <place xml:id="Inverness-shire_Petty_Easterton">
+              <placeName xml:lang="en">Easterton</placeName>
+            </place>
+          </place>
         </place>
         
+        <place xml:id="Lochaber">
+          <placeName xml:lang="en">Lochaber</placeName>
+          <place xml:id="Lochaber_Brae">
+            <placeName xml:lang="en">Brae Lochaber</placeName>
+            <placeName>Bràigh-Lochabar</placeName>
+          </place>
+        </place>
         
         <place xml:id="Sutherland">
           <placeName xml:lang="en">Sutherland</placeName>

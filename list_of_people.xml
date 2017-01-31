@@ -1377,6 +1377,51 @@
             <location corresp="Ross-shire_Assynt_Stoer"/>
           </birth>
         </person>
+        <person xml:id="Michael_MacNeil_Barra_Earsary">
+          <persName xml:lang="en">
+            <forename>Michael</forename>
+            <surname>MacNeil</surname>
+          </persName>
+        </person>
+        <person xml:id="Alexander_J_Johnston_Inverness-shire_Petty_Easterton">
+          <persName xml:lang="en">
+            <forename>Alexander</forename>
+            <forename>J.</forename>
+            <surname>Johnston</surname>
+          </persName>
+          <age>90</age>
+          <birth>
+            <location corresp="Inverness-shire_Petty_Easterton"/>
+          </birth>
+        </person>
+        <person xml:id="Calum_Ferguson_Edinburgh">
+          <persName xml:lang="en">
+            <forename>Calum</forename>
+            <surname>Ferguson</surname>
+          </persName>
+          <age>37</age>
+          <birth>
+            <location corresp="Lewis_Point"/>
+          </birth>
+        </person>
+        <person xml:id="Sarah_Clementina_Urquhart_Edinburgh">
+          <persName xml:lang="en">
+            <forename>Sarah</forename>
+            <forename>Clementina</forename>
+            <surname>Urquhart</surname>
+          </persName>
+          <age>80+</age>
+          <birth>
+            <location corresp="Lochaber_Brae"/>
+          </birth>
+        </person>
+        <person xml:id="Rev_W_Matheson_Edinburgh">
+          <persName xml:lang="en">
+            <roleName>Rev.</roleName>
+            <forename>W.</forename>
+            <surname>Matheson</surname>
+          </persName>
+        </person>
 
         <!-- Fieldworkers -->
         <person xml:id="A_J_Smith">
